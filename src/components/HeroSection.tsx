@@ -132,42 +132,6 @@ function GeometricShape({
   )
 }
 
-function ScrambleText({ text, className }: { text: string; className?: string }) {
-  const chars = '!<>-_\\/[]{}—=+*^?#________'
-  const [displayText, setDisplayText] = useState('')
-  const intervalRef = useRef<ReturnType<typeof setInterval>>(undefined)
-
-  useEffect(() => {
-    let iteration = 0
-    const maxIterations = text.length * 2
-
-    intervalRef.current = setInterval(() => {
-      setDisplayText(
-        text
-          .split('')
-          .map((char, i) => {
-            if (i < iteration / 2) return char
-            return chars[Math.floor(Math.random() * chars.length)]
-          })
-          .join('')
-      )
-      iteration++
-      if (iteration >= maxIterations) {
-        clearInterval(intervalRef.current)
-        setDisplayText(text)
-      }
-    }, 40)
-
-    return () => clearInterval(intervalRef.current)
-  }, [text])
-
-  return (
-    <span className={cn('font-mono tracking-tight', className)}>
-      {displayText}
-    </span>
-  )
-}
-
 const trustItems = [
   { key: 'privacy', icon: Shield },
   { key: 'instant', icon: Zap },
@@ -280,11 +244,14 @@ export function HeroSection() {
         </motion.h1>
 
         {/* Subtitle */}
-        <motion.div variants={itemVariants} className="mt-6 max-w-2xl">
-          <p className="text-lg text-gray-400 md:text-xl">
-            <ScrambleText text={t('subtitle') || 'Calculate your EOSB, Jawazat fines, and more with real-time accuracy'} />
-          </p>
-        </motion.div>
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.4 }}
+          className="mt-6 max-w-2xl text-lg text-gray-400 md:text-xl"
+        >
+          {t('subtitle') || 'Calculate your EOSB, Jawazat fines, and more with real-time accuracy'}
+        </motion.p>
 
         {/* CTA Buttons */}
         <motion.div

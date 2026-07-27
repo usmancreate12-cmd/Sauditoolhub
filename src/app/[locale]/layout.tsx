@@ -5,6 +5,7 @@ import { AnimatedBackground } from '@/components/AnimatedBackground'
 import { ParticleBackground } from '@/components/ParticleBackground'
 import { CustomCursor } from '@/components/CustomCursor'
 import { ScrollProgress } from '@/components/ScrollProgress'
+import { cn } from '@/lib/utils'
 
 export function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'ar' }, { locale: 'ur' }, { locale: 'tl' }, { locale: 'bn' }]
@@ -29,7 +30,11 @@ export default async function LocaleLayout({
       <ScrollProgress />
       <div
         dir={isRtl ? 'rtl' : 'ltr'}
-        className="relative z-10 flex min-h-screen flex-col"
+        className={cn(
+          'relative z-10 flex min-h-screen flex-col',
+          locale === 'ar' && 'font-arabic',
+          locale === 'ur' && 'font-urdu'
+        )}
       >
         <Navbar locale={locale} />
         <main className="flex-1">{children}</main>
