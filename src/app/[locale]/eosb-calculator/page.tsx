@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import { EOSBCalculator } from '@/components/EOSBCalculator'
+import { ToolSeoContent } from '@/components/ToolSeoContent'
 import {
   SoftwareAppJsonLd,
   BreadcrumbJsonLd,
@@ -96,8 +97,9 @@ export default async function EOSBCalculatorPage({ params }: Props) {
           },
         ]}
       />
-      <div className="mx-auto mt-4 max-w-4xl px-4">
-        <p className="text-right text-xs text-desert-text-dim">
+      <ToolSeoContent namespace="EOSBCalculator" locale={locale} />
+      <div className="mx-auto mt-2 max-w-4xl px-4">
+        <p className="text-right text-xs text-gray-500">
           Last updated: July 2026 &middot; Based on Saudi Labor Law Articles 84 &amp; 85
         </p>
       </div>

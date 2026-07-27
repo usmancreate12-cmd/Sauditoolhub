@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import { FamilyVisaOptimizer } from '@/components/FamilyVisaOptimizer'
+import { ToolSeoContent } from '@/components/ToolSeoContent'
 import { SoftwareAppJsonLd, BreadcrumbJsonLd, FAQJsonLd } from '@/components/JsonLd'
 
 type Props = { params: Promise<{ locale: string }> }
@@ -89,8 +90,9 @@ export default async function FamilyVisaPage({ params }: Props) {
           },
         ]}
       />
-      <div className="mx-auto mt-4 max-w-4xl px-4">
-        <p className="text-right text-xs text-gray-600">
+      <ToolSeoContent namespace="FamilyVisaCalculator" locale={locale} />
+      <div className="mx-auto mt-2 max-w-4xl px-4">
+        <p className="text-right text-xs text-gray-500">
           {t('lastUpdated')} &middot; {t('legalNotice')}
         </p>
       </div>

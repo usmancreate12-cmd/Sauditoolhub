@@ -71,6 +71,60 @@
     "errors": {
       "dateRequired": "Mangyaring maglagay ng wastong petsa",
       "generic": "May maling nangyari. Pakisuri ang iyong mga input."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Jawazat Fine Calculator",
+        "step1Title": "Step 1: Piliin ang Iyong Overstay Type",
+        "step1Desc": "Piliin kung anong uri ng overstay: expired Iqama (residency), expired Exit/Re-Entry visa, o expired Visit visa. Iba-iba ang fine calculation para sa bawat type under Saudi Jawazat regulations.",
+        "step2Title": "Step 2: Ilagay ang Expiry Date",
+        "step2Desc": "Ilagay ang date kung kailan nag-expire ang iyong Iqama o visa. Kailangan mo ring ilagay ang calculation date (usually ngayong araw) para mabilang ng tool ang exact number ng overstay days.",
+        "step3Title": "Step 3: Ilagay ang Previous Violations",
+        "step3Desc": "Kung first overstay mo ito, maglagay ng 0. Para sa second violation, maglagay ng 1. Para sa third o higit pa, maglagay ng 2. Tataas ang penalty amount sa bawat repeated violation — mula SAR 15,000 hanggang SAR 50,000.",
+        "step4Title": "Step 4: Pumili ng Additional Options",
+        "step4Desc": "Check ang box kung may uncanceled exit/re-entry visa ka (additional SAR 1,000 fine). Kung nagbayad ka na ng part ng fine, ilagay ang amount na binayad mo para makita ang remaining balance.",
+        "step5Title": "Step 5: I-compute ang Iyong Fine",
+        "step5Desc": "I-click ang 'Calculate Fine' para makita ang total overstay fine mo, daily breakdown, at risk assessment. Ipapakita rin ng tool ang next steps based sa severity ng fine mo."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Iyong Resulta ng Multa",
+        "content": "Ang Jawazat (Saudi Passport Department) ay nagpapataw ng fine para sa overstaying ng iyong Iqama o visa. Para sa Iqama overstay, ang first violation ay flat SAR 15,000 fine. Ang second violation ay SAR 30,000, at third o subsequent violations ay SAR 50,000 bawat isa, naka-cap sa SAR 100,000 per violation.\n\nPara sa Exit/Re-Entry visa at Visit visa overstays, ang fine ay SAR 100 per day ng overstay, naka-cap sa SAR 50,000 total. Kung may uncanceled Exit/Re-Entry visa ka na expired nang higit sa 90 days, additional SAR 1,000 fine ang applicable. Kinakalkula ang total fine sa pamamagitan ng pag-add ng daily fines, flat penalties, at anumang unpaid balance pagkatapos ng partial payment.",
+        "exampleTitle": "Halimbawa",
+        "example": "Kung nag-expire ang iyong Iqama noong January 1, 2026, at ngayon ay March 31, 2026 (90 days overstay), na walang previous violations:\n\nFlat penalty (first violation): SAR 15,000\nTotal fine: SAR 15,000\n\nNgayon, kung nag-expire ang iyong Exit/Re-Entry visa noong January 1, 2026, at ngayon ay April 15, 2026 (105 days):\n\nDaily fine: 105 x SAR 100 = SAR 10,500\nUncanceled visa fine (90+ days): SAR 1,000\nTotal fine: SAR 11,500\n\nKung nag-expire ang iyong visit visa sa parehong panahon:\n\nDaily fine: 105 x SAR 100 = SAR 10,500\nNaka-cap sa: SAR 50,000 (hindi naabot)\nTotal fine: SAR 10,500"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Multa ng Jawazat",
+        "q1": "Magkano ang fine para sa Iqama overstay sa Saudi Arabia?",
+        "a1": "Ang first Iqama overstay violation ay SAR 15,000. Second violation ay SAR 30,000. Third at subsequent violations ay SAR 50,000 bawat isa, naka-cap sa SAR 100,000 per violation. Walang grace period — magsisimula ang fines mula sa araw pagkatapos ng expiry.",
+        "q2": "Magkano ang overstay fine per day para sa Exit/Re-Entry visa?",
+        "a2": "Ang Exit/Re-Entry visa overstay fine ay SAR 100 per day mula sa date ng expiry. Walang grace period. Additional SAR 1,000 fine kung hindi na-cancel ang visa sa loob ng 90 days pagkatapos ng expiry.",
+        "q3": "Pwede ba akong umalis ng Saudi Arabia na may overstay fine?",
+        "a3": "Hindi. Dapat mong bayaran nang buo ang lahat ng overstay fines bago ka i-stamp ng immigration officer sa airport o border. Ang mga unpaid fines ay haharang sa iyong pag-alis.",
+        "q4": "Ano ang mangyayari kung mag-overstay ako sa visit visa ko sa Saudi Arabia?",
+        "a4": "Ang visit visa overstay ay SAR 100 per day, naka-cap sa SAR 50,000. Maaaring kabilang sa additional penalties ang imprisonment hanggang 6 months, deportation, at re-entry ban hanggang 10 years. Bayaran agad ang fines para maiwasan ang escalation.",
+        "q5": "May grace period ba pagkatapos mag-expire ang aking Iqama?",
+        "a5": "Wala. Walang official grace period para sa Iqama o visa expiry under Saudi Jawazat regulations. Nagsisimulang ma-accumulate ang fines mula sa araw pagkatapos ng expiry date nang walang exception.",
+        "q6": "Paano ko ma-check ang aking Jawazat fine online?",
+        "a6": "Maaari mong i-check ang iyong Jawazat fines sa pamamagitan ng Absher platform (absher.sa), Ministry of Interior's 'My Services' portal, o sa pamamagitan ng pagbisita sa Jawazat office nang personal. Ang aming calculator ay nagbibigay ng estimate bago mo i-check ang official system.",
+        "q7": "Pwede ba akong makakuha ng discount sa aking overstay fine para sa early payment?",
+        "a7": "Hindi. Ang Saudi Jawazat ay hindi nag-aalok ng discounts para sa early payment ng overstay fines. Ang full amount ay dapat bayaran kahit kailan ka magbayad. Gayunpaman, ang maagang pagbabayad ay pumipigil sa additional daily fines na ma-accumulate."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Calculator para sa Visa at Iqama Management",
+        "tool1Name": "EOSB Calculator",
+        "tool1Desc": "Kalkulahin ang iyong End of Service Benefit under Saudi Labor Law — libre, instant, at pribado. Importante ito kapag aalis ng trabaho sa Saudi Arabia.",
+        "tool1Href": "/eosb-calculator",
+        "tool2Name": "Family Visa & Dependent Fee Optimizer",
+        "tool2Desc": "Planuhin ang iyong family visa costs kasama ang dependent fees, Iqama renewals, at exit/re-entry visas para sa iyong asawa at mga anak.",
+        "tool2Href": "/family-visa-optimizer",
+        "tool3Name": "Visa Checklist Tool",
+        "tool3Desc": "Kumpletong checklist ng mga dokumento at steps na kailangan para sa Saudi visa applications, Iqama renewals, at family sponsorship.",
+        "tool3Href": "/visa-checklist",
+        "tool4Name": "Final Settlement Calculator",
+        "tool4Desc": "Kalkulahin ang iyong full final settlement kasama ang EOSB, unused vacation days, at notice period pay.",
+        "tool4Href": "/settlement-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Jawazat regulations at published fine structures. Maaaring mag-iba ang actual fines depende sa iyong specific situation, nationality, at official assessment ng Saudi Ministry of Interior at Jawazat. Inirerekomenda naming i-verify sa Absher o bumisita sa Jawazat office para sa exact amount. Ito ay hindi legal na payo."
     }
   },
   "EOSBCalculator": {
@@ -124,7 +178,61 @@
       "title": "Walang Entitlement sa EOSB",
       "message": "Sa ilalim ng Saudi Labor Law Article 85, ang mga empleyadong nagbitiw na may mas mababa sa 2 taon ng serbisyo ay hindi entitled sa End of Service Benefits."
     },
-    "fixedTermNote": "Dahil ikaw ay may fixed-term contract, ang iyong employer ay maaaring magbawas ng hanggang 50% para sa maagang pagbibitiw."
+    "fixedTermNote": "Dahil ikaw ay may fixed-term contract, ang iyong employer ay maaaring magbawas ng hanggang 50% para sa maagang pagbibitiw.",
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang EOSB Calculator",
+        "step1Title": "Step 1: Ilagay ang Iyong Basic Monthly Salary",
+        "step1Desc": "I-type ang iyong basic monthly salary sa SAR. Ito ang iyong base pay na walang housing, transportation, o iba pang allowances. Karamihan sa mga employer ay nagko-compute ng EOSB sa basic salary lamang.",
+        "step2Title": "Step 2: Ilagay ang Iyong Service Period",
+        "step2Desc": "Ilagay ang total years at months ng service mo sa iyong current employer. Isama ang lahat ng continuous service — kahit ang partial years ay count proportionally under Saudi Labor Law.",
+        "step3Title": "Step 3: Piliin ang Iyong Reason for Leaving",
+        "step3Desc": "Piliin kung ikaw ay nagre-resign, tina-terminate, o nag-e-end ang iyong contract. Malaki ang epekto ng reason mo sa final EOSB amount under Article 85.",
+        "step4Title": "Step 4: Piliin ang Iyong Contract Type",
+        "step4Desc": "Piliin ang fixed-term (limited) o indefinite (unlimited) contract. Ang fixed-term contracts ay maaaring may ibang rules kung magre-resign ka bago matapos ang contract.",
+        "step5Title": "Step 5: I-compute ang Iyong EOSB",
+        "step5Desc": "I-click ang 'Calculate EOSB' para makita ang estimated end of service benefit mo. Ipinapakita ng result ang full breakdown: first 5 years, subsequent years, at anumang resignation reduction."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Iyong Resulta ng EOSB",
+        "content": "Ang End of Service Benefit (EOSB) ay kinakalkula gamit ang formula na nakasaad sa Saudi Labor Law Article 84. Para sa first 5 years ng service, entitled ka sa half month's basic salary para sa bawat taon. Para sa bawat taon pagkatapos ng first 5, entitled ka sa one full month's basic salary. Ang partial years ay kinakalkula nang proportionally sa pamamagitan ng pag-divide ng annual benefit sa 12 at pag-multiply sa bilang ng months na nagtrabaho.\n\nKung ikaw ay nag-resign, ang Article 85 ay nag-a-apply ng reduction: less than 2 years = zero EOSB; between 2 and 5 years = one-third ng full amount; between 5 and 10 years = two-thirds; more than 10 years = full amount. Ang termination at contract end ay typically nagbibigay ng full EOSB nang walang reduction.",
+        "exampleTitle": "Halimbawa",
+        "example": "Kung ang basic salary mo ay 10,000 SAR at nagtrabaho ka ng 7 taon at 6 na buwan, nag-resign pagkatapos ng 5 taon.\n\nFirst 5 years: 5 x 5,000 SAR (half-month) = 25,000 SAR\nYears 6-7: 2 x 10,000 SAR (full month) = 20,000 SAR\nPartial 6 months: 0.5 x 10,000 SAR = 5,000 SAR\nTotal EOSB (Article 84): 50,000 SAR\nResignation reduction (5-10 years): 2/3 applied\nFinal EOSB: 50,000 x 2/3 = 33,333 SAR\n\nIbig sabihin, makakatanggap ka ng humigit-kumulang 33,333 SAR bilang iyong end of service benefit."
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa EOSB",
+        "q1": "Paano kinakalkula ang EOSB sa Saudi Arabia?",
+        "a1": "Ang EOSB ay kinakalkula per Saudi Labor Law Article 84: half month's basic salary para sa bawat isa sa first 5 years, at one full month's basic salary para sa bawat subsequent year. Halimbawa, sa 12,000 SAR basic salary at 8 years: first 5 years = 5 x 6,000 = 30,000 SAR, next 3 years = 3 x 12,000 = 36,000 SAR, total = 66,000 SAR bago ang adjustments.",
+        "q2": "Makakatanggap ba ako ng end of service benefits kung mag-resign ako bago ang 2 taon?",
+        "a2": "Hindi. Sa ilalim ng Article 85 ng Saudi Labor Law, ang mga empleyadong nagre-resign na may less than 2 years ng continuous service ay hindi entitled sa anumang End of Service Benefits. Naa-apply ang rule na ito kahit ano pa ang reason ng resignation.",
+        "q3": "Ang EOSB ba ay kinakalkula sa basic salary o total salary kasama ang allowances?",
+        "a3": "Ang EOSB ay generally kinakalkula sa iyong basic salary lamang. Ang housing allowance, transportation allowance, commissions, at iba pang benefits ay typically hindi kasama maliban kung ang iyong employment contract ay specifically nagsasabi na dapat silang isama. Check ang iyong contract para sa exact terms.",
+        "q4": "Magkano ang makukuha ko kung mag-resign ako pagkatapos ng 3 taon sa Saudi Arabia?",
+        "a4": "Kung mag-resign ka between 2 and 5 years ng service, makakatanggap ka ng one-third (1/3) ng full EOSB amount. Halimbawa, sa 10,000 SAR basic salary at 3 years ng service: full EOSB = 3 x 5,000 = 15,000 SAR. Dahil nag-resign ka between 2-5 years, makakakuha ka ng 15,000 x 1/3 = 5,000 SAR.",
+        "q5": "Pwede bang mag-deduct ang employer ko sa aking EOSB para sa maagang pag-resign sa fixed-term contract?",
+        "a5": "Oo. Kung may fixed-term contract ka at nag-resign ka bago ito matapos, ang iyong employer ay pwedeng mag-deduct ng hanggang 50% ng iyong EOSB para masaklaw ang damages. Ang deduction na ito ay hiwalay sa Article 85 reduction para sa resignation.",
+        "q6": "Paano kinakalkula ang EOSB para sa partial years ng service?",
+        "a6": "Ang partial years ay kinakalkula nang proportionally. Kung nagtrabaho ka ng 6 months na dagdag sa full year, makakatanggap ka ng half ng taong iyon. Halimbawa, kung entitled ka sa isang full month's salary (10,000 SAR) para sa isang taon, ang 6 months ay magbibigay sa iyo ng 10,000 x 6/12 = 5,000 SAR.",
+        "q7": "Ano ang pagkakaiba ng EOSB para sa termination vs resignation?",
+        "a7": "Kung ang employer mo ang nag-terminate ng contract mo, entitled ka sa full EOSB under Article 84 na walang reduction. Kung ikaw ang nag-resign, ang Article 85 ay nag-a-apply ng reduction: 0% under 2 years, 1/3 between 2-5 years, 2/3 between 5-10 years, at 100% pagkatapos ng 10 years."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Calculator para sa Saudi Expatriates",
+        "tool1Name": "Jawazat Overstay Fine Calculator",
+        "tool1Desc": "Kalkulahin ang fines para sa expired Iqama, exit/re-entry visa, o visit visa overstays batay sa Saudi Jawazat regulations.",
+        "tool1Href": "/jawazat-fine-calculator",
+        "tool2Name": "Family Visa & Dependent Fee Optimizer",
+        "tool2Desc": "Planuhin ang iyong family visa costs kasama ang dependent fees, iqama renewals, at exit/re-entry visas para sa iyong asawa at mga anak.",
+        "tool2Href": "/family-visa-optimizer",
+        "tool3Name": "Final Settlement Calculator",
+        "tool3Desc": "Kalkulahin ang iyong full final settlement kasama ang EOSB, unused vacation days, at notice period pay kapag aalis ng trabaho sa Saudi Arabia.",
+        "tool3Href": "/settlement-calculator",
+        "tool4Name": "Nitaqat Simulator",
+        "tool4Desc": "Alamin kung paano nakakaapekto ang Nitaqat Saudization ratios sa iyong company classification at visa processing capabilities.",
+        "tool4Href": "/nitaqat-simulator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Labor Law Articles 84 at 85. Maaaring mag-iba ang final EOSB amounts depende sa iyong specific employment contract, company policies, at official Ministry of Human Resources and Social Development assessments. Inirerekomenda naming kumonsulta sa legal professional para sa accurate advice. Ang HsabKSA ay hindi responsable para sa anumang discrepancies sa pagitan ng estimated at actual amounts."
+    }
   },
   "FamilyVisaCalculator": {
     "toolName": "Family Visa & Dependent Fee Optimizer",
@@ -216,6 +324,60 @@
     "errors": {
       "dateRequired": "Mangyaring maglagay ng wastong petsa ng pag-expire",
       "generic": "May naganap na error. Pakisuri ang iyong mga input."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Family Visa Fee Optimizer",
+        "step1Title": "Step 1: Idagdag ang Iyong Family Members",
+        "step1Desc": "Ilagay ang bilang ng mga asawa at anak na plano mong i-sponsor. Bawat dependent ay may monthly fee na SAR 400 at Iqama fees para sa new issuance o renewal.",
+        "step2Title": "Step 2: Piliin ang Iqama Status para sa Bawat Group",
+        "step2Desc": "Piliin kung ang iyong asawa at mga anak ay nangangailangan ng New Iqama, Renewal, o may Active Iqama na. Ang new at renewal Iqama fees ay SAR 2,000 per person.",
+        "step3Title": "Step 3: Piliin ang Iyong Exit/Re-Entry Visa Type",
+        "step3Desc": "Pumili ng single exit (best para sa 1-2 trips per year) o multiple exit/re-entry (best para sa 3+ trips). Ang 6-month multiple visa sa SAR 3,000 ay mas mura kaysa tatlong single visas sa SAR 1,800.",
+        "step4Title": "Step 4: Itakda ang Iyong Planning Period",
+        "step4Desc": "Piliin ang iyong planning period: 6 months, 1 year, o 2 years. Ang mas mahabang period ay nagbibigay ng savings pero maaaring mangailangan ng Iqama renewal kung lalampas ito sa iyong current Iqama expiry.",
+        "step5Title": "Step 5: I-compute at I-optimize",
+        "step5Desc": "I-click ang 'Calculate Fees' para makita ang total family visa costs mo, monthly budget, at cost-saving tips. Ipinapakita ng breakdown ang lahat ng fees kasama ang dependent fees, Iqama costs, exit visas, at work permits."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Iyong Resulta ng Family Visa Fee",
+        "content": "Kinakalkula ng tool na ito ang lahat ng costs na kaugnay ng pag-sponsor ng family members sa Saudi Arabia. Ang dependent fee ay SAR 400 per month per dependent (asawa at bawat anak), na sinisingil ng Ministry of Interior. Ang Iqama fees ay SAR 2,000 per person para sa new issuance o renewal. Ang Exit/Re-Entry visa fees ay mula SAR 200 (single, 1 month) hanggang SAR 5,000 (multiple, 1 year). Ang work permit fees ay SAR 960 per year per dependent.\n\nAng monthly budget mo ay kinakalkula sa pamamagitan ng pag-divide ng total annual fee sa 12 months, na tumutulong sa iyo na mag-ipon nang paunti-unti sa halip na humarap sa lump-sum payment.",
+        "exampleTitle": "Halimbawa",
+        "example": "Kung magse-sponsor ka ng 1 asawa at 2 anak sa loob ng 1 taon. Lahat ay nangangailangan ng bagong Iqama. Magpa-plano ka ng 2 single exit trips:\n\nMonthly dependent fees: 3 dependents x SAR 400 x 12 months = SAR 14,400\nNew Iqama fees: 3 x SAR 2,000 = SAR 6,000\nExit/Re-Entry visas: 2 trips x 3 dependents x SAR 200 each = SAR 1,200\nWork permit fees: 3 x SAR 960 = SAR 2,880\n\nTotal para sa 1 taon: SAR 24,480\nMonthly budget: SAR 2,040\n\nTip: Sa 3 trips per year, ang 6-month multiple visa (SAR 3,000/person) ay nakatitipid ng SAR 600 per person kumpara sa single visas."
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Family Visa Fees",
+        "q1": "Magkano ang dependent fee sa Saudi Arabia?",
+        "a1": "Ang dependent fee ay SAR 400 per month per dependent (asawa at bawat anak). Ito ay sinisingil ng Saudi Ministry of Interior para sa pag-sponsor ng family members. Ang fees ay typically binabayaran nang annual in advance.",
+        "q2": "Pareho ba ang Iqama fee ng asawa at mga anak?",
+        "a2": "Oo, pareho ang wife at children Iqama fees na SAR 2,000 bawat isa para sa new issuance o renewal. Ito ay one-time fee per person per renewal period.",
+        "q3": "Aling Exit/Re-Entry visa ang mas mura para sa pamilya?",
+        "a3": "Para sa mga pamilyang nagbi-biyahe ng 3+ times per year, ang 6-month multiple exit visa (SAR 3,000 per person) ay mas mura kaysa sa pagbili ng single visas (SAR 600 each). Para sa 1-2 trips, mas cost-effective ang single visas.",
+        "q4": "Pwede ba akong magbayad ng dependent fees monthly sa halip na annual?",
+        "a4": "Ang dependent fees na SAR 400 per month per dependent ay typically kinokolekta nang annual in advance ng Ministry of Interior. Ang aming monthly budget recommendation ay tumutulong sa iyo na mag-ipon nang paunti-unti para sa annual payment.",
+        "q5": "Ano ang mangyayari kung hindi ako magbayad ng aking dependent fees on time?",
+        "a5": "Ang hindi nabayarang dependent fees ay nagreresulta sa fines, visa processing delays, at potential Iqama suspension. Ang paulit-ulit na hindi pagbayad ay maaaring humantong sa deportation at re-entry bans. Mag-set ng monthly reminders para maiwasan ang missed payments.",
+        "q6": "Kailangan ko ba ng work permit para sa aking asawa sa Saudi Arabia?",
+        "a6": "Ang work permit fee (SAR 960 per year per dependent) ay kinakailangan para sa bawat sponsored family member kung gusto nilang magtrabaho. Kung ang iyong asawa o mga anak ay hindi nagpa-planong magtrabaho, ang fee na ito ay maaaring hindi kailangan. Mag-check sa iyong sponsor company.",
+        "q7": "Paano ko mababawasan ang aking family visa costs sa Saudi Arabia?",
+        "a7": "Para makatipid: gumamit ng multiple exit visas para sa 3+ trips per year, i-renew ang Iqamas sa panahon ng grace periods, mag-apply para sa long-term family residence permits kung eligible, at i-verify kung ang iyong company ay nag-aalok ng dependent sponsorship bilang benefit."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Calculator para sa Family at Visa Planning",
+        "tool1Name": "Jawazat Overstay Fine Calculator",
+        "tool1Desc": "I-check ang fines para sa expired Iqama o visas para maiwasan ang additional penalties na maaaring makaapekto sa iyong family sponsorship status.",
+        "tool1Href": "/jawazat-fine-calculator",
+        "tool2Name": "EOSB Calculator",
+        "tool2Desc": "Kalkulahin ang iyong end of service benefit — importante para sa pagpaplano ng family finances mo kapag nagpapalit ng trabaho sa Saudi Arabia.",
+        "tool2Href": "/eosb-calculator",
+        "tool3Name": "Visa Checklist Tool",
+        "tool3Desc": "Kumpletong document checklist para sa family visa sponsorship, Iqama renewal, at dependent applications.",
+        "tool3Href": "/visa-checklist",
+        "tool4Name": "Final Settlement Calculator",
+        "tool4Desc": "Kalkulahin ang iyong full final settlement kasama ang EOSB para makatulong sa pagpaplano ng family budget kapag aalis ng Saudi Arabia.",
+        "tool4Href": "/settlement-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa official Saudi fee structures na inilathala ng Ministry of Interior at Jawazat. Maaaring mag-iba ang actual fees depende sa iyong specific situation, nationality, at policy changes. Inirerekomenda naming i-verify sa Absher o sa iyong sponsor company para sa exact amounts. Ito ay hindi legal o financial na payo."
     }
   },
   "Hero": {

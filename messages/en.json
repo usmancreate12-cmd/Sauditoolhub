@@ -71,6 +71,60 @@
     "errors": {
       "dateRequired": "Please enter a valid date",
       "generic": "Something went wrong. Please check your inputs."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Use the Jawazat Fine Calculator",
+        "step1Title": "Step 1: Select Your Overstay Type",
+        "step1Desc": "Choose the type of overstay: expired Iqama (residency), expired Exit/Re-Entry visa, or expired Visit visa. Each type has a different fine calculation method under Saudi Jawazat regulations.",
+        "step2Title": "Step 2: Enter the Expiry Date",
+        "step2Desc": "Enter the date your Iqama or visa expired. You also need to enter the calculation date (usually today) so the tool can count the exact number of overstay days.",
+        "step3Title": "Step 3: Enter Previous Violations",
+        "step3Desc": "If this is your first overstay, enter 0. For a second violation, enter 1. For third or more, enter 2. The penalty amount increases with each repeated violation — from SAR 15,000 up to SAR 50,000.",
+        "step4Title": "Step 4: Select Additional Options",
+        "step4Desc": "Check the box if you have an uncanceled exit/re-entry visa (additional SAR 1,000 fine). If you already paid part of the fine, enter the amount paid to see your remaining balance.",
+        "step5Title": "Step 5: Calculate Your Fine",
+        "step5Desc": "Click 'Calculate Fine' to see your total overstay fine, daily breakdown, and risk assessment. The tool also shows next steps based on your fine severity."
+      },
+      "understandingResults": {
+        "title": "Understanding Your Jawazat Fine Results",
+        "content": "The Jawazat (Saudi Passport Department) imposes fines for overstaying your Iqama or visa. For Iqama overstay, the first violation is a flat SAR 15,000 fine. The second violation is SAR 30,000, and third or subsequent violations are SAR 50,000 each, capped at SAR 100,000 per violation.\n\nFor Exit/Re-Entry visa and Visit visa overstays, the fine is SAR 100 per day of overstay, capped at SAR 50,000 total. If you have an uncanceled Exit/Re-Entry visa that expired more than 90 days ago, an additional SAR 1,000 fine applies. The total fine is calculated by adding daily fines, flat penalties, and any unpaid balance after partial payment.",
+        "exampleTitle": "Real Example",
+        "example": "Suppose your Iqama expired on January 1, 2026, and today is March 31, 2026 (90 days overstay), with no previous violations:\n\nFlat penalty (first violation): SAR 15,000\nTotal fine: SAR 15,000\n\nNow suppose your Exit/Re-Entry visa expired on January 1, 2026, and today is April 15, 2026 (105 days):\n\nDaily fine: 105 × SAR 100 = SAR 10,500\nUncanceled visa fine (90+ days): SAR 1,000\nTotal fine: SAR 11,500\n\nIf your visit visa expired for the same period:\n\nDaily fine: 105 × SAR 100 = SAR 10,500\nCapped at: SAR 50,000 (not exceeded)\nTotal fine: SAR 10,500"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About Jawazat Fines",
+        "q1": "What is the fine for Iqama overstay in Saudi Arabia 2024?",
+        "a1": "The first Iqama overstay violation is SAR 15,000. Second violation is SAR 30,000. Third and subsequent violations are SAR 50,000 each, capped at SAR 100,000 per violation. There is no grace period — fines start from the day after expiry.",
+        "q2": "How much is the overstay fine per day for Exit/Re-Entry visa?",
+        "a2": "The Exit/Re-Entry visa overstay fine is SAR 100 per day from the date of expiry. There is no grace period. An additional SAR 1,000 fine applies if the visa is not canceled within 90 days of expiry.",
+        "q3": "Can I leave Saudi Arabia with an overstay fine?",
+        "a3": "No. You must pay all overstay fines in full before the immigration officer stamps your exit at the airport or border. Unpaid fines will block your departure.",
+        "q4": "What happens if I overstay my visit visa in Saudi Arabia?",
+        "a4": "Visit visa overstay is SAR 100 per day, capped at SAR 50,000. Additional penalties can include imprisonment up to 6 months, deportation, and a re-entry ban of up to 10 years. Pay fines immediately to avoid escalation.",
+        "q5": "Is there a grace period after my Iqama expires?",
+        "a5": "No. There is no official grace period for Iqama or visa expiry under Saudi Jawazat regulations. Fines begin accumulating from the day after the expiry date without exception.",
+        "q6": "How can I check my Jawazat fine online?",
+        "a6": "You can check your Jawazat fines through the Absher platform (absher.sa), the Ministry of Interior's 'My Services' portal, or by visiting a Jawazat office in person. Our calculator gives you an estimate before you check the official system.",
+        "q7": "Can I get a discount on my overstay fine for early payment?",
+        "a7": "No. Saudi Jawazat does not offer discounts for early payment of overstay fines. The full amount is due regardless of when you pay. However, paying early prevents additional daily fines from accumulating."
+      },
+      "relatedTools": {
+        "title": "Related Calculators for Visa and Iqama Management",
+        "tool1Name": "EOSB Calculator",
+        "tool1Desc": "Calculate your End of Service Benefit under Saudi Labor Law — free, instant, and private. Essential when leaving a job in Saudi Arabia.",
+        "tool1Href": "/eosb-calculator",
+        "tool2Name": "Family Visa & Dependent Fee Optimizer",
+        "tool2Desc": "Plan your family visa costs including dependent fees, Iqama renewals, and exit/re-entry visas for your spouse and children.",
+        "tool2Href": "/family-visa-optimizer",
+        "tool3Name": "Visa Checklist Tool",
+        "tool3Desc": "A complete checklist of documents and steps required for Saudi visa applications, Iqama renewals, and family sponsorship.",
+        "tool3Href": "/visa-checklist",
+        "tool4Name": "Final Settlement Calculator",
+        "tool4Desc": "Calculate your full final settlement including EOSB, unused vacation days, and notice period pay.",
+        "tool4Href": "/settlement-calculator"
+      },
+      "disclaimer": "This calculator provides estimates based on Saudi Jawazat regulations and published fine structures. Actual fines may vary based on your specific situation, nationality, and official assessment by the Saudi Ministry of Interior and Jawazat. We recommend verifying with Absher or visiting a Jawazat office for the exact amount. This is not legal advice."
     }
   },
   "EOSBCalculator": {
@@ -140,7 +194,61 @@
       "title": "No EOSB Entitlement",
       "message": "Under Saudi Labor Law Article 85, employees who resign with less than 2 years of service are not entitled to End of Service Benefits."
     },
-    "fixedTermNote": "Since you have a fixed-term contract, your employer may deduct up to 50% for early resignation."
+    "fixedTermNote": "Since you have a fixed-term contract, your employer may deduct up to 50% for early resignation.",
+    "seo": {
+      "howToUse": {
+        "title": "How to Use the EOSB Calculator — Step by Step",
+        "step1Title": "Step 1: Enter Your Basic Monthly Salary",
+        "step1Desc": "Type your basic monthly salary in SAR. This is your base pay without housing, transportation, or other allowances. Most employers calculate EOSB on basic salary only.",
+        "step2Title": "Step 2: Enter Your Service Period",
+        "step2Desc": "Enter your total years and months of service with your current employer. Include all continuous service — even partial years count proportionally under Saudi Labor Law.",
+        "step3Title": "Step 3: Select Your Reason for Leaving",
+        "step3Desc": "Choose whether you are resigning, being terminated, or reaching the end of your contract. Your reason affects the final EOSB amount significantly under Article 85.",
+        "step4Title": "Step 4: Choose Your Contract Type",
+        "step4Desc": "Select fixed-term (limited) or indefinite (unlimited) contract. Fixed-term contracts may have different rules if you resign before the contract ends.",
+        "step5Title": "Step 5: Calculate Your EOSB",
+        "step5Desc": "Click 'Calculate EOSB' to see your estimated end of service benefit. The result shows the full breakdown: first 5 years, subsequent years, and any resignation reduction."
+      },
+      "understandingResults": {
+        "title": "Understanding Your EOSB Results",
+        "content": "The End of Service Benefit (EOSB) is calculated using the formula defined in Saudi Labor Law Article 84. For the first 5 years of service, you are entitled to half a month's basic salary for each year. For each year after the first 5, you are entitled to one full month's basic salary. Partial years are calculated proportionally by dividing the annual benefit by 12 and multiplying by the number of months worked.\n\nIf you resign, Article 85 applies a reduction: less than 2 years = zero EOSB; between 2 and 5 years = one-third of the full amount; between 5 and 10 years = two-thirds; more than 10 years = full amount. Termination and contract end typically entitle you to the full EOSB without reduction.",
+        "exampleTitle": "Real Example",
+        "example": "Suppose your basic salary is 10,000 SAR and you have worked for 7 years and 6 months, resigning after 5 years.\n\nFirst 5 years: 5 x 5,000 SAR (half-month) = 25,000 SAR\nYears 6-7: 2 x 10,000 SAR (full month) = 20,000 SAR\nPartial 6 months: 0.5 x 10,000 SAR = 5,000 SAR\nTotal EOSB (Article 84): 50,000 SAR\nResignation reduction (5-10 years): 2/3 applied\nFinal EOSB: 50,000 x 2/3 = 33,333 SAR\n\nThis means you would receive approximately 33,333 SAR as your end of service benefit."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About EOSB",
+        "q1": "How is EOSB calculated in Saudi Arabia for 2024?",
+        "a1": "EOSB is calculated per Saudi Labor Law Article 84: half a month's basic salary for each of the first 5 years, and one full month's basic salary for each subsequent year. For example, with 12,000 SAR basic salary and 8 years: first 5 years = 5 x 6,000 = 30,000 SAR, next 3 years = 3 x 12,000 = 36,000 SAR, total = 66,000 SAR before adjustments.",
+        "q2": "Do I get end of service benefits if I resign before 2 years?",
+        "a2": "No. Under Article 85 of the Saudi Labor Law, employees who resign with less than 2 years of continuous service are not entitled to any End of Service Benefits. This rule applies regardless of the reason for resignation.",
+        "q3": "Is EOSB calculated on basic salary or total salary including allowances?",
+        "a3": "EOSB is generally calculated on your basic salary only. Housing allowance, transportation allowance, commissions, and other benefits are typically excluded unless your employment contract specifically states they should be included. Check your 'contract for the exact terms.",
+        "q4": "How much gratuity do I get if I resign after 3 years in Saudi Arabia?",
+        "a4": "If you resign between 2 and 5 years of service, you receive one-third (1/3) of the full EOSB amount. For example, with a 10,000 SAR basic salary and 3 years of service: full EOSB = 3 x 5,000 = 15,000 SAR. Since you resign between 2-5 years, you get 15,000 x 1/3 = 5,000 SAR.",
+        "q5": "Can my employer deduct from my EOSB for resigning early from a fixed-term contract?",
+        "a5": "Yes. If you have a fixed-term contract and resign before it ends, your employer may deduct up to 50% of your EOSB to cover damages. This deduction is separate from the Article 85 reduction for resignation.",
+        "q6": "How is EOSB calculated for partial years of service?",
+        "a6": "Partial years are calculated proportionally. If you worked 6 months beyond a full year, you receive half of that year's entitlement. For example, if you are due one full month's salary (10,000 SAR) for a year, 6 months gives you 10,000 x 6/12 = 5,000 SAR.",
+        "q7": "What is the difference between EOSB for termination vs resignation?",
+        "a7": "If your employer terminates your contract, you are entitled to the full EOSB under Article 84 with no reduction. If you resign, Article 85 applies a reduction: 0% under 2 years, 1/3 between 2-5 years, 2/3 between 5-10 years, and 100% after 10 years."
+      },
+      "relatedTools": {
+        "title": "Related Calculators for Saudi Expatriates",
+        "tool1Name": "Jawazat Overstay Fine Calculator",
+        "tool1Desc": "Calculate fines for expired Iqama, exit/re-entry visa, or visit visa overstays based on Saudi Jawazat regulations.",
+        "tool1Href": "/jawazat-fine-calculator",
+        "tool2Name": "Family Visa & Dependent Fee Optimizer",
+        "tool2Desc": "Plan your family visa costs including dependent fees, iqama renewals, and exit/re-entry visas for your spouse and children.",
+        "tool2Href": "/family-visa-optimizer",
+        "tool3Name": "Final Settlement Calculator",
+        "tool3Desc": "Calculate your full final settlement including EOSB, unused vacation days, and notice period pay when leaving a job in Saudi Arabia.",
+        "tool3Href": "/settlement-calculator",
+        "tool4Name": "Nitaqat Simulator",
+        "tool4Desc": "Understand how Nitaqat Saudization ratios affect your company classification and visa processing capabilities.",
+        "tool4Href": "/nitaqat-simulator"
+      },
+      "disclaimer": "This calculator provides estimates based on Saudi Labor Law Articles 84 and 85. Final EOSB amounts may vary based on your specific employment contract, company policies, and official Ministry of Human Resources and Social Development assessments. We recommend consulting with a legal professional for accurate advice. HsabKSA is not responsible for any discrepancies between estimated and actual amounts."
+    }
   },
   "FamilyVisaCalculator": {
     "toolName": "Family Visa & Dependent Fee Optimizer",
@@ -232,6 +340,60 @@
     "errors": {
       "dateRequired": "Please enter a valid expiry date",
       "generic": "Something went wrong. Please check your inputs."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Use the Family Visa Fee Optimizer",
+        "step1Title": "Step 1: Add Your Family Members",
+        "step1Desc": "Enter the number of wives and children you plan to sponsor. Each dependent incurs a monthly fee of SAR 400 and Iqama fees for new issuance or renewal.",
+        "step2Title": "Step 2: Select Iqama Status for Each Group",
+        "step2Desc": "Choose whether your wife and children need a New Iqama, a Renewal, or already have an Active Iqama. New and renewal Iqama fees are SAR 2,000 per person.",
+        "step3Title": "Step 3: Choose Your Exit/Re-Entry Visa Type",
+        "step3Desc": "Select single exit (best for 1-2 trips per year) or multiple exit/re-entry (best for 3+ trips). A 6-month multiple visa at SAR 3,000 is cheaper than three single visas at SAR 1,800.",
+        "step4Title": "Step 4: Set Your Planning Period",
+        "step4Desc": "Choose your planning period: 6 months, 1 year, or 2 years. A longer period gives you bulk savings but may require Iqama renewal if it exceeds your current Iqama expiry.",
+        "step5Title": "Step 5: Calculate and Optimize",
+        "step5Desc": "Click 'Calculate Fees' to see your total family visa costs, monthly budget, and cost-saving tips. The breakdown shows all fees including dependent fees, Iqama costs, exit visas, and work permits."
+      },
+      "understandingResults": {
+        "title": "Understanding Your Family Visa Fee Results",
+        "content": "The tool calculates all costs associated with sponsoring family members in Saudi Arabia. The dependent fee is SAR 400 per month per dependent (wife and each child), charged by the Ministry of Interior. Iqama fees are SAR 2,000 per person for new issuance or renewal. Exit/Re-Entry visa fees range from SAR 200 (single, 1 month) to SAR 5,000 (multiple, 1 year). Work permit fees are SAR 960 per year per dependent.\n\nYour monthly budget is calculated by dividing the total annual fee by 12 months, helping you set aside money gradually rather than facing a lump-sum payment.",
+        "exampleTitle": "Real Example",
+        "example": "Suppose you are sponsoring 1 wife and 2 children for 1 year. All need new Iqamas. You plan 2 single exit trips:\n\nMonthly dependent fees: 3 dependents x SAR 400 x 12 months = SAR 14,400\nNew Iqama fees: 3 x SAR 2,000 = SAR 6,000\nExit/Re-Entry visas: 2 trips x 3 dependents x SAR 200 each = SAR 1,200\nWork permit fees: 3 x SAR 960 = SAR 2,880\n\nTotal for 1 year: SAR 24,480\nMonthly budget: SAR 2,040\n\nTip: With 3 trips per year, a 6-month multiple visa (SAR 3,000/person) saves SAR 600 per person vs single visas."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About Family Visa Fees",
+        "q1": "How much is the dependent fee in Saudi Arabia 2024?",
+        "a1": "The dependent fee is SAR 400 per month per dependent (wife and each child). This fee is charged by the Saudi Ministry of Interior for sponsoring family members. Fees are typically paid annually in advance.",
+        "q2": "Is wife Iqama fee the same as children Iqama fee?",
+        "a2": "Yes, both wife and children Iqama fees are SAR 2,000 each for new issuance or renewal. This is a one-time fee per person per renewal period.",
+        "q3": "Which Exit/Re-Entry visa is cheaper for families?",
+        "a3": "For families traveling 3+ times per year, a 6-month multiple exit visa (SAR 3,000 per person) is cheaper than buying single visas (SAR 600 each). For 1-2 trips, single visas are more cost-effective.",
+        "q4": "Can I pay dependent fees monthly instead of annually?",
+        "a4": "Dependent fees of SAR 400 per month per dependent are typically collected annually in advance by the Ministry of Interior. Our monthly budget recommendation helps you save gradually for the annual payment.",
+        "q5": "What happens if I do not pay my dependent fees on time?",
+        "a5": "Unpaid dependent fees result in fines, visa processing delays, and potential Iqama suspension. Repeated non-payment can lead to deportation and re-entry bans. Set monthly reminders to avoid missing payments.",
+        "q6": "Do I need a work permit for my wife in Saudi Arabia?",
+        "a6": "The work permit fee (SAR 960 per year per dependent) is required for each sponsored family member if they wish to work. If your wife or children do not plan to work, this fee may not apply. Check with your sponsor company.",
+        "q7": "How can I reduce my family visa costs in Saudi Arabia?",
+        "a7": "To reduce costs: use multiple exit visas for 3+ trips per year, renew Iqamas during grace periods, apply for long-term family residence permits if eligible, and verify if your company offers dependent sponsorship as a benefit."
+      },
+      "relatedTools": {
+        "title": "Related Calculators for Family and Visa Planning",
+        "tool1Name": "Jawazat Overstay Fine Calculator",
+        "tool1Desc": "Check fines for expired Iqama or visas to avoid additional penalties that could affect your family sponsorship status.",
+        "tool1Href": "/jawazat-fine-calculator",
+        "tool2Name": "EOSB Calculator",
+        "tool2Desc": "Calculate your end of service benefit — important for planning your family finances when changing jobs in Saudi Arabia.",
+        "tool2Href": "/eosb-calculator",
+        "tool3Name": "Visa Checklist Tool",
+        "tool3Desc": "A complete document checklist for family visa sponsorship, Iqama renewal, and dependent applications.",
+        "tool3Href": "/visa-checklist",
+        "tool4Name": "Final Settlement Calculator",
+        "tool4Desc": "Calculate your full final settlement including EOSB to help plan your family budget when leaving Saudi Arabia.",
+        "tool4Href": "/settlement-calculator"
+      },
+      "disclaimer": "This calculator provides estimates based on official Saudi fee structures published by the Ministry of Interior and Jawazat. Actual fees may vary based on your specific situation, nationality, and policy changes. We recommend verifying with Absher or your sponsor company for exact amounts. This is not legal or financial advice."
     }
   },
   "Hero": {

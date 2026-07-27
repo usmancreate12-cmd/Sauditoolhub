@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import { JawazatCalculator } from '@/components/JawazatCalculator'
+import { ToolSeoContent } from '@/components/ToolSeoContent'
 import { SoftwareAppJsonLd, BreadcrumbJsonLd, FAQJsonLd } from '@/components/JsonLd'
 
 type Props = { params: Promise<{ locale: string }> }
@@ -88,8 +89,9 @@ export default async function JawazatPage({ params }: Props) {
           },
         ]}
       />
-      <div className="mx-auto mt-4 max-w-4xl px-4">
-        <p className="text-right text-xs text-desert-text-dim">
+      <ToolSeoContent namespace="JawazatCalculator" locale={locale} />
+      <div className="mx-auto mt-2 max-w-4xl px-4">
+        <p className="text-right text-xs text-gray-500">
           Last updated: July 2026 &middot; Based on Saudi Jawazat regulations &amp; Article 39 of Iqama Regulations
         </p>
       </div>
