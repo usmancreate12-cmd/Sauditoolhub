@@ -142,6 +142,98 @@
     },
     "fixedTermNote": "Since you have a fixed-term contract, your employer may deduct up to 50% for early resignation."
   },
+  "FamilyVisaCalculator": {
+    "toolName": "Family Visa & Dependent Fee Optimizer",
+    "description": "Calculate your family visa and dependent fees in Saudi Arabia — wives, children, iqama, and exit/re-entry visas.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Family Details",
+      "wifeCount": { "label": "Wife" },
+      "kidsCount": { "label": "Children" },
+      "wifeIqamaStatus": {
+        "label": "Wife Iqama",
+        "options": { "new": "New Iqama", "renewal": "Renewal", "active": "Already Active" }
+      },
+      "kidsIqamaStatus": {
+        "label": "Children Iqama",
+        "options": { "new": "New Iqama", "renewal": "Renewal", "active": "Already Active" }
+      },
+      "exitType": {
+        "label": "Exit/Re-Entry Visa",
+        "options": { "single": "Single Exit", "multiple": "Multiple Exit/Re-Entry" }
+      },
+      "visaDuration": {
+        "label": "Visa Duration",
+        "options": { "1m": "1 Month", "2m": "2 Months", "3m": "3 Months", "6m": "6 Months", "1y": "1 Year" }
+      },
+      "iqamaExpiry": { "label": "Current Iqama Expiry Date" },
+      "planningPeriod": {
+        "label": "Planning Period",
+        "options": { "6m": "6 Months", "1y": "1 Year", "2y": "2 Years" }
+      }
+    },
+    "buttons": {
+      "calculate": "Calculate Fees",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "totalFees": "Total Fees",
+      "monthlyBudget": "Monthly Budget",
+      "dependents": "Dependents"
+    },
+    "breakdown": {
+      "title": "Fee Breakdown",
+      "monthlyDependentFees": "Monthly Dependent Fees",
+      "wifeIqamaFees": "Wife Iqama Fees",
+      "kidsIqamaFees": "Children Iqama Fees",
+      "exitReEntryFees": "Exit/Re-Entry Visa Fees",
+      "workPermitFees": "Work Permit Fees",
+      "totalPlanningPeriod": "Total for Planning Period"
+    },
+    "tips": {
+      "title": "Cost Optimization Tips",
+      "multipleVisa": "A 6-month multiple exit visa is cheaper than buying 3 single visas — save up to 40%.",
+      "oneTimeFee": "Iqama fees are one-time per renewal period. Factor this into your annual budget.",
+      "monthlySaving": "Set aside the monthly budget amount each month to avoid a lump-sum burden.",
+      "longTermPlan": "A 2-year plan gives you bulk savings on visa renewals and better budget visibility."
+    },
+    "warnings": {
+      "renewal": "Your planning period exceeds your current Iqama validity. Include renewal costs in your budget.",
+      "largeFamily": "You have 8+ dependents. Your total annual fees are significant — plan carefully and explore company sponsorship options."
+    },
+    "noDependents": {
+      "title": "No Dependents Added",
+      "message": "You have not added any dependents. Add your wife or children to calculate fees."
+    },
+    "noDependentsInfo": "Add at least one dependent to calculate fees.",
+    "emptyState": "Enter your family details above to see the fee estimate.",
+    "successMessage": "Calculation complete! Results are shown above.",
+    "copiedResult": "Family Visa Fees: {total} SAR (via HsabKSA)",
+    "period": { "6m": "6 Months", "12m": "1 Year", "24m": "2 Years" },
+    "disclaimer": "This is an estimate based on official Saudi fee structures (2024). Actual fees may vary. This is not legal or financial advice.",
+    "lastUpdated": "Last updated: July 2026",
+    "legalNotice": "Based on Saudi Ministry of Interior & Jawazat fee schedules.",
+    "faq": {
+      "q1": "How much is the dependent fee in Saudi Arabia 2024?",
+      "a1": "The dependent fee is SAR 400 per month per dependent (wife and each child). This fee is charged by the Saudi Ministry of Interior for sponsoring family members.",
+      "q2": "Is wife's Iqama fee same as children?",
+      "a2": "Yes, both wife and children Iqama fees are SAR 2,000 each for new issuance or renewal. The fee is per person.",
+      "q3": "Which Exit/Re-Entry visa is cheaper for families?",
+      "a3": "For families, the 6-month multiple exit visa (SAR 3,000) is cheaper than buying 3 single-visit visas (SAR 600 each = SAR 1,800 total). However, if you travel less than 3 times a year, single visas are more cost-effective.",
+      "q4": "Can I pay dependent fees monthly?",
+      "a4": "Dependent fees of SAR 400 per month per dependent are typically paid annually in advance. Our monthly budget recommendation helps you save gradually for the annual payment.",
+      "q5": "What happens if I don't pay dependent fees?",
+      "a5": "Unpaid dependent fees result in fines, visa processing delays, and potential Iqama suspension. Repeated non-payment may lead to deportation and re-entry bans."
+    },
+    "errors": {
+      "dateRequired": "Please enter a valid expiry date",
+      "generic": "Something went wrong. Please check your inputs."
+    }
+  },
   "Hero": {
     "badge": "Saudi Arabia's Smart Calculator Hub",
     "title": "Smart Saudi Calculators",

@@ -11,6 +11,7 @@ const categories = [
     tools: [
       { nameKey: 'toolNames.eosb', href: '/eosb-calculator' },
       { nameKey: 'toolNames.jawazat', href: '/jawazat-fine-calculator' },
+      { nameKey: 'toolNames.family', href: '/family-visa-optimizer' },
     ],
   },
   {

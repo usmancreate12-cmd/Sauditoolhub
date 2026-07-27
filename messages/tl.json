@@ -126,6 +126,98 @@
     },
     "fixedTermNote": "Dahil ikaw ay may fixed-term contract, ang iyong employer ay maaaring magbawas ng hanggang 50% para sa maagang pagbibitiw."
   },
+  "FamilyVisaCalculator": {
+    "toolName": "Family Visa & Dependent Fee Optimizer",
+    "description": "Kalkulahin ang iyong family visa at dependent fees sa Saudi Arabia — asawa, mga anak, iqama, at exit/re-entry visa.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Pamilya",
+      "wifeCount": { "label": "Asawa" },
+      "kidsCount": { "label": "Mga Anak" },
+      "wifeIqamaStatus": {
+        "label": "Iqama ng Asawa",
+        "options": { "new": "Bagong Iqama", "renewal": "Renewal", "active": "Aktibo na" }
+      },
+      "kidsIqamaStatus": {
+        "label": "Iqama ng mga Anak",
+        "options": { "new": "Bagong Iqama", "renewal": "Renewal", "active": "Aktibo na" }
+      },
+      "exitType": {
+        "label": "Exit/Re-Entry Visa",
+        "options": { "single": "Single Exit", "multiple": "Multiple Exit/Re-Entry" }
+      },
+      "visaDuration": {
+        "label": "Tagal ng Visa",
+        "options": { "1m": "1 Buwan", "2m": "2 Buwan", "3m": "3 Buwan", "6m": "6 Buwan", "1y": "1 Taon" }
+      },
+      "iqamaExpiry": { "label": "Petsa ng Pag-expire ng Iqama" },
+      "planningPeriod": {
+        "label": "Panahon ng Pagpaplano",
+        "options": { "6m": "6 Buwan", "1y": "1 Taon", "2y": "2 Taon" }
+      }
+    },
+    "buttons": {
+      "calculate": "Kalkulahin ang mga Fee",
+      "calculating": "Kinakalkula...",
+      "reset": "I-reset",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print"
+    },
+    "results": {
+      "totalFees": "Kabuuang Fee",
+      "monthlyBudget": "Buwanang Badyet",
+      "dependents": "Mga Dependent"
+    },
+    "breakdown": {
+      "title": "Paghiwa-hiwalay ng Fee",
+      "monthlyDependentFees": "Buwanang Dependent Fees",
+      "wifeIqamaFees": "Fee sa Iqama ng Asawa",
+      "kidsIqamaFees": "Fee sa Iqama ng mga Anak",
+      "exitReEntryFees": "Fee sa Exit/Re-Entry Visa",
+      "workPermitFees": "Fee sa Work Permit",
+      "totalPlanningPeriod": "Kabuuan para sa Panahon ng Pagpaplano"
+    },
+    "tips": {
+      "title": "Mga Tip sa Pagtitipid",
+      "multipleVisa": "Ang 6-buwan na multiple exit visa ay mas mura kaysa bumili ng 3 single visa — makatipid ng hanggang 40%.",
+      "oneTimeFee": "Ang Iqama fee ay isang beses lang bawat renewal period. Isama ito sa iyong taunang badyet.",
+      "monthlySaving": "Magtabi ng buwanang badyet bawat buwan upang maiwasan ang biglaang malaking gastos.",
+      "longTermPlan": "Ang 2-taong plano ay nagbibigay ng malaking tipid sa renewal ng visa at mas magandang budget visibility."
+    },
+    "warnings": {
+      "renewal": "Ang iyong planning period ay lumalampas sa iyong kasalukuyang Iqama validity. Isama ang renewal costs sa iyong badyet.",
+      "largeFamily": "Mayroon kang 8+ dependent. Malaki ang iyong taunang fee — magplano nang mabuti at alamin ang company sponsorship options."
+    },
+    "noDependents": {
+      "title": "Walang Idinagdag na Dependent",
+      "message": "Wala kang idinagdag na dependent. Idagdag ang iyong asawa o mga anak upang kalkulahin ang mga fee."
+    },
+    "noDependentsInfo": "Magdagdag ng kahit isang dependent upang kalkulahin ang mga fee.",
+    "emptyState": "Ilagay ang detalye ng iyong pamilya sa itaas upang makita ang estimate ng fee.",
+    "successMessage": "Kumpleto ang kalkulasyon! Ang mga resulta ay nasa itaas.",
+    "copiedResult": "Family Visa Fees: {total} SAR (via HsabKSA)",
+    "period": { "6m": "6 Buwan", "12m": "1 Taon", "24m": "2 Taon" },
+    "disclaimer": "Ito ay isang estimate batay sa opisyal na Saudi fee structures (2024). Maaaring mag-iba ang aktwal na fee. Hindi ito legal o pinansyal na payo.",
+    "lastUpdated": "Huling na-update: Hulyo 2026",
+    "legalNotice": "Batay sa Saudi Ministry of Interior & Jawazat fee schedules.",
+    "faq": {
+      "q1": "Magkano ang dependent fee sa Saudi Arabia 2024?",
+      "a1": "Ang dependent fee ay SAR 400 bawat buwan bawat dependent (asawa at bawat anak). Ang fee na ito ay sinisingil ng Saudi Ministry of Interior para sa pag-sponsor ng mga miyembro ng pamilya.",
+      "q2": "Pareho ba ang fee ng Iqama ng asawa at ng mga anak?",
+      "a2": "Oo, parehong SAR 2,000 ang fee ng Iqama ng asawa at mga anak para sa bagong issuance o renewal. Ang fee ay bawat tao.",
+      "q3": "Aling Exit/Re-Entry visa ang mas mura para sa mga pamilya?",
+      "a3": "Para sa mga pamilya, ang 6-buwan na multiple exit visa (SAR 3,000) ay mas mura kaysa bumili ng 3 single visa (SAR 600 bawat isa = SAR 1,800 total). Gayunpaman, kung mas mababa sa 3 beses kang magbiyahe sa isang taon, mas cost-effective ang single visa.",
+      "q4": "Maaari ko bang bayaran ang dependent fees buwan-buwan?",
+      "a4": "Ang dependent fees na SAR 400 bawat buwan bawat dependent ay karaniwang binabayaran nang taunan nang maaga. Ang aming buwanang rekomendasyon sa badyet ay tumutulong sa iyo na makatipid nang paunti-unti para sa taunang pagbabayad.",
+      "q5": "Ano ang mangyayari kung hindi ko babayaran ang dependent fees?",
+      "a5": "Ang hindi pagbabayad ng dependent fees ay nagreresulta sa mga multa, pagkaantala sa pagproseso ng visa, at posibleng pagsuspinde ng Iqama. Ang paulit-ulit na hindi pagbabayad ay maaaring humantong sa deportasyon at pagbabawal sa muling pagpasok."
+    },
+    "errors": {
+      "dateRequired": "Mangyaring maglagay ng wastong petsa ng pag-expire",
+      "generic": "May naganap na error. Pakisuri ang iyong mga input."
+    }
+  },
   "Hero": {
     "badge": "Smart Calculator Hub ng Saudi Arabia",
     "title": "Mga Smart Saudi Calculator",
