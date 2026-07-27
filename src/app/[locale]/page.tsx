@@ -17,13 +17,20 @@ const categories = [
   {
     key: 'business',
     tools: [
-      { nameKey: 'toolNames.zatca', href: '#' },
+      { nameKey: 'toolNames.zatca', href: '/zatca-vat-calculator' },
+      { nameKey: 'toolNames.nitaqat', href: '/nitaqat-simulator' },
+      { nameKey: 'toolNames.salla', href: '/salla-profit-calculator' },
+      { nameKey: 'toolNames.freelance', href: '/freelance-income-calculator' },
+      { nameKey: 'toolNames.crCost', href: '/cr-cost-estimator' },
     ],
   },
   {
     key: 'finance',
     tools: [
-      { nameKey: 'toolNames.loan', href: '#' },
+      { nameKey: 'toolNames.loan', href: 'sama-loan-calculator' },
+      { nameKey: 'toolNames.zakat', href: 'zakat-calculator' },
+      { nameKey: 'toolNames.iban', href: 'iban-validator' },
+      { nameKey: 'toolNames.sip', href: 'sip-calculator' },
     ],
   },
   {

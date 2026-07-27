@@ -519,7 +519,8 @@
       },
       "nationality": {
         "label": "Nasyonalidad ng Aplikante (Optional)",
-        "placeholder": "Pumili ng nasyonalidad"
+        "placeholder": "Pumili ng nasyonalidad",
+        "searchPlaceholder": "Maghanap ng nasyonalidad..."
       }
     },
     "visaTypes": {
@@ -530,11 +531,48 @@
       "exit_reentry": "Exit / Re-Entry Visa"
     },
     "nationalities": {
-      "pakistani": "Pakistani",
-      "indian": "Indian",
-      "filipino": "Filipino",
-      "egyptian": "Egyptian",
-      "other": "Iba pa"
+      "pakistani": "🇵🇰 Pakistani",
+      "indian": "🇮🇳 Indian",
+      "bangladeshi": "🇧🇩 Bangladeshi",
+      "sriLankan": "🇰 Sri Lankan",
+      "nepali": "🇵 Nepali",
+      "afghan": "🇦🇫 Afghan",
+      "egyptian": "🇪🇬 Egyptian",
+      "sudanese": "🇸🇩 Sudanese",
+      "yemeni": "🇾🇪 Yemeni",
+      "jordanian": "🇯🇴 Jordanian",
+      "palestinian": "🇵🇸 Palestinian",
+      "syrian": "🇸🇾 Syrian",
+      "lebanese": "🇱🇧 Lebanese",
+      "iraqi": "🇮🇶 Iraqi",
+      "moroccan": "🇦 Moroccan",
+      "tunisian": "🇳 Tunisian",
+      "algerian": "🇩🇿 Algerian",
+      "libyan": "🇱🇾 Libyan",
+      "filipino": "🇵🇭 Filipino",
+      "indonesian": "🇮🇩 Indonesian",
+      "malaysian": "🇲🇾 Malaysian",
+      "ethiopian": "🇪🇹 Ethiopian",
+      "eritrean": "🇪🇷 Eritrean",
+      "kenyan": "🇪 Kenyan",
+      "ugandan": "🇬 Ugandan",
+      "tanzanian": "🇿 Tanzanian",
+      "somali": "🇴 Somali",
+      "turkish": "🇹🇷 Turkish",
+      "iranian": "🇮🇷 Iranian",
+      "british": "🇬🇧 British",
+      "american": "🇺 American",
+      "canadian": "🇨🇦 Canadian",
+      "australian": "🇦🇺 Australian",
+      "other": "Ibang Nasyonalidad"
+    },
+    "nationalityGroups": {
+      "southAsia": "Timog Asya",
+      "middleEast": "Gitnang Silangan at mga Bansang Arabo",
+      "northAfrica": "Hilagang Aprika",
+      "southeastAsia": "Timog-Silangang Asya",
+      "eastAfrica": "Silangang Aprika",
+      "other": "Iba Pa"
     },
     "categories": {
       "personal": "Personal na Dokumento",
@@ -564,7 +602,11 @@
       "flight_confirmation": "Flight Booking Confirmation",
       "bank_statement": "Bank Statement (last 3-6 months)",
       "fee_receipt": "Visa Fee Payment Receipt",
-      "sponsor_letter": "Sponsor's Letter / NOC"
+      "sponsor_letter": "Sponsor's Letter / NOC",
+      "additional_medical": "Karagdagang Medical Tests (TB, Hepatitis, HIV) — Kinakailangan para sa South Asian nationals",
+      "fingerprint_clearance": "Fingerprint-based Police Clearance — Kinakailangan para sa South Asian nationals",
+      "poea_clearance": "POEA / Overseas Employment Clearance — Kinakailangan para sa Filipino nationals",
+      "nitiqah_verification": "Nitiqah / Karagdagang Verification — Kinakailangan para sa piling nationalities"
     },
     "nationalityNotes": {
       "attested_embassy": "Ang ilang nationalities ay nangangailangan ng additional embassy attestation. I-check sa inyong local Saudi embassy.",
@@ -601,7 +643,7 @@
         "step1Title": "Step 1: Piliin ang Iyong Visa Type",
         "step1Desc": "Piliin ang uri ng visa na inyong ina-apply-an mula sa dropdown — Family Visit, Work, Umrah, Tourist e-Visa, o Exit/Re-Entry. Bawat visa type ay may kanya-kanyang set ng required documents.",
         "step2Title": "Step 2: Piliin ang Iyong Nasyonalidad (Optional)",
-        "step2Desc": "Piliin ang iyong nationality para makita ang country-specific document requirements. Ang ilang nationalities ay nangangailangan ng additional embassy attestation o specific document formats. Ang step na ito ay optional.",
+        "step2Desc": "Piliin ang iyong nasyonalidad mula sa searchable dropdown na may 30+ options na naka-grupo ayon sa rehiyon. Ang ilang nationalities (tulad ng Pakistani, Indian, Filipino) ay nangangailangan ng karagdagang dokumento tulad ng fingerprint clearance, POEA clearance, o extra medical tests. Ang hakbang na ito ay opsyonal.",
         "step3Title": "Step 3: Gawin ang Iyong Checklist",
         "step3Desc": "I-click ang 'Generate Checklist' para makita ang categorized list ng lahat ng documents na kailangan para sa iyong napiling visa type. Ang mga documents ay naka-organize sa Personal, Sponsor, Attestation, Medical, at Financial categories.",
         "step4Title": "Step 4: I-track ang Iyong Progress",
@@ -650,7 +692,786 @@
       "disclaimer": "Ang checklist na ito ay para sa informational guidance lamang. Ang visa document requirements ay madalas nagbabago. Laging i-verify sa official Saudi embassy, MOFA, o Absher platform para sa pinakabagong requirements. Ito ay hindi legal o immigration advice."
     }
   },
-
+  "ZatcaCalculator": {
+    "toolName": "ZATCA E-Invoicing Compliance & VAT Calculator",
+    "description": "Kalkulahin ang VAT para sa ZATCA compliance sa Saudi Arabia. May kasamang Phase 1 at Phase 2 checklist para sa B2B at B2C invoices.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Invoice",
+      "subtotal": { "label": "Subtotal na Halaga (SAR)", "placeholder": "hal. 10000" },
+      "vatRate": {
+        "label": "VAT Rate",
+        "options": { "15": "15% (Standard)", "0": "0% (Zero-rated)", "exempt": "Exempt" }
+      },
+      "invoiceType": {
+        "label": "Uri ng Invoice",
+        "options": { "b2b": "B2B (Business to Business)", "b2c": "B2C (Business to Consumer)" }
+      },
+      "discount": { "label": "Diskwento (Opsyonal, SAR)", "placeholder": "0" }
+    },
+    "buttons": {
+      "calculate": "Kalkulahin ang VAT",
+      "calculating": "Kinakalkula...",
+      "reset": "I-reset",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print"
+    },
+    "results": {
+      "vatAmount": "Halaga ng VAT",
+      "totalAmount": "Kabuuan kasama ang VAT",
+      "effectiveRate": "Epektibong VAT Rate"
+    },
+    "compliance": {
+      "title": "ZATCA E-Invoicing Compliance Checklist",
+      "sellerName": "Pangalan ng Nagbebenta (naka-rehistro sa ZATCA)",
+      "sellerVat": "VAT Number ng Nagbebenta (15 digit)",
+      "invoiceDate": "Petsa at Oras ng Invoice",
+      "totalWithVat": "Kabuuang Halaga kasama ang VAT",
+      "qrCode": "Cryptographic QR Code (Phase 2)",
+      "buyerName": "Pangalan ng Bumibili",
+      "buyerVat": "VAT Number ng Bumibili",
+      "vatAmount": "Halaga ng VAT (hiwalay na ipinapakita)",
+      "exemptionReason": "Dahilan ng Exemption / Legal na Sanggunian"
+    },
+    "phase2": {
+      "title": "Kinakailangan ng QR Code sa Phase 2",
+      "description": "Ang ZATCA Phase 2 (Integration) ay nangangailangan na ang lahat ng e-invoices at simplified tax invoices ay may kasamang cryptographic QR code. Ang QR code na ito ay naglalaman ng data ng invoice kabilang ang pangalan ng nagbebenta, VAT number, petsa, kabuuan, at halaga ng VAT. Ang QR code ay nagpapahintulot sa ZATCA at mga bumibili na ma-verify ang pagiging tunay ng invoice kaagad gamit ang anumang QR scanner app."
+    },
+    "zeroEntitlement": {
+      "title": "Maglagay ng Halaga para Makalkula",
+      "message": "Maglagay ng subtotal amount sa itaas para makalkula ang VAT at makita ang compliance checklist."
+    },
+    "emptyState": "Ilagay ang detalye ng iyong invoice sa itaas para makalkula ang VAT at matingnan ang compliance checklist.",
+    "copiedResult": "VAT: {vat} SAR | Kabuuan: {total} SAR (mula sa HsabKSA)",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa mga regulasyon ng ZATCA at Saudi VAT Law. Maaaring mag-iba ang aktwal na mga kinakailangan sa compliance batay sa uri ng iyong negosyo, kita, at klasipikasyon ng ZATCA. Kumonsulta sa ZATCA-approved tax advisor para sa opisyal na payo.",
+    "errors": {
+      "subtotalRequired": "Maglagay ng wastong subtotal amount.",
+      "generic": "May maling nangyari. Pakisubukan muli."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Kalkulahin ang ZATCA VAT sa Saudi Arabia",
+        "step1Title": "Hakbang 1: Ilagay ang Iyong Invoice Subtotal",
+        "step1Desc": "Ilagay ang halaga bago ang VAT sa SAR. Ito ang presyo ng iyong mga produkto o serbisyo nang walang buwis, na kilala rin bilang net amount.",
+        "step2Title": "Hakbang 2: Piliin ang Iyong VAT Rate",
+        "step2Desc": "Piliin ang naaangkop na VAT rate: 15% (standard para sa karamihan ng mga produkto at serbisyo), 0% (zero-rated para sa healthcare, edukasyon, at exports), o Exempt (para sa financial services at residential rent).",
+        "step3Title": "Hakbang 3: Piliin ang Uri ng Invoice",
+        "step3Desc": "Piliin ang B2B kung nag-i-invoice ka ng ibang negosyo na may VAT number. Piliin ang B2C kung nagbebenta ka sa isang indibidwal na consumer. Ang compliance checklist ay ia-adjust batay sa iyong pinili.",
+        "step4Title": "Hakbang 4: Magdagdag ng Diskwento (Opsyonal) at Kalkulahin",
+        "step4Desc": "Ilagay ang halaga ng diskwento sa SAR. Ang VAT ay kinakalkula sa diskwentong halaga: (Subtotal - Diskwento) × VAT Rate. I-click ang Calculate para makita ang VAT amount, kabuuan, at compliance checklist.",
+        "step5Title": "Hakbang 5: Suriin ang Iyong Compliance Checklist",
+        "step5Desc": "Suriin ang ZATCA compliance checklist na nagpapakita ng bawat kinakailangang field para sa uri ng iyong invoice. Tiyaking kasama ng iyong invoice system ang lahat ng elementong ito upang maiwasan ang multa sa panahon ng ZATCA audits."
+      },
+      "understandingResults": {
+        "title": "Paliwanag sa Phase 1 vs Phase 2 E-Invoicing",
+        "content": "Ang pagpapatupad ng e-invoicing ng ZATCA ay nahahati sa dalawang phase:\n\nPhase 1 (Generation) — Nagsimula noong Disyembre 2021. Lahat ng VAT-registered na negosyo ay dapat gumawa, mag-imbak, at magbahagi ng e-invoices gamit ang compliant system. Walang direktang integration sa ZATCA na kinakailangan sa yugtong ito, ngunit ang mga invoice ay dapat may mandatory fields at iniimbak para sa audit purposes.\n\nPhase 2 (Integration) — Ipinatupad sa mga wave mula 2023 batay sa revenue thresholds. Ang mga negosyo ay dapat mag-integrate ng kanilang invoicing systems nang direkta sa ZATCA's Fatoora platform para sa real-time reporting. Ang mga invoice ay awtomatikong ibinabahagi sa ZATCA pagka-generate. Ang phase na ito ay nangangailangan din ng cryptographic QR codes sa lahat ng invoice.\n\nMga pangunahing pagkakaiba: Ang Phase 1 ay tungkol sa compliant generation at storage. Ang Phase 2 ay nagdaragdag ng real-time integration, QR codes, at automated reporting sa ZATCA.",
+        "exampleTitle": "Mabilis na Paghahambing",
+        "example": "Phase 1: Gumawa ng compliant e-invoices → Itago ang mga ito → Ipakita kapag hiniling\nPhase 2: Gumawa ng compliant e-invoices → Auto-report sa ZATCA → QR code sa bawat invoice\n\nKung ang kita ng iyong kumpanya ay higit sa SAR 500 milyon, nasa unang Phase 2 wave ka. Tingnan ang opisyal na schedule ng ZATCA para sa iyong integration deadline."
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa ZATCA VAT at E-Invoicing",
+        "q1": "Kinakailangan ba ang ZATCA e-invoicing para sa mga freelancer sa Saudi Arabia?",
+        "a1": "Oo, ang ZATCA e-invoicing ay kinakailangan para sa lahat ng VAT-registered taxpayers kabilang ang mga freelancer. Ang Phase 1 ay nangangailangan ng compliant e-invoice generation at storage. Ang Phase 2 deadlines ay depende sa iyong kita. Mag-rehistro sa ZATCA kung hindi mo pa nagagawa.",
+        "q2": "Ano ang VAT rate sa Saudi Arabia para sa 2024?",
+        "a2": "Ang standard VAT rate ay 15%, naaangkop sa karamihan ng mga produkto at serbisyo. Ang zero-rated (0%) ay para sa healthcare, edukasyon, gamot, at exports. Ang ilang financial services at residential real estate rentals ay exempt sa VAT.",
+        "q3": "Ano ang pagkakaiba ng ZATCA Phase 1 at Phase 2?",
+        "a3": "Ang Phase 1 (Generation) ay nangangailangan ng mga negosyo na gumawa at mag-imbak ng compliant e-invoices. Ang Phase 2 (Integration) ay nagdaragdag ng real-time integration sa ZATCA's Fatoora platform, cryptographic QR codes sa lahat ng invoice, at automated reporting ng bawat transaksyon.",
+        "q4": "Kailangan ko ba ng QR code sa aking invoice sa Saudi Arabia?",
+        "a4": "Oo mula sa Phase 2. Lahat ng tax invoices at simplified tax invoices ay dapat may kasamang ZATCA-compliant cryptographic QR code. Ang QR code ay nag-e-encode ng pangalan ng nagbebenta, VAT number, petsa, kabuuan, halaga ng VAT, at digital signature para sa pag-verify ng authenticity.",
+        "q5": "Ano ang mga parusa para sa hindi pagsunod sa ZATCA e-invoicing?",
+        "a5": "Ang mga parusa ay hanggang SAR 50,000 bawat paglabag para sa mga specified e-invoicing offenses. Maaari ring i-suspend ng ZATCA ang iyong VAT registration at magpataw ng karagdagang multa sa panahon ng audits.",
+        "q6": "Paano ko kalkulahin ang VAT para sa aking Saudi invoices?",
+        "a6": "Formula: VAT Amount = (Subtotal - Diskwento) × (VAT Rate / 100). Kabuuan = Subtotal - Diskwento + VAT. Halimbawa: 10,000 SAR subtotal, 15% VAT, walang diskwento → VAT = 1,500 SAR, Kabuuan = 11,500 SAR.",
+        "q7": "Ano ang pagkakaiba ng B2B at B2C invoicing para sa ZATCA?",
+        "a7": "Ang B2B invoices (Tax Invoices) ay nangangailangan ng seller at buyer VAT numbers, buyer name, at detailed line items. Ang B2C invoices (Simplified Tax Invoices) ay nangangailangan lamang ng seller VAT number at basic invoice data. Pareho silang nangangailangan ng QR codes sa Phase 2."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Business Tools",
+        "tool1Name": "Freelance Income Calculator",
+        "tool1Desc": "Kalkulahin ang iyong freelance income, ZATCA compliance costs, at net earnings pagkatapos ng VAT at deductions.",
+        "tool1Href": "/freelance-calculator",
+        "tool2Name": "Nitaqat Simulator",
+        "tool2Desc": "Gayahin kung paano naaapektuhan ng Nitaqat Saudization ratios ang klasipikasyon ng iyong kumpanya at visa processing capabilities.",
+        "tool2Href": "/nitaqat-simulator",
+        "tool3Name": "CR Cost Estimator",
+        "tool3Desc": "Tantyahin ang iyong Commercial Registration (CR) renewal costs kabilang ang chamber fees, professional license, at municipal charges.",
+        "tool3Href": "/cr-cost-estimator",
+        "tool4Name": "Zakat Calculator",
+        "tool4Desc": "Kalkulahin ang iyong Zakat obligation batay sa Saudi Zakat regulations para sa mga negosyo at indibidwal.",
+        "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa mga regulasyon ng ZATCA at Saudi VAT Law. Maaaring mag-iba ang mga kinakailangan sa compliance batay sa uri ng iyong negosyo, revenue threshold, at ZATCA classification. Inirerekomenda namin ang pagkonsulta sa ZATCA-approved tax advisor para sa opisyal na gabay. Ito ay hindi legal o tax advice."
+    }
+  },
+  "NitaqatCalculator": {
+    "toolName": "Nitaqat (Saudization) 'What-If' Simulator",
+    "description": "Gayahin kung paano naaapektuhan ng pag-hire ng Saudi employees o pag-alis ng expats ang Nitaqat band ng iyong kumpanya (Red, Yellow, Green, Platinum). Libre, pribado, instant.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Kumpanya",
+      "totalEmployees": { "label": "Kabuuang Bilang ng mga Empleyado" },
+      "saudiEmployees": { "label": "Kasalukuyang Bilang ng Saudi Employees" },
+      "sector": {
+        "label": "Industriya / Sektor",
+        "options": { "all": "Standard (General Thresholds)" },
+        "hint": "Gumagamit ng standard Nitaqat thresholds. Ang exact bands ay depende sa MHRSD tables para sa iyong sektor at laki ng kumpanya."
+      }
+    },
+    "buttons": {
+      "simulate": "Gayahin ang Nitaqat Band",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print"
+    },
+    "simulator": {
+      "title": "What-If Simulator",
+      "saudiEmployees": "Saudi Employees",
+      "expatEmployees": "Expat Employees",
+      "addSaudi": "+ Saudi",
+      "removeSaudi": "- Saudi",
+      "addExpat": "+ Expat",
+      "removeExpat": "- Expat",
+      "hint": "Gamitin ang +/- buttons sa itaas para gayahin ang pag-hire o pag-alis ng empleyado. Tingnan kung paano nagbabago ang iyong Nitaqat band sa real time."
+    },
+    "results": {
+      "currentStatus": "Kasalukuyang Nitaqat Status",
+      "proposedStatus": "Iminungkahing Nitaqat Status",
+      "saudizationPct": "Saudization %",
+      "nitaqatBand": "Nitaqat Band",
+      "breakdown": "Headcount Breakdown",
+      "saudi": "Saudi",
+      "expat": "Expat",
+      "total": "Total",
+      "recommendation": "Rekomendasyon"
+    },
+    "bandLabels": {
+      "platinum": "Platinum",
+      "highGreen": "High Green",
+      "midGreen": "Mid Green",
+      "lowGreen": "Low Green",
+      "yellow": "Yellow",
+      "red": "Red"
+    },
+    "bandDescriptions": {
+      "platinum": "Walang limitasyong visa processing. Buong access sa government services.",
+      "highGreen": "Standard visa processing. Kuwalipikado para sa karamihan ng benepisyo.",
+      "midGreen": "Normal na visa processing. Competitive na Saudization compliance.",
+      "lowGreen": "Limitadong visa processing. Naabot ang minimum na Saudization threshold.",
+      "yellow": "Pinaghihigpitang pag-isyu ng visa. Mas mataas na government fees.",
+      "red": "Visa issuance na naka-block. Panganib ng MHRSD enforcement actions."
+    },
+    "bandLegend": {
+      "title": "Sanggunian ng Nitaqat Band"
+    },
+    "recommendation": {
+      "noChange": "Ang iyong mga iminungkahing pagbabago ay nagpapanatili ng parehong Nitaqat band.",
+      "hire": "Kumuha ng mas maraming Saudi employees para mapabuti ang iyong Nitaqat band.",
+      "hireMore": "Kumuha ng {count} pang Saudi employee(s) para maabot ang {band} band.",
+      "good": "Ang iyong kumpanya ay nasa mabuting Nitaqat standing. Panatilihin ang compliance.",
+      "warning": "Ang iyong mga iminungkahing pagbabago ay maaaring magpababa ng iyong Nitaqat band. Suriin bago magpatuloy.",
+      "dropWarning": "Ang mga pagbabagong ito ay nanganganib na ibaba ang iyong band mula sa {band}. Isaalang-alang ang pagkuha ng mas maraming Saudi."
+    },
+    "emptyState": "Ilagay ang detalye ng iyong kumpanya sa itaas at gamitin ang simulator para makita kung paano naaapektuhan ng mga pagbabago ang iyong Nitaqat band.",
+    "copiedResult": "Nitaqat Sim: Kasalukuyan {current}% → Iminungkahi {proposed}% (mula sa HsabKSA)",
+    "disclaimer": "Ang simulator na ito ay nagbibigay ng mga tantiya batay sa standard Nitaqat thresholds. Ang actual bands ay depende sa iyong partikular na sektor, laki ng kumpanya, at pinakabagong MHRSD tables. Kumonsulta sa iyong PRO o sa Qiwa/MHRSD portal para sa iyong opisyal na klasipikasyon. Ito ay hindi legal o regulatory advice.",
+    "errors": {
+      "totalRequired": "Maglagay ng wastong kabuuang bilang ng empleyado (minimum 1).",
+      "saudiExceedsTotal": "Hindi maaaring lumampas ang Saudi employees sa kabuuang empleyado.",
+      "invalidSaudi": "Maglagay ng wastong bilang ng Saudi employees.",
+      "generic": "May maling nangyari. Pakisubukan muli."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Nitaqat (Saudization) Simulator",
+        "step1Title": "Hakbang 1: Ilagay ang Iyong Kasalukuyang Headcount",
+        "step1Desc": "Ilagay ang kabuuang bilang ng iyong empleyado at ang kasalukuyang bilang ng Saudi employees. Ang mga numerong ito ay tumutukoy sa iyong kasalukuyang Saudization percentage at Nitaqat band.",
+        "step2Title": "Hakbang 2: I-click ang 'Gayahin ang Nitaqat Band'",
+        "step2Desc": "I-click ang green simulate button para kalkulahin ang iyong kasalukuyang band at makita ang iyong baseline status. Ang iyong kasalukuyang Saudization percentage at band ay lalabas sa kanan.",
+        "step3Title": "Hakbang 3: Gamitin ang What-If Simulator Controls",
+        "step3Desc": "Gamitin ang +Saudi, -Saudi, +Expat, at -Expat buttons para gayahin ang mga pagbabago sa iyong workforce. Ang bawat click ay nag-a-update ng proposed headcount kaagad. Subukan ang iba't ibang kombinasyon para makita kung paano nagbabago ang iyong band.",
+        "step4Title": "Hakbang 4: Suriin ang Iminungkahing Band at Rekomendasyon",
+        "step4Desc": "Panoorin habang nag-a-update ang proposed band sa real time. Ang recommendation panel ay nagsasabi sa iyo kung anong mga aksyon ang gagawin — tulad ng ilan pang Saudi ang kailangan para maabot ang susunod na band.",
+        "step5Title": "Hakbang 5: Planuhin ang Iyong HR Strategy",
+        "step5Desc": "Gamitin ang simulation results para planuhin ang iyong hiring strategy, mag-budget para sa Saudi employee salaries, at ihanda ang iyong kumpanya para sa Nitaqat compliance audits. I-share o i-print ang mga resulta para sa iyong PRO o HR team."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Nitaqat Bands sa Saudi Arabia",
+        "content": "Ang Nitaqat ay isang programa ng Saudization ng Ministry of Human Resources and Social Development (MHRSD) na nag-uuri ng mga kumpanya sa color-coded bands batay sa kanilang Saudization percentage. Ang bawat band ay may iba't ibang implikasyon para sa visa processing, government fees, at business operations.\n\nPlatinum Band (25%+): Ang mga kumpanyang may pinakamataas na Saudization rates ay nag-e-enjoy ng unrestricted visa processing, mas mabilis na government transactions, at priority access sa MHRSD services. Ito ang ideal band para sa mga kumpanyang gustong lumago.\n\nGreen Bands (6%–24.9%): Ang mga kumpanya sa Low Green (6–9.9%), Mid Green (10–14.9%), o High Green (15–24.9%) ay maaaring mag-process ng visa nang normal ngunit maaaring makaranas ng bahagyang mas mataas na fees depende sa kanilang exact band. Karamihan sa compliant companies ay nag-o-operate sa mga bands na ito.\n\nYellow Band (3%–5.9%): Ang mga kumpanya sa Yellow band ay nahaharap sa makabuluhang visa processing restrictions. Maaari lamang silang mag-renew ng mga existing visa, hindi mag-isyu ng bago. Ang government fees ay mas mataas. Ang band na ito ay nagsisilbing warning zone.\n\nRed Band (< 3%): Ang mga kumpanya sa Red ay hindi maaaring mag-isyu ng anumang bagong visa, mag-renew ng expired visa, o mag-transfer ng employee sponsorships. Maaaring suspendihin ng MHRSD ang kanilang access sa government services. Kailangan ang agarang corrective action.\n\nMahalaga: Ang thresholds ay nag-iiba ayon sa sektor (ang high-risk sectors tulad ng construction ay may mas mababang requirements, habang ang low-risk sectors tulad ng IT ay may mas mataas na requirements). Laging i-verify ang iyong opisyal na klasipikasyon sa Qiwa o MHRSD portal.",
+        "exampleTitle": "Mabilis na Halimbawa",
+        "example": "Kasalukuyan: 2 Saudi + 10 Expats = 12 Total → 16.7% → High Green\n\nScenario A: Kumuha ng 2 pang Saudi (+2 Saudi)\n→ 4 Saudi + 10 Expats = 14 Total → 28.6% → Platinum ✓\n\nScenario B: Alisin ang 2 Expats (-2 Expat)\n→ 2 Saudi + 8 Expats = 10 Total → 20% → High Green (walang pagbabago)\n\nScenario C: Kumuha ng 5 Expats (+5 Expat)\n→ 2 Saudi + 15 Expats = 17 Total → 11.8% → Mid Green (bumaba ng isang band!)"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Nitaqat at Saudization",
+        "q1": "Ano ang minimum na Saudization percentage para sa IT companies sa Saudi Arabia?",
+        "a1": "Ang Saudization thresholds ay nag-iiba ayon sa sektor at laki ng kumpanya. Para sa low-risk sectors tulad ng IT at Consulting, ang Green band ay karaniwang nagsisimula sa 6-10% Saudization depende sa laki ng iyong kumpanya. Ang Platinum ay nangangailangan ng 25% o mas mataas. Laging suriin ang opisyal na MHRSD tables para sa iyong specific classification.",
+        "q2": "Paano naaapektuhan ng Nitaqat band ang visa processing?",
+        "a2": "Ang Platinum at Green bands ay nagpapahintulot ng normal na pag-isyu ng visa. Ang Yellow-band companies ay nahaharap sa restrictions — maaari silang mag-renew ng existing visas ngunit hindi maaaring mag-isyu ng bagong work visas. Ang Red-band companies ay ganap na naka-block mula sa visa services at nasa panganib ng MHRSD enforcement kabilang ang service suspension.",
+        "q3": "Ano ang mangyayari kung ang aking kumpanya ay nasa Red Nitaqat band?",
+        "a3": "Ang Red-band companies ay hindi maaaring mag-isyu ng bagong work visas, mag-renew ng expat contracts, o mag-transfer ng sponsorships. Maaari ring i-suspend ng MHRSD ang access sa government services kabilang ang Qiwa, MOL services, at visa platforms. Kailangan ang agarang aksyon para kumuha ng Saudi o bawasan ang expat headcount.",
+        "q4": "Ilang Saudi ang kailangan kong kunin para lumipat mula Red papuntang Green?",
+        "a4": "Depende ito sa iyong total headcount. Sa 50 total employees at 0 Saudi (0% = Red), kailangan mo ng 3 Saudi para maabot ang 6% (Low Green). Gamitin ang simulator na ito para subukan ang iba't ibang hiring scenarios.",
+        "q5": "Ang pagbawas ba ng expat employees ay nagpapabuti ng aking Nitaqat band?",
+        "a5": "Oo. Ang pagbawas ng non-Saudi employees ay nagpapataas ng iyong Saudization percentage nang hindi kumukuha ng bagong Saudi. Sa 2 Saudi at 10 expats (16.7% = High Green), ang pag-alis ng 3 expats ay nagtataas nito sa 28.6% (Platinum). Ito ay madalas na mas mabilis at mas mura kaysa sa pagkuha ng bagong Saudi.",
+        "q6": "Ano ang pagkakaiba ng Green, Yellow, at Red bands?",
+        "a6": "Green (6%+): Normal na visa processing, standard fees. Yellow (3-5.9%): Pinaghihigpitang pag-isyu ng visa, mas mataas na fees, maaari lamang mag-renew. Red (< 3%): Lahat ng visa services ay naka-block, panganib ng MHRSD enforcement, kailangan ang agarang compliance.",
+        "q7": "Gaano kadalas ina-update ng MHRSD ang Nitaqat thresholds?",
+        "a7": "Ina-update ng MHRSD ang Nitaqat thresholds pana-panahon, karaniwan kada quarter o kapag nagbabago ang mga patakaran ng Saudization. Laging suriin ang MHRSD portal o ang iyong Qiwa account para sa iyong kasalukuyang band at pinakabagong threshold tables."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Business at HR Tools",
+        "tool1Name": "ZATCA VAT Calculator",
+        "tool1Desc": "Kalkulahin ang VAT para sa ZATCA compliance sa Saudi Arabia. May kasamang Phase 1 at Phase 2 compliance checklist.",
+        "tool1Href": "/zatca-vat-calculator",
+        "tool2Name": "Freelance Income Calculator",
+        "tool2Desc": "Kalkulahin ang iyong freelance income, ZATCA compliance costs, at net earnings pagkatapos ng VAT at deductions.",
+        "tool2Href": "/freelance-calculator",
+        "tool3Name": "EOSB Calculator",
+        "tool3Desc": "Kalkulahin ang iyong End of Service Benefit sa ilalim ng Saudi Labor Law (Articles 84 & 85).",
+        "tool3Href": "/eosb-calculator",
+        "tool4Name": "Final Settlement Calculator",
+        "tool4Desc": "Kalkulahin ang iyong full settlement kabilang ang unpaid salary, vacation pay, air ticket, at EOSB.",
+        "tool4Href": "/final-settlement-calculator"
+      },
+      "disclaimer": "Ang simulator na ito ay nagbibigay ng mga tantiya batay sa standard Nitaqat thresholds. Ang actual bands ay depende sa iyong partikular na sektor, laki ng kumpanya, at pinakabagong MHRSD tables. Inirerekomenda namin ang pagsuri sa opisyal na Qiwa o MHRSD portal para sa exact classification ng iyong kumpanya. Ito ay hindi legal o regulatory advice."
+    }
+  },
+  "IbanValidator": {
+    "toolName": "Saudi IBAN Validator at Transfer Fee Estimator",
+    "description": "I-validate ang format ng Saudi IBAN at tantiyahin ang bank transfer fees para sa SARIE, Mada, at International SWIFT transfers.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "IBAN at Detalye ng Transfer",
+      "iban": { "label": "Numero ng IBAN", "placeholder": "SA80 1000 0000 0000 0000 0000" },
+      "transferType": { "label": "Uri ng Transfer", "options": { "sarie": "SARIE (Lokal na Libre)", "mada": "Mada (Lokal)", "swift": "International SWIFT" } },
+      "amount": { "label": "Halaga ng Transfer (SAR)", "placeholder": "1000" }
+    },
+    "buttons": { "validate": "I-validate ang IBAN at Tantyahin ang Fees", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": { "valid": "Valid na Saudi IBAN ✓", "invalid": "Hindi Valid na IBAN", "bankName": "Pangalan ng Bangko", "bankCode": "Bank Code", "unknown": "Hindi Kilalang Bangko" },
+    "fees": {
+      "title": "Tantya ng Transfer Fee",
+      "sarie": "SARIE (Lokal) — Libre, instant transfer sa pagitan ng Saudi banks",
+      "mada": "Mada (Lokal) — ~2-5 SAR na fee para sa lokal na transfer",
+      "swift": "International SWIFT — ~75-150 SAR + 2% exchange margin",
+      "estimatedFee": "Tinantyang Flat Fee", "exchangeMargin": "Exchange Margin (2%)", "totalCost": "Tinantyang Kabuuang Gastos"
+    },
+    "emptyState": "Maglagay ng Saudi IBAN number para i-validate at tantyahin ang transfer fees.",
+    "copiedResult": "IBAN: {iban} | Bangko: {bank} (via HsabKSA)",
+    "disclaimer": "Ang IBAN validator na ito ay nagsusuri lamang ng format. Ang transfer fees ay tantiya batay sa standard bank rates. Ang aktwal na fees ay nag-iiba sa bawat bangko.",
+    "errors": { "invalidFormat": "Hindi valid na IBAN format. Ang Saudi IBAN ay dapat magsimula sa SA na sinusundan ng 22 digits.", "generic": "May naganap na error." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano I-validate ang Saudi IBAN at Tantyahin ang Transfer Fees",
+        "step1Title": "Step 1: Ilagay ang Iyong IBAN Number", "step1Desc": "Ilagay ang buong 24-character na Saudi IBAN na nagsisimula sa SA.",
+        "step2Title": "Step 2: Piliin ang Uri ng Transfer", "step2Desc": "Pumili sa pagitan ng SARIE (libreng lokal), Mada (mababang gastos), o International SWIFT.",
+        "step3Title": "Step 3: Ilagay ang Halaga ng Transfer", "step3Desc": "Ilagay ang halaga na plano mong i-transfer sa SAR.",
+        "step4Title": "Step 4: Tingnan ang Validation at Fee Results", "step4Desc": "Bini-validate ng tool ang IBAN format at tinatantiya ang transfer fees.",
+        "step5Title": "Step 5: Suriin ang Detalye ng Bangko", "step5Desc": "Suriin ang natukoy na pangalan ng bangko at bank code."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Saudi IBAN at Transfer Fees",
+        "content": "Saudi IBAN: SA + 22 digits. Bank Codes: 10=SNB, 20=Al Rajhi, 30=Albilad, 40=Arab National, 50=Alinma, 60=AlJazira, 65=SABB, 70=Saudi Fransi, 75=Riyad Bank. Transfers: SARIE=Libre, Mada=2-5 SAR, SWIFT=75-150 SAR+2%.",
+        "exampleTitle": "Halimbawa ng Transfer",
+        "example": "SA80 1000 0000 0000 0000 0000\nBank Code: 80 = Al Rajhi\nSWIFT Transfer SAR 10,000\nFlat Fee: SAR 100\nMargin (2%): SAR 200\nTotal: SAR 300"
+      },
+      "faq": {
+        "title": "Mga FAQ Tungkol sa IBAN at Transfers",
+        "q1": "Ano ang istraktura ng Saudi IBAN?", "a1": "SA + 22 digits. Unang 2 pagkatapos ng SA = bank code.",
+        "q2": "Kilalanin ang bangko mula sa IBAN?", "a2": "Chars 3-4: 10=SNB, 20=Al Rajhi, 30=Albilad, 40=Arab National, 50=Alinma, 60=AlJazira, 65=SABB, 70=Saudi Fransi, 75=Riyad Bank.",
+        "q3": "SARIE vs SWIFT?", "a3": "SARIE: libre, instant, lokal. SWIFT: 75-150 SAR + 2%, internasyonal.",
+        "q4": "Gastos ng internasyonal na transfer?", "a4": "75-150 SAR + ~2% margin. Para sa SAR 10,000: ~275-350 SAR.",
+        "q5": "Libre ba ang SARIE?", "a5": "Oo, libre at instant sa pagitan ng Saudi banks.",
+        "q6": "Mga bayad sa Mada?", "a6": "2-5 SAR para sa mga lokal na transfer.",
+        "q7": "Saan mahahanap ang aking IBAN?", "a7": "Bank statement, mobile app, o bank branch."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Finance Tools",
+        "tool1Name": "SAMA Loan Calculator", "tool1Desc": "Suriin ang pagiging kwalipikado sa ilalim ng 33% na patakaran ng SAMA.", "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "Zakat Calculator", "tool2Desc": "Kalkulahin ang Zakat sa mga ipon at investment.", "tool2Href": "/zakat-calculator",
+        "tool3Name": "SIP Return Calculator", "tool3Desc": "Kalkulahin ang SIP returns sa Saudi mutual funds.", "tool3Href": "/sip-calculator",
+        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Hatiin ang RETT tax para sa Saudi property.", "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "Bini-validate ng tool na ito ang format lamang. Ang mga tantiya ng fee ay batay sa standard rates."
+    }
+  },
+  "SipCalculator": {
+    "toolName": "Mutual Fund / SIP Return Calculator",
+    "description": "Kalkulahin ang returns sa Systematic Investment Plans (SIP) na inaalok ng Saudi banks. Kasama ang future value, total invested, at wealth gained.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng SIP Investment",
+      "monthlyInvestment": { "label": "Buwanang Investment (SAR)", "placeholder": "1000" },
+      "annualReturn": { "label": "Inaasahang Taunang Return (%)", "placeholder": "8" },
+      "duration": { "label": "Tagal (Taon)", "placeholder": "10" }
+    },
+    "buttons": { "calculate": "Kalkulahin ang SIP Returns", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": { "futureValue": "Kabuuang Future Value", "totalInvested": "Kabuuang Na-invest", "estimatedReturns": "Tinantyang Wealth Gained" },
+    "chart": { "title": "Principal kumpara sa Returns", "principal": "Principal (Iyong Investment)", "returns": "Returns (Wealth Gained)" },
+    "emptyState": "Ilagay ang iyong buwanang investment amount para kalkulahin ang iyong SIP returns sa paglipas ng panahon.",
+    "copiedResult": "SIP Future Value: {fv} SAR | Total Invested: {invested} SAR (via HsabKSA)",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa compound interest calculations. Ang aktwal na returns ay depende sa market performance. Kumonsulta sa financial advisor.",
+    "errors": { "generic": "May naganap na error. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Kalkulahin ang SIP Returns",
+        "step1Title": "Step 1: Ilagay ang Buwanang Investment", "step1Desc": "Ilagay ang halaga na plano mong i-invest buwan-buwan. Ang minimum ay nagsisimula sa SAR 500-1,000.",
+        "step2Title": "Step 2: Itakda ang Inaasahang Return Rate", "step2Desc": "Ilagay ang inaasahang taunang return. Money market 4-6%, Balanced 6-8%, Equity 8-12%.",
+        "step3Title": "Step 3: Piliin ang Tagal", "step3Desc": "Pumili ng 1 hanggang 30 taon. Mas mahaba = mas maraming compound growth.",
+        "step4Title": "Step 4: Tingnan ang Future Value", "step4Desc": "Tingnan ang kabuuang future value, halagang na-invest, at wealth gained.",
+        "step5Title": "Step 5: Suriin ang Chart", "step5Desc": "Ipinapakita ng visual chart ang breakdown ng principal vs returns."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa SIP Returns",
+        "content": "Ang SIP ay gumagamit ng compound interest: FV = P × [((1+r)^n - 1)/r] × (1+r). Ang mas mahabang tagal at mas mataas na rate ay nagpapataas ng returns nang malaki.",
+        "exampleTitle": "Halimbawa ng Pagkalkula",
+        "example": "Buwanan: SAR 1,000\nReturn: 8%\nTagal: 10 taon\nFuture Value: ~SAR 184,164\nNa-invest: SAR 120,000\nReturns: SAR 64,164"
+      },
+      "faq": {
+        "title": "Mga FAQ Tungkol sa SIP",
+        "q1": "Ano ang SIP?", "a1": "Systematic Investment Plan — mag-invest ng fixed amount buwan-buwan sa mutual funds.",
+        "q2": "Formula ng SIP return?", "a2": "FV = P × [((1+r)^n - 1)/r] × (1+r) para sa buwanang compounding.",
+        "q3": "Magandang return rate?", "a3": "6-12%. Money market 4-6%, balanced 6-8%, equity 8-12%.",
+        "q4": "Minimum na investment?", "a4": "Karaniwang SAR 500-1,000/buwan. Ang ilang funds ay tumatanggap ng SAR 200-300.",
+        "q5": "Maagang pag-withdraw?", "a5": "Oo, ngunit maaaring may exit fees sa unang 1-2 taon.",
+        "q6": "SIP vs lump sum?", "a6": "SIP ay nag-a-average ng gastos sa paglipas ng panahon. Lump sum ay isang beses na invest. Mas maganda ang SIP para sa pangmatagalan.",
+        "q7": "Mga Saudi bank na nag-aalok ng SIP?", "a7": "Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Finance Tools",
+        "tool1Name": "SAMA Loan Calculator", "tool1Desc": "Suriin ang pagiging kwalipikado sa ilalim ng 33% na patakaran ng SAMA.", "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "Zakat Calculator", "tool2Desc": "Kalkulahin ang Zakat sa mga ipon at investment.", "tool2Href": "/zakat-calculator",
+        "tool3Name": "IBAN Validator", "tool3Desc": "I-validate ang Saudi IBAN at tantyahin ang transfer fees.", "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Hatiin ang RETT tax para sa Saudi property.", "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay lamang ng mga tantiya. Ang returns ay hindi garantisado."
+    }
+  },
+  "ZakatCalculator": {
+    "toolName": "Personal Zakat & Gold Savings Calculator",
+    "description": "Kalkulahin ang iyong Zakat obligation sa cash savings, ginto, pilak, at investments batay sa Nisab threshold. 2.5% rate ayon sa Islamic rules.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Iyong Mga Asset at Utang",
+      "cashSavings": { "label": "Cash at Bank Savings (SAR)", "placeholder": "50000" },
+      "investments": { "label": "Investments/Stocks (SAR)", "placeholder": "0" },
+      "goldGrams": { "label": "Gold Weight (Grams)", "placeholder": "0" },
+      "silverGrams": { "label": "Silver Weight (Grams)", "placeholder": "0" },
+      "goldPrice": { "label": "Gold Price/Gram (SAR)", "placeholder": "300" },
+      "silverPrice": { "label": "Silver Price/Gram (SAR)", "placeholder": "4" },
+      "debts": { "label": "Immediate Debts Owed (SAR)", "placeholder": "0" }
+    },
+    "buttons": { "calculate": "Kalkulahin ang Zakat", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": { "zakatPayable": "Kabuuang Zakat na Babayaran", "nisabThreshold": "Nisab Threshold", "netWealth": "Net Wealth", "nisabNotMet": "Hindi Naabot ang Nisab — Walang Zakat", "nisabStatus": "Nisab Status" },
+    "breakdown": { "title": "Asset Breakdown", "cashSavings": "Cash at Bank Savings", "goldValue": "Gold Value", "silverValue": "Silver Value", "investments": "Investments/Stocks", "totalAssets": "Total Assets", "debts": "Immediate Debts", "netWealth": "Net Wealth" },
+    "nisabMet": "Naabot ang Nisab threshold. 2.5% Zakat ay dapat bayaran sa iyong net wealth.",
+    "emptyState": "Ilagay ang iyong savings, ginto, at investments para kalkulahin ang iyong Zakat.",
+    "copiedResult": "Zakat: {zakat} SAR | Net Wealth: {netWealth} SAR (via HsabKSA)",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng tantiya. Kumonsulta sa isang Islamic scholar para sa tiyak na gabay.",
+    "errors": { "generic": "May maling nangyari. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Kalkulahin ang Iyong Zakat",
+        "step1Title": "Step 1: Ilagay ang Iyong Cash at Savings",
+        "step1Desc": "Ilagay ang lahat ng cash at bank account balances sa SAR.",
+        "step2Title": "Step 2: Ilagay ang Gold at Silver Holdings",
+        "step2Desc": "Ilagay ang bigat ng ginto at pilak sa grams.",
+        "step3Title": "Step 3: Ilagay ang Investments at Utang",
+        "step3Desc": "Ilagay ang halaga ng iyong investment portfolio at mga utang.",
+        "step4Title": "Step 4: Tingnan ang Nisab Status at Zakat",
+        "step4Desc": "Tingnan kung ang iyong net wealth ay lumampas sa Nisab threshold.",
+        "step5Title": "Step 5: Suriin ang Asset Breakdown",
+        "step5Desc": "Suriin ang breakdown ng bawat asset category."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Pagkalkula ng Zakat",
+        "content": "Ang Zakat ay kinakalkula batay sa:\n\n1. Nisab: Minimum threshold = 85 grams ng ginto.\n2. Zakat Rate: 2.5% ng net wealth.\n3. Kasamang Asset: Cash, ginto, pilak, investments.\n4. Hindi Kasama: Personal residence, sasakyan.\n5. Ibawas na Utang: Short-term debts.",
+        "exampleTitle": "Example Calculation",
+        "example": "Cash Savings: SAR 50,000\nGold: 50g × 300 = SAR 15,000\nInvestments: SAR 20,000\nTotal: SAR 85,000\nDebts: -SAR 5,000\nNet Wealth: SAR 80,000\nNisab: 85 × 300 = SAR 25,500\nZakat: 80,000 × 2.5% = SAR 2,000"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Zakat",
+        "q1": "Ano ang Nisab threshold?", "a1": "Ang Nisab ay halaga ng 85g ginto. Sa SAR 300/g, ito ay SAR 25,500.",
+        "q2": "Nagbabayad ba ako ng Zakat sa ginto at pilak?", "a2": "Oo, sa market value nito.",
+        "q3": "Nagbabayad ba ako ng Zakat sa investments?", "a3": "Oo, stocks at mutual funds sa current market value.",
+        "q4": "Maaari ko bang ibawas ang utang bago ang Zakat?", "a4": "Oo, short-term debts na dapat bayaran sa loob ng taon.",
+        "q5": "Kailan ako dapat magbayad ng Zakat?", "a5": "Pagkatapos ng isang lunar year. Marami ang nagbabayad sa Ramadan.",
+        "q6": "Ano ang current gold price?", "a6": "Tingnan ang Saudi Gold Market sa araw ng pagkalkula.",
+        "q7": "Ang personal assets ba ay subject sa Zakat?", "a7": "Hindi. Residence at sasakyan ay hindi Zakatable."
+      },
+      "relatedTools": {
+        "title": "Related Finance & Banking Tools",
+        "tool1Name": "SAMA Loan Calculator", "tool1Desc": "Check loan eligibility under SAMA's 33% DBR rule.", "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "SIP Return Calculator", "tool2Desc": "Calculate returns on SIP investments.", "tool2Href": "/sip-calculator",
+        "tool3Name": "IBAN Validator", "tool3Desc": "Validate Saudi IBANs and estimate transfer fees.", "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Split RETT tax for Saudi property.", "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng tantiya. Kumonsulta sa Islamic scholar para sa tiyak na gabay."
+    }
+  },
+  "SamaLoanCalculator": {
+    "toolName": "SAMA Loan Eligibility Calculator",
+    "description": "Kalkulahin ang iyong maximum personal loan batay sa 33% Debt Burden Ratio (DBR) na panuntunan ng SAMA. Alamin ang eligibility, monthly EMI, at total interest.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Loan Eligibility",
+      "monthlySalary": { "label": "Monthly Salary (SAR)", "placeholder": "hal. 10000" },
+      "existingEMIs": { "label": "Kasalukuyang Buwanang EMI/Bawas (SAR)", "placeholder": "hal. 0" },
+      "annualRate": { "label": "Taunang Interest Rate (%)", "placeholder": "5.99" },
+      "tenureYears": { "label": "Tagal ng Loan", "year": "Taon" }
+    },
+    "buttons": { "calculate": "I-check ang Eligibility", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": { "eligibleLoan": "Maximum Eligible Loan", "monthlyEMI": "Monthly EMI", "totalInterest": "Kabuuang Interest na Babayaran" },
+    "dbrInfo": { "utilization": "Paggamit", "yourDBR": "Iyong DBR", "samaLimit": "SAMA Limit", "maxAllowed": "Maximum Allowed EMI (33% ng Salary):", "available": "Available EMI para sa Bagong Loan:" },
+    "emptyState": "Ilagay ang iyong salary at mga kasalukuyang obligasyon para malaman ang iyong loan eligibility sa ilalim ng SAMA rules.",
+    "copiedResult": "SAMA Loan: {loan} SAR | Monthly EMI: {emi} SAR (via HsabKSA)",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa SAMA's 33% DBR regulation. Ang aktwal na loan approval ay nakadepende sa credit policy ng iyong bangko, credit score (SIMAH), at financial history. Kumonsulta sa iyong bangko para sa eksaktong pre-approval. Ito ay hindi financial advice.",
+    "errors": { "salaryRequired": "Pakilagay ang iyong monthly salary.", "generic": "May nangyaring mali. Pakisubukan muli.", "dbrLimitReached": "Naabot mo na ang iyong SAMA DBR limit (33%). Bawasan ang kasalukuyang utang bago mag-apply ng bagong loan." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano I-check ang Iyong SAMA Loan Eligibility",
+        "step1Title": "Step 1: Ilagay ang Iyong Monthly Salary",
+        "step1Desc": "Ilagay ang iyong kabuuang monthly salary sa SAR. Ito ay ginagamit para kalkulahin ang maximum allowed EMI sa ilalim ng SAMA's 33% Debt Burden Ratio rule.",
+        "step2Title": "Step 2: Ilagay ang Kasalukuyang Bawas",
+        "step2Desc": "Ilagay ang lahat ng kasalukuyang monthly EMI obligations kasama ang personal loans, auto loans, at credit card payments.",
+        "step3Title": "Step 3: Itakda ang Interest Rate at Tagal",
+        "step3Desc": "Ilagay ang inaasahang taunang interest rate (ang default na 5.99% ay tipikal para sa Saudi personal loans). Piliin ang iyong preferred loan tenure mula 1 hanggang 5 taon.",
+        "step4Title": "Step 4: Tingnan ang Iyong Maximum Eligible Loan",
+        "step4Desc": "Ipinapakita ng calculator ang iyong maximum eligible loan amount, monthly EMI, total interest payable, at DBR utilization na may visual progress bar.",
+        "step5Title": "Step 5: Unawain ang Iyong DBR Status",
+        "step5Desc": "Suriin ang DBR utilization bar. Kung ang iyong mga kasalukuyang EMI ay kumokonsumo na ng 33% ng iyong salary, maaaring hindi ka kwalipikado para sa karagdagang financing."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa SAMA Debt Burden Ratio",
+        "content": "Ang Saudi Central Bank (SAMA) ay nagpatupad ng 33% Debt Burden Ratio (DBR) rule:\n\n1. Maximum Allowed EMI = Monthly Salary × 33%\n2. Available EMI = Max Allowed - Existing Deductions\n3. Maximum Loan ay gumagamit ng amortization formula\n4. Ipinapakita ng DBR ang % ng 33% limit na ginamit",
+        "exampleTitle": "Halimbawa",
+        "example": "Empleyado na may SAR 15,000 Monthly Salary\n\nSalary: SAR 15,000\nExisting EMIs: SAR 2,000\nRate: 5.99%\nTenure: 5 taon\n\nMax EMI: 15,000 × 33% = SAR 4,950\nAvailable EMI: 4,950 - 2,000 = SAR 2,950\nMax Loan: ~SAR 152,574\nTotal Interest: ~SAR 24,426\nDBR: 40.4%"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa SAMA Loan Eligibility",
+        "q1": "Ano ang SAMA 33% Debt Burden Ratio?", "a1": "Itinatakda ng SAMA na ang iyong kabuuang monthly debt payments ay hindi lalagpas sa 33% ng iyong monthly salary.",
+        "q2": "Paano kinakalkula ng bangko ang maximum loan amount?", "a2": "Ginagamit ng bangko ang: Available EMI (33% ng salary minus existing payments) × Amortization Factor.",
+        "q3": "Ano ang maximum tenure ng personal loan?", "a3": "Pinapayagan ng SAMA ang hanggang 5 taon (60 buwan) para sa personal loans.",
+        "q4": "Anong interest rate ang dapat kong asahan?", "a4": "Ang tipikal na rates ay mula 3.99% hanggang 7.99% APR batay sa salary at credit history.",
+        "q5": "Pwede ba akong makakuha ng loan kung ang DBR ko ay 33%?", "a5": "Hindi. Kailangan mong bawasan ang kasalukuyang utang upang magkaroon ng DBR room.",
+        "q6": "Ano ang itinuturing na mga kasalukuyang bawas?", "a6": "Personal loan EMIs, auto loans, credit card payments, at iba pang rehistradong utang.",
+        "q7": "Paano ko mapapabuti ang aking loan eligibility?", "a7": "Bayaran ang credit cards, bawasan ang loans, dagdagan ang salary, panatilihin ang magandang SIMAH credit."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Finance at Banking Tools",
+        "tool1Name": "Personal Zakat Calculator", "tool1Desc": "Kalkulahin ang iyong Zakat sa savings, ginto, at investments.", "tool1Href": "/zakat-calculator",
+        "tool2Name": "SIP Return Calculator", "tool2Desc": "Kalkulahin ang returns sa SIP investments sa Saudi mutual funds.", "tool2Href": "/sip-calculator",
+        "tool3Name": "IBAN Validator", "tool3Desc": "I-validate ang Saudi IBANs at tantyahin ang transfer fees.", "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter", "tool4Desc": "I-split ang Real Estate Transaction Tax para sa Saudi property.", "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa SAMA regulations. Ang aktwal na loan approval ay napapailalim sa underwriting criteria ng iyong bangko."
+    }
+  },
+  "CrCostEstimator": {
+    "toolName": "Commercial Registration (CR) Cost Estimator",
+    "description": "Tantyahin ang iyong mga gastos sa Commercial Registration sa Saudi Arabia kasama ang government fees, Chamber of Commerce fees, at professional service fees.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Mga Detalye ng CR",
+      "activity": {
+        "label": "Aktibidad ng Negosyo",
+        "options": {
+          "commercial": "Komersyal",
+          "industrial": "Industrial",
+          "professional": "Propesyonal",
+          "service": "Serbisyo"
+        }
+      },
+      "companyType": {
+        "label": "Uri ng Kumpanya",
+        "options": {
+          "sole_establishment": "Sole Establishment",
+          "llc": "Limited Liability (LLC)",
+          "closed_jsc": "Closed Joint Stock",
+          "foreign_branch": "Foreign Branch"
+        }
+      },
+      "cityTier": {
+        "label": "Antas ng Lungsod",
+        "options": {
+          "tier1": "Malaking Lungsod (Riyadh/Jeddah)",
+          "tier2": "Gitnang Lungsod",
+          "tier3": "Maliit na Lungsod/Bayan"
+        }
+      },
+      "premisesType": {
+        "label": "Uri ng Pag-aari",
+        "options": {
+          "rented": "Renta",
+          "owned": "Pag-aari",
+          "home_office": "Home Office"
+        }
+      },
+      "capital": { "label": "Kabisera (SAR)", "placeholder": "100000" },
+      "employees": { "label": "Mga Empleyado", "placeholder": "1" },
+      "years": { "label": "Tagal (Taon)", "placeholder": "1" }
+    },
+    "buttons": { "calculate": "Tantyahin ang Gastos ng CR", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": { "firstYear": "Gastos sa Unang Taon", "annual": "Taunang Pag-renew", "total": "Kabuuang Gastos ({years} taon)" },
+    "breakdown": {
+      "title": "Pagkakabahagi ng Gastos", "oneTime": "Unang Taon", "annual": "Taunang",
+      "governmentRegistration": "Bayad sa Government Registration", "chamberRegistration": "Bayad sa Chamber of Commerce",
+      "municipalFee": "Bayad sa Municipal License", "professionalFee": "Bayad sa Propesyonal na Serbisyo",
+      "governmentRenewal": "Bayad sa Government Renewal", "chamberRenewal": "Bayad sa Chamber Renewal"
+    },
+    "tips": {
+      "title": "Mga Tip sa Pagtipid ng Gastos",
+      "homeOffice": "Isaalang-alang ang home office kung pinapayagan ng iyong aktibidad. Makatipid ng SAR 500-800/taon sa municipal fees.",
+      "capitalLarge": "Mas malaking capital ay nagpapataas ng registration fees (0.1% ng capital). Isipin na magsimula sa pinakamababang kinakailangang capital.",
+      "employeesMany": "Bawat empleyado ay nagdaragdag ng SAR 100 sa chamber registration fees. Tiyaking lahat ng empleyado ay rehistrado nang tama.",
+      "tier1City": "Ang pagrehistro sa isang Tier 2 o 3 na lungsod ay makatitipid ng SAR 300-900 sa chamber fees kung pinapayagan ng iyong negosyo.",
+      "qawaem": "Isumite ang mga ulat pinansyal ng Qawaem sa oras upang maiwasan ang late fees at pagkaantala sa renewal. Isaalang-alang ang paggamit ng certified accountant.",
+      "bulkYears": "Ang pagrehistro para sa maraming taon ay hindi nagbabawas ng taunang renewal costs. Mag-renew taun-taon upang pamahalaan ang cash flow."
+    },
+    "emptyState": "Ilagay ang iyong mga detalye ng CR sa itaas upang matantya ang kabuuang registration at renewal costs.",
+    "copiedResult": "CR Cost: {total} SAR total | Taunang Pag-renew: {annual} SAR (sa pamamagitan ng HsabKSA)",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa karaniwang iskedyul ng bayad ng Saudi Ministry of Commerce. Maaaring mag-iba ang aktwal na gastos batay sa partikular na activity codes, karagdagang lisensya, at mga rate ng professional service provider. Kumonsulta sa certified legal consultant para sa eksaktong presyo. Ito ay hindi financial o legal na payo.",
+    "errors": { "capitalRequired": "Maglagay ng wastong halaga ng capital.", "generic": "May nangyaring mali. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Tantyahin ang Iyong mga Gastos sa CR",
+        "step1Title": "Hakbang 1: Piliin ang Business Activity at Uri ng Kumpanya",
+        "step1Desc": "Piliin ang iyong business activity (Komersyal, Industrial, Propesyonal, o Serbisyo) at uri ng kumpanya (Sole Establishment, LLC, Closed Joint Stock, o Foreign Branch). Bawat kombinasyon ay may magkakaibang fee structures.",
+        "step2Title": "Hakbang 2: Piliin ang Antas ng Lungsod at Uri ng Pag-aari",
+        "step2Desc": "Piliin ang antas ng iyong lungsod — ang malalaking lungsod tulad ng Riyadh at Jeddah ay may mas mataas na bayad. Piliin ang uri ng iyong pag-aari — renta, pag-aari, o home office. Ang home office ay nakakatipid sa municipal fees.",
+        "step3Title": "Hakbang 3: Ilagay ang Capital, Empleyado at Tagal",
+        "step3Desc": "Ilagay ang iyong rehistradong capital (SAR), bilang ng mga empleyado, at tagal ng CR sa mga taon. Mas mataas na capital at mas maraming empleyado ay nagpapataas ng registration fees nang proporsyonal.",
+        "step4Title": "Hakbang 4: Tingnan ang Kabuuang Pagkakabahagi ng Gastos",
+        "step4Desc": "Ipinapakita ng calculator ang iyong unang taon na gastos, taunang renewal cost, at kabuuang gastos. Ang breakdown table ay nagpapakita ng government fees, chamber fees, municipal fees, at professional fees nang hiwalay.",
+        "step5Title": "Hakbang 5: Suriin ang mga Tip sa Pagtipid ng Gastos",
+        "step5Desc": "Suriin ang mga personalized na tip upang bawasan ang iyong mga gastos sa CR. Isaalang-alang ang home office, pagpili ng tamang antas ng lungsod, at pagsusumite ng mga ulat ng Qawaem sa oras."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa mga Gastos ng CR sa Saudi Arabia",
+        "content": "Ang mga gastos sa Commercial Registration (CR) sa Saudi Arabia ay binubuo ng ilang bahagi:\n\n1. Government Fees: Binabayaran sa Ministry of Commerce. Mula SAR 100-300+ depende sa uri ng aktibidad. Dagdag 0.1% ng rehistradong capital para sa unang rehistrasyon.\n\n2. Chamber of Commerce Fees: Binabayaran sa lokal na Chamber. Mula SAR 600-1,500 para sa rehistrasyon dagdag SAR 100 bawat empleyado. Taunang renewal ay SAR 500-1,200 dagdag SAR 50 bawat empleyado.\n\n3. Municipal Fees: Municipal license fee batay sa uri ng pag-aari. Renta: SAR 500/taon. Pag-aari: SAR 800/taon. Home office: Libre (para sa mga kwalipikadong aktibidad).\n\n4. Professional Service Fees: Bayad para sa legal/document preparation services. Sole Establishment: SAR 500. LLC: SAR 2,000. Closed Joint Stock: SAR 5,000. Foreign Branch: SAR 8,000.\n\n5. Qawaem Financial Reporting: Kinakailangan taun-taon para sa CR renewal. Ang hindi pagsunod ay nagreresulta sa late fees at pagkaantala sa renewal.",
+        "exampleTitle": "Halimbawa ng Pagkalkula",
+        "example": "Sole Establishment sa Riyadh (Tier 1)\n\nAktibidad: Komersyal\nCapital: SAR 100,000\nEmpleyado: 1\nPag-aari: Renta\nTagal: 1 taon\n\nGovernment Registration: 200 + (100,000 x 0.1%) = 300 SAR\nChamber Registration: 1,500 + (1 x 100) = 1,600 SAR\nMunicipal Fee: 500 SAR\nProfessional Fee: 500 SAR\n\nUnang Taon Kabuuan: 2,900 SAR\nTaunang Pag-renew: 200 + 1,200 + 50 = 1,450 SAR"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa mga Gastos ng CR",
+        "q1": "Magkano ang gastos upang magrehistro ng CR sa Saudi Arabia?", "a1": "Nag-iiba-iba ang gastos ayon sa aktibidad, uri ng kumpanya, at lungsod. Government fees: SAR 100-300+. Chamber fees: SAR 600-1,500. Professional fees: SAR 500-8,000. Municipal fees: SAR 0-800. Unang taon na kabuuan karaniwang SAR 1,500-12,000+.",
+        "q2": "Ano ang pagkakaiba ng Sole Establishment at LLC?", "a2": "Sole Establishment: iisang may-ari, buong pananagutan, mas mababang gastos (SAR 500 professional fee). LLC: 2+ shareholders, limitadong pananagutan, mas mataas na gastos (SAR 2,000+ professional fee). Ang LLC ay mas mainam para sa maraming may-ari o mas mataas na capital.",
+        "q3": "Kailangan ko ba ng pisikal na opisina para sa aking CR?", "a3": "Karamihan sa mga aktibidad ay nangangailangan ng komersyal na pag-aari. Ang home office ay pinapayagan para sa ilang propesyonal na aktibidad. Renta: SAR 500/taon. Pag-aari: SAR 800/taon. Home office: libre.",
+        "q4": "Ano ang mga bayad sa Chamber of Commerce para sa CR?", "a4": "Tier 1 lungsod: SAR 1,500 rehistrasyon + SAR 1,200 renewal + SAR 100/empleyado. Tier 2: SAR 1,000 + SAR 800 + SAR 100/empleyado. Tier 3: SAR 600 + SAR 500 + SAR 100/empleyado.",
+        "q5": "Magkano ang capital na kailangan para sa CR?", "a5": "Sole Establishment: walang minimum. LLC: minimum SAR 500,000 para sa ilang aktibidad. Foreign branch: nag-iiba. Ang capital ay nakakaapekto rin sa registration fees (0.1% ng capital).",
+        "q6": "Maaari ko bang i-renew ang aking CR taun-taon?", "a6": "Oo, ang renewal ay kinakailangan taun-taon. Mas mababa ang gastos kaysa sa unang rehistrasyon. Ang Qawaem financial reporting ay mandatory para sa renewal submission.",
+        "q7": "Ano ang Qawaem at bakit ito mahalaga?", "a7": "Ang Qawaem ay ang financial reporting system ng Ministry of Commerce. Dapat magsumite ang mga kumpanya ng taunang financial statement sa pamamagitan ng Qawaem para sa CR renewal. Ang huling pagsusumite ay may parusa."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Business Tools",
+        "tool1Name": "ZATCA VAT Calculator",
+        "tool1Desc": "Kalkulahin ang VAT para sa ZATCA compliance sa Saudi Arabia. Kasama ang e-invoicing Phase 1 at Phase 2 checklist.",
+        "tool1Href": "/zatca-vat-calculator",
+        "tool2Name": "Nitaqat Simulator",
+        "tool2Desc": "Gayahin kung paano makakaapekto ang pag-hire o pagtanggal ng empleyado sa Nitaqat band ng iyong kumpanya.",
+        "tool2Href": "/nitaqat-simulator",
+        "tool3Name": "Freelance Income Calculator",
+        "tool3Desc": "Kalkulahin ang iyong freelance net income pagkatapos ng platform fees, buwis, at gastos sa Upwork, Fiverr, Mostaql, at iba pa.",
+        "tool3Href": "/freelance-income-calculator",
+        "tool4Name": "Salla/Zid True Profit Calculator",
+        "tool4Desc": "Kalkulahin ang iyong aktwal na net profit pagkatapos ng lahat ng fee sa Salla, Zid, at iba pang e-commerce platform sa Saudi Arabia.",
+        "tool4Href": "/salla-profit-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa karaniwang Ministry of Commerce fee schedules. Maaaring mag-iba ang aktwal na gastos batay sa partikular na activity code, karagdagang lisensya, at mga rate ng service provider. Kumonsulta sa certified legal consultant para sa eksaktong presyo. Ito ay hindi financial o legal na payo."
+    }
+  },
+  "FreelanceIncomeCalculator": {
+    "toolName": "Freelance (Watheq) Net Income Calculator",
+    "description": "Kalkulahin ang iyong freelance net income pagkatapos ng platform fees, buwis, at gastos sa Upwork, Fiverr, Mostaql, Khamsat, at direktang kliyente.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Freelance Income",
+      "grossIncome": { "label": "Monthly Gross Income (SAR)", "placeholder": "Hal. 5000" },
+      "monthlyExpenses": { "label": "Monthly Expenses (SAR)", "placeholder": "Hal. 500" },
+      "platform": { "label": "Freelance Platform", "options": { "upwork": "Upwork", "fiverr": "Fiverr", "mostaql": "Mostaql", "khamsat": "Khamsat", "direct": "Direktang Kliyente" } },
+      "platformFee": { "label": "Platform Fee (%)", "hint": "Awtomatikong napupunan batay sa platform. Maaaring i-adjust." },
+      "hours": { "label": "Oras ng Trabaho/Buwan", "placeholder": "160" },
+      "taxStatus": { "label": "Katayuan ng Buwis", "options": { "saudi_resident": "Saudi Resident", "non_resident": "Hindi Residente", "vat_registered": "VAT Registered" } },
+      "vatApplicable": { "label": "May VAT ba?", "options": { "no": "Hindi", "yes": "Oo (15%)" } }
+    },
+    "buttons": {
+      "calculate": "Kalkulahin ang Net Income", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya na!", "print": "I-print"
+    },
+    "results": {
+      "monthly": "Buwanang Net Income", "annual": "Taunang Net Income", "hourlyRate": "Epektibong Orasang Sahod"
+    },
+    "breakdown": {
+      "title": "Paghiwa-hiwalay ng Kita", "grossIncome": "Gross Income", "platformFee": "Platform Fee", "expenses": "Buwanang Gastos", "vat": "VAT (15%)", "netIncome": "Net Income"
+    },
+    "taxTips": {
+      "title": "Mga Tip sa Buwis at Pag-optimize",
+      "registration": "Kung ang iyong freelance income ay lumampas sa SAR 375,000/taon, kailangan mong magparehistro para sa VAT sa Saudi Arabia at maningil ng 15% sa mga serbisyo.",
+      "platformDiversify": "Ang iyong platform fee ay higit sa 10%. Isaalang-alang ang pag-diversify sa mga platform na may mas mababang bayad o pagbuo ng direktang ugnayan sa kliyente.",
+      "expenseTracking": "Panatilihin ang detalyadong talaan ng lahat ng gastos sa negosyo. Maraming freelancer ang hindi napapansin ang mga lehitimong bawas tulad ng internet, software, at kagamitan.",
+      "taxConsultant": "Malaki ang iyong kita. Isaalang-alang ang pagkonsulta sa isang Saudi tax advisor para sa personalized na pagpaplano at pagsunod sa buwis.",
+      "watheq": "Magparehistro sa Watheq (Saudi freelance platform) upang makakuha ng opisyal na freelance documentation at mapatunayan ang iyong katayuan bilang freelancer."
+    },
+    "emptyState": "Ilagay ang iyong mga detalye ng kita sa itaas upang kalkulahin ang iyong net freelance earnings pagkatapos ng mga bayad, buwis, at gastos.",
+    "copiedResult": "Freelance Net Income: {monthly} SAR/buwan | Taunang: {annual} SAR (sa pamamagitan ng HsabKSA)",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya para sa impormasyonal na layunin lamang. Ang aktwal na net income ay depende sa iyong partikular na katayuan sa buwis, mga bayad sa platform, at mga gastos. Kumonsulta sa isang kwalipikadong accountant para sa iyong mga obligasyon sa buwis bilang freelancer. Ito ay hindi payong pinansyal.",
+    "errors": {
+      "priceRequired": "Maglagay ng wastong halaga ng kita.",
+      "generic": "May nangyaring mali. Pakisubukan muli."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Kalkulahin ang Iyong Freelance Net Income",
+        "step1Title": "Hakbang 1: Ilagay ang Iyong Buwanang Gross Income",
+        "step1Desc": "Ilagay ang iyong kabuuang buwanang freelance revenue bago ang anumang bawas — kasama ang lahat ng natapos na proyekto, retainer, at paulit-ulit na kita mula sa Upwork, Fiverr, Mostaql, Khamsat, o direktang kliyente.",
+        "step2Title": "Hakbang 2: Piliin ang Iyong Platform at Fee Structure",
+        "step2Desc": "Piliin ang iyong pangunahing freelance platform — bawat isa ay may iba't ibang fee structure. Ang Upwork ay naniningil ng 10% para sa established clients, Fiverr ay naniningil ng 20%, Mostaql ay naniningil ng 10%, Khamsat ay naniningil ng 20%, at ang direktang kliyente ay 0% fees. Maaari mong manual na i-adjust ang porsyento ng bayad.",
+        "step3Title": "Hakbang 3: Ilagay ang Buwanang Gastos",
+        "step3Desc": "Ilagay ang iyong buwanang gastos sa negosyo kasama ang internet, mga subscription sa software (Adobe, Slack, atbp.), co-working space, depreciation ng kagamitan, gastos sa marketing, at professional development.",
+        "step4Title": "Hakbang 4: Itakda ang Buwis at VAT Status",
+        "step4Desc": "Piliin ang iyong katayuan sa buwis — Saudi Resident (walang personal income tax), Non-Resident (maaaring sumailalim sa withholding tax), o VAT Registered (dapat maningil ng 15% VAT). Ipahiwatig kung ang VAT ay naaangkop sa iyong mga serbisyo.",
+        "step5Title": "Hakbang 5: Tingnan ang Iyong Net Income at Mga Tip sa Pag-optimize",
+        "step5Desc": "Ipinapakita ng calculator ang iyong buwanan at taunang net income, epektibong orasang sahod, at detalyadong breakdown. Suriin ang mga personalized na tip sa buwis upang i-optimize ang iyong freelance na negosyo."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Pagkalkula ng Freelance Income sa Saudi Arabia",
+        "content": "Ang pagkalkula ng iyong tunay na freelance net income ay nangangailangan ng pagsasaalang-alang ng ilang mga salik:\n\n1. Platform Fees: Bawat freelance platform ay naniningil ng porsyento ng iyong kita. Ang Upwork ay naniningil ng 10-20% depende sa relasyon sa kliyente, Fiverr ay naniningil ng flat 20%, Mostaql ay naniningil ng 10%, Khamsat ay naniningil ng 20%, at ang direktang kliyente ay walang platform fees.\n\n2. Gastos sa Negosyo: Ibawas ang lahat ng lehitimong gastos sa negosyo kasama ang internet, software subscription, kagamitan, co-working space, marketing, professional development, at transportasyon.\n\n3. VAT (Value Added Tax): Kung ikaw ay VAT-registered o ang iyong mga serbisyo ay napapailalim sa VAT, dapat mong isaalang-alang ang 15% VAT. Sa Saudi Arabia, ang mga freelancer na kumikita ng higit sa SAR 375,000 taun-taon ay dapat magparehistro para sa VAT.\n\n4. Katayuan ng Buwis: Ang mga Saudi resident ay hindi nagbabayad ng personal income tax. Ang mga hindi residente ay maaaring sumailalim sa withholding tax (5-20% depende sa uri ng serbisyo). Kumonsulta sa isang tax advisor para sa iyong partikular na sitwasyon.\n\n5. Epektibong Orasang Sahod: Ang iyong net income na hinati sa oras ng trabaho ay nagbibigay ng iyong tunay na orasang sahod. Ito ay tumutulong sa pagsusuri kung ang mga proyekto ay sulit sa iyong oras.",
+        "exampleTitle": "Halimbawa ng Pagkalkula",
+        "example": "Upwork Freelancer sa Saudi Arabia\n\nBuwanang Gross Income: SAR 10,000\nPlatform Fee (10%): -SAR 1,000\nNet Bago ang Gastos: SAR 9,000\nBuwanang Gastos: -SAR 1,500\nNet Bago ang VAT: SAR 7,500\nVAT (15%, kung naaangkop): -SAR 1,125\nNet Income: SAR 6,375\nTaunang Net Income: SAR 76,500\nOras ng Trabaho: 160/buwan\nEpektibong Orasang Sahod: SAR 39.84/oras"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Freelance Income",
+        "q1": "Paano gumagana ang platform fees sa Upwork kumpara sa Fiverr sa Saudi Arabia?", "a1": "Ang Upwork ay naniningil ng 10% para sa karamihan ng mga kliyente (20% para sa unang $500). Ang Fiverr ay naniningil ng flat 20%. Ang Mostaql at Khamsat ay naniningil ng 10-20%. Ang direktang kliyente ay 0%.",
+        "q2": "Kailangan bang magbayad ng VAT ng mga freelancer sa Saudi Arabia?", "a2": "Kung ang iyong freelance income ay lumampas sa SAR 375,000 taun-taon, dapat kang magparehistro para sa VAT at maningil ng 15%. Sa ibaba nito, opsyonal ang VAT.",
+        "q3": "Ano ang Watheq at paano ito nakakatulong sa mga freelancer?", "a3": "Ang Watheq ay ang opisyal na freelance platform ng Saudi Arabia sa ilalim ng MHRSD. Tinutulungan nito ang mga freelancer na makakuha ng dokumentasyon at mapatunayan ang kanilang katayuan.",
+        "q4": "Maaari ko bang ibawas ang mga gastos bilang isang freelancer sa Saudi Arabia?", "a4": "Oo, maaaring ibawas ng mga freelancer ang mga lehitimong gastos sa negosyo kasama ang internet, software, co-working space, kagamitan, at gastos sa marketing.",
+        "q5": "Ano ang rate ng buwis para sa mga freelancer sa Saudi Arabia?", "a5": "Ang Saudi Arabia ay hindi nagpapataw ng personal income tax sa mga residente. Ang mga VAT-registered freelancer ay dapat maningil ng 15% VAT.",
+        "q6": "Aling freelance platform ang may pinakamababang bayad?", "a6": "Ang direktang kliyente ay 0%. Ang Mostaql ay naniningil ng 10%. Ang Upwork ay naniningil ng 10% para sa established clients. Ang Fiverr at Khamsat ay naniningil ng 20%.",
+        "q7": "Paano ko kalkulahin ang aking epektibong orasang sahod?", "a7": "Epektibong orasang sahod = Net Income / Oras ng Trabaho. Kung ang net income ay SAR 8,000 at nagtatrabaho ka ng 160 oras, ang iyong rate ay SAR 50/oras."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Freelance at Business Tools",
+        "tool1Name": "Salla/Zid True Profit Calculator",
+        "tool1Desc": "Kalkulahin ang iyong actual net profit pagkatapos ng lahat ng fees sa Salla, Zid, at iba pang e-commerce platforms sa Saudi Arabia.",
+        "tool1Href": "/salla-profit-calculator",
+        "tool2Name": "Nitaqat Simulator",
+        "tool2Desc": "Gayahin kung paano naaapektuhan ng pagkuha o pag-alis ng empleyado ang Nitaqat band ng iyong kumpanya.",
+        "tool2Href": "/nitaqat-simulator",
+        "tool3Name": "ZATCA VAT Calculator",
+        "tool3Desc": "Kalkulahin ang VAT para sa ZATCA compliance sa Saudi Arabia. Kasama ang e-invoicing Phase 1 at Phase 2 checklist.",
+        "tool3Href": "/zatca-vat-calculator",
+        "tool4Name": "CR Cost Estimator",
+        "tool4Desc": "Tantyahin ang iyong Commercial Registration (CR) na gastos kasama ang government fees, chamber fees, at professional fees.",
+        "tool4Href": "/cr-cost-estimator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya para sa impormasyonal na layunin lamang. Ang aktwal na net income ay depende sa iyong partikular na katayuan sa buwis, mga bayad sa platform, at mga gastos. Kumonsulta sa isang kwalipikadong accountant para sa iyong mga obligasyon sa buwis bilang freelancer. Ito ay hindi pinansyal o legal na payo."
+    }
+  },
+  "SallaProfitCalculator": {
+    "toolName": "Salla/Zid True Profit Calculator",
+    "description": "Kalkulahin ang iyong actual net profit pagkatapos ng lahat ng fees sa Salla, Zid, at iba pang e-commerce platforms sa Saudi Arabia. Kasama ang payment gateway fees, COD costs, returns, at VAT.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Produkto at Order",
+      "sellingPrice": { "label": "Presyo ng Benta (SAR)", "placeholder": "hal. 100" },
+      "costPrice": { "label": "Presyo ng Gastos (SAR)", "placeholder": "hal. 50" },
+      "shippingCost": { "label": "Gastos sa Pagpapadala (SAR)", "placeholder": "hal. 20" },
+      "platform": { "label": "Platform", "options": { "salla": "Salla", "zid": "Zid", "other": "Iba Pa" } },
+      "paymentMethod": { "label": "Paraan ng Pagbabayad", "options": { "credit_card": "Credit Card", "mada": "Mada", "apple_pay": "Apple Pay", "cod": "Cash on Delivery" } },
+      "monthlyOrders": { "label": "Buwanang Orders", "placeholder": "hal. 100" },
+      "codReturnRate": { "label": "COD Return Rate (%)", "placeholder": "15" }
+    },
+    "buttons": {
+      "calculate": "Kalkulahin ang Profit",
+      "calculating": "Kinakalkula...",
+      "reset": "I-reset",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print"
+    },
+    "results": {
+      "perOrder": "Net Profit bawat Order",
+      "monthly": "Buwanang Net Profit",
+      "profitMargin": "Profit Margin"
+    },
+    "breakdown": {
+      "title": "Cost Breakdown bawat Order",
+      "revenue": "Kita",
+      "cogs": "Gastos ng Produkto",
+      "shipping": "Gastos sa Pagpapadala",
+      "gatewayFee": "Payment Gateway Fee",
+      "returnCost": "Gastos sa Returns (Avg)",
+      "platformFee": "Platform Subscription (Per Order)",
+      "netProfit": "Net Profit"
+    },
+    "optimization": {
+      "title": "Mga Tip para sa Pagpapabuti",
+      "reduceCOD": "Bawasan ang COD orders sa pamamagitan ng pag-aalok ng card payment discounts. Ang COD ay nagkakahalaga ng 15 SAR per order vs ~3.50 SAR para sa card — nakakatipid ng 11.50 SAR sa bawat pagkakataon.",
+      "lowMargin": "Ang iyong profit margin ay mas mababa sa 10%. Isaalang-alang ang pagtaas ng presyo, pagbawas ng COGS, o pakikipag-ayos sa mas magandang shipping rates.",
+      "shipping": "Ang iyong shipping cost ay higit sa 20 SAR. Makipag-ayos sa bulk rates sa logistics partners o mag-alok ng free shipping thresholds.",
+      "subscription": "Ang iyong platform subscription cost per order ay mataas. Suriin ang iyong plan o dagdagan ang order volume para mapababa ang per-order cost."
+    },
+    "emptyState": "Ilagay ang detalye ng iyong produkto sa itaas para kalkulahin ang iyong tunay na profit pagkatapos ng lahat ng fees.",
+    "copiedResult": "Salla/Zid Profit: {perOrder} SAR/order | Buwanan: {monthly} SAR (mula sa HsabKSA)",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa Salla at Zid Saudi Arabia pricing noong 2024. Maaaring mag-iba ang actual fees batay sa iyong plan, payment provider, at negotiated rates. Tingnan ang iyong platform dashboard para sa eksaktong figures. Ito ay hindi financial advice.",
+    "errors": {
+      "priceRequired": "Maglagay ng wastong selling price.",
+      "ordersRequired": "Ilagay ang bilang ng buwanang orders (min 1).",
+      "generic": "May maling nangyari. Pakisubukan muli."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Kalkulahin ang Tunay na Profit sa Salla/Zid",
+        "step1Title": "Hakbang 1: Ilagay ang Iyong Product Pricing",
+        "step1Desc": "Ilagay ang iyong product selling price, cost price, at shipping cost sa SAR. Ito ang core inputs na tumutukoy sa iyong gross margin bago ang platform fees.",
+        "step2Title": "Hakbang 2: Piliin ang Platform at Payment Method",
+        "step2Desc": "Piliin kung nagbebenta ka sa Salla, Zid, o ibang platform. Piliin ang iyong pangunahing payment method — Credit Card, Mada, Apple Pay, o Cash on Delivery (COD). Bawat isa ay may magkakaibang fee structures.",
+        "step3Title": "Hakbang 3: Ilagay ang Order Volume at Return Rate",
+        "step3Desc": "Ilagay ang iyong buwanang order volume para kalkulahin ang monthly profit. Kung gumagamit ka ng COD, itakda ang iyong inaasahang return rate (default 15% ay tipikal para sa Saudi e-commerce).",
+        "step4Title": "Hakbang 4: Tingnan ang Iyong Tunay na Profit Breakdown",
+        "step4Desc": "Ipinapakita ng calculator ang net profit per order, monthly profit, at profit margin. Ang breakdown table ay nagpapakita kung magkano ang kinukuha ng bawat cost category mula sa iyong revenue.",
+        "step5Title": "Hakbang 5: Ilapat ang Optimization Tips",
+        "step5Desc": "Suriin ang personalized optimization tips. Ang mga ito ay nagmumungkahi ng mga specific action tulad ng pagbawas ng COD rates, pakikipag-ayos sa shipping, o pag-adjust ng pricing para mapabuti ang iyong margins."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa E-commerce Fees sa Saudi Arabia",
+        "content": "Ang Saudi e-commerce platforms ay naniningil ng ilang fees na kumakain sa iyong profit margin:\n\n1. Platform Subscription: Salla (99-299 SAR/month) o Zid (49-249 SAR/month) batay sa iyong plan features at order volume.\n\n2. Payment Gateway Fees: Lahat ng online payments sa pamamagitan ng Moyasar/Stripe ay nagcha-charge ng approximately 2.5% + 1 SAR per transaction. Ito ay para sa Credit Card, Mada, at Apple Pay payments.\n\n3. COD Fees: Ang Cash on Delivery ay nagdaragdag ng 15 SAR per order — mas mataas kaysa sa card payments. Ito ay para sa logistics provider's collection at handling costs.\n\n4. Return Costs: Ang returned orders ay nagkakahalaga ng approximately 20 SAR bawat isa para i-process. Sa 15% return rate sa COD, ito ay mabilis na naipon.\n\n5. VAT sa Fees: Ang platform subscription fees ay subject sa 15% VAT, na nagdaragdag sa iyong buwanang costs.",
+        "exampleTitle": "Halimbawa ng Pagkalkula",
+        "example": "Product: 100 SAR Selling Price, 50 SAR Cost, 20 SAR Shipping\n\nSalla Subscription (149 SAR/month): ~1.49 SAR/order sa 100 orders\nPayment Gateway (Credit Card): 2.5% + 1 SAR = 3.50 SAR\n\nRevenue: 100 SAR\nCosts: -50 (COGS) -20 (Shipping) -3.50 (Gateway) -1.49 (Platform) = -74.99 SAR\nNet Profit: 25.01 SAR per order\nMonthly (100 orders): 2,501 SAR\nProfit Margin: 25%"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Salla/Zid Fees",
+        "q1": "Paano gumagana ang Salla at Zid fees sa Saudi Arabia?",
+        "a1": "Ang Salla ay naniningil ng 99-299 SAR/month subscription, ang Zid ay 49-249 SAR/month. Parehong gumagamit ng payment gateways tulad ng Moyasar/Stripe na may ~2.5% + 1 SAR per transaction. Ang COD ay nagdaragdag ng 15 SAR per order. Ang mga fees na ito ay awtomatikong kinakalkula sa aming tool.",
+        "q2": "Ano ang COD return rate para sa e-commerce sa Saudi Arabia?",
+        "a2": "Ang average na COD return rate sa Saudi Arabia ay 10-25%, na may 15% bilang karaniwan. Ang returns ay nagkakahalaga ng approximately 20 SAR per order. Ang pagbawas ng COD sa pamamagitan ng card payment incentives ay maaaring makapagpabuti nang malaki ng profits.",
+        "q3": "Paano naaapektuhan ng payment gateway fees ang aking profit?",
+        "a3": "Ang payment gateway fees sa 2.5% + 1 SAR per transaction ay nangangahulugang ang isang 100 SAR na produkto ay nagkakahalaga ng 3.50 SAR sa fees. Ang COD sa 15 SAR flat ay mas mataas. Ang paghikayat sa card payments ay nakakatipid ng 10-12 SAR per order kumpara sa COD.",
+        "q4": "Ano ang magandang profit margin para sa Saudi e-commerce?",
+        "a4": "Ang healthy profit margin pagkatapos ng lahat ng fees ay 15-30%. Maraming sellers ay nag-o-operate sa 5-10% margins dahil sa mataas na COD returns at shipping costs. Gamitin ang calculator na ito para makita ang hidden costs at i-optimize ang pricing.",
+        "q5": "Naaapektuhan ba ng VAT ang aking e-commerce profit calculation?",
+        "a5": "Oo, ang 15% VAT ay naaangkop sa platform subscription fees at kasama sa calculation. Kung ikaw ay VAT-registered, maniningil ka rin ng VAT sa iyong mga produkto. Kasama ng calculator ang VAT sa platform fees.",
+        "q6": "Paano ko mababawasan ang aking e-commerce costs sa Salla/Zid?",
+        "a6": "Hikayatin ang card payments over COD, makipag-ayos sa mas magandang shipping rates, i-optimize ang pricing para sa 20%+ margins, pagandahin ang product listings para mabawasan ang returns, at piliin ang tamang subscription plan para sa iyong volume.",
+        "q7": "Anong hidden fees ang dapat bantayan ng e-commerce sellers?",
+        "a7": "Kasama sa hidden fees ang: COD return shipping (20 SAR/return), payment gateway monthly minimums, SMS notification fees, integration/app fees, storage fees. Ang aming calculator ay kumukuha ng pinakamahalagang costs."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na E-commerce at Business Tools",
+        "tool1Name": "ZATCA VAT Calculator",
+        "tool1Desc": "Kalkulahin ang VAT para sa ZATCA compliance. May kasamang Phase 1 at Phase 2 checklist.",
+        "tool1Href": "/zatca-vat-calculator",
+        "tool2Name": "Freelance Income Calculator",
+        "tool2Desc": "Kalkulahin ang iyong freelance net income pagkatapos ng platform fees, taxes, at expenses sa Upwork, Fiverr, Mostaql, at iba pa.",
+        "tool2Href": "/freelance-income-calculator",
+        "tool3Name": "Nitaqat Simulator",
+        "tool3Desc": "Gayahin kung paano naaapektuhan ng pag-hire o pag-alis ng empleyado ang Nitaqat band ng iyong kumpanya.",
+        "tool3Href": "/nitaqat-simulator",
+        "tool4Name": "CR Cost Estimator",
+        "tool4Desc": "Tantyahin ang iyong Commercial Registration (CR) costs kabilang ang government fees, chamber fees, at professional fees.",
+        "tool4Href": "/cr-cost-estimator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa Salla at Zid pricing noong 2024. Maaaring mag-iba ang actual fees sa iyong plan, payment provider, at negotiated rates. Tingnan ang iyong platform dashboard para sa eksaktong figures. Ito ay hindi financial o legal advice."
+    }
+  },
   "Hero": {
     "badge": "Smart Calculator Hub ng Saudi Arabia",
     "title": "Mga Smart Saudi Calculator",

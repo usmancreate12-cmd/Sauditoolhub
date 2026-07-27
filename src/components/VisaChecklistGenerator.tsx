@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useCallback, useMemo } from 'react'
+import { useState, useCallback, useMemo, useRef, useEffect } from 'react'
 import { useTranslations } from 'next-intl'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
@@ -11,30 +11,21 @@ import {
   Share2,
   ClipboardList,
   Globe,
-  User,
   ChevronDown,
+  Search,
+  X,
 } from 'lucide-react'
 
-import { getDocumentsForVisa, VISA_TYPES, CATEGORY_ORDER, type VisaType, type DocumentItem } from '@/lib/visaDocuments'
+import { getDocumentsForVisa, VISA_TYPES, CATEGORY_ORDER, NATIONALITY_GROUPS, type VisaType, type DocumentItem, type Nationality } from '@/lib/visaDocuments'
 import { GlassCard } from '@/components/GlassCard'
 import { MagneticButton } from '@/components/MagneticButton'
 
 const inputClass =
   'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 ' +
-  'bg-gray-800 ' +
-  'border-gray-600 ' +
-  'text-gray-100 ' +
-  'placeholder-gray-500 ' +
+  'bg-gray-800 border-gray-600 text-gray-100 placeholder-gray-500 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
 const labelClass = 'block text-sm font-medium text-gray-400 mb-1.5'
-
-const selectClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 appearance-none cursor-pointer ' +
-  'bg-gray-800 ' +
-  'border-gray-600 ' +
-  'text-gray-100 ' +
-  'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
 const stagger = {
   container: { animate: { transition: { staggerChildren: 0.05 } } },
@@ -42,6 +33,141 @@ const stagger = {
     initial: { opacity: 0, y: 12 },
     animate: { opacity: 1, y: 0, transition: { duration: 0.3, ease: [0.4, 0, 0.2, 1] as const } },
   },
+}
+
+interface SearchableSelectProps {
+  value: string
+  onChange: (value: string) => void
+  groups: Record<string, readonly string[]>
+  placeholder: string
+  searchPlaceholder: string
+  getLabel: (key: string) => string
+  getGroupLabel: (key: string) => string
+}
+
+function SearchableSelect({ value, onChange, groups, placeholder, searchPlaceholder, getLabel, getGroupLabel }: SearchableSelectProps) {
+  const [open, setOpen] = useState(false)
+  const [search, setSearch] = useState('')
+  const containerRef = useRef<HTMLDivElement>(null)
+  const inputRef = useRef<HTMLInputElement>(null)
+
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (containerRef.current && !containerRef.current.contains(e.target as Node)) {
+        setOpen(false)
+        setSearch('')
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside)
+    return () => document.removeEventListener('mousedown', handleClickOutside)
+  }, [])
+
+  const filtered = useMemo(() => {
+    if (!search) return groups
+    const lower = search.toLowerCase()
+    const result: Record<string, readonly string[]> = {}
+    for (const [groupKey, items] of Object.entries(groups)) {
+      const filtered = items.filter((k) => getLabel(k).toLowerCase().includes(lower))
+      if (filtered.length > 0) result[groupKey] = filtered
+    }
+    return result
+  }, [search, groups, getLabel])
+
+  function handleSelect(key: string) {
+    onChange(key)
+    setOpen(false)
+    setSearch('')
+  }
+
+  function handleClear() {
+    onChange('')
+    setSearch('')
+  }
+
+  const selectedLabel = value ? getLabel(value) : ''
+
+  return (
+    <div ref={containerRef} className="relative">
+      <div
+        className={`${inputClass} flex cursor-pointer items-center justify-between gap-2 ${
+          open ? 'border-desert-primary shadow-[0_0_0_3px_rgba(0,212,170,0.15)]' : ''
+        }`}
+        onClick={() => { setOpen(!open); setTimeout(() => inputRef.current?.focus(), 50) }}
+      >
+        <span className={value ? 'text-gray-100' : 'text-gray-500'}>
+          {value ? selectedLabel : placeholder}
+        </span>
+        <div className="flex items-center gap-1">
+          {value && (
+            <button
+              onClick={(e) => { e.stopPropagation(); handleClear() }}
+              className="rounded p-0.5 text-gray-500 hover:text-gray-300 transition-colors"
+            >
+              <X size={14} />
+            </button>
+          )}
+          <ChevronDown size={14} className={`text-gray-500 transition-transform duration-200 ${open ? 'rotate-180' : ''}`} />
+        </div>
+      </div>
+
+      <AnimatePresence>
+        {open && (
+          <motion.div
+            initial={{ opacity: 0, y: -8 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -8 }}
+            transition={{ duration: 0.15 }}
+            className="absolute z-50 mt-1 w-full overflow-hidden rounded-xl border border-gray-600 bg-gray-900 shadow-2xl"
+          >
+            <div className="relative border-b border-gray-700">
+              <Search size={14} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-500" />
+              <input
+                ref={inputRef}
+                type="text"
+                value={search}
+                onChange={(e) => setSearch(e.target.value)}
+                placeholder={searchPlaceholder}
+                className="w-full bg-transparent px-9 py-2.5 text-sm text-gray-100 placeholder-gray-500 outline-none"
+              />
+              {search && (
+                <button
+                  onClick={() => setSearch('')}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-500 hover:text-gray-300 transition-colors"
+                >
+                  <X size={14} />
+                </button>
+              )}
+            </div>
+            <div className="max-h-64 overflow-y-auto">
+              {Object.keys(filtered).length === 0 ? (
+                <p className="p-4 text-center text-sm text-gray-500">No results found</p>
+              ) : (
+                Object.entries(filtered).map(([groupKey, items]) => (
+                  <div key={groupKey}>
+                    <p className="sticky top-0 bg-gray-900 px-3 py-1.5 text-[10px] font-bold uppercase tracking-widest text-desert-primary">
+                      {getGroupLabel(groupKey)}
+                    </p>
+                    {items.map((natKey) => (
+                      <button
+                        key={natKey}
+                        onClick={() => handleSelect(natKey)}
+                        className={`flex w-full items-center gap-2 px-3 py-2 text-left text-sm transition-colors hover:bg-desert-primary/10 ${
+                          value === natKey ? 'bg-desert-primary/15 text-desert-primary' : 'text-gray-300'
+                        }`}
+                      >
+                        <Globe size={12} className="shrink-0 text-gray-600" />
+                        <span>{getLabel(natKey)}</span>
+                      </button>
+                    ))}
+                  </div>
+                ))
+              )}
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
+  )
 }
 
 export function VisaChecklistGenerator({ locale }: { locale?: string }) {
@@ -55,7 +181,7 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
 
   const documents = useMemo(() => {
     if (!visaType) return []
-    return getDocumentsForVisa(visaType, nationality as any || undefined)
+    return getDocumentsForVisa(visaType, (nationality || undefined) as Nationality | undefined)
   }, [visaType, nationality])
 
   const groupedDocs = useMemo(() => {
@@ -70,6 +196,13 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
   const totalDocs = documents.length
   const checkedCount = checkedItems.size
   const progress = totalDocs > 0 ? Math.round((checkedCount / totalDocs) * 100) : 0
+
+  const nationalityGroups = useMemo(() => {
+    return NATIONALITY_GROUPS as Record<string, readonly string[]>
+  }, [])
+
+  const getNatLabel = useCallback((key: string) => t(`nationalities.${key}`), [t])
+  const getGroupLabel = useCallback((key: string) => t(`nationalityGroups.${key}`), [t])
 
   const toggleItem = useCallback((key: string) => {
     setCheckedItems((prev) => {
@@ -127,7 +260,11 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                     <select
                       value={visaType}
                       onChange={(e) => { setVisaType(e.target.value as VisaType); setGenerated(false); setCheckedItems(new Set()) }}
-                      className={selectClass}
+                      className={
+                        'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 appearance-none cursor-pointer ' +
+                        'bg-gray-800 border-gray-600 text-gray-100 ' +
+                        'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
+                      }
                     >
                       <option value="">{t('form.visaType.placeholder')}</option>
                       {VISA_TYPES.map((vt) => (
@@ -145,17 +282,15 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                       {t('form.nationality.label')}
                     </span>
                   </label>
-                  <div className="relative">
-                    <select value={nationality} onChange={(e) => setNationality(e.target.value)} className={selectClass}>
-                      <option value="">{t('form.nationality.placeholder')}</option>
-                      <option value="pakistani">{t('nationalities.pakistani')}</option>
-                      <option value="indian">{t('nationalities.indian')}</option>
-                      <option value="filipino">{t('nationalities.filipino')}</option>
-                      <option value="egyptian">{t('nationalities.egyptian')}</option>
-                      <option value="other">{t('nationalities.other')}</option>
-                    </select>
-                    <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500" />
-                  </div>
+                  <SearchableSelect
+                    value={nationality}
+                    onChange={setNationality}
+                    groups={nationalityGroups}
+                    placeholder={t('form.nationality.placeholder')}
+                    searchPlaceholder={t('form.nationality.searchPlaceholder')}
+                    getLabel={getNatLabel}
+                    getGroupLabel={getGroupLabel}
+                  />
                 </div>
 
                 <div className="flex gap-3 pt-2">
@@ -293,17 +428,14 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                               <p className={`text-sm font-medium ${isChecked ? 'text-desert-primary line-through opacity-60' : 'text-white'}`}>
                                 {t(`documents.${doc.key}`)}
                               </p>
-                              {doc.required && (
-                                <span className="mt-0.5 inline-block rounded bg-red-500/20 px-1.5 py-0.5 text-[10px] text-red-400">
-                                  {t('required')}
-                                </span>
-                              )}
-                              {!doc.required && (
-                                <span className="mt-0.5 inline-block rounded bg-gray-700/50 px-1.5 py-0.5 text-[10px] text-gray-500">
-                                  {t('optional')}
-                                </span>
-                              )}
-                              {doc.nationalityNote && nationality && nationality !== 'other' && (
+                              <span className={`mt-0.5 inline-block rounded px-1.5 py-0.5 text-[10px] ${
+                                doc.required
+                                  ? 'bg-red-500/20 text-red-400'
+                                  : 'bg-gray-700/50 text-gray-500'
+                              }`}>
+                                {doc.required ? t('required') : t('optional')}
+                              </span>
+                              {doc.nationalityNote && nationality && (
                                 <p className="mt-0.5 text-[10px] text-amber-400">
                                   {t(`nationalityNotes.${doc.nationalityNote}`)}
                                 </p>

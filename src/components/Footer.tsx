@@ -18,17 +18,20 @@ const categories = [
   {
     key: 'business',
     tools: [
-      { nameKey: 'toolNames.zatca', href: '#' },
-      { nameKey: 'toolNames.nitaqat', href: '#' },
-      { nameKey: 'toolNames.freelance', href: '#' },
-      { nameKey: 'toolNames.crCost', href: '#' },
+      { nameKey: 'toolNames.zatca', href: 'zatca-vat-calculator' },
+      { nameKey: 'toolNames.salla', href: 'salla-profit-calculator' },
+      { nameKey: 'toolNames.nitaqat', href: 'nitaqat-simulator' },
+      { nameKey: 'toolNames.freelance', href: 'freelance-income-calculator' },
+      { nameKey: 'toolNames.crCost', href: 'cr-cost-estimator' },
     ],
   },
   {
     key: 'finance',
     tools: [
-      { nameKey: 'toolNames.loan', href: '#' },
-      { nameKey: 'toolNames.zakat', href: '#' },
+      { nameKey: 'toolNames.loan', href: 'sama-loan-calculator' },
+      { nameKey: 'toolNames.zakat', href: 'zakat-calculator' },
+      { nameKey: 'toolNames.iban', href: 'iban-validator' },
+      { nameKey: 'toolNames.sip', href: 'sip-calculator' },
       { nameKey: 'toolNames.rett', href: '#' },
       { nameKey: 'toolNames.mortgage', href: '#' },
     ],

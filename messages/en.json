@@ -534,7 +534,8 @@
       },
       "nationality": {
         "label": "Applicant Nationality (Optional)",
-        "placeholder": "Select nationality"
+        "placeholder": "Select nationality",
+        "searchPlaceholder": "Search nationalities..."
       }
     },
     "visaTypes": {
@@ -545,10 +546,47 @@
       "exit_reentry": "Exit / Re-Entry Visa"
     },
     "nationalities": {
-      "pakistani": "Pakistani",
-      "indian": "Indian",
-      "filipino": "Filipino",
-      "egyptian": "Egyptian",
+      "pakistani": "🇵🇰 Pakistani",
+      "indian": "🇮🇳 Indian",
+      "bangladeshi": "🇧🇩 Bangladeshi",
+      "sriLankan": "🇰 Sri Lankan",
+      "nepali": "🇵 Nepali",
+      "afghan": "🇦🇫 Afghan",
+      "egyptian": "🇪🇬 Egyptian",
+      "sudanese": "🇸🇩 Sudanese",
+      "yemeni": "🇾🇪 Yemeni",
+      "jordanian": "🇯🇴 Jordanian",
+      "palestinian": "🇵🇸 Palestinian",
+      "syrian": "🇸🇾 Syrian",
+      "lebanese": "🇱🇧 Lebanese",
+      "iraqi": "🇮🇶 Iraqi",
+      "moroccan": "🇦 Moroccan",
+      "tunisian": "🇳 Tunisian",
+      "algerian": "🇩🇿 Algerian",
+      "libyan": "🇱🇾 Libyan",
+      "filipino": "🇵🇭 Filipino",
+      "indonesian": "🇮🇩 Indonesian",
+      "malaysian": "🇲🇾 Malaysian",
+      "ethiopian": "🇪🇹 Ethiopian",
+      "eritrean": "🇪🇷 Eritrean",
+      "kenyan": "🇪 Kenyan",
+      "ugandan": "🇬 Ugandan",
+      "tanzanian": "🇿 Tanzanian",
+      "somali": "🇴 Somali",
+      "turkish": "🇹🇷 Turkish",
+      "iranian": "🇮🇷 Iranian",
+      "british": "🇬🇧 British",
+      "american": "🇺 American",
+      "canadian": "🇨🇦 Canadian",
+      "australian": "🇦🇺 Australian",
+      "other": "Other Nationality"
+    },
+    "nationalityGroups": {
+      "southAsia": "South Asia",
+      "middleEast": "Middle East & Arab Countries",
+      "northAfrica": "North Africa",
+      "southeastAsia": "Southeast Asia",
+      "eastAfrica": "East Africa",
       "other": "Other"
     },
     "categories": {
@@ -579,7 +617,11 @@
       "flight_confirmation": "Flight Booking Confirmation",
       "bank_statement": "Bank Statement (last 3-6 months)",
       "fee_receipt": "Visa Fee Payment Receipt",
-      "sponsor_letter": "Sponsor's Letter / NOC"
+      "sponsor_letter": "Sponsor's Letter / NOC",
+      "additional_medical": "Additional Medical Tests (TB, Hepatitis, HIV) — Required for South Asian nationals",
+      "fingerprint_clearance": "Fingerprint-based Police Clearance — Required for South Asian nationals",
+      "poea_clearance": "POEA / Overseas Employment Clearance — Required for Filipino nationals",
+      "nitiqah_verification": "Nitiqah / Additional Verification — Required for select nationalities"
     },
     "nationalityNotes": {
       "attested_embassy": "Some nationalities require additional embassy attestation. Check with your local Saudi embassy.",
@@ -616,7 +658,7 @@
         "step1Title": "Step 1: Select Your Visa Type",
         "step1Desc": "Choose the type of visa you are applying for from the dropdown — Family Visit, Work, Umrah, Tourist e-Visa, or Exit/Re-Entry. Each visa type has a unique set of required documents.",
         "step2Title": "Step 2: Select Your Nationality (Optional)",
-        "step2Desc": "Select your nationality to see country-specific document requirements. Certain nationalities may need additional embassy attestation or specific document formats. This step is optional.",
+        "step2Desc": "Select your nationality from the searchable dropdown with 30+ options organized by region. Certain nationalities (e.g., Pakistani, Indian, Filipino) require additional documents like fingerprint clearance, POEA clearance, or extra medical tests. This step is optional.",
         "step3Title": "Step 3: Generate Your Checklist",
         "step3Desc": "Click 'Generate Checklist' to see a categorized list of all documents required for your selected visa type. Documents are organized into Personal, Sponsor, Attestation, Medical, and Financial categories.",
         "step4Title": "Step 4: Track Your Progress",
@@ -663,6 +705,867 @@
         "tool4Href": "/eosb-calculator"
       },
       "disclaimer": "This checklist is for informational guidance only. Visa document requirements change frequently. Always verify with the official Saudi embassy, MOFA, or Absher platform for the most current requirements. This is not legal or immigration advice."
+    }
+  },
+  "ZatcaCalculator": {
+    "toolName": "ZATCA E-Invoicing Compliance & VAT Calculator",
+    "description": "Calculate VAT for Saudi Arabia ZATCA compliance. Includes e-invoicing Phase 1 & Phase 2 checklist for B2B and B2C invoices.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Invoice Details",
+      "subtotal": { "label": "Subtotal Amount (SAR)", "placeholder": "e.g., 10000" },
+      "vatRate": {
+        "label": "VAT Rate",
+        "options": { "15": "15% (Standard)", "0": "0% (Zero-rated)", "exempt": "Exempt" }
+      },
+      "invoiceType": {
+        "label": "Invoice Type",
+        "options": { "b2b": "B2B (Business to Business)", "b2c": "B2C (Business to Consumer)" }
+      },
+      "discount": { "label": "Discount (Optional, SAR)", "placeholder": "0" }
+    },
+    "buttons": {
+      "calculate": "Calculate VAT",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "vatAmount": "VAT Amount",
+      "totalAmount": "Total with VAT",
+      "effectiveRate": "Effective VAT Rate"
+    },
+    "compliance": {
+      "title": "ZATCA E-Invoicing Compliance Checklist",
+      "sellerName": "Seller Name (as registered with ZATCA)",
+      "sellerVat": "Seller VAT Number (15 digits)",
+      "invoiceDate": "Invoice Date & Time",
+      "totalWithVat": "Total Amount including VAT",
+      "qrCode": "Cryptographic QR Code (Phase 2)",
+      "buyerName": "Buyer Name",
+      "buyerVat": "Buyer VAT Number",
+      "vatAmount": "VAT Amount (separately shown)",
+      "exemptionReason": "Exemption Reason / Legal Reference"
+    },
+    "phase2": {
+      "title": "Phase 2 QR Code Requirement",
+      "description": "ZATCA Phase 2 (Integration) requires all e-invoices and simplified tax invoices to include a cryptographic QR code. This QR code contains invoice data including seller name, VAT number, date, total, and VAT amount. The QR code allows ZATCA and buyers to verify invoice authenticity instantly using any QR scanner app."
+    },
+    "zeroEntitlement": {
+      "title": "Enter an Amount to Calculate",
+      "message": "Enter a subtotal amount above to calculate VAT and see the compliance checklist."
+    },
+    "emptyState": "Enter your invoice details above to calculate VAT and view the compliance checklist.",
+    "copiedResult": "VAT: {vat} SAR | Total: {total} SAR (via HsabKSA)",
+    "disclaimer": "This calculator provides estimates based on ZATCA regulations and Saudi VAT Law. Actual compliance requirements may vary based on your business type, revenue, and ZATCA classification. Consult a ZATCA-approved tax advisor for official advice.",
+    "errors": {
+      "subtotalRequired": "Enter a valid subtotal amount.",
+      "generic": "Something went wrong. Please try again."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Calculate ZATCA VAT in Saudi Arabia",
+        "step1Title": "Step 1: Enter Your Invoice Subtotal",
+        "step1Desc": "Enter the amount before VAT in SAR. This is the price of your goods or services without tax, also known as the net amount.",
+        "step2Title": "Step 2: Select Your VAT Rate",
+        "step2Desc": "Choose the applicable VAT rate: 15% (standard for most goods and services), 0% (zero-rated for healthcare, education, and exports), or Exempt (for financial services and residential rent).",
+        "step3Title": "Step 3: Choose Invoice Type",
+        "step3Desc": "Select B2B if you are invoicing another business that has a VAT number. Select B2C if you are selling to an individual consumer. The compliance checklist will adjust based on your selection.",
+        "step4Title": "Step 4: Add Discounts (Optional) and Calculate",
+        "step4Desc": "Enter any discount amount in SAR. The VAT is calculated on the discounted amount: (Subtotal - Discount) × VAT Rate. Click Calculate to see the VAT amount, total, and compliance checklist.",
+        "step5Title": "Step 5: Review Your Compliance Checklist",
+        "step5Desc": "Review the ZATCA compliance checklist showing every required field for your invoice type. Make sure your invoice system includes all these elements to avoid penalties during ZATCA audits."
+      },
+      "understandingResults": {
+        "title": "Phase 1 vs Phase 2 E-Invoicing Explained",
+        "content": "ZATCA's e-invoicing implementation is divided into two phases:\n\nPhase 1 (Generation) — Started December 2021. All VAT-registered businesses must generate, store, and share e-invoices using a compliant system. No direct integration with ZATCA is required at this stage, but invoices must include mandatory fields and be stored for audit purposes.\n\nPhase 2 (Integration) — Rolled out in waves from 2023 onwards based on revenue thresholds. Businesses must integrate their invoicing systems directly with ZATCA's Fatoora platform for real-time reporting. Invoices are automatically shared with ZATCA upon generation. This phase also requires cryptographic QR codes on all invoices.\n\nKey differences: Phase 1 is about compliant generation and storage. Phase 2 adds real-time integration, QR codes, and automated reporting to ZATCA.",
+        "exampleTitle": "Quick Comparison",
+        "example": "Phase 1: Generate compliant e-invoices → Store them → Show on request\nPhase 2: Generate compliant e-invoices → Auto-report to ZATCA → QR code on every invoice\n\nIf your company revenue exceeds SAR 500 million, you are in the first Phase 2 wave. Check ZATCA's official schedule for your integration deadline."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About ZATCA VAT & E-Invoicing",
+        "q1": "Is ZATCA e-invoicing mandatory for freelancers in Saudi Arabia?",
+        "a1": "Yes, ZATCA e-invoicing is mandatory for all VAT-registered taxpayers including freelancers. Phase 1 requires compliant e-invoice generation and storage. Phase 2 deadlines depend on your revenue. Register with ZATCA if you haven't already.",
+        "q2": "What is the VAT rate in Saudi Arabia for 2024?",
+        "a2": "The standard VAT rate is 15%, applicable to most goods and services. Zero-rated (0%) applies to healthcare, education, medicines, and exports. Certain financial services and residential real estate rentals are exempt from VAT.",
+        "q3": "What is the difference between ZATCA Phase 1 and Phase 2?",
+        "a3": "Phase 1 (Generation) requires businesses to generate and store compliant e-invoices. Phase 2 (Integration) adds real-time integration with ZATCA's Fatoora platform, cryptographic QR codes on all invoices, and automatic reporting of every transaction.",
+        "q4": "Do I need a QR code on my invoice in Saudi Arabia?",
+        "a4": "Yes from Phase 2 onwards. All tax invoices and simplified tax invoices must include a ZATCA-compliant cryptographic QR code. The QR code encodes seller name, VAT number, date, total, VAT amount, and a digital signature for authenticity verification.",
+        "q5": "What are the penalties for ZATCA e-invoicing non-compliance?",
+        "a5": "Penalties include up to SAR 50,000 per violation for specified e-invoicing offenses. ZATCA can also suspend your VAT registration and impose additional fines during audits. Non-compliant businesses may face delayed invoice processing and customer disputes.",
+        "q6": "How do I calculate VAT for my Saudi invoices?",
+        "a6": "Formula: VAT Amount = (Subtotal - Discount) × (VAT Rate / 100). Total = Subtotal - Discount + VAT. Example: 10,000 SAR subtotal, 15% VAT, no discount → VAT = 1,500 SAR, Total = 11,500 SAR.",
+        "q7": "What is the difference between B2B and B2C invoicing for ZATCA?",
+        "a7": "B2B invoices (Tax Invoices) require seller and buyer VAT numbers, buyer name, and detailed line items. B2C invoices (Simplified Tax Invoices) only need the seller VAT number and basic invoice data. Both require QR codes in Phase 2."
+      },
+      "relatedTools": {
+        "title": "Related Business Tools",
+        "tool1Name": "Freelance Income Calculator",
+        "tool1Desc": "Calculate your freelance income, ZATCA compliance costs, and net earnings after VAT and deductions.",
+        "tool1Href": "/freelance-calculator",
+        "tool2Name": "Nitaqat Simulator",
+        "tool2Desc": "Simulate how Nitaqat Saudization ratios affect your company's classification and visa processing capabilities.",
+        "tool2Href": "/nitaqat-simulator",
+        "tool3Name": "CR Cost Estimator",
+        "tool3Desc": "Estimate your Commercial Registration (CR) renewal costs including chamber fees, professional license, and municipal charges.",
+        "tool3Href": "/cr-cost-estimator",
+        "tool4Name": "Zakat Calculator",
+        "tool4Desc": "Calculate your Zakat obligation based on Saudi Zakat regulations for businesses and individuals.",
+        "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "This calculator provides estimates based on ZATCA regulations and Saudi VAT Law. Compliance requirements may vary based on your business type, revenue threshold, and ZATCA classification. We recommend consulting a ZATCA-approved tax advisor for official guidance. This is not legal or tax advice."
+    }
+  },
+  "NitaqatCalculator": {
+    "toolName": "Nitaqat (Saudization) 'What-If' Simulator",
+    "description": "Simulate how hiring Saudi employees or removing expats changes your company's Nitaqat band (Red, Yellow, Green, Platinum). Free, private, instant.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Company Details",
+      "totalEmployees": { "label": "Total Number of Employees" },
+      "saudiEmployees": { "label": "Current Number of Saudi Employees" },
+      "sector": {
+        "label": "Industry / Sector",
+        "options": { "all": "Standard (General Thresholds)" },
+        "hint": "Using standard Nitaqat thresholds. Exact bands depend on MHRSD tables for your sector and company size."
+      }
+    },
+    "buttons": {
+      "simulate": "Simulate Nitaqat Band",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "simulator": {
+      "title": "What-If Simulator",
+      "saudiEmployees": "Saudi Employees",
+      "expatEmployees": "Expat Employees",
+      "addSaudi": "+ Saudi",
+      "removeSaudi": "- Saudi",
+      "addExpat": "+ Expat",
+      "removeExpat": "- Expat",
+      "hint": "Use the +/- buttons above to simulate hiring or removing employees. See how your Nitaqat band changes in real time."
+    },
+    "results": {
+      "currentStatus": "Current Nitaqat Status",
+      "proposedStatus": "Proposed Nitaqat Status",
+      "saudizationPct": "Saudization %",
+      "nitaqatBand": "Nitaqat Band",
+      "breakdown": "Headcount Breakdown",
+      "saudi": "Saudi",
+      "expat": "Expat",
+      "total": "Total",
+      "recommendation": "Recommendation"
+    },
+    "bandLabels": {
+      "platinum": "Platinum",
+      "highGreen": "High Green",
+      "midGreen": "Mid Green",
+      "lowGreen": "Low Green",
+      "yellow": "Yellow",
+      "red": "Red"
+    },
+    "bandDescriptions": {
+      "platinum": "Unrestricted visa processing. Full access to government services.",
+      "highGreen": "Standard visa processing. Eligible for most benefits.",
+      "midGreen": "Normal visa processing. Competitive Saudization compliance.",
+      "lowGreen": "Limited visa processing. Minimum Saudization threshold met.",
+      "yellow": "Restricted visa issuance. Higher government fees apply.",
+      "red": "Visa issuance blocked. Risk of MHRSD enforcement actions."
+    },
+    "bandLegend": {
+      "title": "Nitaqat Band Reference"
+    },
+    "recommendation": {
+      "noChange": "Your proposed changes keep the same Nitaqat band.",
+      "hire": "Hire more Saudi employees to improve your Nitaqat band.",
+      "hireMore": "Hire {count} more Saudi employee(s) to reach the {band} band.",
+      "good": "Your company is in a good Nitaqat standing. Maintain compliance.",
+      "warning": "Your proposed changes may lower your Nitaqat band. Review before proceeding.",
+      "dropWarning": "These changes risk dropping your band from {band}. Consider hiring more Saudis."
+    },
+    "emptyState": "Enter your company details above and use the simulator to see how changes affect your Nitaqat band.",
+    "copiedResult": "Nitaqat Sim: Current {current}% → Proposed {proposed}% (via HsabKSA)",
+    "disclaimer": "This simulator provides estimates based on standard Nitaqat thresholds. Actual bands depend on your specific sector, company size, and the latest MHRSD (Ministry of Human Resources and Social Development) tables. Consult your PRO or the Qiwa/MHRSD portal for your official classification. This is not legal or regulatory advice.",
+    "errors": {
+      "totalRequired": "Enter a valid total employee count (minimum 1).",
+      "saudiExceedsTotal": "Saudi employees cannot exceed total employees.",
+      "invalidSaudi": "Enter a valid Saudi employee count.",
+      "generic": "Something went wrong. Please try again."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Use the Nitaqat (Saudization) Simulator",
+        "step1Title": "Step 1: Enter Your Current Headcount",
+        "step1Desc": "Enter your total number of employees and the current number of Saudi employees. These numbers determine your current Saudization percentage and Nitaqat band.",
+        "step2Title": "Step 2: Click 'Simulate Nitaqat Band'",
+        "step2Desc": "Click the green simulate button to calculate your current band and see your baseline status. Your current Saudization percentage and band will appear on the right.",
+        "step3Title": "Step 3: Use the What-If Simulator Controls",
+        "step3Desc": "Use the +Saudi, -Saudi, +Expat, and -Expat buttons to simulate changes to your workforce. Each click updates the proposed headcount instantly. Try different combinations to see how your band changes.",
+        "step4Title": "Step 4: Review the Proposed Band & Recommendation",
+        "step4Desc": "Watch as the proposed band updates in real time. The recommendation panel tells you exactly what actions to take — like how many more Saudis to hire to reach the next band.",
+        "step5Title": "Step 5: Plan Your HR Strategy",
+        "step5Desc": "Use the simulation results to plan your hiring strategy, budget for Saudi employee salaries, and prepare your company for Nitaqat compliance audits. Share or print the results for your PRO or HR team."
+      },
+      "understandingResults": {
+        "title": "Understanding Nitaqat Bands in Saudi Arabia",
+        "content": "Nitaqat is a Saudization program by the Ministry of Human Resources and Social Development (MHRSD) that classifies companies into color-coded bands based on their Saudization percentage. Each band has different implications for visa processing, government fees, and business operations.\n\nPlatinum Band (25%+): Companies with the highest Saudization rates enjoy unrestricted visa processing, faster government transactions, and priority access to MHRSD services. This is the ideal band for companies looking to grow.\n\nGreen Bands (6%–24.9%): Companies in Low Green (6–9.9%), Mid Green (10–14.9%), or High Green (15–24.9%) can process visas normally but may face slightly higher fees depending on their exact band. Most compliant companies operate in these bands.\n\nYellow Band (3%–5.9%): Companies in the Yellow band face significant visa processing restrictions. They can only renew existing visas, not issue new ones. Government fees are substantially higher. This band serves as a warning zone.\n\nRed Band (< 3%): Companies in Red cannot issue any new visas, renew expired visas, or transfer employee sponsorships. MHRSD may suspend their access to government services entirely. Immediate corrective action is required.\n\nImportant: Thresholds vary by sector (high-risk sectors like construction have lower requirements, while low-risk sectors like IT have higher requirements). Always verify your official classification on the Qiwa or MHRSD portal.",
+        "exampleTitle": "Quick Example",
+        "example": "Current: 2 Saudis + 10 Expats = 12 Total → 16.7% → High Green\n\nScenario A: Hire 2 more Saudis (+2 Saudi)\n→ 4 Saudis + 10 Expats = 14 Total → 28.6% → Platinum ✓\n\nScenario B: Remove 2 Expats (-2 Expat)\n→ 2 Saudis + 8 Expats = 10 Total → 20% → High Green (no change)\n\nScenario C: Hire 5 Expats (+5 Expat)\n→ 2 Saudis + 15 Expats = 17 Total → 11.8% → Mid Green (dropped one band!)"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About Nitaqat & Saudization",
+        "q1": "What is the minimum Saudization percentage for IT companies in Saudi Arabia?",
+        "a1": "Saudization thresholds vary by sector and company size. For low-risk sectors like IT and Consulting, the Green band typically starts around 6-10% Saudization depending on your company size bracket. Platinum requires 25% or higher. Always check the official MHRSD tables for your specific classification.",
+        "q2": "How does the Nitaqat band affect visa processing?",
+        "a2": "Platinum and Green bands allow normal visa issuance. Yellow-band companies face restrictions — they can renew existing visas but cannot issue new work visas. Red-band companies are completely blocked from visa services and risk MHRSD enforcement including service suspension.",
+        "q3": "What happens if my company is in the Red Nitaqat band?",
+        "a3": "Red-band companies cannot issue new work visas, renew expat contracts, or transfer sponsorships. MHRSD may also suspend access to government services including Qiwa, MOL services, and visa platforms. Immediate action is required to hire Saudis or reduce expat headcount.",
+        "q4": "How many Saudis do I need to hire to move from Red to Green?",
+        "a4": "It depends on your total headcount. With 50 total employees and 0 Saudis (0% = Red), you need 3 Saudis to reach 6% (Low Green). Use this simulator to test different hiring scenarios. For example: 50 total, 3 Saudis → 6% → Low Green.",
+        "q5": "Does reducing expat employees improve my Nitaqat band?",
+        "a5": "Yes. Reducing non-Saudi employees increases your Saudization percentage without hiring new Saudis. With 2 Saudis and 10 expats (16.7% = High Green), removing 3 expats raises it to 28.6% (Platinum). This is often faster and cheaper than hiring new Saudis.",
+        "q6": "What is the difference between Green, Yellow, and Red bands?",
+        "a6": "Green (6%+): Normal visa processing, standard fees. Yellow (3-5.9%): Restricted visa issuance, higher fees, can only renew. Red (< 3%): All visa services blocked, risk of MHRSD enforcement, urgent compliance needed.",
+        "q7": "How often does MHRSD update Nitaqat thresholds?",
+        "a7": "MHRSD updates Nitaqat thresholds periodically, typically quarterly or when Saudization policies change. Always check the MHRSD portal or your Qiwa account for your current band and latest threshold tables."
+      },
+      "relatedTools": {
+        "title": "Related Business & HR Tools",
+        "tool1Name": "ZATCA VAT Calculator",
+        "tool1Desc": "Calculate VAT for Saudi Arabia ZATCA compliance. Includes e-invoicing Phase 1 & Phase 2 compliance checklist.",
+        "tool1Href": "/zatca-vat-calculator",
+        "tool2Name": "Freelance Income Calculator",
+        "tool2Desc": "Calculate your freelance income, ZATCA compliance costs, and net earnings after VAT and deductions.",
+        "tool2Href": "/freelance-calculator",
+        "tool3Name": "EOSB Calculator",
+        "tool3Desc": "Calculate your End of Service Benefit under Saudi Labor Law (Articles 84 & 85).",
+        "tool3Href": "/eosb-calculator",
+        "tool4Name": "Final Settlement Calculator",
+        "tool4Desc": "Calculate your full settlement including unpaid salary, vacation pay, air ticket, and EOSB.",
+        "tool4Href": "/final-settlement-calculator"
+      },
+      "disclaimer": "This simulator provides estimates based on standard Nitaqat thresholds. Actual bands depend on your specific sector, company size, and the latest MHRSD tables. We recommend checking the official Qiwa or MHRSD portal for your company's exact classification. This is not legal or regulatory advice."
+    }
+  },
+  "FreelanceIncomeCalculator": {
+    "toolName": "Freelance (Watheq) Net Income Calculator",
+    "description": "Calculate your freelance net income after platform fees, taxes, and expenses on Upwork, Fiverr, Mostaql, Khamsat, and direct clients.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Freelance Income Details",
+      "grossIncome": { "label": "Monthly Gross Income (SAR)", "placeholder": "e.g. 5000" },
+      "monthlyExpenses": { "label": "Monthly Expenses (SAR)", "placeholder": "e.g. 500" },
+      "platform": { "label": "Freelance Platform", "options": { "upwork": "Upwork", "fiverr": "Fiverr", "mostaql": "Mostaql", "khamsat": "Khamsat", "direct": "Direct Client" } },
+      "platformFee": { "label": "Platform Fee (%)", "hint": "Auto-filled based on platform. Adjustable." },
+      "hours": { "label": "Working Hours/Month", "placeholder": "160" },
+      "taxStatus": { "label": "Tax Status", "options": { "saudi_resident": "Saudi Resident", "non_resident": "Non-Resident", "vat_registered": "VAT Registered" } },
+      "vatApplicable": { "label": "VAT Applicable?", "options": { "no": "No", "yes": "Yes (15%)" } }
+    },
+    "buttons": {
+      "calculate": "Calculate Net Income",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "monthly": "Monthly Net Income",
+      "annual": "Annual Net Income",
+      "hourlyRate": "Effective Hourly Rate"
+    },
+    "breakdown": {
+      "title": "Income Breakdown",
+      "grossIncome": "Gross Income",
+      "platformFee": "Platform Fee",
+      "expenses": "Monthly Expenses",
+      "vat": "VAT (15%)",
+      "netIncome": "Net Income"
+    },
+    "taxTips": {
+      "title": "Tax & Optimization Tips",
+      "registration": "If your freelance income exceeds SAR 375,000/year, you must register for VAT in Saudi Arabia and charge 15% on services.",
+      "platformDiversify": "Your platform fee is above 10%. Consider diversifying to platforms with lower fees or building direct client relationships.",
+      "expenseTracking": "Keep detailed records of all business expenses. Many freelancers overlook legitimate deductions like internet, software, and equipment.",
+      "taxConsultant": "Your income is significant. Consider consulting a Saudi tax advisor for personalized tax planning and compliance.",
+      "watheq": "Register on Watheq (Saudi freelance platform) to obtain official freelance documentation and validate your freelancer status."
+    },
+    "emptyState": "Enter your income details above to calculate your net freelance earnings after fees, taxes, and expenses.",
+    "copiedResult": "Freelance Net Income: {monthly} SAR/month | Annual: {annual} SAR (via HsabKSA)",
+    "disclaimer": "This calculator provides estimates for informational purposes only. Actual net income depends on your specific tax status, platform fees, and expenses. Consult a qualified accountant for your freelance tax obligations. This is not financial advice.",
+    "errors": {
+      "priceRequired": "Enter a valid income amount.",
+      "generic": "Something went wrong. Please try again."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Calculate Your Freelance Net Income",
+        "step1Title": "Step 1: Enter Your Monthly Gross Income",
+        "step1Desc": "Enter your total monthly freelance revenue before any deductions — including all completed projects, retainers, and recurring income from Upwork, Fiverr, Mostaql, Khamsat, or direct clients.",
+        "step2Title": "Step 2: Select Your Platform & Fee Structure",
+        "step2Desc": "Choose your primary freelance platform — each has different fee structures. Upwork charges 10% for established clients, Fiverr charges 20%, Mostaql charges 10%, Khamsat charges 20%, and direct clients have 0% fees. You can adjust the fee percentage manually.",
+        "step3Title": "Step 3: Enter Monthly Expenses",
+        "step3Desc": "Enter your monthly business expenses including internet, software subscriptions (Adobe, Slack, etc.), co-working space, equipment depreciation, marketing costs, and professional development.",
+        "step4Title": "Step 4: Set Tax and VAT Status",
+        "step4Desc": "Choose your tax status — Saudi Resident (no personal income tax), Non-Resident (may be subject to withholding tax), or VAT Registered (must charge 15% VAT). Indicate if VAT is applicable to your services.",
+        "step5Title": "Step 5: View Your Net Income & Optimization Tips",
+        "step5Desc": "The calculator shows your monthly and annual net income, effective hourly rate, and a detailed breakdown. Review the personalized tax tips to optimize your freelance business."
+      },
+      "understandingResults": {
+        "title": "Understanding Freelance Income Calculations in Saudi Arabia",
+        "content": "Calculating your true freelance net income requires accounting for several factors:\n\n1. Platform Fees: Each freelance platform charges a percentage of your earnings. Upwork charges 10-20% depending on client relationship, Fiverr charges a flat 20%, Mostaql charges 10%, Khamsat charges 20%, and direct clients have no platform fees.\n\n2. Business Expenses: Deduct all legitimate business expenses including internet, software subscriptions, equipment, co-working space, marketing, professional development, and transportation.\n\n3. VAT (Value Added Tax): If you are VAT-registered or your services are subject to VAT, you must account for 15% VAT. In Saudi Arabia, freelancers earning over SAR 375,000 annually must register for VAT.\n\n4. Tax Status: Saudi residents do not pay personal income tax. Non-residents may be subject to withholding tax (5-20% depending on service type). Consult a tax advisor for your specific situation.\n\n5. Effective Hourly Rate: Your net income divided by working hours gives your true hourly rate. This helps evaluate whether projects are worth your time.",
+        "exampleTitle": "Example Calculation",
+        "example": "Upwork Freelancer in Saudi Arabia\n\nMonthly Gross Income: SAR 10,000\nPlatform Fee (10%): -SAR 1,000\nNet Before Expenses: SAR 9,000\nMonthly Expenses: -SAR 1,500\nNet Before VAT: SAR 7,500\nVAT (15%, if applicable): -SAR 1,125\nNet Income: SAR 6,375\nAnnual Net Income: SAR 76,500\nWorking Hours: 160/month\nEffective Hourly Rate: SAR 39.84/hour"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About Freelance Income",
+        "q1": "How do platform fees work on Upwork vs Fiverr in Saudi Arabia?",
+        "a1": "Upwork charges 10% for most clients (20% for the first $500 with a new client). Fiverr charges a flat 20% on all earnings. Mostaql and Khamsat charge around 10-20%. Direct clients have 0% platform fees. These fees are deducted before taxes and expenses.",
+        "q2": "Do freelancers in Saudi Arabia need to pay VAT?",
+        "a2": "If your freelance income exceeds SAR 375,000 annually, you must register for VAT in Saudi Arabia and charge 15% VAT on your services. Freelancers below this threshold are not required to charge VAT unless they voluntarily register. Watheq (freelance platform) provides guidance on tax registration.",
+        "q3": "What is Watheq and how does it help freelancers?",
+        "a3": "Watheq is Saudi Arabia's official freelance documentation platform under the Ministry of Human Resources and Social Development. It helps freelancers obtain freelance documents, validate their status, and access benefits. Watheq registration is recommended for all freelancers in Saudi Arabia.",
+        "q4": "Can I deduct expenses as a freelancer in Saudi Arabia?",
+        "a4": "Yes, freelancers can deduct legitimate business expenses including internet costs, software subscriptions, co-working space fees, equipment, professional development, and marketing costs. Keep detailed records and receipts for all deductions.",
+        "q5": "What is the tax rate for freelancers in Saudi Arabia?",
+        "a5": "Saudi Arabia does not impose personal income tax on Saudi residents. However, VAT-registered freelancers must charge 15% VAT on their services. Non-resident freelancers may be subject to withholding tax at 5-20% depending on the service type.",
+        "q6": "Which freelance platform has the lowest fees?",
+        "a6": "Direct clients have 0% fees. Mostaql charges 10% — the lowest among platforms. Upwork charges 10% for established clients. Fiverr and Khamsat charge 20%. Consider diversifying across platforms and building direct client relationships to reduce fees.",
+        "q7": "How do I calculate my effective hourly rate as a freelancer?",
+        "a7": "Effective hourly rate = Net Income / Hours Worked per month. For example, if your net income is SAR 8,000 and you work 160 hours, your effective rate is SAR 50/hour. This helps you evaluate whether your current projects are worth your time."
+      },
+      "relatedTools": {
+        "title": "Related Freelance & Business Tools",
+        "tool1Name": "Salla/Zid True Profit Calculator",
+        "tool1Desc": "Calculate your actual net profit after all fees on Salla, Zid, and other e-commerce platforms in Saudi Arabia.",
+        "tool1Href": "/salla-profit-calculator",
+        "tool2Name": "Nitaqat Simulator",
+        "tool2Desc": "Simulate how hiring or removing employees affects your company's Nitaqat band.",
+        "tool2Href": "/nitaqat-simulator",
+        "tool3Name": "ZATCA VAT Calculator",
+        "tool3Desc": "Calculate VAT for Saudi Arabia ZATCA compliance. Includes e-invoicing Phase 1 & Phase 2 checklist.",
+        "tool3Href": "/zatca-vat-calculator",
+        "tool4Name": "CR Cost Estimator",
+        "tool4Desc": "Estimate your Commercial Registration (CR) costs including government fees, chamber fees, and professional fees.",
+        "tool4Href": "/cr-cost-estimator"
+      },
+      "disclaimer": "This calculator provides estimates for informational purposes only. Actual net income depends on your specific tax status, platform fees, and expenses. Consult a qualified accountant for your freelance tax obligations. This is not financial or legal advice."
+    }
+  },
+  "IbanValidator": {
+    "toolName": "Saudi IBAN Validator & Transfer Fee Estimator",
+    "description": "Validate Saudi IBAN format and estimate bank transfer fees for SARIE, Mada, and International SWIFT transfers.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "IBAN & Transfer Details",
+      "iban": { "label": "IBAN Number", "placeholder": "SA80 1000 0000 0000 0000 0000" },
+      "transferType": { "label": "Transfer Type", "options": { "sarie": "SARIE (Local Free)", "mada": "Mada (Local)", "swift": "International SWIFT" } },
+      "amount": { "label": "Transfer Amount (SAR)", "placeholder": "1000" }
+    },
+    "buttons": { "validate": "Validate IBAN & Estimate Fees", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "results": {
+      "valid": "Valid Saudi IBAN ✓",
+      "invalid": "Invalid IBAN",
+      "bankName": "Bank Name",
+      "bankCode": "Bank Code",
+      "unknown": "Unknown Bank"
+    },
+    "fees": {
+      "title": "Transfer Fee Estimate",
+      "sarie": "SARIE (Local) — Free, instant transfer between Saudi banks",
+      "mada": "Mada (Local) — ~2-5 SAR fee for local transfers",
+      "swift": "International SWIFT — ~75-150 SAR + 2% exchange margin",
+      "estimatedFee": "Estimated Flat Fee",
+      "exchangeMargin": "Exchange Margin (2%)",
+      "totalCost": "Total Estimated Cost"
+    },
+    "emptyState": "Enter a Saudi IBAN number to validate and estimate transfer fees.",
+    "copiedResult": "IBAN: {iban} | Bank: {bank} (via HsabKSA)",
+    "disclaimer": "This IBAN validator checks format only. Transfer fees are estimates based on standard bank rates. Actual fees vary by bank. Confirm with your bank before making transfers.",
+    "errors": { "invalidFormat": "Invalid IBAN format. Saudi IBAN must start with SA followed by 22 digits.", "generic": "Something went wrong." },
+    "seo": {
+      "howToUse": {
+        "title": "How to Validate a Saudi IBAN & Estimate Transfer Fees",
+        "step1Title": "Step 1: Enter Your IBAN Number",
+        "step1Desc": "Enter the full 24-character Saudi IBAN starting with SA. Spaces are optional — the validator will clean the input automatically.",
+        "step2Title": "Step 2: Select Transfer Type",
+        "step2Desc": "Choose between SARIE (free local transfers), Mada (low-cost local), or International SWIFT. Each has different fee structures.",
+        "step3Title": "Step 3: Enter Transfer Amount",
+        "step3Desc": "Enter the amount you plan to transfer in SAR. The fee estimator calculates costs based on the transfer type and amount.",
+        "step4Title": "Step 4: View Validation & Fee Results",
+        "step4Desc": "The tool validates the IBAN format, identifies your bank from the bank code (characters 3-4), and estimates transfer fees.",
+        "step5Title": "Step 5: Review Bank Details",
+        "step5Desc": "Review the identified bank name and bank code. Valid IBANs show a green check, invalid ones show a red cross with error details."
+      },
+      "understandingResults": {
+        "title": "Understanding Saudi IBAN & Transfer Fees",
+        "content": "Saudi IBAN structure: SA + 2 check digits + 2 bank code digits + 18 account digits.\n\nBank Codes: 10=SNB, 20=Al Rajhi, 30=Albilad, 40=Arab National, 50=Alinma, 60=AlJazira, 65=SABB, 70=Saudi Fransi, 75=Riyad Bank.\n\nTransfer Types:\n1. SARIE: Free, instant, local SAR transfers between Saudi banks.\n2. Mada: SAR 2-5, local transfers through Mada network.\n3. SWIFT: SAR 75-150 + ~2% exchange margin for international transfers.",
+        "exampleTitle": "Example Transfer",
+        "example": "SA80 1000 0000 0000 0000 0000\nBank Code: 80 = Al Rajhi Bank\n\nInternational SWIFT Transfer of SAR 10,000\nFlat Fee: SAR 100\nExchange Margin (2%): SAR 200\nTotal Cost: SAR 300"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About IBAN & Transfers",
+        "q1": "What is a Saudi IBAN structure?", "a1": "SA + 22 digits (24 total). First 2 digits after SA = bank code, remaining = account number with check digits.",
+        "q2": "How to identify bank from IBAN?", "a2": "Characters 3-4 after SA. 10=SNB, 20=Al Rajhi, 30=Albilad, 40=Arab National, 50=Alinma, 60=AlJazira, 65=SABB, 70=Saudi Fransi, 75=Riyad Bank.",
+        "q3": "Difference between SARIE and SWIFT?", "a3": "SARIE: free, instant, local. SWIFT: SAR 75-150 + 2% margin, international, 1-5 business days.",
+        "q4": "Cost of international transfers?", "a4": "SAR 75-150 flat fee + ~2% exchange margin. For SAR 10,000: ~SAR 275-350 total.",
+        "q5": "Is SARIE really free?", "a5": "Yes, SARIE transfers between Saudi banks are free and instant as regulated by SAMA.",
+        "q6": "Mada transfer fees?", "a6": "SAR 2-5 for local Mada transfers.",
+        "q7": "Where to find my IBAN?", "a7": "Bank statement, mobile app account details, or bank branch."
+      },
+      "relatedTools": {
+        "title": "Related Finance & Banking Tools",
+        "tool1Name": "SAMA Loan Calculator", "tool1Desc": "Check loan eligibility under SAMA's 33% DBR rule.", "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "Personal Zakat Calculator", "tool2Desc": "Calculate Zakat on savings, gold, and investments.", "tool2Href": "/zakat-calculator",
+        "tool3Name": "SIP Return Calculator", "tool3Desc": "Calculate returns on SIP investments in Saudi mutual funds.", "tool3Href": "/sip-calculator",
+        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Split RETT tax for Saudi property transactions.", "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "This tool validates IBAN format only. Transfer fee estimates are based on standard rates. Confirm with your bank for exact fees."
+    }
+  },
+  "SipCalculator": {
+    "toolName": "Mutual Fund / SIP Return Calculator",
+    "description": "Calculate returns on Systematic Investment Plans (SIP) offered by Saudi banks. Includes future value, total invested, and wealth gained.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "SIP Investment Details",
+      "monthlyInvestment": { "label": "Monthly Investment (SAR)", "placeholder": "1000" },
+      "annualReturn": { "label": "Expected Annual Return (%)", "placeholder": "8" },
+      "duration": { "label": "Duration (Years)", "placeholder": "10" }
+    },
+    "buttons": { "calculate": "Calculate SIP Returns", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "results": { "futureValue": "Total Future Value", "totalInvested": "Total Invested", "estimatedReturns": "Estimated Wealth Gained" },
+    "chart": { "title": "Principal vs Returns", "principal": "Principal (Your Investment)", "returns": "Returns (Wealth Gained)" },
+    "emptyState": "Enter your monthly investment amount to calculate your SIP returns over time.",
+    "copiedResult": "SIP Future Value: {fv} SAR | Total Invested: {invested} SAR (via HsabKSA)",
+    "disclaimer": "This calculator provides estimates based on compound interest calculations. Actual investment returns depend on market performance, fund management, and economic conditions. Past performance does not guarantee future results. Consult a financial advisor for personalized advice.",
+    "errors": { "generic": "Something went wrong. Please try again." },
+    "seo": {
+      "howToUse": {
+        "title": "How to Calculate SIP Returns",
+        "step1Title": "Step 1: Enter Monthly Investment",
+        "step1Desc": "Enter the amount you plan to invest monthly in a mutual fund SIP through your Saudi bank. Typical minimums start at SAR 500-1,000.",
+        "step2Title": "Step 2: Set Expected Return Rate",
+        "step2Desc": "Enter your expected annual return rate (default 8% is conservative for diversified portfolios). Money market: 4-6%, Balanced: 6-8%, Equity: 8-12%.",
+        "step3Title": "Step 3: Choose Investment Duration",
+        "step3Desc": "Select your investment horizon from 1 to 30 years. Longer durations maximize the power of compound interest.",
+        "step4Title": "Step 4: View Future Value & Returns",
+        "step4Desc": "The calculator shows your total future value, total amount invested, and estimated wealth gained from compounding.",
+        "step5Title": "Step 5: Review Principal vs Returns Chart",
+        "step5Desc": "The visual chart shows what portion of your future value comes from your own investment (principal) vs market returns."
+      },
+      "understandingResults": {
+        "title": "Understanding SIP Returns",
+        "content": "SIP returns use the power of compound interest:\n\n1. Monthly Investment: Fixed amount invested every month.\n2. Compound Interest: Each month's investment earns returns, and those returns earn returns.\n3. Future Value Formula: FV = P × [((1+r)^n - 1)/r] × (1+r)\n\n- P = Monthly Investment\n- r = Monthly Rate (Annual/12)\n- n = Total Months (Years × 12)\n\nLonger duration and higher rates dramatically increase returns.",
+        "exampleTitle": "Example Calculation",
+        "example": "Monthly Investment: SAR 1,000\nAnnual Return: 8%\nDuration: 10 years (120 months)\n\nMonthly Rate: 8%/12 = 0.667%\nFuture Value: 1,000 × [((1.00667)^120 - 1)/0.00667] × 1.00667\n= SAR 184,164\nTotal Invested: 1,000 × 120 = SAR 120,000\nReturns: 184,164 - 120,000 = SAR 64,164"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About SIP",
+        "q1": "What is a SIP?", "a1": "A Systematic Investment Plan lets you invest a fixed amount monthly into mutual funds, benefiting from rupee-cost averaging and compound interest.",
+        "q2": "How is SIP return calculated?", "a2": "Using future value formula: FV = P × [((1+r)^n - 1)/r] × (1+r), which accounts for monthly compounding.",
+        "q3": "Good return rate for SIP in Saudi?", "a3": "6-12% annually. Money market 4-6%, balanced 6-8%, equity 8-12%. Default 8% is conservative.",
+        "q4": "Minimum SIP investment in Saudi banks?", "a4": "Typically SAR 500-1,000 per month. Some funds accept SAR 200-300.",
+        "q5": "Can I withdraw SIP early?", "a5": "Yes, but exit fees may apply, especially in the first 1-2 years. Check fund prospectus.",
+        "q6": "SIP vs lump sum?", "a6": "SIP spreads investment over time (rupee-cost averaging). Lump sum invests all at once. SIP is better for long-term wealth building.",
+        "q7": "Which Saudi banks offer SIP?", "a7": "Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital offer various mutual fund SIPs."
+      },
+      "relatedTools": {
+        "title": "Related Finance & Banking Tools",
+        "tool1Name": "SAMA Loan Calculator", "tool1Desc": "Check loan eligibility under SAMA's 33% DBR rule.", "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "Personal Zakat Calculator", "tool2Desc": "Calculate Zakat on savings, gold, and investments.", "tool2Href": "/zakat-calculator",
+        "tool3Name": "IBAN Validator", "tool3Desc": "Validate Saudi IBANs and estimate transfer fees.", "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Split RETT tax for Saudi property transactions.", "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "This calculator provides estimates only. Investment returns are not guaranteed. Consult a financial advisor."
+    }
+  },
+  "ZakatCalculator": {
+    "toolName": "Personal Zakat & Gold Savings Calculator",
+    "description": "Calculate your Zakat obligation on cash savings, gold, silver, and investments based on the Nisab threshold. 2.5% rate as per Islamic rules.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Your Assets & Debts",
+      "cashSavings": { "label": "Cash & Bank Savings (SAR)", "placeholder": "50000" },
+      "investments": { "label": "Investments/Stocks (SAR)", "placeholder": "0" },
+      "goldGrams": { "label": "Gold Weight (Grams)", "placeholder": "0" },
+      "silverGrams": { "label": "Silver Weight (Grams)", "placeholder": "0" },
+      "goldPrice": { "label": "Gold Price/Gram (SAR)", "placeholder": "300" },
+      "silverPrice": { "label": "Silver Price/Gram (SAR)", "placeholder": "4" },
+      "debts": { "label": "Immediate Debts Owed (SAR)", "placeholder": "0" }
+    },
+    "buttons": { "calculate": "Calculate Zakat", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "results": { "zakatPayable": "Total Zakat Payable", "nisabThreshold": "Nisab Threshold", "netWealth": "Net Wealth", "nisabNotMet": "Nisab Not Met — No Zakat Due", "nisabStatus": "Nisab Status" },
+    "breakdown": { "title": "Asset Breakdown", "cashSavings": "Cash & Bank Savings", "goldValue": "Gold Value", "silverValue": "Silver Value", "investments": "Investments/Stocks", "totalAssets": "Total Assets", "debts": "Immediate Debts", "netWealth": "Net Wealth" },
+    "nisabMet": "Nisab threshold met. Zakat of 2.5% is due on your net wealth.",
+    "emptyState": "Enter your savings, gold, and investments to calculate your Zakat obligation.",
+    "copiedResult": "Zakat: {zakat} SAR | Net Wealth: {netWealth} SAR (via HsabKSA)",
+    "disclaimer": "This calculator provides an estimate of your Zakat obligation. Zakat calculations may vary based on scholarly interpretations, asset types, and specific circumstances. Consult a qualified Islamic scholar for definitive guidance. This is not religious advice.",
+    "errors": { "generic": "Something went wrong. Please try again." },
+    "seo": {
+      "howToUse": {
+        "title": "How to Calculate Your Zakat",
+        "step1Title": "Step 1: Enter Your Cash & Savings",
+        "step1Desc": "Enter all cash in hand, bank account balances, and savings accounts in SAR. Include current accounts, savings accounts, and fixed deposits that have completed one lunar year.",
+        "step2Title": "Step 2: Enter Gold & Silver Holdings",
+        "step2Desc": "Enter the weight of your gold and silver in grams. Use the current market price per gram. The calculator multiplies weight by price to determine the value of your precious metals.",
+        "step3Title": "Step 3: Enter Investments & Debts",
+        "step3Desc": "Enter your current investment/stock portfolio value. Then enter any immediate debts (short-term obligations due within the year) to subtract from your total assets.",
+        "step4Title": "Step 4: View Nisab Status & Zakat Due",
+        "step4Desc": "The calculator checks if your net wealth exceeds the Nisab threshold (85 grams of gold value). If yes, Zakat of 2.5% is calculated on your net wealth.",
+        "step5Title": "Step 5: Review Asset Breakdown",
+        "step5Desc": "Review the detailed breakdown showing each asset category, total assets, debts deducted, and final net wealth used for Zakat calculation."
+      },
+      "understandingResults": {
+        "title": "Understanding Zakat Calculation",
+        "content": "Zakat is calculated based on these principles:\n\n1. Nisab: The minimum threshold equivalent to 85 grams of gold. If your net wealth is below this, no Zakat is due.\n\n2. Zakat Rate: 2.5% (1/40) of net wealth exceeding Nisab.\n\n3. Assets Included: Cash, gold, silver, investments, stocks, business inventory, and other liquid assets.\n\n4. Assets Excluded: Personal residence, personal vehicles, household furniture, and business equipment.\n\n5. Debts Deducted: Immediate/short-term debts can be deducted. Long-term debts (mortgage) are not typically deducted.",
+        "exampleTitle": "Example Calculation",
+        "example": "Individual with savings and gold\n\nCash Savings: SAR 50,000\nGold: 50 grams × SAR 300 = SAR 15,000\nInvestments: SAR 20,000\nTotal Assets: SAR 85,000\nDebts: -SAR 5,000\nNet Wealth: SAR 80,000\n\nNisab: 85 × 300 = SAR 25,500\nNet Wealth (80,000) >= Nisab (25,500): Zakat Due\n\nZakat: 80,000 × 2.5% = SAR 2,000"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About Zakat",
+        "q1": "What is the Nisab threshold?", "a1": "The Nisab is the value of 85 grams of gold. At SAR 300/gram, it's SAR 25,500. If your net wealth exceeds this, Zakat is due at 2.5%.",
+        "q2": "Do I pay Zakat on gold and silver?", "a2": "Yes, gold and silver are Zakatable at their market value, regardless of whether for personal use or investment.",
+        "q3": "Do I pay Zakat on investments?", "a3": "Yes, stocks, mutual funds, and other financial investments are subject to Zakat at their current market value.",
+        "q4": "Can I deduct debts before Zakat?", "a4": "Yes, immediate short-term debts due within the year can be deducted from total assets.",
+        "q5": "When should I pay Zakat?", "a5": "Zakat is due after one lunar year from when your wealth first exceeded Nisab. Many pay during Ramadan.",
+        "q6": "What is the current gold price?", "a6": "Gold prices fluctuate. Check current rates from the Saudi Gold Market or reliable online sources on calculation day.",
+        "q7": "Are personal assets subject to Zakat?", "a7": "Personal residence, vehicles, and household items are not Zakatable. Only liquid/income-generating assets are included."
+      },
+      "relatedTools": {
+        "title": "Related Finance & Banking Tools",
+        "tool1Name": "SAMA Loan Eligibility Calculator", "tool1Desc": "Check your loan eligibility under SAMA's 33% DBR rule.", "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "SIP Return Calculator", "tool2Desc": "Calculate returns on SIP investments in Saudi mutual funds.", "tool2Href": "/sip-calculator",
+        "tool3Name": "IBAN Validator & Transfer Fee Estimator", "tool3Desc": "Validate Saudi IBANs and estimate bank transfer fees.", "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Split Real Estate Transaction Tax for Saudi property transactions.", "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "This calculator provides estimates based on standard Zakat rules. Consult a qualified Islamic scholar for definitive guidance on your specific situation."
+    }
+  },
+  "SamaLoanCalculator": {
+    "toolName": "SAMA Loan Eligibility Calculator",
+    "description": "Calculate your maximum personal loan based on SAMA's 33% Debt Burden Ratio (DBR) rule. Check eligibility, monthly EMI, and total interest.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Loan Eligibility Details",
+      "monthlySalary": { "label": "Monthly Salary (SAR)", "placeholder": "e.g. 10000" },
+      "existingEMIs": { "label": "Existing Monthly EMIs/Deductions (SAR)", "placeholder": "e.g. 0" },
+      "annualRate": { "label": "Annual Interest Rate (%)", "placeholder": "5.99" },
+      "tenureYears": { "label": "Loan Tenure", "year": "Year(s)" }
+    },
+    "buttons": { "calculate": "Check Eligibility", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "results": {
+      "eligibleLoan": "Maximum Eligible Loan",
+      "monthlyEMI": "Monthly EMI",
+      "totalInterest": "Total Interest Payable"
+    },
+    "dbrInfo": {
+      "utilization": "Utilization",
+      "yourDBR": "Your DBR",
+      "samaLimit": "SAMA Limit",
+      "maxAllowed": "Maximum Allowed EMI (33% of Salary):",
+      "available": "Available EMI for New Loan:"
+    },
+    "emptyState": "Enter your salary and existing obligations to check your loan eligibility under SAMA rules.",
+    "copiedResult": "SAMA Loan: {loan} SAR | Monthly EMI: {emi} SAR (via HsabKSA)",
+    "disclaimer": "This calculator provides estimates based on SAMA's 33% DBR regulation. Actual loan approval depends on your bank's credit policy, credit score (SIMAH), and financial history. Consult your bank for an exact pre-approval. This is not financial advice.",
+    "errors": { "salaryRequired": "Please enter your monthly salary.", "generic": "Something went wrong. Please try again.", "dbrLimitReached": "You have reached your SAMA DBR limit (33%). Reduce existing debt before applying for a new loan." },
+    "seo": {
+      "howToUse": {
+        "title": "How to Check Your SAMA Loan Eligibility",
+        "step1Title": "Step 1: Enter Your Monthly Salary",
+        "step1Desc": "Enter your total monthly salary in SAR. This is used to calculate the maximum allowed EMI under SAMA's 33% Debt Burden Ratio rule.",
+        "step2Title": "Step 2: Enter Existing Deductions",
+        "step2Desc": "Enter all existing monthly EMI obligations including current personal loans, auto loans, and credit card payments. These are subtracted from your maximum allowed EMI.",
+        "step3Title": "Step 3: Set Interest Rate & Tenure",
+        "step3Desc": "Enter the expected annual interest rate (default 5.99% is typical for Saudi personal loans). Select your preferred loan tenure from 1 to 5 years.",
+        "step4Title": "Step 4: View Your Maximum Eligible Loan",
+        "step4Desc": "The calculator shows your maximum eligible loan amount, monthly EMI, total interest payable, and DBR utilization with a visual progress bar.",
+        "step5Title": "Step 5: Understand Your DBR Status",
+        "step5Desc": "Review the DBR utilization bar. If your existing EMIs already consume 33% of your salary, you may not qualify for additional financing."
+      },
+      "understandingResults": {
+        "title": "Understanding SAMA Debt Burden Ratio",
+        "content": "The Saudi Central Bank (SAMA) implemented the 33% Debt Burden Ratio (DBR) rule to protect consumers from over-borrowing:\n\n1. Maximum Allowed EMI = Monthly Salary × 33%. This is the maximum monthly payment you can allocate to all debt obligations combined.\n\n2. Available EMI = Maximum Allowed EMI - Existing Deductions. This is the amount available for a new loan payment.\n\n3. Maximum Loan Amount: Calculated using the standard amortization formula: Available EMI × [(1 + r)^n - 1] / [r × (1 + r)^n], where r is monthly interest rate and n is total months.\n\n4. DBR Utilization: Shows what percentage of your 33% limit is already used by existing debts. Below 80% is healthy, above 80% means limited room for new loans.\n\n5. If your existing EMIs already meet or exceed the 33% limit, you have reached your DBR cap and must reduce existing debt before applying for new financing.",
+        "exampleTitle": "Example Calculation",
+        "example": "Employee with SAR 15,000 Monthly Salary\n\nMonthly Salary: SAR 15,000\nExisting EMIs: SAR 2,000\nInterest Rate: 5.99%\nTenure: 5 years (60 months)\n\nMaximum Allowed EMI: 15,000 × 33% = SAR 4,950\nAvailable EMI: 4,950 - 2,000 = SAR 2,950\nMonthly Rate: 5.99% / 12 = 0.499%\n\nMaximum Loan = 2,950 × [(1.00499^60 - 1) / (0.00499 × 1.00499^60)]\n= 2,950 × 51.72\n= SAR 152,574\n\nTotal Payable: 2,950 × 60 = SAR 177,000\nTotal Interest: 177,000 - 152,574 = SAR 24,426\nDBR Utilization: 2,000 / 4,950 = 40.4%"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About SAMA Loan Eligibility",
+        "q1": "What is the SAMA 33% Debt Burden Ratio?", "a1": "SAMA mandates that your total monthly debt payments cannot exceed 33% of your monthly salary. This applies to all personal loans, auto loans, and credit card payments combined.",
+        "q2": "How do banks calculate maximum loan amount?", "a2": "Banks use: Available EMI (33% of salary minus existing payments) × Amortization Factor (based on interest rate and tenure). The available EMI is the key constraint.",
+        "q3": "What is the maximum personal loan tenure in Saudi Arabia?", "a3": "SAMA allows up to 5 years (60 months) for personal loans. Longer tenures reduce your monthly EMI but increase total interest paid.",
+        "q4": "What interest rate should I expect for a personal loan?", "a4": "Typical rates range from 3.99% to 7.99% APR based on your salary amount, bank relationship, and credit history (SIMAH).",
+        "q5": "Can I get a loan if my DBR is 33%?", "a5": "No. If your existing obligations already reach 33%, you are at your DBR limit. You must reduce existing debt or consolidate loans to free up DBR room.",
+        "q6": "What counts as existing deductions?", "a6": "Personal loan EMIs, auto loan payments, credit card minimum payments (5% of outstanding), and other registered debt obligations.",
+        "q7": "How can I improve loan eligibility?", "a7": "Pay off credit cards, reduce existing loans, increase salary, choose longer tenure, maintain good SIMAH credit history, or transfer salary to the lending bank."
+      },
+      "relatedTools": {
+        "title": "Related Finance & Banking Tools",
+        "tool1Name": "Personal Zakat Calculator",
+        "tool1Desc": "Calculate your Zakat obligation on savings, gold, silver, and investments based on the Nisab threshold.",
+        "tool1Href": "/zakat-calculator",
+        "tool2Name": "SIP Return Calculator",
+        "tool2Desc": "Calculate returns on Systematic Investment Plans (SIP) offered by Saudi banks and mutual funds.",
+        "tool2Href": "/sip-calculator",
+        "tool3Name": "IBAN Validator & Transfer Fee Estimator",
+        "tool3Desc": "Validate Saudi IBANs and estimate transfer fees for SARIE, Mada, and international SWIFT transfers.",
+        "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter",
+        "tool4Desc": "Split Real Estate Transaction Tax between buyer and seller for Saudi property transactions.",
+        "tool4Href": "/zakat-calculator"
+      },
+      "disclaimer": "This calculator provides estimates based on SAMA regulations. Actual loan approval is subject to your bank's underwriting criteria and credit assessment."
+    }
+  },
+  "CrCostEstimator": {
+    "toolName": "Commercial Registration (CR) Cost Estimator",
+    "description": "Estimate your Saudi Arabia Commercial Registration costs including government fees, Chamber of Commerce fees, and professional service fees.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "CR Details",
+      "activity": {
+        "label": "Business Activity",
+        "options": {
+          "commercial": "Commercial",
+          "industrial": "Industrial",
+          "professional": "Professional",
+          "service": "Service"
+        }
+      },
+      "companyType": {
+        "label": "Company Type",
+        "options": {
+          "sole_establishment": "Sole Establishment",
+          "llc": "Limited Liability (LLC)",
+          "closed_jsc": "Closed Joint Stock",
+          "foreign_branch": "Foreign Branch"
+        }
+      },
+      "cityTier": {
+        "label": "City Tier",
+        "options": {
+          "tier1": "Major City (Riyadh/Jeddah)",
+          "tier2": "Mid-Size City",
+          "tier3": "Small City/Town"
+        }
+      },
+      "premisesType": {
+        "label": "Premises Type",
+        "options": {
+          "rented": "Rented",
+          "owned": "Owned",
+          "home_office": "Home Office"
+        }
+      },
+      "capital": { "label": "Capital (SAR)", "placeholder": "100000" },
+      "employees": { "label": "Employees", "placeholder": "1" },
+      "years": { "label": "Duration (Years)", "placeholder": "1" }
+    },
+    "buttons": {
+      "calculate": "Estimate CR Cost",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "firstYear": "First Year Cost",
+      "annual": "Annual Renewal",
+      "total": "Total Cost ({years} years)"
+    },
+    "breakdown": {
+      "title": "Cost Breakdown",
+      "oneTime": "First Year",
+      "annual": "Annual",
+      "governmentRegistration": "Government Registration Fee",
+      "chamberRegistration": "Chamber of Commerce Fee",
+      "municipalFee": "Municipal License Fee",
+      "professionalFee": "Professional Service Fee",
+      "governmentRenewal": "Government Renewal Fee",
+      "chamberRenewal": "Chamber Renewal Fee"
+    },
+    "tips": {
+      "title": "Cost Saving Tips",
+      "homeOffice": "Consider a home office if your activity allows. It saves SAR 500-800/year in municipal fees.",
+      "capitalLarge": "Higher capital increases registration fees (0.1% of capital). Consider starting with the minimum required capital.",
+      "employeesMany": "Each employee adds SAR 100 to chamber registration fees. Ensure all employees are registered correctly.",
+      "tier1City": "Registering in a Tier 2 or 3 city can save SAR 300-900 on chamber fees if your business allows it.",
+      "qawaem": "File Qawaem financial reports on time to avoid late fees and renewal delays. Consider using a certified accountant.",
+      "bulkYears": "Registering for multiple years doesn't reduce annual renewal costs. Renew annually to manage cash flow."
+    },
+    "emptyState": "Enter your CR details above to estimate total registration and renewal costs.",
+    "copiedResult": "CR Cost: {total} SAR total | Annual Renewal: {annual} SAR (via HsabKSA)",
+    "disclaimer": "This calculator provides estimates based on standard Saudi Ministry of Commerce fee schedules. Actual costs may vary based on specific activity codes, additional licenses, and professional service provider rates. Consult a certified legal consultant for exact pricing. This is not financial or legal advice.",
+    "errors": {
+      "capitalRequired": "Enter a valid capital amount.",
+      "generic": "Something went wrong. Please try again."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Estimate Your CR Costs",
+        "step1Title": "Step 1: Select Business Activity & Company Type",
+        "step1Desc": "Choose your business activity (Commercial, Industrial, Professional, or Service) and company type (Sole Establishment, LLC, Closed Joint Stock, or Foreign Branch). Each combination has different fee structures.",
+        "step2Title": "Step 2: Choose City Tier and Premises Type",
+        "step2Desc": "Select your city tier — major cities like Riyadh and Jeddah have higher fees. Choose your premises type — rented, owned, or home office. Home offices save on municipal fees.",
+        "step3Title": "Step 3: Enter Capital, Employees & Duration",
+        "step3Desc": "Enter your registered capital (SAR), number of employees, and CR duration in years. Higher capital and more employees increase registration fees proportionally.",
+        "step4Title": "Step 4: View Total Cost Breakdown",
+        "step4Desc": "The calculator shows your first-year cost, annual renewal cost, and total cost. The breakdown table shows government fees, chamber fees, municipal fees, and professional fees separately.",
+        "step5Title": "Step 5: Review Cost Saving Tips",
+        "step5Desc": "Review personalized tips to reduce your CR costs. Consider home offices, choosing the right city tier, and filing Qawaem reports on time."
+      },
+      "understandingResults": {
+        "title": "Understanding CR Costs in Saudi Arabia",
+        "content": "Commercial Registration (CR) costs in Saudi Arabia consist of several components:\n\n1. Government Fees: Paid to the Ministry of Commerce. Ranges from SAR 100-300+ depending on activity type. Plus 0.1% of registered capital for first-time registration.\n\n2. Chamber of Commerce Fees: Paid to the local Chamber. Ranges from SAR 600-1,500 for registration plus SAR 100 per employee. Annual renewal is SAR 500-1,200 plus SAR 50 per employee.\n\n3. Municipal Fees: Municipal license fee based on premises type. Rented: SAR 500/year. Owned: SAR 800/year. Home office: Free (for eligible activities).\n\n4. Professional Service Fees: Fees for legal/document preparation services. Sole Establishment: SAR 500. LLC: SAR 2,000. Closed Joint Stock: SAR 5,000. Foreign Branch: SAR 8,000.\n\n5. Qawaem Financial Reporting: Required annually for CR renewal. Non-compliance results in late fees and renewal delays.",
+        "exampleTitle": "Example Calculation",
+        "example": "Sole Establishment in Riyadh (Tier 1)\n\nActivity: Commercial\nCapital: SAR 100,000\nEmployees: 1\nPremises: Rented\nDuration: 1 year\n\nGovernment Registration: 200 + (100,000 x 0.1%) = 300 SAR\nChamber Registration: 1,500 + (1 x 100) = 1,600 SAR\nMunicipal Fee: 500 SAR\nProfessional Fee: 500 SAR\n\nFirst Year Total: 2,900 SAR\nAnnual Renewal: 200 + 1,200 + 50 = 1,450 SAR"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About CR Costs",
+        "q1": "How much does it cost to register a CR in Saudi Arabia?",
+        "a1": "Costs vary by activity, company type, and city. Government fees: SAR 100-300+. Chamber fees: SAR 600-1,500. Professional fees: SAR 500-8,000. Municipal fees: SAR 0-800. First-year total typically SAR 1,500-12,000+.",
+        "q2": "What is the difference between Sole Establishment and LLC?",
+        "a2": "Sole Establishment: single owner, full liability, lower cost (SAR 500 professional fee). LLC: 2+ shareholders, limited liability, higher cost (SAR 2,000+ professional fee). LLC is better for multiple owners or higher capital.",
+        "q3": "Do I need a physical office for my CR?",
+        "a3": "Most activities require a commercial premises. Home offices are allowed for certain professional activities. Rented premises: SAR 500/year. Owned: SAR 800/year. Home office: free.",
+        "q4": "What are Chamber of Commerce fees for CR?",
+        "a4": "Tier 1 cities: SAR 1,500 registration + SAR 1,200 renewal + SAR 100/employee. Tier 2: SAR 1,000 + SAR 800 + SAR 100/employee. Tier 3: SAR 600 + SAR 500 + SAR 100/employee.",
+        "q5": "How much capital is needed for a CR?",
+        "a5": "Sole Establishment: no minimum. LLC: minimum SAR 500,000 for some activities. Foreign branch: varies. Capital also affects registration fees (0.1% of capital).",
+        "q6": "Can I renew my CR annually?",
+        "a6": "Yes, renewal is required annually. Costs are lower than first-time registration. Qawaem financial reporting is mandatory for renewal submission.",
+        "q7": "What is Qawaem and why important?",
+        "a7": "Qawaem is the Ministry of Commerce financial reporting system. Companies must submit annual financial statements through Qawaem for CR renewal. Late submissions incur penalties."
+      },
+      "relatedTools": {
+        "title": "Related Business Tools",
+        "tool1Name": "ZATCA VAT Calculator",
+        "tool1Desc": "Calculate VAT for Saudi Arabia ZATCA compliance. Includes e-invoicing Phase 1 & Phase 2 checklist.",
+        "tool1Href": "/zatca-vat-calculator",
+        "tool2Name": "Nitaqat Simulator",
+        "tool2Desc": "Simulate how hiring or removing employees affects your company's Nitaqat band.",
+        "tool2Href": "/nitaqat-simulator",
+        "tool3Name": "Freelance Income Calculator",
+        "tool3Desc": "Calculate your freelance net income after platform fees, taxes, and expenses on Upwork, Fiverr, Mostaql, and more.",
+        "tool3Href": "/freelance-income-calculator",
+        "tool4Name": "Salla/Zid True Profit Calculator",
+        "tool4Desc": "Calculate your actual net profit after all fees on Salla, Zid, and other e-commerce platforms in Saudi Arabia.",
+        "tool4Href": "/salla-profit-calculator"
+      },
+      "disclaimer": "This calculator provides estimates based on standard Ministry of Commerce fee schedules. Actual costs may vary by specific activity code, additional licenses, and service provider rates. Consult a certified legal consultant for exact pricing. This is not financial or legal advice."
+    }
+  },
+  "SallaProfitCalculator": {
+    "toolName": "Salla/Zid True Profit Calculator",
+    "description": "Calculate your actual net profit after all fees on Salla, Zid, and other e-commerce platforms in Saudi Arabia. Includes payment gateway fees, COD costs, returns, and VAT.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Product & Order Details",
+      "sellingPrice": { "label": "Selling Price (SAR)", "placeholder": "e.g., 100" },
+      "costPrice": { "label": "Cost Price (SAR)", "placeholder": "e.g., 50" },
+      "shippingCost": { "label": "Shipping Cost (SAR)", "placeholder": "e.g., 20" },
+      "platform": { "label": "Platform", "options": { "salla": "Salla", "zid": "Zid", "other": "Other" } },
+      "paymentMethod": { "label": "Payment Method", "options": { "credit_card": "Credit Card", "mada": "Mada", "apple_pay": "Apple Pay", "cod": "Cash on Delivery" } },
+      "monthlyOrders": { "label": "Monthly Orders", "placeholder": "e.g., 100" },
+      "codReturnRate": { "label": "COD Return Rate (%)", "placeholder": "15" }
+    },
+    "buttons": {
+      "calculate": "Calculate Profit",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "perOrder": "Net Profit per Order",
+      "monthly": "Monthly Net Profit",
+      "profitMargin": "Profit Margin"
+    },
+    "breakdown": {
+      "title": "Per-Order Cost Breakdown",
+      "revenue": "Revenue",
+      "cogs": "Cost of Goods",
+      "shipping": "Shipping Cost",
+      "gatewayFee": "Payment Gateway Fee",
+      "returnCost": "Return Cost (Avg)",
+      "platformFee": "Platform Subscription (Per Order)",
+      "netProfit": "Net Profit"
+    },
+    "optimization": {
+      "title": "Optimization Tips",
+      "reduceCOD": "Reduce COD orders by offering card payment discounts. COD costs 15 SAR per order vs ~3.50 SAR for card — saving 11.50 SAR each time.",
+      "lowMargin": "Your profit margin is below 10%. Consider increasing prices, reducing COGS, or negotiating better shipping rates.",
+      "shipping": "Your shipping cost is above 20 SAR. Negotiate bulk rates with logistics partners or offer free shipping thresholds.",
+      "subscription": "Your platform subscription cost per order is high. Review your plan or increase order volume to lower the per-order cost."
+    },
+    "emptyState": "Enter your product details above to calculate your true profit after all fees.",
+    "copiedResult": "Salla/Zid Profit: {perOrder} SAR/order | Monthly: {monthly} SAR (via HsabKSA)",
+    "disclaimer": "This calculator provides estimates based on Salla and Zid Saudi Arabia pricing as of 2024. Actual fees may vary based on your specific plan, payment provider, and negotiated rates. Consult your platform dashboard for exact figures. This is not financial advice.",
+    "errors": {
+      "priceRequired": "Enter a valid selling price.",
+      "ordersRequired": "Enter the number of monthly orders (min 1).",
+      "generic": "Something went wrong. Please try again."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Calculate True Profit on Salla/Zid",
+        "step1Title": "Step 1: Enter Your Product Pricing",
+        "step1Desc": "Enter your product selling price, cost price, and shipping cost in SAR. These are the core inputs that determine your gross margin before platform fees.",
+        "step2Title": "Step 2: Select Platform and Payment Method",
+        "step2Desc": "Choose whether you sell on Salla, Zid, or another platform. Select your primary payment method — Credit Card, Mada, Apple Pay, or Cash on Delivery (COD). Each has different fee structures.",
+        "step3Title": "Step 3: Enter Order Volume and Return Rate",
+        "step3Desc": "Enter your monthly order volume to calculate monthly profit. If you use COD, set your expected return rate (default 15% is typical for Saudi e-commerce).",
+        "step4Title": "Step 4: View Your True Profit Breakdown",
+        "step4Desc": "The calculator shows net profit per order, monthly profit, and profit margin. The breakdown table reveals exactly how much each cost category takes from your revenue.",
+        "step5Title": "Step 5: Apply Optimization Tips",
+        "step5Desc": "Review the personalized optimization tips. These suggest specific actions like reducing COD rates, negotiating shipping, or adjusting pricing to improve your margins."
+      },
+      "understandingResults": {
+        "title": "Understanding E-commerce Fees in Saudi Arabia",
+        "content": "Saudi e-commerce platforms charge several fees that eat into your profit margin:\n\n1. Platform Subscription: Salla (99-299 SAR/month) or Zid (49-249 SAR/month) based on your plan features and order volume.\n\n2. Payment Gateway Fees: All online payments through Moyasar/Stripe charge approximately 2.5% + 1 SAR per transaction. This applies to Credit Card, Mada, and Apple Pay payments.\n\n3. COD Fees: Cash on Delivery adds 15 SAR per order — significantly higher than card payments. This is to cover the logistics provider's collection and handling costs.\n\n4. Return Costs: Returned orders cost approximately 20 SAR each to process. With a 15% return rate on COD, this adds up quickly.\n\n5. VAT on Fees: Platform subscription fees are subject to 15% VAT, adding to your monthly costs.\n\nUnderstanding these costs and optimizing your payment mix and pricing strategy can significantly improve your profit margins.",
+        "exampleTitle": "Example Calculation",
+        "example": "Product: 100 SAR Selling Price, 50 SAR Cost, 20 SAR Shipping\n\nSalla Subscription (149 SAR/month): ~1.49 SAR/order at 100 orders\nPayment Gateway (Credit Card): 2.5% + 1 SAR = 3.50 SAR\n\nRevenue: 100 SAR\nCosts: -50 (COGS) -20 (Shipping) -3.50 (Gateway) -1.49 (Platform) = -74.99 SAR\nNet Profit: 25.01 SAR per order\nMonthly (100 orders): 2,501 SAR\nProfit Margin: 25%"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About Salla/Zid Fees",
+        "q1": "How do Salla and Zid fees work in Saudi Arabia?",
+        "a1": "Salla charges 99-299 SAR/month subscription, Zid charges 49-249 SAR/month. Both use payment gateways like Moyasar/Stripe with ~2.5% + 1 SAR per transaction. COD adds 15 SAR per order. These fees are automatically calculated in our tool.",
+        "q2": "What is the COD return rate for e-commerce in Saudi Arabia?",
+        "a2": "The average COD return rate in Saudi Arabia is 10-25%, with 15% being common. Returns cost approximately 20 SAR per order. Reducing COD through card payment incentives can significantly improve profits.",
+        "q3": "How do payment gateway fees affect my profit?",
+        "a3": "Payment gateway fees at 2.5% + 1 SAR per transaction mean a 100 SAR product costs 3.50 SAR in fees. COD at 15 SAR flat is much higher. Encouraging card payments saves 10-12 SAR per order vs COD.",
+        "q4": "What is a good profit margin for Saudi e-commerce?",
+        "a4": "A healthy profit margin after all fees is 15-30%. Many sellers operate at 5-10% due to high COD returns and shipping costs. Use this calculator to identify hidden costs and optimize pricing.",
+        "q5": "Does VAT affect my e-commerce profit calculation?",
+        "a5": "Yes, 15% VAT applies to platform subscription fees and is included in the calculation. If you are VAT-registered, you also charge VAT on your products. The calculator includes VAT on platform fees.",
+        "q6": "How can I reduce my e-commerce costs on Salla/Zid?",
+        "a6": "Encourage card payments over COD, negotiate better shipping rates, optimize pricing for 20%+ margins, improve product listings to reduce returns, and choose the right subscription plan for your volume.",
+        "q7": "What hidden fees should e-commerce sellers watch for?",
+        "a7": "Hidden fees include COD return shipping (20 SAR/return), payment gateway monthly minimums, SMS notification fees, integration/app fees, and storage fees. Our calculator captures the most significant costs."
+      },
+      "relatedTools": {
+        "title": "Related E-commerce & Business Tools",
+        "tool1Name": "ZATCA VAT Calculator",
+        "tool1Desc": "Calculate VAT for Saudi Arabia ZATCA compliance. Includes e-invoicing Phase 1 & Phase 2 checklist.",
+        "tool1Href": "/zatca-vat-calculator",
+        "tool2Name": "Freelance Income Calculator",
+        "tool2Desc": "Calculate your freelance net income after platform fees, taxes, and expenses on Upwork, Fiverr, Mostaql, and more.",
+        "tool2Href": "/freelance-income-calculator",
+        "tool3Name": "Nitaqat Simulator",
+        "tool3Desc": "Simulate how hiring or removing employees affects your company's Nitaqat band.",
+        "tool3Href": "/nitaqat-simulator",
+        "tool4Name": "CR Cost Estimator",
+        "tool4Desc": "Estimate your Commercial Registration (CR) costs including government fees, chamber fees, and professional fees.",
+        "tool4Href": "/cr-cost-estimator"
+      },
+      "disclaimer": "This calculator provides estimates based on Salla and Zid pricing as of 2024. Actual fees vary by plan, payment provider, and negotiated rates. Consult your platform dashboard for exact figures. This is not financial or legal advice."
     }
   },
   "Hero": {
