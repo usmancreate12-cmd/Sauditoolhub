@@ -36,7 +36,7 @@ const categories = [
       { nameKey: 'toolNames.eosb', href: 'eosb-calculator' },
       { nameKey: 'toolNames.jawazat', href: 'jawazat-fine-calculator' },
       { nameKey: 'toolNames.family', href: 'family-visa-optimizer' },
-      { nameKey: 'toolNames.settlement', href: '#' },
+      { nameKey: 'toolNames.settlement', href: 'final-settlement-calculator' },
       { nameKey: 'toolNames.visaChecklist', href: '#' },
     ],
   },

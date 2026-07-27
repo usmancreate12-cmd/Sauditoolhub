@@ -380,6 +380,132 @@
       "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa official Saudi fee structures na inilathala ng Ministry of Interior at Jawazat. Maaaring mag-iba ang actual fees depende sa iyong specific situation, nationality, at policy changes. Inirerekomenda naming i-verify sa Absher o sa iyong sponsor company para sa exact amounts. Ito ay hindi legal o financial na payo."
     }
   },
+  "FinalSettlementCalculator": {
+    "toolName": "Final Settlement at Air Ticket Calculator",
+    "description": "Kalkulahin ang iyong buong final settlement sa Saudi Arabia — unpaid salary, unused vacation pay, air ticket, at EOSB sa isang lugar.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Empleyado",
+      "totalSalary": {
+        "label": "Kabuuang Buwanang Sahod (SAR)",
+        "placeholder": "e.g., 12000"
+      },
+      "unpaidDays": {
+        "label": "Hindi Nabayarang Araw ng Trabaho",
+        "placeholder": "0"
+      },
+      "unusedLeaveDays": {
+        "label": "Hindi Nagamit na Annual Leave Days",
+        "placeholder": "0"
+      },
+      "airTicket": {
+        "label": "Air Ticket Entitlement",
+        "options": {
+          "none": "Wala",
+          "economy": "Economy papuntang Bahay",
+          "business": "Business Class",
+          "custom": "Custom na Halaga (SAR)"
+        },
+        "customAmountLabel": "Custom Air Ticket Amount (SAR)",
+        "customAmountPlaceholder": "e.g., 3000"
+      },
+      "eosbAmount": {
+        "label": "EOSB Amount (Optional)",
+        "placeholder": "0",
+        "hint": "Ilagay ang iyong EOSB mula sa aming EOSB Calculator para maisama ito sa total."
+      }
+    },
+    "buttons": {
+      "calculate": "Kalkulahin ang Settlement",
+      "calculating": "Kinakalkula...",
+      "reset": "I-reset",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print"
+    },
+    "results": {
+      "totalSettlement": "Kabuuang Final Settlement",
+      "dailyRate": "Araw-araw na Rate"
+    },
+    "breakdown": {
+      "title": "Pagkakabahagi ng Settlement",
+      "unpaidSalary": "Hindi Nabayarang Sahod",
+      "unusedVacationPay": "Hindi Nagamit na Vacation Pay",
+      "airTicketValue": "Halaga ng Air Ticket",
+      "eosbAmount": "Halaga ng EOSB",
+      "totalSettlement": "Kabuuang Settlement"
+    },
+    "legalReference": "Batay sa Saudi Labor Law Article 76 (Vacation pay) at standard employment contracts.",
+    "zeroEntitlement": {
+      "title": "Walang Settlement na Kalkulahin",
+      "message": "Ilagay ang iyong employment details sa itaas para makita ang iyong final settlement estimate."
+    },
+    "emptyState": "Ilagay ang iyong employment details sa itaas para makita ang final settlement estimate.",
+    "successMessage": "Nakalkula ang settlement! Ang mga resulta ay nasa itaas.",
+    "copiedResult": "Final Settlement: {total} SAR (via HsabKSA)",
+    "disclaimer": "Ito ay isang tantiya batay sa Saudi Labor Law Article 76 at standard employment contract provisions. Ang aktwal na settlement amount ay maaaring mag-iba depende sa iyong contract, company policy, at official Ministry assessment. Ito ay hindi legal na payo.",
+    "lastUpdated": "Huling na-update: Hulyo 2026",
+    "legalNotice": "Batay sa Saudi Labor Law Article 76 at standard contracts.",
+    "errors": {
+      "salaryRequired": "Ilagay ang iyong total monthly salary o EOSB amount para makalkula.",
+      "dateRequired": "Mangyaring maglagay ng wastong petsa",
+      "generic": "May naganap na error. Pakisuri ang iyong mga input."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Final Settlement Calculator",
+        "step1Title": "Step 1: Ilagay ang Iyong Total Monthly Salary",
+        "step1Desc": "Ilagay ang iyong total monthly salary sa SAR kasama ang basic pay, housing allowance, at transportation allowance. Ito ang iyong gross salary na makikita sa iyong salary certificate o employment contract.",
+        "step2Title": "Step 2: Idagdag ang Unpaid Days at Unused Leave",
+        "step2Desc": "Ilagay ang bilang ng unpaid working days (kung mayroon) at ang iyong unused annual leave days. Tingnan ang iyong huling payslip o HR portal para sa tamang figures. Sa ilalim ng Article 76, ang unused vacation ay babayaran sa iyong full daily rate.",
+        "step3Title": "Step 3: Piliin ang Iyong Air Ticket Entitlement",
+        "step3Desc": "Piliin ang iyong air ticket entitlement mula sa dropdown. Karamihan sa mga expat ay entitled sa one-way economy ticket papuntang kanilang bansa. Kung ang iyong contract ay nagsasabi ng custom amount, piliin ang 'Custom Amount' at ilagay ang halaga.",
+        "step4Title": "Step 4: Idagdag ang EOSB (Optional) at Kalkulahin",
+        "step4Desc": "Kung nakalkula mo na ang iyong End of Service Benefit gamit ang aming EOSB Calculator, ilagay ito dito para makita ang kumpletong final settlement kasama ang lahat ng components.",
+        "step5Title": "Hakbang 5: Suriin ang Iyong Kumpletong Settlement",
+        "step5Desc": "Suriin ang detailed breakdown na nagpapakita ng bawat component ng iyong final settlement. Kasama sa total ang unpaid salary, unused vacation pay, air ticket value, at EOSB. Gamitin ang copy o print buttons para i-save ang iyong mga resulta."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Iyong Resulta ng Final Settlement",
+        "content": "Ang iyong final settlement ay binubuo ng maraming components sa ilalim ng Saudi Labor Law. Ang unpaid salary ay sumasaklaw sa mga araw na nagtrabaho ka ngunit hindi ka binayaran. Sa ilalim ng Article 76, ang unused vacation days ay dapat bayaran sa iyong full daily rate: (total monthly salary / 30) para sa bawat unused day. Kung ikaw ay nag-resign o na-terminate, ikaw ay entitled sa one-way air ticket papuntang iyong bansa. Ang iyong EOSB (kung nailagay) ay kukumpleto sa total.\n\nAng daily rate ay kinakalkula sa pamamagitan ng paghahati ng iyong total monthly salary sa 30 araw. Bawat component ay kinakalkula sa pamamagitan ng pagpaparami ng daily rate na ito sa bilang ng mga araw na dapat bayaran.",
+        "exampleTitle": "Halimbawa",
+        "example": "Kung ang iyong total monthly salary ay 12,000 SAR na may 5 unpaid days, 10 unused leave days, economy air ticket, at 15,000 SAR EOSB:\n\nDaily rate: 12,000 / 30 = 400 SAR\nUnpaid salary: 5 x 400 = 2,000 SAR\nUnused vacation: 10 x 400 = 4,000 SAR\nAir ticket: 2,500 SAR (economy)\nEOSB: 15,000 SAR\n\nTotal final settlement: 2,000 + 4,000 + 2,500 + 15,000 = 23,500 SAR"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Final Settlement",
+        "q1": "Paano kinakalkula ang final settlement sa Saudi Arabia?",
+        "a1": "Ang final settlement ay kinabibilangan ng unpaid salary para sa mga araw na nagtrabaho, unused vacation pay sa ilalim ng Article 76, one-way air ticket papuntang iyong bansa, at End of Service Benefit (EOSB). Unpaid salary = (salary / 30) x days. Unused vacation = (salary / 30) x leave days. Ang air ticket ay ayon sa iyong contract o standard economy fare.",
+        "q2": "Kasama ba ang air ticket sa final settlement sa Saudi Arabia?",
+        "a2": "Oo, sa ilalim ng Saudi Labor Law at standard employment contracts, ang employer ay dapat magbigay ng one-way economy air ticket papuntang iyong bansa sa final exit. Ito ay applicable sa resignation at termination maliban kung ang contract ay nagsasabi ng iba.",
+        "q3": "Paano kinakalkula ang unused vacation pay sa ilalim ng Article 76?",
+        "a3": "Sa ilalim ng Article 76 ng Saudi Labor Law, ang unused vacation days ay binabayaran sa iyong full daily rate. Ang formula ay: (total monthly salary / 30) x bilang ng unused leave days. Halimbawa, sa 15,000 SAR salary at 15 unused days: (15,000 / 30) x 15 = 7,500 SAR.",
+        "q4": "Ano ang kasama sa final settlement kapag aalis ng trabaho sa Saudi?",
+        "a4": "Ang kumpletong final settlement ay kinabibilangan ng: End of Service Benefit (EOSB), unpaid salary para sa mga araw na nagtrabaho, bayad para sa lahat ng unused annual leave days, one-way air ticket papuntang bansa, at anumang contractual dues tulad ng bonuses o commission payments.",
+        "q5": "Makakatanggap ba ako ng final settlement kung mag-resign ako sa Saudi Arabia?",
+        "a5": "Oo. Kung ikaw ay mag-resign o ma-terminate, ikaw ay entitled sa unpaid salary, unused vacation pay, at air ticket. Ang EOSB ay dapat ding bayaran ngunit maaaring mabawasan sa ilalim ng Article 85 kung ikaw ay mag-resign na may mas mababa sa 10 taon ng serbisyo.",
+        "q6": "Magkano ang air ticket na entitle ko sa aking final settlement?",
+        "a6": "Ang standard entitlement ay isang one-way economy class ticket papuntang iyong bansa, karaniwang nagkakahalaga ng 1,500 - 3,000 SAR depende sa destinasyon. Ang ilang contracts ay nagsasabi ng business class para sa senior positions. Tingnan ang iyong employment contract para sa exact terms.",
+        "q7": "Pwede bang tumanggi ang employer ko na bayaran ang aking final settlement?",
+        "a7": "Hindi. Ang pagpigil ng final settlement ay paglabag sa Saudi Labor Law. Ang Ministry of Human Resources and Social Development (MHRSD) ay maaaring magpataw ng parusa sa mga employer na magpa-antala o tumangging magbayad. Mag-file ng complaint sa pamamagitan ng Qiwa o Wazeef platforms kung hindi ka binayaran ng iyong employer."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Calculator para sa mga Aalis ng Trabaho",
+        "tool1Name": "EOSB Calculator",
+        "tool1Desc": "Kalkulahin ang iyong End of Service Benefit sa ilalim ng Saudi Labor Law Articles 84 at 85 — mahalaga para sa iyong final settlement.",
+        "tool1Href": "/eosb-calculator",
+        "tool2Name": "Jawazat Overstay Fine Calculator",
+        "tool2Desc": "I-check ang iyong overstay fines bago ang final exit para matiyak na malinaw ang iyong visa at iqama status.",
+        "tool2Href": "/jawazat-fine-calculator",
+        "tool3Name": "Family Visa & Dependent Fee Optimizer",
+        "tool3Desc": "Planuhin ang iyong family visa costs at mag-budget para sa dependent fees kapag nag-aayos ng iyong mga affairs bago umalis ng Saudi Arabia.",
+        "tool3Href": "/family-visa-optimizer",
+        "tool4Name": "Visa Checklist Tool",
+        "tool4Desc": "Isang kumpletong checklist ng final exit procedures kasama ang visa cancellation, iqama cancellation, at document collection.",
+        "tool4Href": "/visa-checklist"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Labor Law Article 76 at standard employment contract practices. Maaaring mag-iba ang final settlement amounts depende sa iyong specific contract, company policies, at official assessment. Inirerekomenda naming kumonsulta sa iyong HR department o legal professional para sa accurate advice. Ito ay hindi legal na payo."
+    }
+  },
   "Hero": {
     "badge": "Smart Calculator Hub ng Saudi Arabia",
     "title": "Mga Smart Saudi Calculator",
@@ -452,7 +578,7 @@
       "traffic": "Traffic Fine Cost",
       "rett": "RETT Tax Splitter",
       "family": "Family Visa Optimizer",
-      "settlement": "Final Settlement",
+      "settlement": "Final Settlement at Air Ticket",
       "visaChecklist": "Visa Checklist",
       "nitaqat": "Nitaqat Simulator",
       "freelance": "Freelance Income",

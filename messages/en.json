@@ -396,6 +396,132 @@
       "disclaimer": "This calculator provides estimates based on official Saudi fee structures published by the Ministry of Interior and Jawazat. Actual fees may vary based on your specific situation, nationality, and policy changes. We recommend verifying with Absher or your sponsor company for exact amounts. This is not legal or financial advice."
     }
   },
+  "FinalSettlementCalculator": {
+    "toolName": "Final Settlement & Air Ticket Calculator",
+    "description": "Calculate your full final settlement in Saudi Arabia — unpaid salary, unused vacation pay, air ticket, and EOSB in one place.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Employment Details",
+      "totalSalary": {
+        "label": "Total Monthly Salary (SAR)",
+        "placeholder": "e.g., 12000"
+      },
+      "unpaidDays": {
+        "label": "Unpaid Working Days",
+        "placeholder": "0"
+      },
+      "unusedLeaveDays": {
+        "label": "Unused Annual Leave Days",
+        "placeholder": "0"
+      },
+      "airTicket": {
+        "label": "Air Ticket Entitlement",
+        "options": {
+          "none": "None",
+          "economy": "Economy to Home Country",
+          "business": "Business Class",
+          "custom": "Custom Amount (SAR)"
+        },
+        "customAmountLabel": "Custom Air Ticket Amount (SAR)",
+        "customAmountPlaceholder": "e.g., 3000"
+      },
+      "eosbAmount": {
+        "label": "EOSB Amount (Optional)",
+        "placeholder": "0",
+        "hint": "Enter your EOSB from our EOSB Calculator to include it in the total."
+      }
+    },
+    "buttons": {
+      "calculate": "Calculate Settlement",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "totalSettlement": "Total Final Settlement",
+      "dailyRate": "Daily Rate"
+    },
+    "breakdown": {
+      "title": "Settlement Breakdown",
+      "unpaidSalary": "Unpaid Salary",
+      "unusedVacationPay": "Unused Vacation Pay",
+      "airTicketValue": "Air Ticket Value",
+      "eosbAmount": "EOSB Amount",
+      "totalSettlement": "Total Settlement"
+    },
+    "legalReference": "Based on Saudi Labor Law Article 76 (Vacation pay) and standard employment contracts.",
+    "zeroEntitlement": {
+      "title": "No Settlement to Calculate",
+      "message": "Enter your employment details above to see your final settlement estimate."
+    },
+    "emptyState": "Enter your employment details above to see the final settlement estimate.",
+    "successMessage": "Settlement calculated! Results are shown above.",
+    "copiedResult": "Final Settlement: {total} SAR (via HsabKSA)",
+    "disclaimer": "This is an estimate based on Saudi Labor Law Article 76 and standard employment contract provisions. Actual settlement amounts may vary based on your specific contract, company policy, and official Ministry assessment. This is not legal advice.",
+    "lastUpdated": "Last updated: July 2026",
+    "legalNotice": "Based on Saudi Labor Law Article 76 & standard contracts.",
+    "errors": {
+      "salaryRequired": "Enter your total monthly salary or EOSB amount to calculate.",
+      "dateRequired": "Please enter a valid date",
+      "generic": "Something went wrong. Please check your inputs."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "How to Use the Final Settlement Calculator",
+        "step1Title": "Step 1: Enter Your Total Monthly Salary",
+        "step1Desc": "Enter your total monthly salary in SAR including basic pay, housing allowance, and transportation allowance. This is your gross salary as shown on your salary certificate or employment contract.",
+        "step2Title": "Step 2: Add Unpaid Days and Unused Leave",
+        "step2Desc": "Enter the number of unpaid working days (if any) and your unused annual leave days. Check your last payslip or HR portal for the exact figures. Under Article 76, unused vacation is paid at your full daily rate.",
+        "step3Title": "Step 3: Select Your Air Ticket Entitlement",
+        "step3Desc": "Choose your air ticket entitlement from the dropdown. Most expats are entitled to a one-way economy ticket to their home country. If your contract specifies a custom amount, select 'Custom Amount' and enter the value.",
+        "step4Title": "Step 4: Add EOSB (Optional) and Calculate",
+        "step4Desc": "If you have already calculated your End of Service Benefit using our EOSB Calculator, enter it here to see the complete final settlement including all components.",
+        "step5Title": "Step 5: Review Your Complete Settlement",
+        "step5Desc": "Review the detailed breakdown showing each component of your final settlement. The total includes unpaid salary, unused vacation pay, air ticket value, and EOSB. Use the copy or print buttons to save your results."
+      },
+      "understandingResults": {
+        "title": "Understanding Your Final Settlement Results",
+        "content": "Your final settlement consists of multiple components under Saudi Labor Law. Unpaid salary covers any days you worked but were not paid for. Under Article 76, unused vacation days must be compensated at your full daily rate: (total monthly salary / 30) for each unused day. If you resigned or were terminated, you are entitled to a one-way air ticket to your home country. Your EOSB (if entered) completes the total.\n\nThe daily rate is calculated by dividing your total monthly salary by 30 days. Each component is then calculated by multiplying this daily rate by the number of days owed.",
+        "exampleTitle": "Real Example",
+        "example": "Suppose your total monthly salary is 12,000 SAR with 5 unpaid days, 10 unused leave days, economy air ticket, and 15,000 SAR EOSB:\n\nDaily rate: 12,000 / 30 = 400 SAR\nUnpaid salary: 5 x 400 = 2,000 SAR\nUnused vacation: 10 x 400 = 4,000 SAR\nAir ticket: 2,500 SAR (economy)\nEOSB: 15,000 SAR\n\nTotal final settlement: 2,000 + 4,000 + 2,500 + 15,000 = 23,500 SAR"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions About Final Settlement",
+        "q1": "How is final settlement calculated in Saudi Arabia?",
+        "a1": "Final settlement includes unpaid salary for days worked, unused vacation pay under Article 76, one-way air ticket to your home country, and End of Service Benefit (EOSB). Unpaid salary = (salary / 30) x days. Unused vacation = (salary / 30) x leave days. Air ticket is per your contract or standard economy fare.",
+        "q2": "Is air ticket included in final settlement in Saudi Arabia?",
+        "a2": "Yes, under Saudi Labor Law and standard employment contracts, the employer must provide a one-way economy air ticket to your home country upon final exit. This applies to resignation and termination unless the contract specifies otherwise.",
+        "q3": "How is unused vacation pay calculated under Article 76?",
+        "a3": "Under Article 76 of the Saudi Labor Law, unused vacation days are paid at your full daily rate. The formula is: (total monthly salary / 30) x number of unused leave days. For example, with 15,000 SAR salary and 15 unused days: (15,000 / 30) x 15 = 7,500 SAR.",
+        "q4": "What does final settlement include when leaving a job in Saudi?",
+        "a4": "A complete final settlement includes: End of Service Benefit (EOSB), unpaid salary for days worked, payment for all unused annual leave days, one-way air ticket to home country, and any contractual dues like bonuses or commission payments.",
+        "q5": "Do I get final settlement if I resign in Saudi Arabia?",
+        "a5": "Yes. Whether you resign or are terminated, you are entitled to unpaid salary, unused vacation pay, and air ticket. EOSB is also payable but may be reduced under Article 85 if you resign with less than 10 years of service.",
+        "q6": "How much air ticket am I entitled to in my final settlement?",
+        "a6": "Standard entitlement is a one-way economy class ticket to your home country, typically valued 1,500 - 3,000 SAR depending on destination. Some contracts specify business class for senior positions. Check your employment contract for exact terms.",
+        "q7": "Can my employer refuse to pay my final settlement?",
+        "a7": "No. Withholding final settlement is a violation of Saudi Labor Law. The Ministry of Human Resources and Social Development (MHRSD) can penalize employers who delay or refuse payment. File a complaint through the Qiwa or Wazeef platforms if your employer does not pay."
+      },
+      "relatedTools": {
+        "title": "Related Calculators for Job Leavers",
+        "tool1Name": "EOSB Calculator",
+        "tool1Desc": "Calculate your End of Service Benefit under Saudi Labor Law Articles 84 and 85 — essential for your final settlement.",
+        "tool1Href": "/eosb-calculator",
+        "tool2Name": "Jawazat Overstay Fine Calculator",
+        "tool2Desc": "Check your overstay fines before final exit to ensure your visa and iqama status is clear.",
+        "tool2Href": "/jawazat-fine-calculator",
+        "tool3Name": "Family Visa & Dependent Fee Optimizer",
+        "tool3Desc": "Plan your family visa costs and budget for dependent fees when settling your affairs before leaving Saudi Arabia.",
+        "tool3Href": "/family-visa-optimizer",
+        "tool4Name": "Visa Checklist Tool",
+        "tool4Desc": "A complete checklist of final exit procedures including visa cancellation, iqama cancellation, and document collection.",
+        "tool4Href": "/visa-checklist"
+      },
+      "disclaimer": "This calculator provides estimates based on Saudi Labor Law Article 76 and standard employment contract practices. Final settlement amounts may vary based on your specific contract, company policies, and official assessment. We recommend consulting with your HR department or a legal professional for accurate advice. This is not legal advice."
+    }
+  },
   "Hero": {
     "badge": "Saudi Arabia's Smart Calculator Hub",
     "title": "Smart Saudi Calculators",
@@ -468,7 +594,7 @@
       "traffic": "Traffic Fine Cost",
       "rett": "RETT Tax Splitter",
       "family": "Family Visa Optimizer",
-      "settlement": "Final Settlement",
+      "settlement": "Final Settlement & Air Ticket",
       "visaChecklist": "Visa Checklist",
       "nitaqat": "Nitaqat Simulator",
       "salla": "Salla/Zid Profit",
