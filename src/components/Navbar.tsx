@@ -37,7 +37,7 @@ const categories = [
       { nameKey: 'toolNames.jawazat', href: 'jawazat-fine-calculator' },
       { nameKey: 'toolNames.family', href: 'family-visa-optimizer' },
       { nameKey: 'toolNames.settlement', href: 'final-settlement-calculator' },
-      { nameKey: 'toolNames.visaChecklist', href: '#' },
+      { nameKey: 'toolNames.visaChecklist', href: 'visa-checklist-generator' },
     ],
   },
   {

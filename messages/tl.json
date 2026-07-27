@@ -506,6 +506,151 @@
       "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Labor Law Article 76 at standard employment contract practices. Maaaring mag-iba ang final settlement amounts depende sa iyong specific contract, company policies, at official assessment. Inirerekomenda naming kumonsulta sa iyong HR department o legal professional para sa accurate advice. Ito ay hindi legal na payo."
     }
   },
+
+  "VisaChecklist": {
+    "toolName": "Interactive Visa Document Checklist Generator",
+    "description": "Gumawa ng kumpletong document checklist para sa Saudi Arabia visas — Family Visit, Work, Umrah, Tourist, at Exit/Re-Entry.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Gawin ang Iyong Checklist",
+      "visaType": {
+        "label": "Uri ng Visa",
+        "placeholder": "Pumili ng uri ng visa"
+      },
+      "nationality": {
+        "label": "Nasyonalidad ng Aplikante (Optional)",
+        "placeholder": "Pumili ng nasyonalidad"
+      }
+    },
+    "visaTypes": {
+      "family_visit": "Family Visit Visa",
+      "work": "Work / Employment Visa",
+      "umrah": "Umrah Visa",
+      "tourist": "Tourist e-Visa",
+      "exit_reentry": "Exit / Re-Entry Visa"
+    },
+    "nationalities": {
+      "pakistani": "Pakistani",
+      "indian": "Indian",
+      "filipino": "Filipino",
+      "egyptian": "Egyptian",
+      "other": "Iba pa"
+    },
+    "categories": {
+      "personal": "Personal na Dokumento",
+      "sponsor": "Dokumento ng Sponsor",
+      "attestation": "Mga Attestation",
+      "medical": "Medikal na Dokumento",
+      "financial": "Financial na Dokumento"
+    },
+    "documents": {
+      "passport": "Valid Passport (6+ months validity)",
+      "photo": "Passport-sized na Litrato (white background)",
+      "marriage_certificate": "Attested Marriage Certificate",
+      "birth_certificate": "Attested Birth Certificate (para sa bawat anak)",
+      "sponsor_iqama": "Kopya ng Valid Iqama ng Sponsor",
+      "sponsor_salary": "Salary Certificate ng Sponsor",
+      "application_form": "Kumpletong Visa Application Form",
+      "health_insurance": "Health Insurance Certificate",
+      "degree_attestation": "Degree / Diploma Attestation (MOFA)",
+      "medical_report": "Comprehensive Medical Report",
+      "police_clearance": "Police Clearance Certificate",
+      "employment_contract": "Signed Employment Contract",
+      "cv_resume": "CV / Resume",
+      "professional_certificates": "Professional Certificates (kung applicable)",
+      "vaccination_certificate": "Vaccination Certificate (Meningitis ACWY)",
+      "mahram_proof": "Mahram Proof / Travel Arrangements",
+      "hotel_confirmation": "Hotel Booking Confirmation",
+      "flight_confirmation": "Flight Booking Confirmation",
+      "bank_statement": "Bank Statement (last 3-6 months)",
+      "fee_receipt": "Visa Fee Payment Receipt",
+      "sponsor_letter": "Sponsor's Letter / NOC"
+    },
+    "nationalityNotes": {
+      "attested_embassy": "Ang ilang nationalities ay nangangailangan ng additional embassy attestation. I-check sa inyong local Saudi embassy.",
+      "mahram_note": "Ang mga babae na wala pang 45 ay dapat i-check ang current Mahram rules bago mag-travel.",
+      "police_note": "Ang police clearance ay maaaring mangailangan ng fingerprint verification para sa iyong nationality.",
+      "sponsor_letter_note": "Ang ilang sponsors ay nangangailangan ng notarized NOC letter. I-check sa inyong sponsor."
+    },
+    "required": "Kailangan",
+    "optional": "Optional",
+    "progress": {
+      "ready": "dokumento handa na",
+      "completed": "{progress}% kumpleto"
+    },
+    "buttons": {
+      "generate": "Gawin ang Checklist",
+      "reset": "I-reset",
+      "print": "I-print ang Checklist",
+      "share": "I-share sa WhatsApp"
+    },
+    "emptyState": "Pumili ng visa type sa itaas para gawin ang iyong document checklist.",
+    "noDocuments": {
+      "title": "Walang Nakitang Dokumento",
+      "message": "Wala pang documents na naka-map para sa visa type na ito."
+    },
+    "shareTitle": "Aking Saudi Visa Document Checklist",
+    "shareFooter": "Ginawa ng HsabKSA - Saudi Arabia's Free Calculator Hub",
+    "disclaimer": "Ang checklist na ito ay para sa informational purposes lamang. Maaaring mag-iba ang document requirements depende sa iyong nationality, employer, at specific circumstances. Laging i-verify sa Saudi embassy o MOFA para sa pinakabagong requirements.",
+    "errors": {
+      "generic": "May naganap na error. Pakisubukan muli."
+    },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Visa Document Checklist Generator",
+        "step1Title": "Step 1: Piliin ang Iyong Visa Type",
+        "step1Desc": "Piliin ang uri ng visa na inyong ina-apply-an mula sa dropdown — Family Visit, Work, Umrah, Tourist e-Visa, o Exit/Re-Entry. Bawat visa type ay may kanya-kanyang set ng required documents.",
+        "step2Title": "Step 2: Piliin ang Iyong Nasyonalidad (Optional)",
+        "step2Desc": "Piliin ang iyong nationality para makita ang country-specific document requirements. Ang ilang nationalities ay nangangailangan ng additional embassy attestation o specific document formats. Ang step na ito ay optional.",
+        "step3Title": "Step 3: Gawin ang Iyong Checklist",
+        "step3Desc": "I-click ang 'Generate Checklist' para makita ang categorized list ng lahat ng documents na kailangan para sa iyong napiling visa type. Ang mga documents ay naka-organize sa Personal, Sponsor, Attestation, Medical, at Financial categories.",
+        "step4Title": "Step 4: I-track ang Iyong Progress",
+        "step4Desc": "I-check off ang items habang inihahanda mo ang mga ito. Ang progress bar ay nagpapakita kung ilang documents ang handa na. Gamitin ang Print o Share buttons para i-save o i-send ang iyong checklist.",
+        "step5Title": "Hakbang 5: I-print o I-share ang Iyong Checklist",
+        "step5Desc": "Kapag handa na ang lahat ng dokumento, gamitin ang Print button para sa physical copy o Share sa WhatsApp para ipadala ang checklist sa iyong phone. Itago ang checklist kapag bibisita sa embahada o visa processing center."
+      },
+      "understandingResults": {
+        "title": "Gabay sa Visa Document Attestation",
+        "content": "Ang document attestation ay isang mahalagang step para sa work at family visas sa Saudi Arabia. Ang proseso ay karaniwang kinabibilangan ng:\n\n1. Notarization sa iyong home country\n2. Attestation ng Ministry of Foreign Affairs o Chamber of Commerce ng iyong bansa\n3. Attestation ng Saudi Embassy sa iyong home country\n4. Final attestation ng Ministry of Foreign Affairs (MOFA) sa Saudi Arabia\n\nAng ilang documents tulad ng marriage at birth certificates ay nangangailangan ng translation sa Arabic ng certified translator bago ang attestation. Ang police clearance certificates ay karaniwang valid sa loob ng 3-6 months, kaya i-time ang inyong application nang naaayon.",
+        "exampleTitle": "Mabilis na Tip",
+        "example": "Simulan ang inyong document attestation process 4-6 weeks bago ang inyong visa application date. Ang attestation chain ay maaaring tumagal ng 2-4 weeks depende sa inyong home country. Ang ilang Saudi embassies ay nag-aalok na ng online attestation services para sa mas mabilis na processing."
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Saudi Visa Documents",
+        "q1": "Ano ang mga dokumentong kailangan para sa family visit visa sa Saudi Arabia?",
+        "a1": "Para sa family visit visa kailangan mo ng: valid passport (6+ months), passport photos, attested marriage certificate (para sa asawa), attested birth certificates (para sa mga anak), sponsor Iqama copy, salary certificate, completed application form, at health insurance.",
+        "q2": "Kailangan ba ang degree attestation para sa Saudi work visa?",
+        "a2": "Oo, mandatory ang degree attestation. Ang proseso ay kinabibilangan ng: embassy attestation sa iyong home country, pagkatapos ay MOFA attestation sa Saudi Arabia. Ang hindi na-atest na degrees ay hindi maaaring gamitin para sa visa processing o employer verification.",
+        "q3": "Ano ang mga bakuna na kailangan para sa Umrah visa?",
+        "a3": "Ang Meningococcal (ACWY) vaccination ay mandatory. Ang COVID-19 vaccination ay strongly recommended. Dapat mag-submit ng valid vaccination certificate mula sa approved health center kasama ng inyong Umrah visa application.",
+        "q4": "Kailangan ba ng babae ng Mahram para sa Umrah sa 2024?",
+        "a4": "Inalis na ng Saudi Arabia ang Mahram requirement para sa mga babaeng magpe-perform ng Umrah. Ang mga babae sa lahat ng edad ay maaaring mag-Umrah nang walang Mahram, bagaman dapat silang magkaroon ng proper travel arrangements at sumama sa reputable groups.",
+        "q5": "Gaano katagal ang document attestation para sa Saudi Arabia?",
+        "a5": "Ang document attestation ay karaniwang tumatagal ng 2-6 weeks. Ang timeline ay depende sa bureaucracy ng inyong home country, embassy processing times, at MOFA workload. Magsimula nang maaga para maiwasan ang visa application delays.",
+        "q6": "Kailangan ba ng police clearance para sa Saudi work visa?",
+        "a6": "Oo, kailangan ng police clearance certificate para sa karamihan ng work visas. Dapat itong ma-issue sa loob ng nakaraang 3-6 months at ma-atest sa pamamagitan ng tamang channels. Ang ilang countries ay nangangailangan ng fingerprint-based checks para sa Saudi work visas.",
+        "q7": "Ano ang pagkakaiba ng MOFA at embassy attestation?",
+        "a7": "Ang embassy attestation ay ginagawa sa Saudi embassy sa inyong home country para i-verify ang documents para sa international use. Ang MOFA attestation ay ginagawa sa loob ng Saudi Arabia para officially kilalanin ang foreign documents. Karamihan sa work at family visa documents ay nangangailangan ng parehong steps."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Tool para sa Visa Applications",
+        "tool1Name": "Family Visa & Dependent Fee Optimizer",
+        "tool1Desc": "Kalkulahin ang family visa costs kasama ang dependent fees, Iqama renewals, at exit/re-entry visas para sa iyong asawa at mga anak.",
+        "tool1Href": "/family-visa-optimizer",
+        "tool2Name": "Jawazat Overstay Fine Calculator",
+        "tool2Desc": "I-check ang fines para sa expired Iqama o visa overstays para matiyak na malinaw ang inyong visa status bago mag-apply ng bagong visa.",
+        "tool2Href": "/jawazat-fine-calculator",
+        "tool3Name": "Final Settlement & Air Ticket Calculator",
+        "tool3Desc": "Kalkulahin ang inyong full settlement kapag aalis ng trabaho, kasama ang unpaid salary, vacation pay, air ticket, at EOSB.",
+        "tool3Href": "/final-settlement-calculator",
+        "tool4Name": "EOSB Calculator",
+        "tool4Desc": "Kalkulahin ang inyong End of Service Benefit sa ilalim ng Saudi Labor Law — mahalaga para sa financial planning.",
+        "tool4Href": "/eosb-calculator"
+      },
+      "disclaimer": "Ang checklist na ito ay para sa informational guidance lamang. Ang visa document requirements ay madalas nagbabago. Laging i-verify sa official Saudi embassy, MOFA, o Absher platform para sa pinakabagong requirements. Ito ay hindi legal o immigration advice."
+    }
+  },
+
   "Hero": {
     "badge": "Smart Calculator Hub ng Saudi Arabia",
     "title": "Mga Smart Saudi Calculator",
@@ -579,7 +724,7 @@
       "rett": "RETT Tax Splitter",
       "family": "Family Visa Optimizer",
       "settlement": "Final Settlement at Air Ticket",
-      "visaChecklist": "Visa Checklist",
+      "visaChecklist": "Visa Checklist Generator",
       "nitaqat": "Nitaqat Simulator",
       "freelance": "Freelance Income",
       "crCost": "CR Cost Estimator",
