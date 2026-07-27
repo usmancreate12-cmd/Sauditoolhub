@@ -1,0 +1,193 @@
+{
+  "Metadata": {
+    "title": "HsabKSA — Saudi Calculator Hub",
+    "description": "Mga libreng calculator para sa Saudi Arabia — EOSB, multa, ZATCA, upa, at iba pa. 100% libre, pribado, walang nakaimbak na data."
+  },
+  "JawazatCalculator": {
+    "toolName": "Jawazat Overstay Fine Calculator",
+    "description": "Kalkulahin ang iyong multa para sa expired na Iqama, Exit/Re-Entry visa, o Visit visa — instant at libre.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "overstayType": {
+        "label": "Uri ng Overstay",
+        "options": {
+          "iqama": "Overstay ng Iqama (Residency)",
+          "exit_reentry": "Overstay ng Exit/Re-Entry Visa",
+          "visit_visa": "Overstay ng Visit Visa"
+        }
+      },
+      "expiryDate": { "label": "Petsa ng Pag-expire ng Iqama/Visa" },
+      "calculateDate": { "label": "Petsa ng Pagkalkula" },
+      "violations": { "label": "Mga Dating Paglabag (0 para sa unang pagkakataon)" },
+      "uncanceledVisa": { "label": "Mayroon akong hindi nakanselang exit/re-entry visa" },
+      "partialPayment": { "label": "Nagbayad na ako ng bahagi ng multa" },
+      "amountPaid": { "label": "Halagang nabayaran na (SAR)" }
+    },
+    "buttons": {
+      "calculate": "Kalkulahin ang Multa",
+      "calculating": "Kinakalkula...",
+      "reset": "I-reset",
+      "share": "Ibahagi",
+      "shareWhatsApp": "WhatsApp",
+      "shareTwitter": "Twitter",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print"
+    },
+    "results": {
+      "totalFine": "Kabuuang Multa",
+      "daysOverstayed": "araw na overstay",
+      "breakdown": {
+        "title": "Pagkakabahagi ng Multa",
+        "finalAmount": "Huling Halaga",
+        "daysOverstayed": "Mga Araw ng Overstay",
+        "dailyFineRate": "Rate ng Pang-araw-araw na Multa",
+        "totalDailyFines": "Kabuuang Pang-araw-araw na Multa",
+        "flatPenalty": "Flat na Penalty (Paglabag)",
+        "uncanceledVisaFine": "Multa sa Hindi Nakanselang Visa",
+        "amountPaid": "Halagang Nabayaran Na"
+      },
+      "howItsCalculated": "Paano ito kinakalkula?",
+      "howItsCalculatedContent": "Sa ilalim ng mga regulasyon ng Saudi Jawazat: Unang paglabag sa Iqama overstay ay SAR 15,000 flat fine. Pangalawang paglabag ay SAR 30,000. Pangatlo+ ay SAR 50,000 (naka-cap sa SAR 100,000). Ang Exit/Re-Entry at Visit visa overstays ay SAR 100 bawat araw (naka-cap sa SAR 50,000). Ang hindi nakanselang exit visa ay may karagdagang SAR 1,000 na multa.",
+      "risk": {
+        "none": "Walang Panganib",
+        "low": "Mababang Panganib",
+        "medium": "Katamtamang Panganib",
+        "high": "Mataas na Panganib",
+        "critical": "Kritikal na Panganib"
+      },
+      "message": {
+        "valid": "Ang iyong visa o iqama ay valid pa rin. Walang nakitang overstay.",
+        "overstay": "May nakitang overstay. Magbayad ng SAR {totalFine} upang i-clear ang iyong status.",
+        "high": "Malaking overstay. Magbayad ng multa sa lalong madaling panahon upang maiwasan ang mga karagdagang parusa.",
+        "critical": "Ang overstay ay lampas 1 taon. Panganib ng deportasyon. Magbayad ng multa at pumunta sa Jawazat kaagad."
+      }
+    },
+    "noOverstay": {
+      "title": "Walang Nakitang Overstay",
+      "message": "Ang iyong visa o iqama ay valid pa o hindi pa nag-e-expire. Walang multang dapat bayaran."
+    },
+    "disclaimer": "Ito ay isang tantiya batay sa mga regulasyon ng Saudi Jawazat. Ang aktwal na multa ay maaaring mag-iba batay sa iyong partikular na sitwasyon. Ito ay hindi legal na payo.",
+    "errors": {
+      "dateRequired": "Mangyaring maglagay ng wastong petsa",
+      "generic": "May maling nangyari. Pakisuri ang iyong mga input."
+    }
+  },
+  "EOSBCalculator": {
+    "toolName": "EOSB Calculator",
+    "description": "Kalkulahin ang iyong End of Service Benefit ayon sa Saudi Labor Law — instant, libre, at 100% pribado.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "basicSalary": { "label": "Basic Monthly Salary (SAR)", "placeholder": "hal. 5000" },
+      "years": { "label": "Taon ng Serbisyo", "placeholder": "hal. 4" },
+      "months": { "label": "Karagdagang Buwan", "placeholder": "0" },
+      "reason": {
+        "label": "Dahilan ng Pag-alis",
+        "options": { "resignation": "Pagbibitiw ng Empleyado", "termination": "Pagtatanggal ng Employer", "contract_end": "Pagtatapos ng Kontrata" }
+      },
+      "contractType": {
+        "label": "Uri ng Kontrata",
+        "options": { "fixed": "Fixed-term (Limited)", "indefinite": "Indefinite (Unlimited)" }
+      }
+    },
+    "buttons": {
+      "calculate": "Kalkulahin ang EOSB",
+      "calculating": "Kinakalkula...",
+      "reset": "I-reset",
+      "share": "Ibahagi",
+      "shareWhatsApp": "WhatsApp",
+      "shareTwitter": "Twitter",
+      "print": "I-print"
+    },
+    "results": {
+      "title": "Iyong EOSB Estimate",
+      "finalAmount": "Kabuuang EOSB",
+      "breakdown": {
+        "title": "Pagkakabahagi ng Kalkulasyon",
+        "firstFiveYears": "Unang 5 taon (½ buwan/taon)",
+        "afterFiveYears": "Mga taon pagkatapos ng 5 (1 buwan/taon)",
+        "fullEntitlement": "Buong Entitlement (Article 84)",
+        "resignationReduction": "Pagbawas dahil sa Pagbibitiw (Article 85)",
+        "percentageApplied": "{percentage}% ng buong entitlement ang na-apply",
+        "finalAmount": "Huling Halaga"
+      },
+      "howItsCalculated": "Paano ito kinakalkula?",
+      "howItsCalculatedContent": "Sa ilalim ng Saudi Labor Law Article 84, ang EOSB ay kinakalkula sa kalahating buwanang basic na sahod para sa bawat isa sa unang 5 taon, at isang buong buwanang basic na sahod para sa bawat sumunod na taon. Ang mga bahaging taon ay kinakalkula nang proporsyonal. Kung ikaw ay magbibitiw, ang Article 85 ay nag-aaplay ng bawas batay sa iyong mga taon ng serbisyo."
+    },
+    "disclaimer": "Ito ay isang tantiya batay sa Saudi Labor Law (Articles 84 & 85). Ang huling halaga ay napapailalim sa iyong kontrata sa pagtatrabaho at employer. Ito ay hindi legal na payo.",
+    "errors": {
+      "salaryRequired": "Maglagay ng wastong sahod",
+      "serviceRequired": "Ang panahon ng serbisyo ay dapat na hindi bababa sa 1 buwan",
+      "generic": "May maling nangyari. Pakisuri ang iyong mga input."
+    },
+    "zeroEntitlement": {
+      "title": "Walang Entitlement sa EOSB",
+      "message": "Sa ilalim ng Saudi Labor Law Article 85, ang mga empleyadong nagbitiw na may mas mababa sa 2 taon ng serbisyo ay hindi entitled sa End of Service Benefits."
+    },
+    "fixedTermNote": "Dahil ikaw ay may fixed-term contract, ang iyong employer ay maaaring magbawas ng hanggang 50% para sa maagang pagbibitiw."
+  },
+  "Hero": {
+    "badge": "Smart Calculator Hub ng Saudi Arabia",
+    "title": "Mga Smart Saudi Calculator",
+    "subtitle": "Kalkulahin ang iyong EOSB, mga multa ng Jawazat, at higit pa nang may real-time na katumpakan",
+    "ctaPrimary": "Galugarin ang mga Calculator",
+    "ctaSecondary": "Paano Ito Gumagana",
+    "scroll": "Mag-scroll upang galugarin",
+    "trust": {
+      "privacy": "100% Pribado",
+      "instant": "Agad na Resulta",
+      "nodata": "Walang Data na Iniimbak",
+      "languages": "5 Wika"
+    }
+  },
+  "HomePage": {
+    "hero": {
+      "badge": "23+ Libreng Tools • 100% Pribado • Walang Signup",
+      "title": "Ang #1 Libreng Calculator Hub ng Saudi Arabia",
+      "subtitle": "EOSB, mga multa ng Jawazat, ZATCA, paglabag sa trapiko, buwis sa real estate, at higit pa — 23+ instant calculators para sa mga expats, negosyo, at residente sa Saudi Arabia.",
+      "cta": "Magsimulang Magkalkula",
+      "browseAll": "Tingnan ang Lahat ng Tools"
+    },
+    "trustBadges": {
+      "free": "100% Libre",
+      "noSignup": "Walang Signup",
+      "noData": "Walang Data na Iniimbak",
+      "languages": "5 Wika"
+    },
+    "popularTools": {
+      "title": "Mga Sikat na Tool",
+      "viewAll": "Tingnan lahat"
+    },
+    "categories": {
+      "title": "Lahat ng Tools ayon sa Kategorya",
+      "subtitle": "Pumili ng kategorya sa ibaba upang mahanap ang tool na kailangan mo",
+      "expat": { "name": "Expat at Visa Life", "desc": "EOSB, mga multa ng Jawazat, mga visa ng pamilya, at mga calculator ng settlement" },
+      "business": { "name": "Negosyo at HR", "desc": "ZATCA, Nitaqat, freelancing, at mga tool sa pagpaparehistro ng negosyo" },
+      "finance": { "name": "Pananalapi at Pagbabangko", "desc": "Pagiging karapat-dapat sa loan, Zakat, IBAN validation, at investment returns" },
+      "auto": { "name": "Auto at Araw-araw na Buhay", "desc": "Mga multa sa trapiko, mga bill ng kuryente, gastos sa gasolina, at paghahati ng bill" },
+      "realEstate": { "name": "Real Estate", "desc": "RETT tax, Ejar deposit, mortgage vs rent, at property valuation" }
+    },
+    "toolNames": {
+      "eosb": "EOSB Calculator",
+      "jawazat": "Jawazat Overstay Fine",
+      "zatca": "ZATCA Compliance",
+      "loan": "Loan Eligibility",
+      "traffic": "Traffic Fine Cost",
+      "rett": "RETT Tax Splitter"
+    },
+    "whyChooseUs": {
+      "title": "Bakit HsabKSA?",
+      "cards": {
+        "privacy": { "title": "100% Pribado", "desc": "Lahat ng pagkalkula ay nangyayari sa iyong browser. Walang data na iniimbak sa aming mga server." },
+        "instant": { "title": "Agad na Resulta", "desc": "Walang paghihintay. Walang signup. I-input lang ang iyong mga numero at makuha agad ang resulta." },
+        "languages": { "title": "5 Wika", "desc": "Available sa English, العربية, اردو, Tagalog, at বাংলা." },
+        "accurate": { "title": "Laging Tumpak", "desc": "Batay sa opisyal na batas ng Saudi, regulasyon, at nai-publish na mga istraktura ng bayad." }
+      }
+    },
+    "cta": {
+      "title": "Handa nang Magkalkula?",
+      "subtitle": "Subukan ang aming pinakasikat na tool — ang EOSB Calculator. Libre, agad, at pribado.",
+      "button": "Kalkulahin ang EOSB Ngayon"
+    }
+  }
+}

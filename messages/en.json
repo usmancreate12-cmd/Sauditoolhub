@@ -1,0 +1,225 @@
+{
+  "Metadata": {
+    "title": "HsabKSA — Saudi Calculator Hub",
+    "description": "Free Saudi Arabia calculators — EOSB, fines, ZATCA, rent, and more."
+  },
+  "JawazatCalculator": {
+    "toolName": "Jawazat Overstay Fine Calculator",
+    "description": "Calculate your overstay fines for expired Iqama, Exit/Re-Entry visa, or Visit visa — instantly and free.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "overstayType": {
+        "label": "Overstay Type",
+        "options": {
+          "iqama": "Iqama (Residency) Overstay",
+          "exit_reentry": "Exit/Re-Entry Visa Overstay",
+          "visit_visa": "Visit Visa Overstay"
+        }
+      },
+      "expiryDate": { "label": "Iqama/Visa Expiry Date" },
+      "calculateDate": { "label": "Calculation Date" },
+      "violations": { "label": "Previous Violations (0 for first offense)" },
+      "uncanceledVisa": { "label": "I have an uncanceled exit/re-entry visa" },
+      "partialPayment": { "label": "I have already paid part of the fine" },
+      "amountPaid": { "label": "Amount already paid (SAR)" }
+    },
+    "buttons": {
+      "calculate": "Calculate Fine",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "share": "Share Result",
+      "shareWhatsApp": "WhatsApp",
+      "shareTwitter": "Twitter",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "totalFine": "Total Fine Amount",
+      "daysOverstayed": "days overstayed",
+      "breakdown": {
+        "title": "Fine Breakdown",
+        "finalAmount": "Final Amount",
+        "daysOverstayed": "Days Overstayed",
+        "dailyFineRate": "Daily Fine Rate",
+        "totalDailyFines": "Total Daily Fines",
+        "flatPenalty": "Flat Penalty (Violation)",
+        "uncanceledVisaFine": "Uncanceled Visa Fine",
+        "amountPaid": "Amount Already Paid"
+      },
+      "howItsCalculated": "How is this calculated?",
+      "howItsCalculatedContent": "Under Saudi Jawazat regulations: Iqama overstay first violation is SAR 15,000 flat fine. Second violation is SAR 30,000. Third+ is SAR 50,000 (capped at SAR 100,000). Exit/Re-Entry and Visit visa overstays are SAR 100 per day (capped at SAR 50,000). Uncanceled exit visas incur an additional SAR 1,000 fine.",
+      "risk": {
+        "none": "No Risk",
+        "low": "Low Risk",
+        "medium": "Medium Risk",
+        "high": "High Risk",
+        "critical": "Critical Risk"
+      },
+      "message": {
+        "valid": "Your visa or iqama is still valid. No overstay detected.",
+        "overstay": "Overstay detected. Pay SAR {totalFine} to clear your status.",
+        "high": "Significant overstay. Pay fine as soon as possible to avoid additional penalties.",
+        "critical": "Overstay exceeds 1 year. Deportation risk. Pay fine and visit Jawazat immediately."
+      }
+    },
+    "noOverstay": {
+      "title": "No Overstay Detected",
+      "message": "Your visa or iqama is still valid or has not yet expired. No fine is due."
+    },
+    "disclaimer": "This is an estimate based on Saudi Jawazat regulations. Actual fines may vary based on your specific situation and official assessment. This is not legal advice.",
+    "errors": {
+      "dateRequired": "Please enter a valid date",
+      "generic": "Something went wrong. Please check your inputs."
+    }
+  },
+  "EOSBCalculator": {
+    "toolName": "EOSB Calculator",
+    "description": "Calculate your End of Service Benefit under Saudi Labor Law — instantly, free, and 100% private.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "basicSalary": {
+        "label": "Basic Monthly Salary (SAR)",
+        "placeholder": "e.g., 5000"
+      },
+      "years": {
+        "label": "Years of Service",
+        "placeholder": "e.g., 4"
+      },
+      "months": {
+        "label": "Extra Months",
+        "placeholder": "0"
+      },
+      "reason": {
+        "label": "Reason for Leaving",
+        "options": {
+          "resignation": "Employee Resignation",
+          "termination": "Employer Termination",
+          "contract_end": "Contract End"
+        }
+      },
+      "contractType": {
+        "label": "Contract Type",
+        "options": {
+          "fixed": "Fixed-term (Limited)",
+          "indefinite": "Indefinite (Unlimited)"
+        }
+      }
+    },
+    "buttons": {
+      "calculate": "Calculate EOSB",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "share": "Share Result",
+      "shareWhatsApp": "WhatsApp",
+      "shareTwitter": "Twitter",
+      "print": "Print"
+    },
+    "results": {
+      "title": "Your EOSB Estimate",
+      "finalAmount": "Total EOSB",
+      "breakdown": {
+        "title": "Calculation Breakdown",
+        "firstFiveYears": "First 5 years (½ month/year)",
+        "afterFiveYears": "Years after 5 (1 month/year)",
+        "fullEntitlement": "Full Entitlement (Article 84)",
+        "resignationReduction": "Resignation Reduction (Article 85)",
+        "percentageApplied": "{percentage}% of full entitlement applied",
+        "finalAmount": "Final Amount"
+      },
+      "howItsCalculated": "How is this calculated?",
+      "howItsCalculatedContent": "Under Saudi Labor Law Article 84, EOSB is calculated at half a month's basic salary for each of the first 5 years, and one full month's basic salary for each subsequent year. Partial years are calculated proportionally. If you resign, Article 85 applies a reduction based on your years of service."
+    },
+    "disclaimer": "This is an estimate based on Saudi Labor Law (Articles 84 & 85). Final amount is subject to your employment contract and employer. This is not legal advice.",
+    "errors": {
+      "salaryRequired": "Enter a valid salary",
+      "serviceRequired": "Service period must be at least 1 month",
+      "generic": "Something went wrong. Please check your inputs."
+    },
+    "zeroEntitlement": {
+      "title": "No EOSB Entitlement",
+      "message": "Under Saudi Labor Law Article 85, employees who resign with less than 2 years of service are not entitled to End of Service Benefits."
+    },
+    "fixedTermNote": "Since you have a fixed-term contract, your employer may deduct up to 50% for early resignation."
+  },
+  "Hero": {
+    "badge": "Saudi Arabia's Smart Calculator Hub",
+    "title": "Smart Saudi Calculators",
+    "subtitle": "Calculate your EOSB, Jawazat fines, and more with real-time accuracy",
+    "ctaPrimary": "Explore Calculators",
+    "ctaSecondary": "How It Works",
+    "scroll": "Scroll to explore",
+    "trust": {
+      "privacy": "100% Private",
+      "instant": "Instant Results",
+      "nodata": "No Data Stored",
+      "languages": "5 Languages"
+    }
+  },
+  "HomePage": {
+    "hero": {
+      "badge": "23+ Free Tools • 100% Private • No Signup",
+      "title": "Saudi Arabia's #1 Free Calculator Hub",
+      "subtitle": "EOSB, Jawazat fines, ZATCA, traffic violations, real estate tax, and more — 23+ instant calculators for expats, businesses, and residents in Saudi Arabia.",
+      "cta": "Start Calculating",
+      "browseAll": "Browse All Tools"
+    },
+    "trustBadges": {
+      "free": "100% Free",
+      "noSignup": "No Signup",
+      "noData": "No Data Stored",
+      "languages": "5 Languages"
+    },
+    "popularTools": {
+      "title": "Popular Tools",
+      "viewAll": "View all"
+    },
+    "categories": {
+      "title": "All Tools by Category",
+      "subtitle": "Choose a category below to find the tool you need",
+      "expat": { "name": "Expat & Visa Life", "desc": "EOSB, Jawazat fines, family visas, and settlement calculators" },
+      "business": { "name": "Business & HR", "desc": "ZATCA, Nitaqat, freelancing, and business registration tools" },
+      "finance": { "name": "Finance & Banking", "desc": "Loan eligibility, Zakat, IBAN validation, and investment returns" },
+      "auto": { "name": "Auto & Daily Life", "desc": "Traffic fines, electricity bills, fuel costs, and bill splitting" },
+      "realEstate": { "name": "Real Estate", "desc": "RETT tax, Ejar deposits, mortgage vs rent, and property valuation" }
+    },
+    "toolNames": {
+      "eosb": "EOSB Calculator",
+      "jawazat": "Jawazat Overstay Fine",
+      "zatca": "ZATCA Compliance",
+      "loan": "Loan Eligibility",
+      "traffic": "Traffic Fine Cost",
+      "rett": "RETT Tax Splitter",
+      "family": "Family Visa Optimizer",
+      "settlement": "Final Settlement",
+      "visaChecklist": "Visa Checklist",
+      "nitaqat": "Nitaqat Simulator",
+      "salla": "Salla/Zid Profit",
+      "freelance": "Freelance Income",
+      "crCost": "CR Cost Estimator",
+      "zakat": "Zakat Calculator",
+      "iban": "IBAN Validator",
+      "sip": "SIP Return",
+      "sec": "SEC Bill Estimator",
+      "usedCar": "Used Car Cost",
+      "fuel": "Fuel Cost",
+      "ejar": "Ejar Deposit Refund",
+      "mortgage": "Mortgage vs Rent",
+      "sak": "Sak Valuation"
+    },
+    "whyChooseUs": {
+      "title": "Why HsabKSA?",
+      "cards": {
+        "privacy": { "title": "100% Private", "desc": "All calculations happen in your browser. Zero data stored on our servers." },
+        "instant": { "title": "Instant Results", "desc": "No waiting. No signup. Just input your numbers and get results immediately." },
+        "languages": { "title": "5 Languages", "desc": "Available in English, العربية, اردو, Tagalog, and বাংলা." },
+        "accurate": { "title": "Always Accurate", "desc": "Based on official Saudi laws, regulations, and published fee structures." }
+      }
+    },
+    "cta": {
+      "title": "Ready to Calculate?",
+      "subtitle": "Try our most popular tool — the EOSB Calculator. Free, instant, and private.",
+      "button": "Calculate EOSB Now"
+    }
+  }
+}
