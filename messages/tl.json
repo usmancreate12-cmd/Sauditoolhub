@@ -140,6 +140,29 @@
       "languages": "5 Wika"
     }
   },
+  "Navbar": {
+    "categories": {
+      "expat": "Expat at Visa Life",
+      "business": "Negosyo at HR",
+      "finance": "Pananalapi at Real Estate",
+      "vehicle": "Sasakyan at Trapiko",
+      "realEstate": "Real Estate at Ari-arian"
+    },
+    "search": {
+      "placeholder": "Maghanap ng tools..."
+    },
+    "language": "Wika"
+  },
+  "Footer": {
+    "tagline": "Ang #1 libreng calculator hub ng Saudi Arabia. 23+ tools para sa mga expats, negosyo, at residente. 100% libre, pribado, walang data na iniimbak.",
+    "links": {
+      "privacy": "Patakaran sa Privacy",
+      "terms": "Mga Tuntunin ng Serbisyo",
+      "disclaimer": "Pagtatanggi sa Pananagutan"
+    },
+    "copyright": "\u00a9 {year} HsabKSA. Lahat ng karapatan ay nakalaan.",
+    "disclaimerText": "Ito ay isang informational tool lamang. Hindi legal o pinansyal na payo."
+  },
   "HomePage": {
     "hero": {
       "badge": "23+ Libreng Tools • 100% Pribado • Walang Signup",
@@ -173,7 +196,25 @@
       "zatca": "ZATCA Compliance",
       "loan": "Loan Eligibility",
       "traffic": "Traffic Fine Cost",
-      "rett": "RETT Tax Splitter"
+      "rett": "RETT Tax Splitter",
+      "family": "Family Visa Optimizer",
+      "settlement": "Final Settlement",
+      "visaChecklist": "Visa Checklist",
+      "nitaqat": "Nitaqat Simulator",
+      "freelance": "Freelance Income",
+      "crCost": "CR Cost Estimator",
+      "zakat": "Zakat Calculator",
+      "mortgage": "Mortgage vs Rent",
+      "roi": "Property ROI",
+      "ijara": "Ijara Estimator",
+      "ejar": "Ejar Fee Calc",
+      "insurance": "Insurance Premium",
+      "fuel": "Fuel Cost",
+      "salla": "Salla/Zid Profit",
+      "iban": "IBAN Validator",
+      "sip": "SIP Return",
+      "sec": "SEC Bill Estimator",
+      "usedCar": "Used Car Cost"
     },
     "whyChooseUs": {
       "title": "Bakit HsabKSA?",

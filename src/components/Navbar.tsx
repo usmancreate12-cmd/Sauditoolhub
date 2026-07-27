@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import { useTranslations } from 'next-intl'
 import {
   Calculator,
   Globe,
@@ -29,62 +30,62 @@ const locales = [
 
 const categories = [
   {
-    name: 'Expat & Visa Life',
+    key: 'expat',
     icon: Briefcase,
     tools: [
-      { name: 'EOSB Calculator', href: 'eosb-calculator' },
-      { name: 'Jawazat Overstay Fine', href: 'jawazat-fine-calculator' },
-      { name: 'Family Visa Optimizer', href: '#' },
-      { name: 'Final Settlement', href: '#' },
-      { name: 'Visa Checklist', href: '#' },
+      { nameKey: 'toolNames.eosb', href: 'eosb-calculator' },
+      { nameKey: 'toolNames.jawazat', href: 'jawazat-fine-calculator' },
+      { nameKey: 'toolNames.family', href: '#' },
+      { nameKey: 'toolNames.settlement', href: '#' },
+      { nameKey: 'toolNames.visaChecklist', href: '#' },
     ],
   },
   {
-    name: 'Business & HR',
+    key: 'business',
     icon: Users,
     tools: [
-      { name: 'ZATCA Compliance', href: '#' },
-      { name: 'Nitaqat Simulator', href: '#' },
-      { name: 'Freelance Income', href: '#' },
-      { name: 'CR Cost Estimator', href: '#' },
+      { nameKey: 'toolNames.zatca', href: '#' },
+      { nameKey: 'toolNames.nitaqat', href: '#' },
+      { nameKey: 'toolNames.freelance', href: '#' },
+      { nameKey: 'toolNames.crCost', href: '#' },
     ],
   },
   {
-    name: 'Finance & Real Estate',
+    key: 'finance',
     icon: Landmark,
     tools: [
-      { name: 'Car Loan EMI', href: '#' },
-      { name: 'Mortgage vs Rent', href: '#' },
-      { name: 'RETT Tax Splitter', href: '#' },
-      { name: 'Zakat Calculator', href: '#' },
+      { nameKey: 'toolNames.loan', href: '#' },
+      { nameKey: 'toolNames.mortgage', href: '#' },
+      { nameKey: 'toolNames.rett', href: '#' },
+      { nameKey: 'toolNames.zakat', href: '#' },
     ],
   },
   {
-    name: 'Vehicle & Traffic',
+    key: 'vehicle',
     icon: Car,
     tools: [
-      { name: 'Car Loan EMI', href: '#' },
-      { name: 'Traffic Fine Check', href: '#' },
-      { name: 'Fuel Cost Estimator', href: '#' },
-      { name: 'Insurance Premium', href: '#' },
+      { nameKey: 'toolNames.loan', href: '#' },
+      { nameKey: 'toolNames.traffic', href: '#' },
+      { nameKey: 'toolNames.fuel', href: '#' },
+      { nameKey: 'toolNames.insurance', href: '#' },
     ],
   },
   {
-    name: 'Real Estate & Property',
+    key: 'realEstate',
     icon: Building2,
     tools: [
-      { name: 'RETT Tax Splitter', href: '#' },
-      { name: 'Property ROI', href: '#' },
-      { name: 'Ijara Estimator', href: '#' },
-      { name: 'Ejar Fee Calc', href: '#' },
+      { nameKey: 'toolNames.rett', href: '#' },
+      { nameKey: 'toolNames.roi', href: '#' },
+      { nameKey: 'toolNames.ijara', href: '#' },
+      { nameKey: 'toolNames.ejar', href: '#' },
     ],
   },
-] as const
-
-const allTools = categories.flatMap((c) => [...c.tools])
+]
 
 export function Navbar({ locale }: { locale?: string }) {
   const pathname = usePathname()
+  const tn = useTranslations('Navbar')
+  const th = useTranslations('HomePage')
   const [openCategory, setOpenCategory] = useState<string | null>(null)
   const [langOpen, setLangOpen] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
@@ -124,8 +125,9 @@ export function Navbar({ locale }: { locale?: string }) {
   }, [])
 
   const currentLang = locales.find((l) => l.code === locale) ?? locales[0]
+  const allTools = categories.flatMap((c) => c.tools)
   const searchResults = searchQuery
-    ? allTools.filter((t) => t.name.toLowerCase().includes(searchQuery.toLowerCase()))
+    ? allTools.filter((t) => th(t.nameKey).toLowerCase().includes(searchQuery.toLowerCase()))
     : []
 
   const switchLocale = (newLocale: string) => {
@@ -149,9 +151,9 @@ export function Navbar({ locale }: { locale?: string }) {
             <div className="hidden lg:flex items-center gap-1">
               {categories.map((cat) => (
                 <div
-                  key={cat.name}
+                  key={cat.key}
                   className="relative"
-                  onMouseEnter={() => setOpenCategory(cat.name)}
+                  onMouseEnter={() => setOpenCategory(cat.key)}
                   onMouseLeave={() => setOpenCategory(null)}
                 >
                   <button
@@ -161,14 +163,14 @@ export function Navbar({ locale }: { locale?: string }) {
                     )}
                   >
                     <cat.icon className="h-4 w-4" />
-                    {cat.name}
-                    <ChevronDown className={cn('h-3 w-3 transition-transform', openCategory === cat.name && 'rotate-180')} />
+                    {tn(`categories.${cat.key}`)}
+                    <ChevronDown className={cn('h-3 w-3 transition-transform', openCategory === cat.key && 'rotate-180')} />
                   </button>
-                  {openCategory === cat.name && (
+                  {openCategory === cat.key && (
                     <div className="absolute top-full left-0 mt-1 w-56 rounded-xl border border-gray-700 bg-gray-900 shadow-lg backdrop-blur-xl p-2">
                       {cat.tools.map((tool) => (
                         <Link
-                          key={tool.name}
+                          key={tool.nameKey}
                           href={tool.href.startsWith('#') ? tool.href : `/${locale}/${tool.href}`}
                           onClick={() => setOpenCategory(null)}
                           className={cn(
@@ -176,7 +178,7 @@ export function Navbar({ locale }: { locale?: string }) {
                             'text-gray-400 hover:text-white hover:bg-gray-800'
                           )}
                         >
-                          {tool.name}
+                          {th(tool.nameKey)}
                           {tool.href !== '#' && <ExternalLink className="h-3 w-3 opacity-40" />}
                         </Link>
                       ))}
@@ -245,27 +247,27 @@ export function Navbar({ locale }: { locale?: string }) {
           <div className="lg:hidden border-t border-gray-700/30 bg-[#0A0E1A]">
             <div className="px-4 py-3 space-y-2 max-h-[70vh] overflow-y-auto">
               {categories.map((cat) => (
-                <div key={cat.name}>
+                <div key={cat.key}>
                   <button
-                    onClick={() => setOpenCategory(openCategory === cat.name ? null : cat.name)}
+                    onClick={() => setOpenCategory(openCategory === cat.key ? null : cat.key)}
                     className="flex items-center justify-between w-full px-3 py-2 rounded-lg text-sm text-gray-300 hover:bg-gray-800"
                   >
                     <span className="flex items-center gap-2">
                       <cat.icon className="h-4 w-4 text-desert-primary" />
-                      {cat.name}
+                      {tn(`categories.${cat.key}`)}
                     </span>
-                    <ChevronDown className={cn('h-3 w-3 transition-transform', openCategory === cat.name && 'rotate-180')} />
+                    <ChevronDown className={cn('h-3 w-3 transition-transform', openCategory === cat.key && 'rotate-180')} />
                   </button>
-                  {openCategory === cat.name && (
+                  {openCategory === cat.key && (
                     <div className="ml-4 mt-1 space-y-1">
                       {cat.tools.map((tool) => (
                         <Link
-                          key={tool.name}
+                          key={tool.nameKey}
                           href={tool.href.startsWith('#') ? tool.href : `/${locale}/${tool.href}`}
                           onClick={() => { setMobileOpen(false); setOpenCategory(null) }}
                           className="flex items-center justify-between px-3 py-2 rounded-lg text-sm text-gray-400 hover:text-white hover:bg-gray-800"
                         >
-                          {tool.name}
+                          {th(tool.nameKey)}
                           {tool.href !== '#' && <ExternalLink className="h-3 w-3 opacity-40" />}
                         </Link>
                       ))}
@@ -290,7 +292,7 @@ export function Navbar({ locale }: { locale?: string }) {
               <Search className="h-4 w-4 text-gray-400" />
               <input
                 type="text"
-                placeholder="Search tools..."
+                placeholder={tn('search.placeholder')}
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 className="flex-1 bg-transparent text-sm text-gray-100 outline-none placeholder-gray-400"
@@ -300,12 +302,12 @@ export function Navbar({ locale }: { locale?: string }) {
             <div className="mt-1 space-y-1 max-h-60 overflow-y-auto p-2">
               {searchResults.map((tool) => (
                 <Link
-                  key={tool.name}
+                  key={tool.nameKey}
                   href={`/${locale}/${tool.href}`}
                   onClick={() => { setSearchOpen(false); setSearchQuery('') }}
                   className="flex items-center justify-between px-3 py-2 rounded-lg text-sm text-gray-400 hover:text-white hover:bg-gray-800 transition-colors"
                 >
-                  {tool.name}
+                  {th(tool.nameKey)}
                   <ExternalLink className="h-3 w-3 opacity-40" />
                 </Link>
               ))}

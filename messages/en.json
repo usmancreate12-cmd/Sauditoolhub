@@ -156,6 +156,29 @@
       "languages": "5 Languages"
     }
   },
+  "Navbar": {
+    "categories": {
+      "expat": "Expat & Visa Life",
+      "business": "Business & HR",
+      "finance": "Finance & Real Estate",
+      "vehicle": "Vehicle & Traffic",
+      "realEstate": "Real Estate & Property"
+    },
+    "search": {
+      "placeholder": "Search tools..."
+    },
+    "language": "Language"
+  },
+  "Footer": {
+    "tagline": "Saudi Arabia's #1 free calculator hub. 23+ tools for expats, businesses, and residents. 100% free, private, no data stored.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "disclaimer": "Disclaimer"
+    },
+    "copyright": "\u00a9 {year} HsabKSA. All rights reserved.",
+    "disclaimerText": "This is an informational tool only. Not legal or financial advice."
+  },
   "HomePage": {
     "hero": {
       "badge": "23+ Free Tools • 100% Private • No Signup",
