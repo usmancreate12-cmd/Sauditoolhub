@@ -101,6 +101,184 @@ const faqsUr = [
   { question: 'کیا اوور سٹے جرمانہ معاف یا کم کیا جا سکتا ہے؟', answer: 'غیر معمولی صورتوں میں اور متعلقہ حکام کی منظوری سے، جرمانہ کم کرنے پر غور کیا جا سکتا ہے۔' },
 ]
 
+const faqsEn = [
+  { question: 'How much is the Iqama overstay fine in Saudi Arabia 2026?', answer: 'First violation: SAR 15,000 flat. Second violation: SAR 30,000. Third and subsequent violations: SAR 50,000 each.' },
+  { question: 'Is there a grace period for Exit/Re-Entry visa overstay?', answer: 'No official grace period. Fines (SAR 100/day) start from the day after visa expiry.' },
+  { question: 'Can I leave Saudi Arabia without paying the overstay fine?', answer: 'No. Immigration officers will check your visa status before stamping exit. All fines must be paid before departure.' },
+  { question: 'Who pays the overstay fine - employee or sponsor?', answer: 'Both parties may be responsible. If the sponsor delays renewal, the sponsor pays the fine. However, the employee remains responsible for their legal status.' },
+  { question: 'How do I check my overstay fine on Absher?', answer: 'Log into your Absher account, go to Jawazat services, then select inquiry about violations.' },
+  { question: 'What happens if I overstay my family visit visa?', answer: 'SAR 100 per day fine, up to SAR 50,000. Additional penalties may include imprisonment, deportation, and re-entry ban up to 10 years.' },
+  { question: 'Can overstay fines be waived or reduced?', answer: 'In exceptional cases and with approval from relevant authorities, fines may be reduced.' },
+]
+
+function EnContent() {
+  return (
+    <article className="prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300">
+      <h1>Complete Guide to Jawazat Overstay Fines & Penalties in Saudi Arabia 2026</h1>
+
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <p className="text-gray-300 text-lg leading-relaxed">
+          Stressed about your expired Iqama or visa? You are not alone. Thousands of expats in Saudi Arabia struggle to understand overstay fines and the different types of penalties. Whether you hold an Iqama, Exit/Re-Entry visa, or Visit visa, Jawazat fines can add up quickly to thousands of Riyals.
+        </p>
+        <p className="text-gray-300 text-lg leading-relaxed mt-4">
+          That is where{' '}
+          <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+            Sauditoolhub Jawazat Fine Calculator
+          </Link>{' '}
+          comes in. We built this free tool to help you estimate the exact amount owed in seconds. In this complete guide, we explain everything you need to know about overstay fines in Saudi Arabia for 2026.
+        </p>
+        <div className="mt-4">
+          <Link href="/jawazat-fine-calculator" className="inline-flex items-center gap-2 rounded-xl bg-desert-primary px-6 py-3 text-sm font-bold text-white transition-all hover:bg-desert-primary-dim">
+            <Calculator className="h-4 w-4" />
+            Calculate Your Fine Now — Free
+          </Link>
+        </div>
+      </div>
+
+      <h2>What Are Jawazat Overstay Fines?</h2>
+      <p>Jawazat overstay fines are financial penalties imposed by Saudi Arabia's General Directorate of Passports on individuals who violate residency and visa regulations. These fines are based on Article 39 of the Saudi Residency System and aim to ensure compliance with immigration rules for all residents and visitors.</p>
+      <p>The Jawazat, under the Ministry of Interior (MOI), plays a central role in regulating and enforcing these penalties. It oversees all residency and visa affairs and ensures fair application of rules to all violators.</p>
+      <ul>
+        <li><strong>Regulate the labor market</strong> and ensure companies comply with residency rules.</li>
+        <li><strong>Protect worker rights</strong> by documenting legal status.</li>
+        <li><strong>Encourage voluntary compliance</strong> with residency and visa systems.</li>
+        <li><strong>Generate government revenue</strong> that benefits public services.</li>
+      </ul>
+
+      <h2>Detailed Overstay Fine Breakdown (2026 Rules)</h2>
+
+      <h3>Iqama Overstay Fines</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong className="text-red-400">First violation:</strong> Flat fine of SAR 15,000.</li>
+          <li><strong className="text-red-400">Second violation:</strong> Flat fine of SAR 30,000.</li>
+          <li><strong className="text-red-400">Third and subsequent violations:</strong> Flat fine of SAR 50,000 per violation.</li>
+          <li><strong>Maximum:</strong> Up to SAR 100,000 per violation in some cases.</li>
+          <li><strong>Deportation:</strong> Repeated violations may lead to deportation and re-entry ban.</li>
+        </ul>
+      </div>
+
+      <h3>Exit/Re-Entry Visa Overstay Fines</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>Daily fine:</strong> SAR 100 for each day after visa expiry.</li>
+          <li><strong>Non-cancellation fine:</strong> If an unused visa is not canceled within 90 days, an additional SAR 1,000 fine applies.</li>
+          <li>Fines start counting from the day after visa expiry.</li>
+        </ul>
+      </div>
+
+      <h3>Visit Visa Overstay Fines</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>Daily fine:</strong> SAR 100 per day from the expiry date.</li>
+          <li><strong>Maximum fine:</strong> Up to SAR 50,000.</li>
+          <li><strong>Additional penalties:</strong> May include imprisonment up to 6 months, deportation, and re-entry ban up to 10 years.</li>
+        </ul>
+      </div>
+
+      <h2>Who Is Affected by These Fines?</h2>
+      <ul>
+        <li><strong>Expat workers:</strong> All Iqama holders who delay renewing their residency.</li>
+        <li><strong>Dependents:</strong> Family members who delay renewing their visas.</li>
+        <li><strong>Tourists and visa holders:</strong> Holders of tourist and family visit visas.</li>
+        <li><strong>Employers (sponsors):</strong> Sponsors are responsible for timely Iqama renewal.</li>
+      </ul>
+
+      <h2>How to Calculate Overstay Fines - Step by Step</h2>
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <ol className="space-y-4 text-gray-300 list-decimal list-inside">
+          <li><strong>Step 1:</strong> Identify your visa type: Iqama, Exit/Re-Entry, or Visit visa.</li>
+          <li><strong>Step 2:</strong> Note your visa expiry date and the current calculation date.</li>
+          <li><strong>Step 3:</strong> Count the total number of overstay days.</li>
+          <li><strong>Step 4:</strong> Apply the correct formula: flat penalty vs daily calculation.</li>
+          <li><strong>Step 5:</strong> Check for previous violations (cumulative fines).</li>
+        </ol>
+      </div>
+
+      <h3>Real Calculation Examples</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>Example 1 - Iqama:</strong> An expat delays renewing Iqama for the first time. First violation: SAR 15,000 flat fine.</p>
+      </div>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>Example 2 - Exit/Re-Entry:</strong> A dependent overstays by 15 days. Calculation: 15 x SAR 100 = SAR 1,500.</p>
+      </div>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>Example 3 - Visit:</strong> A visitor overstays by 60 days. Calculation: 60 x SAR 100 = SAR 6,000. (Capped at SAR 50,000).</p>
+      </div>
+
+      <h2>Special Cases and Exceptions</h2>
+      <ul>
+        <li><strong>Sponsor-caused delay:</strong> If the sponsor is responsible for the delay, the sponsor pays. However, the expat remains responsible for their legal status.</li>
+        <li><strong>Grace period:</strong> There is no official grace period. Fines start from the day after expiry.</li>
+        <li><strong>Public holidays:</strong> Official holidays do not affect fine calculations. Renew before expiry.</li>
+        <li><strong>Checking violations:</strong> You can check via Absher or the Muqeem portal.</li>
+      </ul>
+
+      <h2>Common Mistakes When Dealing with Fines</h2>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>Mistake 1:</strong> Believing there is a grace period after visa expiry. There is no official grace period.</li>
+          <li><strong>Mistake 2:</strong> Failing to cancel an unused Exit/Re-Entry visa within 90 days.</li>
+          <li><strong>Mistake 3:</strong> Ignoring fines, leading to deportation (huroob) and re-entry bans.</li>
+        </ul>
+      </div>
+
+      <h2>How to Pay Overstay Fines</h2>
+      <ol>
+        <li><strong>Via Absher:</strong> Log in, go to Jawazat services, select pay violations.</li>
+        <li><strong>Via SADAD:</strong> Pay through bank apps like Al Rajhi or SNB using the invoice number.</li>
+        <li><strong>At Jawazat offices:</strong> Visit your local Jawazat office for in-person assistance.</li>
+      </ol>
+
+      <h2>Latest Updates for 2026</h2>
+      <ul>
+        <li><strong>Digital integration:</strong> Improved integration between Tawakkalna and Absher for violation tracking.</li>
+        <li><strong>Stricter enforcement:</strong> Tighter application of fines for visit visa overstays.</li>
+        <li><strong>Future reforms:</strong> Developing a more flexible residency system while maintaining compliance.</li>
+      </ul>
+
+      <h2>Use the Sauditoolhub Calculator</h2>
+      <p>Sauditoolhub offers a free{' '}
+        <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+          Jawazat Fine Calculator
+        </Link>{' '}
+        that helps you estimate the exact amount owed in seconds. Choose your visa type, enter dates, and get an instant result. Save time and avoid calculation errors.
+      </p>
+
+      <div className="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <Calculator className="h-10 w-10 text-desert-primary mx-auto mb-3" />
+        <h3 className="text-white text-lg font-bold mb-2">Calculate Your Fine Now</h3>
+        <p className="text-gray-400 text-sm mb-4">Free instant estimate — no registration required</p>
+        <Link href="/jawazat-fine-calculator" className="inline-flex items-center gap-2 rounded-xl bg-desert-primary px-8 py-3 text-sm font-bold text-white transition-all hover:bg-desert-primary-dim">
+          <Calculator className="h-4 w-4" />
+          Use the Free Calculator
+        </Link>
+      </div>
+
+      <h2>Frequently Asked Questions</h2>
+      {faqsEn.map((faq, i) => (
+        <div key={i} className="not-prose glass p-4 rounded-xl mb-4">
+          <h3 className="text-white font-semibold mb-2">{faq.question}</h3>
+          <p className="text-gray-400 text-sm">{faq.answer}</p>
+        </div>
+      ))}
+
+      <h2>Conclusion</h2>
+      <p>Jawazat overstay fines in Saudi Arabia can become a major financial burden if ignored. Whether you are an expat, employer, or visitor, understanding the system and complying with it is the best way to avoid hefty fines and legal penalties.</p>
+      <p>Do not guess your fine amount. Use the{' '}
+        <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+          Sauditoolhub Jawazat Fine Calculator
+        </Link>{' '}
+        today for an accurate instant estimate. Free, fast, and fully private.
+      </p>
+
+      <div className="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <p className="text-gray-400 text-sm">Last updated: July 2026 · Based on Saudi Jawazat regulations and Article 39 of the Residency System</p>
+      </div>
+    </article>
+  )
+}
+
 function ArContent() {
   return (
     <article className="prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300" dir="rtl">
@@ -426,7 +604,7 @@ export default async function GuidePage({ params }: Props) {
         ]}
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(isAr ? schemaAr : isUr ? schemaUr : articleSchemaEn) }} />
-      <FAQJsonLd items={isAr ? faqsAr : faqsUr} />
+      <FAQJsonLd items={isAr ? faqsAr : isUr ? faqsUr : faqsEn} />
 
       <div className="mx-auto max-w-4xl px-4 py-8">
         <Link href={`/${isDefault ? '' : locale}`} className="inline-flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim mb-6 transition-colors">
@@ -434,7 +612,7 @@ export default async function GuidePage({ params }: Props) {
           {isAr ? 'العودة إلى الرئيسية' : isUr ? 'ہوم پیج پر واپس جائیں' : 'Back to Home'}
         </Link>
 
-        {isAr ? <ArContent /> : isUr ? <UrContent /> : <ArContent />}
+         {isAr ? <ArContent /> : isUr ? <UrContent /> : <EnContent />}
 
         <div className="mt-12 not-prose glass p-6 rounded-xl">
           <h3 className="text-white font-bold text-lg mb-4">
