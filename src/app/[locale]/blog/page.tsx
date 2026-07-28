@@ -76,6 +76,14 @@ const blogPosts = [
     readTime: 10,
   },
   {
+    title: 'Complete Guide to Final Settlement & Air Ticket in Saudi Arabia 2026',
+    excerpt: 'Everything about final settlement when leaving your job in Saudi Arabia: EOSB, unpaid salary, unused leave pay, air ticket entitlement, and step-by-step calculation examples.',
+    category: 'expat',
+    href: '/guide/final-settlement-air-ticket-calculator-saudi-arabia-2026',
+    date: '2026-07-28',
+    readTime: 14,
+  },
+  {
     title: 'SAMA Loan Guide: How to Calculate Your Home Loan in Saudi Arabia 2026',
     excerpt: 'Understand Saudi Arabia mortgage rules, SAMA interest rate guidelines, and how to estimate your monthly payments before applying for a home loan.',
     category: 'finance',

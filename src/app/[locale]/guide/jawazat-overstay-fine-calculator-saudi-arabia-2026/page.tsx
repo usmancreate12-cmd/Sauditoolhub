@@ -17,17 +17,27 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const isDefault = locale === 'en'
   const isAr = locale === 'ar'
   const isUr = locale === 'ur'
+  const isTl = locale === 'tl'
+  const isBn = locale === 'bn'
 
   const title = isAr
     ? 'دليل غرامات الجوازات الكامل 2026 - حاسبة غرامة التأخير | Sauditoolhub'
     : isUr
     ? 'جاوزات اوور سٹے فائن کا مکمل گائیڈ 2026 - جرمانہ کیلکولیٹر | Sauditoolhub'
+    : isTl
+    ? 'Kumpletong Gabay sa Jawazat Overstay Fines 2026 - Saudi Arabia | Sauditoolhub'
+    : isBn
+    ? 'জাওয়াজাত ওভারস্টে ফাইন গাইড 2026 - সৌদি আরব | Sauditoolhub'
     : 'Jawazat Overstay Fine Calculator Saudi Arabia 2026: Complete Guide'
 
   const description = isAr
     ? 'احسب غرامة تأخير تجديد الإقامة والجوازات instantly. دليل كامل 2026 لغرامات التأخير بأنواعها مع حاسبة مجانية.'
     : isUr
     ? 'اپنے جاوزات اوور سٹے فائن کا فوری حساب لگائیں۔ اقامہ، ایگزٹ/ری انٹری اور وزٹ ویزہ کے جرمانوں کا 2026 کا مکمل گائیڈ۔'
+    : isTl
+    ? 'Kalkulahin ang iyong Jawazat overstay fine instantly. Kompletong 2026 guide sa Iqama, Exit/Re-Entry, at Visit Visa overstay penalties sa Saudi Arabia.'
+    : isBn
+    ? 'আপনি ওভারস্টে ফাইন ক্যালকুলেট করুন instantly. 2026 সালের সম্পূর্ণ গাইড সৌদি আরবের Iqama, Exit/Re-Entry, এবং Visit Visa ওভারস্টে জরিমের জন্য।'
     : 'Calculate your Jawazat overstay fine instantly. Complete 2026 guide to Iqama, Exit/Re-Entry, and Visit Visa overstay penalties in Saudi Arabia.'
 
   return {
@@ -48,7 +58,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description,
       url: isDefault ? `${baseUrl}/guide/jawazat-overstay-fine-calculator-saudi-arabia-2026` : `${baseUrl}/${locale}/guide/jawazat-overstay-fine-calculator-saudi-arabia-2026`,
       siteName: 'Sauditoolhub',
-      locale: isAr ? 'ar_SA' : isUr ? 'ur_PK' : 'en_US',
+      locale: isAr ? 'ar_SA' : isUr ? 'ur_PK' : isTl ? 'tl_PH' : isBn ? 'bn_BD' : 'en_US',
       type: 'article',
       publishedTime: '2026-01-01',
       modifiedTime: '2026-07-01',
@@ -81,6 +91,18 @@ const schemaUr = {
   description: 'اپنے جاوزات اوور سٹے فائن کا فوری حساب لگائیں۔ اقامہ، ایگزٹ/ری انٹری اور وزٹ ویزہ کے جرمانوں کا 2026 کا مکمل گائیڈ۔',
 }
 
+const schemaTl = {
+  ...articleSchemaEn,
+  headline: 'Kumpletong Gabay sa Jawazat Overstay Fines & Penalties sa Saudi Arabia 2026',
+  description: 'Kalkulahin ang iyong Jawazat overstay fine instantly. Kompletong 2026 guide sa Iqama, Exit/Re-Entry, at Visit Visa penalties.',
+}
+
+const schemaBn = {
+  ...articleSchemaEn,
+  headline: 'সৌদি আরবে জাওয়াজাত ওভারস্টে ফাইন ও জরিমের সম্পূর্ণ গাইড 2026',
+  description: 'আপনার ওভারস্টে ফাইন ক্যালকুলেট করুন instantly। 2026 সালের Iqama, Exit/Re-Entry, এবং Visit Visa ওভারস্টে জরিমের সম্পূর্ণ গাইড।',
+}
+
 const faqsAr = [
   { question: 'كم تبلغ غرامة تأخير الإقامة في السعودية 2026؟', answer: 'المخالفة الأولى: 15,000 ريال سعودي. المخالفة الثانية: 30,000 ريال سعودي. المخالفة الثالثة فأكثر: 50,000 ريال سعودي لكل مخالفة.' },
   { question: 'هل توجد فترة سماح لتأخير تأشيرة الخروج والعودة؟', answer: 'لا توجد فترة سماح رسمية. تبدأ الغرامات (100 ريال/يوم) من اليوم التالي لتاريخ انتهاء التأشيرة.' },
@@ -109,6 +131,26 @@ const faqsEn = [
   { question: 'How do I check my overstay fine on Absher?', answer: 'Log into your Absher account, go to Jawazat services, then select inquiry about violations.' },
   { question: 'What happens if I overstay my family visit visa?', answer: 'SAR 100 per day fine, up to SAR 50,000. Additional penalties may include imprisonment, deportation, and re-entry ban up to 10 years.' },
   { question: 'Can overstay fines be waived or reduced?', answer: 'In exceptional cases and with approval from relevant authorities, fines may be reduced.' },
+]
+
+const faqsTl = [
+  { question: 'Magkano ang Iqama overstay fine sa Saudi Arabia 2026?', answer: 'Unang violation: SAR 15,000 flat. Ikalawang violation: SAR 30,000. Ikatlo at susunod: SAR 50,000 bawat isa.' },
+  { question: 'May grace period ba para sa Exit/Re-Entry visa overstay?', answer: 'Wala. Ang fines (SAR 100/araw) ay nagsisimula sa araw pagkatapos ng visa expiry.' },
+  { question: 'Pwede ba akong umalis ng Saudi Arabia nang hindi nagbabayad ng overstay fine?', answer: 'Hindi. I-che-check ng immigration officers ang iyong visa status bago i-stamp ang exit. Dapat bayaran ang lahat ng fines bago umalis.' },
+  { question: 'Sino ang magbabayad ng overstay fine - empleyado o sponsor?', answer: 'Parehong partido ay maaaring responsable. Kung ang sponsor ang nag-delay sa renewal, siya ang magbabayad. Subalit, ang empleyado ay nananagot pa rin sa kanyang legal status.' },
+  { question: 'Paano ko i-check ang aking overstay fine sa Absher?', answer: 'Mag-log in sa iyong Absher account, pumunta sa Jawazat services, piliin ang inquiry about violations.' },
+  { question: 'Ano ang mangyayari kung mag-overstay ako sa family visit visa?', answer: 'SAR 100 per araw na fine, hanggang SAR 50,000. Maaaring kasama ang imprisonment, deportation, at re-entry ban hanggang 10 taon.' },
+  { question: 'Pwede ba ma-waive o ma-reduce ang overstay fines?', answer: 'Sa mga espesyal na kaso at may aprubasyon mula sa mga kinauukulan, ang fines ay maaaring ma-reduce.' },
+]
+
+const faqsBn = [
+  { question: 'সৌদি আরবে 2026 সালে Iqama ওভারস্টে ফাইন কত?', answer: 'প্রথম লঙ্ঘন: ১৫,০০০ SAR ফ্ল্যাট। দ্বিতীয় লঙ্ঘন: ৩০,০০০ SAR। তৃতীয় ও পরবর্তী: ৫০,০০০ SAR প্রতি লঙ্ঘন।' },
+  { question: 'Exit/Re-Entry visa ওভারস্টের জন্য ক্যাচ পিরিয়ড আছে?', answer: 'না। ভিসা এক্সপাইরের পরের দিন থেকে ফাইন (১০০ SAR/দিন) শুরু হয়।' },
+  { question: 'ওভারস্ট ফাইন পরিশোধ না করেই সৌদি আরব ছেড়ে যেতে পারি?', answer: 'না। ইমিগ্রেশন অফিসাররা এক্সিট স্ট্যাম্প করার আগে আপনার ভিসার স্ট্যাটাস চেক করবেন। ছেড়ে যাওয়ার আগে সব ফাইন পরিশোধ করতে হবে।' },
+  { question: 'ওভারস্ট ফাইন কে পরিশোধ করবে - কর্মচারী নাকি স্পন্সর?', answer: 'দুই পক্ষই দায়ী হতে পারে। স্পন্সর রিনিউয়াল দিতে দিলে স্পন্সর ফাইন দেবে। তবে কর্মচারী তার আইনি স্ট্যাটাসের জন্য দায়ী থাকে।' },
+  { question: 'Absher এ ওভারস্ট ফাইন কীভাবে চেক করব?', answer: 'Absher একাউন্টে লগ ইন করুন, Jawazat services এ যান, violations inquiry সিলেক্ট করুন।' },
+  { question: 'ফ্যামিলি ভিজিট ভিসা ওভারস্ট করলে কী হবে?', answer: 'প্রতিদিন ১০০ SAR ফাইন, সর্বোচ্চ ৫০,০০০ SAR। অতিরিক্ত শাস্তিতে কারাদণ্ড, ডিপোর্টেশন, এবং ১০ বছর পর্যন্ত রিইন্ট্রি ব্যান থাকতে পারে।' },
+  { question: 'ওভারস্ট ফাইন কি মাটি বা কমান possible?', answer: 'বিশেষ ক্ষেত্রে এবংcompetent authorities এর অনুমোদন সহ, ফাইন কমানোর আলোচনা করা হতে পারে।' },
 ]
 
 function EnContent() {
@@ -587,10 +629,331 @@ function UrContent() {
   )
 }
 
+function TlContent() {
+  return (
+    <article className="prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300">
+      <h1>Kumpletong Gabay sa Jawazat Overstay Fines at Penalties sa Saudi Arabia 2026</h1>
+
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <p className="text-gray-300 text-lg leading-relaxed">
+          Stressed tungkol sa expired na Iqama o visa mo? Hindi ka nag-iisa. Libu-libong expats sa Saudi Arabia ang nahihirapang maintindihan ang overstay fines at ang iba't ibang uri ng parusa. Kung ikaw ay may Iqama, Exit/Re-Entry visa, o Visit visa, ang Jawazat fines ay maaaring mabilis na umabot sa libu-libong Riyals.
+        </p>
+        <p className="text-gray-300 text-lg leading-relaxed mt-4">
+          Dito papasok ang{' '}
+          <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+            Sauditoolhub Jawazat Fine Calculator
+          </Link>{' '}
+          — aming libreng tool para matulungan kang matantiya ang eksaktong halaga sa ilang segundo. Sa kumpletong gabay na ito, ipapaliwanag namin ang lahat ng kailangan mong malaman tungkol sa overstay fines sa Saudi Arabia para sa 2026.
+        </p>
+        <div className="mt-4">
+          <Link href="/jawazat-fine-calculator" className="inline-flex items-center gap-2 rounded-xl bg-desert-primary px-6 py-3 text-sm font-bold text-white transition-all hover:bg-desert-primary-dim">
+            <Calculator className="h-4 w-4" />
+            Kalkulahin ang Iyong Fine Ngayon — Libre
+          </Link>
+        </div>
+      </div>
+
+      <h2>Ano ang Jawazat Overstay Fines?</h2>
+      <p>Ang Jawazat overstay fines ay mga financial penalty na ipinapataw ng General Directorate of Passports ng Saudi Arabia sa mga indibidwal na lumalabag sa residency at visa regulations. Ang mga fines na ito ay nakabatay sa Article 39 ng Saudi Residency System at naglalayong tiyakin ang pagsunod sa immigration rules para sa lahat ng residente at bisita.</p>
+
+      <h2>Detalyadong Overstay Fine Breakdown (2026 Rules)</h2>
+
+      <h3>Iqama Overstay Fines</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong className="text-red-400">Unang paglabag:</strong> Flat fine na SAR 15,000.</li>
+          <li><strong className="text-red-400">Ikalawang paglabag:</strong> Flat fine na SAR 30,000.</li>
+          <li><strong className="text-red-400">Ikatlo at sumunod na paglabag:</strong> Flat fine na SAR 50,000 bawat paglabag.</li>
+          <li><strong>Maximum:</strong> Hanggang SAR 100,000 bawat paglabag sa ilang kaso.</li>
+          <li><strong>Deportation:</strong> Ang paulit-ulit na paglabag ay maaaring humantong sa deportation at re-entry ban.</li>
+        </ul>
+      </div>
+
+      <h3>Exit/Re-Entry Visa Overstay Fines</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>Araw-araw na multa:</strong> SAR 100 para sa bawat araw pagkatapos ng visa expiry.</li>
+          <li><strong>Non-cancellation fine:</strong> Kung ang hindi nagamit na visa ay hindi nakansela sa loob ng 90 araw, may karagdagang SAR 1,000 fine.</li>
+          <li>Ang mga multa ay nagsisimula sa araw pagkatapos ng visa expiry.</li>
+        </ul>
+      </div>
+
+      <h3>Visit Visa Overstay Fines</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>Araw-araw na multa:</strong> SAR 100 bawat araw mula sa expiry date.</li>
+          <li><strong>Maximum na multa:</strong> Hanggang SAR 50,000.</li>
+          <li><strong>Mga karagdagang parusa:</strong> Maaaring kabilang ang pagkabilanggo hanggang 6 na buwan, deportation, at re-entry ban hanggang 10 taon.</li>
+        </ul>
+      </div>
+
+      <h2>Sino ang Apektado ng mga Fine na Ito?</h2>
+      <ul>
+        <li><strong>Expat workers:</strong> Lahat ng may hawak ng Iqama na nagpapabaya sa pag-renew ng kanilang residency.</li>
+        <li><strong>Mga dependent:</strong> Mga miyembro ng pamilya na nagpapabaya sa pag-renew ng kanilang mga visa.</li>
+        <li><strong>Mga turista at may visa:</strong> Mga may hawak ng tourist at family visit visa.</li>
+        <li><strong>Employers (sponsors):</strong> Ang mga sponsor ay responsable para sa napapanahong pag-renew ng Iqama.</li>
+      </ul>
+
+      <h2>Paano Kalkulahin ang Overstay Fines - Step by Step</h2>
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <ol className="space-y-4 text-gray-300 list-decimal list-inside">
+          <li><strong>Step 1:</strong> Tukuyin ang uri ng iyong visa: Iqama, Exit/Re-Entry, o Visit visa.</li>
+          <li><strong>Step 2:</strong> Tandaan ang expiry date ng iyong visa at ang kasalukuyang calculation date.</li>
+          <li><strong>Step 3:</strong> Bilangin ang kabuuang bilang ng overstay days.</li>
+          <li><strong>Step 4:</strong> Ilapat ang tamang formula: flat penalty vs daily calculation.</li>
+          <li><strong>Step 5:</strong> Suriin ang mga nakaraang paglabag (cumulative fines).</li>
+        </ol>
+      </div>
+
+      <h3>Mga Halimbawa ng Pagkalkula</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>Halimbawa 1 - Iqama:</strong> Isang expat na nagpabaya sa pag-renew ng Iqama sa unang pagkakataon. Unang paglabag: SAR 15,000 flat fine.</p>
+      </div>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>Halimbawa 2 - Exit/Re-Entry:</strong> Isang dependent na nag-overstay ng 15 araw. Pagkalkula: 15 x SAR 100 = SAR 1,500.</p>
+      </div>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>Halimbawa 3 - Visit:</strong> Isang bisita na nag-overstay ng 60 araw. Pagkalkula: 60 x SAR 100 = SAR 6,000. (naka-cap sa SAR 50,000).</p>
+      </div>
+
+      <h2>Mga Espesyal na Kaso at Pagbubukod</h2>
+      <ul>
+        <li><strong>Pagkaantala na dulot ng sponsor:</strong> Kung ang sponsor ang responsable sa pagkaantala, ang sponsor ang magbabayad. Gayunpaman, ang expat ay nananatiling responsable para sa kanilang legal na katayuan.</li>
+        <li><strong>Grace period:</strong> Walang opisyal na grace period. Ang mga multa ay nagsisimula sa araw pagkatapos ng expiry.</li>
+        <li><strong>Mga pampublikong pista opisyal:</strong> Ang mga opisyal na holiday ay hindi nakakaapekto sa pagkalkula ng multa. Mag-renew bago ang expiry.</li>
+        <li><strong>Pagsusuri ng mga paglabag:</strong> Maaari mong suriin sa pamamagitan ng Absher o Muqeem portal.</li>
+      </ul>
+
+      <h2>Mga Karaniwang Pagkakamali Kapag Nakikitungo sa mga Fine</h2>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>Pagkakamali 1:</strong> Paniniwalang may grace period pagkatapos ng visa expiry. Walang opisyal na grace period.</li>
+          <li><strong>Pagkakamali 2:</strong> Hindi pagkansela ng hindi nagamit na Exit/Re-Entry visa sa loob ng 90 araw.</li>
+          <li><strong>Pagkakamali 3:</strong> Pagpapabaya sa mga multa, na humahantong sa deportation (huroob) at re-entry bans.</li>
+        </ul>
+      </div>
+
+      <h2>Paano Magbayad ng Overstay Fines</h2>
+      <ol>
+        <li><strong>Sa pamamagitan ng Absher:</strong> Mag-log in, pumunta sa Jawazat services, piliin ang pay violations.</li>
+        <li><strong>Sa pamamagitan ng SADAD:</strong> Magbayad sa pamamagitan ng bank apps tulad ng Al Rajhi o SNB gamit ang invoice number.</li>
+        <li><strong>Sa mga Jawazat offices:</strong> Bisitahin ang iyong lokal na Jawazat office para sa personal na tulong.</li>
+      </ol>
+
+      <h2>Pinakabagong Update para sa 2026</h2>
+      <ul>
+        <li><strong>Digital integration:</strong> Pinahusay na integration sa pagitan ng Tawakkalna at Absher para sa pagsubaybay ng paglabag.</li>
+        <li><strong>Mas mahigpit na pagpapatupad:</strong> Mas mahigpit na aplikasyon ng mga multa para sa visit visa overstays.</li>
+      </ul>
+
+      <h2>Gamitin ang Sauditoolhub Calculator</h2>
+      <p>Nag-aalok ang Sauditoolhub ng libreng{' '}
+        <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+          Jawazat Fine Calculator
+        </Link>{' '}
+        na tumutulong sa iyo na matantiya ang eksaktong halaga sa ilang segundo. Piliin ang iyong uri ng visa, ilagay ang mga petsa, at makakuha ng agarang resulta.
+      </p>
+
+      <div className="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <Calculator className="h-10 w-10 text-desert-primary mx-auto mb-3" />
+        <h3 className="text-white text-lg font-bold mb-2">Kalkulahin ang Iyong Fine Ngayon</h3>
+        <p className="text-gray-400 text-sm mb-4">Libreng instant estimate — walang registration na kinakailangan</p>
+        <Link href="/jawazat-fine-calculator" className="inline-flex items-center gap-2 rounded-xl bg-desert-primary px-8 py-3 text-sm font-bold text-white transition-all hover:bg-desert-primary-dim">
+          <Calculator className="h-4 w-4" />
+          Gamitin ang Libreng Calculator
+        </Link>
+      </div>
+
+      <h2>Mga Madalas Itanong</h2>
+      {faqsTl.map((faq, i) => (
+        <div key={i} className="not-prose glass p-4 rounded-xl mb-4">
+          <h3 className="text-white font-semibold mb-2">{faq.question}</h3>
+          <p className="text-gray-400 text-sm">{faq.answer}</p>
+        </div>
+      ))}
+
+      <h2>Konklusyon</h2>
+      <p>Ang Jawazat overstay fines sa Saudi Arabia ay maaaring maging malaking pinansiyal na pasanin kung hindi papansinin. Kung ikaw ay expat, employer, o bisita, ang pag-unawa sa sistema at pagsunod dito ay ang pinakamahusay na paraan upang maiwasan ang mabibigat na multa at legal na parusa.</p>
+      <p>Huwag hulaan ang halaga ng iyong multa. Gamitin ang{' '}
+        <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+          Sauditoolhub Jawazat Fine Calculator
+        </Link>{' '}
+        ngayon para sa tumpak na instant estimate. Libre, mabilis, at ganap na pribado.
+      </p>
+
+      <div className="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <p className="text-gray-400 text-sm">Huling na-update: Hulyo 2026 · Batay sa Saudi Jawazat regulations at Article 39 ng Residency System</p>
+      </div>
+    </article>
+  )
+}
+
+function BnContent() {
+  return (
+    <article className="prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300">
+      <h1>সৌদি আরবে জাওয়াজাত ওভারস্টে ফাইন ও জরিমানের সম্পূর্ণ গাইড 2026</h1>
+
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <p className="text-gray-300 text-lg leading-relaxed">
+          আপনার মেয়াদোত্তীর্ণ ইকামা বা ভিসা নিয়ে চিন্তিত? আপনি একা নন। সৌদি আরবের হাজার হাজার প্রবাসী ওভারস্টে ফাইন এবং বিভিন্ন ধরনের জরিমানা বুঝতে সংগ্রাম করে। আপনি ইকামা, এক্সিট/রি-এন্ট্রি ভিসা, বা ভিজিট ভিসা যাই ধারণ করুন না কেন, জাওয়াজাত জরিমানা দ্রুত হাজার হাজার রিয়ালে পৌঁছাতে পারে।
+        </p>
+        <p className="text-gray-300 text-lg leading-relaxed mt-4">
+          এখানেই{' '}
+          <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+            Sauditoolhub জাওয়াজাত ফাইন ক্যালকুলেটর
+          </Link>{' '}
+          কাজ করে। আমরা এই বিনামূল্যের টুল তৈরি করেছি যাতে আপনি সেকেন্ডের মধ্যে সঠিক পরিমাণ অনুমান করতে পারেন। এই সম্পূর্ণ গাইডে, আমরা 2026 সালের জন্য সৌদি আরবে ওভারস্টে ফাইন সম্পর্কে আপনার যা জানা দরকার তা ব্যাখ্যা করি।
+        </p>
+        <div className="mt-4">
+          <Link href="/jawazat-fine-calculator" className="inline-flex items-center gap-2 rounded-xl bg-desert-primary px-6 py-3 text-sm font-bold text-white transition-all hover:bg-desert-primary-dim">
+            <Calculator className="h-4 w-4" />
+            এখনই আপনার জরিমানা গণনা করুন — বিনামূল্যে
+          </Link>
+        </div>
+      </div>
+
+      <h2>জাওয়াজাত ওভারস্টে ফাইন কী?</h2>
+      <p>জাওয়াজাত ওভারস্টে ফাইন হল আর্থিক জরিমানা যা সৌদি আরবের জেনারেল ডিরেক্টরেট অব পাসপোর্টস (জাওয়াজাত) দ্বারা বসবাস ও ভিসা নিয়ম লঙ্ঘনকারী ব্যক্তিদের উপর আরোপ করা হয়। এই জরিমানাগুলি সৌদি রেসিডেন্সি সিস্টেমের আর্টিকেল 39-এর উপর ভিত্তি করে তৈরি।</p>
+
+      <h2>বিস্তারিত ওভারস্টে ফাইন ব্রেকডাউন (2026 নিয়ম)</h2>
+
+      <h3>ইকামা ওভারস্টে জরিমানা</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong className="text-red-400">প্রথম লঙ্ঘন:</strong> ফ্ল্যাট জরিমানা SAR ১৫,০০০।</li>
+          <li><strong className="text-red-400">দ্বিতীয় লঙ্ঘন:</strong> ফ্ল্যাট জরিমানা SAR ৩০,০০০।</li>
+          <li><strong className="text-red-400">তৃতীয় ও পরবর্তী লঙ্ঘন:</strong> ফ্ল্যাট জরিমানা SAR ৫০,০০০ প্রতি লঙ্ঘন।</li>
+          <li><strong>সর্বোচ্চ:</strong> কিছু ক্ষেত্রে প্রতি লঙ্ঘনে SAR ১,০০,০০০ পর্যন্ত।</li>
+          <li><strong>নির্বাসন:</strong> বারবার লঙ্ঘনের ফলে নির্বাসন ও পুনরায় প্রবেশে নিষেধাজ্ঞা হতে পারে।</li>
+        </ul>
+      </div>
+
+      <h3>এক্সিট/রি-এন্ট্রি ভিসা ওভারস্টে জরিমানা</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>দৈনিক জরিমানা:</strong> ভিসার মেয়াদ শেষ হওয়ার পর প্রতিদিন SAR ১০০।</li>
+          <li><strong>অবাতিল জরিমানা:</strong> যদি একটি অব্যবহৃত ভিসা ৯০ দিনের মধ্যে বাতিল না করা হয়, অতিরিক্ত SAR ১,০০০ জরিমানা প্রযোজ্য।</li>
+          <li>ভিসার মেয়াদ শেষ হওয়ার পরের দিন থেকে জরিমানা গণনা শুরু হয়।</li>
+        </ul>
+      </div>
+
+      <h3>ভিজিট ভিসা ওভারস্টে জরিমানা</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>দৈনিক জরিমানা:</strong> মেয়াদ শেষ হওয়ার তারিখ থেকে প্রতিদিন SAR ১০০।</li>
+          <li><strong>সর্বোচ্চ জরিমানা:</strong> SAR ৫০,০০০ পর্যন্ত।</li>
+          <li><strong>অতিরিক্ত শাস্তি:</strong> ৬ মাস পর্যন্ত কারাদণ্ড, নির্বাসন, এবং ১০ বছর পর্যন্ত পুনরায় প্রবেশে নিষেধাজ্ঞা অন্তর্ভুক্ত থাকতে পারে।</li>
+        </ul>
+      </div>
+
+      <h2>কে এই জরিমানা দ্বারা প্রভাবিত?</h2>
+      <ul>
+        <li><strong>প্রবাসী কর্মী:</strong> সমস্ত ইকামা ধারক যারা তাদের রেসিডেন্সি নবায়নে দেরি করে।</li>
+        <li><strong>নির্ভরশীল:</strong> পরিবারের সদস্য যারা তাদের ভিসা নবায়নে দেরি করে।</li>
+        <li><strong>পর্যটক ও ভিসাধারী:</strong> পর্যটক ও পারিবারিক ভিজিট ভিসাধারীরা।</li>
+        <li><strong>নিয়োগকর্তা (স্পন্সর):</strong> স্পন্সররা সময়মত ইকামা নবায়নের জন্য দায়ী।</li>
+      </ul>
+
+      <h2>কীভাবে ওভারস্টে জরিমানা গণনা করবেন - ধাপে ধাপে</h2>
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <ol className="space-y-4 text-gray-300 list-decimal list-inside">
+          <li><strong>ধাপ ১:</strong> আপনার ভিসার ধরন চিহ্নিত করুন: ইকামা, এক্সিট/রি-এন্ট্রি, বা ভিজিট ভিসা।</li>
+          <li><strong>ধাপ ২:</strong> আপনার ভিসার মেয়াদ শেষ হওয়ার তারিখ এবং বর্তমান গণনার তারিখ নোট করুন।</li>
+          <li><strong>ধাপ ৩:</strong> মোট ওভারস্টে দিনের সংখ্যা গণনা করুন।</li>
+          <li><strong>ধাপ ৪:</strong> সঠিক সূত্র প্রয়োগ করুন: ফ্ল্যাট পেনাল্টি বনাম দৈনিক গণনা।</li>
+          <li><strong>ধাপ ৫:</strong> পূর্ববর্তী লঙ্ঘনের জন্য পরীক্ষা করুন (ক্রমবর্ধমান জরিমানা)।</li>
+        </ol>
+      </div>
+
+      <h3>বাস্তব গণনার উদাহরণ</h3>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>উদাহরণ ১ - ইকামা:</strong> একজন প্রবাসী প্রথমবার ইকামা নবায়নে দেরি করছেন। প্রথম লঙ্ঘন: SAR ১৫,০০০ ফ্ল্যাট জরিমানা।</p>
+      </div>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>উদাহরণ ২ - এক্সিট/রি-এন্ট্রি:</strong> একজন নির্ভরশীল ১৫ দিন ওভারস্টে করেছেন। গণনা: ১৫ x SAR ১০০ = SAR ১,৫০০।</p>
+      </div>
+      <div className="not-prose glass p-4 rounded-xl mb-4">
+        <p className="text-gray-300"><strong>উদাহরণ ৩ - ভিজিট:</strong> একজন দর্শনার্থী ৬০ দিন ওভারস্টে করেছেন। গণনা: ৬০ x SAR ১০০ = SAR ৬,০০০। (সর্বোচ্চ SAR ৫০,০০০)।</p>
+      </div>
+
+      <h2>বিশেষ ক্ষেত্রে এবং ব্যতিক্রম</h2>
+      <ul>
+        <li><strong>স্পন্সর-ঘটিত বিলম্ব:</strong> যদি স্পন্সর বিলম্বের জন্য দায়ী হয়, স্পন্সর জরিমানা পরিশোধ করবেন। তবে, প্রবাসী তাদের আইনি অবস্থার জন্য দায়ী থাকে।</li>
+        <li><strong>গ্রেস পিরিয়ড:</strong> কোন অফিসিয়াল গ্রেস পিরিয়ড নেই। মেয়াদ শেষ হওয়ার পরের দিন থেকে জরিমানা শুরু হয়।</li>
+        <li><strong>পাবলিক ছুটি:</strong> অফিসিয়াল ছুটির দিন জরিমানা গণনাকে প্রভাবিত করে না। মেয়াদ শেষ হওয়ার আগে নবায়ন করুন।</li>
+      </ul>
+
+      <h2>জরিমানা মোকাবেলায় সাধারণ ভুল</h2>
+      <div className="not-prose glass p-4 rounded-xl mb-6">
+        <ul className="space-y-3 text-gray-300">
+          <li><strong>ভুল ১:</strong> ভিসার মেয়াদ শেষ হওয়ার পর গ্রেস পিরিয়ড আছে বলে বিশ্বাস করা। কোন অফিসিয়াল গ্রেস পিরিয়ড নেই।</li>
+          <li><strong>ভুল ২:</strong> ৯০ দিনের মধ্যে অব্যবহৃত এক্সিট/রি-এন্ট্রি ভিসা বাতিল না করা।</li>
+          <li><strong>ভুল ৩:</strong> জরিমানা উপেক্ষা করা, যা নির্বাসন ও পুনরায় প্রবেশে নিষেধাজ্ঞার দিকে নিয়ে যেতে পারে।</li>
+        </ul>
+      </div>
+
+      <h2>কীভাবে ওভারস্টে জরিমানা পরিশোধ করবেন</h2>
+      <ol>
+        <li><strong>Absher এর মাধ্যমে:</strong> লগ ইন করুন, জাওয়াজাত সার্ভিসে যান, পে ভায়োলেশনস নির্বাচন করুন।</li>
+        <li><strong>SADAD এর মাধ্যমে:</strong> ইনভয়েস নম্বর ব্যবহার করে আল রাজিহি বা SNB-এর মতো ব্যাংক অ্যাপের মাধ্যমে পরিশোধ করুন।</li>
+        <li><strong>জাওয়াজাত অফিসে:</strong> ব্যক্তিগত সহায়তার জন্য স্থানীয় জাওয়াজাত অফিসে যান।</li>
+      </ol>
+
+      <h2>2026-এর জন্য সর্বশেষ আপডেট</h2>
+      <ul>
+        <li><strong>ডিজিটাল ইন্টিগ্রেশন:</strong> লঙ্ঘন ট্র্যাকিংয়ের জন্য তাওয়াক্কালনা এবং আবশিরের মধ্যে উন্নত ইন্টিগ্রেশন।</li>
+        <li><strong>কঠোর প্রয়োগ:</strong> ভিজিট ভিসা ওভারস্টের জন্য জরিমানার কঠোর প্রয়োগ।</li>
+      </ul>
+
+      <h2>Sauditoolhub ক্যালকুলেটর ব্যবহার করুন</h2>
+      <p>Sauditoolhub একটি বিনামূল্যের{' '}
+        <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+          জাওয়াজাত ফাইন ক্যালকুলেটর
+        </Link>{' '}
+        অফার করে যা আপনাকে সেকেন্ডের মধ্যে সঠিক পরিমাণ অনুমান করতে সাহায্য করে। আপনার ভিসার ধরন নির্বাচন করুন, তারিখ লিখুন, এবং তাৎক্ষণিক ফলাফল পান।
+      </p>
+
+      <div className="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <Calculator className="h-10 w-10 text-desert-primary mx-auto mb-3" />
+        <h3 className="text-white text-lg font-bold mb-2">এখনই আপনার জরিমানা গণনা করুন</h3>
+        <p className="text-gray-400 text-sm mb-4">বিনামূল্যে তাৎক্ষণিক অনুমান — কোন রেজিস্ট্রেশনের প্রয়োজন নেই</p>
+        <Link href="/jawazat-fine-calculator" className="inline-flex items-center gap-2 rounded-xl bg-desert-primary px-8 py-3 text-sm font-bold text-white transition-all hover:bg-desert-primary-dim">
+          <Calculator className="h-4 w-4" />
+          বিনামূল্যের ক্যালকুলেটর ব্যবহার করুন
+        </Link>
+      </div>
+
+      <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন</h2>
+      {faqsBn.map((faq, i) => (
+        <div key={i} className="not-prose glass p-4 rounded-xl mb-4">
+          <h3 className="text-white font-semibold mb-2">{faq.question}</h3>
+          <p className="text-gray-400 text-sm">{faq.answer}</p>
+        </div>
+      ))}
+
+      <h2>উপসংহার</h2>
+      <p>সৌদি আরবে জাওয়াজাত ওভারস্টে জরিমানা উপেক্ষা করলে বড় আর্থিক বোঝা হয়ে দাঁড়াতে পারে। আপনি প্রবাসী, নিয়োগকর্তা বা দর্শনার্থী যাই হোন না কেন, সিস্টেম বোঝা এবং মেনে চলাই ভারী জরিমানা ও আইনি শাস্তি এড়ানোর সর্বোত্তম উপায়।</p>
+      <p>আপনার জরিমানার পরিমাণ অনুমান করবেন না। আজই{' '}
+        <Link href="/jawazat-fine-calculator" className="text-desert-primary font-bold underline">
+          Sauditoolhub জাওয়াজাত ফাইন ক্যালকুলেটর
+        </Link>{' '}
+        ব্যবহার করুন সঠিক তাৎক্ষণিক অনুমানের জন্য। বিনামূল্যে, দ্রুত, এবং সম্পূর্ণ ব্যক্তিগত।
+      </p>
+
+      <div className="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <p className="text-gray-400 text-sm">সর্বশেষ আপডেট: জুলাই ২০২৬ · সৌদি জাওয়াজাত নিয়ম এবং রেসিডেন্সি সিস্টেমের আর্টিকেল ৩৯-এর ভিত্তিতে</p>
+      </div>
+    </article>
+  )
+}
+
 export default async function GuidePage({ params }: Props) {
   const { locale } = await params
   const isAr = locale === 'ar'
   const isUr = locale === 'ur'
+  const isTl = locale === 'tl'
+  const isBn = locale === 'bn'
   const isDefault = locale === 'en'
   const pageUrl = `${baseUrl}/${isDefault ? '' : locale + '/'}guide/jawazat-overstay-fine-calculator-saudi-arabia-2026`
 
@@ -598,42 +961,42 @@ export default async function GuidePage({ params }: Props) {
     <>
       <BreadcrumbJsonLd
         items={[
-          { name: isAr ? 'الرئيسية' : isUr ? 'ہوم' : 'Home', url: baseUrl },
-          { name: isAr ? 'أدلة' : isUr ? 'گائیڈز' : 'Guides', url: `${baseUrl}/${isDefault ? '' : locale + '/'}guides` },
-          { name: isAr ? 'دليل غرامات الجوازات' : isUr ? 'جاوزات جرمانہ گائیڈ' : 'Jawazat Overstay Guide', url: pageUrl },
+          { name: isAr ? 'الرئيسية' : isUr ? 'ہوم' : isTl ? 'Bahay' : isBn ? 'হোম' : 'Home', url: baseUrl },
+          { name: isAr ? 'أدلة' : isUr ? 'گائیڈز' : isTl ? 'Mga Gabay' : isBn ? 'গাইড' : 'Guides', url: `${baseUrl}/${isDefault ? '' : locale + '/'}guides` },
+          { name: isAr ? 'دليل غرامات الجوازات' : isUr ? 'جاوزات جرمانہ گائیڈ' : isTl ? 'Gabay sa Jawazat Fine' : isBn ? 'জাওয়াজাত জরিমানা গাইড' : 'Jawazat Overstay Guide', url: pageUrl },
         ]}
       />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(isAr ? schemaAr : isUr ? schemaUr : articleSchemaEn) }} />
-      <FAQJsonLd items={isAr ? faqsAr : isUr ? faqsUr : faqsEn} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(isAr ? schemaAr : isUr ? schemaUr : isTl ? schemaTl : isBn ? schemaBn : articleSchemaEn) }} />
+      <FAQJsonLd items={isAr ? faqsAr : isUr ? faqsUr : isTl ? faqsTl : isBn ? faqsBn : faqsEn} />
 
       <div className="mx-auto max-w-4xl px-4 py-8">
         <Link href={`/${isDefault ? '' : locale}`} className="inline-flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim mb-6 transition-colors">
           <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
-          {isAr ? 'العودة إلى الرئيسية' : isUr ? 'ہوم پیج پر واپس جائیں' : 'Back to Home'}
+          {isAr ? 'العودة إلى الرئيسية' : isUr ? 'ہوم پیج پر واپس جائیں' : isTl ? 'Bumalik sa Bahay' : isBn ? 'হোম পেজে ফিরে যান' : 'Back to Home'}
         </Link>
 
-         {isAr ? <ArContent /> : isUr ? <UrContent /> : <EnContent />}
+         {isAr ? <ArContent /> : isUr ? <UrContent /> : isTl ? <TlContent /> : isBn ? <BnContent /> : <EnContent />}
 
         <div className="mt-12 not-prose glass p-6 rounded-xl">
           <h3 className="text-white font-bold text-lg mb-4">
-            {isAr ? 'روابط ذات صلة' : isUr ? 'متعلقہ لنکس' : 'Related Links'}
+            {isAr ? 'روابط ذات صلة' : isUr ? 'متعلقہ لنکس' : isTl ? 'Mga Kaugnay na Link' : isBn ? 'সম্পর্কিত লিংক' : 'Related Links'}
           </h3>
           <div className="grid gap-3 sm:grid-cols-2">
             <Link href="/jawazat-fine-calculator" className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors">
               <Calculator className="h-4 w-4 shrink-0" />
-              {isAr ? 'حاسبة غرامات الجوازات' : isUr ? 'جاوزات جرمانہ کیلکولیٹر' : 'Jawazat Fine Calculator'}
+              {isAr ? 'حاسبة غرامات الجوازات' : isUr ? 'جاوزات جرمانہ کیلکولیٹر' : isTl ? 'Jawazat Fine Calculator' : isBn ? 'জাওয়াজাত ফাইন ক্যালকুলেটর' : 'Jawazat Fine Calculator'}
             </Link>
             <Link href="/eosb-calculator" className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors">
               <Calculator className="h-4 w-4 shrink-0" />
-              {isAr ? 'حاسبة مكافأة نهاية الخدمة' : isUr ? 'EOSB کیلکولیٹر' : 'EOSB Calculator'}
+              {isAr ? 'حاسبة مكافأة نهاية الخدمة' : isUr ? 'EOSB کیلکولیٹر' : isTl ? 'EOSB Calculator' : isBn ? 'EOSB ক্যালকুলেটর' : 'EOSB Calculator'}
             </Link>
             <Link href="/family-visa-optimizer" className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors">
               <Calculator className="h-4 w-4 shrink-0" />
-              {isAr ? 'محسن تأشيرة العائلة' : isUr ? 'فیملی ویزا آپٹیمائزر' : 'Family Visa Optimizer'}
+              {isAr ? 'محسن تأشيرة العائلة' : isUr ? 'فیملی ویزا آپٹیمائزر' : isTl ? 'Family Visa Optimizer' : isBn ? 'ফ্যামিলি ভিসা অপটিমাইজার' : 'Family Visa Optimizer'}
             </Link>
             <Link href="/final-settlement-calculator" className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors">
               <Calculator className="h-4 w-4 shrink-0" />
-              {isAr ? 'حاسبة التسوية النهائية' : isUr ? 'فائنل سیٹلمنٹ کیلکولیٹر' : 'Final Settlement Calculator'}
+              {isAr ? 'حاسبة التسوية النهائية' : isUr ? 'فائنل سیٹلمنٹ کیلکولیٹر' : isTl ? 'Final Settlement Calculator' : isBn ? 'চূড়ান্ত নিষ্পত্তি ক্যালকুলেটর' : 'Final Settlement Calculator'}
             </Link>
           </div>
         </div>
