@@ -127,10 +127,10 @@ export default async function AboutPage({ params }: Props) {
               ))}
 
               <div className="glass p-6 rounded-xl text-center">
-                <p className="text-gray-300 text-sm mb-4">{t('contactCta')}</p>
-                <a href={`mailto:usman.create12@gmail.com`} className="text-desert-primary hover:underline font-medium">
-                  usman.create12@gmail.com
-                </a>
+                <p className="text-gray-300 text-sm">{t('contactCta')}</p>
+                <Link href="/contact" className="text-desert-primary hover:underline font-medium">
+                  {isDefault ? 'Contact Us' : locale === 'ar' ? 'اتصل بنا' : locale === 'ur' ? 'ہم سے رابطہ کریں' : locale === 'tl' ? 'Makipag-ugnayan' : locale === 'bn' ? 'যোগাযোগ করুন' : 'Contact Us'}
+                </Link>
               </div>
             </div>
           </div>
