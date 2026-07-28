@@ -92,6 +92,14 @@ const blogPosts = [
     readTime: 17,
   },
   {
+    title: 'Complete Guide to Nitaqat Saudization Ratios & Bands in Saudi Arabia 2026',
+    excerpt: 'Understand the Nitaqat color band system: Platinum, Green, Yellow, and Red. Learn how to calculate Saudization ratios, improve your company classification, and avoid compliance penalties.',
+    category: 'business',
+    href: '/guide/nitaqat-saudization-ratios-saudi-arabia-2026',
+    date: '2026-07-28',
+    readTime: 15,
+  },
+  {
     title: 'Complete Guide to Final Settlement & Air Ticket in Saudi Arabia 2026',
     excerpt: 'Everything about final settlement when leaving your job in Saudi Arabia: EOSB, unpaid salary, unused leave pay, air ticket entitlement, and step-by-step calculation examples.',
     category: 'expat',
