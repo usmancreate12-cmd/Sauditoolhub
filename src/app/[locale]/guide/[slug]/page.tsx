@@ -76,6 +76,18 @@ export default async function GuidePage({ params }: Props) {
     dateModified: article.date,
   }
 
+  const categoryDisplay = locale === 'ar'
+    ? { expat: 'أدلة المغتربين', business: 'الأعمال والضريبة', finance: 'التمويل', auto: 'السيارات والمرور', realEstate: 'العقارات' }[article.category] || article.category
+    : locale === 'ur'
+    ? { expat: 'غیر ملکیوں کے رہنما', business: 'کاروبار اور ٹیکس', finance: 'مالیات', auto: 'گاڑی اور ٹریفک', realEstate: 'رئیل اسٹیٹ' }[article.category] || article.category
+    : locale === 'tl'
+    ? { expat: 'EXPAT GUIDES', business: 'BUSINESS & TAX', finance: 'FINANCE', auto: 'AUTO & TRAFFIC', realEstate: 'REAL ESTATE' }[article.category] || article.category.toUpperCase()
+    : locale === 'bn'
+    ? { expat: 'প্রবাসীদের গাইড', business: 'ব্যবসা ও ভ্যাট', finance: 'অর্থনীতি', auto: 'অটো ও ট্রাফিক', realEstate: 'রিয়েল এস্টেট' }[article.category] || article.category
+    : { expat: 'EXPAT GUIDES', business: 'BUSINESS & TAX', finance: 'FINANCE', auto: 'AUTO & TRAFFIC', realEstate: 'REAL ESTATE' }[article.category] || article.category.toUpperCase()
+
+  const subtitleText = article.description[locale as keyof typeof article.description] || article.description.en
+
   return (
     <>
       <JsonLd data={articleSchema} />
@@ -90,12 +102,20 @@ export default async function GuidePage({ params }: Props) {
       <div className="relative z-10">
         <section className="px-4 py-20">
           <div className="mx-auto max-w-6xl">
+            <div className="text-center mb-12">
+              <span className="text-sm font-semibold text-desert-primary uppercase tracking-wider">
+                {categoryDisplay}
+              </span>
+              <h1 className="text-4xl md:text-5xl font-bold text-white mt-4 mb-6">
+                {titleText}
+              </h1>
+              <p className="text-lg text-gray-400 max-w-3xl mx-auto">
+                {subtitleText}
+              </p>
+            </div>
+
             {hasContent ? (
-              <article
-                className={`prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300 ${isRtl ? 'text-right' : ''}`}
-                dir={isRtl ? 'rtl' : 'ltr'}
-                dangerouslySetInnerHTML={{ __html: contentHtml }}
-              />
+              <div dangerouslySetInnerHTML={{ __html: contentHtml.replace(/<h1\b[^>]*>/gi, '').replace(/<\/h1>/gi, '') }} />
             ) : (
               <div className="glass p-8 rounded-xl text-center">
                 <p className="text-gray-400 text-lg">
