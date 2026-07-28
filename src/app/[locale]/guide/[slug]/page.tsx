@@ -59,6 +59,7 @@ export default async function GuidePage({ params }: Props) {
   if (!article) notFound()
 
   const contentHtml = article.content[locale as keyof typeof article.content] || article.content.en
+  const hasContent = contentHtml && contentHtml.trim().length > 0
   const titleText = article.title[locale as keyof typeof article.title] || article.title.en
   const isRtl = locale === 'ar' || locale === 'ur'
   const isDefault = locale === 'en'
@@ -89,11 +90,27 @@ export default async function GuidePage({ params }: Props) {
       <div className="relative z-10">
         <section className="px-4 py-20">
           <div className="mx-auto max-w-6xl">
-            <article
-              className={`prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300 ${isRtl ? 'text-right' : ''}`}
-              dir={isRtl ? 'rtl' : 'ltr'}
-              dangerouslySetInnerHTML={{ __html: contentHtml }}
-            />
+            {hasContent ? (
+              <article
+                className={`prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300 ${isRtl ? 'text-right' : ''}`}
+                dir={isRtl ? 'rtl' : 'ltr'}
+                dangerouslySetInnerHTML={{ __html: contentHtml }}
+              />
+            ) : (
+              <div className="glass p-8 rounded-xl text-center">
+                <p className="text-gray-400 text-lg">
+                  {locale === 'ar'
+                    ? 'محتويات هذا المقال قيد التحديث حالياً. يرجى العودة لاحقاً.'
+                    : locale === 'ur'
+                    ? 'اس مضمون کے مندرجات فی الحال اپ ڈیٹ ہو رہے ہیں۔ براہ کرم بعد میں دوبارہ تشریف لائیں۔'
+                    : locale === 'tl'
+                    ? 'Ang nilalaman ng artikulong ito ay kasalukuyang ina-update. Pakibalik muli sa ibang pagkakataon.'
+                    : locale === 'bn'
+                    ? 'এই নিবন্ধটির বিষয়বস্তু বর্তমানে আপডেট করা হচ্ছে। অনুগ্রহ করে পরে আবার দেখুন।'
+                    : 'Content for this article is currently being updated. Please check back soon.'}
+                </p>
+              </div>
+            )}
           </div>
         </section>
       </div>
