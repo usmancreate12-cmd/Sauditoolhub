@@ -76,6 +76,14 @@ const blogPosts = [
     readTime: 10,
   },
   {
+    title: 'Complete Visa Document Checklist for Saudi Arabia 2026',
+    excerpt: 'Everything you need for your Saudi visa application: Family Visit, Work, Umrah, and Tourist visa document lists, attestation steps, application process, and common rejection reasons.',
+    category: 'expat',
+    href: '/guide/visa-checklist-documents-saudi-visas-2026',
+    date: '2026-07-28',
+    readTime: 16,
+  },
+  {
     title: 'Complete Guide to Final Settlement & Air Ticket in Saudi Arabia 2026',
     excerpt: 'Everything about final settlement when leaving your job in Saudi Arabia: EOSB, unpaid salary, unused leave pay, air ticket entitlement, and step-by-step calculation examples.',
     category: 'expat',
