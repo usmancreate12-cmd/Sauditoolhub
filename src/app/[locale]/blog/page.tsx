@@ -84,6 +84,14 @@ const blogPosts = [
     readTime: 16,
   },
   {
+    title: 'Complete Guide to ZATCA VAT & E-Invoicing (Fatoora) in Saudi Arabia 2026',
+    excerpt: 'Master ZATCA VAT and e-invoicing compliance: 15% VAT calculation, Phase 2 Fatoora rules, B2B vs B2C invoice requirements, and how to file VAT returns in Saudi Arabia.',
+    category: 'business',
+    href: '/guide/zatca-vat-einvoicing-compliance-saudi-arabia-2026',
+    date: '2026-07-28',
+    readTime: 17,
+  },
+  {
     title: 'Complete Guide to Final Settlement & Air Ticket in Saudi Arabia 2026',
     excerpt: 'Everything about final settlement when leaving your job in Saudi Arabia: EOSB, unpaid salary, unused leave pay, air ticket entitlement, and step-by-step calculation examples.',
     category: 'expat',
