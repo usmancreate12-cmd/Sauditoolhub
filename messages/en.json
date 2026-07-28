@@ -16,12 +16,24 @@
           "visit_visa": "Visit Visa Overstay"
         }
       },
-      "expiryDate": { "label": "Iqama/Visa Expiry Date" },
-      "calculateDate": { "label": "Calculation Date" },
-      "violations": { "label": "Previous Violations (0 for first offense)" },
-      "uncanceledVisa": { "label": "I have an uncanceled exit/re-entry visa" },
-      "partialPayment": { "label": "I have already paid part of the fine" },
-      "amountPaid": { "label": "Amount already paid (SAR)" }
+      "expiryDate": {
+        "label": "Iqama/Visa Expiry Date"
+      },
+      "calculateDate": {
+        "label": "Calculation Date"
+      },
+      "violations": {
+        "label": "Previous Violations (0 for first offense)"
+      },
+      "uncanceledVisa": {
+        "label": "I have an uncanceled exit/re-entry visa"
+      },
+      "partialPayment": {
+        "label": "I have already paid part of the fine"
+      },
+      "amountPaid": {
+        "label": "Amount already paid (SAR)"
+      }
     },
     "buttons": {
       "calculate": "Calculate Fine",
@@ -256,28 +268,55 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Family Details",
-      "wifeCount": { "label": "Wife" },
-      "kidsCount": { "label": "Children" },
+      "wifeCount": {
+        "label": "Wife"
+      },
+      "kidsCount": {
+        "label": "Children"
+      },
       "wifeIqamaStatus": {
         "label": "Wife Iqama",
-        "options": { "new": "New Iqama", "renewal": "Renewal", "active": "Already Active" }
+        "options": {
+          "new": "New Iqama",
+          "renewal": "Renewal",
+          "active": "Already Active"
+        }
       },
       "kidsIqamaStatus": {
         "label": "Children Iqama",
-        "options": { "new": "New Iqama", "renewal": "Renewal", "active": "Already Active" }
+        "options": {
+          "new": "New Iqama",
+          "renewal": "Renewal",
+          "active": "Already Active"
+        }
       },
       "exitType": {
         "label": "Exit/Re-Entry Visa",
-        "options": { "single": "Single Exit", "multiple": "Multiple Exit/Re-Entry" }
+        "options": {
+          "single": "Single Exit",
+          "multiple": "Multiple Exit/Re-Entry"
+        }
       },
       "visaDuration": {
         "label": "Visa Duration",
-        "options": { "1m": "1 Month", "2m": "2 Months", "3m": "3 Months", "6m": "6 Months", "1y": "1 Year" }
+        "options": {
+          "1m": "1 Month",
+          "2m": "2 Months",
+          "3m": "3 Months",
+          "6m": "6 Months",
+          "1y": "1 Year"
+        }
       },
-      "iqamaExpiry": { "label": "Current Iqama Expiry Date" },
+      "iqamaExpiry": {
+        "label": "Current Iqama Expiry Date"
+      },
       "planningPeriod": {
         "label": "Planning Period",
-        "options": { "6m": "6 Months", "1y": "1 Year", "2y": "2 Years" }
+        "options": {
+          "6m": "6 Months",
+          "1y": "1 Year",
+          "2y": "2 Years"
+        }
       }
     },
     "buttons": {
@@ -321,7 +360,11 @@
     "emptyState": "Enter your family details above to see the fee estimate.",
     "successMessage": "Calculation complete! Results are shown above.",
     "copiedResult": "Family Visa Fees: {total} SAR (via Sauditoolhub)",
-    "period": { "6m": "6 Months", "12m": "1 Year", "24m": "2 Years" },
+    "period": {
+      "6m": "6 Months",
+      "12m": "1 Year",
+      "24m": "2 Years"
+    },
     "disclaimer": "This is an estimate based on official Saudi fee structures (2024). Actual fees may vary. This is not legal or financial advice.",
     "lastUpdated": "Last updated: July 2026",
     "legalNotice": "Based on Saudi Ministry of Interior & Jawazat fee schedules.",
@@ -713,16 +756,29 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Invoice Details",
-      "subtotal": { "label": "Subtotal Amount (SAR)", "placeholder": "e.g., 10000" },
+      "subtotal": {
+        "label": "Subtotal Amount (SAR)",
+        "placeholder": "e.g., 10000"
+      },
       "vatRate": {
         "label": "VAT Rate",
-        "options": { "15": "15% (Standard)", "0": "0% (Zero-rated)", "exempt": "Exempt" }
+        "options": {
+          "15": "15% (Standard)",
+          "0": "0% (Zero-rated)",
+          "exempt": "Exempt"
+        }
       },
       "invoiceType": {
         "label": "Invoice Type",
-        "options": { "b2b": "B2B (Business to Business)", "b2c": "B2C (Business to Consumer)" }
+        "options": {
+          "b2b": "B2B (Business to Business)",
+          "b2c": "B2C (Business to Consumer)"
+        }
       },
-      "discount": { "label": "Discount (Optional, SAR)", "placeholder": "0" }
+      "discount": {
+        "label": "Discount (Optional, SAR)",
+        "placeholder": "0"
+      }
     },
     "buttons": {
       "calculate": "Calculate VAT",
@@ -825,11 +881,17 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Company Details",
-      "totalEmployees": { "label": "Total Number of Employees" },
-      "saudiEmployees": { "label": "Current Number of Saudi Employees" },
+      "totalEmployees": {
+        "label": "Total Number of Employees"
+      },
+      "saudiEmployees": {
+        "label": "Current Number of Saudi Employees"
+      },
       "sector": {
         "label": "Industry / Sector",
-        "options": { "all": "Standard (General Thresholds)" },
+        "options": {
+          "all": "Standard (General Thresholds)"
+        },
         "hint": "Using standard Nitaqat thresholds. Exact bands depend on MHRSD tables for your sector and company size."
       }
     },
@@ -957,13 +1019,47 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Freelance Income Details",
-      "grossIncome": { "label": "Monthly Gross Income (SAR)", "placeholder": "e.g. 5000" },
-      "monthlyExpenses": { "label": "Monthly Expenses (SAR)", "placeholder": "e.g. 500" },
-      "platform": { "label": "Freelance Platform", "options": { "upwork": "Upwork", "fiverr": "Fiverr", "mostaql": "Mostaql", "khamsat": "Khamsat", "direct": "Direct Client" } },
-      "platformFee": { "label": "Platform Fee (%)", "hint": "Auto-filled based on platform. Adjustable." },
-      "hours": { "label": "Working Hours/Month", "placeholder": "160" },
-      "taxStatus": { "label": "Tax Status", "options": { "saudi_resident": "Saudi Resident", "non_resident": "Non-Resident", "vat_registered": "VAT Registered" } },
-      "vatApplicable": { "label": "VAT Applicable?", "options": { "no": "No", "yes": "Yes (15%)" } }
+      "grossIncome": {
+        "label": "Monthly Gross Income (SAR)",
+        "placeholder": "e.g. 5000"
+      },
+      "monthlyExpenses": {
+        "label": "Monthly Expenses (SAR)",
+        "placeholder": "e.g. 500"
+      },
+      "platform": {
+        "label": "Freelance Platform",
+        "options": {
+          "upwork": "Upwork",
+          "fiverr": "Fiverr",
+          "mostaql": "Mostaql",
+          "khamsat": "Khamsat",
+          "direct": "Direct Client"
+        }
+      },
+      "platformFee": {
+        "label": "Platform Fee (%)",
+        "hint": "Auto-filled based on platform. Adjustable."
+      },
+      "hours": {
+        "label": "Working Hours/Month",
+        "placeholder": "160"
+      },
+      "taxStatus": {
+        "label": "Tax Status",
+        "options": {
+          "saudi_resident": "Saudi Resident",
+          "non_resident": "Non-Resident",
+          "vat_registered": "VAT Registered"
+        }
+      },
+      "vatApplicable": {
+        "label": "VAT Applicable?",
+        "options": {
+          "no": "No",
+          "yes": "Yes (15%)"
+        }
+      }
     },
     "buttons": {
       "calculate": "Calculate Net Income",
@@ -1062,11 +1158,29 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "IBAN & Transfer Details",
-      "iban": { "label": "IBAN Number", "placeholder": "SA80 1000 0000 0000 0000 0000" },
-      "transferType": { "label": "Transfer Type", "options": { "sarie": "SARIE (Local Free)", "mada": "Mada (Local)", "swift": "International SWIFT" } },
-      "amount": { "label": "Transfer Amount (SAR)", "placeholder": "1000" }
+      "iban": {
+        "label": "IBAN Number",
+        "placeholder": "SA80 1000 0000 0000 0000 0000"
+      },
+      "transferType": {
+        "label": "Transfer Type",
+        "options": {
+          "sarie": "SARIE (Local Free)",
+          "mada": "Mada (Local)",
+          "swift": "International SWIFT"
+        }
+      },
+      "amount": {
+        "label": "Transfer Amount (SAR)",
+        "placeholder": "1000"
+      }
     },
-    "buttons": { "validate": "Validate IBAN & Estimate Fees", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "buttons": {
+      "validate": "Validate IBAN & Estimate Fees",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
     "results": {
       "valid": "Valid Saudi IBAN ✓",
       "invalid": "Invalid IBAN",
@@ -1086,7 +1200,10 @@
     "emptyState": "Enter a Saudi IBAN number to validate and estimate transfer fees.",
     "copiedResult": "IBAN: {iban} | Bank: {bank} (via Sauditoolhub)",
     "disclaimer": "This IBAN validator checks format only. Transfer fees are estimates based on standard bank rates. Actual fees vary by bank. Confirm with your bank before making transfers.",
-    "errors": { "invalidFormat": "Invalid IBAN format. Saudi IBAN must start with SA followed by 22 digits.", "generic": "Something went wrong." },
+    "errors": {
+      "invalidFormat": "Invalid IBAN format. Saudi IBAN must start with SA followed by 22 digits.",
+      "generic": "Something went wrong."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Validate a Saudi IBAN & Estimate Transfer Fees",
@@ -1109,20 +1226,35 @@
       },
       "faq": {
         "title": "Frequently Asked Questions About IBAN & Transfers",
-        "q1": "What is a Saudi IBAN structure?", "a1": "SA + 22 digits (24 total). First 2 digits after SA = bank code, remaining = account number with check digits.",
-        "q2": "How to identify bank from IBAN?", "a2": "Characters 3-4 after SA. 10=SNB, 20=Al Rajhi, 30=Albilad, 40=Arab National, 50=Alinma, 60=AlJazira, 65=SABB, 70=Saudi Fransi, 75=Riyad Bank.",
-        "q3": "Difference between SARIE and SWIFT?", "a3": "SARIE: free, instant, local. SWIFT: SAR 75-150 + 2% margin, international, 1-5 business days.",
-        "q4": "Cost of international transfers?", "a4": "SAR 75-150 flat fee + ~2% exchange margin. For SAR 10,000: ~SAR 275-350 total.",
-        "q5": "Is SARIE really free?", "a5": "Yes, SARIE transfers between Saudi banks are free and instant as regulated by SAMA.",
-        "q6": "Mada transfer fees?", "a6": "SAR 2-5 for local Mada transfers.",
-        "q7": "Where to find my IBAN?", "a7": "Bank statement, mobile app account details, or bank branch."
+        "q1": "What is a Saudi IBAN structure?",
+        "a1": "SA + 22 digits (24 total). First 2 digits after SA = bank code, remaining = account number with check digits.",
+        "q2": "How to identify bank from IBAN?",
+        "a2": "Characters 3-4 after SA. 10=SNB, 20=Al Rajhi, 30=Albilad, 40=Arab National, 50=Alinma, 60=AlJazira, 65=SABB, 70=Saudi Fransi, 75=Riyad Bank.",
+        "q3": "Difference between SARIE and SWIFT?",
+        "a3": "SARIE: free, instant, local. SWIFT: SAR 75-150 + 2% margin, international, 1-5 business days.",
+        "q4": "Cost of international transfers?",
+        "a4": "SAR 75-150 flat fee + ~2% exchange margin. For SAR 10,000: ~SAR 275-350 total.",
+        "q5": "Is SARIE really free?",
+        "a5": "Yes, SARIE transfers between Saudi banks are free and instant as regulated by SAMA.",
+        "q6": "Mada transfer fees?",
+        "a6": "SAR 2-5 for local Mada transfers.",
+        "q7": "Where to find my IBAN?",
+        "a7": "Bank statement, mobile app account details, or bank branch."
       },
       "relatedTools": {
         "title": "Related Finance & Banking Tools",
-        "tool1Name": "SAMA Loan Calculator", "tool1Desc": "Check loan eligibility under SAMA's 33% DBR rule.", "tool1Href": "/sama-loan-calculator",
-        "tool2Name": "Personal Zakat Calculator", "tool2Desc": "Calculate Zakat on savings, gold, and investments.", "tool2Href": "/zakat-calculator",
-        "tool3Name": "SIP Return Calculator", "tool3Desc": "Calculate returns on SIP investments in Saudi mutual funds.", "tool3Href": "/sip-calculator",
-        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Split RETT tax for Saudi property transactions.", "tool4Href": "/zakat-calculator"
+        "tool1Name": "SAMA Loan Calculator",
+        "tool1Desc": "Check loan eligibility under SAMA's 33% DBR rule.",
+        "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "Personal Zakat Calculator",
+        "tool2Desc": "Calculate Zakat on savings, gold, and investments.",
+        "tool2Href": "/zakat-calculator",
+        "tool3Name": "SIP Return Calculator",
+        "tool3Desc": "Calculate returns on SIP investments in Saudi mutual funds.",
+        "tool3Href": "/sip-calculator",
+        "tool4Name": "RETT Tax Splitter",
+        "tool4Desc": "Split RETT tax for Saudi property transactions.",
+        "tool4Href": "/zakat-calculator"
       },
       "disclaimer": "This tool validates IBAN format only. Transfer fee estimates are based on standard rates. Confirm with your bank for exact fees."
     }
@@ -1133,17 +1265,43 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "SIP Investment Details",
-      "monthlyInvestment": { "label": "Monthly Investment (SAR)", "placeholder": "1000" },
-      "annualReturn": { "label": "Expected Annual Return (%)", "placeholder": "8" },
-      "duration": { "label": "Duration (Years)", "placeholder": "10" }
+      "monthlyInvestment": {
+        "label": "Monthly Investment (SAR)",
+        "placeholder": "1000"
+      },
+      "annualReturn": {
+        "label": "Expected Annual Return (%)",
+        "placeholder": "8"
+      },
+      "duration": {
+        "label": "Duration (Years)",
+        "placeholder": "10"
+      }
     },
-    "buttons": { "calculate": "Calculate SIP Returns", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
-    "results": { "futureValue": "Total Future Value", "totalInvested": "Total Invested", "estimatedReturns": "Estimated Wealth Gained" },
-    "chart": { "title": "Principal vs Returns", "principal": "Principal (Your Investment)", "returns": "Returns (Wealth Gained)" },
+    "buttons": {
+      "calculate": "Calculate SIP Returns",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "futureValue": "Total Future Value",
+      "totalInvested": "Total Invested",
+      "estimatedReturns": "Estimated Wealth Gained"
+    },
+    "chart": {
+      "title": "Principal vs Returns",
+      "principal": "Principal (Your Investment)",
+      "returns": "Returns (Wealth Gained)"
+    },
     "emptyState": "Enter your monthly investment amount to calculate your SIP returns over time.",
     "copiedResult": "SIP Future Value: {fv} SAR | Total Invested: {invested} SAR (via Sauditoolhub)",
     "disclaimer": "This calculator provides estimates based on compound interest calculations. Actual investment returns depend on market performance, fund management, and economic conditions. Past performance does not guarantee future results. Consult a financial advisor for personalized advice.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Calculate SIP Returns",
@@ -1166,20 +1324,35 @@
       },
       "faq": {
         "title": "Frequently Asked Questions About SIP",
-        "q1": "What is a SIP?", "a1": "A Systematic Investment Plan lets you invest a fixed amount monthly into mutual funds, benefiting from rupee-cost averaging and compound interest.",
-        "q2": "How is SIP return calculated?", "a2": "Using future value formula: FV = P × [((1+r)^n - 1)/r] × (1+r), which accounts for monthly compounding.",
-        "q3": "Good return rate for SIP in Saudi?", "a3": "6-12% annually. Money market 4-6%, balanced 6-8%, equity 8-12%. Default 8% is conservative.",
-        "q4": "Minimum SIP investment in Saudi banks?", "a4": "Typically SAR 500-1,000 per month. Some funds accept SAR 200-300.",
-        "q5": "Can I withdraw SIP early?", "a5": "Yes, but exit fees may apply, especially in the first 1-2 years. Check fund prospectus.",
-        "q6": "SIP vs lump sum?", "a6": "SIP spreads investment over time (rupee-cost averaging). Lump sum invests all at once. SIP is better for long-term wealth building.",
-        "q7": "Which Saudi banks offer SIP?", "a7": "Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital offer various mutual fund SIPs."
+        "q1": "What is a SIP?",
+        "a1": "A Systematic Investment Plan lets you invest a fixed amount monthly into mutual funds, benefiting from rupee-cost averaging and compound interest.",
+        "q2": "How is SIP return calculated?",
+        "a2": "Using future value formula: FV = P × [((1+r)^n - 1)/r] × (1+r), which accounts for monthly compounding.",
+        "q3": "Good return rate for SIP in Saudi?",
+        "a3": "6-12% annually. Money market 4-6%, balanced 6-8%, equity 8-12%. Default 8% is conservative.",
+        "q4": "Minimum SIP investment in Saudi banks?",
+        "a4": "Typically SAR 500-1,000 per month. Some funds accept SAR 200-300.",
+        "q5": "Can I withdraw SIP early?",
+        "a5": "Yes, but exit fees may apply, especially in the first 1-2 years. Check fund prospectus.",
+        "q6": "SIP vs lump sum?",
+        "a6": "SIP spreads investment over time (rupee-cost averaging). Lump sum invests all at once. SIP is better for long-term wealth building.",
+        "q7": "Which Saudi banks offer SIP?",
+        "a7": "Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital offer various mutual fund SIPs."
       },
       "relatedTools": {
         "title": "Related Finance & Banking Tools",
-        "tool1Name": "SAMA Loan Calculator", "tool1Desc": "Check loan eligibility under SAMA's 33% DBR rule.", "tool1Href": "/sama-loan-calculator",
-        "tool2Name": "Personal Zakat Calculator", "tool2Desc": "Calculate Zakat on savings, gold, and investments.", "tool2Href": "/zakat-calculator",
-        "tool3Name": "IBAN Validator", "tool3Desc": "Validate Saudi IBANs and estimate transfer fees.", "tool3Href": "/iban-validator",
-        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Split RETT tax for Saudi property transactions.", "tool4Href": "/zakat-calculator"
+        "tool1Name": "SAMA Loan Calculator",
+        "tool1Desc": "Check loan eligibility under SAMA's 33% DBR rule.",
+        "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "Personal Zakat Calculator",
+        "tool2Desc": "Calculate Zakat on savings, gold, and investments.",
+        "tool2Href": "/zakat-calculator",
+        "tool3Name": "IBAN Validator",
+        "tool3Desc": "Validate Saudi IBANs and estimate transfer fees.",
+        "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter",
+        "tool4Desc": "Split RETT tax for Saudi property transactions.",
+        "tool4Href": "/zakat-calculator"
       },
       "disclaimer": "This calculator provides estimates only. Investment returns are not guaranteed. Consult a financial advisor."
     }
@@ -1190,22 +1363,67 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Your Assets & Debts",
-      "cashSavings": { "label": "Cash & Bank Savings (SAR)", "placeholder": "50000" },
-      "investments": { "label": "Investments/Stocks (SAR)", "placeholder": "0" },
-      "goldGrams": { "label": "Gold Weight (Grams)", "placeholder": "0" },
-      "silverGrams": { "label": "Silver Weight (Grams)", "placeholder": "0" },
-      "goldPrice": { "label": "Gold Price/Gram (SAR)", "placeholder": "300" },
-      "silverPrice": { "label": "Silver Price/Gram (SAR)", "placeholder": "4" },
-      "debts": { "label": "Immediate Debts Owed (SAR)", "placeholder": "0" }
+      "cashSavings": {
+        "label": "Cash & Bank Savings (SAR)",
+        "placeholder": "50000"
+      },
+      "investments": {
+        "label": "Investments/Stocks (SAR)",
+        "placeholder": "0"
+      },
+      "goldGrams": {
+        "label": "Gold Weight (Grams)",
+        "placeholder": "0"
+      },
+      "silverGrams": {
+        "label": "Silver Weight (Grams)",
+        "placeholder": "0"
+      },
+      "goldPrice": {
+        "label": "Gold Price/Gram (SAR)",
+        "placeholder": "300"
+      },
+      "silverPrice": {
+        "label": "Silver Price/Gram (SAR)",
+        "placeholder": "4"
+      },
+      "debts": {
+        "label": "Immediate Debts Owed (SAR)",
+        "placeholder": "0"
+      }
     },
-    "buttons": { "calculate": "Calculate Zakat", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
-    "results": { "zakatPayable": "Total Zakat Payable", "nisabThreshold": "Nisab Threshold", "netWealth": "Net Wealth", "nisabNotMet": "Nisab Not Met — No Zakat Due", "nisabStatus": "Nisab Status" },
-    "breakdown": { "title": "Asset Breakdown", "cashSavings": "Cash & Bank Savings", "goldValue": "Gold Value", "silverValue": "Silver Value", "investments": "Investments/Stocks", "totalAssets": "Total Assets", "debts": "Immediate Debts", "netWealth": "Net Wealth" },
+    "buttons": {
+      "calculate": "Calculate Zakat",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "zakatPayable": "Total Zakat Payable",
+      "nisabThreshold": "Nisab Threshold",
+      "netWealth": "Net Wealth",
+      "nisabNotMet": "Nisab Not Met — No Zakat Due",
+      "nisabStatus": "Nisab Status"
+    },
+    "breakdown": {
+      "title": "Asset Breakdown",
+      "cashSavings": "Cash & Bank Savings",
+      "goldValue": "Gold Value",
+      "silverValue": "Silver Value",
+      "investments": "Investments/Stocks",
+      "totalAssets": "Total Assets",
+      "debts": "Immediate Debts",
+      "netWealth": "Net Wealth"
+    },
     "nisabMet": "Nisab threshold met. Zakat of 2.5% is due on your net wealth.",
     "emptyState": "Enter your savings, gold, and investments to calculate your Zakat obligation.",
     "copiedResult": "Zakat: {zakat} SAR | Net Wealth: {netWealth} SAR (via Sauditoolhub)",
     "disclaimer": "This calculator provides an estimate of your Zakat obligation. Zakat calculations may vary based on scholarly interpretations, asset types, and specific circumstances. Consult a qualified Islamic scholar for definitive guidance. This is not religious advice.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Calculate Your Zakat",
@@ -1228,20 +1446,35 @@
       },
       "faq": {
         "title": "Frequently Asked Questions About Zakat",
-        "q1": "What is the Nisab threshold?", "a1": "The Nisab is the value of 85 grams of gold. At SAR 300/gram, it's SAR 25,500. If your net wealth exceeds this, Zakat is due at 2.5%.",
-        "q2": "Do I pay Zakat on gold and silver?", "a2": "Yes, gold and silver are Zakatable at their market value, regardless of whether for personal use or investment.",
-        "q3": "Do I pay Zakat on investments?", "a3": "Yes, stocks, mutual funds, and other financial investments are subject to Zakat at their current market value.",
-        "q4": "Can I deduct debts before Zakat?", "a4": "Yes, immediate short-term debts due within the year can be deducted from total assets.",
-        "q5": "When should I pay Zakat?", "a5": "Zakat is due after one lunar year from when your wealth first exceeded Nisab. Many pay during Ramadan.",
-        "q6": "What is the current gold price?", "a6": "Gold prices fluctuate. Check current rates from the Saudi Gold Market or reliable online sources on calculation day.",
-        "q7": "Are personal assets subject to Zakat?", "a7": "Personal residence, vehicles, and household items are not Zakatable. Only liquid/income-generating assets are included."
+        "q1": "What is the Nisab threshold?",
+        "a1": "The Nisab is the value of 85 grams of gold. At SAR 300/gram, it's SAR 25,500. If your net wealth exceeds this, Zakat is due at 2.5%.",
+        "q2": "Do I pay Zakat on gold and silver?",
+        "a2": "Yes, gold and silver are Zakatable at their market value, regardless of whether for personal use or investment.",
+        "q3": "Do I pay Zakat on investments?",
+        "a3": "Yes, stocks, mutual funds, and other financial investments are subject to Zakat at their current market value.",
+        "q4": "Can I deduct debts before Zakat?",
+        "a4": "Yes, immediate short-term debts due within the year can be deducted from total assets.",
+        "q5": "When should I pay Zakat?",
+        "a5": "Zakat is due after one lunar year from when your wealth first exceeded Nisab. Many pay during Ramadan.",
+        "q6": "What is the current gold price?",
+        "a6": "Gold prices fluctuate. Check current rates from the Saudi Gold Market or reliable online sources on calculation day.",
+        "q7": "Are personal assets subject to Zakat?",
+        "a7": "Personal residence, vehicles, and household items are not Zakatable. Only liquid/income-generating assets are included."
       },
       "relatedTools": {
         "title": "Related Finance & Banking Tools",
-        "tool1Name": "SAMA Loan Eligibility Calculator", "tool1Desc": "Check your loan eligibility under SAMA's 33% DBR rule.", "tool1Href": "/sama-loan-calculator",
-        "tool2Name": "SIP Return Calculator", "tool2Desc": "Calculate returns on SIP investments in Saudi mutual funds.", "tool2Href": "/sip-calculator",
-        "tool3Name": "IBAN Validator & Transfer Fee Estimator", "tool3Desc": "Validate Saudi IBANs and estimate bank transfer fees.", "tool3Href": "/iban-validator",
-        "tool4Name": "RETT Tax Splitter", "tool4Desc": "Split Real Estate Transaction Tax for Saudi property transactions.", "tool4Href": "/zakat-calculator"
+        "tool1Name": "SAMA Loan Eligibility Calculator",
+        "tool1Desc": "Check your loan eligibility under SAMA's 33% DBR rule.",
+        "tool1Href": "/sama-loan-calculator",
+        "tool2Name": "SIP Return Calculator",
+        "tool2Desc": "Calculate returns on SIP investments in Saudi mutual funds.",
+        "tool2Href": "/sip-calculator",
+        "tool3Name": "IBAN Validator & Transfer Fee Estimator",
+        "tool3Desc": "Validate Saudi IBANs and estimate bank transfer fees.",
+        "tool3Href": "/iban-validator",
+        "tool4Name": "RETT Tax Splitter",
+        "tool4Desc": "Split Real Estate Transaction Tax for Saudi property transactions.",
+        "tool4Href": "/zakat-calculator"
       },
       "disclaimer": "This calculator provides estimates based on standard Zakat rules. Consult a qualified Islamic scholar for definitive guidance on your specific situation."
     }
@@ -1252,12 +1485,31 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Loan Eligibility Details",
-      "monthlySalary": { "label": "Monthly Salary (SAR)", "placeholder": "e.g. 10000" },
-      "existingEMIs": { "label": "Existing Monthly EMIs/Deductions (SAR)", "placeholder": "e.g. 0" },
-      "annualRate": { "label": "Annual Interest Rate (%)", "placeholder": "5.99" },
-      "tenureYears": { "label": "Loan Tenure", "year": "Year(s)" }
+      "monthlySalary": {
+        "label": "Monthly Salary (SAR)",
+        "placeholder": "e.g. 10000"
+      },
+      "existingEMIs": {
+        "label": "Existing Monthly EMIs/Deductions (SAR)",
+        "placeholder": "e.g. 0"
+      },
+      "annualRate": {
+        "label": "Annual Interest Rate (%)",
+        "placeholder": "5.99"
+      },
+      "tenureYears": {
+        "label": "Loan Tenure",
+        "year": "Year(s)"
+      }
     },
-    "buttons": { "calculate": "Check Eligibility", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "buttons": {
+      "calculate": "Check Eligibility",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
     "results": {
       "eligibleLoan": "Maximum Eligible Loan",
       "monthlyEMI": "Monthly EMI",
@@ -1273,7 +1525,11 @@
     "emptyState": "Enter your salary and existing obligations to check your loan eligibility under SAMA rules.",
     "copiedResult": "SAMA Loan: {loan} SAR | Monthly EMI: {emi} SAR (via Sauditoolhub)",
     "disclaimer": "This calculator provides estimates based on SAMA's 33% DBR regulation. Actual loan approval depends on your bank's credit policy, credit score (SIMAH), and financial history. Consult your bank for an exact pre-approval. This is not financial advice.",
-    "errors": { "salaryRequired": "Please enter your monthly salary.", "generic": "Something went wrong. Please try again.", "dbrLimitReached": "You have reached your SAMA DBR limit (33%). Reduce existing debt before applying for a new loan." },
+    "errors": {
+      "salaryRequired": "Please enter your monthly salary.",
+      "generic": "Something went wrong. Please try again.",
+      "dbrLimitReached": "You have reached your SAMA DBR limit (33%). Reduce existing debt before applying for a new loan."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Check Your SAMA Loan Eligibility",
@@ -1296,13 +1552,20 @@
       },
       "faq": {
         "title": "Frequently Asked Questions About SAMA Loan Eligibility",
-        "q1": "What is the SAMA 33% Debt Burden Ratio?", "a1": "SAMA mandates that your total monthly debt payments cannot exceed 33% of your monthly salary. This applies to all personal loans, auto loans, and credit card payments combined.",
-        "q2": "How do banks calculate maximum loan amount?", "a2": "Banks use: Available EMI (33% of salary minus existing payments) × Amortization Factor (based on interest rate and tenure). The available EMI is the key constraint.",
-        "q3": "What is the maximum personal loan tenure in Saudi Arabia?", "a3": "SAMA allows up to 5 years (60 months) for personal loans. Longer tenures reduce your monthly EMI but increase total interest paid.",
-        "q4": "What interest rate should I expect for a personal loan?", "a4": "Typical rates range from 3.99% to 7.99% APR based on your salary amount, bank relationship, and credit history (SIMAH).",
-        "q5": "Can I get a loan if my DBR is 33%?", "a5": "No. If your existing obligations already reach 33%, you are at your DBR limit. You must reduce existing debt or consolidate loans to free up DBR room.",
-        "q6": "What counts as existing deductions?", "a6": "Personal loan EMIs, auto loan payments, credit card minimum payments (5% of outstanding), and other registered debt obligations.",
-        "q7": "How can I improve loan eligibility?", "a7": "Pay off credit cards, reduce existing loans, increase salary, choose longer tenure, maintain good SIMAH credit history, or transfer salary to the lending bank."
+        "q1": "What is the SAMA 33% Debt Burden Ratio?",
+        "a1": "SAMA mandates that your total monthly debt payments cannot exceed 33% of your monthly salary. This applies to all personal loans, auto loans, and credit card payments combined.",
+        "q2": "How do banks calculate maximum loan amount?",
+        "a2": "Banks use: Available EMI (33% of salary minus existing payments) × Amortization Factor (based on interest rate and tenure). The available EMI is the key constraint.",
+        "q3": "What is the maximum personal loan tenure in Saudi Arabia?",
+        "a3": "SAMA allows up to 5 years (60 months) for personal loans. Longer tenures reduce your monthly EMI but increase total interest paid.",
+        "q4": "What interest rate should I expect for a personal loan?",
+        "a4": "Typical rates range from 3.99% to 7.99% APR based on your salary amount, bank relationship, and credit history (SIMAH).",
+        "q5": "Can I get a loan if my DBR is 33%?",
+        "a5": "No. If your existing obligations already reach 33%, you are at your DBR limit. You must reduce existing debt or consolidate loans to free up DBR room.",
+        "q6": "What counts as existing deductions?",
+        "a6": "Personal loan EMIs, auto loan payments, credit card minimum payments (5% of outstanding), and other registered debt obligations.",
+        "q7": "How can I improve loan eligibility?",
+        "a7": "Pay off credit cards, reduce existing loans, increase salary, choose longer tenure, maintain good SIMAH credit history, or transfer salary to the lending bank."
       },
       "relatedTools": {
         "title": "Related Finance & Banking Tools",
@@ -1362,9 +1625,18 @@
           "home_office": "Home Office"
         }
       },
-      "capital": { "label": "Capital (SAR)", "placeholder": "100000" },
-      "employees": { "label": "Employees", "placeholder": "1" },
-      "years": { "label": "Duration (Years)", "placeholder": "1" }
+      "capital": {
+        "label": "Capital (SAR)",
+        "placeholder": "100000"
+      },
+      "employees": {
+        "label": "Employees",
+        "placeholder": "1"
+      },
+      "years": {
+        "label": "Duration (Years)",
+        "placeholder": "1"
+      }
     },
     "buttons": {
       "calculate": "Estimate CR Cost",
@@ -1467,13 +1739,43 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Product & Order Details",
-      "sellingPrice": { "label": "Selling Price (SAR)", "placeholder": "e.g., 100" },
-      "costPrice": { "label": "Cost Price (SAR)", "placeholder": "e.g., 50" },
-      "shippingCost": { "label": "Shipping Cost (SAR)", "placeholder": "e.g., 20" },
-      "platform": { "label": "Platform", "options": { "salla": "Salla", "zid": "Zid", "other": "Other" } },
-      "paymentMethod": { "label": "Payment Method", "options": { "credit_card": "Credit Card", "mada": "Mada", "apple_pay": "Apple Pay", "cod": "Cash on Delivery" } },
-      "monthlyOrders": { "label": "Monthly Orders", "placeholder": "e.g., 100" },
-      "codReturnRate": { "label": "COD Return Rate (%)", "placeholder": "15" }
+      "sellingPrice": {
+        "label": "Selling Price (SAR)",
+        "placeholder": "e.g., 100"
+      },
+      "costPrice": {
+        "label": "Cost Price (SAR)",
+        "placeholder": "e.g., 50"
+      },
+      "shippingCost": {
+        "label": "Shipping Cost (SAR)",
+        "placeholder": "e.g., 20"
+      },
+      "platform": {
+        "label": "Platform",
+        "options": {
+          "salla": "Salla",
+          "zid": "Zid",
+          "other": "Other"
+        }
+      },
+      "paymentMethod": {
+        "label": "Payment Method",
+        "options": {
+          "credit_card": "Credit Card",
+          "mada": "Mada",
+          "apple_pay": "Apple Pay",
+          "cod": "Cash on Delivery"
+        }
+      },
+      "monthlyOrders": {
+        "label": "Monthly Orders",
+        "placeholder": "e.g., 100"
+      },
+      "codReturnRate": {
+        "label": "COD Return Rate (%)",
+        "placeholder": "15"
+      }
     },
     "buttons": {
       "calculate": "Calculate Profit",
@@ -1574,15 +1876,50 @@
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Car Purchase Details",
-      "purchasePrice": { "label": "Car Purchase Price (SAR)", "placeholder": "e.g., 50000" },
-      "carAge": { "label": "Car Age (Years)", "placeholder": "e.g., 5" },
-      "engineCapacity": { "label": "Engine Capacity", "options": { "small": "Less than 1600cc", "medium": "1601cc to 2000cc", "large": "More than 2000cc" } },
-      "insuranceType": { "label": "Insurance Type", "options": { "thirdParty": "Third Party", "comprehensive": "Comprehensive" } },
-      "repairCost": { "label": "Estimated Repair Cost (SAR)", "placeholder": "e.g., 2000" },
-      "istimaraExpired": { "label": "Istimara is expired" },
-      "istimaraYears": { "label": "Istimara Renewal Period", "year": "Year", "years": "Years" }
+      "purchasePrice": {
+        "label": "Car Purchase Price (SAR)",
+        "placeholder": "e.g., 50000"
+      },
+      "carAge": {
+        "label": "Car Age (Years)",
+        "placeholder": "e.g., 5"
+      },
+      "engineCapacity": {
+        "label": "Engine Capacity",
+        "options": {
+          "small": "Less than 1600cc",
+          "medium": "1601cc to 2000cc",
+          "large": "More than 2000cc"
+        }
+      },
+      "insuranceType": {
+        "label": "Insurance Type",
+        "options": {
+          "thirdParty": "Third Party",
+          "comprehensive": "Comprehensive"
+        }
+      },
+      "repairCost": {
+        "label": "Estimated Repair Cost (SAR)",
+        "placeholder": "e.g., 2000"
+      },
+      "istimaraExpired": {
+        "label": "Istimara is expired"
+      },
+      "istimaraYears": {
+        "label": "Istimara Renewal Period",
+        "year": "Year",
+        "years": "Years"
+      }
     },
-    "buttons": { "calculate": "Calculate Total Cost", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "buttons": {
+      "calculate": "Calculate Total Cost",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
     "results": {
       "totalFinalPrice": "Total Final Price",
       "totalHiddenCosts": "Total Hidden Costs",
@@ -1601,7 +1938,10 @@
     "emptyState": "Enter the car details above to calculate the total cost including all hidden fees.",
     "copiedResult": "Used Car Cost: {total} SAR total | Hidden: {hidden} SAR (via Sauditoolhub)",
     "disclaimer": "This is an estimate based on Saudi Traffic Department (Moroor) fees, insurance market rates, and assumed repair costs. Actual costs may vary. Always verify transfer fees with the traffic office and obtain multiple insurance quotes. This is not financial or legal advice.",
-    "errors": { "priceRequired": "Enter a valid purchase price.", "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "priceRequired": "Enter a valid purchase price.",
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Use the Used Car Cost Calculator",
@@ -1722,7 +2062,9 @@
     "emptyState": "Add traffic violations above to see the total fine amount, black points, and any warnings.",
     "copiedResult": "Traffic Fine Total: {total} SAR | Black Points: {points} (via Sauditoolhub)",
     "disclaimer": "This is an estimate based on published Saudi Traffic Department (Moroor) fine schedules. Actual fines may vary based on court discretion and specific circumstances. Always check Absher for your official fine status. This is not legal advice.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Use the Traffic Fine (Saher) Calculator",
@@ -1796,7 +2138,14 @@
       "industrial": "Industrial",
       "government": "Government"
     },
-    "buttons": { "calculate": "Calculate Bill", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "buttons": {
+      "calculate": "Calculate Bill",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
     "results": {
       "totalBill": "Estimated Total Bill (incl. VAT)",
       "beforeVat": "Before VAT",
@@ -1814,7 +2163,9 @@
     "emptyState": "Enter your monthly kWh consumption and account type to estimate your SEC bill with tiered rates and VAT.",
     "copiedResult": "SEC Bill: {total} SAR total for {consumption} kWh (via Sauditoolhub)",
     "disclaimer": "This is an estimate based on the published SEC tariff schedule. Actual bills may vary based on current rates, fuel surcharges, and other adjustments. Always check your official SEC bill for the exact amount. This is not financial advice.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Use the SEC Bill Estimator",
@@ -1899,7 +2250,9 @@
     "copiedTotal": "Total",
     "copiedVia": "via Sauditoolhub",
     "disclaimer": "This calculator provides estimates for splitting bills. Ensure all roommates agree on the share percentages before using the results for payment. This is not legally binding.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Use the Bill Splitter Calculator",
@@ -1975,7 +2328,14 @@
       "95": "Gasoline 95",
       "diesel": "Diesel"
     },
-    "buttons": { "calculate": "Calculate Fuel Cost", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "buttons": {
+      "calculate": "Calculate Fuel Cost",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
     "results": {
       "monthlyCost": "Monthly Fuel Cost",
       "costPerTrip": "Cost per Trip",
@@ -1993,7 +2353,9 @@
     "emptyState": "Enter your trip distance, fuel efficiency, and fuel type to calculate your fuel costs.",
     "copiedResult": "Fuel Cost: {monthly} SAR/month | {trip} SAR/trip (via Sauditoolhub)",
     "disclaimer": "This is an estimate based on current fuel prices in Saudi Arabia. Actual fuel consumption may vary based on driving conditions, traffic, AC usage, and vehicle maintenance. Prices are subject to change. This is not financial advice.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Use the Fuel Cost & Mileage Calculator",
@@ -2065,13 +2427,33 @@
       "paysSeller": "Seller",
       "paysSplit": "Split 50-50"
     },
-    "buttons": { "calculate": "Calculate", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
-    "results": { "rettAmount": "RETT Tax (5%)", "agentFee": "Agent Commission", "buyerTotal": "Buyer Total Cost" },
-    "breakdown": { "title": "Transaction Breakdown", "salePrice": "Sale Price", "rett": "RETT (5%)", "agentFee": "Agent Commission", "buyerTotal": "Buyer Total Cost", "sellerNet": "Seller Net Amount" },
+    "buttons": {
+      "calculate": "Calculate",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "rettAmount": "RETT Tax (5%)",
+      "agentFee": "Agent Commission",
+      "buyerTotal": "Buyer Total Cost"
+    },
+    "breakdown": {
+      "title": "Transaction Breakdown",
+      "salePrice": "Sale Price",
+      "rett": "RETT (5%)",
+      "agentFee": "Agent Commission",
+      "buyerTotal": "Buyer Total Cost",
+      "sellerNet": "Seller Net Amount"
+    },
     "emptyState": "Enter the property sale price and transaction details to calculate RETT tax and agent commission.",
     "copiedResult": "RETT: {rett} SAR | Buyer Total: {total} SAR (via Sauditoolhub)",
     "disclaimer": "This is an estimate based on the 5% RETT rate in Saudi Arabia. Actual costs may vary based on exemptions, negotiations, and additional fees. Always consult a real estate professional. This is not financial or legal advice.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
       "howToUse": {
         "title": "How to Use the RETT Tax & Agent Commission Splitter",
@@ -2096,12 +2478,18 @@
         "title": "Frequently Asked Questions About RETT in Saudi Arabia",
         "q1": "What is RETT in Saudi Arabia?",
         "a1": "RETT (رسوم التصرفات العقارية) is a 5% tax on real estate transactions paid by the buyer on the property sale price.",
-        "q2": "Who pays the RETT tax?", "a2": "The buyer pays the 5% RETT. The seller does not pay this tax.",
-        "q3": "What is the standard agent commission?", "a3": "Typically 2.5% of the sale price. The seller usually pays, but it can be negotiated.",
-        "q4": "Are there RETT exemptions?", "a4": "Yes, exemptions include charitable endowments, government entities, inheritance, and spousal transfers.",
-        "q5": "How do I pay RETT?", "a5": "Through the White Deed (Sak) platform or Ministry of Justice real estate registration system.",
-        "q6": "Does RETT apply to off-plan properties?", "a6": "Yes, RETT applies to off-plan properties at the time of sales agreement registration.",
-        "q7": "What is the buyer's total cost?", "a7": "Sale Price + 5% RETT + Agent Commission (if applicable) + other fees."
+        "q2": "Who pays the RETT tax?",
+        "a2": "The buyer pays the 5% RETT. The seller does not pay this tax.",
+        "q3": "What is the standard agent commission?",
+        "a3": "Typically 2.5% of the sale price. The seller usually pays, but it can be negotiated.",
+        "q4": "Are there RETT exemptions?",
+        "a4": "Yes, exemptions include charitable endowments, government entities, inheritance, and spousal transfers.",
+        "q5": "How do I pay RETT?",
+        "a5": "Through the White Deed (Sak) platform or Ministry of Justice real estate registration system.",
+        "q6": "Does RETT apply to off-plan properties?",
+        "a6": "Yes, RETT applies to off-plan properties at the time of sales agreement registration.",
+        "q7": "What is the buyer's total cost?",
+        "a7": "Sale Price + 5% RETT + Agent Commission (if applicable) + other fees."
       },
       "relatedTools": {
         "title": "Related Real Estate Tools",
@@ -2134,18 +2522,87 @@
       "repairCostsLabel": "Repair Costs (SAR)",
       "damageDeductionLabel": "Damage Deduction"
     },
-    "buttons": { "calculate": "Calculate", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
-    "results": { "refundAmount": "Estimated Refund", "depositAmount": "Total Deposit", "totalDeductions": "Total Deductions" },
-    "breakdown": { "title": "Deposit Breakdown", "depositAmount": "Initial Deposit", "cleaningFee": "Cleaning Fee", "repairCosts": "Repair Costs", "damageDeduction": "Damage Deduction", "totalDeductions": "Total Deductions", "refundAmount": "Refund Amount", "refundRate": "Refund Rate" },
+    "buttons": {
+      "calculate": "Calculate",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "refundAmount": "Estimated Refund",
+      "depositAmount": "Total Deposit",
+      "totalDeductions": "Total Deductions"
+    },
+    "breakdown": {
+      "title": "Deposit Breakdown",
+      "depositAmount": "Initial Deposit",
+      "cleaningFee": "Cleaning Fee",
+      "repairCosts": "Repair Costs",
+      "damageDeduction": "Damage Deduction",
+      "totalDeductions": "Total Deductions",
+      "refundAmount": "Refund Amount",
+      "refundRate": "Refund Rate"
+    },
     "emptyState": "Enter your monthly rent and tenancy details to estimate your Ejar deposit refund.",
     "copiedResult": "Deposit Refund: {refund} SAR | Total Deposit: {deposit} SAR (via Sauditoolhub)",
     "disclaimer": "This is an estimate based on typical Ejar tenancy practices in Saudi Arabia. Actual refund amount depends on the property condition and landlord assessment.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
-      "howToUse": { "title": "How to Use the Ejar Deposit Refund Estimator", "step1Title": "Step 1: Enter Monthly Rent", "step1Desc": "Enter your monthly rent amount in SAR.", "step2Title": "Step 2: Select Deposit Months", "step2Desc": "Select how many months of rent you paid as deposit.", "step3Title": "Step 3: Enter Years Stayed", "step3Desc": "Enter how many years you lived in the property.", "step4Title": "Step 4: Estimate Deductions", "step4Desc": "Enter estimated cleaning fee, repair costs, and damage deduction percentage.", "step5Title": "Step 5: Review Refund", "step5Desc": "The calculator shows your estimated refund after all deductions." },
-      "understandingResults": { "title": "Understanding Ejar Deposit Refunds in Saudi Arabia", "content": "When renting in Saudi Arabia, tenants pay a refundable security deposit through the Ejar system. At move-out:\n\n1. The deposit (typically 1-3 months' rent) should be returned.\n2. Landlords may deduct for damages beyond normal wear and tear.\n3. Cleaning and minor repairs may also be deducted.", "exampleTitle": "Real Example", "example": "Apartment in Jeddah: SAR 2,500/month rent, 2 months deposit (SAR 5,000), stayed 3 years.\n\nEstimated deductions:\n- Cleaning: SAR 300\n- Repairs: SAR 500\n- Damage: 5% of deposit = SAR 250\n\nRefund: SAR 5,000 - 1,050 = SAR 3,950 (79% refund rate)" },
-      "faq": { "title": "FAQ About Ejar Deposit Refunds", "q1": "How is the Ejar deposit calculated?", "a1": "Typically 1-3 months of rent, held by the landlord through the Ejar platform.", "q2": "Can a landlord keep the deposit?", "a2": "Yes, for damages beyond wear and tear, unpaid bills, or excessive cleaning needs.", "q3": "How long does a refund take?", "a3": "Usually 14-30 days after move-out.", "q4": "Can I dispute deductions?", "a4": "Yes, through the Rental Disputes Committee with evidence of property condition.", "q5": "What is normal wear and tear?", "a5": "Faded paint, minor scuffs, worn carpet — cannot be deducted.", "q6": "Is cleaning fee mandatory?", "a6": "No, but reasonable cleaning costs can be deducted if property is left unclean.", "q7": "What is the maximum deposit?", "a7": "No strict limit, but typically 1-3 months; luxury may go up to 6." },
-      "relatedTools": { "title": "Related Real Estate Tools", "tool1Name": "RETT Tax Splitter", "tool1Desc": "Calculate 5% real estate transaction tax and agent commission.", "tool1Href": "/rett-tax-calculator", "tool2Name": "Mortgage vs Rent", "tool2Desc": "Compare buying costs vs renting.", "tool2Href": "/mortgage-vs-rent", "tool3Name": "Property Valuation", "tool3Desc": "Estimate your property's market value.", "tool3Href": "/property-valuation", "tool4Name": "Used Car Cost", "tool4Desc": "Calculate used car buying cost.", "tool4Href": "/used-car-calculator" },
+      "howToUse": {
+        "title": "How to Use the Ejar Deposit Refund Estimator",
+        "step1Title": "Step 1: Enter Monthly Rent",
+        "step1Desc": "Enter your monthly rent amount in SAR.",
+        "step2Title": "Step 2: Select Deposit Months",
+        "step2Desc": "Select how many months of rent you paid as deposit.",
+        "step3Title": "Step 3: Enter Years Stayed",
+        "step3Desc": "Enter how many years you lived in the property.",
+        "step4Title": "Step 4: Estimate Deductions",
+        "step4Desc": "Enter estimated cleaning fee, repair costs, and damage deduction percentage.",
+        "step5Title": "Step 5: Review Refund",
+        "step5Desc": "The calculator shows your estimated refund after all deductions."
+      },
+      "understandingResults": {
+        "title": "Understanding Ejar Deposit Refunds in Saudi Arabia",
+        "content": "When renting in Saudi Arabia, tenants pay a refundable security deposit through the Ejar system. At move-out:\n\n1. The deposit (typically 1-3 months' rent) should be returned.\n2. Landlords may deduct for damages beyond normal wear and tear.\n3. Cleaning and minor repairs may also be deducted.",
+        "exampleTitle": "Real Example",
+        "example": "Apartment in Jeddah: SAR 2,500/month rent, 2 months deposit (SAR 5,000), stayed 3 years.\n\nEstimated deductions:\n- Cleaning: SAR 300\n- Repairs: SAR 500\n- Damage: 5% of deposit = SAR 250\n\nRefund: SAR 5,000 - 1,050 = SAR 3,950 (79% refund rate)"
+      },
+      "faq": {
+        "title": "FAQ About Ejar Deposit Refunds",
+        "q1": "How is the Ejar deposit calculated?",
+        "a1": "Typically 1-3 months of rent, held by the landlord through the Ejar platform.",
+        "q2": "Can a landlord keep the deposit?",
+        "a2": "Yes, for damages beyond wear and tear, unpaid bills, or excessive cleaning needs.",
+        "q3": "How long does a refund take?",
+        "a3": "Usually 14-30 days after move-out.",
+        "q4": "Can I dispute deductions?",
+        "a4": "Yes, through the Rental Disputes Committee with evidence of property condition.",
+        "q5": "What is normal wear and tear?",
+        "a5": "Faded paint, minor scuffs, worn carpet — cannot be deducted.",
+        "q6": "Is cleaning fee mandatory?",
+        "a6": "No, but reasonable cleaning costs can be deducted if property is left unclean.",
+        "q7": "What is the maximum deposit?",
+        "a7": "No strict limit, but typically 1-3 months; luxury may go up to 6."
+      },
+      "relatedTools": {
+        "title": "Related Real Estate Tools",
+        "tool1Name": "RETT Tax Splitter",
+        "tool1Desc": "Calculate 5% real estate transaction tax and agent commission.",
+        "tool1Href": "/rett-tax-calculator",
+        "tool2Name": "Mortgage vs Rent",
+        "tool2Desc": "Compare buying costs vs renting.",
+        "tool2Href": "/mortgage-vs-rent",
+        "tool3Name": "Property Valuation",
+        "tool3Desc": "Estimate your property's market value.",
+        "tool3Href": "/property-valuation",
+        "tool4Name": "Used Car Cost",
+        "tool4Desc": "Calculate used car buying cost.",
+        "tool4Href": "/used-car-calculator"
+      },
       "disclaimer": "This is an estimate. Actual refund depends on property condition and landlord assessment."
     }
   },
@@ -2163,22 +2620,88 @@
       "yearsToCompareLabel": "Years to Compare",
       "years": "years"
     },
-    "buttons": { "calculate": "Compare", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print", "showBreakdown": "Show Yearly Breakdown", "hideBreakdown": "Hide Yearly Breakdown" },
+    "buttons": {
+      "calculate": "Compare",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print",
+      "showBreakdown": "Show Yearly Breakdown",
+      "hideBreakdown": "Hide Yearly Breakdown"
+    },
     "results": {
-      "monthlyPayment": "Monthly Mortgage Payment", "totalBuyCost": "Total Cost of Buying", "totalRentCost": "Total Cost of Renting",
-      "downPayment": "Down Payment", "totalInterest": "Total Interest Paid", "breakdownTitle": "Cost Summary",
-      "buyRecommend": "✅ Buying is more cost-effective over this period", "rentRecommend": "✅ Renting is more cost-effective over this period",
-      "yearlyTable": "Year-by-Year Comparison", "yearLabel": "Year {year}", "buyLabel": "Buy", "rentLabel": "Rent"
+      "monthlyPayment": "Monthly Mortgage Payment",
+      "totalBuyCost": "Total Cost of Buying",
+      "totalRentCost": "Total Cost of Renting",
+      "downPayment": "Down Payment",
+      "totalInterest": "Total Interest Paid",
+      "breakdownTitle": "Cost Summary",
+      "buyRecommend": "✅ Buying is more cost-effective over this period",
+      "rentRecommend": "✅ Renting is more cost-effective over this period",
+      "yearlyTable": "Year-by-Year Comparison",
+      "yearLabel": "Year {year}",
+      "buyLabel": "Buy",
+      "rentLabel": "Rent"
     },
     "emptyState": "Enter property value, mortgage details, and rent to compare buying vs renting.",
     "copiedResult": "Mortgage: {monthly} SAR/mo | Buy Total: {buy} SAR | Rent Total: {rent} SAR (via Sauditoolhub)",
     "disclaimer": "This is a simplified comparison. Does not include property appreciation, maintenance costs, or tax implications. Consult a financial advisor.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
-      "howToUse": { "title": "How to Use the Mortgage vs Rent Calculator", "step1Title": "Step 1: Enter Property Value", "step1Desc": "Enter the market value of the property you are considering in SAR.", "step2Title": "Step 2: Set Mortgage Details", "step2Desc": "Enter down payment percentage, interest rate, and loan tenure.", "step3Title": "Step 3: Enter Monthly Rent", "step3Desc": "Enter the monthly rent for a comparable property.", "step4Title": "Step 4: Choose Comparison Period", "step4Desc": "Enter how many years you want to compare.", "step5Title": "Step 5: Review Results", "step5Desc": "Compare total costs and see which option is better for you." },
-      "understandingResults": { "title": "Understanding Mortgage vs Rent Comparison in Saudi Arabia", "content": "Deciding whether to buy or rent in Saudi Arabia requires careful financial analysis:\n\n1. Buying costs: Down payment + monthly mortgage payments + 5% RETT + agent commission + maintenance.\n2. Renting costs: Monthly rent (no upfront large investment but no equity building).\n3. The break-even point is typically 5-7 years in Saudi Arabia.", "exampleTitle": "Real Example", "example": "Property in Riyadh: SAR 1,000,000, 20% down (SAR 200,000), 3.5% interest, 25-year loan.\nRent: SAR 4,000/month.\n\nMonthly mortgage: ~SAR 4,005\nOver 10 years:\n- Total buy cost: ~SAR 680,580\n- Total rent cost: ~SAR 480,000\n\nBuying costs more monthly but builds equity over time." },
-      "faq": { "title": "FAQ About Mortgage vs Rent in Saudi Arabia", "q1": "Is buying cheaper than renting in Saudi Arabia?", "a1": "Over 5+ years, buying is often cheaper due to equity building and property appreciation.", "q2": "What is the current mortgage rate?", "a2": "Typically 3-5% depending on credit score, income, and bank.", "q3": "What is the minimum down payment?", "a3": "5% for first-time Saudi buyers via Sakani; 20-30% for expats.", "q4": "Can expats get mortgages?", "a4": "Yes, with higher down payment (20-30%) and shorter tenure.", "q5": "What other costs come with buying?", "a5": "RETT (5%), agent commission (2.5%), valuation, registration fees.", "q6": "How many years should I compare?", "a6": "At least 5-10 years for meaningful comparison.", "q7": "What is the Sakani program?", "a7": "A Saudi government program offering subsidized mortgages for first-time buyers." },
-      "relatedTools": { "title": "Related Real Estate Tools", "tool1Name": "RETT Tax Splitter", "tool1Desc": "Calculate 5% real estate transaction tax.", "tool1Href": "/rett-tax-calculator", "tool2Name": "Ejar Deposit Estimator", "tool2Desc": "Estimate your deposit refund.", "tool2Href": "/ejar-deposit-calculator", "tool3Name": "Property Valuation", "tool3Desc": "Estimate market value.", "tool3Href": "/property-valuation", "tool4Name": "SAMA Loan Calculator", "tool4Desc": "Calculate loan eligibility.", "tool4Href": "/sama-loan-calculator" },
+      "howToUse": {
+        "title": "How to Use the Mortgage vs Rent Calculator",
+        "step1Title": "Step 1: Enter Property Value",
+        "step1Desc": "Enter the market value of the property you are considering in SAR.",
+        "step2Title": "Step 2: Set Mortgage Details",
+        "step2Desc": "Enter down payment percentage, interest rate, and loan tenure.",
+        "step3Title": "Step 3: Enter Monthly Rent",
+        "step3Desc": "Enter the monthly rent for a comparable property.",
+        "step4Title": "Step 4: Choose Comparison Period",
+        "step4Desc": "Enter how many years you want to compare.",
+        "step5Title": "Step 5: Review Results",
+        "step5Desc": "Compare total costs and see which option is better for you."
+      },
+      "understandingResults": {
+        "title": "Understanding Mortgage vs Rent Comparison in Saudi Arabia",
+        "content": "Deciding whether to buy or rent in Saudi Arabia requires careful financial analysis:\n\n1. Buying costs: Down payment + monthly mortgage payments + 5% RETT + agent commission + maintenance.\n2. Renting costs: Monthly rent (no upfront large investment but no equity building).\n3. The break-even point is typically 5-7 years in Saudi Arabia.",
+        "exampleTitle": "Real Example",
+        "example": "Property in Riyadh: SAR 1,000,000, 20% down (SAR 200,000), 3.5% interest, 25-year loan.\nRent: SAR 4,000/month.\n\nMonthly mortgage: ~SAR 4,005\nOver 10 years:\n- Total buy cost: ~SAR 680,580\n- Total rent cost: ~SAR 480,000\n\nBuying costs more monthly but builds equity over time."
+      },
+      "faq": {
+        "title": "FAQ About Mortgage vs Rent in Saudi Arabia",
+        "q1": "Is buying cheaper than renting in Saudi Arabia?",
+        "a1": "Over 5+ years, buying is often cheaper due to equity building and property appreciation.",
+        "q2": "What is the current mortgage rate?",
+        "a2": "Typically 3-5% depending on credit score, income, and bank.",
+        "q3": "What is the minimum down payment?",
+        "a3": "5% for first-time Saudi buyers via Sakani; 20-30% for expats.",
+        "q4": "Can expats get mortgages?",
+        "a4": "Yes, with higher down payment (20-30%) and shorter tenure.",
+        "q5": "What other costs come with buying?",
+        "a5": "RETT (5%), agent commission (2.5%), valuation, registration fees.",
+        "q6": "How many years should I compare?",
+        "a6": "At least 5-10 years for meaningful comparison.",
+        "q7": "What is the Sakani program?",
+        "a7": "A Saudi government program offering subsidized mortgages for first-time buyers."
+      },
+      "relatedTools": {
+        "title": "Related Real Estate Tools",
+        "tool1Name": "RETT Tax Splitter",
+        "tool1Desc": "Calculate 5% real estate transaction tax.",
+        "tool1Href": "/rett-tax-calculator",
+        "tool2Name": "Ejar Deposit Estimator",
+        "tool2Desc": "Estimate your deposit refund.",
+        "tool2Href": "/ejar-deposit-calculator",
+        "tool3Name": "Property Valuation",
+        "tool3Desc": "Estimate market value.",
+        "tool3Href": "/property-valuation",
+        "tool4Name": "SAMA Loan Calculator",
+        "tool4Desc": "Calculate loan eligibility.",
+        "tool4Href": "/sama-loan-calculator"
+      },
       "disclaimer": "This is a simplified comparison. Consult a financial advisor."
     }
   },
@@ -2189,29 +2712,122 @@
     "form": {
       "title": "Property Details",
       "propertyTypeLabel": "Property Type",
-      "types": { "apartment": "Apartment", "villa": "Villa", "land": "Land", "commercial": "Commercial" },
+      "types": {
+        "apartment": "Apartment",
+        "villa": "Villa",
+        "land": "Land",
+        "commercial": "Commercial"
+      },
       "cityLabel": "City",
       "areaSqmLabel": "Area (sqm)",
       "ageLabel": "Age (years)",
       "roomsLabel": "Number of Rooms",
       "finishingLabel": "Finishing Quality",
-      "finishings": { "standard": "Standard", "good": "Good", "excellent": "Excellent", "luxury": "Luxury" },
+      "finishings": {
+        "standard": "Standard",
+        "good": "Good",
+        "excellent": "Excellent",
+        "luxury": "Luxury"
+      },
       "parkingLabel": "Has Parking",
       "centralAcLabel": "Central AC"
     },
-    "cities": { "riyadh": "Riyadh", "jeddah": "Jeddah", "dammam": "Dammam", "makkah": "Makkah", "madinah": "Madinah", "other": "Other City" },
-    "buttons": { "calculate": "Estimate Value", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
-    "results": { "estimatedValue": "Estimated Value", "valuePerSqm": "Price per Sqm", "range": "Value Range" },
-    "breakdown": { "title": "Valuation Breakdown", "propertyType": "Property Type", "city": "City", "areaSqm": "Area", "ratePerSqm": "Rate / Sqm", "baseValue": "Base Value", "depreciation": "Age Depreciation", "finishing": "Finishing Factor", "roomBonus": "Room Bonus", "estimatedValue": "Estimated Value", "valuePerSqm": "Value / Sqm", "typeApartment": "Apartment", "typeVilla": "Villa", "typeLand": "Land", "typeCommercial": "Commercial" },
+    "cities": {
+      "riyadh": "Riyadh",
+      "jeddah": "Jeddah",
+      "dammam": "Dammam",
+      "makkah": "Makkah",
+      "madinah": "Madinah",
+      "other": "Other City"
+    },
+    "buttons": {
+      "calculate": "Estimate Value",
+      "calculating": "Calculating...",
+      "reset": "Reset",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "print": "Print"
+    },
+    "results": {
+      "estimatedValue": "Estimated Value",
+      "valuePerSqm": "Price per Sqm",
+      "range": "Value Range"
+    },
+    "breakdown": {
+      "title": "Valuation Breakdown",
+      "propertyType": "Property Type",
+      "city": "City",
+      "areaSqm": "Area",
+      "ratePerSqm": "Rate / Sqm",
+      "baseValue": "Base Value",
+      "depreciation": "Age Depreciation",
+      "finishing": "Finishing Factor",
+      "roomBonus": "Room Bonus",
+      "estimatedValue": "Estimated Value",
+      "valuePerSqm": "Value / Sqm",
+      "typeApartment": "Apartment",
+      "typeVilla": "Villa",
+      "typeLand": "Land",
+      "typeCommercial": "Commercial"
+    },
     "emptyState": "Enter your property details to estimate its market value in Saudi Arabia.",
     "copiedResult": "Estimated Property Value: {value} SAR (via Sauditoolhub)",
     "disclaimer": "This is a market estimate for reference only. For official Sak (White Deed) valuation, use an accredited TAQEEM valuer.",
-    "errors": { "generic": "Something went wrong. Please try again." },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    },
     "seo": {
-      "howToUse": { "title": "How to Use the Sak Property Valuation Tool", "step1Title": "Step 1: Select Property Type", "step1Desc": "Choose between apartment, villa, land, or commercial.", "step2Title": "Step 2: Choose City", "step2Desc": "Select the city where the property is located.", "step3Title": "Step 3: Enter Size Details", "step3Desc": "Enter the total area in square meters and the number of rooms.", "step4Title": "Step 4: Set Condition", "step4Desc": "Enter the property age and finishing quality.", "step5Title": "Step 5: Get Estimate", "step5Desc": "See the estimated market value with a full breakdown." },
-      "understandingResults": { "title": "Understanding Property Valuation in Saudi Arabia", "content": "Property valuation in Saudi Arabia depends on several factors:\n\n1. Location: Riyadh, Jeddah, Makkah command highest prices.\n2. Property type: Commercial and apartment rates differ significantly.\n3. Area size: Larger properties get slight per-sqm discounts.\n4. Age: 1% annual depreciation, capped at 30%.\n5. Finishing: Good finishes add 10%, luxury adds up to 50%.", "exampleTitle": "Real Example", "example": "Apartment in Riyadh: 150 sqm, 5 years old, 3 rooms, good finishing.\n\nBase rate: 4,500 SAR/sqm\nBase value: 150 × 4,500 = 675,000 SAR\nDepreciation: -5% = 641,250\nFinishing (Good): ×1.1 = 705,375\nRoom bonus (3 rooms): +5% = 740,644\n\nEstimated value: ~741,000 SAR\nValue range: 667,000 - 815,000 SAR" },
-      "faq": { "title": "FAQ About Property Valuation in Saudi Arabia", "q1": "How is property value calculated?", "a1": "Using market-based rates per sqm adjusted for location, type, age, finishing, and amenities.", "q2": "What is the average price per sqm in Riyadh?", "a2": "SAR 3,800-4,500/sqm depending on property type and location.", "q3": "How does age affect value?", "a3": "1% depreciation per year, capped at 30% maximum.", "q4": "Can I use this for Sak registration?", "a4": "No, use an accredited valuer from TAQEEM for official purposes.", "q5": "Which city has highest property prices?", "a5": "Makkah leads, followed by Riyadh and Jeddah.", "q6": "How do amenities affect value?", "a6": "Parking +3%, central AC +2%, pool/gym add 5-15%.", "q7": "What finishing adds most value?", "a7": "Luxury finishing adds up to 50% premium over standard." },
-      "relatedTools": { "title": "Related Real Estate Tools", "tool1Name": "RETT Tax Splitter", "tool1Desc": "Calculate 5% transaction tax.", "tool1Href": "/rett-tax-calculator", "tool2Name": "Mortgage vs Rent", "tool2Desc": "Compare buy vs rent.", "tool2Href": "/mortgage-vs-rent", "tool3Name": "Ejar Deposit Estimator", "tool3Desc": "Estimate deposit refund.", "tool3Href": "/ejar-deposit-calculator", "tool4Name": "Used Car Cost", "tool4Desc": "Calculate used car cost.", "tool4Href": "/used-car-calculator" },
+      "howToUse": {
+        "title": "How to Use the Sak Property Valuation Tool",
+        "step1Title": "Step 1: Select Property Type",
+        "step1Desc": "Choose between apartment, villa, land, or commercial.",
+        "step2Title": "Step 2: Choose City",
+        "step2Desc": "Select the city where the property is located.",
+        "step3Title": "Step 3: Enter Size Details",
+        "step3Desc": "Enter the total area in square meters and the number of rooms.",
+        "step4Title": "Step 4: Set Condition",
+        "step4Desc": "Enter the property age and finishing quality.",
+        "step5Title": "Step 5: Get Estimate",
+        "step5Desc": "See the estimated market value with a full breakdown."
+      },
+      "understandingResults": {
+        "title": "Understanding Property Valuation in Saudi Arabia",
+        "content": "Property valuation in Saudi Arabia depends on several factors:\n\n1. Location: Riyadh, Jeddah, Makkah command highest prices.\n2. Property type: Commercial and apartment rates differ significantly.\n3. Area size: Larger properties get slight per-sqm discounts.\n4. Age: 1% annual depreciation, capped at 30%.\n5. Finishing: Good finishes add 10%, luxury adds up to 50%.",
+        "exampleTitle": "Real Example",
+        "example": "Apartment in Riyadh: 150 sqm, 5 years old, 3 rooms, good finishing.\n\nBase rate: 4,500 SAR/sqm\nBase value: 150 × 4,500 = 675,000 SAR\nDepreciation: -5% = 641,250\nFinishing (Good): ×1.1 = 705,375\nRoom bonus (3 rooms): +5% = 740,644\n\nEstimated value: ~741,000 SAR\nValue range: 667,000 - 815,000 SAR"
+      },
+      "faq": {
+        "title": "FAQ About Property Valuation in Saudi Arabia",
+        "q1": "How is property value calculated?",
+        "a1": "Using market-based rates per sqm adjusted for location, type, age, finishing, and amenities.",
+        "q2": "What is the average price per sqm in Riyadh?",
+        "a2": "SAR 3,800-4,500/sqm depending on property type and location.",
+        "q3": "How does age affect value?",
+        "a3": "1% depreciation per year, capped at 30% maximum.",
+        "q4": "Can I use this for Sak registration?",
+        "a4": "No, use an accredited valuer from TAQEEM for official purposes.",
+        "q5": "Which city has highest property prices?",
+        "a5": "Makkah leads, followed by Riyadh and Jeddah.",
+        "q6": "How do amenities affect value?",
+        "a6": "Parking +3%, central AC +2%, pool/gym add 5-15%.",
+        "q7": "What finishing adds most value?",
+        "a7": "Luxury finishing adds up to 50% premium over standard."
+      },
+      "relatedTools": {
+        "title": "Related Real Estate Tools",
+        "tool1Name": "RETT Tax Splitter",
+        "tool1Desc": "Calculate 5% transaction tax.",
+        "tool1Href": "/rett-tax-calculator",
+        "tool2Name": "Mortgage vs Rent",
+        "tool2Desc": "Compare buy vs rent.",
+        "tool2Href": "/mortgage-vs-rent",
+        "tool3Name": "Ejar Deposit Estimator",
+        "tool3Desc": "Estimate deposit refund.",
+        "tool3Href": "/ejar-deposit-calculator",
+        "tool4Name": "Used Car Cost",
+        "tool4Desc": "Calculate used car cost.",
+        "tool4Href": "/used-car-calculator"
+      },
       "disclaimer": "This is a market estimate. Not an official valuation."
     }
   },
@@ -2250,7 +2866,7 @@
       "disclaimer": "Disclaimer",
       "blog": "Blog"
     },
-    "copyright": "\u00a9 {year} Sauditoolhub. All rights reserved.",
+    "copyright": "© {year} Sauditoolhub. All rights reserved.",
     "disclaimerText": "This is an informational tool only. Not legal or financial advice."
   },
   "HomePage": {
@@ -2274,11 +2890,26 @@
     "categories": {
       "title": "All Tools by Category",
       "subtitle": "Choose a category below to find the tool you need",
-      "expat": { "name": "Expat & Visa Life", "desc": "EOSB, Jawazat fines, family visas, and settlement calculators" },
-      "business": { "name": "Business & HR", "desc": "ZATCA, Nitaqat, freelancing, and business registration tools" },
-      "finance": { "name": "Finance & Banking", "desc": "Loan eligibility, Zakat, IBAN validation, and investment returns" },
-      "auto": { "name": "Auto & Daily Life", "desc": "Traffic fines, electricity bills, fuel costs, and bill splitting" },
-      "realEstate": { "name": "Real Estate", "desc": "RETT tax, Ejar deposits, mortgage vs rent, and property valuation" }
+      "expat": {
+        "name": "Expat & Visa Life",
+        "desc": "EOSB, Jawazat fines, family visas, and settlement calculators"
+      },
+      "business": {
+        "name": "Business & HR",
+        "desc": "ZATCA, Nitaqat, freelancing, and business registration tools"
+      },
+      "finance": {
+        "name": "Finance & Banking",
+        "desc": "Loan eligibility, Zakat, IBAN validation, and investment returns"
+      },
+      "auto": {
+        "name": "Auto & Daily Life",
+        "desc": "Traffic fines, electricity bills, fuel costs, and bill splitting"
+      },
+      "realEstate": {
+        "name": "Real Estate",
+        "desc": "RETT tax, Ejar deposits, mortgage vs rent, and property valuation"
+      }
     },
     "toolNames": {
       "eosb": "EOSB Calculator",
@@ -2311,10 +2942,22 @@
     "whyChooseUs": {
       "title": "Why Sauditoolhub?",
       "cards": {
-        "privacy": { "title": "100% Private", "desc": "All calculations happen in your browser. Zero data stored on our servers." },
-        "instant": { "title": "Instant Results", "desc": "No waiting. No signup. Just input your numbers and get results immediately." },
-        "languages": { "title": "5 Languages", "desc": "Available in English, العربية, اردو, Tagalog, and বাংলা." },
-        "accurate": { "title": "Always Accurate", "desc": "Based on official Saudi laws, regulations, and published fee structures." }
+        "privacy": {
+          "title": "100% Private",
+          "desc": "All calculations happen in your browser. Zero data stored on our servers."
+        },
+        "instant": {
+          "title": "Instant Results",
+          "desc": "No waiting. No signup. Just input your numbers and get results immediately."
+        },
+        "languages": {
+          "title": "5 Languages",
+          "desc": "Available in English, العربية, اردو, Tagalog, and বাংলা."
+        },
+        "accurate": {
+          "title": "Always Accurate",
+          "desc": "Based on official Saudi laws, regulations, and published fee structures."
+        }
       }
     },
     "cta": {
@@ -2322,6 +2965,21 @@
       "subtitle": "Try our most popular tool — the EOSB Calculator. Free, instant, and private.",
       "button": "Calculate EOSB Now"
     }
+  },
+  "BlogPage": {
+    "title": "Blog",
+    "subtitle": "Saudi Arabia Financial Guides",
+    "searchPlaceholder": "Search articles...",
+    "readMore": "Read More",
+    "minRead": "min read",
+    "categories": {
+      "all": "All",
+      "expat": "Expat Guides",
+      "business": "Business & VAT",
+      "finance": "Finance",
+      "auto": "Auto & Traffic",
+      "realEstate": "Real Estate",
+      "lifestyle": "Lifestyle"
+    }
   }
 }
-
