@@ -55,6 +55,13 @@ export function Footer() {
 <p className="text-sm text-gray-400 leading-relaxed">
               {tf('tagline')}
             </p>
+            <Link
+              href="/blog"
+              className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors font-medium"
+            >
+              <span className="text-xs bg-desert-primary/20 text-desert-primary px-1.5 py-0.5 rounded font-bold uppercase tracking-wider">NEW</span>
+              {tf('links.blog')}
+            </Link>
             <div className="flex items-center gap-3">
               <a href="#" className="p-2 text-gray-400 hover:text-desert-primary transition-colors rounded-lg hover:bg-gray-800">
                 <Globe className="h-4 w-4" />
