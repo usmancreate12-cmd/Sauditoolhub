@@ -1,4 +1,4 @@
-﻿import type { Metadata } from 'next'
+import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import JsonLd, { BreadcrumbJsonLd } from '@/components/JsonLd'
 
@@ -15,25 +15,25 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
-  const t = await getTranslations({ locale, namespace: 'DisclaimerPage' })
+  const t = await getTranslations({ locale, namespace: 'TermsPage' })
   const isDefault = locale === 'en'
-  const pageUrl = isDefault ? `${baseUrl}/disclaimer` : `${baseUrl}/${locale}/disclaimer`
+  const pageUrl = isDefault ? `${baseUrl}/terms-of-service` : `${baseUrl}/${locale}/terms-of-service`
 
   const alternates: Record<string, string> = {}
   for (const l of locales) {
-    alternates[l] = l === 'en' ? `${baseUrl}/disclaimer` : `${baseUrl}/${l}/disclaimer`
+    alternates[l] = l === 'en' ? `${baseUrl}/terms-of-service` : `${baseUrl}/${l}/terms-of-service`
   }
 
   return {
     title: `${t('title')} — Sauditoolhub`,
-    description: t('content.notAdvice'),
+    description: t('content.acceptance'),
     alternates: {
       canonical: pageUrl,
       languages: alternates as Record<string, string>,
     },
     openGraph: {
       title: `${t('title')} — Sauditoolhub`,
-      description: t('content.notAdvice'),
+      description: t('content.acceptance'),
       url: pageUrl,
       siteName: 'Sauditoolhub',
       locale: locale === 'en' ? 'en_US' : locale === 'ar' ? 'ar_SA' : locale === 'ur' ? 'ur_PK' : locale,
@@ -42,26 +42,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: 'summary_large_image',
       title: `${t('title')} — Sauditoolhub`,
-      description: t('content.notAdvice'),
+      description: t('content.acceptance'),
     },
     robots: { index: true, follow: true },
   }
 }
 
-export default async function DisclaimerPage({ params }: Props) {
+export default async function TermsOfServicePage({ params }: Props) {
   const { locale } = await params
-  const t = await getTranslations('DisclaimerPage')
+  const t = await getTranslations('TermsPage')
   const isRtl = locale === 'ar' || locale === 'ur'
   const isDefault = locale === 'en'
-  const pageUrl = isDefault ? `${baseUrl}/disclaimer` : `${baseUrl}/${locale}/disclaimer`
+  const pageUrl = isDefault ? `${baseUrl}/terms-of-service` : `${baseUrl}/${locale}/terms-of-service`
 
-  const sections = ['notAdvice', 'noGuarantee', 'externalLinks']
+  const sections = ['acceptance', 'service', 'use', 'liability', 'changes']
 
   const webPageSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     name: `${t('title')} — Sauditoolhub`,
-    description: t('content.notAdvice'),
+    description: t('content.acceptance'),
     url: pageUrl,
     isPartOf: { '@type': 'WebSite', url: baseUrl },
     inLanguage: locale === 'en' ? 'en-US' : locale === 'ar' ? 'ar-SA' : locale === 'ur' ? 'ur-PK' : locale,

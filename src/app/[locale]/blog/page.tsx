@@ -51,20 +51,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-const blogPosts = articles.map(a => ({
-  title: a.title.en,
-  excerpt: a.description.en,
-  category: a.category,
-  href: `/guide/${a.slug}`,
-  date: a.date,
-  readTime: parseInt(a.readTime) || 10,
-}))
-
 export default async function BlogPage({ params }: Props) {
   const { locale } = await params
   const t = await getTranslations('BlogPage')
   const isRtl = locale === 'ar' || locale === 'ur'
   const pageUrl = locale === 'en' ? `${baseUrl}/blog` : `${baseUrl}/${locale}/blog`
+
+  const blogPosts = articles.map(a => {
+    const localizedTitle = a.title[locale as keyof typeof a.title] || a.title.en
+    const localizedDescription = a.description[locale as keyof typeof a.description] || a.description.en
+    return {
+      title: localizedTitle,
+      excerpt: localizedDescription,
+      category: a.category,
+      href: `/guide/${a.slug}`,
+      date: a.date,
+      readTime: parseInt(a.readTime) || 10,
+    }
+  })
 
   const webPageSchema = {
     '@context': 'https://schema.org',

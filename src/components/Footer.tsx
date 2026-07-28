@@ -96,9 +96,11 @@ export function Footer() {
             {tf('copyright', { year: new Date().getFullYear() })}
           </p>
           <div className="flex items-center gap-4 text-xs text-gray-500">
-            <Link href="/privacy" className="hover:text-desert-primary transition-colors">{tf('links.privacy')}</Link>
-            <Link href="/terms" className="hover:text-desert-primary transition-colors">{tf('links.terms')}</Link>
+            <Link href="/about" className="hover:text-desert-primary transition-colors">{tf('links.about')}</Link>
+            <Link href="/privacy-policy" className="hover:text-desert-primary transition-colors">{tf('links.privacy')}</Link>
+            <Link href="/terms-of-service" className="hover:text-desert-primary transition-colors">{tf('links.terms')}</Link>
             <Link href="/disclaimer" className="hover:text-desert-primary transition-colors">{tf('links.disclaimer')}</Link>
+            <Link href="/contact" className="hover:text-desert-primary transition-colors">{tf('links.contact')}</Link>
           </div>
           <p className="text-xs text-gray-500">
             {tf('disclaimerText')}

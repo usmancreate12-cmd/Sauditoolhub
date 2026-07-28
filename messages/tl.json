@@ -2864,7 +2864,9 @@
       "privacy": "Patakaran sa Privacy",
       "terms": "Mga Tuntunin ng Serbisyo",
       "disclaimer": "Pagtatanggi sa Pananagutan",
-      "blog": "Blog"
+      "blog": "Blog",
+      "about": "About Us",
+      "contact": "Contact Us"
     },
     "copyright": "© {year} Sauditoolhub. Lahat ng karapatan ay nakalaan.",
     "disclaimerText": "Ito ay isang informational tool lamang. Hindi legal o pinansyal na payo."
@@ -2981,5 +2983,101 @@
       "realEstate": "Real Estate",
       "lifestyle": "Lifestyle"
     }
+  },
+  "ContactPage": {
+    "title": "Makipag-ugnayan",
+    "subtitle": "Kumonekta sa Sauditoolhub team. Mag-report ng mga bug, humingi ng mga gabay, o magtanong tungkol sa mga financial tool sa Saudi Arabia.",
+    "nameLabel": "Iyong Pangalan",
+    "namePlaceholder": "Ilagay ang iyong buong pangalan",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "subjectLabel": "Paksa",
+    "subjectPlaceholder": "Bug report, guide request, o tanong",
+    "messageLabel": "Mensahe",
+    "messagePlaceholder": "Ilarawan ang isyu o kahilingan sa detalyado...",
+    "submitButton": "Ipadala ang Mensahe",
+    "responseTime": "Karaniwang nagrerepondo kami sa loob ng 24–48 oras.",
+    "emailDirect": "O kumusta kami nang direkta sa",
+    "successTitle": "Naipadala ang Mensahe",
+    "successMessage": "Salamat sa pag-kontact sa Sauditoolhub. Makakapag-respond kami sa iyo sa loob ng 24–48 oras.",
+    "errorMessage": "May nangyari. Subukan muli mamaya o kumusta kami nang direkta.",
+    "reportBugs": "Mag-report ng Bugs",
+    "requestGuides": "Humingi ng Mga Gabay",
+    "reportBugsDesc": "Nakita ang pagkakamali sa calculator o gabay? Ipaalam sa amin upang maayos namin.",
+    "requestGuidesDesc": "Gusto ng bagong gabay o calculator? Pinipili namin ang mga request mula sa aming mga gumagamit.",
+    "categories": {
+      "bug": "Bug Report",
+      "guide": "Guide Request",
+      "other": "Iba Pa"
+    }
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Huling na-update: Hulyo 2026",
+    "sections": {
+      "collect": "Information We Collect",
+      "storage": "Data Storage",
+      "cookies": "Cookies",
+      "thirdParty": "Third-Party Services",
+      "contact": "Contact"
+    },
+    "content": {
+      "collect": "Sauditoolhub ay hindi nagkolekta, nag-iimbak, o nagtataas ng anumang personal na datos. Ang lahat ng pagkakalkula ay ganap na nasa loob ng iyong browser. Walang impormasyon na naipapadala sa aming mga server.",
+      "storage": "Hindi namin iniiimbak ang anumang datos ng gumagamit. Ang anumang numero na inilagay mo sa aming mga calculator ay nananatili lamang sa memorya ng iyong browser at nabubura kapag kinapos o nirefresh mo ang pahina.",
+      "cookies": "Hindi namin ginagamit ang mga tracking cookie. Maaaring gumamit ng functional cookie upang tandaan ang iyong kagustuhan sa wika, na mag-e-expire pagkatapos ng 30 araw.",
+      "thirdParty": "Maaaring maglaman ang aming website ng mga link sa panlabas na mga site. Hindi kami responsable sa kanilang mga praktis sa privacy.",
+      "contact": "Para sa mga tanong tungkol sa privacy, makipag-ugnayan sa amin sa privacy@Sauditoolhub.com."
+    }
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "Huling na-update: Hulyo 2026",
+    "sections": {
+      "acceptance": "Acceptance of Terms",
+      "service": "Service Description",
+      "use": "Use of Service",
+      "liability": "Limitation of Liability",
+      "changes": "Changes"
+    },
+    "content": {
+      "acceptance": "Sa paggamit ng Sauditoolhub, sumasang-ayon ka sa mga term na ito. Kung hindi ka sumasang-ayon, mangyaring huwag gamitin ang aming mga serbisyo.",
+      "service": "Ang Sauditoolhub ay nagbibigay ng mga libreng online calculator tool para sa impormasyonal na mga layunin. Ang mga resulta ay mga tantya lamang at hindi dapat ikonsidera na financial o legal advice.",
+      "use": "Sumasang-ayon kang gumamit ng aming mga tool para sa ligal na mga layunin lamang. Hindi ka maaaring mag-reproduce, mag-distribute, o mag-modify ng aming mga tool nang walang pahintulot.",
+      "liability": "Ang Sauditoolhub ay nagbibigay ng mga tool as is nang walang anumang warranty. Hindi kami mananagot para sa anumang pinsala na nagmumula sa paggamit ng aming mga calculator o pag-asawa sa mga resulta.",
+      "changes": "Nakareserba naming karapatang i-update ang mga term na ito sa anumang oras. Ang mga pagbabago ay ipapaskil sa pahinang ito."
+    }
+  },
+  "DisclaimerPage": {
+    "title": "Disclaimer",
+    "lastUpdated": "Huling na-update: Hulyo 2026",
+    "sections": {
+      "notAdvice": "Not Legal or Financial Advice",
+      "noGuarantee": "No Guarantee of Accuracy",
+      "externalLinks": "External Links"
+    },
+    "content": {
+      "notAdvice": "Ang mga calculator at impormasyong ibinibigay sa Sauditoolhub ay para sa pangkalahatang impormasyonal at edukasyonal na mga layunin lamang. Sila ay hindi kapalit ng propesyonal na legal o financial na payo. Ang mga batas at regulasyon ng Saudi ay pwedeng magbago. Habang pinipili namin ang katumpakan, wala kaming anumang garantiya tungkol sa kabuuan, reliability, o kasalukuyan ng impormasyon. Laging kumonsulta sa isang kwalipikadong propesyonal na legal para sa payo na espesipiko sa iyong sitwasyon.",
+      "noGuarantee": "Ang aming mga calculator ay nagpapatupad ng mga karaniwang formula batay sa nai-publish na mga regulasyon. Gayunpaman, ang mga indibidwal na kontrata sa trabaho, mga patakaran ng kumpanya, at mga tiyak na sitwasyon ay maaaring makaapekto sa iyong aktwal na mga karapatan. Ang mga resulta ay dapat gamitin lamang bilang mga tantya.",
+      "externalLinks": "Ang aming website ay maaaring maglaman ng mga link sa panlabas na mga website. Hindi kami responsable sa nilalaman o katumpakan ng anumang panlabas na mga site."
+    }
+  },
+  "AboutPage": {
+    "title": "Tungkol sa Amin",
+    "subtitle": "Ang Sauditoolhub ay isang libreng, privacy-first na plataporma na ginawa para sa pagpapasimple ng mga financial calculation sa Saudi Arabia para sa mga expat, business owner, at resident.",
+    "mission": "Ang Aming Misyon",
+    "missionText": "Naniniwala kaming lahat ay karapat-dapat sa instant na access sa mahusay na mga financial tool. Ang Saudi Arabia ay may kakaibang mga regulasyon—EOSB, Jawazat fines, ZATCA VAT, Nitaqat ratios, SEC electricity tariffs—na maaaring magpaloob. Ang Sauditoolhub ay nagbabago ng mga ito sa simpleng, libreng mga calculator at gabay.",
+    "whatWeOffer": "Ang Aming Iniaalok",
+    "offer1": "Libreng interactive calculators para sa EOSB, Jawazat fines, VAT, loans, at iba pa",
+    "offer2": "Komprehensibong gabay na isinulat sa simpleng wika",
+    "offer3": "Multilingual suporta para sa mga nagsasalita ng Arabic, Urdu, Tagalog, at Bengali",
+    "offer4": "Walang registration, walang data collection, walang cookies—plain lang na mga tool",
+    "values": "Ang Aming mga Halaga",
+    "value1": "Privacy First: Hindi kami nagkolekta o nag-iimbak ng iyong data",
+    "value2": "Accuracy: Iminumupdate namin ang aming mga formula batay sa 2026 na regulasyon",
+    "value3": "Accessibility: Libreng mga tool para sa lahat, saanman",
+    "value4": "Transparency: Malinaw na mga formula, walang hidden fees, walang hula",
+    "contactCta": "Mga tanong o feedback? Makipag-ugnayan sa amin sa",
+    "team": "Team",
+    "teamText": "Ang Sauditoolhub ay ginawa ng maliit na team ng mga developer, designer, at researcher na nakatira at nagtatrabaho sa Saudi Arabia. Nauunawaan namin ang mga hamon nang first-hand."
   }
 }

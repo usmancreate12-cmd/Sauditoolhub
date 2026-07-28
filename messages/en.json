@@ -2864,7 +2864,9 @@
       "privacy": "Privacy Policy",
       "terms": "Terms of Service",
       "disclaimer": "Disclaimer",
-      "blog": "Blog"
+      "blog": "Blog",
+      "about": "About Us",
+      "contact": "Contact Us"
     },
     "copyright": "© {year} Sauditoolhub. All rights reserved.",
     "disclaimerText": "This is an informational tool only. Not legal or financial advice."
@@ -2981,5 +2983,101 @@
       "realEstate": "Real Estate",
       "lifestyle": "Lifestyle"
     }
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with the Sauditoolhub team. Report bugs, request guides, or ask questions about Saudi Arabia financial tools.",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "Bug report, guide request, or question",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Describe the issue or request in detail...",
+    "submitButton": "Send Message",
+    "responseTime": "We typically respond within 24–48 hours.",
+    "emailDirect": "Or email us directly at",
+    "successTitle": "Message Sent",
+    "successMessage": "Thank you for contacting Sauditoolhub. We will get back to you within 24–48 hours.",
+    "errorMessage": "Something went wrong. Please try again later or email us directly.",
+    "reportBugs": "Report Bugs",
+    "requestGuides": "Request Guides",
+    "reportBugsDesc": "Found an inaccuracy in a calculator or guide? Let us know so we can fix it.",
+    "requestGuidesDesc": "Want a new guide or calculator? We prioritize requests from our users.",
+    "categories": {
+      "bug": "Bug Report",
+      "guide": "Guide Request",
+      "other": "Other"
+    }
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: July 2026",
+    "sections": {
+      "collect": "Information We Collect",
+      "storage": "Data Storage",
+      "cookies": "Cookies",
+      "thirdParty": "Third-Party Services",
+      "contact": "Contact"
+    },
+    "content": {
+      "collect": "Sauditoolhub does not collect, store, or transmit any personal data. All calculations are performed entirely within your browser. No information is sent to our servers.",
+      "storage": "We do not store any user data. Any numbers you enter into our calculators remain in your browser's memory only and are erased when you close or refresh the page.",
+      "cookies": "We do not use tracking cookies. A functional cookie may be used to remember your language preference, which expires after 30 days.",
+      "thirdParty": "Our website may contain links to external sites. We are not responsible for their privacy practices.",
+      "contact": "For privacy questions, contact us at privacy@Sauditoolhub.com."
+    }
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: July 2026",
+    "sections": {
+      "acceptance": "Acceptance of Terms",
+      "service": "Service Description",
+      "use": "Use of Service",
+      "liability": "Limitation of Liability",
+      "changes": "Changes"
+    },
+    "content": {
+      "acceptance": "By using Sauditoolhub, you agree to these terms. If you do not agree, please do not use our services.",
+      "service": "Sauditoolhub provides free online calculator tools for informational purposes. Results are estimates only and should not be considered as financial or legal advice.",
+      "use": "You agree to use our tools for lawful purposes only. You may not reproduce, distribute, or modify our tools without permission.",
+      "liability": "Sauditoolhub provides tools as is without any warranty. We are not liable for any damages arising from the use of our calculators or reliance on the results.",
+      "changes": "We reserve the right to update these terms at any time. Changes will be posted on this page."
+    }
+  },
+  "DisclaimerPage": {
+    "title": "Disclaimer",
+    "lastUpdated": "Last updated: July 2026",
+    "sections": {
+      "notAdvice": "Not Legal or Financial Advice",
+      "noGuarantee": "No Guarantee of Accuracy",
+      "externalLinks": "External Links"
+    },
+    "content": {
+      "notAdvice": "The calculators and information provided on Sauditoolhub are for general informational and educational purposes only. They are not a substitute for professional legal or financial advice. Saudi laws and regulations are subject to change. While we strive for accuracy, we make no guarantees regarding the completeness, reliability, or currentness of the information. Always consult a qualified legal professional for advice specific to your situation.",
+      "noGuarantee": "Our calculators implement standard formulas based on published regulations. However, individual employment contracts, company policies, and specific circumstances may affect your actual entitlements. The results should be used as estimates only.",
+      "externalLinks": "Our website may contain links to external websites. We are not responsible for the content or accuracy of any external sites."
+    }
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "subtitle": "Sauditoolhub is a free, privacy-first platform built to simplify Saudi Arabia financial calculations for expats, business owners, and residents.",
+    "mission": "Our Mission",
+    "missionText": "We believe everyone deserves instant access to accurate financial tools. Saudi Arabia has unique regulations—EOSB, Jawazat fines, ZATCA VAT, Nitaqat ratios, SEC electricity tariffs—that can be confusing. Sauditoolhub breaks these down into simple, free calculators and guides.",
+    "whatWeOffer": "What We Offer",
+    "offer1": "Free interactive calculators for EOSB, Jawazat fines, VAT, loans, and more",
+    "offer2": "Comprehensive guides written in plain language",
+    "offer3": "Multilingual support for Arabic, Urdu, Tagalog, and Bengali speakers",
+    "offer4": "No registration, no data collection, no cookies—just tools",
+    "values": "Our Values",
+    "value1": "Privacy First: We do not collect or store your data",
+    "value2": "Accuracy: We update our formulas based on 2026 regulations",
+    "value3": "Accessibility: Free tools for everyone, everywhere",
+    "value4": "Transparency: Clear formulas, no hidden fees, no guesswork",
+    "contactCta": "Questions or feedback? Contact us at",
+    "team": "Team",
+    "teamText": "Sauditoolhub is built by a small team of developers, designers, and researchers who live and work in Saudi Arabia. We understand the challenges firsthand."
   }
 }
