@@ -1,8 +1,9 @@
 ﻿'use client'
 
 import { useTranslations } from 'next-intl'
+import { useState } from 'react'
 import Link from 'next/link'
-import { Calculator, Shield, Zap, Globe, ChevronRight, Search } from 'lucide-react'
+import { Calculator, Shield, Zap, Globe, ChevronRight, Search, X } from 'lucide-react'
 import { HeroSection } from '@/components/HeroSection'
 import { GlassCard } from '@/components/GlassCard'
 
@@ -59,6 +60,7 @@ const categories = [
 
 export default function HomePage() {
   const t = useTranslations('HomePage')
+  const [searchQuery, setSearchQuery] = useState('')
 
   const whyCards = [
     { key: 'privacy', icon: Shield },
@@ -66,6 +68,18 @@ export default function HomePage() {
     { key: 'languages', icon: Globe },
     { key: 'accurate', icon: Calculator },
   ] as const
+
+  const filteredCategories = categories
+    .map((category) => ({
+      ...category,
+      tools: category.tools.filter((tool) => {
+        const toolName = t(tool.nameKey).toLowerCase()
+        const categoryName = t(`categories.${category.key}.name`).toLowerCase()
+        const query = searchQuery.toLowerCase()
+        return toolName.includes(query) || categoryName.includes(query)
+      }),
+    }))
+    .filter((category) => category.tools.length > 0)
 
   return (
     <div className="relative z-10">
@@ -97,21 +111,37 @@ export default function HomePage() {
 
       {/* Search Bar */}
       <section className="px-4 py-12">
-        <div className="mx-auto max-w-2xl">
+        <div className="w-full max-w-2xl mx-auto mb-12">
           <div className="relative">
             <input
               type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
               placeholder={t('search.placeholder')}
-              className="w-full px-6 py-4 rounded-xl bg-white/5 border border-white/10 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-teal-500"
+              className="w-full px-5 py-4 pr-12 rounded-xl bg-white/5 border border-white/10 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-teal-500 text-base md:text-lg"
             />
-            <Search className="absolute right-4 top-1/2 -translate-y-1/2 w-6 h-6 text-gray-400" />
+            <Search className="absolute right-5 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                className="absolute right-12 top-1/2 -translate-y-1/2 text-gray-400 hover:text-white"
+                aria-label="Clear search"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            )}
           </div>
           <div className="flex gap-2 mt-3 flex-wrap justify-center">
-            <span className="text-xs text-gray-400">{t('search.popular')}:</span>
-            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">EOSB</button>
-            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">Jawazat Fine</button>
-            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">Zakat</button>
-            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">Traffic Fine</button>
+            <span className="text-xs text-gray-400 w-full mb-1">{t('search.popular')}:</span>
+            {['EOSB', 'Jawazat', 'Zakat', 'Traffic Fine', 'SAMA Loan'].map((tag) => (
+              <button
+                key={tag}
+                onClick={() => setSearchQuery(tag)}
+                className="text-xs px-3 py-1.5 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors whitespace-nowrap"
+              >
+                {tag}
+              </button>
+            ))}
           </div>
         </div>
       </section>
@@ -126,7 +156,8 @@ export default function HomePage() {
             {t('categories.subtitle')}
           </p>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {categories.map((cat) => (
+          {filteredCategories.length > 0 ? (
+            filteredCategories.map((cat) => (
               <div
                 key={cat.key}
                 className="glass p-6 transition-all duration-300 hover:border-desert-primary/20 hover:shadow-[0_0_25px_rgba(0,212,170,0.08)]"
@@ -155,7 +186,18 @@ export default function HomePage() {
                   ))}
                 </ul>
               </div>
-            ))}
+            ))
+          ) : (
+            <div className="text-center py-12">
+              <p className="text-gray-400 text-lg">No calculators found for "{searchQuery}"</p>
+              <button
+                onClick={() => setSearchQuery('')}
+                className="mt-4 text-desert-primary hover:text-desert-primary-dim"
+              >
+                Clear search
+              </button>
+            </div>
+          )}
           </div>
         </div>
       </section>
