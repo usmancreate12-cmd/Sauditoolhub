@@ -12,6 +12,8 @@ const categories = [
       { nameKey: 'toolNames.eosb', href: '/eosb-calculator' },
       { nameKey: 'toolNames.jawazat', href: '/jawazat-fine-calculator' },
       { nameKey: 'toolNames.family', href: '/family-visa-optimizer' },
+      { nameKey: 'toolNames.settlement', href: '/final-settlement-calculator' },
+      { nameKey: 'toolNames.visaChecklist', href: '/visa-checklist-generator' },
     ],
   },
   {
@@ -47,6 +49,9 @@ const categories = [
     key: 'realEstate',
     tools: [
       { nameKey: 'toolNames.rett', href: '/rett-tax-calculator' },
+      { nameKey: 'toolNames.ejar', href: '/ejar-deposit-calculator' },
+      { nameKey: 'toolNames.mortgage', href: '/mortgage-vs-rent' },
+      { nameKey: 'toolNames.sak', href: '/property-valuation' },
     ],
   },
 ]
