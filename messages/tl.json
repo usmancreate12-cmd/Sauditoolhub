@@ -2966,6 +2966,20 @@
       "title": "Handa nang Magkalkula?",
       "subtitle": "Subukan ang aming pinakasikat na tool — ang EOSB Calculator. Libre, agad, at pribado.",
       "button": "Kalkulahin ang EOSB Ngayon"
+    },
+    "search": {
+      "title": "Maghanap",
+      "placeholder": "Maghanap ng calculator... (hal. EOSB, Zakat, Traffic Fine)",
+      "popular": "Sikat"
+    },
+    "stats": {
+      "calculations": "Mga Kalkulasyon sa Buong Na",
+      "tools": "Libreng Tools",
+      "languages": "Mga Wika",
+      "privacy": "Privacy Guaranteed"
+    },
+    "testimonials": {
+      "title": "Ano ang Sabi ng Aming Mga Gumagamit"
     }
   },
   "BlogPage": {

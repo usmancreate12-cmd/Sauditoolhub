@@ -2966,6 +2966,20 @@
       "title": "Ready to Calculate?",
       "subtitle": "Try our most popular tool — the EOSB Calculator. Free, instant, and private.",
       "button": "Calculate EOSB Now"
+    },
+    "search": {
+      "title": "Search",
+      "placeholder": "Search for calculator... (e.g., EOSB, Zakat, Traffic Fine)",
+      "popular": "Popular"
+    },
+    "stats": {
+      "calculations": "Calculations This Month",
+      "tools": "Free Tools",
+      "languages": "Languages",
+      "privacy": "Privacy Guaranteed"
+    },
+    "testimonials": {
+      "title": "What Our Users Say"
     }
   },
   "BlogPage": {

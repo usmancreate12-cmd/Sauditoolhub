@@ -2966,6 +2966,20 @@
       "title": "গণনা করতে প্রস্তুত?",
       "subtitle": "আমাদের সবচেয়ে জনপ্রিয় টুল ব্যবহার করে দেখুন — EOSB ক্যালকুলেটর। বিনামূল্যে, তাৎক্ষণিক এবং ব্যক্তিগত।",
       "button": "এখনই EOSB গণনা করুন"
+    },
+    "search": {
+      "title": "অনুসন্ধান",
+      "placeholder": "কালকুলেটর খুঁজুন... (উদাহরণ: EOSB, Zakat, Traffic Fine)",
+      "popular": "জনপ্রিয়"
+    },
+    "stats": {
+      "calculations": "এই মাসের গণনা",
+      "tools": "বিনামূল্যের টুল",
+      "languages": "ভাষা",
+      "privacy": "গোপনীয়তা garantizada"
+    },
+    "testimonials": {
+      "title": "আমাদের ব্যবহারকারীরা কী বলছেন"
     }
   },
   "BlogPage": {

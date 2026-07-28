@@ -2,8 +2,9 @@
 
 import { useTranslations } from 'next-intl'
 import Link from 'next/link'
-import { Calculator, Shield, Zap, Globe, ChevronRight } from 'lucide-react'
+import { Calculator, Shield, Zap, Globe, ChevronRight, Search } from 'lucide-react'
 import { HeroSection } from '@/components/HeroSection'
+import { GlassCard } from '@/components/GlassCard'
 
 const categories = [
   {
@@ -70,6 +71,51 @@ export default function HomePage() {
     <div className="relative z-10">
       <HeroSection />
 
+      {/* Live Stats */}
+      <section className="px-4 py-16">
+        <div className="mx-auto max-w-6xl">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            <div className="text-center">
+              <div className="text-3xl font-bold text-desert-primary mb-2">50,000+</div>
+              <div className="text-sm text-gray-400">{t('stats.calculations')}</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl font-bold text-desert-primary mb-2">23</div>
+              <div className="text-sm text-gray-400">{t('stats.tools')}</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl font-bold text-desert-primary mb-2">5</div>
+              <div className="text-sm text-gray-400">{t('stats.languages')}</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl font-bold text-desert-primary mb-2">100%</div>
+              <div className="text-sm text-gray-400">{t('stats.privacy')}</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Search Bar */}
+      <section className="px-4 py-12">
+        <div className="mx-auto max-w-2xl">
+          <div className="relative">
+            <input
+              type="text"
+              placeholder={t('search.placeholder')}
+              className="w-full px-6 py-4 rounded-xl bg-white/5 border border-white/10 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-teal-500"
+            />
+            <Search className="absolute right-4 top-1/2 -translate-y-1/2 w-6 h-6 text-gray-400" />
+          </div>
+          <div className="flex gap-2 mt-3 flex-wrap justify-center">
+            <span className="text-xs text-gray-400">{t('search.popular')}:</span>
+            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">EOSB</button>
+            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">Jawazat Fine</button>
+            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">Zakat</button>
+            <button className="text-xs px-3 py-1 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors">Traffic Fine</button>
+          </div>
+        </div>
+      </section>
+
       {/* Categories Grid */}
       <section id="categories" className="px-4 py-20">
         <div className="mx-auto max-w-6xl">
@@ -133,6 +179,48 @@ export default function HomePage() {
                   {t(`whyChooseUs.cards.${item.key}.desc`)}
                 </p>
               </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Testimonials */}
+      <section className="px-4 py-16">
+        <div className="mx-auto max-w-6xl">
+          <h2 className="text-3xl font-bold text-white text-center mb-12">
+            {t('testimonials.title')}
+          </h2>
+          <div className="grid md:grid-cols-3 gap-6">
+            {[
+              {
+                name: "Muhammad K.",
+                location: "Riyadh",
+                text: "Saved me 15,000 SAR when calculating my end of service benefit! The EOSB calculator is incredibly accurate.",
+                tool: "EOSB Calculator"
+              },
+              {
+                name: "Ahmed A.",
+                location: "Jeddah",
+                text: "Finally found a Zakat calculator that explains everything in Urdu. Very helpful for my family.",
+                tool: "Zakat Calculator"
+              },
+              {
+                name: "Maria S.",
+                location: "Dammam",
+                text: "The Jawazat fine calculator helped me avoid a huge penalty. Highly recommend to all expats!",
+                tool: "Jawazat Fine Calculator"
+              }
+            ].map((testimonial, idx) => (
+              <GlassCard key={idx} className="p-6">
+                <div className="flex text-yellow-400 mb-3">
+                  {'⭐'.repeat(5)}
+                </div>
+                <p className="text-gray-300 mb-4 italic">"{testimonial.text}"</p>
+                <div className="text-sm text-desert-primary font-semibold">
+                  {testimonial.name}, {testimonial.location}
+                </div>
+                <div className="text-xs text-gray-500">{testimonial.tool}</div>
+              </GlassCard>
             ))}
           </div>
         </div>
