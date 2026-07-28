@@ -3,6 +3,7 @@ import { getTranslations } from 'next-intl/server'
 import Link from 'next/link'
 import { ChevronRight, Calendar, Clock } from 'lucide-react'
 import JsonLd, { BreadcrumbJsonLd } from '@/components/JsonLd'
+import { articles } from '@/data/articles'
 
 type Props = {
   params: Promise<{ locale: string }>
@@ -50,192 +51,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-const blogPosts = [
-  {
-    title: 'Complete Guide to EOSB in Saudi Arabia 2026',
-    excerpt: 'Learn how to calculate your End of Service Benefit under Saudi Labor Law. We cover Article 84, resignation rules, and common mistakes expats make when leaving their job.',
-    category: 'expat',
-    href: '/guide/eosb-end-of-service-benefit-saudi-arabia-2026',
-    date: '2026-01-15',
-    readTime: 12,
-  },
-  {
-    title: 'Complete Guide to Jawazat Overstay Fines 2026',
-    excerpt: 'Everything you need to know about Iqama and visa overstay fines in Saudi Arabia. Includes daily rates, flat penalties, and how to check your status online.',
-    category: 'expat',
-    href: '/guide/jawazat-overstay-fine-calculator-saudi-arabia-2026',
-    date: '2026-01-22',
-    readTime: 15,
-  },
-  {
-    title: 'Complete Guide to Family Visa & Dependent Fees 2026',
-    excerpt: 'Plan your family sponsorship costs in Saudi Arabia. We break down Iqama fees, dependent fees, exit/re-entry visas, and work permit costs for families.',
-    category: 'expat',
-    href: '/guide/family-visa-dependent-fee-calculator-saudi-arabia-2026',
-    date: '2026-02-05',
-    readTime: 10,
-  },
-  {
-    title: 'Complete Visa Document Checklist for Saudi Arabia 2026',
-    excerpt: 'Everything you need for your Saudi visa application: Family Visit, Work, Umrah, and Tourist visa document lists, attestation steps, application process, and common rejection reasons.',
-    category: 'expat',
-    href: '/guide/visa-checklist-documents-saudi-visas-2026',
-    date: '2026-07-28',
-    readTime: 16,
-  },
-  {
-    title: 'Complete Guide to ZATCA VAT & E-Invoicing (Fatoora) in Saudi Arabia 2026',
-    excerpt: 'Master ZATCA VAT and e-invoicing compliance: 15% VAT calculation, Phase 2 Fatoora rules, B2B vs B2C invoice requirements, and how to file VAT returns in Saudi Arabia.',
-    category: 'business',
-    href: '/guide/zatca-vat-einvoicing-compliance-saudi-arabia-2026',
-    date: '2026-07-28',
-    readTime: 17,
-  },
-  {
-    title: 'Complete Guide to Nitaqat Saudization Ratios & Bands in Saudi Arabia 2026',
-    excerpt: 'Understand the Nitaqat color band system: Platinum, Green, Yellow, and Red. Learn how to calculate Saudization ratios, improve your company classification, and avoid compliance penalties.',
-    category: 'business',
-    href: '/guide/nitaqat-saudization-ratios-saudi-arabia-2026',
-    date: '2026-07-28',
-    readTime: 15,
-  },
-  {
-    title: 'Complete Guide to Final Settlement & Air Ticket in Saudi Arabia 2026',
-    excerpt: 'Everything about final settlement when leaving your job in Saudi Arabia: EOSB, unpaid salary, unused leave pay, air ticket entitlement, and step-by-step calculation examples.',
-    category: 'expat',
-    href: '/guide/final-settlement-air-ticket-calculator-saudi-arabia-2026',
-    date: '2026-07-28',
-    readTime: 14,
-  },
-  {
-    title: 'SAMA Loan Guide: How to Calculate Your Home Loan in Saudi Arabia 2026',
-    excerpt: 'Understand Saudi Arabia mortgage rules, SAMA interest rate guidelines, and how to estimate your monthly payments before applying for a home loan.',
-    category: 'finance',
-    href: '/guide/sama-loan-calculator-saudi-arabia-2026',
-    date: '2026-02-18',
-    readTime: 11,
-  },
-  {
-    title: 'Zakat Calculator Guide: How to Calculate Zakat in Saudi Arabia 2026',
-    excerpt: 'A complete walkthrough of Zakat calculation for cash, gold, investments, and property. Learn nisab thresholds and common exemptions under Saudi law.',
-    category: 'finance',
-    href: '/guide/zakat-calculator-saudi-arabia-2026',
-    date: '2026-03-02',
-    readTime: 14,
-  },
-  {
-    title: 'Salla Profit Calculator Guide for E-Commerce in Saudi Arabia 2026',
-    excerpt: 'Maximize your Salla store profitability. We cover commission structures, payment gateway fees, shipping costs, and hidden expenses new sellers miss.',
-    category: 'business',
-    href: '/guide/salla-profit-calculator-saudi-arabia-2026',
-    date: '2026-03-28',
-    readTime: 8,
-  },
-  {
-    title: 'Freelance Income Tax Guide for Saudi Arabia 2026',
-    excerpt: 'How freelance income is taxed in Saudi Arabia, what deductions you can claim, and how to stay compliant with ZATCA as an independent contractor.',
-    category: 'business',
-    href: '/guide/freelance-income-calculator-saudi-arabia-2026',
-    date: '2026-04-10',
-    readTime: 10,
-  },
-  {
-    title: 'CR Cost Guide: Starting a Business in Saudi Arabia 2026',
-    excerpt: 'Breakdown of commercial registration fees, chamber of commerce costs, professional licenses, and government fees for new businesses in KSA.',
-    category: 'business',
-    href: '/guide/cr-cost-estimator-saudi-arabia-2026',
-    date: '2026-04-22',
-    readTime: 13,
-  },
-  {
-    title: 'SIP Calculator Guide: Building Wealth in Saudi Arabia 2026',
-    excerpt: 'How Systematic Investment Plans work in Saudi Arabia. Compare mutual fund SIPs, expected returns, and how inflation impacts long-term savings.',
-    category: 'finance',
-    href: '/guide/sip-calculator-saudi-arabia-2026',
-    date: '2026-05-05',
-    readTime: 9,
-  },
-  {
-    title: 'IBAN Validator Guide: Safe Banking in Saudi Arabia 2026',
-    excerpt: 'Why IBAN validation matters for SAR transfers, how to spot fake IBANs, and what to do if your bank details are rejected during payments.',
-    category: 'finance',
-    href: '/guide/iban-validator-saudi-arabia-2026',
-    date: '2026-05-18',
-    readTime: 7,
-  },
-  {
-    title: 'Used Car Price Guide: Buying a Car in Saudi Arabia 2026',
-    excerpt: 'Negotiation tips, market prices for popular models, registration fees, and inspection costs when buying a used car in Riyadh, Jeddah, or Dammam.',
-    category: 'auto',
-    href: '/guide/used-car-calculator-saudi-arabia-2026',
-    date: '2026-06-01',
-    readTime: 11,
-  },
-  {
-    title: 'Traffic Fine Guide: Understanding Saudi Traffic Violations 2026',
-    excerpt: 'Complete list of traffic violation codes, fine amounts, points system, and how to pay or appeal tickets through Absher and Najiz platforms.',
-    category: 'auto',
-    href: '/guide/traffic-fine-calculator-saudi-arabia-2026',
-    date: '2026-06-14',
-    readTime: 12,
-  },
-  {
-    title: 'SEC Bill Guide: Electricity Bill Estimator Saudi Arabia 2026',
-    excerpt: 'How SEC electricity tariffs work in Saudi Arabia, peak vs off-peak rates, and how to estimate your monthly bill before it arrives.',
-    category: 'auto',
-    href: '/guide/sec-bill-calculator-saudi-arabia-2026',
-    date: '2026-06-28',
-    readTime: 8,
-  },
-  {
-    title: 'Bill Splitter Guide: Splitting Expenses in Saudi Arabia 2026',
-    excerpt: 'Fair methods for splitting rent, utilities, and group trip costs among roommates and friends in Saudi Arabia. Includes templates and examples.',
-    category: 'auto',
-    href: '/guide/bill-splitter-calculator-saudi-arabia-2026',
-    date: '2026-07-10',
-    readTime: 6,
-  },
-  {
-    title: 'Fuel Cost Guide: Calculating Fuel Expenses in Saudi Arabia 2026',
-    excerpt: 'How to budget for fuel in Saudi Arabia, current petrol prices, fuel efficiency tips for expats, and long-distance travel cost estimates.',
-    category: 'auto',
-    href: '/guide/fuel-cost-calculator-saudi-arabia-2026',
-    date: '2026-07-24',
-    readTime: 7,
-  },
-  {
-    title: 'RETT Guide: Real Estate Tax in Saudi Arabia 2026',
-    excerpt: 'Who pays real estate transfer tax, current rates, exemptions for first-time buyers, and how to calculate the tax when buying property in KSA.',
-    category: 'realEstate',
-    href: '/guide/rett-tax-calculator-saudi-arabia-2026',
-    date: '2026-08-05',
-    readTime: 10,
-  },
-  {
-    title: 'Ejar Deposit Guide: Rental Deposit Calculator Saudi Arabia 2026',
-    excerpt: 'How Ejar deposit calculations work, standard deposit amounts by city, how to get your deposit back, and legal protections for tenants in Saudi Arabia.',
-    category: 'realEstate',
-    href: '/guide/ejar-deposit-calculator-saudi-arabia-2026',
-    date: '2026-08-18',
-    readTime: 9,
-  },
-  {
-    title: 'Mortgage vs Rent Guide: Making the Right Choice in Saudi Arabia 2026',
-    excerpt: 'Compare the true cost of buying vs renting in Riyadh, Jeddah, and Dammam. We break down mortgage payments, maintenance costs, and opportunity cost.',
-    category: 'realEstate',
-    href: '/guide/mortgage-vs-rent-guide-saudi-arabia-2026',
-    date: '2026-09-01',
-    readTime: 14,
-  },
-  {
-    title: 'Property Valuation Guide: Real Estate in Saudi Arabia 2026',
-    excerpt: 'Factors that affect property values in Saudi Arabia, how to get an accurate valuation, and what buyers and sellers need to know in 2026.',
-    category: 'realEstate',
-    href: '/guide/property-valuation-white-deed-guide-saudi-arabia-2026',
-    date: '2026-09-14',
-    readTime: 11,
-  },
-]
+const blogPosts = articles.map(a => ({
+  title: a.title.en,
+  excerpt: a.description.en,
+  category: a.category,
+  href: `/guide/${a.slug}`,
+  date: a.date,
+  readTime: parseInt(a.readTime) || 10,
+}))
 
 export default async function BlogPage({ params }: Props) {
   const { locale } = await params
