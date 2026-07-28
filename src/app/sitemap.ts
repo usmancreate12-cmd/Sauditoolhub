@@ -4,10 +4,35 @@ const baseUrl = 'https://Sauditoolhub.com'
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
 const staticPages = ['privacy', 'terms', 'disclaimer'] as const
 
-function localePath(locale: string, page: string): string {
-  if (locale === 'en') return `${baseUrl}/${page}`
-  return `${baseUrl}/${locale}/${page}`
-}
+const toolRoutes = [
+  '/eosb-calculator',
+  '/jawazat-fine-calculator',
+  '/family-visa-optimizer',
+  '/final-settlement-calculator',
+  '/visa-checklist-generator',
+  '/zatca-vat-calculator',
+  '/nitaqat-simulator',
+  '/salla-profit-calculator',
+  '/freelance-income-calculator',
+  '/cr-cost-estimator',
+  '/sama-loan-calculator',
+  '/zakat-calculator',
+  '/iban-validator',
+  '/sip-calculator',
+  '/used-car-calculator',
+  '/traffic-fine-calculator',
+  '/sec-bill-calculator',
+  '/bill-splitter-calculator',
+  '/fuel-cost-calculator',
+  '/rett-tax-calculator',
+  '/ejar-deposit-calculator',
+  '/mortgage-vs-rent',
+  '/property-valuation',
+] as const
+
+const guideRoutes = [
+  '/guide/jawazat-overstay-fine-calculator-saudi-arabia-2026',
+] as const
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = []
@@ -22,12 +47,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     })
 
-    entries.push({
-      url: `${baseUrl}${prefix}/eosb-calculator`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.9,
-    })
+    for (const route of toolRoutes) {
+      entries.push({
+        url: `${baseUrl}${prefix}${route}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      })
+    }
+
+    for (const route of guideRoutes) {
+      entries.push({
+        url: `${baseUrl}${prefix}${route}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.8,
+      })
+    }
 
     for (const page of staticPages) {
       entries.push({
@@ -41,4 +77,3 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return entries
 }
-

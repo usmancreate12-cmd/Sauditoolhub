@@ -2061,7 +2061,8 @@
     "links": {
       "privacy": "Patakaran sa Privacy",
       "terms": "Mga Tuntunin ng Serbisyo",
-      "disclaimer": "Pagtatanggi sa Pananagutan"
+      "disclaimer": "Pagtatanggi sa Pananagutan",
+      "blog": "Blog"
     },
     "copyright": "\u00a9 {year} Sauditoolhub. Lahat ng karapatan ay nakalaan.",
     "disclaimerText": "Ito ay isang informational tool lamang. Hindi legal o pinansyal na payo."
@@ -2118,7 +2119,8 @@
       "iban": "IBAN Validator",
       "sip": "SIP Return",
       "sec": "SEC Bill Estimator",
-      "usedCar": "Used Car Cost"
+      "usedCar": "Used Car Cost",
+      "sak": "Sak Valuation"
     },
     "whyChooseUs": {
       "title": "Bakit Sauditoolhub?",

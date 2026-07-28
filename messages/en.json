@@ -2247,7 +2247,8 @@
     "links": {
       "privacy": "Privacy Policy",
       "terms": "Terms of Service",
-      "disclaimer": "Disclaimer"
+      "disclaimer": "Disclaimer",
+      "blog": "Blog"
     },
     "copyright": "\u00a9 {year} Sauditoolhub. All rights reserved.",
     "disclaimerText": "This is an informational tool only. Not legal or financial advice."

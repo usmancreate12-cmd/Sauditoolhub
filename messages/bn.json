@@ -2055,7 +2055,8 @@
     "links": {
       "privacy": "গোপনীয়তা নীতি",
       "terms": "পরিষেবার শর্তাবলী",
-      "disclaimer": "দাবিত্যাগ"
+      "disclaimer": "দাবিত্যাগ",
+      "blog": "ব্লগ"
     },
     "copyright": "\u00a9 {year} Sauditoolhub. সমস্ত অধিকার সংরক্ষিত।",
     "disclaimerText": "এটি শুধুমাত্র একটি তথ্যমূলক টুল। আইনি বা আর্থিক পরামর্শ নয়।"
@@ -2112,7 +2113,8 @@
       "iban": "IBAN যাচাইকরণ",
       "sip": "SIP রিটার্ন",
       "sec": "SEC বিল অনুমান",
-      "usedCar": "ব্যবহৃত গাড়ির খরচ"
+      "usedCar": "ব্যবহৃত গাড়ির খরচ",
+      "sak": "সম্পত্তি মূল্যায়ন"
     },
     "whyChooseUs": {
       "title": "কেন Sauditoolhub?",

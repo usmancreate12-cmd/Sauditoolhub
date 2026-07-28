@@ -1166,7 +1166,8 @@
     "links": {
       "privacy": "رازداری کی پالیسی",
       "terms": "خدمات کی شرائط",
-      "disclaimer": "دستبرداری"
+      "disclaimer": "دستبرداری",
+      "blog": "بلاگ"
     },
     "copyright": "© {year} Sauditoolhub. جملہ حقوق محفوظ ہیں۔",
     "disclaimerText": "یہ صرف ایک معلوماتی ٹول ہے۔ قانونی یا مالی مشورہ نہیں۔"
@@ -1238,7 +1239,8 @@
       "iban": "IBAN تصدیق",
       "sip": "SIP منافع",
       "sec": "SEC بل کا تخمینہ",
-      "usedCar": "استعمال شدہ کار کی لاگت"
+      "usedCar": "استعمال شدہ کار کی لاگت",
+      "sak": "جائیداد کی تشخیص"
     },
     "whyChooseUs": {
       "title": "کیوں Sauditoolhub؟",
