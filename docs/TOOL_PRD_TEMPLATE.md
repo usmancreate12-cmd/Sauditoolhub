@@ -1,6 +1,6 @@
 # Tool PRD Template
 
-Use this template for every individual tool in HsabKSA.
+Use this template for every individual tool in Sauditoolhub.
 
 ---
 
@@ -56,3 +56,4 @@ result = (basicSalary / 12) * monthsWorked * (0.5 if < 5 years else 1.0)
 
 ### Dependencies
 - [Any external data, APIs, or libraries needed]
+

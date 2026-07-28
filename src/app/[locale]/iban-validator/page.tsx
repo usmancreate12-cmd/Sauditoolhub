@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import { IbanValidator } from '@/components/IbanValidator'
 import { ToolSeoContent } from '@/components/ToolSeoContent'
@@ -6,7 +6,7 @@ import { SoftwareAppJsonLd, BreadcrumbJsonLd, FAQJsonLd } from '@/components/Jso
 
 type Props = { params: Promise<{ locale: string }> }
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://hsabksa.com'
+const baseUrl = 'https://Sauditoolhub.com'
 
 export function generateStaticParams() { return locales.map((locale) => ({ locale })) }
 
@@ -17,11 +17,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const alternates: Record<string, string> = {}
   for (const l of locales) alternates[l] = l === 'en' ? `${baseUrl}/iban-validator` : `${baseUrl}/${l}/iban-validator`
   return {
-    title: `${t('toolName')} — HsabKSA`,
+    title: `${t('toolName')} — Sauditoolhub`,
     description: t('description'),
     alternates: { canonical: isDefault ? `${baseUrl}/iban-validator` : `${baseUrl}/${locale}/iban-validator`, languages: alternates as Record<string, string> },
-    openGraph: { title: `${t('toolName')} — HsabKSA`, description: t('description'), url: isDefault ? `${baseUrl}/iban-validator` : `${baseUrl}/${locale}/iban-validator`, siteName: 'HsabKSA', locale: locale === 'en' ? 'en_US' : locale === 'ar' ? 'ar_SA' : locale, type: 'website' },
-    twitter: { card: 'summary_large_image', title: `${t('toolName')} — HsabKSA`, description: t('description') },
+    openGraph: { title: `${t('toolName')} — Sauditoolhub`, description: t('description'), url: isDefault ? `${baseUrl}/iban-validator` : `${baseUrl}/${locale}/iban-validator`, siteName: 'Sauditoolhub', locale: locale === 'en' ? 'en_US' : locale === 'ar' ? 'ar_SA' : locale, type: 'website' },
+    twitter: { card: 'summary_large_image', title: `${t('toolName')} — Sauditoolhub`, description: t('description') },
     robots: { index: true, follow: true },
   }
 }

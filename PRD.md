@@ -1,4 +1,4 @@
-# Master PRD: HsabKSA (Saudi Calculator Hub)
+# Master PRD: Sauditoolhub (Saudi Calculator Hub)
 
 ## 1. Product Vision & Mission
 **Vision:** Saudi Arabia mein rehne wale har expat, local, aur business owner ke liye ek centralized, zero-risk, aur highly accurate digital tool hub banana.
@@ -52,3 +52,4 @@
 - **URL Structure:** Sub-directories (`/en/tool`, `/ur/tool`, `/ar/tool`).
 - **Hreflang Tags:** Har page par automatic hreflang tags honge taaki Google sahi language rank kare.
 - **Content:** Tools ke sath chote, SEO-optimized blogs honge (e.g., "How to calculate EOSB in 2024").
+

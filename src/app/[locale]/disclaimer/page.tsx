@@ -1,6 +1,6 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 
-const baseUrl = 'https://hsabksa.com'
+const baseUrl = 'https://Sauditoolhub.com'
 
 export function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'ar' }, { locale: 'ur' }, { locale: 'tl' }, { locale: 'bn' }]
@@ -10,7 +10,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   const isDefault = locale === 'en'
   return {
-    title: 'Disclaimer — HsabKSA',
+    title: 'Disclaimer — Sauditoolhub',
     alternates: {
       canonical: isDefault ? `${baseUrl}/disclaimer` : `${baseUrl}/${locale}/disclaimer`,
     },
@@ -28,7 +28,7 @@ export default function DisclaimerPage() {
         <section>
           <h2 className="mb-2 text-lg font-semibold text-desert-text">Not Legal or Financial Advice</h2>
           <p>
-            The calculators and information provided on HsabKSA are for general informational and educational purposes only.
+            The calculators and information provided on Sauditoolhub are for general informational and educational purposes only.
             They are not a substitute for professional legal or financial advice.
           </p>
           <p className="mt-3">

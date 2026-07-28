@@ -1,6 +1,6 @@
-import type { MetadataRoute } from 'next'
+﻿import type { MetadataRoute } from 'next'
 
-const baseUrl = 'https://hsabksa.com'
+const baseUrl = 'https://Sauditoolhub.com'
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
 const staticPages = ['privacy', 'terms', 'disclaimer'] as const
 
@@ -41,3 +41,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return entries
 }
+

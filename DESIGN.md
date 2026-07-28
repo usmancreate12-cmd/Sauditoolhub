@@ -1,4 +1,4 @@
-# DESIGN.md — HsabKSA UI/UX, SEO & Technical Architecture
+# DESIGN.md — Sauditoolhub UI/UX, SEO & Technical Architecture
 
 ---
 
@@ -184,18 +184,18 @@ Two options under evaluation. Final decision pending user confirmation.
 
 ### Meta Tag Template
 ```html
-<title>{tool_name} - Free {category} Calculator | HsabKSA</title>
+<title>{tool_name} - Free {category} Calculator | Sauditoolhub</title>
 <meta name="description" content="{150-160 chars with primary keyword}" />
 <meta name="keywords" content="{5-8 relevant keywords}" />
 <meta name="robots" content="index, follow" />
-<link rel="canonical" href="https://hsabksa.com/{current-url}" />
+<link rel="canonical" href="https://Sauditoolhub.com/{current-url}" />
 ```
 
 ### Open Graph
 ```html
 <meta property="og:title" content="{tool_name} Calculator" />
 <meta property="og:description" content="{description}" />
-<meta property="og:image" content="https://hsabksa.com/og-images/{tool-slug}.png" />
+<meta property="og:image" content="https://Sauditoolhub.com/og-images/{tool-slug}.png" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:locale:alternate" content="ar_SA" />
@@ -207,17 +207,17 @@ Two options under evaluation. Final decision pending user confirmation.
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{tool_name} Calculator" />
 <meta name="twitter:description" content="{description}" />
-<meta name="twitter:image" content="https://hsabksa.com/og-images/{tool-slug}.png" />
+<meta name="twitter:image" content="https://Sauditoolhub.com/og-images/{tool-slug}.png" />
 ```
 
 ### Hreflang Tags
 ```html
-<link rel="alternate" hreflang="en" href="https://hsabksa.com/{tool-slug}" />
-<link rel="alternate" hreflang="ar" href="https://hsabksa.com/ar/{tool-slug}" />
-<link rel="alternate" hreflang="ur" href="https://hsabksa.com/ur/{tool-slug}" />
-<link rel="alternate" hreflang="tl" href="https://hsabksa.com/tl/{tool-slug}" />
-<link rel="alternate" hreflang="bn" href="https://hsabksa.com/bn/{tool-slug}" />
-<link rel="alternate" hreflang="x-default" href="https://hsabksa.com/{tool-slug}" />
+<link rel="alternate" hreflang="en" href="https://Sauditoolhub.com/{tool-slug}" />
+<link rel="alternate" hreflang="ar" href="https://Sauditoolhub.com/ar/{tool-slug}" />
+<link rel="alternate" hreflang="ur" href="https://Sauditoolhub.com/ur/{tool-slug}" />
+<link rel="alternate" hreflang="tl" href="https://Sauditoolhub.com/tl/{tool-slug}" />
+<link rel="alternate" hreflang="bn" href="https://Sauditoolhub.com/bn/{tool-slug}" />
+<link rel="alternate" hreflang="x-default" href="https://Sauditoolhub.com/{tool-slug}" />
 ```
 
 ---
@@ -235,14 +235,14 @@ Every tool page injects the following schemas:
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Web",
   "description": "Free EOSB calculator for Saudi Arabia.",
-  "url": "https://hsabksa.com/eosb-calculator",
+  "url": "https://Sauditoolhub.com/eosb-calculator",
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "SAR" },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
     "ratingCount": "1250"
   },
-  "author": { "@type": "Organization", "name": "HsabKSA" }
+  "author": { "@type": "Organization", "name": "Sauditoolhub" }
 }
 ```
 
@@ -253,11 +253,11 @@ Every tool page injects the following schemas:
   "@type": "Article",
   "headline": "Complete Guide to Saudi Labor Law 2024",
   "description": "Everything about Saudi Labor Law including EOSB, notice period, employee rights.",
-  "author": { "@type": "Person", "name": "HsabKSA Team" },
+  "author": { "@type": "Person", "name": "Sauditoolhub Team" },
   "publisher": {
     "@type": "Organization",
-    "name": "HsabKSA",
-    "logo": { "@type": "ImageObject", "url": "https://hsabksa.com/logo.png" }
+    "name": "Sauditoolhub",
+    "logo": { "@type": "ImageObject", "url": "https://Sauditoolhub.com/logo.png" }
   },
   "datePublished": "2024-01-15",
   "dateModified": "2024-01-20"
@@ -288,9 +288,9 @@ Every tool page injects the following schemas:
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hsabksa.com" },
-    { "@type": "ListItem", "position": 2, "name": "Expat Tools", "item": "https://hsabksa.com/expat-tools" },
-    { "@type": "ListItem", "position": 3, "name": "EOSB Calculator", "item": "https://hsabksa.com/eosb-calculator" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://Sauditoolhub.com" },
+    { "@type": "ListItem", "position": 2, "name": "Expat Tools", "item": "https://Sauditoolhub.com/expat-tools" },
+    { "@type": "ListItem", "position": 3, "name": "EOSB Calculator", "item": "https://Sauditoolhub.com/eosb-calculator" }
   ]
 }
 ```
@@ -345,9 +345,9 @@ Every tool page follows this exact hierarchy:
 
 ### Title Tag Format
 ```
-{Primary Keyword} - Free {Tool Type} | HsabKSA
+{Primary Keyword} - Free {Tool Type} | Sauditoolhub
 ```
-Example: "EOSB Calculator Saudi Arabia - Free End of Service Tool | HsabKSA"
+Example: "EOSB Calculator Saudi Arabia - Free End of Service Tool | Sauditoolhub"
 Length: 50-60 chars.
 
 ### Meta Description Format
@@ -390,3 +390,4 @@ Length: 150-160 chars.
 - Disable heavy animations on mobile
 - Simplified cursor effects
 - Fast tap response
+

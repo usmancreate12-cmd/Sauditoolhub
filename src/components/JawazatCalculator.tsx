@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useState, useCallback } from 'react'
 import { useForm } from 'react-hook-form'
@@ -179,7 +179,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
   const handleShare = useCallback(
     (platform: 'whatsapp' | 'twitter') => {
       if (!result) return
-      const text = `My Jawazat fine estimate: ${formatSAR(result.totalFine)} SAR (via HsabKSA)`
+      const text = `My Jawazat fine estimate: ${formatSAR(result.totalFine)} SAR (via Sauditoolhub)`
       const url = window.location.href
       const href =
         platform === 'whatsapp'
@@ -465,3 +465,4 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
     </div>
   )
 }
+

@@ -1,6 +1,6 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 
-const baseUrl = 'https://hsabksa.com'
+const baseUrl = 'https://Sauditoolhub.com'
 
 export function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'ar' }, { locale: 'ur' }, { locale: 'tl' }, { locale: 'bn' }]
@@ -10,7 +10,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   const isDefault = locale === 'en'
   return {
-    title: 'Terms of Service — HsabKSA',
+    title: 'Terms of Service — Sauditoolhub',
     alternates: {
       canonical: isDefault ? `${baseUrl}/terms` : `${baseUrl}/${locale}/terms`,
     },
@@ -27,12 +27,12 @@ export default function TermsPage() {
       <div className="space-y-6 text-sm leading-relaxed text-desert-text-muted">
         <section>
           <h2 className="mb-2 text-lg font-semibold text-desert-text">1. Acceptance of Terms</h2>
-          <p>By using HsabKSA, you agree to these terms. If you do not agree, please do not use our services.</p>
+          <p>By using Sauditoolhub, you agree to these terms. If you do not agree, please do not use our services.</p>
         </section>
 
         <section>
           <h2 className="mb-2 text-lg font-semibold text-desert-text">2. Service Description</h2>
-          <p>HsabKSA provides free online calculator tools for informational purposes. Results are estimates only and should not be considered as financial or legal advice.</p>
+          <p>Sauditoolhub provides free online calculator tools for informational purposes. Results are estimates only and should not be considered as financial or legal advice.</p>
         </section>
 
         <section>
@@ -42,7 +42,7 @@ export default function TermsPage() {
 
         <section>
           <h2 className="mb-2 text-lg font-semibold text-desert-text">4. Limitation of Liability</h2>
-          <p>HsabKSA provides tools &quot;as is&quot; without any warranty. We are not liable for any damages arising from the use of our calculators or reliance on the results.</p>
+          <p>Sauditoolhub provides tools &quot;as is&quot; without any warranty. We are not liable for any damages arising from the use of our calculators or reliance on the results.</p>
         </section>
 
         <section>

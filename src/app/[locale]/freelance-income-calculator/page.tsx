@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import { FreelanceIncomeCalculator } from '@/components/FreelanceIncomeCalculator'
 import { ToolSeoContent } from '@/components/ToolSeoContent'
@@ -7,7 +7,7 @@ import { SoftwareAppJsonLd, BreadcrumbJsonLd, FAQJsonLd } from '@/components/Jso
 type Props = { params: Promise<{ locale: string }> }
 
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://hsabksa.com'
+const baseUrl = 'https://Sauditoolhub.com'
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -22,23 +22,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates[l] = l === 'en' ? `${baseUrl}/freelance-income-calculator` : `${baseUrl}/${l}/freelance-income-calculator`
   }
   return {
-    title: `${t('toolName')} — HsabKSA`,
+    title: `${t('toolName')} — Sauditoolhub`,
     description: t('description'),
     alternates: {
       canonical: isDefault ? `${baseUrl}/freelance-income-calculator` : `${baseUrl}/${locale}/freelance-income-calculator`,
       languages: alternates as Record<string, string>,
     },
     openGraph: {
-      title: `${t('toolName')} — HsabKSA`,
+      title: `${t('toolName')} — Sauditoolhub`,
       description: t('description'),
       url: isDefault ? `${baseUrl}/freelance-income-calculator` : `${baseUrl}/${locale}/freelance-income-calculator`,
-      siteName: 'HsabKSA',
+      siteName: 'Sauditoolhub',
       locale: locale === 'en' ? 'en_US' : locale === 'ar' ? 'ar_SA' : locale,
       type: 'website',
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${t('toolName')} — HsabKSA`,
+      title: `${t('toolName')} — Sauditoolhub`,
       description: t('description'),
     },
     robots: { index: true, follow: true },

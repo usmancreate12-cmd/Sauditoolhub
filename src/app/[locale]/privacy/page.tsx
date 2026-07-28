@@ -1,6 +1,6 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 
-const baseUrl = 'https://hsabksa.com'
+const baseUrl = 'https://Sauditoolhub.com'
 
 export function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'ar' }, { locale: 'ur' }, { locale: 'tl' }, { locale: 'bn' }]
@@ -10,7 +10,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   const isDefault = locale === 'en'
   return {
-    title: 'Privacy Policy — HsabKSA',
+    title: 'Privacy Policy — Sauditoolhub',
     alternates: {
       canonical: isDefault ? `${baseUrl}/privacy` : `${baseUrl}/${locale}/privacy`,
     },
@@ -27,7 +27,7 @@ export default function PrivacyPage() {
       <div className="space-y-6 text-sm leading-relaxed text-desert-text-muted">
         <section>
           <h2 className="mb-2 text-lg font-semibold text-desert-text">1. Information We Collect</h2>
-          <p>HsabKSA does not collect, store, or transmit any personal data. All calculations are performed entirely within your browser. No information is sent to our servers.</p>
+          <p>Sauditoolhub does not collect, store, or transmit any personal data. All calculations are performed entirely within your browser. No information is sent to our servers.</p>
           <p className="mt-2">We use Plausible Analytics, a privacy-focused analytics tool that does not use cookies and does not collect personal data. It only tracks aggregate page views and visit durations.</p>
         </section>
 
@@ -48,7 +48,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="mb-2 text-lg font-semibold text-desert-text">5. Contact</h2>
-          <p>For privacy questions, contact us at privacy@hsabksa.com.</p>
+          <p>For privacy questions, contact us at privacy@Sauditoolhub.com.</p>
         </section>
       </div>
     </div>

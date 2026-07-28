@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
@@ -56,8 +56,8 @@ const categories = [
     icon: Landmark,
     tools: [
       { nameKey: 'toolNames.loan', href: 'sama-loan-calculator' },
-      { nameKey: 'toolNames.mortgage', href: '#' },
-      { nameKey: 'toolNames.rett', href: '#' },
+      { nameKey: 'toolNames.mortgage', href: 'mortgage-vs-rent' },
+      { nameKey: 'toolNames.rett', href: 'rett-tax-calculator' },
       { nameKey: 'toolNames.zakat', href: 'zakat-calculator' },
       { nameKey: 'toolNames.iban', href: 'iban-validator' },
       { nameKey: 'toolNames.sip', href: 'sip-calculator' },
@@ -68,19 +68,19 @@ const categories = [
     icon: Car,
     tools: [
       { nameKey: 'toolNames.loan', href: 'sama-loan-calculator' },
-      { nameKey: 'toolNames.traffic', href: '#' },
-      { nameKey: 'toolNames.fuel', href: '#' },
-      { nameKey: 'toolNames.insurance', href: '#' },
+      { nameKey: 'toolNames.usedCar', href: 'used-car-calculator' },
+      { nameKey: 'toolNames.traffic', href: 'traffic-fine-calculator' },
+      { nameKey: 'toolNames.sec', href: 'sec-bill-calculator' },
+      { nameKey: 'toolNames.billSplitter', href: 'bill-splitter-calculator' },
+      { nameKey: 'toolNames.fuel', href: 'fuel-cost-calculator' },
     ],
   },
   {
     key: 'realEstate',
     icon: Building2,
     tools: [
-      { nameKey: 'toolNames.rett', href: '#' },
-      { nameKey: 'toolNames.roi', href: '#' },
-      { nameKey: 'toolNames.ijara', href: '#' },
-      { nameKey: 'toolNames.ejar', href: '#' },
+      { nameKey: 'toolNames.rett', href: 'rett-tax-calculator' },
+      { nameKey: 'toolNames.ejar', href: 'ejar-deposit-calculator' },
     ],
   },
 ]
@@ -147,7 +147,7 @@ export function Navbar({ locale }: { locale?: string }) {
             {/* Logo */}
             <Link href={`/${locale}`} className="flex items-center gap-2 shrink-0">
               <Calculator className="h-5 w-5 text-desert-primary" />
-              <span className="font-bold text-white">HsabKSA</span>
+              <span className="font-bold text-white">Sauditoolhub</span>
             </Link>
 
             {/* Desktop nav */}
@@ -321,3 +321,4 @@ export function Navbar({ locale }: { locale?: string }) {
     </>
   )
 }
+

@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useTranslations } from 'next-intl'
 import Link from 'next/link'
@@ -36,13 +36,17 @@ const categories = [
   {
     key: 'auto',
     tools: [
-      { nameKey: 'toolNames.traffic', href: '#' },
+      { nameKey: 'toolNames.usedCar', href: '/used-car-calculator' },
+      { nameKey: 'toolNames.traffic', href: '/traffic-fine-calculator' },
+      { nameKey: 'toolNames.sec', href: '/sec-bill-calculator' },
+      { nameKey: 'toolNames.billSplitter', href: '/bill-splitter-calculator' },
+      { nameKey: 'toolNames.fuel', href: '/fuel-cost-calculator' },
     ],
   },
   {
     key: 'realEstate',
     tools: [
-      { nameKey: 'toolNames.rett', href: '#' },
+      { nameKey: 'toolNames.rett', href: '/rett-tax-calculator' },
     ],
   },
 ]

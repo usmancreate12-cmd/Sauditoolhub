@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "HsabKSA — Saudi Calculator Hub",
+    "title": "Sauditoolhub — Saudi Calculator Hub",
     "description": "Mga libreng calculator para sa Saudi Arabia — EOSB, multa, ZATCA, upa, at iba pa. 100% libre, pribado, walang nakaimbak na data."
   },
   "JawazatCalculator": {
@@ -231,7 +231,7 @@
         "tool4Desc": "Alamin kung paano nakakaapekto ang Nitaqat Saudization ratios sa iyong company classification at visa processing capabilities.",
         "tool4Href": "/nitaqat-simulator"
       },
-      "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Labor Law Articles 84 at 85. Maaaring mag-iba ang final EOSB amounts depende sa iyong specific employment contract, company policies, at official Ministry of Human Resources and Social Development assessments. Inirerekomenda naming kumonsulta sa legal professional para sa accurate advice. Ang HsabKSA ay hindi responsable para sa anumang discrepancies sa pagitan ng estimated at actual amounts."
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Labor Law Articles 84 at 85. Maaaring mag-iba ang final EOSB amounts depende sa iyong specific employment contract, company policies, at official Ministry of Human Resources and Social Development assessments. Inirerekomenda naming kumonsulta sa legal professional para sa accurate advice. Ang Sauditoolhub ay hindi responsable para sa anumang discrepancies sa pagitan ng estimated at actual amounts."
     }
   },
   "FamilyVisaCalculator": {
@@ -304,7 +304,7 @@
     "noDependentsInfo": "Magdagdag ng kahit isang dependent upang kalkulahin ang mga fee.",
     "emptyState": "Ilagay ang detalye ng iyong pamilya sa itaas upang makita ang estimate ng fee.",
     "successMessage": "Kumpleto ang kalkulasyon! Ang mga resulta ay nasa itaas.",
-    "copiedResult": "Family Visa Fees: {total} SAR (via HsabKSA)",
+    "copiedResult": "Family Visa Fees: {total} SAR (via Sauditoolhub)",
     "period": { "6m": "6 Buwan", "12m": "1 Taon", "24m": "2 Taon" },
     "disclaimer": "Ito ay isang estimate batay sa opisyal na Saudi fee structures (2024). Maaaring mag-iba ang aktwal na fee. Hindi ito legal o pinansyal na payo.",
     "lastUpdated": "Huling na-update: Hulyo 2026",
@@ -442,7 +442,7 @@
     },
     "emptyState": "Ilagay ang iyong employment details sa itaas para makita ang final settlement estimate.",
     "successMessage": "Nakalkula ang settlement! Ang mga resulta ay nasa itaas.",
-    "copiedResult": "Final Settlement: {total} SAR (via HsabKSA)",
+    "copiedResult": "Final Settlement: {total} SAR (via Sauditoolhub)",
     "disclaimer": "Ito ay isang tantiya batay sa Saudi Labor Law Article 76 at standard employment contract provisions. Ang aktwal na settlement amount ay maaaring mag-iba depende sa iyong contract, company policy, at official Ministry assessment. Ito ay hindi legal na payo.",
     "lastUpdated": "Huling na-update: Hulyo 2026",
     "legalNotice": "Batay sa Saudi Labor Law Article 76 at standard contracts.",
@@ -632,7 +632,7 @@
       "message": "Wala pang documents na naka-map para sa visa type na ito."
     },
     "shareTitle": "Aking Saudi Visa Document Checklist",
-    "shareFooter": "Ginawa ng HsabKSA - Saudi Arabia's Free Calculator Hub",
+    "shareFooter": "Ginawa ng Sauditoolhub - Saudi Arabia's Free Calculator Hub",
     "disclaimer": "Ang checklist na ito ay para sa informational purposes lamang. Maaaring mag-iba ang document requirements depende sa iyong nationality, employer, at specific circumstances. Laging i-verify sa Saudi embassy o MOFA para sa pinakabagong requirements.",
     "errors": {
       "generic": "May naganap na error. Pakisubukan muli."
@@ -743,7 +743,7 @@
       "message": "Maglagay ng subtotal amount sa itaas para makalkula ang VAT at makita ang compliance checklist."
     },
     "emptyState": "Ilagay ang detalye ng iyong invoice sa itaas para makalkula ang VAT at matingnan ang compliance checklist.",
-    "copiedResult": "VAT: {vat} SAR | Kabuuan: {total} SAR (mula sa HsabKSA)",
+    "copiedResult": "VAT: {vat} SAR | Kabuuan: {total} SAR (mula sa Sauditoolhub)",
     "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa mga regulasyon ng ZATCA at Saudi VAT Law. Maaaring mag-iba ang aktwal na mga kinakailangan sa compliance batay sa uri ng iyong negosyo, kita, at klasipikasyon ng ZATCA. Kumonsulta sa ZATCA-approved tax advisor para sa opisyal na payo.",
     "errors": {
       "subtotalRequired": "Maglagay ng wastong subtotal amount.",
@@ -873,7 +873,7 @@
       "dropWarning": "Ang mga pagbabagong ito ay nanganganib na ibaba ang iyong band mula sa {band}. Isaalang-alang ang pagkuha ng mas maraming Saudi."
     },
     "emptyState": "Ilagay ang detalye ng iyong kumpanya sa itaas at gamitin ang simulator para makita kung paano naaapektuhan ng mga pagbabago ang iyong Nitaqat band.",
-    "copiedResult": "Nitaqat Sim: Kasalukuyan {current}% → Iminungkahi {proposed}% (mula sa HsabKSA)",
+    "copiedResult": "Nitaqat Sim: Kasalukuyan {current}% → Iminungkahi {proposed}% (mula sa Sauditoolhub)",
     "disclaimer": "Ang simulator na ito ay nagbibigay ng mga tantiya batay sa standard Nitaqat thresholds. Ang actual bands ay depende sa iyong partikular na sektor, laki ng kumpanya, at pinakabagong MHRSD tables. Kumonsulta sa iyong PRO o sa Qiwa/MHRSD portal para sa iyong opisyal na klasipikasyon. Ito ay hindi legal o regulatory advice.",
     "errors": {
       "totalRequired": "Maglagay ng wastong kabuuang bilang ng empleyado (minimum 1).",
@@ -956,7 +956,7 @@
       "estimatedFee": "Tinantyang Flat Fee", "exchangeMargin": "Exchange Margin (2%)", "totalCost": "Tinantyang Kabuuang Gastos"
     },
     "emptyState": "Maglagay ng Saudi IBAN number para i-validate at tantyahin ang transfer fees.",
-    "copiedResult": "IBAN: {iban} | Bangko: {bank} (via HsabKSA)",
+    "copiedResult": "IBAN: {iban} | Bangko: {bank} (via Sauditoolhub)",
     "disclaimer": "Ang IBAN validator na ito ay nagsusuri lamang ng format. Ang transfer fees ay tantiya batay sa standard bank rates. Ang aktwal na fees ay nag-iiba sa bawat bangko.",
     "errors": { "invalidFormat": "Hindi valid na IBAN format. Ang Saudi IBAN ay dapat magsimula sa SA na sinusundan ng 22 digits.", "generic": "May naganap na error." },
     "seo": {
@@ -1008,7 +1008,7 @@
     "results": { "futureValue": "Kabuuang Future Value", "totalInvested": "Kabuuang Na-invest", "estimatedReturns": "Tinantyang Wealth Gained" },
     "chart": { "title": "Principal kumpara sa Returns", "principal": "Principal (Iyong Investment)", "returns": "Returns (Wealth Gained)" },
     "emptyState": "Ilagay ang iyong buwanang investment amount para kalkulahin ang iyong SIP returns sa paglipas ng panahon.",
-    "copiedResult": "SIP Future Value: {fv} SAR | Total Invested: {invested} SAR (via HsabKSA)",
+    "copiedResult": "SIP Future Value: {fv} SAR | Total Invested: {invested} SAR (via Sauditoolhub)",
     "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa compound interest calculations. Ang aktwal na returns ay depende sa market performance. Kumonsulta sa financial advisor.",
     "errors": { "generic": "May naganap na error. Pakisubukan muli." },
     "seo": {
@@ -1065,7 +1065,7 @@
     "breakdown": { "title": "Asset Breakdown", "cashSavings": "Cash at Bank Savings", "goldValue": "Gold Value", "silverValue": "Silver Value", "investments": "Investments/Stocks", "totalAssets": "Total Assets", "debts": "Immediate Debts", "netWealth": "Net Wealth" },
     "nisabMet": "Naabot ang Nisab threshold. 2.5% Zakat ay dapat bayaran sa iyong net wealth.",
     "emptyState": "Ilagay ang iyong savings, ginto, at investments para kalkulahin ang iyong Zakat.",
-    "copiedResult": "Zakat: {zakat} SAR | Net Wealth: {netWealth} SAR (via HsabKSA)",
+    "copiedResult": "Zakat: {zakat} SAR | Net Wealth: {netWealth} SAR (via Sauditoolhub)",
     "disclaimer": "Ang calculator na ito ay nagbibigay ng tantiya. Kumonsulta sa isang Islamic scholar para sa tiyak na gabay.",
     "errors": { "generic": "May maling nangyari. Pakisubukan muli." },
     "seo": {
@@ -1123,7 +1123,7 @@
     "results": { "eligibleLoan": "Maximum Eligible Loan", "monthlyEMI": "Monthly EMI", "totalInterest": "Kabuuang Interest na Babayaran" },
     "dbrInfo": { "utilization": "Paggamit", "yourDBR": "Iyong DBR", "samaLimit": "SAMA Limit", "maxAllowed": "Maximum Allowed EMI (33% ng Salary):", "available": "Available EMI para sa Bagong Loan:" },
     "emptyState": "Ilagay ang iyong salary at mga kasalukuyang obligasyon para malaman ang iyong loan eligibility sa ilalim ng SAMA rules.",
-    "copiedResult": "SAMA Loan: {loan} SAR | Monthly EMI: {emi} SAR (via HsabKSA)",
+    "copiedResult": "SAMA Loan: {loan} SAR | Monthly EMI: {emi} SAR (via Sauditoolhub)",
     "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa SAMA's 33% DBR regulation. Ang aktwal na loan approval ay nakadepende sa credit policy ng iyong bangko, credit score (SIMAH), at financial history. Kumonsulta sa iyong bangko para sa eksaktong pre-approval. Ito ay hindi financial advice.",
     "errors": { "salaryRequired": "Pakilagay ang iyong monthly salary.", "generic": "May nangyaring mali. Pakisubukan muli.", "dbrLimitReached": "Naabot mo na ang iyong SAMA DBR limit (33%). Bawasan ang kasalukuyang utang bago mag-apply ng bagong loan." },
     "seo": {
@@ -1228,7 +1228,7 @@
       "bulkYears": "Ang pagrehistro para sa maraming taon ay hindi nagbabawas ng taunang renewal costs. Mag-renew taun-taon upang pamahalaan ang cash flow."
     },
     "emptyState": "Ilagay ang iyong mga detalye ng CR sa itaas upang matantya ang kabuuang registration at renewal costs.",
-    "copiedResult": "CR Cost: {total} SAR total | Taunang Pag-renew: {annual} SAR (sa pamamagitan ng HsabKSA)",
+    "copiedResult": "CR Cost: {total} SAR total | Taunang Pag-renew: {annual} SAR (sa pamamagitan ng Sauditoolhub)",
     "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa karaniwang iskedyul ng bayad ng Saudi Ministry of Commerce. Maaaring mag-iba ang aktwal na gastos batay sa partikular na activity codes, karagdagang lisensya, at mga rate ng professional service provider. Kumonsulta sa certified legal consultant para sa eksaktong presyo. Ito ay hindi financial o legal na payo.",
     "errors": { "capitalRequired": "Maglagay ng wastong halaga ng capital.", "generic": "May nangyaring mali. Pakisubukan muli." },
     "seo": {
@@ -1311,7 +1311,7 @@
       "watheq": "Magparehistro sa Watheq (Saudi freelance platform) upang makakuha ng opisyal na freelance documentation at mapatunayan ang iyong katayuan bilang freelancer."
     },
     "emptyState": "Ilagay ang iyong mga detalye ng kita sa itaas upang kalkulahin ang iyong net freelance earnings pagkatapos ng mga bayad, buwis, at gastos.",
-    "copiedResult": "Freelance Net Income: {monthly} SAR/buwan | Taunang: {annual} SAR (sa pamamagitan ng HsabKSA)",
+    "copiedResult": "Freelance Net Income: {monthly} SAR/buwan | Taunang: {annual} SAR (sa pamamagitan ng Sauditoolhub)",
     "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya para sa impormasyonal na layunin lamang. Ang aktwal na net income ay depende sa iyong partikular na katayuan sa buwis, mga bayad sa platform, at mga gastos. Kumonsulta sa isang kwalipikadong accountant para sa iyong mga obligasyon sa buwis bilang freelancer. Ito ay hindi payong pinansyal.",
     "errors": {
       "priceRequired": "Maglagay ng wastong halaga ng kita.",
@@ -1410,7 +1410,7 @@
       "subscription": "Ang iyong platform subscription cost per order ay mataas. Suriin ang iyong plan o dagdagan ang order volume para mapababa ang per-order cost."
     },
     "emptyState": "Ilagay ang detalye ng iyong produkto sa itaas para kalkulahin ang iyong tunay na profit pagkatapos ng lahat ng fees.",
-    "copiedResult": "Salla/Zid Profit: {perOrder} SAR/order | Buwanan: {monthly} SAR (mula sa HsabKSA)",
+    "copiedResult": "Salla/Zid Profit: {perOrder} SAR/order | Buwanan: {monthly} SAR (mula sa Sauditoolhub)",
     "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa Salla at Zid Saudi Arabia pricing noong 2024. Maaaring mag-iba ang actual fees batay sa iyong plan, payment provider, at negotiated rates. Tingnan ang iyong platform dashboard para sa eksaktong figures. Ito ay hindi financial advice.",
     "errors": {
       "priceRequired": "Maglagay ng wastong selling price.",
@@ -1472,6 +1472,563 @@
       "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa Salla at Zid pricing noong 2024. Maaaring mag-iba ang actual fees sa iyong plan, payment provider, at negotiated rates. Tingnan ang iyong platform dashboard para sa eksaktong figures. Ito ay hindi financial o legal advice."
     }
   },
+  "UsedCarCalculator": {
+    "toolName": "Used Car Naql Malikiya at Hidden Cost Calculator",
+    "description": "Kalkulahin ang kabuuang halaga ng pagbili ng gamit na kotse sa Saudi Arabia kabilang ang Naql Malikiya transfer fee, insurance, Istimara renewal, at pag-aayos.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Pagbili ng Kotse",
+      "purchasePrice": { "label": "Presyo ng Pagbili ng Kotse (SAR)", "placeholder": "e.g., 50000" },
+      "carAge": { "label": "Edad ng Kotse (Taon)", "placeholder": "e.g., 5" },
+      "engineCapacity": { "label": "Engine Capacity", "options": { "small": "Mas mababa sa 1600cc", "medium": "1601cc hanggang 2000cc", "large": "Higit sa 2000cc" } },
+      "insuranceType": { "label": "Uri ng Insurance", "options": { "thirdParty": "Third Party", "comprehensive": "Comprehensive" } },
+      "repairCost": { "label": "Tinantyang Gastos sa Pag-aayos (SAR)", "placeholder": "e.g., 2000" },
+      "istimaraExpired": { "label": "Ang Istimara ay expired na" },
+      "istimaraYears": { "label": "Panahon ng Pag-renew ng Istimara", "year": "Taon", "years": "Taon" }
+    },
+    "buttons": { "calculate": "Kalkulahin ang Kabuuang Halaga", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": { "totalFinalPrice": "Kabuuang Huling Presyo", "totalHiddenCosts": "Kabuuang Nakatagong Gastos", "purchasePrice": "Presyo ng Pagbili" },
+    "breakdown": {
+      "title": "Pagkakabahagi ng Gastos",
+      "purchasePrice": "Presyo ng Pagbili",
+      "naqlMalikiya": "Naql Malikiya (Transfer Fee)",
+      "istimaraRenewal": "Pag-renew ng Istimara",
+      "insurance": "Insurance (Tantiya)",
+      "repairCost": "Gastos sa Pag-aayos (Tantiya)",
+      "totalHiddenCosts": "Kabuuang Nakatagong Gastos",
+      "totalFinalPrice": "Kabuuang Huling Presyo"
+    },
+    "emptyState": "Ilagay ang detalye ng kotse sa itaas upang kalkulahin ang kabuuang halaga kasama ang lahat ng nakatagong bayarin.",
+    "copiedResult": "Gamit na Kotse na Halaga: {total} SAR kabuuan | Nakatago: {hidden} SAR (via Sauditoolhub)",
+    "disclaimer": "Ito ay isang tantiya batay sa Saudi Traffic Department (Moroor) fees, insurance market rates, at assumed repair costs. Maaaring mag-iba ang aktwal na halaga. Palaging i-verify ang transfer fees sa traffic office at kumuha ng maraming insurance quotes. Ito ay hindi financial o legal na payo.",
+    "errors": { "priceRequired": "Maglagay ng wastong presyo ng pagbili.", "generic": "May naganap na error. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Used Car Cost Calculator",
+        "step1Title": "Step 1: Ilagay ang Presyo ng Pagbili ng Kotse",
+        "step1Desc": "Ilagay ang napagkasunduang presyo ng pagbili ng gamit na kotse sa SAR. Idadagdag ng calculator ang lahat ng nakatagong gastos upang ibigay ang totoong huling presyo.",
+        "step2Title": "Step 2: Piliin ang Engine Capacity at Insurance",
+        "step2Desc": "Piliin ang range ng engine capacity — ang Naql Malikiya transfer fee ay nakadepende dito: SAR 150 (sa ilalim ng 1600cc), SAR 300 (1601-2000cc), o SAR 500 (higit sa 2000cc). Piliin ang Third Party o Comprehensive insurance.",
+        "step3Title": "Step 3: Ilagay ang Gastos sa Pag-aayos at Status ng Istimara",
+        "step3Desc": "Ilagay ang iyong tinantyang gastos sa pag-aayos para sa anumang kailangang ayusin sa kotse. Lagyan ng check ang box kung ang Istimara ay expired at piliin ang renewal period.",
+        "step4Title": "Step 4: Kalkulahin ang Iyong Kabuuang Gastos",
+        "step4Desc": "I-click ang 'Kalkulahin ang Kabuuang Halaga' upang makita ang kumpletong breakdown. Ipinapakita ng resulta ang presyo ng pagbili, Naql Malikiya fee, Istimara renewal, insurance estimate, repair costs, at huling presyo.",
+        "step5Title": "Step 5: Planuhin ang Iyong Badyet",
+        "step5Desc": "Gamitin ang breakdown upang planuhin ang iyong buong badyet. Tandaan na dapat bumili ng insurance bago magmaneho, at dapat kumpletuhin ang Naql Malikiya transfer sa pamamagitan ng Absher."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa mga Gastos sa Used Car sa Saudi Arabia",
+        "content": "Ang pagbili ng gamit na kotse sa Saudi Arabia ay may kasamang ilang gastos bukod sa presyo ng pagbili:\n\n1. Naql Malikiya: Ang mandatoryong bayad sa paglipat ng pagmamay-ari na binabayaran sa Traffic Department (Moroor). Ang bayad ay batay sa engine capacity — SAR 150 para sa ilalim ng 1600cc, SAR 300 para sa 1601-2000cc, at SAR 500 para sa higit sa 2000cc.\n\n2. Pag-renew ng Istimara: Kung ang kasalukuyang rehistrasyon ng kotse (Istimara) ay expired na, dapat mo itong i-renew sa halagang SAR 300 bawat taon.\n\n3. Mandatoryong Insurance: Lahat ng sasakyan sa Saudi Arabia ay dapat may insurance. Ang Third Party insurance ay nagkakahalaga ng SAR 600-1,000 bawat taon.\n\n4. Pag-aayos at Pagpapanatili: Ang mga gamit na kotse ay madalas nangangailangan ng agarang pag-aayos. Karaniwang gastos ang mga gulong, pagpapalit ng langis, AC service, at mekanikal na pag-aayos.",
+        "exampleTitle": "Halimbawa",
+        "example": "Pagbili ng 2019 Toyota Camry sa halagang SAR 60,000:\n\nPresyo ng Pagbili: SAR 60,000\nEngine: 2000cc → Transfer Fee: SAR 300\nIstimara: Expired, 1 taon renewal → SAR 300\nInsurance: Comprehensive (2.5%) → SAR 1,500\nPag-aayos: Bagong gulong + AC service → SAR 2,500\n\nKabuuang Nakatagong Gastos: SAR 4,600\nKabuuang Huling Presyo: SAR 64,600"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Used Car Costs sa Saudi Arabia",
+        "q1": "Ano ang Naql Malikiya at magkano ito?",
+        "a1": "Ang Naql Malikiya ay ang bayad sa paglipat ng pagmamay-ari ng sasakyan na sinisingil ng Saudi Traffic Department. Ang bayad ay: SAR 150 para sa kotse na under 1600cc, SAR 300 para sa 1601-2000cc, at SAR 500 para sa higit sa 2000cc. Ito ay isang mandatoryong isang beses na bayad na binabayaran ng bumibili sa pamamagitan ng Absher o sa traffic office.",
+        "q2": "Paano ko ilipat ang pagmamay-ari ng kotse sa pamamagitan ng Absher?",
+        "a2": "Upang ilipat ang pagmamay-ari: 1) Mag-login sa Absher, 2) Pumunta sa Traffic Services > Vehicle Ownership Transfer, 3) Ilagay ang plate number at chassis number, 4) Ilagay ang ID/Iqama number ng bumibili, 5) Mag-verify sa pamamagitan ng SMS OTP mula sa parehong partido, 6) Bayaran ang transfer fee online.",
+        "q3": "Ano ang multa sa pagmamaneho na may expired na Istimara?",
+        "a3": "Ang pagmamaneho na may expired na Istimara sa Saudi Arabia ay may multang SAR 150-300. Kung maaksidente ka na may expired na rehistrasyon, maaaring hindi ka saklawin ng insurance. Palaging i-renew ang iyong Istimara bago ang expiry date sa pamamagitan ng Absher o Tawakkalna.",
+        "q4": "Kailangan ko ba ng Comprehensive insurance para sa gamit na kotse?",
+        "a4": "Ang Third Party insurance lang ang legal na kinakailangan sa Saudi Arabia. Gayunpaman, para sa mga naka-finance na kotse, hinihingi ng bangko ang Comprehensive insurance. Para sa lumang gamit na kotse (10+ taon), ang Comprehensive ay maaaring mas mahal kaysa sa halaga nito.",
+        "q5": "Pwede ba akong makipag-tawaran sa transfer fee o insurance?",
+        "a5": "Ang Naql Malikiya transfer fee ay itinakda ng gobyerno at hindi maaaring pag-usapan. Ang insurance rates ay maaaring ihambing sa iba't ibang provider — Tawuniya, Bupa, Allianz, MEDGULF at iba pa. Laging kumuha ng 3-5 insurance quotes bago bumili.",
+        "q6": "Sulit ba ang mekanikal na inspeksyon para sa gamit na kotse?",
+        "a6": "Oo. Ang isang komprehensibong inspeksyon (SAR 150-400) ay maaaring makatipid sa iyo ng libu-libo sa nakatagong pag-aayos. Kasama sa mga aprubadong inspection center ang SAB, Enmaa, at Sara. Sinusuri nila ang engine, transmission, suspension, AC, electrical system, at kondisyon ng katawan.",
+        "q7": "Ano pang ibang gastos ang dapat kong badyetin kapag bumibili ng gamit na kotse?",
+        "a7": "Karagdagang gastos na dapat badyetin: bagong gulong (SAR 800-2,000), pagpapalit ng langis at filter (SAR 150-300), AC gas refill (SAR 100-200), full detailing (SAR 200-500), registration plate fee (SAR 100), at paunang fuel tank."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Auto at Daily Life Tools",
+        "tool1Name": "Traffic Fine Cost Calculator",
+        "tool1Desc": "Kalkulahin ang eksaktong halaga ng multa para sa anumang paglabag sa trapiko sa Saudi Arabia kabilang ang black points at vehicle impoundment rules.",
+        "tool1Href": "/traffic-fine-calculator",
+        "tool2Name": "Fuel Cost at Mileage Calculator",
+        "tool2Desc": "Kalkulahin ang gastos sa gasolina para sa iyong araw-araw na biyahe o road trip sa Saudi Arabia batay sa fuel efficiency ng iyong kotse at kasalukuyang presyo ng gasolina.",
+        "tool2Href": "/fuel-cost-calculator",
+        "tool3Name": "SEC Bill Estimator",
+        "tool3Desc": "Tantyahin ang iyong buwanang bill ng Saudi Electricity Company batay sa tiered consumption rates na may 15% VAT na kasama.",
+        "tool3Href": "/sec-bill-calculator",
+        "tool4Name": "Bill Splitter Calculator",
+        "tool4Desc": "Hatiin ang rent at utility bills nang patas sa mga kasama sa bahay. Perpekto para sa shared apartments sa Riyadh, Jeddah, at Dammam.",
+        "tool4Href": "/bill-splitter-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa Saudi Traffic Department fees, kasalukuyang insurance market rates, at karaniwang gastos sa pag-aayos. Maaaring mag-iba ang aktwal na bayarin. Palaging i-verify ang opisyal na fees sa Absher o Moroor at kumuha ng maraming insurance quotes. Ito ay hindi financial o legal na payo."
+    }
+  },
+  "TrafficFineCalculator": {
+    "toolName": "Traffic Fine (Saher) Cost Calculator",
+    "description": "Kalkulahin ang mga multa sa trapiko ng Saudi kasama ang mga black points at mga patakaran sa pagkumpiska ng sasakyan. Sinusuportahan ang lahat ng uri ng paglabag sa Saher kabilang ang speeding, red light, seatbelt, mobile phone, at iba pa.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Magdagdag ng Traffic Violation",
+      "categoryLabel": "Kategorya ng Paglabag",
+      "categoryPlaceholder": "Pumili ng kategorya",
+      "violationLabel": "Uri ng Paglabag",
+      "violationPlaceholder": "Pumili ng paglabag",
+      "fineAmountLabel": "Halaga ng Multa (SAR)",
+      "blackPointsLabel": "Black Points",
+      "rangeHint": "Saklaw: {min} - {max} SAR",
+      "impoundmentWarning": "Ang paglabag na ito ay maaaring magresulta sa pagkumpiska ng sasakyan"
+    },
+    "categories": {
+      "speeding": "Pagmamabilis",
+      "signals": "Mga Signal ng Trapiko",
+      "driving_behavior": "Pag-uugali sa Pagmamaneho",
+      "documents": "Mga Dokumento at Rehistrasyon",
+      "parking": "Pagpaparada",
+      "other": "Iba Pang Paglabag"
+    },
+    "violations": {
+      "speeding_less_20": "Paglabag sa speed limit ng mas mababa sa 20 km/h",
+      "speeding_20_30": "Paglabag sa speed limit ng 20-30 km/h",
+      "speeding_30_40": "Paglabag sa speed limit ng 30-40 km/h",
+      "speeding_40_50": "Paglabag sa speed limit ng 40-50 km/h",
+      "speeding_50_plus": "Paglabag sa speed limit ng higit sa 50 km/h",
+      "red_light": "Pagdaraan sa pulang ilaw",
+      "stop_sign": "Hindi paghinto sa stop sign",
+      "no_seatbelt": "Hindi pagsusuot ng seatbelt",
+      "mobile_phone": "Paggamit ng cellphone habang nagmamaneho",
+      "tailgating": "Hindi pagpapanatili ng ligtas na distansya",
+      "wrong_direction": "Pagmamaneho sa kabaligtaran na direksyon",
+      "pedestrian": "Hindi pagbibigay daan sa mga pedestrian",
+      "no_license": "Pagmamaneho nang walang lisensya",
+      "expired_istimara": "Pagmamaneho na may expired na Istimara",
+      "wrong_parking": "Maling pagpaparada",
+      "handicapped_parking": "Pagpaparada sa lugar para sa may kapansanan",
+      "illegal_tint": "Ilegal na window tint",
+      "street_racing": "Street racing o drifting"
+    },
+    "buttons": {
+      "addViolation": "Magdagdag ng Paglabag",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print",
+      "reset": "I-reset Lahat"
+    },
+    "results": {
+      "totalFine": "Kabuuang Multa",
+      "totalBlackPoints": "Kabuuang Black Points",
+      "violationsCount": "Mga Paglabag"
+    },
+    "breakdown": {
+      "title": "Breakdown ng mga Paglabag"
+    },
+    "warnings": {
+      "licenseSuspension": "Babala: Nakaipon ka ng 24+ black points. Ito ay maaaring magresulta sa pagsuspinde ng lisensya.",
+      "vehicleImpoundment": "Ang isa o higit pang paglabag ay maaaring magresulta sa pagkumpiska ng sasakyan."
+    },
+    "emptyState": "Magdagdag ng mga traffic violation sa itaas upang makita ang kabuuang halaga ng multa, black points, at mga babala.",
+    "copiedResult": "Traffic Fine Total: {total} SAR | Black Points: {points} (sa pamamagitan ng Sauditoolhub)",
+    "disclaimer": "Ito ay isang tantiya batay sa naka-publish na Saudi Traffic Department (Moroor) fine schedules. Maaaring mag-iba ang aktwal na multa batay sa discretion ng korte at mga partikular na pangyayari. Palaging suriin ang Absher para sa iyong opisyal na katayuan ng multa. Ito ay hindi legal na payo.",
+    "errors": { "generic": "May nangyaring mali. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Traffic Fine (Saher) Calculator",
+        "step1Title": "Hakbang 1: Pumili ng Kategorya ng Paglabag",
+        "step1Desc": "Pumili ng kategorya na pinakaangkop sa iyong traffic violation tulad ng Pagmamabilis, Mga Signal ng Trapiko, Pag-uugali sa Pagmamaneho, Mga Dokumento, Pagpaparada, o Iba Pang Paglabag. Ang bawat kategorya ay naglalaman ng mga partikular na uri ng paglabag na may kaukulang fine range at black points.",
+        "step2Title": "Hakbang 2: Piliin ang Partikular na Paglabag",
+        "step2Desc": "Piliin ang eksaktong paglabag mula sa na-filter na listahan. Ipapakita ng system ang fine range (minimum hanggang maximum), ang mga black points na nauugnay sa paglabag na ito, at kung ang pagkumpiska ng sasakyan ay naaangkop.",
+        "step3Title": "Hakbang 3: Ayusin ang Halaga ng Multa",
+        "step3Desc": "Ang multa ay awtomatikong napupuno ng maximum na halaga. Maaari mo itong ayusin sa loob ng ipinapakitang saklaw batay sa aktwal na multa na iyong natanggap. Ang multa ay dapat nasa loob ng legal na saklaw para sa uri ng paglabag na iyon.",
+        "step4Title": "Hakbang 4: Magdagdag ng Maramihang Paglabag",
+        "step4Desc": "I-click ang 'Magdagdag ng Paglabag' upang idagdag ang bawat multa sa iyong tumatakbong kabuuan. Maaari kang magdagdag ng kahit ilang paglabag hangga't kailangan — bawat isa ay lilitaw sa breakdown list sa kanang panel kasama ang halaga ng multa at black points nito.",
+        "step5Title": "Hakbang 5: Suriin ang mga Babala at Kabuuan",
+        "step5Desc": "Ang mga resulta ay nagpapakita ng kabuuang multa, kabuuang black points, at mga kritikal na babala. Kung ang iyong mga black points ay umabot sa 24 o higit pa, lilitaw ang babala sa pagsuspinde ng lisensya. Ang mga babala sa pagkumpiska ng sasakyan ay ipinapakita kapag naaangkop."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Saudi Traffic Fines at Black Points",
+        "content": "Ang sistema ng multa sa trapiko ng Saudi (Saher) ay gumagamit ng kombinasyon ng mga parusang pinansyal at black points upang ipatupad ang kaligtasan sa kalsada:\n\n1. Black Points System: Ang bawat paglabag sa trapiko ay may tiyak na bilang ng black points. Ang pag-ipon ng 24 points sa loob ng 12 buwan ay nagreresulta sa pagsuspinde ng lisensya sa loob ng 30 araw. Sa 36 points, ang suspensyon ay umaabot sa 60 araw, at sa 48 points, 90 araw.\n\n2. Fine Ranges: Karamihan sa mga paglabag ay may fine range sa halip na isang nakapirming halaga. Ang aktwal na multa ay nakadepende sa discretion ng opisyal, kalubhaan, at mga pangyayari ng paglabag.\n\n3. Pagkumpiska ng Sasakyan: Ang mga seryosong paglabag tulad ng street racing, pagmamaneho nang walang lisensya, pagdaraan sa pulang ilaw, at labis na pagmamabilis ay maaaring magresulta sa pagkumpiska ng sasakyan hanggang 15-30 araw.\n\n4. Mga Paraan ng Pagbabayad: Ang mga multa ay maaaring bayaran sa pamamagitan ng Absher, Tawakkalna, SADAD (sa pamamagitan ng bangko), o sa traffic departments. Ang mga hindi nabayarang multa ay maaaring humarang sa pag-renew ng rehistrasyon ng sasakyan at pag-renew ng lisensya.\n\n5. Diskwento sa Multa: Ang mga pana-panahong amnestiya (hal., sa panahon ng National Day) ay maaaring mag-alok ng diskwento sa mga outstanding fine. Suriin ang Absher para sa anumang aktibong kampanya.",
+        "exampleTitle": "Tunay na Halimbawa",
+        "example": "Isang driver ang nag-ipon ng mga sumusunod na paglabag:\n\n1. Pagmamabilis ng 30-40 km/h: SAR 900 (4 points)\n2. Paggamit ng cellphone: SAR 700 (4 points)\n3. Pagdaraan sa pulang ilaw: SAR 4,500 (6 points, pagkumpiska)\n\nKabuuang Multa: SAR 6,100\nKabuuang Black Points: 14 (mas mababa sa 24 threshold)\nPagkumpiska ng Sasakyan: Oo — para sa paglabag sa pulang ilaw\n\nAng driver ay dapat magbayad ng SAR 6,100, makatanggap ng 14 black points, at ang sasakyan ay kukumpiskahin hanggang 15 araw."
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Saudi Traffic Fines",
+        "q1": "Magkano ang multa sa pagmamabilis sa Saudi Arabia?",
+        "a1": "Ang mga multa sa pagmamabilis sa Saudi Arabia ay batay sa kung gaano ka lumabag sa limit: mas mababa sa 20 km/h ay nagkakahalaga ng SAR 300-500 (walang black points), 20-30 km/h ay SAR 500-800 (2 points), 30-40 km/h ay SAR 800-1,000 (4 points), 40-50 km/h ay SAR 1,000-1,500 (6 points), at higit sa 50 km/h ay SAR 1,500-2,000 (8 points) na may posibleng pagkumpiska ng sasakyan.",
+        "q2": "Ilang black points ang magdudulot ng pagsuspinde ng lisensya sa Saudi Arabia?",
+        "a2": "Ang pag-ipon ng 24 black points sa loob ng 12 buwan ay nagreresulta sa pagsuspinde ng lisensya sa Saudi Arabia. Ang panahon ng suspensyon ay nag-iiba: 30 araw para sa 24 points, 60 araw para sa 36 points, at 90 araw para sa 48 points. Pagkatapos ng suspensyon, ang driver ay dapat kumuha ng driving courses upang maibalik ang lisensya.",
+        "q3": "Ano ang multa sa pagdaraan sa pulang ilaw sa Saudi Arabia?",
+        "a3": "Ang pagdaraan sa pulang ilaw sa Saudi Arabia ay may multa na SAR 3,000 hanggang 6,000, 6 black points sa iyong lisensya, at pagkumpiska ng sasakyan. Ang sasakyan ay maaaring kumpiskahin hanggang 15 araw. Ito ay isa sa mga pinakaseryosong paglabag sa trapiko na sinusubaybayan ng Saher system.",
+        "q4": "Maaari ko bang suriin ang aking traffic fines online sa Saudi Arabia?",
+        "a4": "Oo, maaari mong suriin ang iyong traffic fines online sa pamamagitan ng Absher (Ministry of Interior), Tawakkalna, My Services, o ng Ministry of Interior's Istiqra system. Maaari mong tingnan ang lahat ng recorded violations, black points, at magbayad ng multa nang direkta sa pamamagitan ng mga platform na ito.",
+        "q5": "Ano ang multa sa paggamit ng cellphone habang nagmamaneho sa Saudi Arabia?",
+        "a5": "Ang paggamit ng cellphone habang nagmamaneho sa Saudi Arabia ay nagreresulta sa multa na SAR 500-900 at 4 black points. Kasama dito ang pagte-text, pagtawag nang walang hands-free device, o paggamit ng apps habang gumagalaw ang sasakyan. Maaaring matukoy ng Saher cameras ang paggamit ng phone sa ilang lugar.",
+        "q6": "Gaano katagal nananatili sa record ang traffic violations sa Saudi Arabia?",
+        "a6": "Sa Saudi Arabia, ang black points ay nananatili sa iyong driving record sa loob ng 12 magkakasunod na buwan. Ang mga traffic fines ay dapat bayaran; ang hindi nabayarang multa ay maaaring pumigil sa pag-renew ng rehistrasyon ng sasakyan (Istimara), pag-renew ng lisensya, at maaaring makaapekto sa iyong kakayahang umalis ng bansa.",
+        "q7": "Mayroon bang diskwento sa traffic fines sa Saudi Arabia?",
+        "a7": "Ang mga awtoridad ng Saudi ay paminsan-minsang nag-aanunsyo ng mga diskwento sa traffic fines sa panahon ng mga pambansang pagdiriwang (hal., Saudi National Day). Gayunpaman, ang mga ito ay pansamantalang amnestiya. Ang karaniwang parusa ay nalalapat para sa lahat ng paglabag mula sa petsa ng isyu. Palaging suriin ang Absher para sa anumang aktibong diskwento."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Auto at Daily Life Tools",
+        "tool1Name": "Used Car Cost Calculator",
+        "tool1Desc": "Kalkulahin ang kabuuang halaga ng pagbili ng gamit na kotse sa Saudi Arabia kabilang ang Naql Malikiya transfer fees, insurance, Istimara renewal, at pag-aayos.",
+        "tool1Href": "/used-car-calculator",
+        "tool2Name": "Fuel Cost Calculator",
+        "tool2Desc": "Kalkulahin ang mga gastos sa gasolina para sa iyong araw-araw na byahe o road trips sa Saudi Arabia batay sa efficiency ng iyong sasakyan at kasalukuyang presyo ng gasolina.",
+        "tool2Href": "/fuel-cost-calculator",
+        "tool3Name": "SEC Bill Estimator",
+        "tool3Desc": "Tantyahin ang iyong buwanang Saudi Electricity Company bill batay sa tiered consumption rates na may 15% VAT.",
+        "tool3Href": "/sec-bill-calculator",
+        "tool4Name": "Bill Splitter Calculator",
+        "tool4Desc": "Hatiin ang rent at utility bills nang patas sa mga kasama sa bahay. Perpekto para sa shared apartments sa Riyadh, Jeddah, at Dammam.",
+        "tool4Href": "/bill-splitter-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa naka-publish na Saudi Traffic Department (Moroor) fine schedules. Maaaring mag-iba ang aktwal na multa batay sa discretion ng korte at mga partikular na pangyayari. Palaging suriin ang Absher para sa iyong opisyal na katayuan ng multa. Ito ay hindi legal na payo."
+    }
+  },
+  "SecBillCalculator": {
+    "toolName": "SEC Bill Estimator — Saudi Electricity Company",
+    "description": "Tantyahin ang iyong buwanang Saudi Electricity Company (SEC) bill batay sa tiered consumption rates na may 15% VAT. Sinusuportahan ang residential, commercial, agricultural, industrial, at government account types.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Konsumo ng Elektrisidad",
+      "consumptionLabel": "Buwanang Konsumo (kWh)",
+      "consumptionPlaceholder": "hal., 3000",
+      "consumptionHint": "Tingnan ang iyong huling SEC bill para sa iyong buwanang kWh usage",
+      "accountTypeLabel": "Uri ng Account"
+    },
+    "accountTypes": {
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "agricultural": "Agricultural",
+      "industrial": "Industrial",
+      "government": "Government"
+    },
+    "buttons": { "calculate": "Kalkulahin ang Bill", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": {
+      "totalBill": "Tinatayang Kabuuang Bill (kasama ang VAT)",
+      "beforeVat": "Bago ang VAT",
+      "vatAmount": "VAT (15%)",
+      "avgRate": "Ave. Rate/kWh"
+    },
+    "breakdown": {
+      "title": "Breakdown ng Tier",
+      "tierHeader": "Tier",
+      "kwhHeader": "kWh",
+      "rateHeader": "Rate",
+      "costHeader": "Gastos",
+      "totalLabel": "Kabuuan"
+    },
+    "emptyState": "Ilagay ang iyong buwanang kWh consumption at uri ng account upang matantya ang iyong SEC bill.",
+    "copiedResult": "SEC Bill: {total} SAR total para sa {consumption} kWh (sa pamamagitan ng Sauditoolhub)",
+    "disclaimer": "Ito ay isang tantiya batay sa naka-publish na SEC tariff schedule. Maaaring mag-iba ang aktwal na bill batay sa kasalukuyang rates, fuel surcharges, at iba pang adjustments. Palaging suriin ang iyong opisyal na SEC bill para sa eksaktong halaga. Ito ay hindi financial na payo.",
+    "errors": { "generic": "May nangyaring mali. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang SEC Bill Estimator",
+        "step1Title": "Hakbang 1: Ilagay ang Iyong Buwanang Konsumo",
+        "step1Desc": "Hanapin ang iyong buwanang konsumo ng kuryente sa kilowatt-hours (kWh) sa iyong pinakabagong SEC bill. Ilagay ang numerong ito sa calculator. Ang average na Saudi home ay gumagamit ng 4,000-8,000 kWh buwan-buwan.",
+        "step2Title": "Hakbang 2: Piliin ang Iyong Uri ng Account",
+        "step2Desc": "Piliin ang uri ng account na tumutugma sa iyong SEC subscription: Residential para sa mga bahay, Commercial para sa mga tindahan at opisina, Agricultural para sa mga sakahan, Industrial para sa mga pabrika, o Government para sa public sector accounts.",
+        "step3Title": "Hakbang 3: Kalkulahin ang Iyong Tinatayang Bill",
+        "step3Desc": "I-click ang 'Kalkulahin ang Bill' na buton. Inilalapat ng calculator ang tiered tariff structure ng SEC, hinahati ang konsumo ayon sa rate tier, at idinaragdag ang 15% VAT.",
+        "step4Title": "Hakbang 4: Suriin ang Tier Breakdown",
+        "step4Desc": "Ang mga resulta ay nagpapakita ng buong breakdown ayon sa consumption tier. Bawat tier ay nagpapakita ng kWh na ginamit sa banda na iyon, ang rate na sinisingil, at ang gastos. Kasama sa kabuuan ang lahat ng tier at 15% VAT.",
+        "step5Title": "Hakbang 5: Planuhin ang Iyong Paggamit ng Enerhiya",
+        "step5Desc": "Gamitin ang breakdown upang maunawaan kung magkano ang halaga ng bawat consumption tier. Para makatipid, tumuon sa pananatili sa loob ng mas mababang tiers na may mas murang rates. Isaalang-alang ang energy efficiency improvements."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Iyong SEC Bill sa Saudi Arabia",
+        "content": "Ang Saudi Electricity Company (SEC) ay gumagamit ng tiered (block) tariff system para sa pagsingil. Ganito ito gumagana:\n\n1. Tiered Pricing Structure: Hinahati ng SEC ang konsumo sa mga bloke (tiers), bawat isa ay may ibang rate kada kWh. Ang unang bloke (1-3,000 kWh para sa residential) ay may pinakamababang rate. Habang kumokonsumo ka ng higit, ang bawat kasunod na bloke ay sinisingil sa mas mataas na rate.\n\n2. Residential Rates: Ang unang 3,000 kWh ay sinisingil sa 0.18 SAR/kWh. Ang susunod na 1,000 kWh (3,001-4,000) sa 0.30 SAR/kWh, pagkatapos 0.36, 0.42, 0.48, 0.54, at higit sa 8,000 kWh sa 0.60 SAR/kWh.\n\n3. VAT: Isang 15% Value Added Tax ang inilalapat sa kabuuang consumption charges. Ito ay malinaw na ipinapakita bilang isang hiwalay na item sa SEC bills.\n\n4. Seasonal Variation: Karaniwang tumataas ang konsumo sa tag-init (Mayo-Setyembre) kung kailan pinakamataas ang paggamit ng air conditioning. Ang mga bill sa taglamig ay mas mababa.\n\n5. Average Cost per kWh: Ang iyong average rate kada kWh ay depende sa kabuuang konsumo. Ang mas mataas na paggamit ay nangangahulugan ng mas mataas na average rate dahil sa tiered structure.",
+        "exampleTitle": "Tunay na Halimbawa",
+        "example": "Isang residential customer ang gumagamit ng 5,000 kWh sa isang buwan:\n\nTier 1 (1-3,000 kWh): 3,000 × 0.18 = SAR 540\nTier 2 (3,001-4,000 kWh): 1,000 × 0.30 = SAR 300\nTier 3 (4,001-5,000 kWh): 1,000 × 0.36 = SAR 360\n\nKabuuang Bago ang VAT: SAR 1,200\nVAT (15%): SAR 180\nKabuuang Bill: SAR 1,380\nAverage Rate: 0.276 SAR/kWh"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa SEC Bills sa Saudi Arabia",
+        "q1": "Ano ang SEC residential electricity tariff sa Saudi Arabia?",
+        "a1": "Ang Saudi Electricity Company (SEC) residential tariff ay tiered: 1-3,000 kWh sa 0.18 SAR/kWh, 3,001-4,000 kWh sa 0.30 SAR/kWh, 4,001-5,000 kWh sa 0.36 SAR/kWh, 5,001-6,000 kWh sa 0.42 SAR/kWh, 6,001-7,000 kWh sa 0.48 SAR/kWh, 7,001-8,000 kWh sa 0.54 SAR/kWh, at higit sa 8,000 kWh sa 0.60 SAR/kWh. Lahat ng rates ay napapailalim sa 15% VAT.",
+        "q2": "Paano ko susuriin ang aking SEC bill online?",
+        "a2": "Maaari mong suriin ang iyong SEC bill online sa pamamagitan ng Saudi Electricity Company app o website (se.com.sa). Mag-log in gamit ang iyong account number o rehistradong mobile number upang tingnan ang kasalukuyan at nakaraang bills, consumption history, at magbayad. Ang pagbabayad ay maaari ring gawin sa pamamagitan ng SADAD sa anumang Saudi bank.",
+        "q3": "Ano ang average na konsumo ng kuryente para sa isang bahay sa Saudi Arabia?",
+        "a3": "Ang average na konsumo ng kuryente para sa isang tipikal na Saudi home ay mula 4,000 hanggang 8,000 kWh bawat buwan depende sa panahon. Sa tag-init (Mayo-Setyembre), ang konsumo ay maaaring tumaas sa 8,000-12,000 kWh dahil sa air conditioning. Sa taglamig, karaniwan itong bumababa sa 2,000-4,000 kWh.",
+        "q4": "Paano gumagana ang SEC tiered billing system?",
+        "a4": "Ang SEC tiered billing system ay nangangahulugan na ang iba't ibang consumption blocks ay sinisingil sa iba't ibang rates. Halimbawa, ang unang 3,000 kWh ay sinisingil sa pinakamababang rate (0.18 SAR/kWh), at habang tumataas ang konsumo, ang mas mataas na tiers ay naglalapat ng mas mataas na rates. Ito ay naghihikayat sa pagtitipid ng enerhiya.",
+        "q5": "Magkano ang VAT na inilalapat sa SEC bills?",
+        "a5": "Isang 15% Value Added Tax (VAT) ang inilalapat sa kabuuang electricity consumption charges sa SEC bills. Ang halaga ng VAT ay kinakalkula sa kabuuang consumption cost bago ang anumang naaangkop na subsidies. Halimbawa, sa isang SAR 500 consumption charge, ang VAT ay magiging SAR 75.",
+        "q6": "Ano ang SEC connection fee para sa mga bagong bahay sa Saudi Arabia?",
+        "a6": "Ang SEC connection fees para sa mga bagong bahay ay nag-iiba batay sa service capacity. Para sa isang standard na 150-amp residential connection, ang fee ay humigit-kumulang SAR 3,000-5,000. Ang mga karagdagang charges ay nalalapat para sa meter installation at inspection. Ang mga fees na ito ay binabayaran bilang isang payment sa pamamagitan ng SADAD.",
+        "q7": "Paano ko mababawasan ang aking SEC bill?",
+        "a7": "Para mabawasan ang iyong SEC bill: 1) Gumamit ng energy-efficient inverter AC units, 2) Itakda ang thermostats sa 24°C, 3) Pagandahin ang home insulation, 4) Lumipat sa LED lighting, 5) Mag-service ng AC filters monthly, 6) Gumamit ng solar water heaters."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Auto at Daily Life Tools",
+        "tool1Name": "Traffic Fine Cost Calculator",
+        "tool1Desc": "Kalkulahin ang eksaktong halaga ng multa para sa anumang traffic violation sa Saudi Arabia kabilang ang black points at vehicle impoundment rules.",
+        "tool1Href": "/traffic-fine-calculator",
+        "tool2Name": "Fuel Cost Calculator",
+        "tool2Desc": "Kalkulahin ang mga gastos sa gasolina para sa iyong araw-araw na byahe o road trips sa Saudi Arabia.",
+        "tool2Href": "/fuel-cost-calculator",
+        "tool3Name": "Bill Splitter Calculator",
+        "tool3Desc": "Hatiin ang rent at utility bills nang patas sa mga kasama sa bahay. Perpekto para sa shared apartments sa Riyadh, Jeddah, at Dammam.",
+        "tool3Href": "/bill-splitter-calculator",
+        "tool4Name": "Used Car Cost Calculator",
+        "tool4Desc": "Kalkulahin ang kabuuang halaga ng pagbili ng gamit na kotse sa Saudi Arabia kabilang ang Naql Malikiya transfer fees, insurance, Istimara renewal, at pag-aayos.",
+        "tool4Href": "/used-car-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya batay sa naka-publish na SEC tariff schedule. Maaaring mag-iba ang aktwal na bill batay sa kasalukuyang rates, fuel surcharges, at iba pang adjustments. Palaging suriin ang iyong opisyal na SEC bill para sa eksaktong halaga. Ito ay hindi financial na payo."
+    }
+  },
+  "BillSplitterCalculator": {
+    "toolName": "Bill Splitter Calculator — Hatiin ang Rent at Bills",
+    "description": "Hatiin nang patas ang rent at utility bills sa mga roommate sa Saudi Arabia. Sinusuportahan ang custom share percentages para sa hindi pantay na hati batay sa laki ng kuwarto o kita.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "roommatesTitle": "Mga Roommate",
+      "namePlaceholder": "Person {n}",
+      "billsTitle": "Mga Bill at Gastos",
+      "billNamePlaceholder": "hal. Elektrisidad"
+    },
+    "buttons": {
+      "calculate": "Hatiin ang Bills",
+      "addRoommate": "Magdagdag ng Tao",
+      "addBill": "Magdagdag ng Bill",
+      "reset": "I-reset",
+      "copy": "Kopyahin",
+      "copied": "Nakopya!",
+      "print": "I-print"
+    },
+    "results": {
+      "totalBills": "Kabuuang Bills",
+      "shareInfo": "Bahagi: {share}"
+    },
+    "emptyState": "Idagdag ang iyong mga roommate at buwanang bill upang kalkulahin ang patas na bahagi ng bawat tao.",
+    "copiedAmount": "{amount} SAR",
+    "copiedHeading": "--- Mga Resulta ng Hati ng Bill ---",
+    "copiedTotal": "Kabuuan",
+    "copiedVia": "sa pamamagitan ng Sauditoolhub",
+    "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya para sa paghahati ng mga bill. Siguraduhin na ang lahat ng roommate ay sumasang-ayon sa mga share percentage bago gamitin ang mga resulta para sa pagbabayad. Ito ay hindi legal na may-bisa.",
+    "errors": { "generic": "May nangyaring problema. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Bill Splitter Calculator",
+        "step1Title": "Hakbang 1: Idagdag ang Iyong mga Roommate",
+        "step1Desc": "Ilagay ang pangalan ng bawat taong nagbabahagi ng mga bill. Gamitin ang button na 'Magdagdag ng Tao' upang isama ang iba pang roommate. Maaari mong hatiin sa pagitan ng 2 o higit pang tao.",
+        "step2Title": "Hakbang 2: Ayusin ang mga Bahagi (Opsyonal)",
+        "step2Desc": "Bilang default, lahat ay may bahaging 1 (pantay na hati). Ayusin ang mga bahagi para sa hindi pantay na hati — halimbawa, ang master bedroom ay maaaring gumamit ng bahaging 1.5 habang ang maliit na kuwarto ay gumagamit ng 0.75. Mas mataas na bahagi = mas malaking bahagi ng mga bill.",
+        "step3Title": "Hakbang 3: Ilagay ang Iyong mga Bill",
+        "step3Desc": "Ilagay ang bawat buwanang gastos: rent, kuryente, tubig, internet, gas, paglilinis, o anumang iba pang shared cost. Magdagdag o mag-alis ng bill items kung kinakailangan gamit ang mga button.",
+        "step4Title": "Hakbang 4: I-click ang Hatiin ang Bills",
+        "step4Desc": "Pindutin ang 'Hatiin ang Bills' upang kalkulahin ang patas na bahagi ng bawat tao. Ibinabahagi ng calculator ang bawat bill nang proporsyonal batay sa mga share number na iyong itinakda.",
+        "step5Title": "Hakbang 5: Suriin at Ibahagi ang mga Resulta",
+        "step5Desc": "Ang kabuuan ng bawat tao ay makikita sa kanan na may per-bill breakdown. Gamitin ang Kopyahin o I-print upang ibahagi ang mga resulta sa iyong mga roommate. Makikita ng lahat ang kanilang indibidwal na halaga."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Paghahati ng Bill sa Saudi Shared Housing",
+        "content": "Ang pagbabahagi ng mga bill sa isang Saudi apartment ay nangangailangan ng pagiging patas at transparency. Narito kung paano ito lapitan:\n\n1. Pantay vs. Hindi Pantay na Hati: Ang pantay na hati (lahat ay nagbabayad ng pareho) ay gumagana kapag magkakapareho ang mga kuwarto. Ang hindi pantay na hati ay mas mabuti para sa master bedroom, mag-asawang nagbabahagi, o mga kuwartong may pribadong banyo.\n\n2. Share System: Ang share number ay kumakatawan sa proporsyon ng bawat tao. Kabuuang shares = kabuuan ng lahat ng indibidwal na shares. Bawat tao ay nagbabayad: (kanilang share / kabuuang shares) × kabuuang bills.\n\n3. Mga Karaniwang Gastos sa Saudi Apartments: Rent (karaniwang 40-60% ng kabuuan), Kuryente (mataas sa tag-init dahil sa AC), Tubig (fixed o metered), Internet (fixed monthly), Gas (kung applicable), at building maintenance fees.\n\n4. Mga Paraan ng Pagbabayad: Karamihan sa mga roommate ay naglilipat sa pamamagitan ng bank transfer (Tahweel), STC Pay, o cash. Magtago ng shared spreadsheet o gamitin ang calculator na ito buwan-buwan.\n\n5. Paghawak ng Variable Bills: Para sa variable bills tulad ng kuryente na nagbabago ayon sa panahon, isaalang-alang ang paggamit ng average mula sa nakaraang 3 buwan, o muling kalkulahin bawat buwan.",
+        "exampleTitle": "Tunay na Halimbawa",
+        "example": "Tatlong roommate sa Riyadh ang nagbabahagi ng apartment:\n\nMga Roommate: Ahmed (share 1.5, master bedroom), Omar (share 1), Khalid (share 0.5, pinakamaliit na kuwarto)\nKabuuang shares: 3\n\nBuwanang Bills:\nRent: SAR 4,000\nKuryente: SAR 600\nInternet: SAR 200\nPaglilinis: SAR 150\nKabuuan: SAR 4,950\n\nAhmed (1.5/3): 1.5 ÷ 3 × 4,950 = SAR 2,475\nOmar (1/3): 1 ÷ 3 × 4,950 = SAR 1,650\nKhalid (0.5/3): 0.5 ÷ 3 × 4,950 = SAR 825"
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong Tungkol sa Paghahati ng Bill sa Saudi Arabia",
+        "q1": "Paano gumagana ang bill splitter calculator?",
+        "a1": "Ibinabahagi ng bill splitter ang kabuuang household bills sa mga roommate batay sa share percentages. Pantay na shares (1 bawat isa) ay naghahati nang pantay. I-customize ang shares para sa hindi pantay na hati — ipinapakita ng calculator ang kabuuan at breakdown ng bawat tao.",
+        "q2": "Paano gumagana ang share percentages sa paghahati ng bill?",
+        "a2": "Ang shares ay kumakatawan sa bahagi ng bawat tao. Kung lahat ay may share 1, pantay na nahahati ang mga bill. Kung si Person A ay may share 2 at si Person B ay may share 1, si A ay nagbabayad ng doble.",
+        "q3": "Anong mga bill ang maaari kong hatiin gamit ang calculator na ito?",
+        "a3": "Anumang gastos: rent, kuryente, tubig, gas, internet, WiFi, Netflix, paglilinis, groceries, maintenance, parking. Ang bawat bill ay naka-itemize bawat tao sa mga resulta.",
+        "q4": "Libre ba at pribado ang calculator na ito?",
+        "a4": "Oo, 100% libre at pribado. Lahat ng kalkulasyon ay nangyayari sa iyong browser. Walang data na iniimbak, walang signup na kinakailangan.",
+        "q5": "Paano ko hahatiin ang mga bill para sa higit sa 2 roommate?",
+        "a5": "Gamitin ang 'Magdagdag ng Tao' para sa maraming roommate kung kinakailangan. Hinahawakan ng calculator ang anumang bilang at hinahati nang proporsyonal.",
+        "q6": "Maaari ko bang hatiin ang mga utility nang hindi pantay sa Saudi Arabia?",
+        "a6": "Oo. Ayusin ang shares batay sa laki ng kuwarto, paggamit ng AC, o pribadong banyo. Karaniwan sa Riyadh, Jeddah, at Dammam shared apartments.",
+        "q7": "Paano kinakalkula ang shared expenses sa shared Saudi apartments?",
+        "a7": "Mga karaniwang gastos: rent (SAR 1,500-4,000/tao), kuryente (SAR 200-800 tag-init), tubig, internet (SAR 100-300), paglilinis. Hinahawakan ng calculator ang lahat gamit ang proporsyonal na shares."
+      },
+      "relatedTools": {
+        "title": "Mga Kaugnay na Tool",
+        "tool1Name": "SEC Bill Estimator",
+        "tool1Desc": "Tantyahin ang iyong buwanang SEC bill batay sa tiered consumption rates.",
+        "tool1Href": "/sec-bill-calculator",
+        "tool2Name": "Traffic Fine Calculator",
+        "tool2Desc": "Kalkulahin ang Saudi traffic fines na may black points at impoundment rules.",
+        "tool2Href": "/traffic-fine-calculator",
+        "tool3Name": "Fuel Cost Calculator",
+        "tool3Desc": "Kalkulahin ang fuel costs para sa daily commutes o road trips sa KSA.",
+        "tool3Href": "/fuel-cost-calculator",
+        "tool4Name": "Used Car Cost Calculator",
+        "tool4Desc": "Kalkulahin ang kabuuang halaga ng pagbili ng gamit na kotse kasama ang transfer fees.",
+        "tool4Href": "/used-car-calculator"
+      },
+      "disclaimer": "Ang calculator na ito ay nagbibigay ng mga tantiya para sa paghahati ng mga bill. Siguraduhin na ang lahat ng roommate ay sumasang-ayon sa mga share percentage bago gamitin ang mga resulta para sa pagbabayad. Ito ay hindi legal na may-bisa."
+    }
+  },
+  "FuelCostCalculator": {
+    "toolName": "Fuel Cost & Mileage Calculator",
+    "description": "Kalkulahin ang mga gastos sa gasolina para sa araw-araw na byahe o road trips sa Saudi Arabia batay sa fuel efficiency ng iyong sasakyan at kasalukuyang presyo ng gasolina.",
+    "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
+    "form": {
+      "title": "Detalye ng Biyahe at Sasakyan",
+      "distanceLabel": "Distansya ng Biyahe (km)",
+      "distanceHint": "One-way o round trip na distansya",
+      "efficiencyLabel": "Fuel Efficiency (km/L)",
+      "efficiencyHint": "Tingnan ang specs ng iyong sasakyan",
+      "fuelTypeLabel": "Uri ng Gasolina",
+      "customPriceLabel": "Custom Price (SAR/L, optional)",
+      "tripsLabel": "Biyahe bawat Buwan",
+      "tripsHint": "Ilang beses mo ginagawa ang biyaheng ito buwan-buwan"
+    },
+    "fuelTypes": { "91": "Gasoline 91", "95": "Gasoline 95", "diesel": "Diesel" },
+    "buttons": { "calculate": "Kalkulahin ang Fuel Cost", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "I-print" },
+    "results": { "monthlyCost": "Buwanang Fuel Cost", "costPerTrip": "Gastos bawat Biyahe", "costPerKm": "Gastos bawat km" },
+    "breakdown": { "title": "Breakdown ng Gastos", "fuelType": "Uri ng Gasolina", "distance": "Distansya", "efficiency": "Efficiency", "litersNeeded": "Litro na Kailangan", "tripsPerMonth": "Biyahe/Buwan", "annualCost": "Taunang Gastos" },
+    "emptyState": "Ilagay ang distansya ng biyahe, fuel efficiency, at uri ng gasolina upang kalkulahin ang gastos.",
+    "copiedResult": "Fuel Cost: {monthly} SAR/buwan | {trip} SAR/biyahe (via Sauditoolhub)",
+    "disclaimer": "Ito ay tantiya batay sa kasalukuyang presyo ng gasolina sa Saudi Arabia.",
+    "errors": { "generic": "May nangyaring mali. Pakisubukan muli." },
+    "seo": {
+      "howToUse": {
+        "title": "Paano Gamitin ang Fuel Cost Calculator", "step1Title": "Hakbang 1: Ilagay ang Distansya", "step1Desc": "Ilagay ang distansya ng iyong biyahe sa kilometro.", "step2Title": "Hakbang 2: Ilagay ang Fuel Efficiency", "step2Desc": "Ilagay ang fuel efficiency ng sasakyan sa km/L.", "step3Title": "Hakbang 3: Piliin ang Uri ng Gasolina", "step3Desc": "Pumili sa Gasoline 91, 95, o Diesel.", "step4Title": "Hakbang 4: Itakda ang Buwanang Biyahe", "step4Desc": "Ilagay kung ilang beses mo ginagawa ang biyaheng ito kada buwan.", "step5Title": "Hakbang 5: Suriin ang Iyong Budget", "step5Desc": "Ipinapakita ng resulta ang gastos bawat biyahe, buwanan, at taunan."
+      },
+      "understandingResults": {
+        "title": "Pag-unawa sa Fuel Costs sa Saudi Arabia",
+        "content": "Ang gastos sa gasolina ay malaking expense para sa mga may-ari ng sasakyan sa Saudi Arabia:\n\n1. Presyo ng Gasolina: Gasoline 91 ~SAR 2.18/L, Gasoline 95 ~SAR 2.33/L, Diesel ~SAR 0.60/L.\n\n2. Fuel Efficiency: Depende sa laki ng makina, timbang, at gawi sa pagmamaneho.\n\n3. Epekto ng AC: Binabawasan ng air conditioning ang fuel efficiency ng 10-20% sa tag-init.",
+        "exampleTitle": "Tunay na Halimbawa",
+        "example": "Araw-araw na biyahe sa Riyadh:\n\nDistansya: 50 km\nSasakyan: Toyota Camry, efficiency 14 km/L\nGasolina: Gasoline 91 @ SAR 2.18/L\nBiyahe: 26 bawat buwan\n\nGastos bawat Biyahe: SAR 7.79\nBuwanang Gastos: SAR 202.54\nTaunang Gastos: SAR 2,430.48"
+      },
+      "faq": {
+        "title": "Mga FAQs Tungkol sa Fuel Costs",
+        "q1": "Magkano ang gasolina sa Saudi Arabia?", "a1": "Gasoline 91 ~SAR 2.18/L, Gasoline 95 ~SAR 2.33/L, Diesel ~SAR 0.60/L.",
+        "q2": "Paano ko kalkulahin ang fuel cost per km?", "a2": "Hatiin ang presyo ng gasolina kada litro sa km/L efficiency ng sasakyan.",
+        "q3": "Ano ang average fuel efficiency sa Saudi Arabia?", "a3": "Sedan: 12-16 km/L, SUV: 8-12 km/L.",
+        "q4": "Paano mababawasan ang fuel cost?", "a4": "Magmaneho nang mahina, gamitin ang cruise control, panatilihin ang tire pressure.",
+        "q5": "Ano ang pagkakaiba ng Gasoline 91 at 95?", "a5": "Gasoline 91 (Regular) octane 91 ~SAR 2.18/L. Gasoline 95 (Premium) octane 95 ~SAR 2.33/L.",
+        "q6": "Magkano ang full tank sa Saudi Arabia?", "a6": "Sedan (55L): Gasoline 91 ~SAR 120.",
+        "q7": "Mas mura ba ang Diesel kaysa gasolina?", "a7": "Oo, Diesel ~SAR 0.60/L vs Gasoline 91 ~SAR 2.18/L."
+      },
+      "relatedTools": {
+        "title": "Related Tools", "tool1Name": "Used Car Cost", "tool1Desc": "Calculate used car cost", "tool1Href": "/used-car-calculator", "tool2Name": "Traffic Fine", "tool2Desc": "Calculate traffic fines", "tool2Href": "/traffic-fine-calculator", "tool3Name": "SEC Bill", "tool3Desc": "Estimate SEC bill", "tool3Href": "/sec-bill-calculator", "tool4Name": "Bill Splitter", "tool4Desc": "Split bills", "tool4Href": "/bill-splitter-calculator"
+      },
+      "disclaimer": "Ito ay tantiya batay sa kasalukuyang presyo ng gasolina sa Saudi Arabia."
+    }
+  },
+  "RettTaxCalculator": {
+    "toolName": "RETT Tax & Agent Commission Splitter",
+    "description": "Calculate the 5% Real Estate Transaction Tax (RETT) and agent commission when buying or selling property in Saudi Arabia.",
+    "trustBadge": "100% Free & Private — No Data Stored",
+    "form": {
+      "title": "Property Transaction Details",
+      "salePriceLabel": "Property Sale Price (SAR)",
+      "transactionTypeLabel": "Transaction Type",
+      "buyer": "Buyer",
+      "seller": "Seller",
+      "agentCommissionLabel": "Agent Commission (%)",
+      "whoPaysLabel": "Who Pays Agent Fee?",
+      "paysBuyer": "Buyer",
+      "paysSeller": "Seller",
+      "paysSplit": "Split 50-50"
+    },
+    "buttons": { "calculate": "Calculate", "calculating": "Calculating...", "reset": "Reset", "copy": "Copy", "copied": "Copied!", "print": "Print" },
+    "results": { "rettAmount": "RETT Tax (5%)", "agentFee": "Agent Commission", "buyerTotal": "Buyer Total Cost" },
+    "breakdown": { "title": "Transaction Breakdown", "salePrice": "Sale Price", "rett": "RETT (5%)", "agentFee": "Agent Commission", "buyerTotal": "Buyer Total Cost", "sellerNet": "Seller Net Amount" },
+    "emptyState": "Enter the property sale price and transaction details to calculate RETT tax and agent commission.",
+    "copiedResult": "RETT: {rett} SAR | Buyer Total: {total} SAR (via Sauditoolhub)",
+    "disclaimer": "This is an estimate based on the 5% RETT rate in Saudi Arabia.",
+    "errors": { "generic": "Something went wrong. Please try again." },
+    "seo": {
+      "howToUse": { "title": "How to Use the RETT Tax Calculator", "step1Title": "Step 1: Enter Sale Price", "step1Desc": "Enter the total sale price of the property in SAR.", "step2Title": "Step 2: Select Transaction Type", "step2Desc": "Choose whether you are the buyer or seller.", "step3Title": "Step 3: Set Agent Commission", "step3Desc": "Enter the agreed agent commission percentage.", "step4Title": "Step 4: Choose Who Pays", "step4Desc": "Select who pays the agent commission.", "step5Title": "Step 5: Review the Results", "step5Desc": "The results show RETT, commission, and totals." },
+      "understandingResults": { "title": "Understanding RETT in Saudi Arabia", "content": "When buying or selling property in Saudi Arabia:\n\n1. RETT (5%): 5% of sale price, paid by buyer via Sak platform.\n2. Agent Commission: Typically 2.5% of sale price.", "exampleTitle": "Real Example", "example": "Villa in Riyadh at SAR 1,500,000:\n\nRETT (5%): SAR 75,000 (buyer)\nAgent Commission (2.5%): SAR 37,500\nSplit 50-50\n\nBuyer Total: SAR 1,593,750\nSeller Net: SAR 1,481,250" },
+      "faq": { "title": "FAQ About RETT", "q1": "What is RETT in Saudi Arabia?", "a1": "5% real estate transaction tax paid by the buyer.", "q2": "Who pays RETT?", "a2": "The buyer pays the 5% RETT.", "q3": "What is the standard agent commission?", "a3": "Typically 2.5% of sale price.", "q4": "Are there exemptions?", "a4": "Yes, for endowments, government, inheritance, and spousal transfers.", "q5": "How do I pay RETT?", "a5": "Through Sak platform or Ministry of Justice.", "q6": "Does RETT apply to off-plan?", "a6": "Yes, at the time of sales agreement registration.", "q7": "What is the buyer's total cost?", "a7": "Price + 5% RETT + Agent commission (if applicable)." },
+      "relatedTools": { "title": "Related Real Estate Tools", "tool1Name": "Ejar Deposit Estimator", "tool1Desc": "Estimate your deposit refund.", "tool1Href": "/ejar-deposit-calculator", "tool2Name": "Mortgage vs Rent", "tool2Desc": "Compare buy vs rent costs.", "tool2Href": "/mortgage-vs-rent", "tool3Name": "Property Valuation", "tool3Desc": "Estimate property market value.", "tool3Href": "/property-valuation", "tool4Name": "Used Car Cost", "tool4Desc": "Calculate used car cost.", "tool4Href": "/used-car-calculator" },
+      "disclaimer": "This is an estimate based on the 5% RETT rate."
+    }
+  },
+  "EjarDepositCalculator": {
+    "toolName": "Ejar Deposit Refund Estimator",
+    "description": "Tantyahin kung magkano sa iyong security deposit ang makukuha mo kapag lumipat ka mula sa isang rental property sa Saudi Arabia. Kasama ang mga bawas para sa mga pinsala, paglilinis, at pagkukumpuni.",
+    "trustBadge": "100% Libre at Pribado — Walang Nakaimbak na Data",
+    "form": {
+      "title": "Detalye ng Renta",
+      "monthlyRentLabel": "Buwanang Renta (SAR)",
+      "depositMonthsLabel": "Deposito (buwan ng renta)",
+      "yearsStayedLabel": "Taong Nanatili",
+      "cleaningFeeLabel": "Bayad sa Paglilinis (SAR)",
+      "repairCostsLabel": "Gastos sa Pagkukumpuni (SAR)",
+      "damageDeductionLabel": "Bawas sa Pinsala"
+    },
+    "buttons": { "calculate": "Kalkulahin", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "Print" },
+    "results": { "refundAmount": "Tantyahing Refund", "depositAmount": "Kabuuang Deposito", "totalDeductions": "Kabuuang Bawas" },
+    "breakdown": { "title": "Paghati ng Deposito", "depositAmount": "Paunang Deposito", "cleaningFee": "Bayad sa Paglilinis", "repairCosts": "Gastos sa Pagkukumpuni", "damageDeduction": "Bawas sa Pinsala", "totalDeductions": "Kabuuang Bawas", "refundAmount": "Halaga ng Refund", "refundRate": "Rate ng Refund" },
+    "emptyState": "Ilagay ang iyong buwanang renta at detalye ng paninirahan upang matantiya ang iyong Ejar deposit refund.",
+    "copiedResult": "Deposito Refund: {refund} SAR | Kabuuang Deposito: {deposit} SAR (sa pamamagitan ng Sauditoolhub)",
+    "disclaimer": "Ito ay tantiya batay sa karaniwang kasanayan sa pag-upa sa Saudi Arabia.",
+    "errors": { "generic": "May naganap na error. Pakisubukan muli." },
+    "seo": {
+      "howToUse": { "title": "Paano Gamitin ang Ejar Deposit Refund Estimator", "step1Title": "Hakbang 1: Ilagay ang Buwanang Renta", "step1Desc": "Ilagay ang iyong buwanang renta sa SAR.", "step2Title": "Hakbang 2: Piliin ang Buwan ng Deposito", "step2Desc": "Piliin kung ilang buwan ng renta ang iyong idineposito.", "step3Title": "Hakbang 3: Ilagay ang Taong Nanatili", "step3Desc": "Ilagay kung ilang taon ka nanirahan sa property.", "step4Title": "Hakbang 4: Tantyahin ang mga Bawas", "step4Desc": "Ilagay ang tinantyang bayad sa paglilinis at porsyento ng pinsala.", "step5Title": "Hakbang 5: Suriin ang Refund", "step5Desc": "Ipinapakita ng calculator ang tinantyang refund pagkatapos ng lahat ng bawas." },
+      "understandingResults": { "title": "Pag-unawa sa Ejar Deposit Refunds sa Saudi Arabia", "content": "Kapag umuupa sa Saudi Arabia, ang mga tenant ay nagbabayad ng refundable security deposit sa pamamagitan ng Ejar system.\n\n1. Ang deposito (karaniwang 1-3 buwang renta) ay dapat ibalik.\n2. Maaaring magbawas ang landlord para sa mga pinsala.\n3. Maaari ring ibawas ang paglilinis at pagkukumpuni.", "exampleTitle": "Tunay na Halimbawa", "example": "Apartment sa Jeddah: SAR 2,500/buwan renta, 2 buwang deposito (SAR 5,000), 3 taon.\n\nTinantyang bawas:\n- Paglilinis: SAR 300\n- Pagkukumpuni: SAR 500\n- Pinsala: 5% = SAR 250\n\nRefund: SAR 5,000 - 1,050 = SAR 3,950 (79%)" },
+      "faq": { "title": "FAQ Tungkol sa Ejar Deposit Refunds", "q1": "Paano kinakalkula ang Ejar deposit?", "a1": "Karaniwang 1-3 buwan ng renta, hawak ng landlord sa pamamagitan ng Ejar.", "q2": "Maaari bang itago ng landlord ang deposito?", "a2": "Oo, para sa pinsala, hindi nabayarang bills, o sobrang dumi.", "q3": "Gaano katagal ang refund?", "a3": "Karaniwang 14-30 araw pagkatapos lumipat.", "q4": "Maaari ko bang tutulan ang mga bawas?", "a4": "Oo, sa pamamagitan ng Rental Disputes Committee.", "q5": "Ano ang normal na pagkasira?", "a5": "Kupas na pintura, gasgas, lumang carpet — hindi dapat ibawas.", "q6": "Kailangan ba ang bayad sa paglilinis?", "a6": "Hindi, ngunit maaaring ibawas ang makatwirang gastos sa paglilinis.", "q7": "Ano ang maximum na deposito?", "a7": "Karaniwang 1-3 buwan; luxury hanggang 6 na buwan." },
+      "relatedTools": { "title": "Mga Kaugnay na Real Estate Tools", "tool1Name": "RETT Tax Splitter", "tool1Desc": "Kalkulahin ang 5% RETT at komisyon ng ahente.", "tool1Href": "/rett-tax-calculator", "tool2Name": "Mortgage vs Rent", "tool2Desc": "Ikumpara ang gastos sa pagbili vs pag-upa.", "tool2Href": "/mortgage-vs-rent", "tool3Name": "Property Valuation", "tool3Desc": "Tantyahin ang halaga ng iyong property.", "tool3Href": "/property-valuation", "tool4Name": "Used Car Cost", "tool4Desc": "Kalkulahin ang gastos ng used car.", "tool4Href": "/used-car-calculator" },
+      "disclaimer": "Ito ay tantiya. Ang aktwal na refund ay depende sa kondisyon ng property."
+    }
+  },
+  "MortgageVsRentCalculator": {
+    "toolName": "Mortgage vs Rent Calculator",
+    "description": "Ikumpara ang kabuuang gastos ng pagbili ng property gamit ang mortgage kumpara sa pag-upa sa Saudi Arabia. Tingnan ang buwanang bayad, kabuuang interes, at taunang breakdown.",
+    "trustBadge": "100% Libre at Pribado — Walang Nakaimbak na Data",
+    "form": {
+      "title": "Detalye ng Paghahambing",
+      "propertyValueLabel": "Halaga ng Property (SAR)",
+      "downPaymentPercentLabel": "Down Payment",
+      "interestRateLabel": "Interest Rate",
+      "loanTenureLabel": "Tagal ng Loan",
+      "monthlyRentLabel": "Buwanang Renta (SAR)",
+      "yearsToCompareLabel": "Taon ng Paghahambing",
+      "years": "taon"
+    },
+    "buttons": { "calculate": "Ikumpara", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "Print", "showBreakdown": "Ipakita ang Taunang Breakdown", "hideBreakdown": "Itago ang Taunang Breakdown" },
+    "results": {
+      "monthlyPayment": "Buwanang Mortgage Payment", "totalBuyCost": "Kabuuang Gastos sa Pagbili", "totalRentCost": "Kabuuang Gastos sa Pag-upa",
+      "downPayment": "Down Payment", "totalInterest": "Kabuuang Interes", "breakdownTitle": "Buod ng Gastos",
+      "buyRecommend": "✅ Mas matipid ang pagbili sa panahong ito", "rentRecommend": "✅ Mas matipid ang pag-upa sa panahong ito",
+      "yearlyTable": "Taunang Paghahambing", "yearLabel": "Taon {year}", "buyLabel": "Bili", "rentLabel": "Renta"
+    },
+    "emptyState": "Ilagay ang halaga ng property at detalye ng mortgage upang ikumpara.",
+    "copiedResult": "Mortgage: {monthly} SAR/buwan | Bili Total: {buy} SAR | Renta Total: {rent} SAR (via Sauditoolhub)",
+    "disclaimer": "Ito ay isang pinasimpleng paghahambing. Kumonsulta sa financial advisor.",
+    "errors": { "generic": "May naganap na error. Pakisubukan muli." },
+    "seo": {
+      "howToUse": { "title": "Paano Gamitin ang Mortgage vs Rent Calculator", "step1Title": "Hakbang 1: Ilagay ang Halaga ng Property", "step1Desc": "Ilagay ang market value ng property sa SAR.", "step2Title": "Hakbang 2: Itakda ang Mortgage Details", "step2Desc": "Ilagay ang down payment, interest rate, at loan tenure.", "step3Title": "Hakbang 3: Ilagay ang Buwanang Renta", "step3Desc": "Ilagay ang buwanang renta para sa maihahambing na property.", "step4Title": "Hakbang 4: Piliin ang Panahon", "step4Desc": "Ilagay ang bilang ng taon para sa paghahambing.", "step5Title": "Hakbang 5: Suriin ang Resulta", "step5Desc": "Ikumpara ang kabuuang gastos at tingnan kung alin ang mas maganda." },
+      "understandingResults": { "title": "Pag-unawa sa Mortgage vs Rent Comparison sa Saudi Arabia", "content": "Pagpapasya kung bibili o uupa sa Saudi Arabia:\n\n1. Gastos sa pagbili: Down payment + buwanang mortgage + 5% RETT + komisyon ng ahente.\n2. Gastos sa pag-upa: Buwanang renta (walang malaking upfront investment).\n3. Break-even point ay karaniwang 5-7 taon.", "exampleTitle": "Tunay na Halimbawa", "example": "Property sa Riyadh: SAR 1,000,000, 20% down, 3.5% interest, 25 taon.\nRenta: SAR 4,000/buwan.\n\nBuwanang mortgage: ~SAR 4,005\nSa loob ng 10 taon:\n- Bili: ~SAR 680,580\n- Renta: ~SAR 480,000" },
+      "faq": { "title": "FAQ Tungkol sa Mortgage vs Rent", "q1": "Mas mura ba ang pagbili kaysa pag-upa?", "a1": "Sa 5+ taon, mas mura ang pagbili dahil sa equity building.", "q2": "Ano ang kasalukuyang mortgage rate?", "a2": "Karaniwang 3-5% depende sa credit score at bangko.", "q3": "Ano ang minimum down payment?", "a3": "5% para sa first-time Saudi buyers; 20-30% para sa expats.", "q4": "Maaari bang mag-mortgage ang expats?", "a4": "Oo, na may mas mataas na down payment.", "q5": "Ano ang iba pang gastos sa pagbili?", "a5": "RETT (5%), komisyon ng ahente (2.5%), valuation.", "q6": "Ilang taon dapat ikumpara?", "a6": "Hindi bababa sa 5-10 taon.", "q7": "Ano ang Sakani program?", "a7": "Isang Saudi government program para sa subsidized mortgages." },
+      "relatedTools": { "title": "Mga Kaugnay na Real Estate Tools", "tool1Name": "RETT Tax Splitter", "tool1Desc": "Kalkulahin ang 5% RETT.", "tool1Href": "/rett-tax-calculator", "tool2Name": "Ejar Deposit Estimator", "tool2Desc": "Tantyahin ang refund ng deposito.", "tool2Href": "/ejar-deposit-calculator", "tool3Name": "Property Valuation", "tool3Desc": "Tantyahin ang halaga ng property.", "tool3Href": "/property-valuation", "tool4Name": "SAMA Loan Calculator", "tool4Desc": "Kalkulahin ang loan eligibility.", "tool4Href": "/sama-loan-calculator" },
+      "disclaimer": "Pinasimpleng paghahambing lamang ito."
+    }
+  },
+  "PropertyValuationCalculator": {
+    "toolName": "Sak Property Valuation Tool",
+    "description": "Tantyahin ang market value ng residential o commercial property sa Saudi Arabia. Kumuha ng presyo bawat square meter para sa mga apartment, villa, lupa, at commercial properties sa mga pangunahing Saudi city.",
+    "trustBadge": "100% Libre at Pribado — Walang Nakaimbak na Data",
+    "form": {
+      "title": "Detalye ng Property",
+      "propertyTypeLabel": "Uri ng Property",
+      "types": { "apartment": "Apartment", "villa": "Villa", "land": "Lupa", "commercial": "Commercial" },
+      "cityLabel": "Lungsod",
+      "areaSqmLabel": "Lawak (sqm)",
+      "ageLabel": "Edad (taon)",
+      "roomsLabel": "Bilang ng Kuwarto",
+      "finishingLabel": "Kalidad ng Finishing",
+      "finishings": { "standard": "Standard", "good": "Maganda", "excellent": "Napakahusay", "luxury": "Luho" },
+      "parkingLabel": "May Paradahan",
+      "centralAcLabel": "Central AC"
+    },
+    "cities": { "riyadh": "Riyadh", "jeddah": "Jeddah", "dammam": "Dammam", "makkah": "Makkah", "madinah": "Madinah", "other": "Ibang Lungsod" },
+    "buttons": { "calculate": "Tantyahin ang Halaga", "calculating": "Kinakalkula...", "reset": "I-reset", "copy": "Kopyahin", "copied": "Nakopya!", "print": "Print" },
+    "results": { "estimatedValue": "Tantyahing Halaga", "valuePerSqm": "Presyo bawat Sqm", "range": "Saklaw ng Halaga" },
+    "breakdown": { "title": "Paghati ng Valuation", "propertyType": "Uri ng Property", "city": "Lungsod", "areaSqm": "Lawak", "ratePerSqm": "Rate / Sqm", "baseValue": "Base Value", "depreciation": "Depreciation ng Edad", "finishing": "Factor ng Finishing", "roomBonus": "Bonus sa Kuwarto", "estimatedValue": "Tantyahing Halaga", "valuePerSqm": "Halaga / Sqm", "typeApartment": "Apartment", "typeVilla": "Villa", "typeLand": "Lupa", "typeCommercial": "Commercial" },
+    "emptyState": "Ilagay ang detalye ng iyong property upang matantiya ang market value.",
+    "copiedResult": "Tantyahing Halaga ng Property: {value} SAR (sa pamamagitan ng Sauditoolhub)",
+    "disclaimer": "Ito ay market estimate para sa sanggunian lamang. Para sa opisyal na Sak valuation, gumamit ng accredited TAQEEM valuer.",
+    "errors": { "generic": "May naganap na error. Pakisubukan muli." },
+    "seo": {
+      "howToUse": { "title": "Paano Gamitin ang Sak Property Valuation Tool", "step1Title": "Hakbang 1: Piliin ang Uri ng Property", "step1Desc": "Pumili sa apartment, villa, lupa, o commercial.", "step2Title": "Hakbang 2: Piliin ang Lungsod", "step2Desc": "Piliin ang lungsod kung saan matatagpuan ang property.", "step3Title": "Hakbang 3: Ilagay ang Lawak", "step3Desc": "Ilagay ang kabuuang lawak sa sqm at bilang ng kuwarto.", "step4Title": "Hakbang 4: Itakda ang Kondisyon", "step4Desc": "Ilagay ang edad at kalidad ng finishing.", "step5Title": "Hakbang 5: Kunin ang Tantiya", "step5Desc": "Tingnan ang tantyahing market value na may buong breakdown." },
+      "understandingResults": { "title": "Pag-unawa sa Property Valuation sa Saudi Arabia", "content": "Ang property valuation sa Saudi Arabia ay nakadepende sa:\n\n1. Lokasyon: Riyadh, Jeddah, Makkah ang pinakamataas.\n2. Uri ng property: Iba ang commercial sa apartment rates.\n3. Lawak: Bahagyang diskwento sa malalaking property.\n4. Edad: 1% annual depreciation, max 30%.\n5. Finishing: Maganda +10%, luxury hanggang 50%.", "exampleTitle": "Tunay na Halimbawa", "example": "Apartment sa Riyadh: 150 sqm, 5 taon, 3 kuwarto, magandang finishing.\n\nBase rate: 4,500 SAR/sqm\nBase value: 675,000 SAR\nDepreciation: -5% = 641,250\nFinishing (Maganda): ×1.1 = 705,375\nRoom bonus (3): +5% = 740,644\n\nTantyahing halaga: ~741,000 SAR" },
+      "faq": { "title": "FAQ Tungkol sa Property Valuation", "q1": "Paano kinakalkula ang halaga ng property?", "a1": "Gamit ang market-based rates per sqm na inaayos para sa lokasyon, uri, edad, finishing.", "q2": "Ano ang average price per sqm sa Riyadh?", "a2": "SAR 3,800-4,500/sqm depende sa uri at lokasyon.", "q3": "Paano naaapektuhan ng edad ang halaga?", "a3": "1% depreciation kada taon, max 30%.", "q4": "Magagamit ko ba ito para sa Sak registration?", "a4": "Hindi, gumamit ng accredited valuer mula sa TAQEEM.", "q5": "Aling lungsod may pinakamataas na presyo?", "a5": "Makkah, sinusundan ng Riyadh at Jeddah.", "q6": "Paano naaapektuhan ng amenities ang halaga?", "a6": "Paradahan +3%, central AC +2%, pool +5-15%.", "q7": "Aling finishing ang pinakamataas ang dagdag?", "a7": "Luxury finishing hanggang 50% premium." },
+      "relatedTools": { "title": "Mga Kaugnay na Real Estate Tools", "tool1Name": "RETT Tax Splitter", "tool1Desc": "Kalkulahin ang 5% RETT.", "tool1Href": "/rett-tax-calculator", "tool2Name": "Mortgage vs Rent", "tool2Desc": "Ikumpara ang bili vs upa.", "tool2Href": "/mortgage-vs-rent", "tool3Name": "Ejar Deposit Estimator", "tool3Desc": "Tantyahin ang deposit refund.", "tool3Href": "/ejar-deposit-calculator", "tool4Name": "Used Car Cost", "tool4Desc": "Kalkulahin ang used car cost.", "tool4Href": "/used-car-calculator" },
+      "disclaimer": "Market estimate lamang ito. Hindi opisyal na valuation."
+    }
+  },
   "Hero": {
     "badge": "Smart Calculator Hub ng Saudi Arabia",
     "title": "Mga Smart Saudi Calculator",
@@ -1506,7 +2063,7 @@
       "terms": "Mga Tuntunin ng Serbisyo",
       "disclaimer": "Pagtatanggi sa Pananagutan"
     },
-    "copyright": "\u00a9 {year} HsabKSA. Lahat ng karapatan ay nakalaan.",
+    "copyright": "\u00a9 {year} Sauditoolhub. Lahat ng karapatan ay nakalaan.",
     "disclaimerText": "Ito ay isang informational tool lamang. Hindi legal o pinansyal na payo."
   },
   "HomePage": {
@@ -1555,6 +2112,7 @@
       "ijara": "Ijara Estimator",
       "ejar": "Ejar Fee Calc",
       "insurance": "Insurance Premium",
+      "billSplitter": "Bill Splitter",
       "fuel": "Fuel Cost",
       "salla": "Salla/Zid Profit",
       "iban": "IBAN Validator",
@@ -1563,7 +2121,7 @@
       "usedCar": "Used Car Cost"
     },
     "whyChooseUs": {
-      "title": "Bakit HsabKSA?",
+      "title": "Bakit Sauditoolhub?",
       "cards": {
         "privacy": { "title": "100% Pribado", "desc": "Lahat ng pagkalkula ay nangyayari sa iyong browser. Walang data na iniimbak sa aming mga server." },
         "instant": { "title": "Agad na Resulta", "desc": "Walang paghihintay. Walang signup. I-input lang ang iyong mga numero at makuha agad ang resulta." },
@@ -1578,3 +2136,4 @@
     }
   }
 }
+

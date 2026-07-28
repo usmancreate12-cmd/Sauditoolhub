@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
@@ -32,8 +32,8 @@ const categories = [
       { nameKey: 'toolNames.zakat', href: 'zakat-calculator' },
       { nameKey: 'toolNames.iban', href: 'iban-validator' },
       { nameKey: 'toolNames.sip', href: 'sip-calculator' },
-      { nameKey: 'toolNames.rett', href: '#' },
-      { nameKey: 'toolNames.mortgage', href: '#' },
+      { nameKey: 'toolNames.rett', href: '/rett-tax-calculator' },
+      { nameKey: 'toolNames.mortgage', href: '/mortgage-vs-rent' },
     ],
   },
 ]
@@ -50,7 +50,7 @@ export function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center gap-2">
               <Calculator className="h-6 w-6 text-desert-primary" />
-              <span className="text-lg font-bold text-white">HsabKSA</span>
+              <span className="text-lg font-bold text-white">Sauditoolhub</span>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed">
               {tf('tagline')}
@@ -101,3 +101,4 @@ export function Footer() {
     </footer>
   )
 }
+

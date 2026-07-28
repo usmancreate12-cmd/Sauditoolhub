@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useState, useCallback } from 'react'
 import { useForm } from 'react-hook-form'
@@ -194,7 +194,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
   const handleShare = useCallback(
     (platform: 'whatsapp' | 'twitter') => {
       if (!result) return
-      const text = `My EOSB estimate: ${formatSAR(result.finalAmount)} SAR (via HsabKSA)`
+      const text = `My EOSB estimate: ${formatSAR(result.finalAmount)} SAR (via Sauditoolhub)`
       const url = window.location.href
       const href =
         platform === 'whatsapp'
@@ -571,3 +571,4 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
     </div>
   )
 }
+

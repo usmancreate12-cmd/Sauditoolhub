@@ -1,4 +1,4 @@
-type SoftwareAppSchema = {
+﻿type SoftwareAppSchema = {
   name: string
   description: string
   url: string
@@ -31,7 +31,7 @@ export function SoftwareAppJsonLd({ name, description, url, category }: Software
     description,
     url,
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'SAR' },
-    author: { '@type': 'Organization', name: 'HsabKSA' },
+    author: { '@type': 'Organization', name: 'Sauditoolhub' },
   }
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 }
@@ -70,14 +70,15 @@ export function ArticleJsonLd({ headline, description, image, datePublished, dat
     headline,
     description,
     ...(image && { image }),
-    author: { '@type': 'Person', name: 'HsabKSA Team' },
+    author: { '@type': 'Person', name: 'Sauditoolhub Team' },
     publisher: {
       '@type': 'Organization',
-      name: 'HsabKSA',
-      logo: { '@type': 'ImageObject', url: 'https://hsabksa.com/logo.png' },
+      name: 'Sauditoolhub',
+      logo: { '@type': 'ImageObject', url: 'https://Sauditoolhub.com/logo.png' },
     },
     datePublished,
     ...(dateModified && { dateModified }),
   }
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 }
+
