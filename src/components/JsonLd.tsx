@@ -1,4 +1,12 @@
-﻿type SoftwareAppSchema = {
+﻿type JsonLdProps = {
+  data: Record<string, unknown>
+}
+
+export default function JsonLd({ data }: JsonLdProps) {
+  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />
+}
+
+type SoftwareAppSchema = {
   name: string
   description: string
   url: string

@@ -3,7 +3,8 @@ import { ThemeProvider } from '@/lib/theme'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Sauditoolhub — Saudi Calculator Hub',
+  metadataBase: new URL('https://sauditoolhub.vercel.app'),
+  title: "Sauditoolhub — Saudi Arabia's #1 Free Calculator Hub",
   description:
     'Free Saudi Arabia calculators — EOSB, fines, ZATCA, rent, and more. 100% free, private, no data stored.',
   verification: {
