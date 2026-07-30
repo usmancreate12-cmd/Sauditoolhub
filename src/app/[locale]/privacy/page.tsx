@@ -1,6 +1,6 @@
-﻿import type { Metadata } from 'next'
+import type { Metadata } from 'next'
 
-const baseUrl = 'https://Sauditoolhub.com'
+const baseUrl = 'https://sauditoolhub.com'
 
 export function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'ar' }, { locale: 'ur' }, { locale: 'tl' }, { locale: 'bn' }]
@@ -48,7 +48,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="mb-2 text-lg font-semibold text-desert-text">5. Contact</h2>
-          <p>For privacy questions, contact us at privacy@Sauditoolhub.com.</p>
+          <p>For privacy questions, contact us at privacy@sauditoolhub.com.</p>
         </section>
       </div>
     </div>

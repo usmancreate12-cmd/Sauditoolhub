@@ -1,4 +1,4 @@
-﻿import type { Metadata } from 'next'
+import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import JsonLd, { BreadcrumbJsonLd } from '@/components/JsonLd'
 
@@ -7,7 +7,7 @@ type Props = {
 }
 
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://Sauditoolhub.com'
+const baseUrl = 'https://sauditoolhub.com'
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))

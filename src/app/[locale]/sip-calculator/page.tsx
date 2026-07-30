@@ -1,4 +1,4 @@
-﻿import type { Metadata } from 'next'
+import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import { SipCalculator } from '@/components/SipCalculator'
 import { ToolSeoContent } from '@/components/ToolSeoContent'
@@ -6,7 +6,7 @@ import { SoftwareAppJsonLd, BreadcrumbJsonLd, FAQJsonLd } from '@/components/Jso
 
 type Props = { params: Promise<{ locale: string }> }
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://Sauditoolhub.com'
+const baseUrl = 'https://sauditoolhub.com'
 
 export function generateStaticParams() { return locales.map((locale) => ({ locale })) }
 

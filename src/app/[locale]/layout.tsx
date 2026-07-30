@@ -1,4 +1,4 @@
-﻿import { NextIntlClientProvider } from 'next-intl'
+import { NextIntlClientProvider } from 'next-intl'
 import { GoogleAnalytics } from '@next/third-parties/google'
 import { Navbar } from '@/components/Navbar'
 import { Footer } from '@/components/Footer'

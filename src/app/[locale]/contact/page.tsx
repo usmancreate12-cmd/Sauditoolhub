@@ -9,7 +9,7 @@ type Props = {
 }
 
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://Sauditoolhub.com'
+const baseUrl = 'https://sauditoolhub.com'
 const contactEmail = 'contact@sauditoolhub.com'
 
 export function generateStaticParams() {

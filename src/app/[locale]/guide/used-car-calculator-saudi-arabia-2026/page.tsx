@@ -5,7 +5,7 @@ import { Calculator, Car, FileText, Shield, AlertTriangle, CheckCircle, Search, 
 type Props = { params: Promise<{ locale: string }> }
 
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://Sauditoolhub.com'
+const baseUrl = 'https://sauditoolhub.com'
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))

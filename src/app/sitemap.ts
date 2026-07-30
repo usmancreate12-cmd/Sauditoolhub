@@ -1,6 +1,6 @@
-﻿import type { MetadataRoute } from 'next'
+import type { MetadataRoute } from 'next'
 
-const baseUrl = 'https://sauditoolhub.vercel.app'
+const baseUrl = 'https://sauditoolhub.com'
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
 const staticPages = ['privacy', 'terms', 'disclaimer'] as const
 

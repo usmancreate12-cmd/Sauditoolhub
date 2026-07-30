@@ -8,7 +8,7 @@ import Link from 'next/link'
 type Props = { params: Promise<{ locale: string; slug: string }> }
 
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://Sauditoolhub.com'
+const baseUrl = 'https://sauditoolhub.com'
 
 export function generateStaticParams() {
   const params: { locale: string; slug: string }[] = []

@@ -1,4 +1,4 @@
-﻿type JsonLdProps = {
+type JsonLdProps = {
   data: Record<string, unknown>
 }
 
@@ -82,7 +82,7 @@ export function ArticleJsonLd({ headline, description, image, datePublished, dat
     publisher: {
       '@type': 'Organization',
       name: 'Sauditoolhub',
-      logo: { '@type': 'ImageObject', url: 'https://Sauditoolhub.com/logo.png' },
+      logo: { '@type': 'ImageObject', url: 'https://sauditoolhub.com/logo.png' },
     },
     datePublished,
     ...(dateModified && { dateModified }),

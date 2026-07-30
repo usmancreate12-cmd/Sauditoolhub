@@ -1,4 +1,4 @@
-﻿import type { Metadata } from 'next'
+import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import { EOSBCalculator } from '@/components/EOSBCalculator'
 import { ToolSeoContent } from '@/components/ToolSeoContent'
@@ -13,7 +13,7 @@ type Props = {
 }
 
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
-const baseUrl = 'https://Sauditoolhub.com'
+const baseUrl = 'https://sauditoolhub.com'
 
 export function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'ar' }, { locale: 'ur' }, { locale: 'tl' }, { locale: 'bn' }]

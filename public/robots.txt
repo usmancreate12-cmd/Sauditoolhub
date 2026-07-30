@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
 
-Sitemap: https://sauditoolhub.vercel.app/sitemap.xml
+Sitemap: https://sauditoolhub.com/sitemap.xml
