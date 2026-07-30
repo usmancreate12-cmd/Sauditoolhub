@@ -1,12 +1,19 @@
 'use client'
 
 import { useTranslations } from 'next-intl'
-import { useState, lazy, Suspense } from 'react'
+import { useState } from 'react'
+import dynamic from 'next/dynamic'
 import Link from 'next/link'
 import { Calculator, Shield, Zap, Globe, ChevronRight, Search, X } from 'lucide-react'
 import { GlassCard } from '@/components/GlassCard'
 
-const HeroSection = lazy(() => import('@/components/HeroSection').then(module => ({ default: module.HeroSection })))
+const HeroSection = dynamic(() => import('@/components/HeroSection').then(module => ({ default: module.HeroSection })), {
+  ssr: false,
+  loading: () => <div className="min-h-[90vh] flex items-center justify-center" />,
+})
+
+const AnimatedBackground = dynamic(() => import('@/components/AnimatedBackground').then(module => ({ default: module.AnimatedBackground })), { ssr: false, loading: () => null })
+const ParticleBackground = dynamic(() => import('@/components/ParticleBackground').then(module => ({ default: module.ParticleBackground })), { ssr: false, loading: () => null })
 
 const categories = [
   {
@@ -84,9 +91,9 @@ export default function HomePage() {
 
   return (
     <div className="relative z-10">
-      <Suspense fallback={<div className="min-h-[90vh] flex items-center justify-center" />}>
-        <HeroSection />
-      </Suspense>
+      <AnimatedBackground />
+      <ParticleBackground />
+      <HeroSection />
 
       {/* Live Stats */}
       <section className="px-4 py-16">

@@ -1,8 +1,6 @@
 import { NextIntlClientProvider } from 'next-intl'
 import { Navbar } from '@/components/Navbar'
 import { Footer } from '@/components/Footer'
-import { AnimatedBackground } from '@/components/AnimatedBackground'
-import { ParticleBackground } from '@/components/ParticleBackground'
 import { CustomCursor } from '@/components/CustomCursor'
 import { ScrollProgress } from '@/components/ScrollProgress'
 import { cn } from '@/lib/utils'
@@ -24,8 +22,6 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider locale={locale} messages={messages}>
-      <AnimatedBackground />
-      <ParticleBackground />
       <CustomCursor />
       <ScrollProgress />
       <div
