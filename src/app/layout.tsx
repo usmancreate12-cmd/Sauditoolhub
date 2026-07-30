@@ -32,8 +32,8 @@ export const metadata: Metadata = {
     '23+ Free calculators for EOSB, Zakat, Traffic Fines, and more in Saudi Arabia. Available in English, Arabic, Urdu, Tagalog, and Bengali.',
   verification: {
     google: 'n9K5SWrcesdymEwQgPG4m6GE6geoC6JXza1QW8xB0lE',
-    other: { 'msvalidate.01': '3D88FCE5F49B901D1AE947C52515DE30' },
   },
+  other: { 'msvalidate.01': '3D88FCE5F49B901D1AE947C52515DE30' },
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
