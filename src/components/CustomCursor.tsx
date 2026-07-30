@@ -120,7 +120,16 @@ export function CustomCursor() {
 
     document.addEventListener('mousemove', handleMouseMove)
     posRef.current = { x: window.innerWidth / 2, y: window.innerHeight / 2 }
-    rafRef.current = requestAnimationFrame(animate)
+
+    const startAnimation = () => {
+      rafRef.current = requestAnimationFrame(animate)
+    }
+
+    if ('requestIdleCallback' in window) {
+      ;(window as any).requestIdleCallback(startAnimation, { timeout: 2000 })
+    } else {
+      setTimeout(startAnimation, 100)
+    }
 
     return () => {
       document.removeEventListener('mousemove', handleMouseMove)

@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 
+@source "../../src";
+@source not "../../src/components/AnimatedBackground.tsx";
+@source not "../../src/components/ParticleBackground.tsx";
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
