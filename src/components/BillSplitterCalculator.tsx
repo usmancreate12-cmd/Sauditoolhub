@@ -11,7 +11,7 @@ import { MagneticButton } from '@/components/MagneticButton'
 import { NumberTicker } from '@/components/NumberTicker'
 
 const inputClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 ' +
   'bg-gray-800 border-gray-600 text-gray-100 placeholder-gray-500 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
@@ -119,9 +119,11 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
                 <h2 className="text-lg font-semibold text-white">{t('form.roommatesTitle')}</h2>
               </div>
               <div className="space-y-3">
-                {roommates.map((r, i) => (
+                  {roommates.map((r, i) => (
                   <div key={r.id} className="flex items-center gap-2">
+                    <label htmlFor={`roommate-name-${r.id}`} className="sr-only">{t('form.namePlaceholder', { n: i + 1 })}</label>
                     <input
+                      id={`roommate-name-${r.id}`}
                       type="text"
                       value={r.name}
                       onChange={(e) => updateRoommate(r.id, 'name', e.target.value)}
@@ -129,7 +131,9 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
                       className={`${inputClass} flex-1`}
                     />
                     <div className="flex items-center gap-1">
+                      <label htmlFor={`roommate-share-${r.id}`} className="sr-only">{t('form.shareLabel')}</label>
                       <input
+                        id={`roommate-share-${r.id}`}
                         type="number"
                         min={0}
                         step={0.5}
@@ -160,16 +164,20 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
                 <h2 className="text-lg font-semibold text-white">{t('form.billsTitle')}</h2>
               </div>
               <div className="space-y-3">
-                {bills.map((b, i) => (
+                  {bills.map((b, i) => (
                   <div key={i} className="flex items-center gap-2">
+                    <label htmlFor={`bill-name-${i}`} className="sr-only">{t('form.billNamePlaceholder')}</label>
                     <input
+                      id={`bill-name-${i}`}
                       type="text"
                       value={b.name}
                       onChange={(e) => updateBillName(i, e.target.value)}
                       placeholder={t('form.billNamePlaceholder')}
                       className={`${inputClass} flex-1`}
                     />
+                    <label htmlFor={`bill-amount-${i}`} className="sr-only">{t('form.billAmountLabel')}</label>
                     <input
+                      id={`bill-amount-${i}`}
                       type="number"
                       min={0}
                       step={50}

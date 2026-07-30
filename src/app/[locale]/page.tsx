@@ -88,7 +88,7 @@ export default function HomePage() {
       {/* Live Stats */}
       <section className="px-4 py-16">
         <div className="mx-auto max-w-6xl">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             <div className="text-center">
               <div className="text-3xl font-bold text-desert-primary mb-2">50,000+</div>
               <div className="text-sm text-gray-400">{t('stats.calculations')}</div>
@@ -137,7 +137,7 @@ export default function HomePage() {
               <button
                 key={tag}
                 onClick={() => setSearchQuery(tag)}
-                className="text-xs px-3 py-1.5 rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors whitespace-nowrap"
+                className="text-xs px-3 min-h-[44px] rounded-full bg-white/5 hover:bg-white/10 text-desert-primary transition-colors whitespace-nowrap active:scale-95"
               >
                 {tag}
               </button>

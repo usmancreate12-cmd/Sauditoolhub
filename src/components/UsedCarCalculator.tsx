@@ -26,12 +26,12 @@ const formSchema = z.object({
 type FormValues = z.output<typeof formSchema>
 
 const inputClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 ' +
   'bg-gray-800 border-gray-600 text-gray-100 placeholder-gray-500 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
 const selectClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 ' +
   'bg-gray-800 border-gray-600 text-gray-100 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 

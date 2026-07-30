@@ -53,7 +53,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ContactPage({ params }: Props) {
   const { locale } = await params
-  const t = await getTranslations('ContactPage')
+  const t = await getTranslations({ locale, namespace: 'ContactPage' })
   const isRtl = locale === 'ar' || locale === 'ur'
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/contact` : `${baseUrl}/${locale}/contact`

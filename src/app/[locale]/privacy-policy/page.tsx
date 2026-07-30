@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function PrivacyPolicyPage({ params }: Props) {
   const { locale } = await params
-  const t = await getTranslations('PrivacyPage')
+  const t = await getTranslations({ locale, namespace: 'PrivacyPage' })
   const isRtl = locale === 'ar' || locale === 'ur'
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/privacy-policy` : `${baseUrl}/${locale}/privacy-policy`

@@ -52,13 +52,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function AboutPage({ params }: Props) {
   const { locale } = await params
-  const t = await getTranslations('AboutPage')
+  const t = await getTranslations({ locale, namespace: 'AboutPage' })
   const isRtl = locale === 'ar' || locale === 'ur'
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/about` : `${baseUrl}/${locale}/about`
 
   const sections = [
     { key: 'mission', titleKey: 'mission' },
+    { key: 'privacyCommitment', titleKey: 'privacyCommitment' },
     { key: 'whatWeOffer', titleKey: 'whatWeOffer' },
     { key: 'values', titleKey: 'values' },
     { key: 'team', titleKey: 'team' },
@@ -128,9 +129,12 @@ export default async function AboutPage({ params }: Props) {
 
               <div className="glass p-6 rounded-xl text-center">
                 <p className="text-gray-300 text-sm">{t('contactCta')}</p>
-                <Link href="/contact" className="text-desert-primary hover:underline font-medium">
-                  {isDefault ? 'Contact Us' : locale === 'ar' ? 'اتصل بنا' : locale === 'ur' ? 'ہم سے رابطہ کریں' : locale === 'tl' ? 'Makipag-ugnayan' : locale === 'bn' ? 'যোগাযোগ করুন' : 'Contact Us'}
-                </Link>
+                <a
+                  href={`mailto:${t('contactEmail')}`}
+                  className="text-desert-primary hover:underline font-medium"
+                >
+                  {t('contactEmail')}
+                </a>
               </div>
             </div>
           </div>

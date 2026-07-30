@@ -2228,8 +2228,10 @@
     "form": {
       "roommatesTitle": "Roommates",
       "namePlaceholder": "Person {n}",
+      "shareLabel": "Share points",
       "billsTitle": "Bills & Expenses",
-      "billNamePlaceholder": "e.g., Electricity"
+      "billNamePlaceholder": "e.g., Electricity",
+      "billAmountLabel": "Bill amount in SAR"
     },
     "buttons": {
       "calculate": "Split Bills",
@@ -3067,31 +3069,44 @@
     "sections": {
       "notAdvice": "Not Legal or Financial Advice",
       "noGuarantee": "No Guarantee of Accuracy",
+      "notAffiliated": "Not Affiliated with the Saudi Government",
+      "officialPortals": "Official Portals",
       "externalLinks": "External Links"
     },
     "content": {
-      "notAdvice": "The calculators and information provided on Sauditoolhub are for general informational and educational purposes only. They are not a substitute for professional legal or financial advice. Saudi laws and regulations are subject to change. While we strive for accuracy, we make no guarantees regarding the completeness, reliability, or currentness of the information. Always consult a qualified legal professional for advice specific to your situation.",
-      "noGuarantee": "Our calculators implement standard formulas based on published regulations. However, individual employment contracts, company policies, and specific circumstances may affect your actual entitlements. The results should be used as estimates only.",
-      "externalLinks": "Our website may contain links to external websites. We are not responsible for the content or accuracy of any external sites."
+      "notAdvice": "SaudiToolHub provides estimation tools for informational purposes only. They are not a substitute for professional legal or financial advice. Always consult a qualified professional for advice specific to your situation.",
+      "noGuarantee": "Calculations are based on publicly available Saudi regulations (e.g., Saudi Labor Law, ZATCA, MHRSD, MOI) as of 2026. While we strive for accuracy, individual circumstances may affect actual outcomes. Results should be used as estimates only.",
+      "notAffiliated": "We are NOT affiliated with the Saudi Government. For official, binding calculations, always refer to official portals like Absher, Muqeem, ZATCA, or Najiz.",
+      "officialPortals": "For official, binding calculations, always use these Saudi government portals:",
+      "externalLinks": "Our website may contain links to official Saudi government portals and external websites. We are not responsible for the content or accuracy of any external sites."
     }
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "heading": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved. Try one of our popular tools below.",
+    "backHome": "Back to Home"
   },
   "AboutPage": {
     "title": "About Us",
-    "subtitle": "Sauditoolhub is a free, privacy-first platform built to simplify Saudi Arabia financial calculations for expats, business owners, and residents.",
+    "subtitle": "SaudiToolHub is a free, privacy-first platform providing accurate Saudi Arabia financial calculators, guides, and compliance tools for expats, business owners, and residents.",
     "mission": "Our Mission",
-    "missionText": "We believe everyone deserves instant access to accurate financial tools. Saudi Arabia has unique regulations—EOSB, Jawazat fines, ZATCA VAT, Nitaqat ratios, SEC electricity tariffs—that can be confusing. Sauditoolhub breaks these down into simple, free calculators and guides.",
+    "missionText": "We believe everyone deserves instant access to accurate financial tools. Saudi Arabia has unique regulations—EOSB, Jawazat fines, ZATCA VAT, Nitaqat ratios, SEC electricity tariffs—that can be confusing. SaudiToolHub breaks these down into simple, free calculators and guides that stay current with 2026 Saudi regulations.",
+    "privacyCommitment": "Our Privacy Commitment",
+    "privacyCommitmentText": "We collect zero personal data. No registration, no tracking cookies, no analytics sharing. Your calculations stay on your device. We use only essential cookies for site function (cookie consent) and anonymous analytics (Google Analytics with IP anonymization) to improve our tools. We will never sell or share your data.",
     "whatWeOffer": "What We Offer",
-    "offer1": "Free interactive calculators for EOSB, Jawazat fines, VAT, loans, and more",
+    "offer1": "Free interactive calculators for EOSB, Jawazat fines, ZATCA VAT, loans, and more",
     "offer2": "Comprehensive guides written in plain language",
     "offer3": "Multilingual support for Arabic, Urdu, Tagalog, and Bengali speakers",
-    "offer4": "No registration, no data collection, no cookies—just tools",
+    "offer4": "No registration, no data collection—just tools",
     "values": "Our Values",
-    "value1": "Privacy First: We do not collect or store your data",
+    "value1": "Privacy First: We collect zero personal data",
     "value2": "Accuracy: We update our formulas based on 2026 regulations",
     "value3": "Accessibility: Free tools for everyone, everywhere",
     "value4": "Transparency: Clear formulas, no hidden fees, no guesswork",
-    "contactCta": "Questions or feedback? Contact us at",
+    "contactCta": "Questions or feedback? Email us at",
+    "contactEmail": "contact@sauditoolhub.com",
     "team": "Team",
-    "teamText": "Sauditoolhub is built by a small team of developers, designers, and researchers who live and work in Saudi Arabia. We understand the challenges firsthand."
+    "teamText": "SaudiToolHub is built by a small team of developers, designers, and researchers who live and work in Saudi Arabia. We understand the challenges firsthand."
   }
 }

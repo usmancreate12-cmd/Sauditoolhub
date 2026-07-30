@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
 import { useTranslations } from 'next-intl'
 import {
   Calculator,
@@ -87,6 +87,7 @@ const categories = [
 
 export function Navbar({ locale }: { locale?: string }) {
   const pathname = usePathname()
+  const router = useRouter()
   const tn = useTranslations('Navbar')
   const th = useTranslations('HomePage')
   const [openCategory, setOpenCategory] = useState<string | null>(null)
@@ -136,7 +137,7 @@ export function Navbar({ locale }: { locale?: string }) {
   const switchLocale = (newLocale: string) => {
     setLangOpen(false)
     const newPath = pathname.replace(`/${locale}`, `/${newLocale}`)
-    window.location.href = newPath
+    router.push(newPath)
   }
 
   return (
@@ -161,8 +162,8 @@ export function Navbar({ locale }: { locale?: string }) {
                 >
                   <button
                     className={cn(
-                      'flex items-center gap-1.5 px-3 py-2 text-sm rounded-lg transition-colors',
-                      'text-gray-300 hover:text-white hover:bg-gray-800'
+                      'flex items-center gap-1.5 px-3 min-h-[44px] text-sm rounded-lg transition-colors',
+                      'text-gray-300 hover:text-white hover:bg-gray-800 active:scale-95'
                     )}
                   >
                     <cat.icon className="h-4 w-4" />
@@ -196,7 +197,8 @@ export function Navbar({ locale }: { locale?: string }) {
               {/* Search */}
               <button
                 onClick={() => setSearchOpen(true)}
-                className="p-2 text-gray-400 hover:text-gray-200 transition-colors rounded-lg hover:bg-gray-800"
+                className="p-3 text-gray-400 hover:text-gray-200 transition-colors rounded-lg hover:bg-gray-800 active:scale-95"
+                aria-label="Search"
                 title="Search (⌘K)"
               >
                 <Search className="h-4 w-4" />
@@ -206,7 +208,8 @@ export function Navbar({ locale }: { locale?: string }) {
               <div className="relative" ref={langRef}>
                 <button
                   onClick={() => setLangOpen(!langOpen)}
-                  className="flex items-center gap-1 p-2 text-gray-400 hover:text-gray-200 transition-colors rounded-lg hover:bg-gray-800"
+                  className="flex items-center gap-1 p-3 text-gray-400 hover:text-gray-200 transition-colors rounded-lg hover:bg-gray-800 active:scale-95"
+                  aria-label="Language"
                 >
                   <Globe className="h-4 w-4" />
                   <span className="text-xs font-medium hidden sm:inline">{currentLang.code.toUpperCase()}</span>
@@ -237,7 +240,8 @@ export function Navbar({ locale }: { locale?: string }) {
               {/* Mobile menu */}
               <button
                 onClick={() => setMobileOpen(!mobileOpen)}
-                className="lg:hidden p-2 text-gray-400 hover:text-gray-200"
+                className="lg:hidden p-3 text-gray-400 hover:text-gray-200 active:scale-95"
+                aria-label={mobileOpen ? 'Close menu' : 'Open menu'}
               >
                 {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
               </button>

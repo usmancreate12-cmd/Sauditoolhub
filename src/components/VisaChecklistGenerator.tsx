@@ -21,7 +21,7 @@ import { GlassCard } from '@/components/GlassCard'
 import { MagneticButton } from '@/components/MagneticButton'
 
 const inputClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 ' +
   'bg-gray-800 border-gray-600 text-gray-100 placeholder-gray-500 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
@@ -89,10 +89,16 @@ function SearchableSelect({ value, onChange, groups, placeholder, searchPlacehol
   return (
     <div ref={containerRef} className="relative">
       <div
+        role="combobox"
+        tabIndex={0}
+        aria-expanded={open}
+        aria-haspopup="listbox"
+        aria-label={placeholder}
         className={`${inputClass} flex cursor-pointer items-center justify-between gap-2 ${
           open ? 'border-desert-primary shadow-[0_0_0_3px_rgba(0,212,170,0.15)]' : ''
         }`}
         onClick={() => { setOpen(!open); setTimeout(() => inputRef.current?.focus(), 50) }}
+        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setOpen(!open); setTimeout(() => inputRef.current?.focus(), 50) } }}
       >
         <span className={value ? 'text-gray-100' : 'text-gray-500'}>
           {value ? selectedLabel : placeholder}
@@ -102,6 +108,7 @@ function SearchableSelect({ value, onChange, groups, placeholder, searchPlacehol
             <button
               onClick={(e) => { e.stopPropagation(); handleClear() }}
               className="rounded p-0.5 text-gray-500 hover:text-gray-300 transition-colors"
+              aria-label="Clear selection"
             >
               <X size={14} />
             </button>

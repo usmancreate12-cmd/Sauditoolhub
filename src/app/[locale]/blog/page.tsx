@@ -53,7 +53,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function BlogPage({ params }: Props) {
   const { locale } = await params
-  const t = await getTranslations('BlogPage')
+  const t = await getTranslations({ locale, namespace: 'BlogPage' })
   const isRtl = locale === 'ar' || locale === 'ur'
   const pageUrl = locale === 'en' ? `${baseUrl}/blog` : `${baseUrl}/${locale}/blog`
 

@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function TermsOfServicePage({ params }: Props) {
   const { locale } = await params
-  const t = await getTranslations('TermsPage')
+  const t = await getTranslations({ locale, namespace: 'TermsPage' })
   const isRtl = locale === 'ar' || locale === 'ur'
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/terms-of-service` : `${baseUrl}/${locale}/terms-of-service`

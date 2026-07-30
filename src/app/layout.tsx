@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import Script from 'next/script'
 import { ThemeProvider } from '@/lib/theme'
 import JsonLd from '@/components/JsonLd'
@@ -25,6 +25,14 @@ const websiteSchema = {
   inLanguage: ['en', 'ar', 'ur', 'tl', 'bn'],
 }
 
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+  viewportFit: 'cover',
+}
+
 export const metadata: Metadata = {
   metadataBase: new URL('https://sauditoolhub.com'),
   title: 'SaudiToolHub - Free Saudi Calculators & Guides 2026',
@@ -34,6 +42,24 @@ export const metadata: Metadata = {
     google: 'n9K5SWrcesdymEwQgPG4m6GE6geoC6JXza1QW8xB0lE',
   },
   other: { 'msvalidate.01': '3D88FCE5F49B901D1AE947C52515DE30' },
+  robots: { index: true, follow: true },
+  openGraph: {
+    title: 'SaudiToolHub - Free Saudi Calculators & Guides 2026',
+    description:
+      '23+ Free calculators for EOSB, Zakat, Traffic Fines, and more in Saudi Arabia. Available in English, Arabic, Urdu, Tagalog, and Bengali.',
+    url: 'https://sauditoolhub.com',
+    siteName: 'SaudiToolHub',
+    locale: 'en_US',
+    type: 'website',
+    images: [{ url: 'https://sauditoolhub.com/og-image.png', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'SaudiToolHub - Free Saudi Calculators & Guides 2026',
+    description:
+      '23+ Free calculators for EOSB, Zakat, Traffic Fines, and more in Saudi Arabia.',
+    images: ['https://sauditoolhub.com/og-image.png'],
+  },
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
@@ -64,7 +90,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <body className="min-h-screen bg-[#0A0E1A] text-gray-100 antialiased">
+      <body className="min-h-dvh bg-[#0A0E1A] text-gray-100 antialiased">
         <JsonLd data={organizationSchema} />
         <JsonLd data={websiteSchema} />
         <Script

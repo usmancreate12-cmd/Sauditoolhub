@@ -2228,8 +2228,10 @@
     "form": {
       "roommatesTitle": "Mga Roommate",
       "namePlaceholder": "Person {n}",
+      "shareLabel": "Share points",
       "billsTitle": "Mga Bill at Gastos",
-      "billNamePlaceholder": "hal. Elektrisidad"
+      "billNamePlaceholder": "hal. Elektrisidad",
+      "billAmountLabel": "Halaga ng bill sa SAR"
     },
     "buttons": {
       "calculate": "Hatiin ang Bills",
@@ -3065,33 +3067,46 @@
     "title": "Disclaimer",
     "lastUpdated": "Huling na-update: Hulyo 2026",
     "sections": {
-      "notAdvice": "Not Legal or Financial Advice",
-      "noGuarantee": "No Guarantee of Accuracy",
-      "externalLinks": "External Links"
+      "notAdvice": "Hindi Legal o Pinansyal na Payo",
+      "noGuarantee": "Walang Garantiya ng Katumpakan",
+      "notAffiliated": "Hindi Kaakibat ng Pamahalaan ng Saudi",
+      "officialPortals": "Mga Opisyal na Portal",
+      "externalLinks": "Mga Panlabas na Link"
     },
     "content": {
-      "notAdvice": "Ang mga calculator at impormasyong ibinibigay sa Sauditoolhub ay para sa pangkalahatang impormasyonal at edukasyonal na mga layunin lamang. Sila ay hindi kapalit ng propesyonal na legal o financial na payo. Ang mga batas at regulasyon ng Saudi ay pwedeng magbago. Habang pinipili namin ang katumpakan, wala kaming anumang garantiya tungkol sa kabuuan, reliability, o kasalukuyan ng impormasyon. Laging kumonsulta sa isang kwalipikadong propesyonal na legal para sa payo na espesipiko sa iyong sitwasyon.",
-      "noGuarantee": "Ang aming mga calculator ay nagpapatupad ng mga karaniwang formula batay sa nai-publish na mga regulasyon. Gayunpaman, ang mga indibidwal na kontrata sa trabaho, mga patakaran ng kumpanya, at mga tiyak na sitwasyon ay maaaring makaapekto sa iyong aktwal na mga karapatan. Ang mga resulta ay dapat gamitin lamang bilang mga tantya.",
-      "externalLinks": "Ang aming website ay maaaring maglaman ng mga link sa panlabas na mga website. Hindi kami responsable sa nilalaman o katumpakan ng anumang panlabas na mga site."
+      "notAdvice": "Ang SaudiToolHub ay nagbibigay ng mga tool sa pagtatantya para sa mga layuning pang-impormasyon lamang. Hindi ito kapalit ng propesyonal na legal o pinansyal na payo. Laging kumonsulta sa isang kwalipikadong propesyonal para sa payo na naaangkop sa iyong sitwasyon.",
+      "noGuarantee": "Ang mga kalkulasyon ay batay sa pampublikong magagamit na mga regulasyon ng Saudi (hal., Saudi Labor Law, ZATCA, MHRSD, MOI) noong 2026. Bagama't nagsusumikap kami para sa katumpakan, maaaring makaapekto ang indibidwal na mga pangyayari sa aktwal na mga resulta. Ang mga resulta ay dapat gamitin lamang bilang mga pagtatantya.",
+      "notAffiliated": "Hindi kami KAAKIBAT ng Pamahalaan ng Saudi. Para sa opisyal at nagbubuklod na mga kalkulasyon, laging sumangguni sa mga opisyal na portal tulad ng Absher, Muqeem, ZATCA, o Najiz.",
+      "officialPortals": "Para sa opisyal at nagbubuklod na mga kalkulasyon, laging gamitin ang mga sumusunod na portal ng pamahalaan ng Saudi:",
+      "externalLinks": "Ang aming website ay maaaring maglaman ng mga link sa mga opisyal na portal ng pamahalaan ng Saudi at mga panlabas na website. Hindi kami responsable para sa nilalaman o katumpakan ng anumang panlabas na site."
     }
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "heading": "Hindi Natagpuan ang Pahina",
+    "description": "Ang pahinang hinahanap mo ay wala o nailipat na. Subukan ang isa sa aming mga sikat na tool sa ibaba.",
+    "backHome": "Bumalik sa Home"
   },
   "AboutPage": {
     "title": "Tungkol sa Amin",
-    "subtitle": "Ang Sauditoolhub ay isang libreng, privacy-first na plataporma na ginawa para sa pagpapasimple ng mga financial calculation sa Saudi Arabia para sa mga expat, business owner, at resident.",
+    "subtitle": "Ang SaudiToolHub ay isang libreng, privacy-first na plataporma na nagbibigay ng tumpak na Saudi Arabia financial calculators, gabay, at compliance tool para sa mga expat, business owner, at resident.",
     "mission": "Ang Aming Misyon",
-    "missionText": "Naniniwala kaming lahat ay karapat-dapat sa instant na access sa mahusay na mga financial tool. Ang Saudi Arabia ay may kakaibang mga regulasyon—EOSB, Jawazat fines, ZATCA VAT, Nitaqat ratios, SEC electricity tariffs—na maaaring magpaloob. Ang Sauditoolhub ay nagbabago ng mga ito sa simpleng, libreng mga calculator at gabay.",
+    "missionText": "Naniniwala kaming lahat ay karapat-dapat sa instant na access sa tumpak na financial tool. Ang Saudi Arabia ay may kakaibang mga regulasyon—EOSB, Jawazat fines, ZATCA VAT, Nitaqat ratios, SEC electricity tariffs—na maaaring magpalito. Ang SaudiToolHub ay ginagawang simple, libreng calculator at gabay ang mga ito na sumusunod sa 2026 Saudi regulasyon.",
+    "privacyCommitment": "Ang Aming Pangako sa Privacy",
+    "privacyCommitmentText": "Wala kaming kinokolektang personal na data. Walang registration, walang tracking cookies, walang analytics sharing. Ang iyong mga kalkulasyon ay nananatili sa iyong device. Gumagamit lamang kami ng essential cookies para sa function ng site at anonymous analytics para mapabuti ang aming mga tool. Hindi namin ibebenta o ibabahagi ang iyong data.",
     "whatWeOffer": "Ang Aming Iniaalok",
-    "offer1": "Libreng interactive calculators para sa EOSB, Jawazat fines, VAT, loans, at iba pa",
-    "offer2": "Komprehensibong gabay na isinulat sa simpleng wika",
-    "offer3": "Multilingual suporta para sa mga nagsasalita ng Arabic, Urdu, Tagalog, at Bengali",
-    "offer4": "Walang registration, walang data collection, walang cookies—plain lang na mga tool",
-    "values": "Ang Aming mga Halaga",
-    "value1": "Privacy First: Hindi kami nagkolekta o nag-iimbak ng iyong data",
-    "value2": "Accuracy: Iminumupdate namin ang aming mga formula batay sa 2026 na regulasyon",
-    "value3": "Accessibility: Libreng mga tool para sa lahat, saanman",
-    "value4": "Transparency: Malinaw na mga formula, walang hidden fees, walang hula",
-    "contactCta": "Mga tanong o feedback? Makipag-ugnayan sa amin sa",
+    "offer1": "Libreng interactive calculators para sa EOSB, Jawazat fines, ZATCA VAT, loans, at iba pa",
+    "offer2": "Komprehensibong gabay na nakasulat sa simpleng wika",
+    "offer3": "Multilingual na suporta para sa mga nagsasalita ng Arabic, Urdu, Tagalog, at Bengali",
+    "offer4": "Walang registration, walang data collection—mga tool lang",
+    "values": "Ang Aming mga Pinahahalagahan",
+    "value1": "Privacy First: Wala kaming kinokolektang personal na data",
+    "value2": "Katumpakan: Ina-update namin ang aming mga formula batay sa 2026 regulasyon",
+    "value3": "Accessibility: Libreng mga tool para sa lahat, kahit saan",
+    "value4": "Transparency: Malinaw na mga formula, walang nakatagong bayad, walang hula",
+    "contactCta": "Mga tanong o feedback? I-email kami sa",
+    "contactEmail": "contact@sauditoolhub.com",
     "team": "Team",
-    "teamText": "Ang Sauditoolhub ay ginawa ng maliit na team ng mga developer, designer, at researcher na nakatira at nagtatrabaho sa Saudi Arabia. Nauunawaan namin ang mga hamon nang first-hand."
+    "teamText": "Ang SaudiToolHub ay binuo ng isang maliit na team ng mga developer, designer, at researcher na nakatira at nagtatrabaho sa Saudi Arabia. Naiintindihan namin ang mga hamon mismo."
   }
 }

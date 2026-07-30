@@ -23,14 +23,14 @@ import { MagneticButton } from '@/components/MagneticButton'
 import { NumberTicker } from '@/components/NumberTicker'
 
 const inputClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 ' +
   'bg-gray-800 border-gray-600 text-gray-100 placeholder-gray-500 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
 const labelClass = 'block text-sm font-medium text-gray-400 mb-1.5'
 
 const selectClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 appearance-none cursor-pointer ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 appearance-none cursor-pointer ' +
   'bg-gray-800 border-gray-600 text-gray-100 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 

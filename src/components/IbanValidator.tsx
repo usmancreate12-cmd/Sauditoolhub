@@ -11,14 +11,14 @@ import { MagneticButton } from '@/components/MagneticButton'
 import { NumberTicker } from '@/components/NumberTicker'
 
 const inputClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 ' +
   'bg-gray-800 border-gray-600 text-gray-100 placeholder-gray-500 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
 const labelClass = 'block text-sm font-medium text-gray-400 mb-1.5'
 
 const selectClass =
-  'w-full rounded-xl border px-4 py-2.5 text-sm outline-none transition-all duration-200 appearance-none cursor-pointer ' +
+  'w-full rounded-xl border px-4 py-2.5 text-base outline-none transition-all duration-200 appearance-none cursor-pointer ' +
   'bg-gray-800 border-gray-600 text-gray-100 ' +
   'focus:border-desert-primary focus:shadow-[0_0_0_3px_rgba(0,212,170,0.15)]'
 
@@ -79,20 +79,20 @@ export function IbanValidator({ locale }: { locale?: string }) {
               </div>
               <div className="space-y-4">
                 <div>
-                  <label className={labelClass}>{t('form.iban.label')}</label>
-                  <input type="text" value={iban} onChange={(e) => setIban(e.target.value.toUpperCase())} maxLength={24} placeholder={t('form.iban.placeholder')} className={inputClass} />
+                  <label htmlFor="iban-input" className={labelClass}>{t('form.iban.label')}</label>
+                  <input id="iban-input" type="text" value={iban} onChange={(e) => setIban(e.target.value.toUpperCase())} maxLength={24} placeholder={t('form.iban.placeholder')} className={inputClass} />
                 </div>
                 <div>
-                  <label className={labelClass}>{t('form.transferType.label')}</label>
-                  <select value={transferType} onChange={(e) => setTransferType(e.target.value as TransferType)} className={selectClass}>
+                  <label htmlFor="transfer-type" className={labelClass}>{t('form.transferType.label')}</label>
+                  <select id="transfer-type" value={transferType} onChange={(e) => setTransferType(e.target.value as TransferType)} className={selectClass}>
                     <option value="sarie">{t('form.transferType.options.sarie')}</option>
                     <option value="mada">{t('form.transferType.options.mada')}</option>
                     <option value="swift">{t('form.transferType.options.swift')}</option>
                   </select>
                 </div>
                 <div>
-                  <label className={labelClass}>{t('form.amount.label')}</label>
-                  <input type="number" min={1} value={transferAmount} onChange={(e) => setTransferAmount(Number(e.target.value))} className={inputClass} />
+                  <label htmlFor="transfer-amount" className={labelClass}>{t('form.amount.label')}</label>
+                  <input id="transfer-amount" type="number" min={1} value={transferAmount} onChange={(e) => setTransferAmount(Number(e.target.value))} className={inputClass} />
                 </div>
                 <div className="flex gap-3 pt-2">
                   <MagneticButton type="button" onClick={handleValidate} className="flex-1">

@@ -18,6 +18,10 @@ export function ParticleBackground() {
   const rafRef = useRef(0)
 
   useEffect(() => {
+    const isTouch = window.matchMedia('(hover: none)').matches
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    if (isTouch || prefersReducedMotion) return
+
     const canvas = canvasRef.current
     if (!canvas) return
     const ctx = canvas.getContext('2d')
@@ -30,7 +34,8 @@ export function ParticleBackground() {
     resize()
     window.addEventListener('resize', resize)
 
-    const particleCount = Math.min(80, Math.floor((canvas.width * canvas.height) / 15000))
+    const isMobile = canvas.width < 768
+    const particleCount = isMobile ? 20 : Math.min(80, Math.floor((canvas.width * canvas.height) / 15000))
     particlesRef.current = Array.from({ length: particleCount }, () => ({
       x: Math.random() * canvas.width,
       y: Math.random() * canvas.height,

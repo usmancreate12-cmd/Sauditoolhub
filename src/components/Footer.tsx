@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
-import { Calculator, Globe, ExternalLink } from 'lucide-react'
+import { Calculator } from 'lucide-react'
 
 const categories = [
   {
@@ -32,8 +32,8 @@ const categories = [
       { nameKey: 'toolNames.zakat', href: 'zakat-calculator' },
       { nameKey: 'toolNames.iban', href: 'iban-validator' },
       { nameKey: 'toolNames.sip', href: 'sip-calculator' },
-      { nameKey: 'toolNames.rett', href: '/rett-tax-calculator' },
-      { nameKey: 'toolNames.mortgage', href: '/mortgage-vs-rent' },
+      { nameKey: 'toolNames.rett', href: 'rett-tax-calculator' },
+      { nameKey: 'toolNames.mortgage', href: 'mortgage-vs-rent' },
     ],
   },
 ]
@@ -57,18 +57,15 @@ export function Footer() {
             </p>
             <Link
               href="/blog"
-              className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors font-medium"
+              className="flex items-center gap-2 min-h-[44px] text-sm text-desert-primary hover:text-desert-primary-dim transition-colors font-medium active:scale-95"
             >
               <span className="text-xs bg-desert-primary/20 text-desert-primary px-1.5 py-0.5 rounded font-bold uppercase tracking-wider">NEW</span>
               {tf('links.blog')}
             </Link>
             <div className="flex items-center gap-3">
-              <a href="#" className="p-2 text-gray-400 hover:text-desert-primary transition-colors rounded-lg hover:bg-gray-800">
-                <Globe className="h-4 w-4" />
-              </a>
-              <a href="#" className="p-2 text-gray-400 hover:text-desert-primary transition-colors rounded-lg hover:bg-gray-800">
-                <ExternalLink className="h-4 w-4" />
-              </a>
+              <Link href="/" className="flex items-center justify-center min-h-[44px] min-w-[44px] text-gray-400 hover:text-desert-primary transition-colors rounded-lg hover:bg-gray-800 active:scale-95" aria-label="Home">
+                <Calculator className="h-4 w-4" />
+              </Link>
             </div>
           </div>
 
@@ -77,10 +74,10 @@ export function Footer() {
               <h3 className="text-sm font-semibold text-white mb-3">{tn(`categories.${cat.key}`)}</h3>
               <ul className="space-y-2">
                 {cat.tools.map((tool) => (
-                  <li key={tool.nameKey}>
+                    <li key={tool.nameKey}>
                     <Link
                       href={tool.href.startsWith('#') ? tool.href : `/${tool.href}`}
-                      className="text-sm text-gray-400 hover:text-desert-primary transition-colors"
+                      className="flex items-center min-h-[44px] text-sm text-gray-400 hover:text-desert-primary transition-colors"
                     >
                       {th(tool.nameKey)}
                     </Link>
@@ -95,12 +92,12 @@ export function Footer() {
           <p className="text-xs text-gray-500">
             {tf('copyright', { year: new Date().getFullYear() })}
           </p>
-          <div className="flex items-center gap-4 text-xs text-gray-500">
-            <Link href="/about" className="hover:text-desert-primary transition-colors">{tf('links.about')}</Link>
-            <Link href="/privacy-policy" className="hover:text-desert-primary transition-colors">{tf('links.privacy')}</Link>
-            <Link href="/terms-of-service" className="hover:text-desert-primary transition-colors">{tf('links.terms')}</Link>
-            <Link href="/disclaimer" className="hover:text-desert-primary transition-colors">{tf('links.disclaimer')}</Link>
-            <Link href="/contact" className="hover:text-desert-primary transition-colors">{tf('links.contact')}</Link>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-gray-500">
+            <Link href="/about" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.about')}</Link>
+            <Link href="/privacy-policy" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.privacy')}</Link>
+            <Link href="/terms-of-service" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.terms')}</Link>
+            <Link href="/disclaimer" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.disclaimer')}</Link>
+            <Link href="/contact" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.contact')}</Link>
           </div>
           <p className="text-xs text-gray-500">
             {tf('disclaimerText')}

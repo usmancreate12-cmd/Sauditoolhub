@@ -50,12 +50,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function DisclaimerPage({ params }: Props) {
   const { locale } = await params
-  const t = await getTranslations('DisclaimerPage')
+  const t = await getTranslations({ locale, namespace: 'DisclaimerPage' })
   const isRtl = locale === 'ar' || locale === 'ur'
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/disclaimer` : `${baseUrl}/${locale}/disclaimer`
 
-  const sections = ['notAdvice', 'noGuarantee', 'externalLinks']
+  const sections = ['notAdvice', 'noGuarantee', 'notAffiliated', 'officialPortals', 'externalLinks']
+
+  const portals = [
+    { name: 'Absher', url: 'https://absher.sa', desc: 'MOI services & Iqama management' },
+    { name: 'Muqeem', url: 'https://muqeem.sa', desc: 'Visa & residency services' },
+    { name: 'ZATCA', url: 'https://zatca.gov.sa', desc: 'Tax, VAT & Zakat' },
+    { name: 'Najiz', url: 'https://najiz.sa', desc: 'Ministry of Justice legal services' },
+    { name: 'MHRSD', url: 'https://hrsd.gov.sa', desc: 'Labor & employment services' },
+  ]
 
   const webPageSchema = {
     '@context': 'https://schema.org',
@@ -94,7 +102,27 @@ export default async function DisclaimerPage({ params }: Props) {
               {sections.map((key) => (
                 <div key={key} className="glass p-6 rounded-xl">
                   <h2 className="text-xl font-bold text-white mb-3">{t(`sections.${key}`)}</h2>
-                  <p className="text-gray-300 text-sm leading-relaxed">{t(`content.${key}`)}</p>
+                  {key === 'officialPortals' ? (
+                    <>
+                      <p className="text-gray-300 text-sm leading-relaxed mb-4">{t(`content.${key}`)}</p>
+                      <div className="space-y-2">
+                        {portals.map((p) => (
+                          <a
+                            key={p.name}
+                            href={p.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="flex items-center justify-between glass p-3 rounded-lg text-sm text-gray-300 hover:text-desert-primary transition-colors"
+                          >
+                            <span className="font-medium">{p.name}</span>
+                            <span className="text-xs text-gray-500">{p.desc}</span>
+                          </a>
+                        ))}
+                      </div>
+                    </>
+                  ) : (
+                    <p className="text-gray-300 text-sm leading-relaxed">{t(`content.${key}`)}</p>
+                  )}
                 </div>
               ))}
             </div>

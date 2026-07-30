@@ -31,7 +31,7 @@ export default async function LocaleLayout({
       <div
         dir={isRtl ? 'rtl' : 'ltr'}
         className={cn(
-          'relative z-10 flex min-h-screen flex-col',
+          'relative z-10 flex min-h-dvh flex-col',
           locale === 'ar' && 'font-arabic',
           locale === 'ur' && 'font-urdu'
         )}
