@@ -3,7 +3,12 @@ import Script from 'next/script'
 import { ThemeProvider } from '@/lib/theme'
 import JsonLd from '@/components/JsonLd'
 import CookieConsent from '@/components/CookieConsent'
+import { Poppins, Tajawal, Harmattan } from 'next/font/google'
 import './globals.css'
+
+const poppins = Poppins({ subsets: ['latin'], weight: ['400', '500', '600', '700', '800'], variable: '--font-sans', display: 'swap' })
+const tajawal = Tajawal({ subsets: ['arabic'], weight: ['400', '500', '700', '800'], variable: '--font-arabic', display: 'swap' })
+const harmattan = Harmattan({ subsets: ['arabic'], weight: ['400', '700'], variable: '--font-urdu', display: 'swap' })
 
 const organizationSchema = {
   '@context': 'https://schema.org',
@@ -90,7 +95,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <body className="min-h-dvh bg-[#0A0E1A] text-gray-100 antialiased">
+      <body className={`min-h-dvh bg-[#0A0E1A] text-gray-100 antialiased ${poppins.variable} ${tajawal.variable} ${harmattan.variable}`}>
         <JsonLd data={organizationSchema} />
         <JsonLd data={websiteSchema} />
         <Script

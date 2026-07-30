@@ -16,7 +16,6 @@
     "lucide-react": "^1.27.0",
     "next": "16.2.12",
     "next-intl": "^4.13.4",
-    "playwright": "^1.62.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-hook-form": "^7.83.0",
@@ -24,6 +23,7 @@
     "zod": "^3.25.76"
   },
   "devDependencies": {
+    "playwright": "^1.62.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",

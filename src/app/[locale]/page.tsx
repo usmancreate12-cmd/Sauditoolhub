@@ -1,11 +1,12 @@
 'use client'
 
 import { useTranslations } from 'next-intl'
-import { useState } from 'react'
+import { useState, lazy, Suspense } from 'react'
 import Link from 'next/link'
 import { Calculator, Shield, Zap, Globe, ChevronRight, Search, X } from 'lucide-react'
-import { HeroSection } from '@/components/HeroSection'
 import { GlassCard } from '@/components/GlassCard'
+
+const HeroSection = lazy(() => import('@/components/HeroSection').then(module => ({ default: module.HeroSection })))
 
 const categories = [
   {
@@ -83,7 +84,9 @@ export default function HomePage() {
 
   return (
     <div className="relative z-10">
-      <HeroSection />
+      <Suspense fallback={<div className="min-h-[90vh] flex items-center justify-center" />}>
+        <HeroSection />
+      </Suspense>
 
       {/* Live Stats */}
       <section className="px-4 py-16">
