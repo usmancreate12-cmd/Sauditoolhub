@@ -17,6 +17,7 @@ export function AnimatedBackground() {
 
     let animationId: number
     let time = 0
+    let started = false
 
     const resize = () => {
       canvas.width = window.innerWidth
@@ -58,7 +59,17 @@ export function AnimatedBackground() {
       animationId = requestAnimationFrame(draw)
     }
 
-    draw()
+    const startAnimation = () => {
+      if (started) return
+      started = true
+      draw()
+    }
+
+    if ('requestIdleCallback' in window) {
+      ;(window as any).requestIdleCallback(startAnimation, { timeout: 2000 })
+    } else {
+      setTimeout(startAnimation, 100)
+    }
 
     return () => {
       cancelAnimationFrame(animationId)

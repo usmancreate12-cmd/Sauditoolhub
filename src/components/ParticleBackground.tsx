@@ -101,7 +101,15 @@ export function ParticleBackground() {
       rafRef.current = requestAnimationFrame(animate)
     }
 
-    rafRef.current = requestAnimationFrame(animate)
+    const startAnimation = () => {
+      rafRef.current = requestAnimationFrame(animate)
+    }
+
+    if ('requestIdleCallback' in window) {
+      ;(window as any).requestIdleCallback(startAnimation, { timeout: 2000 })
+    } else {
+      setTimeout(startAnimation, 100)
+    }
 
     return () => {
       cancelAnimationFrame(rafRef.current)
