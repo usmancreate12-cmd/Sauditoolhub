@@ -32,6 +32,7 @@ export const metadata: Metadata = {
     '23+ Free calculators for EOSB, Zakat, Traffic Fines, and more in Saudi Arabia. Available in English, Arabic, Urdu, Tagalog, and Bengali.',
   verification: {
     google: 'n9K5SWrcesdymEwQgPG4m6GE6geoC6JXza1QW8xB0lE',
+    other: { 'msvalidate.01': '3D88FCE5F49B901D1AE947C52515DE30' },
   },
   icons: {
     icon: [
@@ -78,6 +79,17 @@ export default function RootLayout({
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-KREVP1RPEX', { page_path: window.location.pathname });`,
+          }}
+        />
+        <Script
+          id="microsoft-clarity"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `(function(c,l,a,r,i,t,y){
+c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, "clarity", "script", "xukbgt4067");`,
           }}
         />
         <CookieConsent />
