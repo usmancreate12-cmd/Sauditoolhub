@@ -82,20 +82,19 @@ export default async function GuidePage({ params }: Props) {
         ]}
       />
 
-      <div className="relative z-10 px-4 py-12" dir={isRtl ? 'rtl' : 'ltr'}>
-        <div className="mx-auto max-w-4xl">
-          <Link
-            href={`/${locale}/blog`}
-            className="mb-6 inline-flex items-center gap-1.5 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors"
-          >
-            <ChevronRight className={`h-4 w-4 ${isRtl ? 'rotate-180' : ''}`} />
-            Blog
-          </Link>
+      <div dir={isRtl ? 'rtl' : 'ltr'}>
+        <Link
+          href={`/${locale}/blog`}
+          className="mb-6 inline-flex items-center gap-1.5 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors"
+        >
+          <ChevronRight className={`h-4 w-4 ${isRtl ? 'rotate-180' : ''}`} />
+          Blog
+        </Link>
 
-          <div className="prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300 [&_.glass]:not-prose"
-            dangerouslySetInnerHTML={{ __html: htmlContent }}
-          />
-        </div>
+        <div
+          className="prose prose-invert max-w-none prose-p:text-base prose-p:md:text-lg prose-p:leading-relaxed prose-p:md:leading-loose prose-p:text-gray-300 prose-p:mb-6 prose-h2:text-2xl prose-h2:md:text-3xl prose-h2:font-bold prose-h2:text-white prose-h2:mt-10 prose-h2:mb-4 prose-h3:text-xl prose-h3:md:text-2xl prose-h3:font-semibold prose-h3:text-white prose-h3:mt-8 prose-h3:mb-3 prose-a:text-desert-primary prose-a:no-underline prose-a:hover:underline prose-strong:text-white prose-li:text-gray-300 prose-li:mb-2 prose-ul:list-disc prose-ul:mb-6 prose-ol:list-decimal prose-ol:mb-6 [&_.glass]:not-prose"
+          dangerouslySetInnerHTML={{ __html: htmlContent }}
+        />
       </div>
     </>
   )
