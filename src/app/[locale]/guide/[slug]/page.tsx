@@ -70,8 +70,9 @@ export default async function GuidePage({ params }: Props) {
     '@type': 'Article',
     headline: titleText,
     description: article.description[locale as keyof typeof article.description] || article.description.en,
-    author: { '@type': 'Person', name: 'Sauditoolhub Team' },
-    publisher: { '@type': 'Organization', name: 'Sauditoolhub', logo: { '@type': 'ImageObject', url: `${baseUrl}/logo.png` } },
+    url: pageUrl,
+    author: { '@type': 'Organization', name: 'SaudiToolHub' },
+    publisher: { '@type': 'Organization', name: 'SaudiToolHub', logo: { '@type': 'ImageObject', url: `${baseUrl}/logo.png` } },
     datePublished: article.date,
     dateModified: article.date,
   }
