@@ -5,7 +5,12 @@ const withNextIntl = createNextIntlPlugin()
 
 const nextConfig: NextConfig = {
   images: {
-    domains: ['sauditoolhub.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'sauditoolhub.com',
+      },
+    ],
   },
   trailingSlash: false,
   compress: true,
