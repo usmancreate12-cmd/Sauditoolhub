@@ -1,5 +1,4 @@
 import { NextIntlClientProvider } from 'next-intl'
-import { GoogleAnalytics } from '@next/third-parties/google'
 import { Navbar } from '@/components/Navbar'
 import { Footer } from '@/components/Footer'
 import { AnimatedBackground } from '@/components/AnimatedBackground'
@@ -41,7 +40,6 @@ export default async function LocaleLayout({
         <main className="flex-1">{children}</main>
         <Footer />
       </div>
-      <GoogleAnalytics gaId="G-PX1PJP7HLC" />
     </NextIntlClientProvider>
   )
 }

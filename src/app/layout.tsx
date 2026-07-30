@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Script from 'next/script'
 import { ThemeProvider } from '@/lib/theme'
 import JsonLd from '@/components/JsonLd'
 import './globals.css'
@@ -64,6 +65,13 @@ export default function RootLayout({
       <body className="min-h-screen bg-[#0A0E1A] text-gray-100 antialiased">
         <JsonLd data={organizationSchema} />
         <JsonLd data={websiteSchema} />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-KREVP1RPEX" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-KREVP1RPEX');`}
+        </Script>
         <ThemeProvider>
           {children}
         </ThemeProvider>
