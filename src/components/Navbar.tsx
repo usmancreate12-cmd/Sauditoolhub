@@ -85,6 +85,10 @@ const categories = [
   },
 ]
 
+function setLocaleCookie(localeCode: string) {
+  document.cookie = `NEXT_LOCALE=${localeCode};path=/;max-age=31536000;samesite=lax`
+}
+
 export function Navbar({ locale }: { locale?: string }) {
   const pathname = usePathname()
   const router = useRouter()
@@ -129,6 +133,7 @@ export function Navbar({ locale }: { locale?: string }) {
   }, [])
 
   const currentLang = locales.find((l) => l.code === locale) ?? locales[0]
+  const localePrefix = locale === 'en' ? '' : `/${locale}`
   const allTools = categories.flatMap((c) => c.tools)
   const searchResults = searchQuery
     ? allTools.filter((t) => th(t.nameKey).toLowerCase().includes(searchQuery.toLowerCase()))
@@ -136,7 +141,15 @@ export function Navbar({ locale }: { locale?: string }) {
 
   const switchLocale = (newLocale: string) => {
     setLangOpen(false)
-    const newPath = pathname.replace(`/${locale}`, `/${newLocale}`)
+    const current = locale || 'en'
+    let newPath: string
+    if (current === 'en') {
+      newPath = newLocale === 'en' ? pathname : `/${newLocale}${pathname === '/' ? '' : pathname}`
+    } else {
+      const base = pathname.startsWith(`/${current}`) ? pathname.slice(`/${current}`.length) : pathname
+      newPath = newLocale === 'en' ? (base === '' ? '/' : base) : `/${newLocale}${base === '/' || base === '' ? '' : base}`
+    }
+    setLocaleCookie(newLocale)
     router.push(newPath)
   }
 
@@ -146,7 +159,7 @@ export function Navbar({ locale }: { locale?: string }) {
         <div className="mx-auto max-w-6xl px-4">
           <div className="flex h-14 items-center justify-between">
             {/* Logo */}
-            <Link href={`/${locale}`} className="flex items-center gap-2 shrink-0">
+            <Link href={`${localePrefix}/`} className="flex items-center gap-2 shrink-0">
               <Calculator className="h-5 w-5 text-desert-primary" />
               <span className="font-bold text-white">Sauditoolhub</span>
             </Link>
@@ -175,7 +188,7 @@ export function Navbar({ locale }: { locale?: string }) {
                       {cat.tools.map((tool) => (
                         <Link
                           key={tool.nameKey}
-                          href={tool.href.startsWith('#') ? tool.href : `/${locale}/${tool.href}`}
+                          href={tool.href.startsWith('#') ? tool.href : `${localePrefix}/${tool.href}`}
                           onClick={() => setOpenCategory(null)}
                           className={cn(
                             'flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors',
@@ -270,7 +283,7 @@ export function Navbar({ locale }: { locale?: string }) {
                       {cat.tools.map((tool) => (
                         <Link
                           key={tool.nameKey}
-                          href={tool.href.startsWith('#') ? tool.href : `/${locale}/${tool.href}`}
+                          href={tool.href.startsWith('#') ? tool.href : `${localePrefix}/${tool.href}`}
                           onClick={() => { setMobileOpen(false); setOpenCategory(null) }}
                           className="flex items-center justify-between px-3 py-2 rounded-lg text-sm text-gray-400 hover:text-white hover:bg-gray-800"
                         >
@@ -310,7 +323,7 @@ export function Navbar({ locale }: { locale?: string }) {
               {searchResults.map((tool) => (
                 <Link
                   key={tool.nameKey}
-                  href={`/${locale}/${tool.href}`}
+                  href={`${localePrefix}/${tool.href}`}
                   onClick={() => { setSearchOpen(false); setSearchQuery('') }}
                   className="flex items-center justify-between px-3 py-2 rounded-lg text-sm text-gray-400 hover:text-white hover:bg-gray-800 transition-colors"
                 >

@@ -85,7 +85,7 @@ export default async function GuidePage({ params }: Props) {
       <div className="relative z-10 px-4 py-12" dir={isRtl ? 'rtl' : 'ltr'}>
         <div className="mx-auto max-w-4xl">
           <Link
-            href={`/${locale}/blog`}
+            href={locale === 'en' ? '/blog' : `/${locale}/blog`}
             className="mb-6 inline-flex items-center gap-1.5 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors"
           >
             <ChevronRight className={`h-4 w-4 ${isRtl ? 'rotate-180' : ''}`} />

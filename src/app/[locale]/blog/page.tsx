@@ -137,7 +137,7 @@ export default async function BlogPage({ params }: Props) {
                       })}
                     </span>
                     <Link
-                      href={`/${locale}${post.href}`}
+                      href={locale === 'en' ? post.href : `/${locale}${post.href}`}
                       className="inline-flex items-center gap-1.5 text-sm font-medium text-desert-primary hover:text-desert-primary-dim transition-colors"
                     >
                       {t('readMore')}
