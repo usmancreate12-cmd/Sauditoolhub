@@ -994,6 +994,10 @@ export default async function GuidePage({ params }: Props) {
               <Calculator className="h-4 w-4 shrink-0" />
               {isAr ? 'محسن تأشيرة العائلة' : isUr ? 'فیملی ویزا آپٹیمائزر' : isTl ? 'Family Visa Optimizer' : isBn ? 'ফ্যামিলি ভিসা অপটিমাইজার' : 'Family Visa Optimizer'}
             </Link>
+            <Link href="/visa-checklist-generator" className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors">
+              <Calculator className="h-4 w-4 shrink-0" />
+              {isAr ? 'قائمة مستندات التأشيرات السعودية' : isUr ? 'ویزا چیک لسٹ جنریٹر' : isTl ? 'Visa Checklist Generator' : isBn ? 'ভিসা চেকলিস্ট জেনারেটর' : 'Visa Checklist Generator'}
+            </Link>
             <Link href="/final-settlement-calculator" className="flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim transition-colors">
               <Calculator className="h-4 w-4 shrink-0" />
               {isAr ? 'حاسبة التسوية النهائية' : isUr ? 'فائنل سیٹلمنٹ کیلکولیٹر' : isTl ? 'Final Settlement Calculator' : isBn ? 'চূড়ান্ত নিষ্পত্তি ক্যালকুলেটর' : 'Final Settlement Calculator'}

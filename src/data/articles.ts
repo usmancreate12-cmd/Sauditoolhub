@@ -3726,4 +3726,191 @@ export const articles: Article[] = [
       </div>
     `, ar: '', ur: '', tl: '', bn: '' }
   },
+  {
+    slug: 'saudi-overstay-fine-exit-reentry-guide-2026',
+    category: 'expat',
+    readTime: '8 min read',
+    date: '2026-08-02',
+    title: { en: 'Saudi Overstay Fines: Exit, Re-entry & Cost Guide 2026', ar: '', ur: '', tl: '', bn: '' },
+    description: { en: 'How Saudi overstay fines are calculated, the daily fine amount, exit and re-entry rules, family visa overstay, and what to do before your iqama expires. Use the Jawazat Fine Calculator to budget your penalty.', ar: '', ur: '', tl: '', bn: '' },
+    content: { en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Saudi Overstay Fines: Exit, Re-entry &amp; Cost Guide 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          Overstaying your iqama, exit/re-entry visa, or visit visa in Saudi Arabia is one of the most expensive mistakes an expat can make. This guide explains exactly how fines are calculated, how to leave without penalties, and what to do if you have already overstayed.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>How Saudi Overstay Fines Are Calculated</h2>
+        <p>
+          Saudi Arabia calculates overstay fines on a per-day basis. If your iqama or exit/re-entry visa expires before you leave the country, the penalty starts accruing from the day after expiry until you finalize your exit. The daily rate is applied to every day of overstay, so even a two-week delay can produce a significant bill.
+        </p>
+        <p>
+          Beyond the daily fine, overstaying can trigger additional complications: the fine must be settled before your exit visa is issued, and longer overstays can lead to a re-entry ban or employment restrictions. The exact figures change periodically, so always confirm current rates with the authorities before making plans.
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 Budget your penalty</p>
+          <p class="text-sm mt-1">Use the <a href="/jawazat-fine-calculator">Jawazat Overstay Fine Calculator</a> to see your exact daily accrual, monthly total, and the total owed for any overstay period — before you pay anything.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What Happens When Your Iqama Expires</h2>
+        <p>When your residence permit (iqama) expires, you have a short grace period to renew or arrange an exit. After the grace period, every day becomes a fineable overstay day. The key documents to keep in order are:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. Iqama renewal</p>
+            <p class="text-gray-400 text-sm">Renew before expiry. Your employer or sponsor handles this via the Absher or Muqeem portal. Late renewal accrues fines immediately.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. Exit / re-entry visa</p>
+            <p class="text-gray-400 text-sm">If you leave for a holiday, your re-entry visa must remain valid for the whole trip. Arriving back with an expired re-entry visa means overstay fines from day one.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. Final exit</p>
+            <p class="text-gray-400 text-sm">When ending your employment, the final exit visa must be issued within the grace period. Settle all fines before requesting it.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Overstay and Your End-of-Service Benefits</h2>
+        <p>
+          Overstay fines are often deducted from your end-of-service benefit (EOSB) when your sponsor processes your final exit. This means an avoidable fine directly eats into the money you earned during your contract. Before your final exit, calculate both your payout and your potential deductions so you know exactly what to expect.
+        </p>
+        <p>
+          Use the <a href="/eosb-calculator">EOSB Calculator</a> to work out your gratuity and the <a href="/final-settlement-calculator">Final Settlement Calculator</a> to estimate the full amount due when you resign, including any outstanding deductions.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Family Visa Overstay</h2>
+        <p>
+          Dependents on family visit visas face the same daily fine structure. If your family member's visit visa expires while they are in the Kingdom, you must renew or arrange their exit before the grace period ends. The rules and fees differ from residence overstay, so use a dedicated tool to model the exact cost.
+        </p>
+        <p>
+          Plan your family visa budget with the <a href="/family-visa-optimizer">Family Visa Optimizer</a> — it estimates total visa and extension costs across the full validity period so an expiry never surprises you.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What to Do If You Have Already Overstayed</h2>
+        <p>If you are already accruing fines, act quickly — the total grows every single day:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. Calculate your current penalty</p>
+            <p class="text-gray-400 text-sm">Use the <a href="/jawazat-fine-calculator">Jawazat Overstay Fine Calculator</a> with your actual overstay days to get today's total.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. Confirm your exit paperwork</p>
+            <p class="text-gray-400 text-sm">Ensure all required documents are ready so nothing delays your exit visa. Use the <a href="/visa-checklist-generator">Visa Checklist Generator</a> to build a complete exit document list.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. Settle fines and exit</p>
+            <p class="text-gray-400 text-sm">Pay the fines through the official channel, obtain your exit visa, and leave before the next accrual day.</p>
+          </div>
+        </div>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">Calculate Your Overstay Fine Now</h3>
+        <p class="text-gray-400 text-sm mb-4">Free — per-day accrual, monthly total, and total owed</p>
+        <a href="/jawazat-fine-calculator">
+          Use Free Jawazat Fine Calculator
+        </a>
+      </div>
+    `, ar: '', ur: '', tl: '', bn: '' }
+  },
+  {
+    slug: 'sip-vs-lump-sum-investing-saudi-arabia-2026',
+    category: 'finance',
+    readTime: '7 min read',
+    date: '2026-08-02',
+    title: { en: 'SIP vs Lump Sum Investing in Saudi Arabia: Which Wins in 2026?', ar: '', ur: '', tl: '', bn: '' },
+    description: { en: 'Systematic Investment Plans (SIP) vs lump sum investing for expats in Saudi Arabia. Compare rupee-cost averaging, EOSB lump sums, realistic returns, and where to invest. Includes a worked example.', ar: '', ur: '', tl: '', bn: '' },
+    content: { en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Finance Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">SIP vs Lump Sum Investing in Saudi Arabia: Which Wins in 2026?</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          Should you drip-feed your savings into the market every month, or invest one big amount all at once? Both strategies work — but in very different situations. Here is how to choose, with real Saudi numbers.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What Is a SIP (Systematic Investment Plan)?</h2>
+        <p>
+          A SIP invests a fixed amount into a mutual fund at regular intervals — typically monthly. Over time you buy more units when prices are low and fewer when they are high, a mechanism called <strong>rupee-cost averaging</strong>. This smooths out market volatility and builds an automatic saving habit.
+        </p>
+        <p>
+          Most Saudi banks and asset managers (Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital) offer mutual funds with SIP options, including Sharia-compliant funds. Minimum monthly investments commonly start around SAR 500–1,000.
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 Model it</p>
+          <p class="text-sm mt-1">Use the <a href="/sip-calculator">SIP Return Calculator</a> to see how a monthly investment grows over 5, 10, or 20 years with compounding.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What Is a Lump Sum Investment?</h2>
+        <p>
+          A lump sum invests your entire capital in one transaction. It works best when you have a large pool of money available immediately and the market is reasonably priced — your full capital starts compounding from day one.
+        </p>
+        <p>
+          The classic Saudi example is the <strong>End of Service Benefit (EOSB)</strong>. When you leave a job, you receive a one-time gratuity. Investing that full amount at once is often better than trickling it in, because your money works for the full period from day one.
+        </p>
+        <p>
+          Before investing, work out exactly how much your payout will be with the <a href="/eosb-calculator">EOSB Calculator</a> — then decide how much goes in as a lump sum versus a monthly SIP.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SIP vs Lump Sum: Side-by-Side</h2>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Factor</th>
+                <th class="text-left py-2">SIP</th>
+                <th class="text-left py-2">Lump Sum</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">Best for</td><td class="py-2">Salaried savers building a habit</td><td class="py-2">EOSB, bonuses, inheritance</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Market volatility</td><td class="py-2">Smoothed via averaging</td><td class="py-2">Full exposure from day one</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Time in market</td><td class="py-2">Lower initially</td><td class="py-2">Maximum immediately</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Discipline</td><td class="py-2">Built-in monthly habit</td><td class="py-2">Requires self-control</td></tr>
+              <tr><td class="py-2">Historical tendency</td><td class="py-2">Wins in flat/sideways markets</td><td class="py-2">Wins in rising markets</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>A Worked Example</h2>
+        <p>SAR 120,000 to invest over 10 years at 8% annual return:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Lump sum: SAR 120,000 now</p>
+            <p class="text-gray-400 text-sm">Future value ≈ SAR 259,000. Your full capital compounds for all 10 years — highest growth when markets rise steadily.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">SIP: SAR 1,000/month</p>
+            <p class="text-gray-400 text-sm">Future value ≈ SAR 184,000. Slower to grow, but averages out dips and keeps you fully invested in disciplined monthly bites.</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          Both scenarios are modeled with the <a href="/sip-calculator">SIP Return Calculator</a>, which also lets you compare the two strategies directly.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Where to Invest in Saudi Arabia</h2>
+        <p>
+          Before investing, check your borrowing capacity and total obligations so you never lock cash you might need. Use the <a href="/sama-loan-calculator">SAMA Loan Calculator</a> to verify your Debt Burden Ratio stays within SAMA's rules, and the <a href="/zakat-calculator">Zakat Calculator</a> to plan for the 2.5% zakat on qualifying investments each year.
+        </p>
+        <p>
+          A common split: keep an emergency fund in cash, invest your EOSB as a lump sum for long-term growth, and run a monthly SIP on top for new savings. This combination captures the best of both strategies.
+        </p>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">Compare Your Options Now</h3>
+        <p class="text-gray-400 text-sm mb-4">Free — SIP returns, EOSB planning, and loan eligibility in one place</p>
+        <a href="/sip-calculator">
+          Use Free SIP Calculator
+        </a>
+      </div>
+    `, ar: '', ur: '', tl: '', bn: '' }
+  },
 ]

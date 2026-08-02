@@ -337,7 +337,7 @@ function EnContent() {
           Our <Link href="/property-valuation" className="text-desert-primary font-bold underline">Property Valuation Estimator</Link> provides a free, instant baseline estimate. Enter the property location, type, size, age, and key features. The tool uses market data and comparable sales to generate an estimated value range.
         </p>
         <p>
-          Also explore our <Link href="/rett-tax-calculator" className="text-desert-primary underline">RETT Calculator</Link> to understand the 5% property tax, the <Link href="/mortgage-vs-rent" className="text-desert-primary underline">Mortgage vs. Rent Calculator</Link> for home buying decisions, and <Link href="/blog" className="text-desert-primary underline">our blog</Link> for more guides on Saudi real estate.
+          Also explore our <Link href="/rett-tax-calculator" className="text-desert-primary underline">RETT Calculator</Link> to understand the 5% property tax, the <Link href="/mortgage-vs-rent" className="text-desert-primary underline">Mortgage vs. Rent Calculator</Link> for home buying decisions, and <Link href="/blog" className="text-desert-primary underline">our blog</Link> for more guides on Saudi real estate. Buying as an expat? Plan your funding with the <Link href="/eosb-calculator" className="text-desert-primary underline">EOSB Calculator</Link> and the <Link href="/final-settlement-calculator" className="text-desert-primary underline">Final Settlement Calculator</Link>.
         </p>
       </GlassCard>
 
@@ -471,7 +471,7 @@ function ArContent() {
           <Link href="/property-valuation" className="text-desert-primary font-bold underline">أداة تقييم العقارات</Link> تقدم تقديراً أساسياً مجانياً فورياً. أدخل موقع العقار ونوعه ومساحته وعمره.
         </p>
         <p>
-          اكتشف أيضاً <Link href="/rett-tax-calculator" className="text-desert-primary underline">حاسبة ضريبة التصرفات العقارية</Link> و <Link href="/mortgage-vs-rent" className="text-desert-primary underline">حاسبة الرهن مقابل الإيجار</Link>. زر <Link href="/blog" className="text-desert-primary underline">مدونتنا</Link> للمزيد.
+          اكتشف أيضاً <Link href="/rett-tax-calculator" className="text-desert-primary underline">حاسبة ضريبة التصرفات العقارية</Link> و <Link href="/mortgage-vs-rent" className="text-desert-primary underline">حاسبة الرهن مقابل الإيجار</Link>. زر <Link href="/blog" className="text-desert-primary underline">مدونتنا</Link> للمزيد. إذا كنت مقيماً تشتري عقاراً، خطط لتمويلك عبر <Link href="/eosb-calculator" className="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة</Link> و <Link href="/final-settlement-calculator" className="text-desert-primary underline">حاسبة التسوية النهائية</Link>.
         </p>
       </GlassCard>
 

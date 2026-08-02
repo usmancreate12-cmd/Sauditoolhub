@@ -384,7 +384,7 @@ function EnContent() {
       <div className="not-prose glass p-5 rounded-xl mb-6">
         <h3 className="text-desert-primary font-semibold mb-3">When to Choose Lump Sum</h3>
         <ul className="space-y-2 text-gray-300 text-sm">
-          <li><strong className="text-white">You receive an End of Service Benefit (EOSB):</strong> If you leave Saudi Arabia or change jobs, consider investing a portion of your EOSB.</li>
+          <li><strong className="text-white">You receive an End of Service Benefit (EOSB):</strong> If you leave Saudi Arabia or change jobs, consider investing a portion of your EOSB — use the <Link href="/eosb-calculator" className="text-desert-primary underline">EOSB Calculator</Link> to plan your payout first.</li>
           <li><strong className="text-white">You receive a large bonus or inheritance:</strong> A lump sum investment can generate significant returns if the market is well-priced.</li>
           <li><strong className="text-white">The market is at a clear low:</strong> If you have strong conviction that current valuations are attractive.</li>
           <li><strong className="text-white">You want immediate exposure:</strong> Lump sum gets your entire capital working from day one.</li>
@@ -517,7 +517,9 @@ function EnContent() {
           <Link href="/sama-loan-calculator" className="text-desert-primary underline">SAMA Loan Calculator</Link>{' '}
           for understanding your borrowing capacity, and{' '}
           <Link href="/zakat-calculator" className="text-desert-primary underline">Zakat Calculator</Link>{' '}
-          for managing your annual zakat obligations.
+          for managing your annual zakat obligations, and the{' '}
+          <Link href="/eosb-calculator" className="text-desert-primary underline">EOSB Calculator</Link>{' '}
+          to plan how to invest your end-of-service benefit.
         </p>
         <p className="text-gray-400 text-sm">
           Visit our <Link href="/blog" className="text-desert-primary underline">blog</Link> for more insights on personal finance in Saudi Arabia.
@@ -785,7 +787,9 @@ function ArContent() {
           <Link href="/sama-loan-calculator" className="text-desert-primary underline">حاسبة قرض ساما</Link>{' '}
           لفهم قدرتك على الاقتراض، و{' '}
           <Link href="/zakat-calculator" className="text-desert-primary underline">حاسبة الزكاة</Link>{' '}
-          لإدارة التزامات الزكاة السنوية.
+          لإدارة التزامات الزكاة السنوية، و{' '}
+          <Link href="/eosb-calculator" className="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة</Link>{' '}
+          للتخطيط لاستثمار مكافأة نهاية خدمتك.
         </p>
         <p className="text-gray-400 text-sm">
           زوروا <Link href="/blog" className="text-desert-primary underline">مدونتنا</Link> للمزيد من المقالات حول التمويل الشخصي في السعودية.
@@ -979,7 +983,8 @@ function UrContent() {
         <p className="text-gray-300 mb-4">
           <Link href="/sip-calculator" className="text-desert-primary font-bold underline">SIP کیلکولیٹر</Link> استعمال کریں،{' '}
           <Link href="/sama-loan-calculator" className="text-desert-primary underline">ساما لون کیلکولیٹر</Link> اور{' '}
-          <Link href="/zakat-calculator" className="text-desert-primary underline">زکوٰۃ کیلکولیٹر</Link> بھی دیکھیں۔
+          <Link href="/zakat-calculator" className="text-desert-primary underline">زکوٰۃ کیلکولیٹر</Link> اور{' '}
+          <Link href="/eosb-calculator" className="text-desert-primary underline">EOSB کیلکولیٹر</Link> بھی دیکھیں۔
         </p>
         <p className="text-gray-400 text-sm">
           ہماری <Link href="/blog" className="text-desert-primary underline">بلاگ</Link> ملاحظہ کریں۔
@@ -1172,7 +1177,8 @@ function TlContent() {
         <p className="text-gray-300 mb-4">
           Gamitin ang <Link href="/sip-calculator" className="text-desert-primary font-bold underline">SIP Calculator</Link>,{' '}
           <Link href="/sama-loan-calculator" className="text-desert-primary underline">SAMA Loan Calculator</Link> at{' '}
-          <Link href="/zakat-calculator" className="text-desert-primary underline">Zakat Calculator</Link>.
+          <Link href="/zakat-calculator" className="text-desert-primary underline">Zakat Calculator</Link> at ang{' '}
+          <Link href="/eosb-calculator" className="text-desert-primary underline">EOSB Calculator</Link>.
         </p>
         <p className="text-gray-400 text-sm">
           Bisitahin ang aming <Link href="/blog" className="text-desert-primary underline">blog</Link> para sa higit pang insights.
@@ -1366,7 +1372,8 @@ function BnContent() {
         <p className="text-gray-300 mb-4">
           <Link href="/sip-calculator" className="text-desert-primary font-bold underline">SIP ক্যালকুলেটর</Link>,{' '}
           <Link href="/sama-loan-calculator" className="text-desert-primary underline">SAMA লোন ক্যালকুলেটর</Link> এবং{' '}
-          <Link href="/zakat-calculator" className="text-desert-primary underline">জাকাত ক্যালকুলেটর</Link> ব্যবহার করুন।
+          <Link href="/zakat-calculator" className="text-desert-primary underline">জাকাত ক্যালকুলেটর</Link> এবং{' '}
+          <Link href="/eosb-calculator" className="text-desert-primary underline">EOSB ক্যালকুলেটর</Link> ব্যবহার করুন।
         </p>
         <p className="text-gray-400 text-sm">
           আমাদের <Link href="/blog" className="text-desert-primary underline">ব্লগ</Link> দেখুন।
