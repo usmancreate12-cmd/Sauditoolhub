@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? 'Kumpletong Gabay sa Family Visa at Dependent Fees sa Saudi Arabia 2026 | Sauditoolhub'
     : isBn
     ? 'সৌদি আরবে ফ্যামিলি ভিসা ও ডিপেন্ডেন্ট ফি-র সম্পূর্ণ গাইড 2026 | Sauditoolhub'
-    : 'The Complete Guide to Family Visa & Dependent Fees in Saudi Arabia 2026 | Sauditoolhub'
+    : 'Family Visa & Dependent Fee Calculator Saudi Arabia 2026 | Check Eligibility'
 
   const description = isAr
     ? 'دليل كامل لحساب تكاليف تأشيرة العائلة ورسوم التابعين في السعودية 2026. تعرف على رسوم الإقامة وتأشيرات الخروج والعودة.'
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? 'Kumpletong gabay sa pagkalkula ng family visa at dependent fees sa Saudi Arabia 2026. Alamin ang Iqama fees at Exit/Re-Entry visa costs.'
     : isBn
     ? 'সৌদি আরবে ফ্যামিলি ভিসা ও ডিপেন্ডেন্ট ফি গণনার সম্পূর্ণ গাইড 2026। ইকামা ফি ও এক্সিট/রি-এন্ট্রি ভিসা খরচ সম্পর্কে জানুন।'
-    : 'Complete guide to calculating family visa and dependent fees in Saudi Arabia 2026. Learn about Iqama fees, Exit/Re-Entry visas, and how to plan your annual family budget.'
+    : 'Calculate your Saudi Family Visa dependent fees (SAR 400/mo) and check eligibility instantly. Updated 2026 rules for expats.'
 
   return {
     title,
@@ -466,6 +466,19 @@ function EnContent() {
             </div>
           </div>
         </div>
+      </div>
+
+      <h2>Special Notes for Pakistani Sponsors</h2>
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <p className="text-gray-300">
+          Pakistani nationals form one of the largest expat communities in Saudi Arabia, and bringing your wife and children over is a common goal. The rules and fees in this guide apply to everyone regardless of nationality — the SAR 400 per month dependent levy, Iqama issuance fees, and medical insurance are the same whether your family comes from Pakistan, India, the Philippines, or anywhere else.
+        </p>
+        <p className="text-gray-300 mt-4">
+          A practical tip for Pakistani sponsors: several Pakistani banks operate in Saudi Arabia (Meezan, UBL, HBL, and Bank Alfalah), and their apps support SADAD bill payment, so you can pay the dependent fees and renew your family's Iqamas directly from your phone without visiting a branch. Many families also use these apps to remit money home for the household in Pakistan. Remember the dependent levy is collected annually in advance, so budget for it at Iqama renewal time.
+        </p>
+        <p className="text-gray-300 mt-4">
+          If a Pakistani dependent needs to return to Pakistan permanently, make sure their exit/re-entry visa and final Iqama status are handled before they leave, and use the Jawazat Overstay Fine Calculator to avoid penalties on the way out.
+        </p>
       </div>
 
       <h2>Frequently Asked Questions</h2>

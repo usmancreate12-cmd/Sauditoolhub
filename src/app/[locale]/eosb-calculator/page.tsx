@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
+import Link from 'next/link'
+import { BookOpen } from 'lucide-react'
 import { EOSBCalculator } from '@/components/EOSBCalculator'
 import { ToolSeoContent } from '@/components/ToolSeoContent'
 import {
@@ -98,6 +100,24 @@ export default async function EOSBCalculatorPage({ params }: Props) {
         ]}
       />
       <ToolSeoContent namespace="EOSBCalculator" locale={locale} />
+      <div className="mx-auto mt-12 max-w-4xl px-4 sm:px-6 lg:px-8">
+        <Link
+          href={locale === 'en' ? '/guide/eosb-end-of-service-benefit-saudi-arabia-2026' : `/${locale}/guide/eosb-end-of-service-benefit-saudi-arabia-2026`}
+          className="group flex items-center justify-between gap-4 rounded-xl border border-desert-primary/25 bg-desert-primary/10 p-6 transition-all duration-300 hover:border-desert-primary/50 hover:bg-desert-primary/15"
+        >
+          <div className="flex items-start gap-4">
+            <BookOpen className="h-8 w-8 shrink-0 text-desert-primary" />
+            <div>
+              <p className="font-bold text-white group-hover:text-desert-primary transition-colors">
+                Planning to leave? Read our Complete Guide to End of Service Benefit (EOSB) &amp; Final Settlement in Saudi Arabia 2026
+              </p>
+              <p className="mt-1 text-sm text-gray-400">
+                Everything you need to know about EOSB, gratuity, Article 84 &amp; 85, and getting your full final settlement.
+              </p>
+            </div>
+          </div>
+        </Link>
+      </div>
       <div className="mx-auto mt-2 max-w-4xl px-4">
         <p className="text-right text-xs text-gray-500">
           Last updated: July 2026 &middot; Based on Saudi Labor Law Articles 84 &amp; 85

@@ -408,6 +408,16 @@ function EnContent() {
         </Link>
       </div>
 
+      <h2>Important for US Expats in Saudi Arabia</h2>
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <p className="text-gray-300">
+          If you are a US expat running a business or freelancing in Saudi Arabia, VAT compliance works alongside your US tax duties. Saudi Arabia has no personal income tax and no tax on employment income, so most American expats pay zero Saudi income tax. However, the 15% VAT you collect is not your money — it is a government liability you must remit to ZATCA, and keeping accurate records matters for your US returns too. The IRS taxes US citizens on worldwide income, and even though Saudi VAT is not directly reportable to the IRS, clean ZATCA-compliant bookkeeping protects your eligibility for the Foreign Earned Income Exclusion (FEIE) and the Foreign Tax Credit if you ever need them.
+        </p>
+        <p className="text-gray-300 mt-4">
+          American business owners should also keep in mind their annual FATCA (FBAR) filing requirements for foreign financial accounts, and make sure their Saudi company documents — commercial registration, VAT certificate, and E-invoices — are in order. ZATCA does not care where you hold a passport, so the same invoicing, QR-code, and filing rules apply to everyone. Use our ZATCA VAT Calculator to keep your filings accurate and avoid penalties that can reach 50,000 SAR.
+        </p>
+      </div>
+
       <h2>Frequently Asked Questions</h2>
       {faqsEn.map((faq, i) => (
         <div key={i} className="not-prose glass p-4 rounded-xl mb-4">

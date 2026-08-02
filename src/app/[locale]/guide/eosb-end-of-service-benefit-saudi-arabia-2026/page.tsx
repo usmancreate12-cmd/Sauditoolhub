@@ -212,6 +212,19 @@ function EnContent() {
         </ul>
       </div>
 
+      <h2>Special Notes for Pakistani Workers</h2>
+      <div className="not-prose glass p-6 rounded-xl mb-8">
+        <p className="text-gray-300">
+          For the large Pakistani community in Saudi Arabia, EOSB is often the single biggest lump sum you will receive while working in the Kingdom. Many Pakistani workers confuse EOSB with a provident fund (PF) — remember, EOSB is a statutory gratuity under Saudi Labor Law, not a monthly contribution, and it is calculated from your basic salary, not your total package.
+        </p>
+        <p className="text-gray-300 mt-4">
+          When your EOSB is paid out, your employer releases it together with your final salary settlement. Saudi Arabia does not deduct income tax or zakat from your EOSB, so the full amount reaches you. To remit it to Pakistan, use your Saudi bank's international transfer service to Meezan Bank, HBL, UBL, or Bank Alfalah, or a licensed exchange house — SADAD is mainly for government payments, so bank transfers and exchange houses are the practical channels for sending your final settlement home. Remittances sent to Pakistan from abroad are not subject to Pakistani income tax, but if the money earns profit after deposit, that interest is taxable in Pakistan.
+        </p>
+        <p className="text-gray-300 mt-4">
+          Plan ahead: keep your Iqama and passport valid during the final settlement period, and get a signed acknowledgment from HR listing your EOSB amount before your Iqama is cancelled — disputes after leaving are very hard to resolve from Pakistan. Use our EOSB Calculator to verify the figure before you accept it.
+        </p>
+      </div>
+
       <h2>Frequently Asked Questions About EOSB</h2>
       {faqsEn.map((faq, i) => (
         <div key={i} className="not-prose glass p-4 rounded-xl mb-4">

@@ -547,6 +547,18 @@ export const articles: Article[] = [
           <li><strong>Mistake 4:</strong> Missing the 2-year rule under Article 85 for resignation EOSB.</li>
         </ul>
       </div>
+      <h2>Special Notes for Pakistani Workers</h2>
+      <div class="not-prose glass p-6 rounded-xl mb-8">
+        <p class="text-gray-300">
+          For the large Pakistani community in Saudi Arabia, EOSB is often the single biggest lump sum you will receive while working in the Kingdom. Many Pakistani workers confuse EOSB with a provident fund (PF) — remember, EOSB is a statutory gratuity under Saudi Labor Law, not a monthly contribution, and it is calculated from your basic salary, not your total package.
+        </p>
+        <p class="text-gray-300 mt-4">
+          When your EOSB is paid out, your employer releases it together with your final salary settlement. Saudi Arabia does not deduct income tax or zakat from your EOSB, so the full amount reaches you. To remit it to Pakistan, use your Saudi bank's international transfer service to Meezan Bank, HBL, UBL, or Bank Alfalah, or a licensed exchange house — SADAD is mainly for government payments, so bank transfers and exchange houses are the practical channels for sending your final settlement home. Remittances sent to Pakistan from abroad are not subject to Pakistani income tax, but if the money earns profit after deposit, that interest is taxable in Pakistan.
+        </p>
+        <p class="text-gray-300 mt-4">
+          Plan ahead: keep your Iqama and passport valid during the final settlement period, and get a signed acknowledgment from HR listing your EOSB amount before your Iqama is cancelled — disputes after leaving are very hard to resolve from Pakistan. Use our EOSB Calculator to verify the figure before you accept it.
+        </p>
+      </div>
       <h2>Frequently Asked Questions About EOSB</h2>
       <h2>Conclusion</h2>
       <p>EOSB is one of the most significant financial benefits available to employees in Saudi Arabia. Understanding Article 84 and Article 85 can help you avoid costly mistakes and ensure you receive the full amount you deserve. Always verify your final settlement with HR before signing any exit documents.</p>
@@ -570,8 +582,8 @@ export const articles: Article[] = [
     category: 'expat',
     readTime: '10 min read',
     date: '2026-02-05',
-    title: { en: 'Family Visa & Dependent Fee Guide 2026', ar: '', ur: '', tl: '', bn: '' },
-    description: { en: 'Plan your family sponsorship costs in Saudi Arabia. We break down Iqama fees, dependent fees, exit/re-entry visas, and work permit costs for families.', ar: '', ur: '', tl: '', bn: '' },
+    title: { en: 'Family Visa & Dependent Fee Calculator Saudi Arabia 2026 | Check Eligibility', ar: '', ur: '', tl: '', bn: '' },
+    description: { en: 'Calculate your Saudi Family Visa dependent fees (SAR 400/mo) and check eligibility instantly. Updated 2026 rules for expats.', ar: '', ur: '', tl: '', bn: '' },
     content: { en: `<article class="prose prose-invert max-w-none prose-headings:text-desert-primary prose-a:text-desert-primary prose-strong:text-white prose-li:text-gray-300">
       <h1>The Complete Guide to Family Visa & Dependent Fees in Saudi Arabia 2026</h1>
       <div class="not-prose glass p-6 rounded-xl mb-8">
@@ -839,6 +851,18 @@ export const articles: Article[] = [
             </div>
           </div>
         </div>
+      </div>
+      <h2>Special Notes for Pakistani Sponsors</h2>
+      <div class="not-prose glass p-6 rounded-xl mb-8">
+        <p class="text-gray-300">
+          Pakistani nationals form one of the largest expat communities in Saudi Arabia, and bringing your wife and children over is a common goal. The rules and fees in this guide apply to everyone regardless of nationality — the SAR 400 per month dependent levy, Iqama issuance fees, and medical insurance are the same whether your family comes from Pakistan, India, the Philippines, or anywhere else.
+        </p>
+        <p class="text-gray-300 mt-4">
+          A practical tip for Pakistani sponsors: several Pakistani banks operate in Saudi Arabia (Meezan, UBL, HBL, and Bank Alfalah), and their apps support SADAD bill payment, so you can pay the dependent fees and renew your family's Iqamas directly from your phone without visiting a branch. Many families also use these apps to remit money home for the household in Pakistan. Remember the dependent levy is collected annually in advance, so budget for it at Iqama renewal time.
+        </p>
+        <p class="text-gray-300 mt-4">
+          If a Pakistani dependent needs to return to Pakistan permanently, make sure their exit/re-entry visa and final Iqama status are handled before they leave, and use the Jawazat Overstay Fine Calculator to avoid penalties on the way out.
+        </p>
       </div>
       <h2>Frequently Asked Questions</h2>
       <h2>Conclusion</h2>
@@ -2258,6 +2282,18 @@ export const articles: Article[] = [
         </p>
         <p>
           Also explore our <a href="/rett-tax-calculator">RETT Calculator</a> to understand the 5% property tax, the <a href="/mortgage-vs-rent">Mortgage vs. Rent Calculator</a> for home buying decisions, and <a href="/blog">our blog</a> for more guides on Saudi real estate.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Important for US Expats Buying Property in Saudi Arabia</h2>
+        <p>
+          If you are a US expat considering property in Saudi Arabia, a few American-specific rules come into play. Foreign nationals may purchase real estate in Saudi Arabia only in designated investment areas — such as parts of Riyadh, Jeddah, and Dammam — and property in Mecca and Medina is reserved for Saudi nationals, so check whether your target property is eligible for foreign ownership before you negotiate. When you buy, the property is registered with the Ministry of Justice and a White Deed (Sak Abyad) is issued in your name.
+        </p>
+        <p>
+          For US tax purposes, Saudi Arabia does not impose property taxes or capital gains tax on the sale of a primary residence, which makes real estate attractive for Americans. However, the IRS may still require you to report a foreign real estate purchase on Form 8938 (FATCA) if your foreign financial assets exceed the filing thresholds, and any rental income you earn from a Saudi property must be reported on your US return. Mortgage interest on a Saudi home may also be deductible on your US taxes if you itemize. Keep your White Deed, purchase contract, and payment records organized — they are your proof of cost basis if you ever sell.
+        </p>
+        <p>
+          Use our Property Valuation Estimator to price your target property realistically, and confirm with a licensed Saudi broker that foreign ownership is permitted in your chosen area before committing.
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
@@ -3701,6 +3737,15 @@ export const articles: Article[] = [
           Calculate VAT Now
         </a>
       </div>
+      <h2>Important for US Expats in Saudi Arabia</h2>
+      <div class="not-prose glass p-6 rounded-xl mb-8">
+        <p class="text-gray-300">
+          If you are a US expat running a business or freelancing in Saudi Arabia, VAT compliance works alongside your US tax duties. Saudi Arabia has no personal income tax and no tax on employment income, so most American expats pay zero Saudi income tax. However, the 15% VAT you collect is not your money — it is a government liability you must remit to ZATCA, and keeping accurate records matters for your US returns too. The IRS taxes US citizens on worldwide income, and even though Saudi VAT is not directly reportable to the IRS, clean ZATCA-compliant bookkeeping protects your eligibility for the Foreign Earned Income Exclusion (FEIE) and the Foreign Tax Credit if you ever need them.
+        </p>
+        <p class="text-gray-300 mt-4">
+          American business owners should also keep in mind their annual FATCA (FBAR) filing requirements for foreign financial accounts, and make sure their Saudi company documents — commercial registration, VAT certificate, and E-invoices — are in order. ZATCA does not care where you hold a passport, so the same invoicing, QR-code, and filing rules apply to everyone. Use our ZATCA VAT Calculator to keep your filings accurate and avoid penalties that can reach 50,000 SAR.
+        </p>
+      </div>
       <h2>Frequently Asked Questions</h2>
       <h2>Conclusion</h2>
       <p>
@@ -4166,7 +4211,7 @@ export const articles: Article[] = [
           A SIP invests a fixed amount into a mutual fund at regular intervals — typically monthly. Over time you buy more units when prices are low and fewer when they are high, a mechanism called <strong>rupee-cost averaging</strong>. This smooths out market volatility and builds an automatic saving habit.
         </p>
         <p>
-          Most Saudi banks and asset managers (Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital) offer mutual funds with SIP options, including Sharia-compliant funds. Minimum monthly investments commonly start around SAR 500–1,000.
+          Most Saudi banks and asset managers (Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital) offer mutual funds with SIP options, including Sharia-compliant funds. Minimum monthly investments commonly start around SAR 500–1,000. For the full deep-dive on how SIPs and mutual funds work, read our <a href="/guide/sip-calculator-saudi-arabia-2026">Complete Guide to SIP &amp; Mutual Fund Investment Returns in Saudi Arabia 2026</a>.
         </p>
         <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
           <p class="text-sm font-medium text-desert-primary">🧮 Model it</p>

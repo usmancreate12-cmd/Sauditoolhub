@@ -342,6 +342,19 @@ function EnContent() {
       </GlassCard>
 
       <GlassCard>
+        <h2>Important for US Expats Buying Property in Saudi Arabia</h2>
+        <p>
+          If you are a US expat considering property in Saudi Arabia, a few American-specific rules come into play. Foreign nationals may purchase real estate in Saudi Arabia only in designated investment areas — such as parts of Riyadh, Jeddah, and Dammam — and property in Mecca and Medina is reserved for Saudi nationals, so check whether your target property is eligible for foreign ownership before you negotiate. When you buy, the property is registered with the Ministry of Justice and a White Deed (Sak Abyad) is issued in your name.
+        </p>
+        <p>
+          For US tax purposes, Saudi Arabia does not impose property taxes or capital gains tax on the sale of a primary residence, which makes real estate attractive for Americans. However, the IRS may still require you to report a foreign real estate purchase on Form 8938 (FATCA) if your foreign financial assets exceed the filing thresholds, and any rental income you earn from a Saudi property must be reported on your US return. Mortgage interest on a Saudi home may also be deductible on your US taxes if you itemize. Keep your White Deed, purchase contract, and payment records organized — they are your proof of cost basis if you ever sell.
+        </p>
+        <p>
+          Use our <Link href="/property-valuation" className="text-desert-primary underline">Property Valuation Estimator</Link> to price your target property realistically, and confirm with a licensed Saudi broker that foreign ownership is permitted in your chosen area before committing.
+        </p>
+      </GlassCard>
+
+      <GlassCard>
         <h2>Conclusion</h2>
         <p>
           Property valuation is the foundation of smart real estate decisions in Saudi Arabia. Whether you are buying a family home in Riyadh, selling a villa in Jeddah, or evaluating a White Deed plot in Dammam, knowing the true market value protects you from overpaying and helps you negotiate with confidence.
