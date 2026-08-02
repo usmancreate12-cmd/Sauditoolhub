@@ -42,9 +42,13 @@ export default async function SecBillPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/sec-bill-calculator` : `${baseUrl}/${locale}/sec-bill-calculator`
+  const t = await getTranslations({ locale, namespace: 'SecBillCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <SecBillCalculator locale={locale} />
       <SoftwareAppJsonLd name="SEC Bill Estimator" description="Estimate your monthly Saudi Electricity Company bill based on tiered consumption rates with 15% VAT included. Supports residential, commercial, agricultural, industrial, and government account types." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Auto & Daily Life', url: `${baseUrl}/${isDefault ? '' : locale + '/'}auto-tools` }, { name: 'SEC Bill Estimator', url: pageUrl }]} />

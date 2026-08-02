@@ -42,9 +42,13 @@ export default async function TrafficFinePage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/traffic-fine-calculator` : `${baseUrl}/${locale}/traffic-fine-calculator`
+  const t = await getTranslations({ locale, namespace: 'TrafficFineCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <TrafficFineCalculator locale={locale} />
       <SoftwareAppJsonLd name="Traffic Fine (Saher) Calculator" description="Calculate Saudi traffic fines including black points and vehicle impoundment rules. Supports all Saher violation types and license suspension thresholds." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Auto & Daily Life', url: `${baseUrl}/${isDefault ? '' : locale + '/'}auto-tools` }, { name: 'Traffic Fine Calculator', url: pageUrl }]} />

@@ -49,9 +49,13 @@ export default async function FinalSettlementPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/final-settlement-calculator` : `${baseUrl}/${locale}/final-settlement-calculator`
+  const t = await getTranslations({ locale, namespace: 'FinalSettlementCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <FinalSettlementCalculator locale={locale} />
       <SoftwareAppJsonLd
         name="Final Settlement & Air Ticket Calculator"

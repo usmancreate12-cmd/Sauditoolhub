@@ -42,9 +42,13 @@ export default async function ZakatPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/zakat-calculator` : `${baseUrl}/${locale}/zakat-calculator`
+  const t = await getTranslations({ locale, namespace: 'ZakatCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <ZakatCalculator locale={locale} />
       <SoftwareAppJsonLd name="Personal Zakat & Gold Savings Calculator" description="Calculate your Zakat obligation on cash savings, gold, silver, and investments based on the Nisab threshold." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Finance & Banking', url: `${baseUrl}/${isDefault ? '' : locale + '/'}finance-tools` }, { name: 'Zakat Calculator', url: pageUrl }]} />

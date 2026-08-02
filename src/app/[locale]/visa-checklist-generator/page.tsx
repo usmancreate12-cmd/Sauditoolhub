@@ -49,9 +49,13 @@ export default async function VisaChecklistPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/visa-checklist-generator` : `${baseUrl}/${locale}/visa-checklist-generator`
+  const t = await getTranslations({ locale, namespace: 'VisaChecklist' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <VisaChecklistGenerator locale={locale} />
       <SoftwareAppJsonLd
         name="Interactive Visa Document Checklist Generator"

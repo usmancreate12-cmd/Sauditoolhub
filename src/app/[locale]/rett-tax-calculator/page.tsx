@@ -42,9 +42,13 @@ export default async function RettTaxPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/rett-tax-calculator` : `${baseUrl}/${locale}/rett-tax-calculator`
+  const t = await getTranslations({ locale, namespace: 'RettTaxCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <RettTaxCalculator locale={locale} />
       <SoftwareAppJsonLd name="Real Estate RETT Tax & Agent Commission Splitter" description="Calculate the 5% Real Estate Transaction Tax (RETT) and agent commission when buying or selling property in Saudi Arabia. See buyer total cost and seller net amount." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Real Estate', url: `${baseUrl}/${isDefault ? '' : locale + '/'}real-estate-tools` }, { name: 'RETT Tax Calculator', url: pageUrl }]} />

@@ -42,9 +42,13 @@ export default async function FuelCostPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/fuel-cost-calculator` : `${baseUrl}/${locale}/fuel-cost-calculator`
+  const t = await getTranslations({ locale, namespace: 'FuelCostCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <FuelCostCalculator locale={locale} />
       <SoftwareAppJsonLd name="Fuel Cost & Mileage Calculator" description="Calculate fuel costs for daily commutes or road trips in Saudi Arabia based on your car's fuel efficiency and current gasoline prices. Supports Gasoline 91, 95, and Diesel." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Auto & Daily Life', url: `${baseUrl}/${isDefault ? '' : locale + '/'}auto-tools` }, { name: 'Fuel Cost Calculator', url: pageUrl }]} />

@@ -49,9 +49,13 @@ export default async function FreelanceIncomePage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/freelance-income-calculator` : `${baseUrl}/${locale}/freelance-income-calculator`
+  const t = await getTranslations({ locale, namespace: 'FreelanceIncomeCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <FreelanceIncomeCalculator locale={locale} />
       <SoftwareAppJsonLd
         name="Freelance (Watheq) Net Income Calculator"

@@ -156,6 +156,36 @@ const nextConfig: NextConfig = {
         destination: '/:locale/terms-of-service',
         permanent: true,
       },
+      {
+        source: '/freelance-calculator',
+        destination: '/freelance-income-calculator',
+        permanent: true,
+      },
+      {
+        source: '/:locale(en|ar|ur|tl|bn)/freelance-calculator',
+        destination: '/:locale/freelance-income-calculator',
+        permanent: true,
+      },
+      {
+        source: '/visa-checklist',
+        destination: '/visa-checklist-generator',
+        permanent: true,
+      },
+      {
+        source: '/:locale(en|ar|ur|tl|bn)/visa-checklist',
+        destination: '/:locale/visa-checklist-generator',
+        permanent: true,
+      },
+      {
+        source: '/settlement-calculator',
+        destination: '/final-settlement-calculator',
+        permanent: true,
+      },
+      {
+        source: '/:locale(en|ar|ur|tl|bn)/settlement-calculator',
+        destination: '/:locale/final-settlement-calculator',
+        permanent: true,
+      },
     ]
   },
 }

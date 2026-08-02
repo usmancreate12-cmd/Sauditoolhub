@@ -42,9 +42,13 @@ export default async function UsedCarPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/used-car-calculator` : `${baseUrl}/${locale}/used-car-calculator`
+  const t = await getTranslations({ locale, namespace: 'UsedCarCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <UsedCarCalculator locale={locale} />
       <SoftwareAppJsonLd name="Used Car Naql Malikiya & Hidden Cost Calculator" description="Calculate the total cost of buying a used car in Saudi Arabia including transfer fees, insurance, Istimara renewal, and repairs." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Auto & Daily Life', url: `${baseUrl}/${isDefault ? '' : locale + '/'}auto-tools` }, { name: 'Used Car Cost Calculator', url: pageUrl }]} />

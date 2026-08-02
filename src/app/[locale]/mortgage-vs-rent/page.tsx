@@ -42,9 +42,13 @@ export default async function MortgageVsRentPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/mortgage-vs-rent` : `${baseUrl}/${locale}/mortgage-vs-rent`
+  const t = await getTranslations({ locale, namespace: 'MortgageVsRentCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <MortgageVsRentCalculator locale={locale} />
       <SoftwareAppJsonLd name="Mortgage vs Rent Calculator" description="Compare the total cost of buying a property with a mortgage versus renting in Saudi Arabia. See monthly payments, total costs, and a year-by-year comparison to find the best financial decision." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Real Estate', url: `${baseUrl}/${isDefault ? '' : locale + '/'}real-estate-tools` }, { name: 'Mortgage vs Rent', url: pageUrl }]} />

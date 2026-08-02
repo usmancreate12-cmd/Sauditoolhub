@@ -42,9 +42,13 @@ export default async function BillSplitterPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/bill-splitter-calculator` : `${baseUrl}/${locale}/bill-splitter-calculator`
+  const t = await getTranslations({ locale, namespace: 'BillSplitterCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <BillSplitterCalculator locale={locale} />
       <SoftwareAppJsonLd name="Bill Splitter Calculator" description="Split rent and utility bills fairly among roommates in Saudi Arabia. Supports proportional sharing based on room size or income with detailed per-person breakdown." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Auto & Daily Life', url: `${baseUrl}/${isDefault ? '' : locale + '/'}auto-tools` }, { name: 'Bill Splitter Calculator', url: pageUrl }]} />

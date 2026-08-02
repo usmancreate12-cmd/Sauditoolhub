@@ -42,9 +42,13 @@ export default async function EjarDepositPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/ejar-deposit-calculator` : `${baseUrl}/${locale}/ejar-deposit-calculator`
+  const t = await getTranslations({ locale, namespace: 'EjarDepositCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <EjarDepositCalculator locale={locale} />
       <SoftwareAppJsonLd name="Ejar Deposit Refund Estimator" description="Estimate your rental security deposit refund amount when moving out of a rental property in Saudi Arabia. Calculate deductions for damages, wear and tear, and cleaning fees." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Real Estate', url: `${baseUrl}/${isDefault ? '' : locale + '/'}real-estate-tools` }, { name: 'Ejar Deposit Calculator', url: pageUrl }]} />

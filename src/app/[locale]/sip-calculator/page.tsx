@@ -30,8 +30,12 @@ export default async function SipPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/sip-calculator` : `${baseUrl}/${locale}/sip-calculator`
+  const t = await getTranslations({ locale, namespace: 'SipCalculator' })
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <SipCalculator locale={locale} />
       <SoftwareAppJsonLd name="Mutual Fund / SIP Return Calculator" description="Calculate returns on Systematic Investment Plans (SIP) offered by Saudi banks like Al Rajhi, SNB, and Riyad Bank." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Finance & Banking', url: `${baseUrl}/${isDefault ? '' : locale + '/'}finance-tools` }, { name: 'SIP Calculator', url: pageUrl }]} />

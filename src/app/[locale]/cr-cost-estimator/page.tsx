@@ -49,9 +49,13 @@ export default async function CrCostEstimatorPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/cr-cost-estimator` : `${baseUrl}/${locale}/cr-cost-estimator`
+  const t = await getTranslations({ locale, namespace: 'CrCostEstimator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <CrCostEstimator locale={locale} />
       <SoftwareAppJsonLd
         name="Commercial Registration (CR) Cost Estimator"

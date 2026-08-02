@@ -42,9 +42,13 @@ export default async function PropertyValuationPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/property-valuation` : `${baseUrl}/${locale}/property-valuation`
+  const t = await getTranslations({ locale, namespace: 'PropertyValuationCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <PropertyValuationCalculator locale={locale} />
       <SoftwareAppJsonLd name="Sak Property Valuation Tool" description="Estimate the market value of residential or commercial property in Saudi Arabia. Get a price per square meter breakdown for apartments, villas, land, and commercial properties across major Saudi cities." url={pageUrl} />
       <BreadcrumbJsonLd items={[{ name: 'Home', url: baseUrl }, { name: 'Real Estate', url: `${baseUrl}/${isDefault ? '' : locale + '/'}real-estate-tools` }, { name: 'Property Valuation', url: pageUrl }]} />

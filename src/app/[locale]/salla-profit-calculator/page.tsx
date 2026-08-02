@@ -49,9 +49,13 @@ export default async function SallaProfitPage({ params }: Props) {
   const { locale } = await params
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/salla-profit-calculator` : `${baseUrl}/${locale}/salla-profit-calculator`
+  const t = await getTranslations({ locale, namespace: 'SallaProfitCalculator' })
 
   return (
     <>
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+        <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
+      </div>
       <SallaProfitCalculator locale={locale} />
       <SoftwareAppJsonLd
         name="Salla/Zid True Profit Calculator"
