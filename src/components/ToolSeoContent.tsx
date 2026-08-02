@@ -17,7 +17,7 @@ export function ToolSeoContent({ namespace, locale }: ToolSeoContentProps) {
   const dir = isRtl ? 'rtl' : 'ltr'
 
   return (
-    <div className="mx-auto mt-12 max-w-4xl space-y-12 px-4" dir={dir}>
+    <div className="mx-auto mt-12 max-w-4xl space-y-12 px-4 sm:px-6 lg:px-8" dir={dir}>
       <GlassCard className="p-6 md:p-8">
         <h2 className="mb-6 text-2xl font-bold text-white">{t('seo.howToUse.title')}</h2>
         <div className="space-y-6">

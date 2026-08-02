@@ -82,7 +82,7 @@ export default async function GuidePage({ params }: Props) {
         ]}
       />
 
-      <div className="relative z-10 px-4 py-12" dir={isRtl ? 'rtl' : 'ltr'}>
+      <div className="relative z-10 px-4 py-12 sm:px-6 lg:px-8" dir={isRtl ? 'rtl' : 'ltr'}>
         <div className="mx-auto max-w-4xl">
           <Link
             href={locale === 'en' ? '/blog' : `/${locale}/blog`}

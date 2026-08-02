@@ -33,7 +33,7 @@ export default async function SipPage({ params }: Props) {
   const t = await getTranslations({ locale, namespace: 'SipCalculator' })
   return (
     <>
-      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8">
+      <div className="relative z-10 mx-auto w-full max-w-4xl px-4 pt-8 sm:px-6 lg:px-8">
         <h1 className="text-3xl md:text-4xl font-bold text-white mb-6">{t('toolName')}</h1>
       </div>
       <SipCalculator locale={locale} />

@@ -1334,11 +1334,11 @@ function BnContent() {
 
 export default async function SecGuidePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
-  switch (locale) {
-    case 'ar': return <ArContent />;
-    case 'ur': return <UrContent />;
-    case 'tl': return <TlContent />;
-    case 'bn': return <BnContent />;
-    default: return <EnContent />;
-  }
+  return (
+    <div className="relative z-10 px-4 py-20 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-6xl">
+        {locale === 'ar' ? <ArContent /> : locale === 'ur' ? <UrContent /> : locale === 'tl' ? <TlContent /> : locale === 'bn' ? <BnContent /> : <EnContent />}
+      </div>
+    </div>
+  )
 }

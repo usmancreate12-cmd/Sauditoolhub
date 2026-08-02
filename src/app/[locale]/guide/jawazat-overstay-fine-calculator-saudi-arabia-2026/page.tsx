@@ -969,7 +969,7 @@ export default async function GuidePage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(isAr ? schemaAr : isUr ? schemaUr : isTl ? schemaTl : isBn ? schemaBn : articleSchemaEn) }} />
       <FAQJsonLd items={isAr ? faqsAr : isUr ? faqsUr : isTl ? faqsTl : isBn ? faqsBn : faqsEn} />
 
-      <div className="mx-auto max-w-4xl px-4 py-8">
+      <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
         <Link href={`/${isDefault ? '' : locale}`} className="inline-flex items-center gap-2 text-sm text-desert-primary hover:text-desert-primary-dim mb-6 transition-colors">
           <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
           {isAr ? 'العودة إلى الرئيسية' : isUr ? 'ہوم پیج پر واپس جائیں' : isTl ? 'Bumalik sa Bahay' : isBn ? 'হোম পেজে ফিরে যান' : 'Back to Home'}

@@ -129,7 +129,7 @@ export function NitaqatSimulator({ locale }: { locale?: string }) {
   const bandKey = (band: string) => `bandLabels.${band}` as const
 
   return (
-    <div className="relative z-10 mx-auto w-full max-w-4xl px-4 py-8">
+    <div className="relative z-10 mx-auto w-full max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
       <motion.div className="grid gap-6 lg:grid-cols-2 lg:gap-8" variants={stagger.container} initial="initial" animate="animate">
         {/* Left Column: Form */}
         <motion.div variants={stagger.item}>

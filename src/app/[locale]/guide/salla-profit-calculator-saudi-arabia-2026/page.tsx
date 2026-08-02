@@ -771,7 +771,7 @@ export default async function SallaZidProfitGuidePage({ params }: Props) {
       <FAQJsonLd items={faqItems} />
 
       <div className="relative z-10">
-        <section className="px-4 py-20">
+        <section className="px-4 py-20 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl">
             {isAr ? <ArContent /> : isUr ? <UrContent /> : isTl ? <TlContent /> : isBn ? <BnContent /> : <EnContent />}
           </div>
