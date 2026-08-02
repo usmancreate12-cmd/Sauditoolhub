@@ -3731,8 +3731,8 @@ export const articles: Article[] = [
     category: 'expat',
     readTime: '8 min read',
     date: '2026-08-02',
-    title: { en: 'Saudi Overstay Fines: Exit, Re-entry & Cost Guide 2026', ar: '', ur: '', tl: '', bn: '' },
-    description: { en: 'How Saudi overstay fines are calculated, the daily fine amount, exit and re-entry rules, family visa overstay, and what to do before your iqama expires. Use the Jawazat Fine Calculator to budget your penalty.', ar: '', ur: '', tl: '', bn: '' },
+    title: { en: 'Saudi Overstay Fines: Exit, Re-entry & Cost Guide 2026', ar: 'غرامات تأخر الإقامة في السعودية: دليل الخروج والعودة والتكاليف 2026', ur: 'سعودی اوور اسٹے جرمانے: خروج، دوبارہ داخلہ اور لاگت گائیڈ 2026', tl: 'Mga Multa sa Overstay sa Saudi: Gabay sa Pag-alis, Muling Pagpasok at Gastos 2026', bn: 'সৌদি ওভারস্টে জরিমানা: প্রস্থান, পুনঃপ্রবেশ ও খরচের গাইড ২০২৬' },
+    description: { en: 'How Saudi overstay fines are calculated, the daily fine amount, exit and re-entry rules, family visa overstay, and what to do before your iqama expires. Use the Jawazat Fine Calculator to budget your penalty.', ar: 'كيف تُحسب غرامات التأخر في السعودية، مبلغ الغرامة اليومية، قواعد الخروج وإعادة الدخول، تأخير إقامة أفراد الأسرة، وما يجب فعله قبل انتهاء إقامتك. استخدم حاسبة غرامات الجوازات لتقدير غرامتك.', ur: 'سعودی میں اوور اسٹے جرمانے کیسے حساب ہوتے ہیں، یومیہ جرمانے کی رقم، خروج اور دوبارہ داخلے کے قواعد، فیملی ویزا اوور اسٹے، اور آپ کی اقامت ختم ہونے سے پہلے کیا کرنا چاہیے۔ اپنے جرمانے کا تخمینہ لگانے کے لیے جوازات فائن کیلکولیٹر استعمال کریں۔', tl: 'Kung paano kinakalkula ang mga multa sa overstay sa Saudi, ang pang-araw-araw na halaga ng multa, mga patakaran sa pag-alis at muling pagpasok, overstay ng family visa, at ang dapat gawin bago mag-expire ang iyong iqama. Gamitin ang Jawazat Fine Calculator upang malaman ang iyong multa.', bn: 'সৌদিতে ওভারস্টে জরিমানা কীভাবে গণনা করা হয়, দৈনিক জরিমানার পরিমাণ, প্রস্থান ও পুনঃপ্রবেশের নিয়ম, ফ্যামিলি ভিসা ওভারস্টে এবং আপনার ইকামা মেয়াদ শেষ হওয়ার আগে কী করবেন। আপনার জরিমানা অনুমান করতে জওয়াজাত ফাইন ক্যালকুলেটর ব্যবহার করুন।' },
     content: { en: `
       <div class="text-center mb-8">
         <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Guide</p>
@@ -3815,15 +3815,343 @@ export const articles: Article[] = [
           Use Free Jawazat Fine Calculator
         </a>
       </div>
-    `, ar: '', ur: '', tl: '', bn: '' }
+    `, ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل الوافدين</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">غرامات تأخر الإقامة في السعودية: دليل الخروج والعودة والتكاليف 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          تأخير الإقامة أو تأشيرة الخروج/العودة أو تأشيرة الزيارة في السعودية من أغلى الأخطاء التي قد يقع فيها الوافد. يشرح هذا الدليل بالضبط كيف تُحسب الغرامات، وكيف تغادر دون غرامات، وماذا تفعل إذا كنت قد تأخرت بالفعل.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كيف تُحسب غرامات التأخر في السعودية</h2>
+        <p>
+          تحسب السعودية غرامات التأخر على أساس يومي. إذا انتهت صلاحية إقامتك أو تأشيرة الخروج/العودة قبل مغادرة البلاد، تبدأ الغرامة في التراكم من اليوم التالي لانتهاء الصلاحية حتى إنهاء إجراءات الخروج. يُطبق المبلغ اليومي على كل يوم تأخير، لذا حتى التأخير لأسبوعين يمكن أن يُنتج مبلغًا كبيرًا.
+        </p>
+        <p>
+          وبعيدًا عن الغرامة اليومية، قد يُسبب التأخر مضاعفات إضافية: يجب تسوية الغرامة قبل إصدار تأشيرة الخروج، وقد يؤدي التأخر الطويل إلى منع إعادة الدخول أو قيود على العمل. تتغير الأرقام الدقيقة دوريًا، لذا تأكد دائمًا من الأسعار الحالية لدى الجهات المختصة قبل التخطيط.
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 احسب غرامتك</p>
+          <p class="text-sm mt-1">استخدم <a href="/jawazat-fine-calculator">حاسبة غرامات التأخر من الجوازات</a> لمعرفة تراكمك اليومي الدقيق، والإجمالي الشهري، والمبلغ المستحق لأي فترة تأخير — قبل أن تدفع أي شيء.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ماذا يحدث عندما تنتهي إقامتك</h2>
+        <p>عند انتهاء رخصة الإقامة، لديك فترة سماح قصيرة للتجديد أو ترتيب الخروج. بعد فترة السماح، يصبح كل يوم يوم تأخير مستحق الغرامة. المستندات الأساسية التي يجب أن تكون سليمة:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. تجديد الإقامة</p>
+            <p class="text-gray-400 text-sm">جدد قبل انتهاء الصلاحية. يتولى صاحب العمل أو الكفيل ذلك عبر منصة أبشر أو مقيم. التأخير في التجديد يترتب عليه غرامات فورية.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. تأشيرة الخروج / العودة</p>
+            <p class="text-gray-400 text-sm">إذا سافرت لقضاء إجازة، يجب أن تظل تأشيرة العودة سارية طوال الرحلة. العودة بتأشيرة عودة منتهية تعني غرامات تأخر من اليوم الأول.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. الخروج النهائي</p>
+            <p class="text-gray-400 text-sm">عند إنهاء العمل، يجب إصدار تأشيرة الخروج النهائي خلال فترة السماح. سدد جميع الغرامات قبل طلبها.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>التأخر ومكافأة نهاية الخدمة</h2>
+        <p>
+          غالبًا ما تُخصم غرامات التأخر من مكافأة نهاية الخدمة عند معالجة الكفيل لخروجك النهائي. هذا يعني أن الغرامة التي يمكن تجنبها تلتهم مباشرةً الأموال التي كسبتها خلال عقدك. قبل الخروج النهائي، احسب مكافأتك والخصومات المحتملة لتعرف ما المتوقع بدقة.
+        </p>
+        <p>
+          استخدم <a href="/eosb-calculator">حاسبة مكافأة نهاية الخدمة</a> لمعرفة مكافأتك و<a href="/final-settlement-calculator">حاسبة التسوية النهائية</a> لتقدير المبلغ الكامل المستحق عند الاستقالة، بما في ذلك أي خصومات مستحقة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تأخير إقامة أفراد الأسرة</h2>
+        <p>
+          يواجه المعالون على تأشيرات الزيارة العائلية نفس هيكل الغرامة اليومية. إذا انتهت تأشيرة زيارة أحد أفراد عائلتك أثناء وجوده في المملكة، يجب التجديد أو ترتيب خروجه قبل انتهاء فترة السماح. تختلف القواعد والرسوم عن تأخير الإقامة، لذا استخدم أداة مخصصة لنمذجة التكلفة الدقيقة.
+        </p>
+        <p>
+          خطط لميزانية تأشيرة العائلة مع <a href="/family-visa-optimizer">محسّن تأشيرة العائلة</a> — يقدر إجمالي تكاليف التأشيرة والتمديد طوال فترة الصلاحية حتى لا يفاجئك انتهاء الصلاحية.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ماذا تفعل إذا كنت قد تأخرت بالفعل</h2>
+        <p>إذا كنت تتراكم عليك غرامات بالفعل، تصرف بسرعة — المبلغ ينمو كل يوم:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. احسب غرامتك الحالية</p>
+            <p class="text-gray-400 text-sm">استخدم <a href="/jawazat-fine-calculator">حاسبة غرامات التأخر من الجوازات</a> مع عدد أيام تأخرك الفعلي لمعرفة إجمالي اليوم.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. تأكد من مستندات الخروج</p>
+            <p class="text-gray-400 text-sm">تأكد من جاهزية جميع المستندات المطلوبة حتى لا يؤخر شيء إصدار تأشيرة الخروج. استخدم <a href="/visa-checklist-generator">مولّد قائمة تأشيرات الخروج</a> لبناء قائمة مستندات كاملة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. سدد الغرامات واخرج</p>
+            <p class="text-gray-400 text-sm">ادفع الغرامات عبر القناة الرسمية، واحصل على تأشيرة الخروج، وغادر قبل اليوم التالي للتراكم.</p>
+          </div>
+        </div>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">احسب غرامة التأخر الآن</h3>
+        <p class="text-gray-400 text-sm mb-4">مجاني — التراكم اليومي، والإجمالي الشهري، والمبلغ المستحق</p>
+        <a href="/jawazat-fine-calculator">
+          استخدم حاسبة غرامات الجوازات المجانية
+        </a>
+      </div>
+    `, ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">وافد گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی اوور اسٹے جرمانے: خروج، دوبارہ داخلہ اور لاگت گائیڈ 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          سعودی عرب میں اقامت، خروج/داخلہ ویزا، یا وزٹ ویزا کی مدت ختم ہونے کے بعد رہنا ایک وافد کے لیے سب سے مہنگی غلطیوں میں سے ایک ہے۔ یہ گائیڈ بالکل بتاتا ہے کہ جرمانے کیسے حساب ہوتے ہیں، بغیر جرمانے کے کیسے نکلنا ہے، اور اگر آپ پہلے ہی اوور اسٹے کر چکے ہیں تو کیا کرنا ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی اوور اسٹے جرمانے کیسے حساب ہوتے ہیں</h2>
+        <p>
+          سعودی عرب اوور اسٹے جرمانے یومیہ بنیاد پر حساب کرتا ہے۔ اگر آپ کی اقامت یا خروج/داخلہ ویزا ملک چھوڑنے سے پہلے ختم ہو جائے تو جرمانہ ختم ہونے کے اگلے دن سے شروع ہو کر خروج مکمل ہونے تک بڑھتا رہتا ہے۔ یومیہ شرح ہر دن اوور اسٹے پر لاگو ہوتی ہے، اس لیے صرف دو ہفتے کی تاخیر بھی بڑا بل بنا سکتی ہے۔
+        </p>
+        <p>
+          یومیہ جرمانے کے علاوہ، اوور اسٹے مزید پیچیدگیاں پیدا کر سکتا ہے: خروج ویزا جاری ہونے سے پہلے جرمانہ ادا کرنا ضروری ہے، اور طویل اوور اسٹے دوبارہ داخلے پر پابندی یا روزگار پر پابندیوں کا باعث بن سکتا ہے۔ درست اعداد و وقتاً فوقتاً بدلتے رہتے ہیں، اس لیے منصوبہ بنانے سے پہلے حکام سے موجودہ شرح ضرور تصدیق کریں۔
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 اپنا جرمانہ معلوم کریں</p>
+          <p class="text-sm mt-1">اپنا یومیہ تراکم، ماہانہ کل، اور کسی بھی اوور اسٹے مدت کا کل واجب الادا رقم جاننے کے لیے <a href="/jawazat-fine-calculator">جوازات اوور اسٹے فائن کیلکولیٹر</a> استعمال کریں — کچھ ادا کرنے سے پہلے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اقامت ختم ہونے پر کیا ہوتا ہے</h2>
+        <p>جب آپ کی رہائشی اجازت (اقامت) ختم ہوتی ہے تو آپ کے پاس تجدید یا خروج کا بندوبست کرنے کے لیے مختصر گریس پیریڈ ہوتا ہے۔ گریس پیریڈ کے بعد ہر دن جرمانے والا اوور اسٹے بن جاتا ہے۔ ترتیب میں رکھنے کے لیے اہم دستاویزات:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. اقامت کی تجدید</p>
+            <p class="text-gray-400 text-sm">ختم ہونے سے پہلے تجدید کریں۔ آپ کا آجر یا کفیل اسے ابشر یا مقیم پورٹل کے ذریعے کرتا ہے۔ تاخیر سے تجدید پر فوری جرمانے عائد ہوتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. خروج / دوبارہ داخلہ ویزا</p>
+            <p class="text-gray-400 text-sm">اگر آپ چھٹی کے لیے جاتے ہیں تو آپ کا دوبارہ داخلہ ویزا پوری سفر کے دوران درست رہنا چاہیے۔ ختم شدہ دوبارہ داخلہ ویزا کے ساتھ واپسی کا مطلب پہلے دن سے اوور اسٹے جرمانے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. حتمی خروج</p>
+            <p class="text-gray-400 text-sm">نوکری ختم کرتے وقت، حتمی خروج ویزا گریس پیریڈ کے اندر جاری ہونا چاہیے۔ درخواست سے پہلے تمام جرمانے ادا کریں۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اوور اسٹے اور آپ کے اختتام خدمات فوائد</h2>
+        <p>
+          جب آپ کا کفیل آپ کا حتمی خروج عمل میں لاتا ہے تو اوور اسٹے جرمانے اکثر آپ کے اختتام خدمات بینیفٹ (EOSB) سے کاٹے جاتے ہیں۔ اس کا مطلب ہے کہ قابلِ گریز جرمانہ براہِ راست وہ رقم کھاتا ہے جو آپ نے اپنے معاہدے کے دوران کمائی۔ حتمی خروج سے پہلے، اپنی ادائیگی اور ممکنہ کٹوتیوں دونوں کا حساب کریں تاکہ آپ کو بالکل معلوم ہو کہ کیا توقع ہے۔
+        </p>
+        <p>
+          اپنی گریجویٹی معلوم کرنے کے لیے <a href="/eosb-calculator">EOSB کیلکولیٹر</a> اور استعفیٰ دیتے وقت باقی کٹوتیوں سمیت مکمل رقم کا تخمینہ لگانے کے لیے <a href="/final-settlement-calculator">فائنل سیٹلمنٹ کیلکولیٹر</a> استعمال کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>فیملی ویزا اوور اسٹے</h2>
+        <p>
+          فیملی وزٹ ویزا پر منحصر افراد کو بھی اسی یومیہ جرمانے کی ساخت کا سامنا کرنا پڑتا ہے۔ اگر آپ کے خاندان کے کسی رکن کا وزٹ ویزا ان کے مملکت میں موجودگی کے دوران ختم ہو جائے تو آپ کو گریس پیریڈ ختم ہونے سے پہلے تجدید یا ان کے خروج کا بندوبست کرنا ہوگا۔ قواعد اور فی الحال اقامت اوور اسٹے سے مختلف ہیں، اس لیے درست لاگت کا ماڈل بنانے کے لیے ایک مخصوص ٹول استعمال کریں۔
+        </p>
+        <p>
+          <a href="/family-visa-optimizer">فیملی ویزا آپٹیمائزر</a> کے ساتھ اپنے فیملی ویزا بجٹ کی منصوبہ بندی کریں — یہ پوری مدت کے دوران ویزا اور توسیع کے کل اخراجات کا تخمینہ دیتا ہے تاکہ میعاد ختم ہونا کبھی حیرت کا باعث نہ ہو۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اگر آپ پہلے ہی اوور اسٹے کر چکے ہیں تو کیا کریں</h2>
+        <p>اگر آپ پر پہلے ہی جرمانے بڑھ رہے ہیں تو تیزی سے عمل کریں — ہر دن کے ساتھ رقم بڑھتی ہے:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. اپنے موجودہ جرمانے کا حساب لگائیں</p>
+            <p class="text-gray-400 text-sm">آج کا کل جاننے کے لیے اپنے اصل اوور اسٹے دنوں کے ساتھ <a href="/jawazat-fine-calculator">جوازات اوور اسٹے فائن کیلکولیٹر</a> استعمال کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. اپنے خروج کے کاغذات کی تصدیق کریں</p>
+            <p class="text-gray-400 text-sm">یقینی بنائیں کہ تمام مطلوبہ دستاویزات تیار ہیں تاکہ خروج ویزا میں کچھ تاخیر نہ کرے۔ مکمل خروج دستاویزات کی فہرست بنانے کے لیے <a href="/visa-checklist-generator">ویزا چیک لسٹ جنریٹر</a> استعمال کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. جرمانے ادا کریں اور خروج کریں</p>
+            <p class="text-gray-400 text-sm">سرکاری چینل کے ذریعے جرمانے ادا کریں، خروج ویزا حاصل کریں، اور اگلے تراکم دن سے پہلے روانہ ہوں۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">ابھی اپنا اوور اسٹے جرمانہ حساب کریں</h3>
+        <p class="text-gray-400 text-sm mb-4">مفت — یومیہ تراکم، ماہانہ کل، اور کل واجب الادا</p>
+        <a href="/jawazat-fine-calculator">
+          مفت جوازات فائن کیلکولیٹر استعمال کریں
+        </a>
+      </div>
+    `, tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay sa Ekspat</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Mga Multa sa Overstay sa Saudi: Gabay sa Pag-alis, Muling Pagpasok at Gastos 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          Ang pag-overstay sa iyong iqama, exit/re-entry visa, o visit visa sa Saudi Arabia ay isa sa mga pinakamahal na pagkakamali ng isang ekspat. Ipinapaliwanag ng gabay na ito nang eksakto kung paano kinakalkula ang mga multa, kung paano umalis nang walang multa, at kung ano ang gagawin kung overstay ka na.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Paano Kinakalkula ang mga Multa sa Overstay sa Saudi</h2>
+        <p>
+          Kinakalkula ng Saudi Arabia ang mga multa sa overstay batay sa bawat araw. Kung mag-expire ang iyong iqama o exit/re-entry visa bago ka umalis ng bansa, magsisimulang tumaas ang parusa mula sa araw pagkatapos ng expiration hanggang sa matapos mo ang iyong exit. Inilalapat ang pang-araw-araw na rate sa bawat araw ng overstay, kaya kahit dalawang linggong pagkaantala ay maaaring magdulot ng malaking halaga.
+        </p>
+        <p>
+          Bukod sa pang-araw-araw na multa, maaaring magdulot ng karagdagang komplikasyon ang overstay: kailangang bayaran ang multa bago mailabas ang iyong exit visa, at ang mas mahabang overstay ay maaaring magresulta sa re-entry ban o mga paghihigpit sa trabaho. Nagbabago ang eksaktong halaga paminsan-minsan, kaya palaging kumpirmahin ang kasalukuyang rates sa mga awtoridad bago gumawa ng plano.
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 Alamin ang iyong multa</p>
+          <p class="text-sm mt-1">Gamitin ang <a href="/jawazat-fine-calculator">Jawazat Overstay Fine Calculator</a> upang makita ang eksaktong araw-araw na accrual, buwanang kabuuan, at kabuuang utang para sa anumang panahon ng overstay — bago ka magbayad ng anuman.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang Mangyayari Kapag Nag-Expire ang Iyong Iqama</h2>
+        <p>Kapag nag-expire ang iyong residence permit (iqama), mayroon kang maikling grace period para mag-renew o mag-ayos ng exit. Pagkatapos ng grace period, nagiging multang araw ng overstay ang bawat araw. Ang mga pangunahing dokumento na dapat panatilihing ayos:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. Renewal ng iqama</p>
+            <p class="text-gray-400 text-sm">Mag-renew bago mag-expire. Inaasikaso ito ng iyong employer o sponsor sa pamamagitan ng Absher o Muqeem portal. Ang late renewal ay agad na may multa.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. Exit / re-entry visa</p>
+            <p class="text-gray-400 text-sm">Kung aalis ka para sa bakasyon, dapat manatiling valid ang iyong re-entry visa sa buong biyahe. Ang pagbalik na may expired na re-entry visa ay nangangahulugan ng multa sa overstay mula unang araw.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. Final exit</p>
+            <p class="text-gray-400 text-sm">Kapag nagtatapos ka na sa trabaho, dapat maibigay ang final exit visa sa loob ng grace period. Bayaran ang lahat ng multa bago ito hilingin.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Overstay at ang Iyong End-of-Service Benefits</h2>
+        <p>
+          Ang mga multa sa overstay ay kadalasang binabawas mula sa iyong end-of-service benefit (EOSB) kapag pinroseso ng iyong sponsor ang iyong final exit. Nangangahulugan ito na ang isang maiiwasang multa ay direktang kumakain sa perang kinita mo sa panahon ng iyong kontrata. Bago ang iyong final exit, kalkulahin ang iyong payout at ang iyong mga potensyal na bawas upang malaman mo nang eksakto kung ano ang aasahan.
+        </p>
+        <p>
+          Gamitin ang <a href="/eosb-calculator">EOSB Calculator</a> para malaman ang iyong gratuity at ang <a href="/final-settlement-calculator">Final Settlement Calculator</a> upang tantiyahin ang buong halagang babayaran kapag nag-resign ka, kasama ang anumang natitirang bawas.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Overstay ng Family Visa</h2>
+        <p>
+          Ang mga dependent sa family visit visa ay nahaharap sa parehong istraktura ng pang-araw-araw na multa. Kung mag-expire ang visit visa ng miyembro ng iyong pamilya habang sila ay nasa Kingdom, kailangan mong mag-renew o mag-ayos ng kanilang exit bago matapos ang grace period. Ang mga patakaran at bayad ay naiiba sa residence overstay, kaya gumamit ng nakalaang tool upang tantiyahin ang eksaktong gastos.
+        </p>
+        <p>
+          Planuhin ang iyong family visa budget gamit ang <a href="/family-visa-optimizer">Family Visa Optimizer</a> — tinatantiya nito ang kabuuang visa at extension na gastos sa buong validity period upang hindi ka mabigla sa expiration.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang Gagawin Kung Overstay Ka Na</h2>
+        <p>Kung tumataas na ang iyong mga multa, kumilos agad — lumalaki ang kabuuan araw-araw:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. Kalkulahin ang iyong kasalukuyang parusa</p>
+            <p class="text-gray-400 text-sm">Gamitin ang <a href="/jawazat-fine-calculator">Jawazat Overstay Fine Calculator</a> gamit ang iyong aktwal na araw ng overstay upang makuha ang kabuuan ngayong araw.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. Kumpirmahin ang iyong exit paperwork</p>
+            <p class="text-gray-400 text-sm">Tiyaking handa ang lahat ng kinakailangang dokumento upang walang makapagpabagal sa iyong exit visa. Gamitin ang <a href="/visa-checklist-generator">Visa Checklist Generator</a> upang bumuo ng kumpletong listahan ng dokumento sa exit.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. Bayaran ang mga multa at umalis</p>
+            <p class="text-gray-400 text-sm">Bayaran ang mga multa sa opisyal na channel, kunin ang iyong exit visa, at umalis bago ang susunod na araw ng accrual.</p>
+          </div>
+        </div>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">Kalkulahin ang Iyong Overstay Fine Ngayon</h3>
+        <p class="text-gray-400 text-sm mb-4">Libre — araw-araw na accrual, buwanang kabuuan, at kabuuang utang</p>
+        <a href="/jawazat-fine-calculator">
+          Gamitin ang Libreng Jawazat Fine Calculator
+        </a>
+      </div>
+    `, bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">প্রবাসী গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি ওভারস্টে জরিমানা: প্রস্থান, পুনঃপ্রবেশ ও খরচের গাইড ২০২৬</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          সৌদি আরবে আপনার ইকামা, এক্সিট/রি-এন্ট্রি ভিসা বা ভিজিট ভিসার মেয়াদ অতিক্রম করা একজন প্রবাসীর জন্য সবচেয়ে ব্যয়বহুল ভুলগুলোর একটি। এই গাইডটি সঠিকভাবে ব্যাখ্যা করে কীভাবে জরিমানা গণনা করা হয়, কীভাবে জরিমানা ছাড়া দেশ ছাড়বেন এবং ইতিমধ্যে ওভারস্টে করলে কী করবেন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদিতে ওভারস্টে জরিমানা কীভাবে গণনা করা হয়</h2>
+        <p>
+          সৌদি আরব দৈনিক ভিত্তিতে ওভারস্টে জরিমানা গণনা করে। যদি দেশ ছাড়ার আগে আপনার ইকামা বা এক্সিট/রি-এন্ট্রি ভিসার মেয়াদ শেষ হয়ে যায়, তাহলে মেয়াদ শেষ হওয়ার পরের দিন থেকে আপনার প্রস্থান সম্পন্ন না হওয়া পর্যন্ত জরিমানা জমতে শুরু করে। দৈনিক হার ওভারস্টে'র প্রতিটি দিনের উপর প্রয়োগ করা হয়, তাই মাত্র দুই সপ্তাহের বিলম্বও একটি বড় বিল তৈরি করতে পারে।
+        </p>
+        <p>
+          দৈনিক জরিমানার বাইরেও, ওভারস্টে অতিরিক্ত জটিলতা সৃষ্টি করতে পারে: আপনার এক্সিট ভিসা ইস্যু হওয়ার আগে জরিমানা পরিশোধ করতে হবে, এবং দীর্ঘ ওভারস্টে পুনঃপ্রবেশ নিষেধাজ্ঞা বা কর্মসংস্থান সংক্রান্ত সীমাবদ্ধতার কারণ হতে পারে। সঠিক সংখ্যা সময়ে সময়ে পরিবর্তিত হয়, তাই পরিকল্পনা করার আগে সর্বদা কর্তৃপক্ষের কাছে বর্তমান হার নিশ্চিত করুন।
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 আপনার জরিমানা হিসাব করুন</p>
+          <p class="text-sm mt-1">আপনার সঠিক দৈনিক জমা, মাসিক মোট এবং যেকোনো ওভারস্টে সময়ের মোট পরিশোধযোগ্য পরিমাণ দেখতে <a href="/jawazat-fine-calculator">জওয়াজাত ওভারস্টে ফাইন ক্যালকুলেটর</a> ব্যবহার করুন — কিছু পরিশোধ করার আগে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আপনার ইকামা মেয়াদ শেষ হলে কী ঘটে</h2>
+        <p>যখন আপনার আবাসিক পারমিট (ইকামা) মেয়াদ শেষ হয়, নবায়ন বা প্রস্থানের ব্যবস্থা করতে আপনার কাছে একটি সংক্ষিপ্ত গ্রেস পিরিয়ড থাকে। গ্রেস পিরিয়ডের পরে, প্রতিটি দিন জরিমানাযোগ্য ওভারস্টে দিন হয়ে যায়। সঠিকভাবে রাখতে হবে এমন মূল নথিগুলি:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">১. ইকামা নবায়ন</p>
+            <p class="text-gray-400 text-sm">মেয়াদ শেষ হওয়ার আগে নবায়ন করুন। আপনার নিয়োগকর্তা বা স্পনসর এটি আবশের বা মুকিম পোর্টালের মাধ্যমে করেন। দেরিতে নবায়নে সাথে সাথে জরিমানা হয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">২. এক্সিট / রি-এন্ট্রি ভিসা</p>
+            <p class="text-gray-400 text-sm">যদি আপনি ছুটিতে যান, আপনার রি-এন্ট্রি ভিসা পুরো ভ্রমণের জন্য বৈধ থাকতে হবে। মেয়াদোত্তীর্ণ রি-এন্ট্রি ভিসা নিয়ে ফিরে আসা মানে প্রথম দিন থেকেই ওভারস্টে জরিমানা।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">৩. চূড়ান্ত প্রস্থান</p>
+            <p class="text-gray-400 text-sm">চাকরি শেষ করার সময়, গ্রেস পিরিয়ডের মধ্যে চূড়ান্ত এক্সিট ভিসা ইস্যু করতে হবে। অনুরোধ করার আগে সব জরিমানা পরিশোধ করুন।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ওভারস্টে এবং আপনার এন্ড-অফ-সার্ভিস সুবিধা</h2>
+        <p>
+          যখন আপনার স্পনসর আপনার চূড়ান্ত প্রস্থান প্রক্রিয়া করে তখন ওভারস্টে জরিমানা প্রায়শই আপনার এন্ড-অফ-সার্ভিস সুবিধা (EOSB) থেকে কাটা হয়। এর অর্থ হলো একটি এড়ানোযোগ্য জরিমানা সরাসরি আপনার চুক্তির সময় অর্জিত অর্থ খেয়ে ফেলে। চূড়ান্ত প্রস্থানের আগে, আপনার পাওনা এবং সম্ভাব্য কর্তন উভয়ই গণনা করুন যাতে ঠিক কী প্রত্যাশা করবেন তা জানেন।
+        </p>
+        <p>
+          আপনার গ্র্যাচুইটি বের করতে <a href="/eosb-calculator">EOSB ক্যালকুলেটর</a> এবং পদত্যাগের সময় বকেয়া যেকোনো কর্তনসহ মোট পরিমাণ অনুমান করতে <a href="/final-settlement-calculator">ফাইনাল সেটেলমেন্ট ক্যালকুলেটর</a> ব্যবহার করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ফ্যামিলি ভিসা ওভারস্টে</h2>
+        <p>
+          ফ্যামিলি ভিজিট ভিসায় থাকা নির্ভরশীলরা একই দৈনিক জরিমানা কাঠামোর মুখোমুখি হন। রাজ্যে থাকাকালীন আপনার পরিবারের কারও ভিজিট ভিসার মেয়াদ শেষ হলে, গ্রেস পিরিয়ড শেষ হওয়ার আগে আপনাকে নবায়ন করতে হবে বা তাদের প্রস্থানের ব্যবস্থা করতে হবে। নিয়ম ও ফি আবাসিক ওভারস্টে থেকে ভিন্ন, তাই সঠিক খরচ হিসাব করতে একটি নিবেদিত টুল ব্যবহার করুন।
+        </p>
+        <p>
+          <a href="/family-visa-optimizer">ফ্যামিলি ভিসা অপটিমাইজার</a> দিয়ে আপনার ফ্যামিলি ভিসা বাজেট পরিকল্পনা করুন — এটি পুরো বৈধতা সময়কালের মোট ভিসা ও এক্সটেনশন খরচ অনুমান করে যাতে মেয়াদ শেষ হওয়া আপনাকে কখনো অবাক না করে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ইতিমধ্যে ওভারস্টে করলে কী করবেন</h2>
+        <p>যদি ইতিমধ্যে জরিমানা জমছে, দ্রুত কাজ করুন — মোট প্রতিদিন বাড়ে:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">১. আপনার বর্তমান জরিমানা গণনা করুন</p>
+            <p class="text-gray-400 text-sm">আজকের মোট জানতে আপনার প্রকৃত ওভারস্টে দিন ব্যবহার করে <a href="/jawazat-fine-calculator">জওয়াজাত ওভারস্টে ফাইন ক্যালকুলেটর</a> ব্যবহার করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">২. আপনার প্রস্থানের কাগজপত্র নিশ্চিত করুন</p>
+            <p class="text-gray-400 text-sm">নিশ্চিত করুন সব প্রয়োজনীয় নথি প্রস্তুত যাতে এক্সিট ভিসা বিলম্বিত না হয়। সম্পূর্ণ প্রস্থান নথির তালিকা তৈরি করতে <a href="/visa-checklist-generator">ভিসা চেকলিস্ট জেনারেটর</a> ব্যবহার করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">৩. জরিমানা পরিশোধ করুন এবং প্রস্থান করুন</p>
+            <p class="text-gray-400 text-sm">অফিসিয়াল চ্যানেলের মাধ্যমে জরিমানা পরিশোধ করুন, এক্সিট ভিসা নিন এবং পরবর্তী জমার দিনের আগে চলে যান।</p>
+          </div>
+        </div>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার ওভারস্টে জরিমানা গণনা করুন</h3>
+        <p class="text-gray-400 text-sm mb-4">ফ্রি — দৈনিক জমা, মাসিক মোট এবং মোট পরিশোধযোগ্য</p>
+        <a href="/jawazat-fine-calculator">
+          ফ্রি জওয়াজাত ফাইন ক্যালকুলেটর ব্যবহার করুন
+        </a>
+      </div>
+    ` }
   },
   {
     slug: 'sip-vs-lump-sum-investing-saudi-arabia-2026',
     category: 'finance',
     readTime: '7 min read',
     date: '2026-08-02',
-    title: { en: 'SIP vs Lump Sum Investing in Saudi Arabia: Which Wins in 2026?', ar: '', ur: '', tl: '', bn: '' },
-    description: { en: 'Systematic Investment Plans (SIP) vs lump sum investing for expats in Saudi Arabia. Compare rupee-cost averaging, EOSB lump sums, realistic returns, and where to invest. Includes a worked example.', ar: '', ur: '', tl: '', bn: '' },
+    title: { en: 'SIP vs Lump Sum Investing in Saudi Arabia: Which Wins in 2026?', ar: 'الاستثمار بنظام SIP مقابل دفعة واحدة في السعودية: أيهما الأفضل في 2026؟', ur: 'سعودی عرب میں SIP بمقابلہ لَمپ سم انویسٹنگ: 2026 میں کون جیتتا ہے؟', tl: 'SIP vs Lump Sum Investing sa Saudi Arabia: Alin ang Panalo sa 2026?', bn: 'সৌদি আরবে SIP বনাম এককালীন বিনিয়োগ: ২০২৬ সালে কোনটি জিতবে?' },
+    description: { en: 'Systematic Investment Plans (SIP) vs lump sum investing for expats in Saudi Arabia. Compare rupee-cost averaging, EOSB lump sums, realistic returns, and where to invest. Includes a worked example.', ar: 'خطط الاستثمار المنتظم (SIP) مقابل الاستثمار بمبلغ إجمالي للوافدين في السعودية. قارن متوسط تكلفة الروبية، ومكافآت نهاية الخدمة كمبالغ إجمالية، والعوائد الواقعية، وأين تستثمر. يتضمن مثالًا عمليًا.', ur: 'سعودی عرب میں وافدین کے لیے سسٹیمیٹک انویسٹمنٹ پلانز (SIP) بمقابلہ لَمپ سم انویسٹنگ۔ روپیہ کاسٹ ایوریجنگ، EOSB لَمپ سم، حقیقت پسندانہ منافع، اور کہاں سرمایہ کاری کریں۔ ایک عملی مثال شامل ہے۔', tl: 'Systematic Investment Plans (SIP) vs lump sum investing para sa mga ekspat sa Saudi Arabia. Ikumpara ang rupee-cost averaging, EOSB lump sums, makatotohanang returns, at kung saan mamumuhunan. May kasamang worked example.', bn: 'সৌদি আরবে প্রবাসীদের জন্য সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান (SIP) বনাম এককালীন বিনিয়োগ। রুপি-কস্ট অ্যাভারেজিং, EOSB এককালীন অর্থ, বাস্তবসম্মত রিটার্ন এবং কোথায় বিনিয়োগ করবেন তা তুলনা করুন। একটি কার্যকরী উদাহরণ অন্তর্ভুক্ত।' },
     content: { en: `
       <div class="text-center mb-8">
         <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Finance Guide</p>
@@ -3911,6 +4239,354 @@ export const articles: Article[] = [
           Use Free SIP Calculator
         </a>
       </div>
-    `, ar: '', ur: '', tl: '', bn: '' }
+    `, ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل التمويل</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">الاستثمار بنظام SIP مقابل دفعة واحدة في السعودية: أيهما الأفضل في 2026؟</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          هل يجب أن تستثمر مدخراتك في السوق شهريًا على دفعات صغيرة، أم تستثمر مبلغًا كبيرًا دفعة واحدة؟ كلتا الاستراتيجيتين تعملان — لكن في ظروف مختلفة جدًا. إليك طريقة الاختيار، بأرقام سعودية حقيقية.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ما هو SIP (خطة الاستثمار المنتظم)؟</h2>
+        <p>
+          يستثمر SIP مبلغًا ثابتًا في صندوق استثماري على فترات منتظمة — عادةً شهريًا. بمرور الوقت تشتري وحدات أكثر عندما تكون الأسعار منخفضة ووحدات أقل عندما تكون مرتفعة، وهي آلية تسمى <strong>متوسط تكلفة الوحدة</strong>. هذا يقلل من تقلبات السوق ويبني عادة ادخار تلقائية.
+        </p>
+        <p>
+          تقدم معظم البنوك السعودية ومديري الأصول (الراجحي المالية، سناب كابيتال، رياض كابيتال، ساب، السعودي الفرنسي كابيتال) صناديق استثمارية مع خيارات SIP، بما في ذلك الصناديق المتوافقة مع الشريعة. الحد الأدنى للاستثمار الشهري يبدأ عادةً من 500 إلى 1,000 ريال.
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 جرّب الحساب</p>
+          <p class="text-sm mt-1">استخدم <a href="/sip-calculator">حاسبة عوائد SIP</a> لمعرفة كيف ينمو الاستثمار الشهري على مدى 5 أو 10 أو 20 عامًا مع الفائدة المركبة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ما هو الاستثمار بمبلغ إجمالي (Lump Sum)؟</h2>
+        <p>
+          استثمار المبلغ الإجمالي يضع كل رأس مالك في صفقة واحدة. يعمل بشكل أفضل عندما يكون لديك مبلغ كبير متاح فورًا وكانت السوق بأسعار معقولة — يبدأ رأس مالك الكامل في النمو من اليوم الأول.
+        </p>
+        <p>
+          المثال السعودي الكلاسيكي هو <strong>مكافأة نهاية الخدمة (EOSB)</strong>. عند ترك العمل، تحصل على مكافأة لمرة واحدة. غالبًا ما يكون استثمار هذا المبلغ دفعة واحدة أفضل من تجزئته، لأن أموالك تعمل طوال الفترة من اليوم الأول.
+        </p>
+        <p>
+          قبل الاستثمار، احسب بالضبط مقدار مكافأتك باستخدام <a href="/eosb-calculator">حاسبة EOSB</a> — ثم قرر المبلغ الذي يذهب كدفعة واحدة مقابل SIP شهري.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SIP مقابل المبلغ الإجمالي: مقارنة مباشرة</h2>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">العامل</th>
+                <th class="text-left py-2">SIP</th>
+                <th class="text-left py-2">المبلغ الإجمالي</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">الأفضل لـ</td><td class="py-2">الموظفين ذوي الدخل الشهري لبناء عادة</td><td class="py-2">مكافآت نهاية الخدمة، المكافآت، الميراث</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">تقلب السوق</td><td class="py-2">مخفف عبر المتوسط</td><td class="py-2">تعرض كامل من اليوم الأول</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">الوقت في السوق</td><td class="py-2">أقل في البداية</td><td class="py-2">أقصى حد فورًا</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">الانضباط</td><td class="py-2">عادة شهرية مدمجة</td><td class="py-2">يتطلب ضبط النفس</td></tr>
+              <tr><td class="py-2">الميل التاريخي</td><td class="py-2">يفوز في الأسواق الثابتة/الجانبية</td><td class="py-2">يفوز في الأسواق الصاعدة</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مثال عملي</h2>
+        <p>مبلغ 120,000 ريال للاستثمار على مدى 10 سنوات بعائد سنوي 8%:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مبلغ إجمالي: 120,000 ريال الآن</p>
+            <p class="text-gray-400 text-sm">القيمة المستقبلية ≈ 259,000 ريال. رأس مالك الكامل يتراكم طوال 10 سنوات — أعلى نمو عندما ترتفع الأسواق باستمرار.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">SIP: 1,000 ريال شهريًا</p>
+            <p class="text-gray-400 text-sm">القيمة المستقبلية ≈ 184,000 ريال. أبطأ في النمو، لكنه يخفف الانخفاضات ويبقيك مستثمرًا بالكامل بدفعات شهرية منتظمة.</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          كلا السيناريوهين يمكن نمذجتهما باستخدام <a href="/sip-calculator">حاسبة عوائد SIP</a>، التي تتيح لك أيضًا مقارنة الاستراتيجيتين مباشرة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أين تستثمر في السعودية</h2>
+        <p>
+          قبل الاستثمار، تحقق من قدرتك الاقتراضية والتزاماتك الإجمالية حتى لا تحبس أموالًا قد تحتاجها. استخدم <a href="/sama-loan-calculator">حاسبة قروض ساما</a> للتحقق من بقاء نسبة أعباء الدين ضمن قواعد ساما، و<a href="/zakat-calculator">حاسبة الزكاة</a> للتخطيط لزكاة 2.5% على الاستثمارات المؤهلة كل عام.
+        </p>
+        <p>
+          تقسيم شائع: احتفظ بصندوق طوارئ نقدًا، واستثمر مكافأة نهاية الخدمة كمبلغ إجمالي للنمو طويل الأجل، وشغّل SIP شهريًا إضافيًا للمدخرات الجديدة. هذه المجموعة تجمع أفضل ما في الاستراتيجيتين.
+        </p>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">قارن خياراتك الآن</h3>
+        <p class="text-gray-400 text-sm mb-4">مجاني — عوائد SIP، والتخطيط لمكافأة نهاية الخدمة، والأهلية للقروض في مكان واحد</p>
+        <a href="/sip-calculator">
+          استخدم حاسبة SIP المجانية
+        </a>
+      </div>
+    `, ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">فنانس گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب میں SIP بمقابلہ لَمپ سم انویسٹنگ: 2026 میں کون جیتتا ہے؟</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          کیا آپ کو اپنی بچت ہر ماہ تھوڑی تھوڑی مارکیٹ میں ڈالنی چاہیے، یا ایک بڑی رقم ایک ساتھ؟ دونوں حکمت عملیاں کام کرتی ہیں — لیکن بہت مختلف حالات میں۔ یہاں انتخاب کا طریقہ ہے، سعودی حقیقی اعداد کے ساتھ۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SIP (سسٹیمیٹک انویسٹمنٹ پلان) کیا ہے؟</h2>
+        <p>
+          SIP میوچل فنڈ میں باقاعدہ وقفوں پر مقررہ رقم لگاتا ہے — عام طور پر ماہانہ۔ وقت کے ساتھ جب قیمتیں کم ہوتی ہیں تو آپ زیادہ یونٹ خریدتے ہیں اور جب زیادہ ہوتی ہیں تو کم، اس طریقہ کار کو <strong>روپیہ کاسٹ ایوریجنگ</strong> کہتے ہیں۔ یہ مارکیٹ کے اتار چڑھاؤ کو ہموار کرتا ہے اور خودکار بچت کی عادت بناتا ہے۔
+        </p>
+        <p>
+          زیادہ تر سعودی بینک اور اثاثہ مینیجرز (الراجحي کیپٹل، ایس این بی کیپٹل، رياض کیپٹل، ساب، سعودی فرانسی کیپٹل) SIP آپشنز کے ساتھ میوچل فنڈز پیش کرتے ہیں، بشمول شرعی تعمیل والے فنڈز۔ کم از کم ماہانہ سرمایہ کاری عام طور پر SAR 500–1,000 سے شروع ہوتی ہے۔
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 اسے ماڈل کریں</p>
+          <p class="text-sm mt-1">ماہانہ سرمایہ کاری مرکب سود کے ساتھ 5، 10 یا 20 سال میں کیسے بڑھتی ہے دیکھنے کے لیے <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> استعمال کریں۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>لَمپ سم انویسٹمنٹ کیا ہے؟</h2>
+        <p>
+          لَمپ سم آپ کا پورا سرمایہ ایک ہی لین دین میں لگاتا ہے۔ یہ بہترین کام کرتا ہے جب آپ کے پاس فوری طور پر بڑی رقم موجود ہو اور مارکیٹ مناسب قیمتوں پر ہو — آپ کا پورا سرمایہ پہلے دن سے بڑھنا شروع ہو جاتا ہے۔
+        </p>
+        <p>
+          کلاسیکی سعودی مثال <strong>اختتام خدمات بینیفٹ (EOSB)</strong> ہے۔ جب آپ نوکری چھوڑتے ہیں تو آپ کو ایک بار کی گریجویٹی ملتی ہے۔ اس پوری رقم کو ایک ساتھ لگانا اکثر تقسیم کرنے سے بہتر ہوتا ہے، کیونکہ آپ کے پیسے پہلے دن سے پوری مدت کے لیے کام کرتے ہیں۔
+        </p>
+        <p>
+          سرمایہ کاری سے پہلے، <a href="/eosb-calculator">EOSB کیلکولیٹر</a> کے ساتھ معلوم کریں کہ آپ کی ادائیگی بالکل کتنی ہوگی — پھر فیصلہ کریں کہ کتنی رقم لَمپ سم جائے گی اور کتنی ماہانہ SIP میں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SIP بمقابلہ لَمپ سم: شانہ بشانہ</h2>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">عامل</th>
+                <th class="text-left py-2">SIP</th>
+                <th class="text-left py-2">لَمپ سم</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">بہترین برائے</td><td class="py-2">تنخواہ دار بچت کرنے والے عادت بنانے کے لیے</td><td class="py-2">EOSB، بونس، وراثت</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">مارکیٹ اتار چڑھاؤ</td><td class="py-2">ایوریجنگ سے ہموار</td><td class="py-2">پہلے دن سے مکمل نمائش</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">مارکیٹ میں وقت</td><td class="py-2">ابتدائی طور پر کم</td><td class="py-2">فوری طور پر زیادہ سے زیادہ</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">نظم و ضبط</td><td class="py-2">خودکار ماہانہ عادت</td><td class="py-2">خود پر قابو درکار</td></tr>
+              <tr><td class="py-2">تاریخی رجحان</td><td class="py-2">فلیٹ/سائیڈ ویز مارکیٹوں میں جیتتا ہے</td><td class="py-2">بڑھتی ہوئی مارکیٹوں میں جیتتا ہے</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ایک عملی مثال</h2>
+        <p>10 سال کے لیے 8% سالانہ منافع پر 120,000 SAR سرمایہ کاری:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">لَمپ سم: ابھی 120,000 SAR</p>
+            <p class="text-gray-400 text-sm">مستقبل کی قیمت ≈ 259,000 SAR۔ آپ کا پورا سرمایہ 10 سال تک مرکب ہوتا ہے — سب سے زیادہ نمو جب مارکیٹیں مستقل بڑھیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">SIP: 1,000 SAR ماہانہ</p>
+            <p class="text-gray-400 text-sm">مستقبل کی قیمت ≈ 184,000 SAR۔ بڑھنے میں سست، لیکن کمیوں کو اوسط کرتا ہے اور آپ کو منظم ماہانہ قسطوں میں مکمل سرمایہ کاری رکھتا ہے۔</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          دونوں منظرنامے <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> کے ساتھ ماڈل کیے گئے ہیں، جو آپ کو دونوں حکمت عملیوں کا براہِ راست موازنہ بھی کرنے دیتا ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی عرب میں کہاں سرمایہ کاری کریں</h2>
+        <p>
+          سرمایہ کاری سے پہلے، اپنی قرض لینے کی صلاحیت اور کل ذمہ داریاں چیک کریں تاکہ آپ کبھی ایسی رقم بند نہ کریں جس کی آپ کو ضرورت پڑ سکتی ہے۔ یہ تصدیق کرنے کے لیے <a href="/sama-loan-calculator">ساما لون کیلکولیٹر</a> استعمال کریں کہ آپ کا ڈیبٹ برڈن ریشو ساما کے قواعد کے اندر رہتا ہے، اور ہر سال اہل سرمایہ کاری پر 2.5% زکوٰۃ کی منصوبہ بندی کے لیے <a href="/zakat-calculator">زکوٰۃ کیلکولیٹر</a> استعمال کریں۔
+        </p>
+        <p>
+          ایک عام تقسیم: ایمرجنسی فنڈ نقد میں رکھیں، طویل مدتی نمو کے لیے اپنا EOSB لَمپ سم کے طور پر لگائیں، اور نئی بچت کے لیے اوپر ماہانہ SIP چلائیں۔ یہ مجموعہ دونوں حکمت عملیوں کا بہترین حصہ لیتا ہے۔
+        </p>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">ابھی اپنے اختیارات کا موازنہ کریں</h3>
+        <p class="text-gray-400 text-sm mb-4">مفت — SIP منافع، EOSB منصوبہ بندی، اور قرض کی اہلیت ایک جگہ</p>
+        <a href="/sip-calculator">
+          مفت SIP کیلکولیٹر استعمال کریں
+        </a>
+      </div>
+    `, tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay sa Pananalapi</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">SIP vs Lump Sum Investing sa Saudi Arabia: Alin ang Panalo sa 2026?</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          Dapat mo bang unti-unting ilagay ang iyong ipon sa merkado bawat buwan, o mamuhunan ng isang malaking halaga nang sabay-sabay? Gumagana ang parehong estratehiya — ngunit sa ibang-ibang sitwasyon. Narito kung paano pumili, gamit ang totoong Saudi na numero.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang SIP (Systematic Investment Plan)?</h2>
+        <p>
+          Ang SIP ay nag-iinvest ng nakapirming halaga sa isang mutual fund sa regular na pagitan — karaniwang buwan-buwan. Sa paglipas ng panahon bumibili ka ng mas maraming units kapag mababa ang presyo at mas kaunti kapag mataas, isang mekanismong tinatawag na <strong>rupee-cost averaging</strong>. Pinapakinis nito ang pagbabagu-bago ng merkado at bumubuo ng awtomatikong ugali sa pag-iipon.
+        </p>
+        <p>
+          Karamihan sa mga Saudi bank at asset manager (Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital) ay nag-aalok ng mutual funds na may SIP options, kabilang ang mga Sharia-compliant fund. Karaniwang nagsisimula ang minimum monthly investment sa SAR 500–1,000.
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 I-modelo ito</p>
+          <p class="text-sm mt-1">Gamitin ang <a href="/sip-calculator">SIP Return Calculator</a> upang makita kung paano lumalaki ang isang buwanang pamumuhunan sa loob ng 5, 10, o 20 taon sa pamamagitan ng compounding.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang Lump Sum Investment?</h2>
+        <p>
+          Ang lump sum ay nag-iinvest ng iyong buong kapital sa isang transaksyon. Pinakamainam ito kapag mayroon kang malaking halaga ng pera na agad na magagamit at ang merkado ay nasa makatwirang presyo — ang iyong buong kapital ay nagsisimulang mag-compound mula unang araw.
+        </p>
+        <p>
+          Ang klasikong Saudi na halimbawa ay ang <strong>End of Service Benefit (EOSB)</strong>. Kapag umalis ka sa trabaho, makakatanggap ka ng one-time gratuity. Ang pag-invest ng buong halagang iyon nang sabay-sabay ay kadalasang mas mainam kaysa unti-unti, dahil gumagana ang iyong pera nang buong panahon mula unang araw.
+        </p>
+        <p>
+          Bago mag-invest, alamin nang eksakto kung magkano ang iyong payout gamit ang <a href="/eosb-calculator">EOSB Calculator</a> — pagkatapos ay magpasya kung magkano ang ilalagay bilang lump sum kumpara sa buwanang SIP.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SIP vs Lump Sum: Magkatabi</h2>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Factor</th>
+                <th class="text-left py-2">SIP</th>
+                <th class="text-left py-2">Lump Sum</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">Pinakamainam para sa</td><td class="py-2">Mga may suweldo na nagtatatag ng ugali</td><td class="py-2">EOSB, bonus, mana</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Pagbabago ng merkado</td><td class="py-2">Pinapakinis sa pamamagitan ng averaging</td><td class="py-2">Buong exposure mula unang araw</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Oras sa merkado</td><td class="py-2">Mas mababa sa simula</td><td class="py-2">Maximum agad</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Disiplina</td><td class="py-2">Nakapaloob na buwanang ugali</td><td class="py-2">Nangangailangan ng self-control</td></tr>
+              <tr><td class="py-2">Makasaysayang tendensya</td><td class="py-2">Panalo sa flat/sideways markets</td><td class="py-2">Panalo sa tumataas na markets</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Isang Worked Example</h2>
+        <p>SAR 120,000 na i-invest sa loob ng 10 taon sa 8% annual return:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Lump sum: SAR 120,000 ngayon</p>
+            <p class="text-gray-400 text-sm">Future value ≈ SAR 259,000. Ang iyong buong kapital ay nag-compound sa lahat ng 10 taon — pinakamataas na paglago kapag patuloy na tumataas ang merkado.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">SIP: SAR 1,000/buwan</p>
+            <p class="text-gray-400 text-sm">Future value ≈ SAR 184,000. Mas mabagal lumaki, ngunit ina-average ang mga pagbaba at pinananatili kang ganap na invested sa disiplinadong buwanang halaga.</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          Ang parehong scenario ay namodelo gamit ang <a href="/sip-calculator">SIP Return Calculator</a>, na nagbibigay-daan din sa iyong direktang ihambing ang dalawang estratehiya.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Saan Mamumuhunan sa Saudi Arabia</h2>
+        <p>
+          Bago mag-invest, suriin ang iyong kakayahan sa paghiram at kabuuang obligasyon upang hindi mo kailanman i-lock ang perang maaaring kailanganin mo. Gamitin ang <a href="/sama-loan-calculator">SAMA Loan Calculator</a> upang i-verify na nananatili sa loob ng mga patakaran ng SAMA ang iyong Debt Burden Ratio, at ang <a href="/zakat-calculator">Zakat Calculator</a> upang magplano para sa 2.5% zakat sa mga kwalipikadong pamumuhunan bawat taon.
+        </p>
+        <p>
+          Isang karaniwang split: panatilihin ang emergency fund sa cash, i-invest ang iyong EOSB bilang lump sum para sa pangmatagalang paglago, at magpatakbo ng buwanang SIP sa itaas para sa mga bagong ipon. Pinagsasama ng kumbinasyong ito ang pinakamahusay sa parehong estratehiya.
+        </p>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">Ihambing ang Iyong Mga Opsyon Ngayon</h3>
+        <p class="text-gray-400 text-sm mb-4">Libre — mga return ng SIP, pagpaplano ng EOSB, at pagiging kwalipikado sa loan sa isang lugar</p>
+        <a href="/sip-calculator">
+          Gamitin ang Libreng SIP Calculator
+        </a>
+      </div>
+    `, bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">অর্থ গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি আরবে SIP বনাম এককালীন বিনিয়োগ: ২০২৬ সালে কোনটি জিতবে?</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
+          আপনার সঞ্চয় কি প্রতিমাসে অল্প অল্প করে বাজারে ঢোকানো উচিত, নাকি একবারে একটি বড় অঙ্ক বিনিয়োগ করা? দুটি কৌশলই কাজ করে — তবে খুব ভিন্ন পরিস্থিতিতে। বাস্তব সৌদি সংখ্যাসহ এখানে কীভাবে বেছে নেবেন তা দেওয়া হলো।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SIP (সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান) কী?</h2>
+        <p>
+          SIP একটি মিউচুয়াল ফান্ডে নিয়মিত বিরতিতে নির্দিষ্ট অঙ্কের বিনিয়োগ করে — সাধারণত মাসিক। সময়ের সাথে সাথে দাম কম থাকলে আপনি বেশি ইউনিট কিনেন এবং বেশি থাকলে কম, এই প্রক্রিয়াকে বলা হয় <strong>রুপি-কস্ট অ্যাভারেজিং</strong>। এটি বাজারের ওঠানামা মসৃণ করে এবং স্বয়ংক্রিয় সঞ্চয়ের অভ্যাস গড়ে তোলে।
+        </p>
+        <p>
+          বেশিরভাগ সৌদি ব্যাংক ও অ্যাসেট ম্যানেজার (আল রাজি ক্যাপিটাল, SNB ক্যাপিটাল, রিয়াদ ক্যাপিটাল, SABB, সৌদি ফ্রান্সি ক্যাপিটাল) SIP অপশনসহ মিউচুয়াল ফান্ড অফার করে, যার মধ্যে শরিয়া-সম্মত ফান্ডও রয়েছে। ন্যূনতম মাসিক বিনিয়োগ সাধারণত SAR ৫০০–১,০০০ থেকে শুরু হয়।
+        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 হিসাব করে দেখুন</p>
+          <p class="text-sm mt-1">চক্রবৃদ্ধি সুদের সাথে ৫, ১০ বা ২০ বছরে মাসিক বিনিয়োগ কীভাবে বাড়ে তা দেখতে <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> ব্যবহার করুন।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>এককালীন (লাম্প সাম) বিনিয়োগ কী?</h2>
+        <p>
+          লাম্প সাম একক লেনদেনে আপনার সম্পূর্ণ মূলধন বিনিয়োগ করে। এটি তখনই সবচেয়ে ভালো কাজ করে যখন আপনার কাছে তাৎক্ষণিকভাবে বড় অঙ্কের টাকা থাকে এবং বাজার যুক্তিসঙ্গত দামে থাকে — আপনার পুরো মূলধন প্রথম দিন থেকেই চক্রবৃদ্ধি শুরু করে।
+        </p>
+        <p>
+          ক্লাসিক সৌদি উদাহরণ হলো <strong>এন্ড-অফ-সার্ভিস বেনিফিট (EOSB)</strong>। চাকরি ছাড়ার সময় আপনি এককালীন গ্র্যাচুইটি পান। সেই পুরো অঙ্ক একবারে বিনিয়োগ করা প্রায়শই ধীরে ধীরে করার চেয়ে ভালো, কারণ আপনার টাকা প্রথম দিন থেকেই পুরো সময় কাজ করে।
+        </p>
+        <p>
+          বিনিয়োগের আগে <a href="/eosb-calculator">EOSB ক্যালকুলেটর</a> দিয়ে আপনার পেআউট ঠিক কত হবে তা জেনে নিন — তারপর লাম্প সাম বনাম মাসিক SIP-তে কত যাবে তা নির্ধারণ করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SIP বনাম লাম্প সাম: পাশাপাশি তুলনা</h2>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">উপাদান</th>
+                <th class="text-left py-2">SIP</th>
+                <th class="text-left py-2">লাম্প সাম</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">সর্বোত্তম</td><td class="py-2">বেতনভোগী সঞ্চয়কারীরা অভ্যাস গড়তে</td><td class="py-2">EOSB, বোনাস, উত্তরাধিকার</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">বাজারের ওঠানামা</td><td class="py-2">অ্যাভারেজিংয়ে মসৃণ</td><td class="py-2">প্রথম দিন থেকে সম্পূর্ণ এক্সপোজার</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">বাজারে সময়</td><td class="py-2">শুরুতে কম</td><td class="py-2">তাৎক্ষণিকভাবে সর্বোচ্চ</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">শৃঙ্খলা</td><td class="py-2">স্বয়ংক্রিয় মাসিক অভ্যাস</td><td class="py-2">আত্মসংযম প্রয়োজন</td></tr>
+              <tr><td class="py-2">ঐতিহাসিক প্রবণতা</td><td class="py-2">স্থির/পার্শ্ববর্তী বাজারে জয়ী</td><td class="py-2">উর্ধ্বগামী বাজারে জয়ী</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>একটি কার্যকরী উদাহরণ</h2>
+        <p>৮% বার্ষিক রিটার্নে ১০ বছরে বিনিয়োগের জন্য SAR ১,২০,০০০:</p>
+        <div class="space-y-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">লাম্প সাম: এখনই SAR ১,২০,০০০</p>
+            <p class="text-gray-400 text-sm">ভবিষ্যৎ মূল্য ≈ SAR ২,৫৯,০০০। আপনার পুরো মূলধন ১০ বছর ধরে চক্রবৃদ্ধি হয় — বাজার স্থিরভাবে বাড়লে সর্বোচ্চ প্রবৃদ্ধি।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">SIP: মাসে SAR ১,০০০</p>
+            <p class="text-gray-400 text-sm">ভবিষ্যৎ মূল্য ≈ SAR ১,৮৪,০০০। বাড়তে ধীর, তবে দরপতন গড়ে দেয় এবং আপনাকে শৃঙ্খলাবদ্ধ মাসিক কিস্তিতে সম্পূর্ণ বিনিয়োগে রাখে।</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          উভয় পরিস্থিতিই <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> দিয়ে মডেল করা হয়েছে, যা আপনাকে দুটি কৌশল সরাসরি তুলনা করতেও দেয়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি আরবে কোথায় বিনিয়োগ করবেন</h2>
+        <p>
+          বিনিয়োগের আগে আপনার ঋণগ্রহণের ক্ষমতা ও মোট দায় পরীক্ষা করুন যাতে আপনার প্রয়োজন হতে পারে এমন টাকা কখনো আটকে না যায়। <a href="/sama-loan-calculator">সামা লোন ক্যালকুলেটর</a> দিয়ে নিশ্চিত করুন আপনার ডেট বার্ডেন রেশিও সামার নিয়মের মধ্যে থাকে, এবং প্রতিবছর যোগ্য বিনিয়োগে ২.৫% জাকাতের পরিকল্পনা করতে <a href="/zakat-calculator">জাকাত ক্যালকুলেটর</a> ব্যবহার করুন।
+        </p>
+        <p>
+          একটি সাধারণ বিভাজন: জরুরি তহবিল নগদে রাখুন, দীর্ঘমেয়াদী প্রবৃদ্ধির জন্য EOSB লাম্প সাম হিসাবে বিনিয়োগ করুন এবং নতুন সঞ্চয়ের জন্য উপরে মাসিক SIP চালান। এই সংমিশ্রণ দুটি কৌশলের সেরাটাই নেয়।
+        </p>
+      </div>
+      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+        <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার বিকল্প তুলনা করুন</h3>
+        <p class="text-gray-400 text-sm mb-4">ফ্রি — SIP রিটার্ন, EOSB পরিকল্পনা এবং লোন যোগ্যতা এক জায়গায়</p>
+        <a href="/sip-calculator">
+          ফ্রি SIP ক্যালকুলেটর ব্যবহার করুন
+        </a>
+      </div>
+    ` }
   },
 ]
