@@ -30,14 +30,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${t('toolName')} — Sauditoolhub`,
+    title: t('metaTitle'),
     description: t('description'),
     alternates: {
       canonical: isDefault ? `${baseUrl}/eosb-calculator` : `${baseUrl}/${locale}/eosb-calculator`,
       languages: alternates as Record<string, string>,
     },
     openGraph: {
-      title: `${t('toolName')} — Sauditoolhub`,
+      title: t('metaTitle'),
       description: t('description'),
       url: isDefault ? `${baseUrl}/eosb-calculator` : `${baseUrl}/${locale}/eosb-calculator`,
       siteName: 'Sauditoolhub',
@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${t('toolName')} — Sauditoolhub`,
+      title: t('metaTitle'),
       description: t('description'),
     },
     robots: { index: true, follow: true },

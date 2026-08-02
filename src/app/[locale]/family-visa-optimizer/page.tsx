@@ -22,14 +22,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates[l] = l === 'en' ? `${baseUrl}/family-visa-optimizer` : `${baseUrl}/${l}/family-visa-optimizer`
   }
   return {
-    title: `${t('toolName')} — Sauditoolhub`,
+    title: t('metaTitle'),
     description: t('description'),
     alternates: {
       canonical: isDefault ? `${baseUrl}/family-visa-optimizer` : `${baseUrl}/${locale}/family-visa-optimizer`,
       languages: alternates as Record<string, string>,
     },
     openGraph: {
-      title: `${t('toolName')} — Sauditoolhub`,
+      title: t('metaTitle'),
       description: t('description'),
       url: isDefault ? `${baseUrl}/family-visa-optimizer` : `${baseUrl}/${locale}/family-visa-optimizer`,
       siteName: 'Sauditoolhub',
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${t('toolName')} — Sauditoolhub`,
+      title: t('metaTitle'),
       description: t('description'),
     },
     robots: { index: true, follow: true },

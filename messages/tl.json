@@ -131,17 +131,18 @@
         "tool2Href": "/family-visa-optimizer",
         "tool3Name": "Visa Checklist Tool",
         "tool3Desc": "Kumpletong checklist ng mga dokumento at steps na kailangan para sa Saudi visa applications, Iqama renewals, at family sponsorship.",
-        "tool3Href": "/visa-checklist",
+        "tool3Href": "/visa-checklist-generator",
         "tool4Name": "Final Settlement Calculator",
         "tool4Desc": "Kalkulahin ang iyong full final settlement kasama ang EOSB, unused vacation days, at notice period pay.",
-        "tool4Href": "/settlement-calculator"
+        "tool4Href": "/final-settlement-calculator"
       },
       "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Jawazat regulations at published fine structures. Maaaring mag-iba ang actual fines depende sa iyong specific situation, nationality, at official assessment ng Saudi Ministry of Interior at Jawazat. Inirerekomenda naming i-verify sa Absher o bumisita sa Jawazat office para sa exact amount. Ito ay hindi legal na payo."
     }
   },
   "EOSBCalculator": {
-    "toolName": "EOSB Calculator",
-    "description": "Kalkulahin ang iyong End of Service Benefit ayon sa Saudi Labor Law — instant, libre, at 100% pribado.",
+    "toolName": "End of Service Benefit Calculator (EOSB)",
+    "metaTitle": "End of Service Benefit (EOSB) Calculator Saudi Arabia 2026",
+    "description": "Kalkulahin ang iyong end of service benefit (EOSB / gratuity) ayon sa Saudi Labor Law Articles 84 at 85 — instant, libre, at 100% pribado.",
     "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
     "form": {
       "basicSalary": {
@@ -254,7 +255,7 @@
         "tool2Href": "/family-visa-optimizer",
         "tool3Name": "Final Settlement Calculator",
         "tool3Desc": "Kalkulahin ang iyong full final settlement kasama ang EOSB, unused vacation days, at notice period pay kapag aalis ng trabaho sa Saudi Arabia.",
-        "tool3Href": "/settlement-calculator",
+        "tool3Href": "/final-settlement-calculator",
         "tool4Name": "Nitaqat Simulator",
         "tool4Desc": "Alamin kung paano nakakaapekto ang Nitaqat Saudization ratios sa iyong company classification at visa processing capabilities.",
         "tool4Href": "/nitaqat-simulator"
@@ -263,8 +264,9 @@
     }
   },
   "FamilyVisaCalculator": {
-    "toolName": "Family Visa & Dependent Fee Optimizer",
-    "description": "Kalkulahin ang iyong family visa at dependent fees sa Saudi Arabia — asawa, mga anak, iqama, at exit/re-entry visa.",
+    "toolName": "Family Visa & Dependent Fee Calculator",
+    "metaTitle": "Family Visa & Dependent Fee Calculator Saudi Arabia 2026",
+    "description": "Kalkulahin ang family visa at dependent fees sa Saudi Arabia — SAR 400/month dependent fee, iqama para sa asawa at mga anak, at exit/re-entry visas. Updated 2026 rates.",
     "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
     "form": {
       "title": "Detalye ng Pamilya",
@@ -431,10 +433,10 @@
         "tool2Href": "/eosb-calculator",
         "tool3Name": "Visa Checklist Tool",
         "tool3Desc": "Kumpletong document checklist para sa family visa sponsorship, Iqama renewal, at dependent applications.",
-        "tool3Href": "/visa-checklist",
+        "tool3Href": "/visa-checklist-generator",
         "tool4Name": "Final Settlement Calculator",
         "tool4Desc": "Kalkulahin ang iyong full final settlement kasama ang EOSB para makatulong sa pagpaplano ng family budget kapag aalis ng Saudi Arabia.",
-        "tool4Href": "/settlement-calculator"
+        "tool4Href": "/final-settlement-calculator"
       },
       "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa official Saudi fee structures na inilathala ng Ministry of Interior at Jawazat. Maaaring mag-iba ang actual fees depende sa iyong specific situation, nationality, at policy changes. Inirerekomenda naming i-verify sa Absher o sa iyong sponsor company para sa exact amounts. Ito ay hindi legal o financial na payo."
     }
@@ -560,14 +562,15 @@
         "tool3Href": "/family-visa-optimizer",
         "tool4Name": "Visa Checklist Tool",
         "tool4Desc": "Isang kumpletong checklist ng final exit procedures kasama ang visa cancellation, iqama cancellation, at document collection.",
-        "tool4Href": "/visa-checklist"
+        "tool4Href": "/visa-checklist-generator"
       },
       "disclaimer": "Ang calculator na ito ay nagbibigay ng estimates batay sa Saudi Labor Law Article 76 at standard employment contract practices. Maaaring mag-iba ang final settlement amounts depende sa iyong specific contract, company policies, at official assessment. Inirerekomenda naming kumonsulta sa iyong HR department o legal professional para sa accurate advice. Ito ay hindi legal na payo."
     }
   },
   "VisaChecklist": {
-    "toolName": "Interactive Visa Document Checklist Generator",
-    "description": "Gumawa ng kumpletong document checklist para sa Saudi Arabia visas — Family Visit, Work, Umrah, Tourist, at Exit/Re-Entry.",
+    "toolName": "Saudi Visa Document Checklist",
+    "metaTitle": "Saudi Visa Requirements & Document Checklist 2026",
+    "description": "Kumpletong checklist ng Saudi visa documents — family visit, work, Umrah, tourist at exit/re-entry. Kasama ang requirements para sa Pilipino, Pakistani at US applicants.",
     "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
     "form": {
       "title": "Gawin ang Iyong Checklist",
@@ -861,7 +864,7 @@
         "title": "Mga Kaugnay na Business Tools",
         "tool1Name": "Freelance Income Calculator",
         "tool1Desc": "Kalkulahin ang iyong freelance income, ZATCA compliance costs, at net earnings pagkatapos ng VAT at deductions.",
-        "tool1Href": "/freelance-calculator",
+        "tool1Href": "/freelance-income-calculator",
         "tool2Name": "Nitaqat Simulator",
         "tool2Desc": "Gayahin kung paano naaapektuhan ng Nitaqat Saudization ratios ang klasipikasyon ng iyong kumpanya at visa processing capabilities.",
         "tool2Href": "/nitaqat-simulator",
@@ -1002,7 +1005,7 @@
         "tool1Href": "/zatca-vat-calculator",
         "tool2Name": "Freelance Income Calculator",
         "tool2Desc": "Kalkulahin ang iyong freelance income, ZATCA compliance costs, at net earnings pagkatapos ng VAT at deductions.",
-        "tool2Href": "/freelance-calculator",
+        "tool2Href": "/freelance-income-calculator",
         "tool3Name": "EOSB Calculator",
         "tool3Desc": "Kalkulahin ang iyong End of Service Benefit sa ilalim ng Saudi Labor Law (Articles 84 & 85).",
         "tool3Href": "/eosb-calculator",

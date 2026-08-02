@@ -131,17 +131,18 @@
         "tool2Href": "/family-visa-optimizer",
         "tool3Name": "Visa Checklist Tool",
         "tool3Desc": "A complete checklist of documents and steps required for Saudi visa applications, Iqama renewals, and family sponsorship.",
-        "tool3Href": "/visa-checklist",
+        "tool3Href": "/visa-checklist-generator",
         "tool4Name": "Final Settlement Calculator",
         "tool4Desc": "Calculate your full final settlement including EOSB, unused vacation days, and notice period pay.",
-        "tool4Href": "/settlement-calculator"
+        "tool4Href": "/final-settlement-calculator"
       },
       "disclaimer": "This calculator provides estimates based on Saudi Jawazat regulations and published fine structures. Actual fines may vary based on your specific situation, nationality, and official assessment by the Saudi Ministry of Interior and Jawazat. We recommend verifying with Absher or visiting a Jawazat office for the exact amount. This is not legal advice."
     }
   },
   "EOSBCalculator": {
-    "toolName": "EOSB Calculator",
-    "description": "Calculate your End of Service Benefit under Saudi Labor Law — instantly, free, and 100% private.",
+    "toolName": "End of Service Benefit Calculator (EOSB)",
+    "metaTitle": "End of Service Benefit (EOSB) Calculator Saudi Arabia 2026",
+    "description": "Calculate your end of service benefit (EOSB / gratuity) under Saudi Labor Law Articles 84 & 85 — instant, free, and 100% private.",
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "basicSalary": {
@@ -254,7 +255,7 @@
         "tool2Href": "/family-visa-optimizer",
         "tool3Name": "Final Settlement Calculator",
         "tool3Desc": "Calculate your full final settlement including EOSB, unused vacation days, and notice period pay when leaving a job in Saudi Arabia.",
-        "tool3Href": "/settlement-calculator",
+        "tool3Href": "/final-settlement-calculator",
         "tool4Name": "Nitaqat Simulator",
         "tool4Desc": "Understand how Nitaqat Saudization ratios affect your company classification and visa processing capabilities.",
         "tool4Href": "/nitaqat-simulator"
@@ -263,8 +264,9 @@
     }
   },
   "FamilyVisaCalculator": {
-    "toolName": "Family Visa & Dependent Fee Optimizer",
-    "description": "Calculate your family visa and dependent fees in Saudi Arabia — wives, children, iqama, and exit/re-entry visas.",
+    "toolName": "Family Visa & Dependent Fee Calculator",
+    "metaTitle": "Family Visa & Dependent Fee Calculator Saudi Arabia 2026",
+    "description": "Calculate family visa & dependent fees in Saudi Arabia — SAR 400/month dependent fee, Iqama for wife & children, and exit/re-entry visas. Updated 2026 rates.",
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Family Details",
@@ -431,10 +433,10 @@
         "tool2Href": "/eosb-calculator",
         "tool3Name": "Visa Checklist Tool",
         "tool3Desc": "A complete document checklist for family visa sponsorship, Iqama renewal, and dependent applications.",
-        "tool3Href": "/visa-checklist",
+        "tool3Href": "/visa-checklist-generator",
         "tool4Name": "Final Settlement Calculator",
         "tool4Desc": "Calculate your full final settlement including EOSB to help plan your family budget when leaving Saudi Arabia.",
-        "tool4Href": "/settlement-calculator"
+        "tool4Href": "/final-settlement-calculator"
       },
       "disclaimer": "This calculator provides estimates based on official Saudi fee structures published by the Ministry of Interior and Jawazat. Actual fees may vary based on your specific situation, nationality, and policy changes. We recommend verifying with Absher or your sponsor company for exact amounts. This is not legal or financial advice."
     }
@@ -560,14 +562,15 @@
         "tool3Href": "/family-visa-optimizer",
         "tool4Name": "Visa Checklist Tool",
         "tool4Desc": "A complete checklist of final exit procedures including visa cancellation, iqama cancellation, and document collection.",
-        "tool4Href": "/visa-checklist"
+        "tool4Href": "/visa-checklist-generator"
       },
       "disclaimer": "This calculator provides estimates based on Saudi Labor Law Article 76 and standard employment contract practices. Final settlement amounts may vary based on your specific contract, company policies, and official assessment. We recommend consulting with your HR department or a legal professional for accurate advice. This is not legal advice."
     }
   },
   "VisaChecklist": {
-    "toolName": "Interactive Visa Document Checklist Generator",
-    "description": "Generate a complete document checklist for Saudi Arabia visas — Family Visit, Work, Umrah, Tourist, and Exit/Re-Entry.",
+    "toolName": "Saudi Visa Document Checklist",
+    "metaTitle": "Saudi Visa Requirements & Document Checklist 2026",
+    "description": "Complete Saudi visa document checklist — family visit, work, Umrah, tourist & exit/re-entry visas. Includes Pakistan, India, Philippines & US requirements.",
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Generate Your Checklist",
@@ -861,7 +864,7 @@
         "title": "Related Business Tools",
         "tool1Name": "Freelance Income Calculator",
         "tool1Desc": "Calculate your freelance income, ZATCA compliance costs, and net earnings after VAT and deductions.",
-        "tool1Href": "/freelance-calculator",
+        "tool1Href": "/freelance-income-calculator",
         "tool2Name": "Nitaqat Simulator",
         "tool2Desc": "Simulate how Nitaqat Saudization ratios affect your company's classification and visa processing capabilities.",
         "tool2Href": "/nitaqat-simulator",
@@ -1002,7 +1005,7 @@
         "tool1Href": "/zatca-vat-calculator",
         "tool2Name": "Freelance Income Calculator",
         "tool2Desc": "Calculate your freelance income, ZATCA compliance costs, and net earnings after VAT and deductions.",
-        "tool2Href": "/freelance-calculator",
+        "tool2Href": "/freelance-income-calculator",
         "tool3Name": "EOSB Calculator",
         "tool3Desc": "Calculate your End of Service Benefit under Saudi Labor Law (Articles 84 & 85).",
         "tool3Href": "/eosb-calculator",

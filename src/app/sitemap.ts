@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next'
+import { articles } from '@/data/articles'
 
 const baseUrl = 'https://sauditoolhub.com'
 const locales = ['en', 'ar', 'ur', 'tl', 'bn'] as const
@@ -30,9 +31,7 @@ const toolRoutes = [
   '/property-valuation',
 ] as const
 
-const guideRoutes = [
-  '/guide/jawazat-overstay-fine-calculator-saudi-arabia-2026',
-] as const
+const guideRoutes = articles.map((article) => `/guide/${article.slug}`)
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = []
