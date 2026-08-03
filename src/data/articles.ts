@@ -4193,45 +4193,66 @@ export const articles: Article[] = [
   {
     slug: 'sip-vs-lump-sum-investing-saudi-arabia-2026',
     category: 'finance',
-    readTime: '7 min read',
+    readTime: '10 min read',
     date: '2026-08-02',
-    title: { en: 'SIP vs Lump Sum Investing in Saudi 2026', ar: 'الاستثمار بنظام SIP مقابل دفعة واحدة في السعودية: أيهما الأفضل في 2026؟', ur: 'سعودی عرب میں SIP بمقابلہ لَمپ سم انویسٹنگ: 2026 میں کون جیتتا ہے؟', tl: 'SIP vs Lump Sum Investing sa Saudi Arabia: Alin ang Panalo sa 2026?', bn: 'সৌদি আরবে SIP বনাম এককালীন বিনিয়োগ: ২০২৬ সালে কোনটি জিতবে?' },
-    description: { en: 'Systematic Investment Plans (SIP) vs lump sum investing for expats in Saudi Arabia. Compare rupee-cost averaging, EOSB lump sums, realistic returns, and where to invest. Includes a worked example.', ar: 'خطط الاستثمار المنتظم (SIP) مقابل الاستثمار بمبلغ إجمالي للوافدين في السعودية. قارن متوسط تكلفة الروبية، ومكافآت نهاية الخدمة كمبالغ إجمالية، والعوائد الواقعية، وأين تستثمر. يتضمن مثالًا عمليًا.', ur: 'سعودی عرب میں وافدین کے لیے سسٹیمیٹک انویسٹمنٹ پلانز (SIP) بمقابلہ لَمپ سم انویسٹنگ۔ روپیہ کاسٹ ایوریجنگ، EOSB لَمپ سم، حقیقت پسندانہ منافع، اور کہاں سرمایہ کاری کریں۔ ایک عملی مثال شامل ہے۔', tl: 'Systematic Investment Plans (SIP) vs lump sum investing para sa mga ekspat sa Saudi Arabia. Ikumpara ang rupee-cost averaging, EOSB lump sums, makatotohanang returns, at kung saan mamumuhunan. May kasamang worked example.', bn: 'সৌদি আরবে প্রবাসীদের জন্য সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান (SIP) বনাম এককালীন বিনিয়োগ। রুপি-কস্ট অ্যাভারেজিং, EOSB এককালীন অর্থ, বাস্তবসম্মত রিটার্ন এবং কোথায় বিনিয়োগ করবেন তা তুলনা করুন। একটি কার্যকরী উদাহরণ অন্তর্ভুক্ত।' },
+    title: { en: 'SIP vs Lump Sum Investment Saudi Arabia 2026 | Best Strategy for Expats', ar: 'SIP مقابل الاستثمار بمبلغ إجمالي في السعودية 2026 | أفضل استراتيجية للوافدين', ur: 'سعودی عرب 2026 میں SIP بمقابلہ لَمپ سم انویسٹمنٹ | وافدین کے لیے بہترین حکمت عملی', tl: 'SIP vs Lump Sum Investment sa Saudi Arabia 2026 | Pinakamahusay na Estratehiya para sa mga Ekspat', bn: 'সৌদি আরব ২০২৬-এ SIP বনাম এককালীন বিনিয়োগ | প্রবাসীদের জন্য সেরা কৌশল' },
+    description: { en: 'Confused between SIP and lump sum investing in Saudi Arabia? Compare returns, risks, and find the best investment strategy for expats in 2026.', ar: 'محتار بين الاستثمار بنظام SIP والاستثمار بمبلغ إجمالي في السعودية؟ قارن العوائد والمخاطر واعثر على أفضل استراتيجية استثمار للوافدين في 2026.', ur: 'سعودی عرب میں SIP اور لَمپ سم انویسٹنگ کے درمیان الجھن؟ منافع، خطرات کا موازنہ کریں اور 2026 میں وافدین کے لیے بہترین سرمایہ کاری حکمت عملی تلاش کریں۔', tl: 'Nalilito sa pagitan ng SIP at lump sum investing sa Saudi Arabia? Ikumpara ang returns, risks, at hanapin ang pinakamahusay na investment strategy para sa mga ekspat sa 2026.', bn: 'সৌদি আরবে SIP এবং এককালীন বিনিয়োগের মধ্যে দ্বিধাগ্রস্ত? রিটার্ন, ঝুঁকি তুলনা করুন এবং ২০২৬ সালে প্রবাসীদের জন্য সেরা বিনিয়োগ কৌশল খুঁজে নিন।' },
     content: { en: `
       <div class="text-center mb-8">
         <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Finance Guide</p>
-        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">SIP vs Lump Sum Investing in Saudi Arabia: Which Wins in 2026?</h1>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">SIP vs Lump Sum Investment in Saudi Arabia 2026: Which is Better for Expats?</h1>
         <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
-          Should you drip-feed your savings into the market every month, or invest one big amount all at once? Both strategies work — but in very different situations. Here is how to choose, with real Saudi numbers.
+          You have worked hard, saved your salary every month, and now you have a pool of money ready to invest. Should you invest it all at once as a lump sum, or drip-feed it month by month through a Systematic Investment Plan (SIP)? This guide breaks down both strategies for expats in Saudi Arabia — with real SAR numbers, tax notes, and platform recommendations for 2026.
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>What Is a SIP (Systematic Investment Plan)?</h2>
+        <h2>Introduction: The Expat's Investment Dilemma</h2>
         <p>
-          A SIP invests a fixed amount into a mutual fund at regular intervals — typically monthly. Over time you buy more units when prices are low and fewer when they are high, a mechanism called <strong>rupee-cost averaging</strong>. This smooths out market volatility and builds an automatic saving habit.
+          Every expat in Saudi Arabia faces the same question sooner or later. You finally have a meaningful amount of savings — whether from your monthly salary surplus, a performance bonus, or a lump sum like your End of Service Benefit (EOSB). The natural instinct is to invest it. But the moment you open an investing app, you hit a fork in the road:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li>Invest everything today in one go (lump sum)</li>
+          <li>Split it and invest a fixed amount every month (SIP)</li>
+        </ul>
+        <p>
+          There is no universal "right" answer. Research shows lump sums historically beat SIPs about two-thirds of the time in steadily rising markets, because your money starts compounding earlier. But SIPs shine when markets are volatile or falling, because rupee-cost averaging lets you buy more units at lower prices. For salaried expats with a steady monthly income, a SIP often fits better psychologically and practically. This guide gives you the framework to decide — plus a worked SAR 12,000 example so you can see exactly how each strategy behaves.
         </p>
         <p>
-          Most Saudi banks and asset managers (Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital) offer mutual funds with SIP options, including Sharia-compliant funds. Minimum monthly investments commonly start around SAR 500–1,000. For the full deep-dive on how SIPs and mutual funds work, read our <a href="/guide/sip-calculator-saudi-arabia-2026">Complete Guide to SIP &amp; Mutual Fund Investment Returns in Saudi Arabia 2026</a>.
+          If you are new to investing in the Kingdom, start with our <a href="/guide/sip-calculator-saudi-arabia-2026">Complete Guide to SIP &amp; Mutual Fund Investment Returns in Saudi Arabia</a> first, then come back here to compare strategies.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What is SIP (Systematic Investment Plan)?</h2>
+        <p>
+          A Systematic Investment Plan (SIP) is a disciplined way to invest a fixed amount of money into a mutual fund at regular intervals — typically monthly. Instead of trying to time the market, you commit to investing consistently regardless of whether prices are high or low.
+        </p>
+        <p>
+          The core benefit is <strong>rupee-cost averaging</strong>. When the market falls, your fixed contribution buys more fund units; when it rises, it buys fewer. Over time, this smooths out your average purchase price and removes the emotional stress of trying to pick the perfect entry point. It also builds a powerful savings habit — many expats treat their monthly SIP like a non-negotiable bill.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">How a monthly SIP works:</p>
+          <p class="text-gray-400 text-sm">Month 1: SAR 1,000 ÷ NAV 10 = 100 units · Month 2: SAR 1,000 ÷ NAV 8 = 125 units · Month 3: SAR 1,000 ÷ NAV 12 = 83 units</p>
+          <p class="text-gray-400 text-sm mt-2">Total invested: SAR 3,000 · Total units: 308 · Average cost per unit: SAR 9.74</p>
+        </div>
+        <p class="mt-4">
+          The minimum for most Saudi platforms is SAR 500–1,000 per month. Model your own growth projections with our free <a href="/sip-calculator">SIP Return Calculator</a>.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What is Lump Sum Investment?</h2>
+        <p>
+          A lump sum investment puts your entire capital into the market in a single transaction. You decide on an amount, choose a fund, and invest it all at once. The main advantage is <strong>immediate market exposure</strong> — your whole portfolio starts compounding from day one.
+        </p>
+        <p>
+          The flip side is <strong>timing risk</strong>. If you invest right before a market correction, your entire capital suffers the drop at once. There is no averaging to soften the blow, and psychologically it can be hard to stay invested when you watch a large balance fall. Lump sums work best when you have a big one-time amount (like an EOSB payout or a bonus) and a reasonably priced market.
         </p>
         <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
-          <p class="text-sm font-medium text-desert-primary">🧮 Model it</p>
-          <p class="text-sm mt-1">Use the <a href="/sip-calculator">SIP Return Calculator</a> to see how a monthly investment grows over 5, 10, or 20 years with compounding.</p>
+          <p class="text-sm font-medium text-desert-primary">💡 Expat tip</p>
+          <p class="text-sm mt-1">For many expats, the first lump sum they ever invest is their End of Service Benefit. Work out exactly what you are entitled to with the <a href="/eosb-calculator">EOSB Calculator</a> before deciding how much to invest.</p>
         </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>What Is a Lump Sum Investment?</h2>
-        <p>
-          A lump sum invests your entire capital in one transaction. It works best when you have a large pool of money available immediately and the market is reasonably priced — your full capital starts compounding from day one.
-        </p>
-        <p>
-          The classic Saudi example is the <strong>End of Service Benefit (EOSB)</strong>. When you leave a job, you receive a one-time gratuity. Investing that full amount at once is often better than trickling it in, because your money works for the full period from day one.
-        </p>
-        <p>
-          Before investing, work out exactly how much your payout will be with the <a href="/eosb-calculator">EOSB Calculator</a> — then decide how much goes in as a lump sum versus a monthly SIP.
-        </p>
-      </div>
-      <div class="glass p-6 rounded-xl mb-8">
-        <h2>SIP vs Lump Sum: Side-by-Side</h2>
+        <h2>SIP vs Lump Sum: Detailed Comparison Table</h2>
         <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
           <table class="w-full">
             <thead>
@@ -4242,83 +4263,217 @@ export const articles: Article[] = [
               </tr>
             </thead>
             <tbody>
-              <tr class="border-b border-gray-800"><td class="py-2">Best for</td><td class="py-2">Salaried savers building a habit</td><td class="py-2">EOSB, bonuses, inheritance</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Market volatility</td><td class="py-2">Smoothed via averaging</td><td class="py-2">Full exposure from day one</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Time in market</td><td class="py-2">Lower initially</td><td class="py-2">Maximum immediately</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Discipline</td><td class="py-2">Built-in monthly habit</td><td class="py-2">Requires self-control</td></tr>
-              <tr><td class="py-2">Historical tendency</td><td class="py-2">Wins in flat/sideways markets</td><td class="py-2">Wins in rising markets</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Risk level</td><td class="py-2">Lower — averaged over time</td><td class="py-2">Higher — full exposure at once</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Returns potential</td><td class="py-2">Good in volatile/flat markets</td><td class="py-2">Best in steadily rising markets</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Best for</td><td class="py-2">Salaried expats, new investors, monthly income</td><td class="py-2">EOSB, bonuses, inheritance, experienced investors</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Market conditions</td><td class="py-2">Volatile, falling, or sideways markets</td><td class="py-2">Rising, bullish, or crash-bargain markets</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Time in market</td><td class="py-2">Builds up gradually</td><td class="py-2">Maximum from day one</td></tr>
+              <tr><td class="py-2">Discipline required</td><td class="py-2">Built-in monthly habit</td><td class="py-2">High self-control</td></tr>
             </tbody>
           </table>
         </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>A Worked Example</h2>
-        <p>SAR 120,000 to invest over 10 years at 8% annual return:</p>
+        <h2>When Should You Choose SIP?</h2>
+        <p>Choose SIP if any of these describe you:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>You earn a regular monthly salary.</strong> A SIP turns your salary cycle into an investment cycle — automate it and you never miss a month.</li>
+          <li><strong>You are risk-averse.</strong> Averaging reduces the emotional pain of a market drop because part of your money is still waiting on the sidelines.</li>
+          <li><strong>The market is volatile.</strong> In choppy markets, SIP buying at multiple price points beats trying to time a single entry.</li>
+          <li><strong>You are a new investor.</strong> A small monthly commitment is easier to start than a large one-time risk.</li>
+          <li><strong>You want a long-term habit.</strong> SIPs compound beautifully over 5–10+ years.</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 Model it</p>
+          <p class="text-sm mt-1">Use the <a href="/sip-calculator">SIP Return Calculator</a> to see how a SAR 1,000 monthly investment grows over 5, 10, or 20 years.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>When Should You Choose Lump Sum?</h2>
+        <p>Choose lump sum if these apply:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>You received a large one-time amount.</strong> EOSB, a bonus, an inheritance, or the sale of an asset.</li>
+          <li><strong>The market just crashed.</strong> Historically, investing a lump sum shortly after a major correction has generated some of the best long-term returns.</li>
+          <li><strong>You are an experienced investor.</strong> You understand volatility and can stay calm when your balance drops 20%.</li>
+          <li><strong>You have a long time horizon.</strong> Over 10+ years, getting invested earlier almost always wins.</li>
+          <li><strong>You want maximum compounding.</strong> Every day your money is invested, it works for you.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">A smart hybrid approach used by many expats:</p>
+          <p class="text-gray-400 text-sm">Invest 50% of your EOSB immediately as a lump sum, then spread the remaining 50% over the next 6–12 months as a SIP. This captures upside while limiting timing risk.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-Life Example: SAR 12,000 Investment in the Saudi Market</h2>
+        <p>Let us compare two expats in Riyadh, each investing SAR 12,000 over one year at an expected 8% annual return:</p>
         <div class="space-y-3">
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">Lump sum: SAR 120,000 now</p>
-            <p class="text-gray-400 text-sm">Future value ≈ SAR 259,000. Your full capital compounds for all 10 years — highest growth when markets rise steadily.</p>
+            <p class="text-white font-medium">SIP: SAR 1,000 per month for 12 months</p>
+            <p class="text-gray-400 text-sm">Total invested: SAR 12,000. Because contributions are spread out, the average invested capital is around SAR 6,000 over the year. Future value at 8% ≈ SAR 12,533.</p>
           </div>
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">SIP: SAR 1,000/month</p>
-            <p class="text-gray-400 text-sm">Future value ≈ SAR 184,000. Slower to grow, but averages out dips and keeps you fully invested in disciplined monthly bites.</p>
+            <p class="text-white font-medium">Lump Sum: SAR 12,000 all at once</p>
+            <p class="text-gray-400 text-sm">Total invested: SAR 12,000. The entire amount compounds for the full 12 months. Future value at 8% ≈ SAR 12,960.</p>
           </div>
         </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Market Scenario</th>
+                <th class="text-left py-2">SIP (SAR 1,000/mo)</th>
+                <th class="text-left py-2">Lump Sum (SAR 12,000)</th>
+                <th class="text-left py-2">Winner</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">Steady rise (+8%)</td><td class="py-2">SAR 12,533</td><td class="py-2">SAR 12,960</td><td class="py-2 text-green-400">Lump Sum</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Volatile, dips then recovers</td><td class="py-2">SAR 12,480</td><td class="py-2">SAR 12,180</td><td class="py-2 text-green-400">SIP</td></tr>
+              <tr><td class="py-2">Market falls 10% then flat</td><td class="py-2">SAR 11,200</td><td class="py-2">SAR 10,800</td><td class="py-2 text-green-400">SIP</td></tr>
+            </tbody>
+          </table>
+        </div>
         <p class="mt-3">
-          Both scenarios are modeled with the <a href="/sip-calculator">SIP Return Calculator</a>, which also lets you compare the two strategies directly.
+          The takeaway: in a rising market, the lump sum wins because time-in-market matters. In a volatile or falling market, the SIP wins because averaging buys cheaper units. Run both scenarios yourself with the <a href="/sip-calculator">SIP Return Calculator</a>.
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>Where to Invest in Saudi Arabia</h2>
+        <h2>Tax Implications for Expats in Saudi Arabia</h2>
         <p>
-          Before investing, check your borrowing capacity and total obligations so you never lock cash you might need. Use the <a href="/sama-loan-calculator">SAMA Loan Calculator</a> to verify your Debt Burden Ratio stays within SAMA's rules, and the <a href="/zakat-calculator">Zakat Calculator</a> to plan for the 2.5% zakat on qualifying investments each year.
+          One of the biggest advantages of investing while living in Saudi Arabia is the <strong>tax-free environment</strong>. The Kingdom currently imposes <strong>no personal income tax, no capital gains tax, and no dividend tax</strong> on individuals. Your investment profits — whether from Saudi mutual funds, Saudi stocks, or most international funds — are generally not taxed in the Kingdom. There is also no inheritance tax.
         </p>
         <p>
-          A common split: keep an emergency fund in cash, invest your EOSB as a lump sum for long-term growth, and run a monthly SIP on top for new savings. This combination captures the best of both strategies.
+          However, you should check your <strong>home country's tax rules</strong>:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>India:</strong> You are a "resident" for tax purposes if you are present in India 182+ days a year. Indian residents pay tax on worldwide income. Expats spending under 182 days in India each year typically avoid Indian tax on Saudi investment gains, but dividend income is taxable.</li>
+          <li><strong>Pakistan:</strong> Residents are taxed on worldwide income. A Saudi resident who is present in Pakistan less than 183 days may be a non-resident for FBR purposes. Review the Pakistan–Saudi tax treaty.</li>
+          <li><strong>Philippines:</strong> Residents are taxed on worldwide income. OFWs (Overseas Filipino Workers) who have been away from the Philippines for 183+ days in a year are treated as non-residents for income tax purposes and are generally exempt from Philippine tax on foreign earnings.</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">⚠️ Important</p>
+          <p class="text-sm mt-1">This is general information, not tax advice. Your personal situation depends on your residency status, home country, and how long you stay outside it. Consult a qualified accountant for your specific case.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Best Investment Platforms for Expats in KSA</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Local Saudi Platforms (CMA-regulated)</p>
+            <p class="text-gray-400 text-sm">Al Rajhi Capital, SNB Capital, Riyad Capital, and Saudi Fransi Capital offer mutual funds with SIP options from as little as SAR 500/month. Digital robo-advisors like Derayah Smart, Malaa, and Abyan Capital offer goal-based, Sharia-compliant portfolios with low minimums. All are regulated by the Capital Market Authority.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">International Brokers</p>
+            <p class="text-gray-400 text-sm">Expats who want exposure to US or global markets often use international brokers like Interactive Brokers, Sarwa, or eToro. These accept Saudi residents but may have restrictions on certain services. Always check the broker's policy on Saudi Arabia before transferring funds.</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          For the full rundown of platforms, fees, and Sharia-compliant options, read our <a href="/guide/sip-calculator-saudi-arabia-2026">Complete Guide to SIP &amp; Mutual Fund Investment Returns in Saudi Arabia</a>.
         </p>
       </div>
-      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
-        <h3 class="text-white text-lg font-bold mb-2">Compare Your Options Now</h3>
-        <p class="text-gray-400 text-sm mb-4">Free — SIP returns, EOSB planning, and loan eligibility in one place</p>
-        <a href="/sip-calculator">
-          Use Free SIP Calculator
-        </a>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">1. Which is better for expats in Saudi Arabia: SIP or lump sum?</p>
+            <p class="text-gray-400 text-sm">For salaried expats, a SIP is usually the more practical choice because it fits a monthly income cycle and reduces timing risk. For a one-time EOSB payout, a lump sum — or a 50/50 hybrid — often works better. It depends on your risk tolerance and market conditions.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">2. Is SIP better when the market is volatile?</p>
+            <p class="text-gray-400 text-sm">Yes. Rupee-cost averaging means your fixed monthly amount buys more units when prices fall, lowering your average cost per unit and smoothing returns over time.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">3. Does lump sum always beat SIP?</p>
+            <p class="text-gray-400 text-sm">No. Studies show lump sums win in roughly two-thirds of cases in steadily rising markets because money compounds earlier. But in falling or flat markets, SIPs win by averaging down. Historically over 10+ years, lump sum tends to lead, but the difference narrows in volatile periods.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">4. Is there any tax on investment returns in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm">No personal income, capital gains, or dividend tax applies to individuals in Saudi Arabia today. However, your home country may tax your worldwide income depending on your residency status, so check your local rules.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">5. What is the minimum amount to start a SIP in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm">Most platforms accept monthly SIPs from SAR 100 (Derayah) to SAR 1,000 (SNB Capital). Many funds also have no minimum for lump sums, but SAR 500–1,000 per month is a common baseline.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">6. Can I do both SIP and lump sum at the same time?</p>
+            <p class="text-gray-400 text-sm">Yes — many expats invest their EOSB as a lump sum and run a monthly SIP on top from their salary. This combines maximum compounding with ongoing discipline.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">7. How does my EOSB fit into this decision?</p>
+            <p class="text-gray-400 text-sm">Your End of Service Benefit is usually the largest lump sum an expat receives. If you are leaving or switching jobs, decide whether to invest it all at once, split it as a SIP, or do a hybrid. Use the <a href="/eosb-calculator">EOSB Calculator</a> to know your exact amount first.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Conclusion &amp; Next Steps</h2>
+        <p>
+          There is no single "best" strategy — there is the strategy that fits your income, risk tolerance, and market conditions. SIPs win on discipline, averaging, and emotional ease. Lump sums win on time-in-market and compounding in rising markets. For many expats in Saudi Arabia, the smartest move is a hybrid: invest large windfalls as a lump sum and run a monthly SIP from your salary.
+        </p>
+        <p>
+          Ready to start? Model your numbers with the <a href="/sip-calculator">SIP Return Calculator</a>, then read the <a href="/guide/sip-calculator-saudi-arabia-2026">Complete Guide to SIP &amp; Mutual Fund Investment Returns in Saudi Arabia</a> for platform details and fund picks.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Compare Your Options Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — SIP returns, EOSB planning, and loan eligibility in one place</p>
+          <a href="/sip-calculator">Use Free SIP Calculator</a>
+        </div>
       </div>
     `, ar: `
       <div class="text-center mb-8">
         <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل التمويل</p>
-        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">الاستثمار بنظام SIP مقابل دفعة واحدة في السعودية: أيهما الأفضل في 2026؟</h1>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">الاستثمار بنظام SIP مقابل دفعة واحدة في السعودية 2026: أيهما أفضل للوافدين؟</h1>
         <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
-          هل يجب أن تستثمر مدخراتك في السوق شهريًا على دفعات صغيرة، أم تستثمر مبلغًا كبيرًا دفعة واحدة؟ كلتا الاستراتيجيتين تعملان — لكن في ظروف مختلفة جدًا. إليك طريقة الاختيار، بأرقام سعودية حقيقية.
+          لقد عملت بجد، ووفرت من راتبك كل شهر، والآن لديك مبلغ من المال جاهز للاستثمار. هل تستثمره كله دفعة واحدة، أم تقسمه وتستثمر مبلغًا ثابتًا كل شهر عبر خطة استثمار منتظمة (SIP)؟ يشرح هذا الدليل الاستراتيجيتين للوافدين في السعودية — بأرقام حقيقية بالريال، وملاحظات ضريبية، وتوصيات بالمنصات لعام 2026.
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>ما هو SIP (خطة الاستثمار المنتظم)؟</h2>
+        <h2>مقدمة: معضلة الاستثمار لدى الوافد</h2>
         <p>
-          يستثمر SIP مبلغًا ثابتًا في صندوق استثماري على فترات منتظمة — عادةً شهريًا. بمرور الوقت تشتري وحدات أكثر عندما تكون الأسعار منخفضة ووحدات أقل عندما تكون مرتفعة، وهي آلية تسمى <strong>متوسط تكلفة الوحدة</strong>. هذا يقلل من تقلبات السوق ويبني عادة ادخار تلقائية.
+          يواجه كل وافد في السعودية السؤال نفسه عاجلًا أم آجلًا. أخيرًا أصبح لديك مبلغ معقول من المدخرات — سواء من فائض راتبك الشهري، أو مكافأة الأداء، أو مبلغ إجمالي مثل مكافأة نهاية الخدمة (EOSB). الغريزة الطبيعية هي استثماره. لكن بمجرد فتح تطبيق الاستثمار، تجد نفسك أمام مفترق طرق:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li>استثمار كل المبلغ اليوم دفعة واحدة (لَمب سم)</li>
+          <li>تقسيمه واستثمار مبلغ ثابت كل شهر (SIP)</li>
+        </ul>
+        <p>
+          لا توجد إجابة "صحيحة" واحدة تناسب الجميع. تُظهر الأبحاث أن الاستثمار بمبلغ إجمالي يتفوق تاريخيًا على SIP في نحو ثلثي الحالات عندما ترتفع الأسواق بثبات، لأن أموالك تبدأ في التضاعف مبكرًا. لكن SIP يتألق عندما تكون الأسواق متقلبة أو هابطة، لأن متوسط التكلفة بالروبية يسمح لك بشراء وحدات أكثر بأسعار أقل. بالنسبة للوافدين الموظفين ذوي الدخل الشهري المنتظم، يناسب SIP غالبًا بشكل أفضل نفسيًا وعمليًا. يمنحك هذا الدليل إطارًا للقرار — مع مثال عملي بمبلغ 12,000 ريال لتري بالضبط كيف تتصرف كل استراتيجية.
         </p>
         <p>
-          تقدم معظم البنوك السعودية ومديري الأصول (الراجحي المالية، سناب كابيتال، رياض كابيتال، ساب، السعودي الفرنسي كابيتال) صناديق استثمارية مع خيارات SIP، بما في ذلك الصناديق المتوافقة مع الشريعة. الحد الأدنى للاستثمار الشهري يبدأ عادةً من 500 إلى 1,000 ريال.
+          إذا كنت جديدًا في الاستثمار في المملكة، ابدأ بدليلنا <a href="/guide/sip-calculator-saudi-arabia-2026">الدليل الشامل لعوائد SIP وصناديق الاستثمار المشترك في السعودية</a> أولًا، ثم عد إلى هنا لمقارنة الاستراتيجيتين.
         </p>
-        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
-          <p class="text-sm font-medium text-desert-primary">🧮 جرّب الحساب</p>
-          <p class="text-sm mt-1">استخدم <a href="/sip-calculator">حاسبة عوائد SIP</a> لمعرفة كيف ينمو الاستثمار الشهري على مدى 5 أو 10 أو 20 عامًا مع الفائدة المركبة.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ما هو SIP (خطة الاستثمار المنتظمة)؟</h2>
+        <p>
+          خطة الاستثمار المنتظمة (SIP) هي طريقة منضبطة لاستثمار مبلغ ثابت في صندوق استثماري مشترك على فترات منتظمة — عادة شهريًا. بدلًا من محاولة توقيت السوق، تلتزم بالاستثمار باستمرار بغض النظر عن ارتفاع الأسعار أو انخفاضها.
+        </p>
+        <p>
+          الفائدة الأساسية هي <strong>متوسط تكلفة الروبية</strong>. عندما ينخفض السوق، تشتري مساهمتك الثابتة وحدات أكثر؛ وعندما يرتفع، تشتري وحدات أقل. بمرور الوقت، يؤدي ذلك إلى تسوية متوسط سعر الشراء وإزالة الضغط النفسي لمحاولة اختيار نقطة الدخول المثالية. كما يبني عادة ادخار قوية — يعامل العديد من الوافدين استثمارهم الشهري معاملة الفاتورة غير القابلة للتفاوض.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">كيف يعمل SIP الشهري:</p>
+          <p class="text-gray-400 text-sm">الشهر 1: 1,000 ريال ÷ صافي قيمة الأصل 10 = 100 وحدة · الشهر 2: 1,000 ريال ÷ صافي قيمة الأصل 8 = 125 وحدة · الشهر 3: 1,000 ريال ÷ صافي قيمة الأصل 12 = 83 وحدة</p>
+          <p class="text-gray-400 text-sm mt-2">إجمالي المستثمر: 3,000 ريال · إجمالي الوحدات: 308 · متوسط تكلفة الوحدة: 9.74 ريال</p>
         </div>
+        <p class="mt-4">
+          الحد الأدنى في معظم المنصات السعودية هو 500–1,000 ريال شهريًا. احسب توقعات النمو الخاصة بك مجانًا عبر <a href="/sip-calculator">حاسبة عوائد SIP</a>.
+        </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
         <h2>ما هو الاستثمار بمبلغ إجمالي (Lump Sum)؟</h2>
         <p>
-          استثمار المبلغ الإجمالي يضع كل رأس مالك في صفقة واحدة. يعمل بشكل أفضل عندما يكون لديك مبلغ كبير متاح فورًا وكانت السوق بأسعار معقولة — يبدأ رأس مالك الكامل في النمو من اليوم الأول.
+          الاستثمار بمبلغ إجمالي يضع رأس مالك كله في السوق في معاملة واحدة. تحدد المبلغ، وتختار الصندوق، وتستثمره كله دفعة واحدة. الميزة الرئيسية هي <strong>التعرض الفوري للسوق</strong> — تبدأ محفظتك كلها في التضاعف من اليوم الأول.
         </p>
         <p>
-          المثال السعودي الكلاسيكي هو <strong>مكافأة نهاية الخدمة (EOSB)</strong>. عند ترك العمل، تحصل على مكافأة لمرة واحدة. غالبًا ما يكون استثمار هذا المبلغ دفعة واحدة أفضل من تجزئته، لأن أموالك تعمل طوال الفترة من اليوم الأول.
+          الجانب الآخر هو <strong>مخاطر التوقيت</strong>. إذا استثمرت قبل تصحيح السوق مباشرة، يتأثر رأس مالك كله بالانخفاض دفعة واحدة. لا يوجد متوسط ليخفف الصدمة، وقد يكون من الصعب نفسيًا البقاء مستثمرًا عندما تشاهد رصيدًا كبيرًا يهبط. يعمل الاستثمار بمبلغ إجمالي بشكل أفضل عندما يكون لديك مبلغ كبير لمرة واحدة (مثل مكافأة نهاية الخدمة أو مكافأة) وسوق بأسعار معقولة.
         </p>
-        <p>
-          قبل الاستثمار، احسب بالضبط مقدار مكافأتك باستخدام <a href="/eosb-calculator">حاسبة EOSB</a> — ثم قرر المبلغ الذي يذهب كدفعة واحدة مقابل SIP شهري.
-        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 نصيحة للوافدين</p>
+          <p class="text-sm mt-1">بالنسبة للعديد من الوافدين، أول مبلغ إجمالي يستثمرونه هو مكافأة نهاية الخدمة. احسب بالضبط ما يحق لك باستخدام <a href="/eosb-calculator">حاسبة مكافأة نهاية الخدمة</a> قبل أن تقرر المبلغ الذي ستستثمره.</p>
+        </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>SIP مقابل المبلغ الإجمالي: مقارنة مباشرة</h2>
+        <h2>SIP مقابل المبلغ الإجمالي: جدول مقارنة مفصل</h2>
         <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
           <table class="w-full">
             <thead>
@@ -4329,257 +4484,659 @@ export const articles: Article[] = [
               </tr>
             </thead>
             <tbody>
-              <tr class="border-b border-gray-800"><td class="py-2">الأفضل لـ</td><td class="py-2">الموظفين ذوي الدخل الشهري لبناء عادة</td><td class="py-2">مكافآت نهاية الخدمة، المكافآت، الميراث</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">تقلب السوق</td><td class="py-2">مخفف عبر المتوسط</td><td class="py-2">تعرض كامل من اليوم الأول</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">الوقت في السوق</td><td class="py-2">أقل في البداية</td><td class="py-2">أقصى حد فورًا</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">الانضباط</td><td class="py-2">عادة شهرية مدمجة</td><td class="py-2">يتطلب ضبط النفس</td></tr>
-              <tr><td class="py-2">الميل التاريخي</td><td class="py-2">يفوز في الأسواق الثابتة/الجانبية</td><td class="py-2">يفوز في الأسواق الصاعدة</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">مستوى المخاطر</td><td class="py-2">أقل — متوسط عبر الزمن</td><td class="py-2">أعلى — تعرض كامل دفعة واحدة</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">إمكانات العائد</td><td class="py-2">جيدة في الأسواق المتقلبة/المسطحة</td><td class="py-2">الأفضل في الأسواق الصاعدة بثبات</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">الأفضل لـ</td><td class="py-2">الوافدين الموظفين، المستثمرين الجدد، الدخل الشهري</td><td class="py-2">مكافأة نهاية الخدمة، المكافآت، الميراث، المستثمرين الخبراء</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">ظروف السوق</td><td class="py-2">الأسواق المتقلبة أو الهابطة أو الجانبية</td><td class="py-2">الأسواق الصاعدة أو الصاعدة بقوة أو أسواق الانهيارات الرخيصة</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">الوقت في السوق</td><td class="py-2">يبني تدريجيًا</td><td class="py-2">أقصى حد من اليوم الأول</td></tr>
+              <tr><td class="py-2">الانضباط المطلوب</td><td class="py-2">عادة شهرية مدمجة</td><td class="py-2">ضبط ذاتي عالٍ</td></tr>
             </tbody>
           </table>
         </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>مثال عملي</h2>
-        <p>مبلغ 120,000 ريال للاستثمار على مدى 10 سنوات بعائد سنوي 8%:</p>
+        <h2>متى تختار SIP؟</h2>
+        <p>اختر SIP إذا كان أي مما يلي ينطبق عليك:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>تحصل على راتب شهري منتظم.</strong> يحول SIP دورة راتبك إلى دورة استثمار — فعّله تلقائيًا ولن يفوتك شهر أبدًا.</li>
+          <li><strong>أنت تتجنب المخاطر.</strong> التوسيط يقلل الألم النفسي لانخفاض السوق لأن جزءًا من أموالك ما زال ينتظر على الهامش.</li>
+          <li><strong>السوق متقلب.</strong> في الأسواق المتقلبة، الشراء عبر SIP عند عدة نقاط سعرية يتفوق على محاولة توقيت دخول واحد.</li>
+          <li><strong>أنت مستثمر جديد.</strong> الالتزام الشهري الصغير أسهل للبدء من مخاطرة كبيرة لمرة واحدة.</li>
+          <li><strong>تريد عادة طويلة الأجل.</strong> تتضاعف استثمارات SIP بشكل رائع على مدى 5–10+ سنوات.</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 جرّب النمذجة</p>
+          <p class="text-sm mt-1">استخدم <a href="/sip-calculator">حاسبة عوائد SIP</a> لترى كيف ينمو استثمار شهري بقيمة 1,000 ريال على مدى 5 أو 10 أو 20 عامًا.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>متى تختار الاستثمار بمبلغ إجمالي؟</h2>
+        <p>اختر المبلغ الإجمالي إذا انطبقت هذه الشروط:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>حصلت على مبلغ كبير لمرة واحدة.</strong> مكافأة نهاية الخدمة، أو مكافأة، أو ميراث، أو بيع أصل.</li>
+          <li><strong>انهار السوق للتو.</strong> تاريخيًا، الاستثمار بمبلغ إجمالي بعد تصحيح كبير مباشرة حقق بعضًا من أفضل العوائد طويلة الأجل.</li>
+          <li><strong>أنت مستثمر خبير.</strong> تفهم التقلب ويمكنك البقاء هادئًا عندما ينخفض رصيدك 20%.</li>
+          <li><strong>لديك أفق زمني طويل.</strong> على مدى 10+ سنوات، الاستثمار المبكر يفوز دائمًا تقريبًا.</li>
+          <li><strong>تريد أقصى قدر من التضاعف.</strong> كل يوم تكون فيه أموالك مستثمرة، تعمل لصالحك.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">نهج هجين ذكي يستخدمه العديد من الوافدين:</p>
+          <p class="text-gray-400 text-sm">استثمر 50% من مكافأة نهاية الخدمة فورًا كمبلغ إجمالي، ثم وزّع الـ 50% المتبقية على مدى 6–12 شهرًا كاستثمار SIP. هذا يحقق مكاسب السوق مع الحد من مخاطر التوقيت.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مثال واقعي: استثمار 12,000 ريال في السوق السعودي</h2>
+        <p>لنقارن وافدين في الرياض، يستثمر كل منهما 12,000 ريال على مدى عام بعائد سنوي متوقع 8%:</p>
         <div class="space-y-3">
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">مبلغ إجمالي: 120,000 ريال الآن</p>
-            <p class="text-gray-400 text-sm">القيمة المستقبلية ≈ 259,000 ريال. رأس مالك الكامل يتراكم طوال 10 سنوات — أعلى نمو عندما ترتفع الأسواق باستمرار.</p>
+            <p class="text-white font-medium">SIP: 1,000 ريال شهريًا لمدة 12 شهرًا</p>
+            <p class="text-gray-400 text-sm">إجمالي المستثمر: 12,000 ريال. نظرًا لتوزيع المساهمات، يبلغ متوسط رأس المال المستثمر نحو 6,000 ريال على مدار العام. القيمة المستقبلية عند 8% ≈ 12,533 ريال.</p>
           </div>
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">SIP: 1,000 ريال شهريًا</p>
-            <p class="text-gray-400 text-sm">القيمة المستقبلية ≈ 184,000 ريال. أبطأ في النمو، لكنه يخفف الانخفاضات ويبقيك مستثمرًا بالكامل بدفعات شهرية منتظمة.</p>
+            <p class="text-white font-medium">مبلغ إجمالي: 12,000 ريال دفعة واحدة</p>
+            <p class="text-gray-400 text-sm">إجمالي المستثمر: 12,000 ريال. يتضاعف المبلغ كله طوال 12 شهرًا. القيمة المستقبلية عند 8% ≈ 12,960 ريال.</p>
           </div>
         </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">سيناريو السوق</th>
+                <th class="text-left py-2">SIP (1,000 ريال/شهر)</th>
+                <th class="text-left py-2">المبلغ الإجمالي (12,000 ريال)</th>
+                <th class="text-left py-2">الفائز</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">صعود ثابت (+8%)</td><td class="py-2">12,533 ريال</td><td class="py-2">12,960 ريال</td><td class="py-2 text-green-400">المبلغ الإجمالي</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">تقلب ثم تعافٍ</td><td class="py-2">12,480 ريال</td><td class="py-2">12,180 ريال</td><td class="py-2 text-green-400">SIP</td></tr>
+              <tr><td class="py-2">انخفاض 10% ثم استقرار</td><td class="py-2">11,200 ريال</td><td class="py-2">10,800 ريال</td><td class="py-2 text-green-400">SIP</td></tr>
+            </tbody>
+          </table>
+        </div>
         <p class="mt-3">
-          كلا السيناريوهين يمكن نمذجتهما باستخدام <a href="/sip-calculator">حاسبة عوائد SIP</a>، التي تتيح لك أيضًا مقارنة الاستراتيجيتين مباشرة.
+          الخلاصة: في السوق الصاعد، يفوز المبلغ الإجمالي لأن الوقت في السوق مهم. في السوق المتقلب أو الهابط، يفوز SIP لأن التوسيط يشتري وحدات أرخص. جرّب السيناريوهين بنفسك عبر <a href="/sip-calculator">حاسبة عوائد SIP</a>.
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>أين تستثمر في السعودية</h2>
+        <h2>الآثار الضريبية للوافدين في السعودية</h2>
         <p>
-          قبل الاستثمار، تحقق من قدرتك الاقتراضية والتزاماتك الإجمالية حتى لا تحبس أموالًا قد تحتاجها. استخدم <a href="/sama-loan-calculator">حاسبة قروض ساما</a> للتحقق من بقاء نسبة أعباء الدين ضمن قواعد ساما، و<a href="/zakat-calculator">حاسبة الزكاة</a> للتخطيط لزكاة 2.5% على الاستثمارات المؤهلة كل عام.
+          من أكبر مزايا الاستثمار أثناء الإقامة في السعودية هي <strong>البيئة المعفاة من الضرائب</strong>. لا تفرض المملكة حاليًا <strong>ضريبة دخل شخصي ولا ضريبة على أرباح رأس المال ولا ضريبة على توزيعات الأرباح</strong> على الأفراد. أرباح استثماراتك — سواء من صناديق الاستثمار السعودية أو الأسهم السعودية أو معظم الصناديق الدولية — لا تخضع عمومًا للضريبة في المملكة. كما لا توجد ضريبة وراثة.
         </p>
         <p>
-          تقسيم شائع: احتفظ بصندوق طوارئ نقدًا، واستثمر مكافأة نهاية الخدمة كمبلغ إجمالي للنمو طويل الأجل، وشغّل SIP شهريًا إضافيًا للمدخرات الجديدة. هذه المجموعة تجمع أفضل ما في الاستراتيجيتين.
+          ومع ذلك، يجب عليك التحقق من <strong>قواعد الضرائب في بلدك الأصلي</strong>:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>الهند:</strong> تعتبر "مقيمًا" لأغراض الضريبة إذا كنت متواجدًا في الهند 182+ يومًا في السنة. يدفع المقيمون الهنود ضريبة على الدخل العالمي. الوافدون الذين يقضون أقل من 182 يومًا في الهند سنويًا يتجنبون عادةً الضريبة الهندية على أرباح الاستثمار في السعودية، لكن دخل الأرباح الموزعة خاضع للضريبة.</li>
+          <li><strong>باكستان:</strong> المقيمون خاضعون للضريبة على الدخل العالمي. قد يكون المقيم السعودي المتواجد في باكستان أقل من 183 يومًا غير مقيم لأغراض هيئة الإيرادات الفيدرالية (FBR). راجع اتفاقية الضرائب بين باكستان والسعودية.</li>
+          <li><strong>الفلبين:</strong> المقيمون خاضعون للضريبة على الدخل العالمي. العمال الفلبينيون في الخارج (OFWs) الذين ابتعدوا عن الفلبين 183+ يومًا في السنة يُعاملون كغير مقيمين لأغراض ضريبة الدخل ويُعفون عمومًا من الضريبة الفلبينية على الأرباح الأجنبية.</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">⚠️ مهم</p>
+          <p class="text-sm mt-1">هذه معلومات عامة وليست نصيحة ضريبية. وضعك الشخصي يعتمد على حالة إقامتك وبلدك الأصلي ومدة بقائك خارجها. استشر محاسبًا مؤهلًا لحالتك المحددة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أفضل منصات الاستثمار للوافدين في السعودية</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">المنصات السعودية المحلية (خاضعة لهيئة السوق المالية)</p>
+            <p class="text-gray-400 text-sm">تقدم الراجحي المالية، وSNB كابيتال، ورياض المالية، والفرنسي المالية صناديق استثمارية مع خيارات SIP تبدأ من 500 ريال شهريًا. وتقدم المستشارون الآليون الرقميون مثل دراية سمارت، وملا، وأبيان كابيتال محافظ قائمة على الأهداف ومتوافقة مع الشريعة بحدود دنيا منخفضة. جميعها خاضعة لهيئة السوق المالية.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الوسطاء الدوليون</p>
+            <p class="text-gray-400 text-sm">الوافدون الذين يريدون التعرض للأسواق الأمريكية أو العالمية يستخدمون غالبًا وسطاء دوليين مثل Interactive Brokers أو Sarwa أو eToro. هذه تقبل المقيمين في السعودية لكن قد تكون هناك قيود على بعض الخدمات. تحقق دائمًا من سياسة الوسيط تجاه السعودية قبل تحويل الأموال.</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          للحصول على القائمة الكاملة للمنصات والرسوم والخيارات المتوافقة مع الشريعة، اقرأ <a href="/guide/sip-calculator-saudi-arabia-2026">الدليل الشامل لعوائد SIP وصناديق الاستثمار المشترك في السعودية</a>.
         </p>
       </div>
-      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
-        <h3 class="text-white text-lg font-bold mb-2">قارن خياراتك الآن</h3>
-        <p class="text-gray-400 text-sm mb-4">مجاني — عوائد SIP، والتخطيط لمكافأة نهاية الخدمة، والأهلية للقروض في مكان واحد</p>
-        <a href="/sip-calculator">
-          استخدم حاسبة SIP المجانية
-        </a>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">1. ما الأفضل للوافدين في السعودية: SIP أم المبلغ الإجمالي؟</p>
+            <p class="text-gray-400 text-sm">بالنسبة للوافدين الموظفين، يعد SIP عادةً الخيار الأكثر عملية لأنه يناسب دورة الدخل الشهري ويقلل مخاطر التوقيت. أما لمكافأة نهاية الخدمة لمرة واحدة، فإن المبلغ الإجمالي — أو النهج الهجين 50/50 — يعمل غالبًا بشكل أفضل. يعتمد ذلك على تحملك للمخاطر وظروف السوق.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">2. هل SIP أفضل عندما يكون السوق متقلبًا؟</p>
+            <p class="text-gray-400 text-sm">نعم. متوسط تكلفة الروبية يعني أن مبلغك الشهري الثابت يشتري وحدات أكثر عندما تنخفض الأسعار، مما يخفض متوسط التكلفة لكل وحدة ويوازن العوائد بمرور الوقت.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">3. هل يتفوق المبلغ الإجمالي دائمًا على SIP؟</p>
+            <p class="text-gray-400 text-sm">لا. تُظهر الدراسات أن المبالغ الإجمالية تفوز في نحو ثلثي الحالات في الأسواق الصاعدة بثبات لأن المال يتضاعف مبكرًا. لكن في الأسواق الهابطة أو المسطحة، يفوز SIP بالمتوسط الهبوطي. تاريخيًا على مدى 10+ سنوات، يميل المبلغ الإجمالي إلى التقدم، لكن الفرق يضيق في الفترات المتقلبة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">4. هل توجد أي ضريبة على عوائد الاستثمار في السعودية؟</p>
+            <p class="text-gray-400 text-sm">لا توجد ضريبة دخل شخصي أو أرباح رأس مال أو توزيعات أرباح على الأفراد في السعودية اليوم. ومع ذلك، قد يفرض بلدك الأصلي ضريبة على دخلك العالمي اعتمادًا على حالة إقامتك، لذا تحقق من القواعد المحلية لديك.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">5. ما الحد الأدنى لبدء SIP في السعودية؟</p>
+            <p class="text-gray-400 text-sm">تقبل معظم المنصات استثمارات شهرية من 100 ريال (دراية) إلى 1,000 ريال (SNB كابيتال). كما أن العديد من الصناديق ليس لديها حد أدنى للمبالغ الإجمالية، لكن 500–1,000 ريال شهريًا خط أساس شائع.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">6. هل يمكنني القيام بـ SIP والمبلغ الإجمالي في الوقت نفسه؟</p>
+            <p class="text-gray-400 text-sm">نعم — يستثمر العديد من الوافدين مكافأة نهاية الخدمة كمبلغ إجمالي ويديرون SIP شهريًا إضافيًا من رواتبهم. هذا يجمع بين أقصى تضاعف وانضباط مستمر.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">7. كيف تتناسب مكافأة نهاية الخدمة مع هذا القرار؟</p>
+            <p class="text-gray-400 text-sm">مكافأة نهاية الخدمة عادةً هي أكبر مبلغ إجمالي يحصل عليه الوافد. إذا كنت تغادر أو تنتقل بين وظائف، قرر ما إذا كنت ستستثمرها كاملة دفعة واحدة، أو تقسمها كـ SIP، أو تتبع نهجًا هجينًا. استخدم <a href="/eosb-calculator">حاسبة مكافأة نهاية الخدمة</a> لمعرفة المبلغ الدقيق أولًا.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الخلاصة والخطوات التالية</h2>
+        <p>
+          لا توجد استراتيجية "أفضل" واحدة — توجد الاستراتيجية التي تناسب دخلك وتحمل المخاطر وظروف السوق. يفوز SIP بالانضباط والتوسيط وسهولة الجانب النفسي. ويفوز المبلغ الإجمالي بالوقت في السوق والتضاعف في الأسواق الصاعدة. بالنسبة للعديد من الوافدين في السعودية، أنسب خطوة هي النهج الهجين: استثمار المبالغ الكبيرة المفاجئة كمبلغ إجمالي وإدارة SIP شهري من الراتب.
+        </p>
+        <p>
+          جاهز للبدء؟ احسب أرقامك بـ <a href="/sip-calculator">حاسبة عوائد SIP</a>، ثم اقرأ <a href="/guide/sip-calculator-saudi-arabia-2026">الدليل الشامل لعوائد SIP وصناديق الاستثمار المشترك في السعودية</a> لتفاصيل المنصات واختيارات الصناديق.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">قارن خياراتك الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاني — عوائد SIP، وتخطيط نهاية الخدمة، وأهلية القروض في مكان واحد</p>
+          <a href="/sip-calculator">استخدم حاسبة SIP المجانية</a>
+        </div>
       </div>
     `, ur: `
       <div class="text-center mb-8">
         <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">فنانس گائیڈ</p>
-        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب میں SIP بمقابلہ لَمپ سم انویسٹنگ: 2026 میں کون جیتتا ہے؟</h1>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب 2026 میں SIP بمقابلہ لَمپ سم انویسٹمنٹ: وافدین کے لیے کون سا بہتر ہے؟</h1>
         <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
-          کیا آپ کو اپنی بچت ہر ماہ تھوڑی تھوڑی مارکیٹ میں ڈالنی چاہیے، یا ایک بڑی رقم ایک ساتھ؟ دونوں حکمت عملیاں کام کرتی ہیں — لیکن بہت مختلف حالات میں۔ یہاں انتخاب کا طریقہ ہے، سعودی حقیقی اعداد کے ساتھ۔
+          آپ نے محنت کی، ہر مہینے اپنی تنخواہ بچائی، اور اب آپ کے پاس سرمایہ کاری کے لیے ایک رقم تیار ہے۔ کیا آپ اسے ایک ساتھ لَمپ سم کے طور پر لگائیں، یا سسٹیمیٹک انویسٹمنٹ پلان (SIP) کے ذریعے ماہانہ تقسیم کریں؟ یہ گائیڈ سعودی عرب میں وافدین کے لیے دونوں حکمت عملیوں کو توڑ کر پیش کرتا ہے — حقیقی ریال نمبرز، ٹیکس نوٹس، اور 2026 کے لیے پلیٹ فارم کی سفارشات کے ساتھ۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تعارف: وافد کا سرمایہ کاری کا مسئلہ</h2>
+        <p>
+          سعودی عرب میں ہر وافد کو دیر یا سویر یہی سوال درپیش آتا ہے۔ آخر کار آپ کے پاس ایک معقول بچت ہے — چاہے وہ ماہانہ تنخواہ کے سرپلس سے ہو، پرفارمنس بونس سے، یا سروس سے فارغ ہونے کی رقم (EOSB) جیسے لَمپ سم سے۔ فطری جذبہ اسے لگانے کا ہوتا ہے۔ لیکن جیسے ہی آپ سرمایہ کاری ایپ کھولتے ہیں، آپ ایک سنگم پر پہنچ جاتے ہیں:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li>آج ہی سب کچھ ایک ساتھ لگا دیں (لَمپ سم)</li>
+          <li>اسے تقسیم کر کے ہر مہینے ایک مقررہ رقم لگائیں (SIP)</li>
+        </ul>
+        <p>
+          کوئی عالمگیر "درست" جواب نہیں ہے۔ تحقیق سے پتہ چلتا ہے کہ مستحکم بڑھتی ہوئی مارکیٹوں میں لَمپ سم تاریخی طور پر تقریباً دو تہائی معاملات میں SIP کو پیچھے چھوڑتا ہے، کیونکہ آپ کا پیسہ پہلے مرکب ہونا شروع ہو جاتا ہے۔ لیکن جب مارکیٹ اتار چڑھاؤ کا شکار یا گرتی ہوتی ہے تو SIP چمکتا ہے، کیونکہ روپیہ کاسٹ ایوریجنگ آپ کو کم قیمتوں پر زیادہ یونٹ خریدنے دیتی ہے۔ مستحکم ماہانہ آمدنی والے ملازمت پیشہ وافدین کے لیے، SIP اکثر نفسیاتی اور عملی طور پر بہتر فٹ ہوتا ہے۔ یہ گائیڈ آپ کو فیصلے کا فریم ورک دیتا ہے — ساتھ ہی ایک عملی 12,000 ریال کی مثال تاکہ آپ دیکھ سکیں کہ ہر حکمت عملی بالکل کیسے برتاؤ کرتی ہے۔
+        </p>
+        <p>
+          اگر آپ مملکت میں سرمایہ کاری کے نئے ہیں، تو پہلے ہماری <a href="/guide/sip-calculator-saudi-arabia-2026">سعودی عرب میں SIP اور میوچل فنڈ سرمایہ کاری ریٹرن کی مکمل گائیڈ</a> پڑھیں، پھر حکمت عملیوں کا موازنہ کرنے یہاں واپس آئیں۔
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
         <h2>SIP (سسٹیمیٹک انویسٹمنٹ پلان) کیا ہے؟</h2>
         <p>
-          SIP میوچل فنڈ میں باقاعدہ وقفوں پر مقررہ رقم لگاتا ہے — عام طور پر ماہانہ۔ وقت کے ساتھ جب قیمتیں کم ہوتی ہیں تو آپ زیادہ یونٹ خریدتے ہیں اور جب زیادہ ہوتی ہیں تو کم، اس طریقہ کار کو <strong>روپیہ کاسٹ ایوریجنگ</strong> کہتے ہیں۔ یہ مارکیٹ کے اتار چڑھاؤ کو ہموار کرتا ہے اور خودکار بچت کی عادت بناتا ہے۔
+          سسٹیمیٹک انویسٹمنٹ پلان (SIP) ایک منضبط طریقہ ہے جس میں آپ ایک مقررہ رقم باقاعدہ وقفوں پر میوچل فنڈ میں لگاتے ہیں — عام طور پر ماہانہ۔ مارکیٹ کا وقت جاننے کی کوشش کرنے کے بجائے، آپ مستقل سرمایہ کاری کا عہد کرتے ہیں چاہے قیمتیں زیادہ ہوں یا کم۔
         </p>
         <p>
-          زیادہ تر سعودی بینک اور اثاثہ مینیجرز (الراجحي کیپٹل، ایس این بی کیپٹل، رياض کیپٹل، ساب، سعودی فرانسی کیپٹل) SIP آپشنز کے ساتھ میوچل فنڈز پیش کرتے ہیں، بشمول شرعی تعمیل والے فنڈز۔ کم از کم ماہانہ سرمایہ کاری عام طور پر SAR 500–1,000 سے شروع ہوتی ہے۔
+          بنیادی فائدہ <strong>روپیہ کاسٹ ایوریجنگ</strong> ہے۔ جب مارکیٹ گرتی ہے، آپ کی مقررہ رقم زیادہ یونٹ خریدتی ہے؛ جب بڑھتی ہے، کم یونٹ خریدتی ہے۔ وقت گزرنے کے ساتھ، یہ آپ کی اوسط خرید قیمت کو ہموار کر دیتا ہے اور بہترین داخلے کا نقطہ چننے کے جذباتی دباؤ کو ختم کر دیتا ہے۔ یہ ایک مضبوط بچت کی عادت بھی بناتا ہے — بہت سے وافدین اپنے ماہانہ SIP کو ناقابلِ مذاکرہ بل کی طرح مانتے ہیں۔
         </p>
-        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
-          <p class="text-sm font-medium text-desert-primary">🧮 اسے ماڈل کریں</p>
-          <p class="text-sm mt-1">ماہانہ سرمایہ کاری مرکب سود کے ساتھ 5، 10 یا 20 سال میں کیسے بڑھتی ہے دیکھنے کے لیے <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> استعمال کریں۔</p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">ماہانہ SIP کیسے کام کرتا ہے:</p>
+          <p class="text-gray-400 text-sm">مہینہ 1: 1,000 ریال ÷ NAV 10 = 100 یونٹ · مہینہ 2: 1,000 ریال ÷ NAV 8 = 125 یونٹ · مہینہ 3: 1,000 ریال ÷ NAV 12 = 83 یونٹ</p>
+          <p class="text-gray-400 text-sm mt-2">کل سرمایہ کاری: 3,000 ریال · کل یونٹس: 308 · اوسط لاگت فی یونٹ: 9.74 ریال</p>
         </div>
+        <p class="mt-4">
+          زیادہ تر سعودی پلیٹ فارمز پر کم از کم رقم 500–1,000 ریال ماہانہ ہے۔ اپنے نمو کے تخمینے ہمارے مفت <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> سے بنائیں۔
+        </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
         <h2>لَمپ سم انویسٹمنٹ کیا ہے؟</h2>
         <p>
-          لَمپ سم آپ کا پورا سرمایہ ایک ہی لین دین میں لگاتا ہے۔ یہ بہترین کام کرتا ہے جب آپ کے پاس فوری طور پر بڑی رقم موجود ہو اور مارکیٹ مناسب قیمتوں پر ہو — آپ کا پورا سرمایہ پہلے دن سے بڑھنا شروع ہو جاتا ہے۔
+          لَمپ سم سرمایہ کاری آپ کا پورا سرمایہ ایک ہی لین دین میں مارکیٹ میں ڈال دیتی ہے۔ آپ رقم طے کرتے ہیں، فنڈ منتخب کرتے ہیں، اور سب کچھ ایک ساتھ لگا دیتے ہیں۔ اہم فائدہ <strong>فوری مارکیٹ نمائش</strong> ہے — آپ کا پورا پورٹ فولیو پہلے دن سے مرکب ہونا شروع ہو جاتا ہے۔
         </p>
         <p>
-          کلاسیکی سعودی مثال <strong>اختتام خدمات بینیفٹ (EOSB)</strong> ہے۔ جب آپ نوکری چھوڑتے ہیں تو آپ کو ایک بار کی گریجویٹی ملتی ہے۔ اس پوری رقم کو ایک ساتھ لگانا اکثر تقسیم کرنے سے بہتر ہوتا ہے، کیونکہ آپ کے پیسے پہلے دن سے پوری مدت کے لیے کام کرتے ہیں۔
+          الٹا پہلو <strong>ٹائمنگ رسک</strong> ہے۔ اگر آپ مارکیٹ کی اصلاح سے ٹھیک پہلے سرمایہ کاری کرتے ہیں، تو آپ کا پورا سرمایہ ایک ساتھ گراوٹ برداشت کرتا ہے۔ گراوٹ کو نرم کرنے کے لیے کوئی اوسط نہیں ہوتی، اور نفسیاتی طور پر بڑے بیلنس کو گرتے دیکھ کر لگا رہنا مشکل ہو سکتا ہے۔ لَمپ سم اس وقت بہترین کام کرتا ہے جب آپ کے پاس ایک بڑی ایک بار رقم ہو (جیسے EOSB ادائیگی یا بونس) اور مارکیٹ مناسب قیمتوں پر ہو۔
         </p>
-        <p>
-          سرمایہ کاری سے پہلے، <a href="/eosb-calculator">EOSB کیلکولیٹر</a> کے ساتھ معلوم کریں کہ آپ کی ادائیگی بالکل کتنی ہوگی — پھر فیصلہ کریں کہ کتنی رقم لَمپ سم جائے گی اور کتنی ماہانہ SIP میں۔
-        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 وافد ٹِپ</p>
+          <p class="text-sm mt-1">بہت سے وافدین کے لیے، وہ پہلا لَمپ سم جو وہ لگاتے ہیں وہ سروس سے فارغ ہونے کی رقم ہے۔ یہ طے کرنے سے پہلے کہ کتنی رقم لگانی ہے، <a href="/eosb-calculator">EOSB کیلکولیٹر</a> سے اپنی صحیح رقم نکالیں۔</p>
+        </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>SIP بمقابلہ لَمپ سم: شانہ بشانہ</h2>
+        <h2>SIP بمقابلہ لَمپ سم: تفصیلی موازنہ جدول</h2>
         <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
           <table class="w-full">
             <thead>
               <tr class="text-white border-b border-gray-700">
-                <th class="text-left py-2">عامل</th>
+                <th class="text-left py-2">عنصر</th>
                 <th class="text-left py-2">SIP</th>
                 <th class="text-left py-2">لَمپ سم</th>
               </tr>
             </thead>
             <tbody>
-              <tr class="border-b border-gray-800"><td class="py-2">بہترین برائے</td><td class="py-2">تنخواہ دار بچت کرنے والے عادت بنانے کے لیے</td><td class="py-2">EOSB، بونس، وراثت</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">مارکیٹ اتار چڑھاؤ</td><td class="py-2">ایوریجنگ سے ہموار</td><td class="py-2">پہلے دن سے مکمل نمائش</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">مارکیٹ میں وقت</td><td class="py-2">ابتدائی طور پر کم</td><td class="py-2">فوری طور پر زیادہ سے زیادہ</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">نظم و ضبط</td><td class="py-2">خودکار ماہانہ عادت</td><td class="py-2">خود پر قابو درکار</td></tr>
-              <tr><td class="py-2">تاریخی رجحان</td><td class="py-2">فلیٹ/سائیڈ ویز مارکیٹوں میں جیتتا ہے</td><td class="py-2">بڑھتی ہوئی مارکیٹوں میں جیتتا ہے</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">رسک لیول</td><td class="py-2">کم — وقت کے ساتھ اوسط</td><td class="py-2">زیادہ — ایک ساتھ مکمل نمائش</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">ریٹرن کی صلاحیت</td><td class="py-2">اتار چڑھاؤ والی/فلیٹ مارکیٹوں میں اچھی</td><td class="py-2">مستحکم بڑھتی مارکیٹوں میں بہترین</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">کس کے لیے بہترین</td><td class="py-2">ملازمت پیشہ وافدین، نئے سرمایہ کار، ماہانہ آمدنی</td><td class="py-2">EOSB، بونس، وراثت، تجربہ کار سرمایہ کار</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">مارکیٹ کے حالات</td><td class="py-2">اتار چڑھاؤ والی، گرتی، یا سائیڈ ویز مارکیٹیں</td><td class="py-2">بڑھتی، بیلش، یا کریش سستے مواقع والی مارکیٹیں</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">مارکیٹ میں وقت</td><td class="py-2">آہستہ آہستہ بڑھتا ہے</td><td class="py-2">پہلے دن سے زیادہ سے زیادہ</td></tr>
+              <tr><td class="py-2">درکار ضبط</td><td class="py-2">بلٹ اِن ماہانہ عادت</td><td class="py-2">اعلیٰ خود ضبطی</td></tr>
             </tbody>
           </table>
         </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>ایک عملی مثال</h2>
-        <p>10 سال کے لیے 8% سالانہ منافع پر 120,000 SAR سرمایہ کاری:</p>
+        <h2>SIP کب منتخب کریں؟</h2>
+        <p>SIP منتخب کریں اگر ان میں سے کوئی بھی آپ پر صادق آتا ہو:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>آپ باقاعدہ ماہانہ تنخواہ کماتے ہیں۔</strong> SIP آپ کے تنخواہ کے چکر کو سرمایہ کاری کے چکر میں بدل دیتا ہے — اسے خودکار کریں اور آپ کبھی کوئی مہینہ نہیں چھوڑیں گے۔</li>
+          <li><strong>آپ رسک سے گریز کرتے ہیں۔</strong> اوسط بنانا مارکیٹ گراوٹ کے جذباتی درد کو کم کرتا ہے کیونکہ آپ کا کچھ پیسہ ابھی سائیڈ لائن پر انتظار کر رہا ہوتا ہے۔</li>
+          <li><strong>مارکیٹ اتار چڑھاؤ کا شکار ہے۔</strong> غیر مستحکم مارکیٹوں میں، کئی قیمتوں پر SIP خریداری ایک ہی داخلے کا وقت جاننے سے بہتر ہے۔</li>
+          <li><strong>آپ نئے سرمایہ کار ہیں۔</strong> چھوٹا ماہانہ عہد بڑی ایک بار رسک سے شروع کرنا آسان ہے۔</li>
+          <li><strong>آپ طویل مدتی عادت چاہتے ہیں۔</strong> SIPs 5–10+ سالوں میں خوبصورتی سے مرکب ہوتے ہیں۔</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 ماڈل بنائیں</p>
+          <p class="text-sm mt-1">یہ دیکھنے کے لیے <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> استعمال کریں کہ 1,000 ریال کی ماہانہ سرمایہ کاری 5، 10، یا 20 سال میں کیسے بڑھتی ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>لَمپ سم کب منتخب کریں؟</h2>
+        <p>لَمپ سم منتخب کریں اگر یہ لاگو ہوں:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>آپ کو ایک بڑی ایک بار رقم ملی۔</strong> EOSB، بونس، وراثت، یا کسی اثاثے کی فروخت۔</li>
+          <li><strong>مارکیٹ ابھی گری ہے۔</strong> تاریخی طور پر، بڑی اصلاح کے فوراً بعد لَمپ سم لگانے نے کچھ بہترین طویل مدتی ریٹرن دیے ہیں۔</li>
+          <li><strong>آپ تجربہ کار سرمایہ کار ہیں۔</strong> آپ اتار چڑھاؤ سمجھتے ہیں اور اپنا بیلنس 20% گرتے دیکھ کر پرسکون رہ سکتے ہیں۔</li>
+          <li><strong>آپ کا افق طویل ہے۔</strong> 10+ سالوں میں، جلد سرمایہ کاری تقریباً ہمیشہ جیتتی ہے۔</li>
+          <li><strong>آپ زیادہ سے زیادہ مرکب چاہتے ہیں۔</strong> ہر دن جب آپ کا پیسہ لگا ہوتا ہے، یہ آپ کے لیے کام کرتا ہے۔</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">بہت سے وافدین کا ہوشیار ہائبرڈ طریقہ:</p>
+          <p class="text-gray-400 text-sm">اپنے EOSB کا 50% فوراً لَمپ سم کے طور پر لگائیں، پھر بقیہ 50% کو اگلے 6–12 مہینوں میں SIP کے طور پر پھیلائیں۔ یہ ٹائمنگ رسک محدود کرتے ہوئے منافع حاصل کرتا ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>حقیقی مثال: سعودی مارکیٹ میں 12,000 ریال کی سرمایہ کاری</h2>
+        <p>آئیے ریاض کے دو وافدین کا موازنہ کریں، ہر ایک 8% متوقع سالانہ ریٹرن پر ایک سال میں 12,000 ریال لگاتا ہے:</p>
         <div class="space-y-3">
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">لَمپ سم: ابھی 120,000 SAR</p>
-            <p class="text-gray-400 text-sm">مستقبل کی قیمت ≈ 259,000 SAR۔ آپ کا پورا سرمایہ 10 سال تک مرکب ہوتا ہے — سب سے زیادہ نمو جب مارکیٹیں مستقل بڑھیں۔</p>
+            <p class="text-white font-medium">SIP: 12 ماہ کے لیے ماہانہ 1,000 ریال</p>
+            <p class="text-gray-400 text-sm">کل سرمایہ کاری: 12,000 ریال۔ چونکہ اقساط تقسیم ہیں، اوسط سرمایہ شدہ سرمایہ سال بھر میں تقریباً 6,000 ریال ہے۔ 8% پر مستقبل کی قیمت ≈ 12,533 ریال۔</p>
           </div>
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">SIP: 1,000 SAR ماہانہ</p>
-            <p class="text-gray-400 text-sm">مستقبل کی قیمت ≈ 184,000 SAR۔ بڑھنے میں سست، لیکن کمیوں کو اوسط کرتا ہے اور آپ کو منظم ماہانہ قسطوں میں مکمل سرمایہ کاری رکھتا ہے۔</p>
+            <p class="text-white font-medium">لَمپ سم: ایک ساتھ 12,000 ریال</p>
+            <p class="text-gray-400 text-sm">کل سرمایہ کاری: 12,000 ریال۔ پوری رقم پورے 12 مہینے مرکب ہوتی ہے۔ 8% پر مستقبل کی قیمت ≈ 12,960 ریال۔</p>
           </div>
         </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">مارکیٹ کا منظر</th>
+                <th class="text-left py-2">SIP (1,000 ریال/مہینہ)</th>
+                <th class="text-left py-2">لَمپ سم (12,000 ریال)</th>
+                <th class="text-left py-2">جیتنے والا</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">مستحکم اضافہ (+8%)</td><td class="py-2">12,533 ریال</td><td class="py-2">12,960 ریال</td><td class="py-2 text-green-400">لَمپ سم</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">اتار چڑھاؤ، پھر بحالی</td><td class="py-2">12,480 ریال</td><td class="py-2">12,180 ریال</td><td class="py-2 text-green-400">SIP</td></tr>
+              <tr><td class="py-2">مارکیٹ 10% گری پھر فلیٹ</td><td class="py-2">11,200 ریال</td><td class="py-2">10,800 ریال</td><td class="py-2 text-green-400">SIP</td></tr>
+            </tbody>
+          </table>
+        </div>
         <p class="mt-3">
-          دونوں منظرنامے <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> کے ساتھ ماڈل کیے گئے ہیں، جو آپ کو دونوں حکمت عملیوں کا براہِ راست موازنہ بھی کرنے دیتا ہے۔
+          نتیجہ: بڑھتی مارکیٹ میں لَمپ سم جیتتا ہے کیونکہ مارکیٹ میں وقت اہم ہے۔ اتار چڑھاؤ والی یا گرتی مارکیٹ میں SIP جیتتا ہے کیونکہ اوسط بنانا سستے یونٹ خریدتا ہے۔ دونوں منظر خود <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> سے چلائیں۔
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>سعودی عرب میں کہاں سرمایہ کاری کریں</h2>
+        <h2>سعودی عرب میں وافدین کے لیے ٹیکس اثرات</h2>
         <p>
-          سرمایہ کاری سے پہلے، اپنی قرض لینے کی صلاحیت اور کل ذمہ داریاں چیک کریں تاکہ آپ کبھی ایسی رقم بند نہ کریں جس کی آپ کو ضرورت پڑ سکتی ہے۔ یہ تصدیق کرنے کے لیے <a href="/sama-loan-calculator">ساما لون کیلکولیٹر</a> استعمال کریں کہ آپ کا ڈیبٹ برڈن ریشو ساما کے قواعد کے اندر رہتا ہے، اور ہر سال اہل سرمایہ کاری پر 2.5% زکوٰۃ کی منصوبہ بندی کے لیے <a href="/zakat-calculator">زکوٰۃ کیلکولیٹر</a> استعمال کریں۔
+          سعودی عرب میں رہتے ہوئے سرمایہ کاری کے سب سے بڑے فوائد میں سے ایک <strong>ٹیکس سے پاک ماحول</strong> ہے۔ مملکت فی الحال افراد پر <strong>کوئی ذاتی انکم ٹیکس، کوئی کیپٹل گینز ٹیکس، اور کوئی ڈیویڈنڈ ٹیکس</strong> عائد نہیں کرتی۔ آپ کے سرمایہ کاری کے منافع — چاہے سعودی میوچل فنڈز سے ہوں، سعودی اسٹاکس سے، یا زیادہ تر بین الاقوامی فنڈز سے — عام طور پر مملکت میں ٹیکس کے تابع نہیں۔ وراثت کا ٹیکس بھی نہیں ہے۔
         </p>
         <p>
-          ایک عام تقسیم: ایمرجنسی فنڈ نقد میں رکھیں، طویل مدتی نمو کے لیے اپنا EOSB لَمپ سم کے طور پر لگائیں، اور نئی بچت کے لیے اوپر ماہانہ SIP چلائیں۔ یہ مجموعہ دونوں حکمت عملیوں کا بہترین حصہ لیتا ہے۔
+          تاہم، آپ کو اپنے <strong>وطن کے ٹیکس قواعد</strong> جانچنے چاہئیں:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>بھارت:</strong> اگر آپ سال میں 182+ دن بھارت میں موجود ہیں تو آپ ٹیکس کے لیے "مقیم" ہیں۔ بھارتی مقیم عالمی آمدنی پر ٹیکس دیتے ہیں۔ جو وافد سال میں 182 دن سے کم بھارت میں گزارتے ہیں وہ عام طور پر سعودی سرمایہ کاری منافع پر بھارتی ٹیکس سے بچتے ہیں، لیکن ڈیویڈنڈ آمدنی قابلِ ٹیکس ہے۔</li>
+          <li><strong>پاکستان:</strong> مقیم عالمی آمدنی پر ٹیکس دیتے ہیں۔ سعودی مقیم جو پاکستان میں 183 دن سے کم موجود ہو وہ FBR مقاصد کے لیے غیر مقیم ہو سکتا ہے۔ پاکستان–سعودیہ ٹیکس معاہدے کا جائزہ لیں۔</li>
+          <li><strong>فلپائن:</strong> مقیم عالمی آمدنی پر ٹیکس دیتے ہیں۔ OFWs (اوورسیز فلیپینو ورکرز) جو سال میں 183+ دن فلپائن سے دور رہے ہیں انہیں انکم ٹیکس کے لیے غیر مقیم سمجھا جاتا ہے اور وہ عام طور پر غیر ملکی آمدنی پر فلپائنی ٹیکس سے مستثنیٰ ہیں۔</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">⚠️ اہم</p>
+          <p class="text-sm mt-1">یہ عمومی معلومات ہے، ٹیکس مشورہ نہیں۔ آپ کا ذاتی حال آپ کی رہائش کی حیثیت، وطن، اور باہر رہنے کے دورانیے پر منحصر ہے۔ اپنے مخصوص کیس کے لیے ایک مستند اکاؤنٹنٹ سے رجوع کریں۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>KSA میں وافدین کے لیے بہترین سرمایہ کاری پلیٹ فارمز</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مقامی سعودی پلیٹ فارمز (CMA ریگولیٹڈ)</p>
+            <p class="text-gray-400 text-sm">الراجحي کیپٹل، SNB کیپٹل، ریاض کیپٹل، اور سعودی فرانسی کیپٹل 500 ریال ماہانہ سے میوچل فنڈز پیش کرتے ہیں۔ ڈریا سمارٹ، ملاء، اور ابیان کیپٹل جیسے ڈیجیٹل روبو ایڈوائزرز کم حدوں کے ساتھ مقصد پر مبنی، شریعت مطابق پورٹ فولیو پیش کرتے ہیں۔ یہ سب کیپٹل مارکیٹ اتھارٹی کے زیرِ ضابطہ ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">بین الاقوامی بروکرز</p>
+            <p class="text-gray-400 text-sm">وہ وافد جو امریکی یا عالمی مارکیٹوں تک رسائی چاہتے ہیں وہ اکثر Interactive Brokers، Sarwa، یا eToro جیسے بین الاقوامی بروکرز استعمال کرتے ہیں۔ یہ سعودی مقیمین کو قبول کرتے ہیں لیکن بعض خدمات پر پابندیاں ہو سکتی ہیں۔ فنڈز منتقل کرنے سے پہلے ہمیشہ سعودیہ کے بارے میں بروکر کی پالیسی چیک کریں۔</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          پلیٹ فارمز، فیسوں، اور شریعت مطابق اختیارات کی مکمل تفصیل کے لیے، ہماری <a href="/guide/sip-calculator-saudi-arabia-2026">سعودی عرب میں SIP اور میوچل فنڈ سرمایہ کاری ریٹرن کی مکمل گائیڈ</a> پڑھیں۔
         </p>
       </div>
-      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
-        <h3 class="text-white text-lg font-bold mb-2">ابھی اپنے اختیارات کا موازنہ کریں</h3>
-        <p class="text-gray-400 text-sm mb-4">مفت — SIP منافع، EOSB منصوبہ بندی، اور قرض کی اہلیت ایک جگہ</p>
-        <a href="/sip-calculator">
-          مفت SIP کیلکولیٹر استعمال کریں
-        </a>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے گئے سوالات</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">1. سعودی عرب میں وافدین کے لیے کون سا بہتر ہے: SIP یا لَمپ سم؟</p>
+            <p class="text-gray-400 text-sm">ملازمت پیشہ وافدین کے لیے، SIP عام طور پر زیادہ عملی انتخاب ہے کیونکہ یہ ماہانہ آمدنی کے چکر کے مطابق ہوتا ہے اور ٹائمنگ رسک کم کرتا ہے۔ ایک بار EOSB ادائیگی کے لیے، لَمپ سم — یا 50/50 ہائبرڈ — اکثر بہتر کام کرتا ہے۔ یہ آپ کی رسک برداشت اور مارکیٹ کے حالات پر منحصر ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">2. کیا مارکیٹ اتار چڑھاؤ میں SIP بہتر ہے؟</p>
+            <p class="text-gray-400 text-sm">ہاں۔ روپیہ کاسٹ ایوریجنگ کا مطلب ہے کہ آپ کی مقررہ ماہانہ رقم قیمتوں گرنے پر زیادہ یونٹ خریدتی ہے، جس سے فی یونٹ اوسط لاگت کم ہوتی ہے اور وقت کے ساتھ ریٹرن ہموار ہوتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">3. کیا لَمپ سم ہمیشہ SIP سے بہتر ہوتا ہے؟</p>
+            <p class="text-gray-400 text-sm">نہیں۔ مطالعات سے پتہ چلتا ہے کہ مستحکم بڑھتی مارکیٹوں میں لَمپ سم تقریباً دو تہائی معاملات میں جیتتا ہے کیونکہ پیسہ پہلے مرکب ہوتا ہے۔ لیکن گرتی یا فلیٹ مارکیٹوں میں، SIP اوسط نیچے کر کے جیتتا ہے۔ تاریخی طور پر 10+ سالوں میں لَمپ سم آگے رہتا ہے، لیکن اتار چڑھاؤ والے ادوار میں فرق کم ہو جاتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">4. کیا سعودی عرب میں سرمایہ کاری ریٹرن پر کوئی ٹیکس ہے؟</p>
+            <p class="text-gray-400 text-sm">آج سعودی عرب میں افراد پر کوئی ذاتی انکم، کیپٹل گینز، یا ڈیویڈنڈ ٹیکس نہیں ہے۔ تاہم، آپ کا وطن آپ کی رہائش کی حیثیت کے لحاظ سے آپ کی عالمی آمدنی پر ٹیکس لگا سکتا ہے، اس لیے اپنے مقامی قواعد چیک کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">5. سعودی عرب میں SIP شروع کرنے کی کم از کم رقم کیا ہے؟</p>
+            <p class="text-gray-400 text-sm">زیادہ تر پلیٹ فارمز 100 ریال (ڈریا) سے 1,000 ریال (SNB کیپٹل) تک ماہانہ SIP قبول کرتے ہیں۔ بہت سے فنڈز کے پاس لَمپ سم کی کم از کم حد بھی نہیں ہے، لیکن 500–1,000 ریال ماہانہ عام بنیادی خط ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">6. کیا میں SIP اور لَمپ سم ایک ساتھ کر سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm">ہاں — بہت سے وافدین اپنا EOSB لَمپ سم کے طور پر لگاتے ہیں اور اپنی تنخواہ سے ماہانہ SIP بھی چلاتے ہیں۔ یہ زیادہ سے زیادہ مرکب کو جاری ضبط کے ساتھ جوڑتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">7. میرا EOSB اس فیصلے میں کیسے فٹ ہوتا ہے؟</p>
+            <p class="text-gray-400 text-sm">سروس سے فارغ ہونے کی رقم عام طور پر سب سے بڑا لَمپ سم ہے جو وافد کو ملتا ہے۔ اگر آپ جا رہے ہیں یا نوکری بدل رہے ہیں، تو فیصلہ کریں کہ اسے ایک ساتھ لگانا ہے، SIP کے طور پر تقسیم کرنا ہے، یا ہائبرڈ کرنا ہے۔ پہلے اپنی صحیح رقم جاننے کے لیے <a href="/eosb-calculator">EOSB کیلکولیٹر</a> استعمال کریں۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>نتیجہ اور اگلے اقدامات</h2>
+        <p>
+          کوئی ایک "بہترین" حکمت عملی نہیں ہے — ایسی حکمت عملی ہے جو آپ کی آمدنی، رسک برداشت، اور مارکیٹ کے حالات کے مطابق ہو۔ SIP ضبط، اوسط بنانے، اور جذباتی آسانی پر جیتتا ہے۔ لَمپ سم مارکیٹ میں وقت اور بڑھتی مارکیٹوں میں مرکب پر جیتتا ہے۔ سعودی عرب میں بہت سے وافدین کے لیے، سب سے ہوشیار اقدام ہائبرڈ ہے: بڑی ایک بار رقم لَمپ سم کے طور پر لگائیں اور اپنی تنخواہ سے ماہانہ SIP چلائیں۔
+        </p>
+        <p>
+          شروع کرنے کے لیے تیار؟ اپنے نمبرز <a href="/sip-calculator">SIP ریٹرن کیلکولیٹر</a> سے بنائیں، پھر پلیٹ فارم کی تفصیلات اور فنڈ انتخاب کے لیے <a href="/guide/sip-calculator-saudi-arabia-2026">سعودی عرب میں SIP اور میوچل فنڈ سرمایہ کاری ریٹرن کی مکمل گائیڈ</a> پڑھیں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنے اختیارات کا موازنہ کریں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — SIP ریٹرن، EOSB پلاننگ، اور لون اہلیت ایک جگہ</p>
+          <a href="/sip-calculator">مفت SIP کیلکولیٹر استعمال کریں</a>
+        </div>
       </div>
     `, tl: `
       <div class="text-center mb-8">
         <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay sa Pananalapi</p>
-        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">SIP vs Lump Sum Investing sa Saudi Arabia: Alin ang Panalo sa 2026?</h1>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">SIP vs Lump Sum Investment sa Saudi Arabia 2026: Alin ang Mas Mabuti para sa mga Ekspat?</h1>
         <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
-          Dapat mo bang unti-unting ilagay ang iyong ipon sa merkado bawat buwan, o mamuhunan ng isang malaking halaga nang sabay-sabay? Gumagana ang parehong estratehiya — ngunit sa ibang-ibang sitwasyon. Narito kung paano pumili, gamit ang totoong Saudi na numero.
+          Nagtrabaho ka nang husto, nag-ipon mula sa iyong buwanang sahod, at ngayon may pera ka nang handang i-invest. I-invest mo ba ito nang sabay-sabay bilang lump sum, o hatiin at mag-invest ng fixed amount kada buwan sa pamamagitan ng Systematic Investment Plan (SIP)? Ipinapaliwanag ng gabay na ito ang parehong estratehiya para sa mga ekspat sa Saudi Arabia — may totoong SAR numbers, tax notes, at platform recommendations para sa 2026.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Panimula: Ang Dilemma sa Pamumuhunan ng Ekspat</h2>
+        <p>
+          Bawat ekspat sa Saudi Arabia ay haharap sa parehong tanong maaga o huli. Mayroon ka nang makabuluhang ipon — mula man sa sobra ng buwanang sahod, isang performance bonus, o isang lump sum tulad ng End of Service Benefit (EOSB). Likas ang instinct na i-invest ito. Ngunit pagbukas mo ng investing app, nasa sangandaan ka na:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li>I-invest ang lahat ngayon nang sabay-sabay (lump sum)</li>
+          <li>Hatiin ito at mag-invest ng fixed amount kada buwan (SIP)</li>
+        </ul>
+        <p>
+          Walang unibersal na "tamang" sagot. Ipinapakita ng pananaliksik na ang lump sums ay pansamantalang tinatalo ang SIP sa humigit-kumulang dalawang-katlo ng mga pagkakataon sa patuloy na tumataas na merkado, dahil mas maagang nagko-compound ang iyong pera. Ngunit sumasagana ang SIP kapag volatile o bumabagsak ang merkado, dahil pinapayagan ka ng rupee-cost averaging na bumili ng mas maraming units sa mas mababang presyo. Para sa mga empleyadong ekspat na may steady na buwanang kita, kadalasang mas akma ang SIP sa sikolohikal at praktikal na paraan. Ibinibigay sa iyo ng gabay na ito ang framework para magdesisyon — kasama ang worked example na SAR 12,000 upang makita mo nang eksakto kung paano kumikilos ang bawat estratehiya.
+        </p>
+        <p>
+          Kung bago ka sa pamumuhunan sa Kaharian, magsimula sa aming <a href="/guide/sip-calculator-saudi-arabia-2026">Kumpletong Gabay sa SIP at Mutual Fund Investment Returns sa Saudi Arabia</a> muna, pagkatapos ay bumalik dito upang ihambing ang mga estratehiya.
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
         <h2>Ano ang SIP (Systematic Investment Plan)?</h2>
         <p>
-          Ang SIP ay nag-iinvest ng nakapirming halaga sa isang mutual fund sa regular na pagitan — karaniwang buwan-buwan. Sa paglipas ng panahon bumibili ka ng mas maraming units kapag mababa ang presyo at mas kaunti kapag mataas, isang mekanismong tinatawag na <strong>rupee-cost averaging</strong>. Pinapakinis nito ang pagbabagu-bago ng merkado at bumubuo ng awtomatikong ugali sa pag-iipon.
+          Ang Systematic Investment Plan (SIP) ay isang disiplinadong paraan upang mag-invest ng fixed na halaga sa isang mutual fund sa regular na pagitan — karaniwang buwanan. Sa halip na subukang i-time ang merkado, nangangako kang mag-invest nang tuloy-tuloy kahit mataas o mababa ang presyo.
         </p>
         <p>
-          Karamihan sa mga Saudi bank at asset manager (Al Rajhi Capital, SNB Capital, Riyad Capital, SABB, Saudi Fransi Capital) ay nag-aalok ng mutual funds na may SIP options, kabilang ang mga Sharia-compliant fund. Karaniwang nagsisimula ang minimum monthly investment sa SAR 500–1,000.
+          Ang pangunahing benepisyo ay ang <strong>rupee-cost averaging</strong>. Kapag bumabagsak ang merkado, bumibili ang iyong fixed contribution ng mas maraming units; kapag tumataas, kakaunti ang nabibili nito. Sa paglipas ng panahon, ito ay nagpapakinis ng iyong average purchase price at inaalis ang emotional stress ng pagpili ng perpektong entry point. Bumubuo rin ito ng malakas na ugali sa pag-iimpok — maraming ekspat ang tinatrato ang buwanang SIP na parang hindi mapag-usapan na bill.
         </p>
-        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
-          <p class="text-sm font-medium text-desert-primary">🧮 I-modelo ito</p>
-          <p class="text-sm mt-1">Gamitin ang <a href="/sip-calculator">SIP Return Calculator</a> upang makita kung paano lumalaki ang isang buwanang pamumuhunan sa loob ng 5, 10, o 20 taon sa pamamagitan ng compounding.</p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">Paano gumagana ang buwanang SIP:</p>
+          <p class="text-gray-400 text-sm">Buwan 1: SAR 1,000 ÷ NAV 10 = 100 units · Buwan 2: SAR 1,000 ÷ NAV 8 = 125 units · Buwan 3: SAR 1,000 ÷ NAV 12 = 83 units</p>
+          <p class="text-gray-400 text-sm mt-2">Kabuuang ininvest: SAR 3,000 · Kabuuang units: 308 · Average cost bawat unit: SAR 9.74</p>
         </div>
+        <p class="mt-4">
+          Ang minimum sa karamihan ng Saudi platforms ay SAR 500–1,000 kada buwan. I-modelo ang iyong sariling growth projections gamit ang aming libreng <a href="/sip-calculator">SIP Return Calculator</a>.
+        </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
         <h2>Ano ang Lump Sum Investment?</h2>
         <p>
-          Ang lump sum ay nag-iinvest ng iyong buong kapital sa isang transaksyon. Pinakamainam ito kapag mayroon kang malaking halaga ng pera na agad na magagamit at ang merkado ay nasa makatwirang presyo — ang iyong buong kapital ay nagsisimulang mag-compound mula unang araw.
+          Ang lump sum investment ay inilalagay ang iyong buong kapital sa merkado sa isang transaksyon. Magpasya ka sa halaga, pumili ng fund, at i-invest lahat nang sabay-sabay. Ang pangunahing bentahe ay ang <strong>immediate market exposure</strong> — ang iyong buong portfolio ay nagsisimulang mag-compound mula sa unang araw.
         </p>
         <p>
-          Ang klasikong Saudi na halimbawa ay ang <strong>End of Service Benefit (EOSB)</strong>. Kapag umalis ka sa trabaho, makakatanggap ka ng one-time gratuity. Ang pag-invest ng buong halagang iyon nang sabay-sabay ay kadalasang mas mainam kaysa unti-unti, dahil gumagana ang iyong pera nang buong panahon mula unang araw.
+          Ang kabaligtaran ay ang <strong>timing risk</strong>. Kung mag-iinvest ka bago pa lamang ang market correction, ang iyong buong kapital ay sasalo sa pagbagsak nang sabay-sabay. Walang averaging para mapahina ang dagok, at sikolohikal na mahirap manatiling invested kapag pinapanood mong bumabagsak ang malaking balanse. Pinakamabuting gumagana ang lump sum kapag may malaking one-time na halaga ka (tulad ng EOSB payout o bonus) at makatwirang presyo ang merkado.
         </p>
-        <p>
-          Bago mag-invest, alamin nang eksakto kung magkano ang iyong payout gamit ang <a href="/eosb-calculator">EOSB Calculator</a> — pagkatapos ay magpasya kung magkano ang ilalagay bilang lump sum kumpara sa buwanang SIP.
-        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 Tip para sa ekspat</p>
+          <p class="text-sm mt-1">Para sa maraming ekspat, ang unang lump sum na kanilang ini-invest ay ang kanilang End of Service Benefit. Alamin kung ano ang nararapat sa iyo gamit ang <a href="/eosb-calculator">EOSB Calculator</a> bago magpasiya kung magkano ang i-invest.</p>
+        </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>SIP vs Lump Sum: Magkatabi</h2>
+        <h2>SIP vs Lump Sum: Detalyadong Talahanayan ng Paghahambing</h2>
         <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
           <table class="w-full">
             <thead>
               <tr class="text-white border-b border-gray-700">
-                <th class="text-left py-2">Factor</th>
+                <th class="text-left py-2">Salik</th>
                 <th class="text-left py-2">SIP</th>
                 <th class="text-left py-2">Lump Sum</th>
               </tr>
             </thead>
             <tbody>
-              <tr class="border-b border-gray-800"><td class="py-2">Pinakamainam para sa</td><td class="py-2">Mga may suweldo na nagtatatag ng ugali</td><td class="py-2">EOSB, bonus, mana</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Pagbabago ng merkado</td><td class="py-2">Pinapakinis sa pamamagitan ng averaging</td><td class="py-2">Buong exposure mula unang araw</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Oras sa merkado</td><td class="py-2">Mas mababa sa simula</td><td class="py-2">Maximum agad</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Disiplina</td><td class="py-2">Nakapaloob na buwanang ugali</td><td class="py-2">Nangangailangan ng self-control</td></tr>
-              <tr><td class="py-2">Makasaysayang tendensya</td><td class="py-2">Panalo sa flat/sideways markets</td><td class="py-2">Panalo sa tumataas na markets</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Antas ng panganib</td><td class="py-2">Mas mababa — na-average sa paglipas ng panahon</td><td class="py-2">Mas mataas — buong exposure nang sabay-sabay</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Potensyal ng returns</td><td class="py-2">Mabuti sa volatile/flat na merkado</td><td class="py-2">Pinakamabuti sa patuloy na tumataas na merkado</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Pinakamabuti para sa</td><td class="py-2">Empleyadong ekspat, bagong investors, buwanang kita</td><td class="py-2">EOSB, bonuses, inheritance, may karanasang investors</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Kondisyon ng merkado</td><td class="py-2">Volatile, bumabagsak, o sideways na merkado</td><td class="py-2">Tumataas, bullish, o crash-bargain na merkado</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Oras sa merkado</td><td class="py-2">Unti-unting nabubuo</td><td class="py-2">Pinakamataas mula sa unang araw</td></tr>
+              <tr><td class="py-2">Kinakailangang disiplina</td><td class="py-2">Nakapaloob na buwanang ugali</td><td class="py-2">Mataas na self-control</td></tr>
             </tbody>
           </table>
         </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>Isang Worked Example</h2>
-        <p>SAR 120,000 na i-invest sa loob ng 10 taon sa 8% annual return:</p>
+        <h2>Kailan Mo Dapat Piliin ang SIP?</h2>
+        <p>Piliin ang SIP kung may tumutugma sa iyo:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>Kumikita ka ng regular na buwanang sahod.</strong> Ginagawang investment cycle ng SIP ang iyong sahod — i-automate ito at hindi ka makakaligta ng buwan.</li>
+          <li><strong>Iwas-panganib ka.</strong> Binabawasan ng averaging ang emosyonal na sakit ng pagbagsak ng merkado dahil ang bahagi ng iyong pera ay naghihintay pa sa gilid.</li>
+          <li><strong>Volatile ang merkado.</strong> Sa magulong merkado, ang pagbili ng SIP sa maraming presyo ay higit sa pagtatangkang i-time ang isang entry.</li>
+          <li><strong>Bago kang investor.</strong> Mas madaling simulan ang maliit na buwanang commitment kaysa malaking one-time risk.</li>
+          <li><strong>Gusto mo ng pangmatagalang ugali.</strong> Ang mga SIP ay magandang nagko-compound sa loob ng 5–10+ taon.</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 I-modelo ito</p>
+          <p class="text-sm mt-1">Gamitin ang <a href="/sip-calculator">SIP Return Calculator</a> upang makita kung paano lumalaki ang SAR 1,000 na buwanang investment sa loob ng 5, 10, o 20 taon.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Kailan Mo Dapat Piliin ang Lump Sum?</h2>
+        <p>Piliin ang lump sum kung naaangkop ang mga ito:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>Nakatanggap ka ng malaking one-time na halaga.</strong> EOSB, bonus, inheritance, o pagbebenta ng asset.</li>
+          <li><strong>Kababalag bagsak lang ng merkado.</strong> Sa kasaysayan, ang pag-iinvest ng lump sum pagkatapos ng malaking correction ay nagbigay ng ilan sa pinakamabubuting pangmatagalang returns.</li>
+          <li><strong>May karanasan kang investor.</strong> Nauunawaan mo ang volatility at kayang manatiling kalmado kapag bumababa ang balanse mo ng 20%.</li>
+          <li><strong>Mahabang time horizon mo.</strong> Sa 10+ taon, ang mas maagang pag-iinvest ay halos palaging nananalo.</li>
+          <li><strong>Gusto mo ng maximum compounding.</strong> Bawat araw na invested ang pera mo, nagtatrabaho ito para sa iyo.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">Isang matalinong hybrid approach na ginagamit ng maraming ekspat:</p>
+          <p class="text-gray-400 text-sm">I-invest ang 50% ng iyong EOSB kaagad bilang lump sum, pagkatapos ay ikalat ang natitirang 50% sa susunod na 6–12 buwan bilang SIP. Nakukuha nito ang upside habang nililimitahan ang timing risk.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Halimbawa sa Tunay na Buhay: SAR 12,000 Investment sa Saudi Market</h2>
+        <p>Ihambing natin ang dalawang ekspat sa Riyadh, bawat isa ay nag-iinvest ng SAR 12,000 sa loob ng isang taon sa inaasahang 8% annual return:</p>
         <div class="space-y-3">
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">Lump sum: SAR 120,000 ngayon</p>
-            <p class="text-gray-400 text-sm">Future value ≈ SAR 259,000. Ang iyong buong kapital ay nag-compound sa lahat ng 10 taon — pinakamataas na paglago kapag patuloy na tumataas ang merkado.</p>
+            <p class="text-white font-medium">SIP: SAR 1,000 kada buwan sa loob ng 12 buwan</p>
+            <p class="text-gray-400 text-sm">Kabuuang ininvest: SAR 12,000. Dahil nakalat ang mga kontribusyon, ang average invested capital ay humigit-kumulang SAR 6,000 sa loob ng taon. Future value sa 8% ≈ SAR 12,533.</p>
           </div>
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">SIP: SAR 1,000/buwan</p>
-            <p class="text-gray-400 text-sm">Future value ≈ SAR 184,000. Mas mabagal lumaki, ngunit ina-average ang mga pagbaba at pinananatili kang ganap na invested sa disiplinadong buwanang halaga.</p>
+            <p class="text-white font-medium">Lump Sum: SAR 12,000 nang sabay-sabay</p>
+            <p class="text-gray-400 text-sm">Kabuuang ininvest: SAR 12,000. Ang buong halaga ay nagko-compound sa buong 12 buwan. Future value sa 8% ≈ SAR 12,960.</p>
           </div>
         </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Scenario ng Market</th>
+                <th class="text-left py-2">SIP (SAR 1,000/buwan)</th>
+                <th class="text-left py-2">Lump Sum (SAR 12,000)</th>
+                <th class="text-left py-2">Mananalo</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">Patuloy na pagtaas (+8%)</td><td class="py-2">SAR 12,533</td><td class="py-2">SAR 12,960</td><td class="py-2 text-green-400">Lump Sum</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Volatile, bumaba pagkatapos nakabangon</td><td class="py-2">SAR 12,480</td><td class="py-2">SAR 12,180</td><td class="py-2 text-green-400">SIP</td></tr>
+              <tr><td class="py-2">Bumaba ng 10% ang merkado pagkatapos flat</td><td class="py-2">SAR 11,200</td><td class="py-2">SAR 10,800</td><td class="py-2 text-green-400">SIP</td></tr>
+            </tbody>
+          </table>
+        </div>
         <p class="mt-3">
-          Ang parehong scenario ay namodelo gamit ang <a href="/sip-calculator">SIP Return Calculator</a>, na nagbibigay-daan din sa iyong direktang ihambing ang dalawang estratehiya.
+          Ang mahalagang aral: sa tumataas na merkado, nananalo ang lump sum dahil mahalaga ang oras sa merkado. Sa volatile o bumabagsak na merkado, nananalo ang SIP dahil bumibili ang averaging ng mas murang units. Patakbuhin ang parehong scenario gamit ang <a href="/sip-calculator">SIP Return Calculator</a>.
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>Saan Mamumuhunan sa Saudi Arabia</h2>
+        <h2>Mga Implikasyon sa Buwis para sa mga Ekspat sa Saudi Arabia</h2>
         <p>
-          Bago mag-invest, suriin ang iyong kakayahan sa paghiram at kabuuang obligasyon upang hindi mo kailanman i-lock ang perang maaaring kailanganin mo. Gamitin ang <a href="/sama-loan-calculator">SAMA Loan Calculator</a> upang i-verify na nananatili sa loob ng mga patakaran ng SAMA ang iyong Debt Burden Ratio, at ang <a href="/zakat-calculator">Zakat Calculator</a> upang magplano para sa 2.5% zakat sa mga kwalipikadong pamumuhunan bawat taon.
+          Isa sa pinakamalaking bentahe ng pag-iinvest habang naninirahan sa Saudi Arabia ay ang <strong>tax-free na kapaligiran</strong>. Ang Kaharian ay kasalukuyang hindi nagpapataw ng <strong>personal income tax, capital gains tax, o dividend tax</strong> sa mga indibidwal. Ang iyong mga investment profits — mula man sa Saudi mutual funds, Saudi stocks, o karamihan sa international funds — ay karaniwang hindi binubuwisan sa Kaharian. Wala ring inheritance tax.
         </p>
         <p>
-          Isang karaniwang split: panatilihin ang emergency fund sa cash, i-invest ang iyong EOSB bilang lump sum para sa pangmatagalang paglago, at magpatakbo ng buwanang SIP sa itaas para sa mga bagong ipon. Pinagsasama ng kumbinasyong ito ang pinakamahusay sa parehong estratehiya.
+          Gayunpaman, dapat mong suriin ang <strong>mga alituntunin sa buwis ng iyong sariling bansa</strong>:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>India:</strong> Ikaw ay "resident" para sa mga layunin ng buwis kung naroroon ka sa India ng 182+ araw sa isang taon. Binabayaran ng Indian residents ang buwis sa worldwide income. Ang mga ekspat na gumugugol ng wala pang 182 araw sa India kada taon ay karaniwang umiiwas sa Indian tax sa Saudi investment gains, ngunit taxable ang dividend income.</li>
+          <li><strong>Pakistan:</strong> Binabayaran ng mga residente ang buwis sa worldwide income. Ang isang Saudi resident na naroroon sa Pakistan nang wala pang 183 araw ay maaaring ituring na non-resident para sa FBR purposes. Suriin ang Pakistan–Saudi tax treaty.</li>
+          <li><strong>Philippines:</strong> Binabayaran ng mga residente ang buwis sa worldwide income. Ang mga OFW (Overseas Filipino Workers) na wala sa Pilipinas ng 183+ araw sa isang taon ay itinuturing na non-residents para sa income tax purposes at karaniwang exempt sa Philippine tax sa foreign earnings.</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">⚠️ Mahalaga</p>
+          <p class="text-sm mt-1">Ito ay pangkalahatang impormasyon, hindi payo sa buwis. Ang iyong personal na sitwasyon ay nakasalalay sa iyong residency status, bansang pinagmulan, at tagal ng pananatili mo sa labas nito. Kumonsulta sa kwalipikadong accountant para sa iyong partikular na kaso.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pinakamabubuting Investment Platform para sa mga Ekspat sa KSA</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Mga Lokal na Saudi Platform (CMA-regulated)</p>
+            <p class="text-gray-400 text-sm">Ang Al Rajhi Capital, SNB Capital, Riyad Capital, at Saudi Fransi Capital ay nag-aalok ng mga mutual fund na may SIP options mula sa kasing mababa ng SAR 500/buwan. Ang mga digital robo-advisors tulad ng Derayah Smart, Malaa, at Abyan Capital ay nag-aalok ng goal-based, Sharia-compliant portfolios na may mababang minimums. Lahat ay kinokontrol ng Capital Market Authority.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Mga International Broker</p>
+            <p class="text-gray-400 text-sm">Ang mga ekspat na gusto ng exposure sa US o global markets ay kadalasang gumagamit ng international brokers tulad ng Interactive Brokers, Sarwa, o eToro. Tinatanggap ng mga ito ang Saudi residents ngunit maaaring may mga paghihigpit sa ilang serbisyo. Palaging suriin ang patakaran ng broker sa Saudi Arabia bago maglipat ng pondo.</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          Para sa buong rundown ng mga platform, bayarin, at Sharia-compliant options, basahin ang aming <a href="/guide/sip-calculator-saudi-arabia-2026">Kumpletong Gabay sa SIP at Mutual Fund Investment Returns sa Saudi Arabia</a>.
         </p>
       </div>
-      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
-        <h3 class="text-white text-lg font-bold mb-2">Ihambing ang Iyong Mga Opsyon Ngayon</h3>
-        <p class="text-gray-400 text-sm mb-4">Libre — mga return ng SIP, pagpaplano ng EOSB, at pagiging kwalipikado sa loan sa isang lugar</p>
-        <a href="/sip-calculator">
-          Gamitin ang Libreng SIP Calculator
-        </a>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">1. Alin ang mas mabuti para sa mga ekspat sa Saudi Arabia: SIP o lump sum?</p>
+            <p class="text-gray-400 text-sm">Para sa mga empleyadong ekspat, ang SIP ay karaniwang mas praktikal na pagpili dahil akma ito sa buwanang income cycle at binabawasan ang timing risk. Para sa one-time EOSB payout, madalas na mas gumagana ang lump sum — o 50/50 hybrid. Depende ito sa iyong risk tolerance at market conditions.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">2. Mas mabuti ba ang SIP kapag volatile ang merkado?</p>
+            <p class="text-gray-400 text-sm">Oo. Ang rupee-cost averaging ay nangangahulugang mas maraming units ang nabibili ng iyong fixed monthly amount kapag bumababa ang presyo, na nagpapababa sa average cost bawat unit at nagpapakinis ng returns sa paglipas ng panahon.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">3. Lagi bang tinatalo ng lump sum ang SIP?</p>
+            <p class="text-gray-400 text-sm">Hindi. Ipinapakita ng mga pag-aaral na nananalo ang lump sums sa humigit-kumulang dalawang-katlo ng mga kaso sa patuloy na tumataas na merkado dahil mas maagang nagko-compound ang pera. Ngunit sa bumabagsak o flat na merkado, nananalo ang SIP sa pamamagitan ng pag-average pababa. Sa kasaysayan sa 10+ taon, may tendency na manguna ang lump sum, ngunit lumiliit ang agwat sa mga volatile period.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">4. May buwis ba sa investment returns sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm">Walang personal income, capital gains, o dividend tax na naaangkop sa mga indibidwal sa Saudi Arabia ngayon. Gayunpaman, maaaring buwisan ng iyong sariling bansa ang iyong worldwide income depende sa iyong residency status, kaya suriin ang iyong lokal na mga alituntunin.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">5. Ano ang minimum na halaga para magsimula ng SIP sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm">Karamihan sa mga platform ay tumatanggap ng buwanang SIP mula sa SAR 100 (Derayah) hanggang SAR 1,000 (SNB Capital). Maraming funds din ang walang minimum para sa lump sums, ngunit ang SAR 500–1,000 kada buwan ay karaniwang baseline.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">6. Maaari ko bang gawin ang parehong SIP at lump sum nang sabay?</p>
+            <p class="text-gray-400 text-sm">Oo — maraming ekspat ang nag-iinvest ng kanilang EOSB bilang lump sum at nagpapatakbo ng buwanang SIP mula sa kanilang sahod. Pinagsasama nito ang maximum compounding na may patuloy na disiplina.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">7. Paano umaangkop ang aking EOSB sa desisyong ito?</p>
+            <p class="text-gray-400 text-sm">Ang iyong End of Service Benefit ay karaniwang pinakamalaking lump sum na natatanggap ng isang ekspat. Kung aalis ka o magpapalit ng trabaho, magpasya kung i-invest ito nang sabay-sabay, hahatiin bilang SIP, o gagawa ng hybrid. Gamitin ang <a href="/eosb-calculator">EOSB Calculator</a> upang malaman muna ang eksaktong halaga.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Konklusyon at mga Susunod na Hakbang</h2>
+        <p>
+          Walang nag-iisang "pinakamabuting" estratehiya — may estratehiya na akma sa iyong kita, risk tolerance, at market conditions. Nananalo ang SIP sa disiplina, averaging, at emosyonal na kadalian. Nananalo ang lump sum sa oras sa merkado at compounding sa tumataas na merkado. Para sa maraming ekspat sa Saudi Arabia, ang pinakamatalinong hakbang ay hybrid: i-invest ang malalaking biglaang kita bilang lump sum at magpatakbo ng buwanang SIP mula sa iyong sahod.
+        </p>
+        <p>
+          Handa nang magsimula? I-modelo ang iyong mga numero gamit ang <a href="/sip-calculator">SIP Return Calculator</a>, pagkatapos basahin ang <a href="/guide/sip-calculator-saudi-arabia-2026">Kumpletong Gabay sa SIP at Mutual Fund Investment Returns sa Saudi Arabia</a> para sa mga detalye ng platform at pagpili ng fund.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Ihambing ang Iyong Mga Opsyon Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — SIP returns, EOSB planning, at loan eligibility sa isang lugar</p>
+          <a href="/sip-calculator">Gamitin ang Libreng SIP Calculator</a>
+        </div>
       </div>
     `, bn: `
       <div class="text-center mb-8">
-        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">অর্থ গাইড</p>
-        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি আরবে SIP বনাম এককালীন বিনিয়োগ: ২০২৬ সালে কোনটি জিতবে?</h1>
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">অর্থব্যবস্থা গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি আরব ২০২৬-এ SIP বনাম এককালীন বিনিয়োগ: প্রবাসীদের জন্য কোনটি ভালো?</h1>
         <p class="text-gray-400 mt-3 max-w-2xl mx-auto">
-          আপনার সঞ্চয় কি প্রতিমাসে অল্প অল্প করে বাজারে ঢোকানো উচিত, নাকি একবারে একটি বড় অঙ্ক বিনিয়োগ করা? দুটি কৌশলই কাজ করে — তবে খুব ভিন্ন পরিস্থিতিতে। বাস্তব সৌদি সংখ্যাসহ এখানে কীভাবে বেছে নেবেন তা দেওয়া হলো।
+          আপনি কঠোর পরিশ্রম করেছেন, প্রতি মাসে বেতন থেকে সঞ্চয় করেছেন, এবং এখন আপনার কাছে বিনিয়োগের জন্য একটি অর্থরাশি প্রস্তুত। আপনি কি এটি এককালীন (লাম্প সাম) হিসেবে একসাথে বিনিয়োগ করবেন, নাকি সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান (SIP)-এর মাধ্যমে মাসিক ভাগে? এই গাইডটি সৌদি আরবে প্রবাসীদের জন্য উভয় কৌশল বিশ্লেষণ করে — বাস্তব রিয়াল সংখ্যা, ট্যাক্স নোট এবং ২০২৬ সালের প্ল্যাটফর্ম সুপারিশসহ।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ভূমিকা: প্রবাসীর বিনিয়োগের দ্বিধা</h2>
+        <p>
+          সৌদি আরবের প্রতিটি প্রবাসীকে শিগগির বা দেরিতে একই প্রশ্নের মুখোমুখি হতে হয়। অবশেষে আপনার কাছে একটি অর্থপূর্ণ সঞ্চয় আছে — তা মাসিক বেতনের উদ্বৃত্ত থেকে হোক, পারফরম্যান্স বোনাস থেকে, বা এন্ড অব সার্ভিস বেনিফিট (EOSB)-এর মতো এককালীন অর্থ থেকে। স্বাভাবিক প্রবৃত্তি হলো তা বিনিয়োগ করা। কিন্তু আপনি যেই বিনিয়োগ অ্যাপ খুলবেন, নিজেকে এক মোড়ে দেখতে পাবেন:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li>আজই সবকিছু একসাথে বিনিয়োগ করুন (লাম্প সাম)</li>
+          <li>ভাগ করে প্রতি মাসে একটি নির্দিষ্ট পরিমাণ বিনিয়োগ করুন (SIP)</li>
+        </ul>
+        <p>
+          কোনো সার্বজনীন "সঠিক" উত্তর নেই। গবেষণা দেখায় যে স্থিরভাবে উঠতে থাকা বাজারে লাম্প সাম প্রায় দুই-তৃতীয়াংশ ক্ষেত্রে SIP-কে হারায়, কারণ আপনার অর্থ আগে থেকে চক্রবৃদ্ধি হতে শুরু করে। কিন্তু বাজার অস্থির বা পতনশীল হলে SIP উজ্জ্বল হয়, কারণ রুপি-কস্ট এভারেজিং আপনাকে কম দামে বেশি ইউনিট কিনতে দেয়। স্থির মাসিক আয়ের চাকরিজীবী প্রবাসীদের জন্য, SIP প্রায়শই মানসিক ও বাস্তবিকভাবে ভালো মানানসই। এই গাইডটি আপনাকে সিদ্ধান্তের কাঠামো দেয় — সাথে একটি কার্যকরী ১২,০০০ রিয়াল উদাহরণ যাতে আপনি ঠিক দেখতে পারেন প্রতিটি কৌশল কীভাবে আচরণ করে।
+        </p>
+        <p>
+          যদি আপনি রাজ্যে বিনিয়োগে নতুন হন, তাহলে প্রথমে আমাদের <a href="/guide/sip-calculator-saudi-arabia-2026">সৌদি আরবে SIP ও মিউচুয়াল ফান্ড বিনিয়োগ রিটার্নের সম্পূর্ণ গাইড</a> পড়ুন, তারপর কৌশল তুলনা করতে এখানে ফিরে আসুন।
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
         <h2>SIP (সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান) কী?</h2>
         <p>
-          SIP একটি মিউচুয়াল ফান্ডে নিয়মিত বিরতিতে নির্দিষ্ট অঙ্কের বিনিয়োগ করে — সাধারণত মাসিক। সময়ের সাথে সাথে দাম কম থাকলে আপনি বেশি ইউনিট কিনেন এবং বেশি থাকলে কম, এই প্রক্রিয়াকে বলা হয় <strong>রুপি-কস্ট অ্যাভারেজিং</strong>। এটি বাজারের ওঠানামা মসৃণ করে এবং স্বয়ংক্রিয় সঞ্চয়ের অভ্যাস গড়ে তোলে।
+          সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান (SIP) হলো নিয়মিত বিরতিতে — সাধারণত মাসিক — একটি মিউচুয়াল ফান্ডে নির্দিষ্ট পরিমাণ অর্থ বিনিয়োগের শৃঙ্খলাবদ্ধ উপায়। বাজারের সময় ধরার চেষ্টা করার বদলে, আপনি দাম বেশি বা কম যাই হোক, ধারাবাহিকভাবে বিনিয়োগ করার প্রতিশ্রুতি দেন।
         </p>
         <p>
-          বেশিরভাগ সৌদি ব্যাংক ও অ্যাসেট ম্যানেজার (আল রাজি ক্যাপিটাল, SNB ক্যাপিটাল, রিয়াদ ক্যাপিটাল, SABB, সৌদি ফ্রান্সি ক্যাপিটাল) SIP অপশনসহ মিউচুয়াল ফান্ড অফার করে, যার মধ্যে শরিয়া-সম্মত ফান্ডও রয়েছে। ন্যূনতম মাসিক বিনিয়োগ সাধারণত SAR ৫০০–১,০০০ থেকে শুরু হয়।
+          মূল সুবিধা হলো <strong>রুপি-কস্ট এভারেজিং</strong>। বাজার কমলে আপনার নির্দিষ্ট অবদান বেশি ইউনিট কিনে; বাড়লে কম ইউনিট কিনে। সময়ের সাথে, এটি আপনার গড় ক্রয়মূল্য মসৃণ করে এবং নিখুঁত প্রবেশ বিন্দু বাছাইয়ের মানসিক চাপ দূর করে। এটি একটি শক্তিশালী সঞ্চয় অভ্যাসও গড়ে তোলে — অনেক প্রবাসী তাদের মাসিক SIP-কে অনড় বিলের মতো ব্যবহার করেন।
         </p>
-        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
-          <p class="text-sm font-medium text-desert-primary">🧮 হিসাব করে দেখুন</p>
-          <p class="text-sm mt-1">চক্রবৃদ্ধি সুদের সাথে ৫, ১০ বা ২০ বছরে মাসিক বিনিয়োগ কীভাবে বাড়ে তা দেখতে <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> ব্যবহার করুন।</p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">মাসিক SIP কীভাবে কাজ করে:</p>
+          <p class="text-gray-400 text-sm">মাস ১: ১,০০০ রিয়াল ÷ NAV ১০ = ১০০ ইউনিট · মাস ২: ১,০০০ রিয়াল ÷ NAV ৮ = ১২৫ ইউনিট · মাস ৩: ১,০০০ রিয়াল ÷ NAV ১২ = ৮৩ ইউনিট</p>
+          <p class="text-gray-400 text-sm mt-2">মোট বিনিয়োগ: ৩,০০০ রিয়াল · মোট ইউনিট: ৩০৮ · গড় খরচ প্রতি ইউনিট: ৯.৭৪ রিয়াল</p>
         </div>
+        <p class="mt-4">
+          বেশিরভাগ সৌদি প্ল্যাটফর্মের সর্বনিম্ন পরিমাণ মাসে ৫০০–১,০০০ রিয়াল। আমাদের বিনামূল্যের <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> দিয়ে নিজের বৃদ্ধি প্রক্ষেপণ মডেল করুন।
+        </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
         <h2>এককালীন (লাম্প সাম) বিনিয়োগ কী?</h2>
         <p>
-          লাম্প সাম একক লেনদেনে আপনার সম্পূর্ণ মূলধন বিনিয়োগ করে। এটি তখনই সবচেয়ে ভালো কাজ করে যখন আপনার কাছে তাৎক্ষণিকভাবে বড় অঙ্কের টাকা থাকে এবং বাজার যুক্তিসঙ্গত দামে থাকে — আপনার পুরো মূলধন প্রথম দিন থেকেই চক্রবৃদ্ধি শুরু করে।
+          এককালীন বিনিয়োগ একটি একক লেনদেনে আপনার পুরো মূলধন বাজারে রাখে। আপনি পরিমাণ নির্ধারণ করেন, একটি ফান্ড বাছাই করেন, এবং সবকিছু একসাথে বিনিয়োগ করেন। প্রধান সুবিধা হলো <strong>তাৎক্ষণিক বাজার এক্সপোজার</strong> — আপনার পুরো পোর্টফোলিও প্রথম দিন থেকেই চক্রবৃদ্ধি শুরু করে।
         </p>
         <p>
-          ক্লাসিক সৌদি উদাহরণ হলো <strong>এন্ড-অফ-সার্ভিস বেনিফিট (EOSB)</strong>। চাকরি ছাড়ার সময় আপনি এককালীন গ্র্যাচুইটি পান। সেই পুরো অঙ্ক একবারে বিনিয়োগ করা প্রায়শই ধীরে ধীরে করার চেয়ে ভালো, কারণ আপনার টাকা প্রথম দিন থেকেই পুরো সময় কাজ করে।
+          উল্টো দিকটি হলো <strong>টাইমিং ঝুঁকি</strong>। আপনি যদি বাজার সংশোধনের ঠিক আগে বিনিয়োগ করেন, আপনার পুরো মূলধন একসাথে পতন সহ্য করে। পতন প্রশমিত করার কোনো গড়করণ নেই, এবং মানসিকভাবে বড় ব্যালেন্স পড়তে দেখে বিনিয়োগ করে থাকা কঠিন হতে পারে। এককালীন বিনিয়োগ তখনই সেরা কাজ করে যখন আপনার কাছে বড় একবারের পরিমাণ থাকে (যেমন EOSB পরিশোধ বা বোনাস) এবং বাজার যুক্তিসঙ্গত দামে থাকে।
         </p>
-        <p>
-          বিনিয়োগের আগে <a href="/eosb-calculator">EOSB ক্যালকুলেটর</a> দিয়ে আপনার পেআউট ঠিক কত হবে তা জেনে নিন — তারপর লাম্প সাম বনাম মাসিক SIP-তে কত যাবে তা নির্ধারণ করুন।
-        </p>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">💡 প্রবাসী টিপ</p>
+          <p class="text-sm mt-1">অনেক প্রবাসীর জন্য, তারা যে প্রথম এককালীন অর্থ বিনিয়োগ করেন তা হলো এন্ড অব সার্ভিস বেনিফিট। কত বিনিয়োগ করবেন তা সিদ্ধান্ত নেওয়ার আগে <a href="/eosb-calculator">EOSB ক্যালকুলেটর</a> দিয়ে আপনার প্রাপ্য ঠিক হিসাব করুন।</p>
+        </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>SIP বনাম লাম্প সাম: পাশাপাশি তুলনা</h2>
+        <h2>SIP বনাম লাম্প সাম: বিস্তারিত তুলনা টেবিল</h2>
         <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
           <table class="w-full">
             <thead>
@@ -4590,47 +5147,160 @@ export const articles: Article[] = [
               </tr>
             </thead>
             <tbody>
-              <tr class="border-b border-gray-800"><td class="py-2">সর্বোত্তম</td><td class="py-2">বেতনভোগী সঞ্চয়কারীরা অভ্যাস গড়তে</td><td class="py-2">EOSB, বোনাস, উত্তরাধিকার</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">বাজারের ওঠানামা</td><td class="py-2">অ্যাভারেজিংয়ে মসৃণ</td><td class="py-2">প্রথম দিন থেকে সম্পূর্ণ এক্সপোজার</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">বাজারে সময়</td><td class="py-2">শুরুতে কম</td><td class="py-2">তাৎক্ষণিকভাবে সর্বোচ্চ</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">শৃঙ্খলা</td><td class="py-2">স্বয়ংক্রিয় মাসিক অভ্যাস</td><td class="py-2">আত্মসংযম প্রয়োজন</td></tr>
-              <tr><td class="py-2">ঐতিহাসিক প্রবণতা</td><td class="py-2">স্থির/পার্শ্ববর্তী বাজারে জয়ী</td><td class="py-2">উর্ধ্বগামী বাজারে জয়ী</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">ঝুঁকির মাত্রা</td><td class="py-2">কম — সময়ের সাথে গড়করণ</td><td class="py-2">উচ্চ — একসাথে সম্পূর্ণ এক্সপোজার</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">রিটার্নের সম্ভাবনা</td><td class="py-2">অস্থির/ফ্ল্যাট বাজারে ভালো</td><td class="py-2">স্থিরভাবে উঠতে থাকা বাজারে সেরা</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">যার জন্য সেরা</td><td class="py-2">চাকরিজীবী প্রবাসী, নতুন বিনিয়োগকারী, মাসিক আয়</td><td class="py-2">EOSB, বোনাস, উত্তরাধিকার, অভিজ্ঞ বিনিয়োগকারী</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">বাজারের অবস্থা</td><td class="py-2">অস্থির, পতনশীল, বা পার্শ্ববর্তী বাজার</td><td class="py-2">উঠতে থাকা, বুলিশ, বা পতনে সস্তা বাজার</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">বাজারে সময়</td><td class="py-2">ধীরে ধীরে গড়ে ওঠে</td><td class="py-2">প্রথম দিন থেকেই সর্বোচ্চ</td></tr>
+              <tr><td class="py-2">প্রয়োজনীয় শৃঙ্খলা</td><td class="py-2">অন্তর্নির্মিত মাসিক অভ্যাস</td><td class="py-2">উচ্চ আত্মনিয়ন্ত্রণ</td></tr>
             </tbody>
           </table>
         </div>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>একটি কার্যকরী উদাহরণ</h2>
-        <p>৮% বার্ষিক রিটার্নে ১০ বছরে বিনিয়োগের জন্য SAR ১,২০,০০০:</p>
+        <h2>কখন SIP বেছে নেবেন?</h2>
+        <p>নিচের যেকোনো একটি আপনার ক্ষেত্রে প্রযোজ্য হলে SIP বেছে নিন:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>আপনার নিয়মিত মাসিক বেতন আছে।</strong> SIP আপনার বেতনচক্রকে বিনিয়োগচক্রে পরিণত করে — স্বয়ংক্রিয় করুন এবং আপনি কখনো কোনো মাস মিস করবেন না।</li>
+          <li><strong>আপনি ঝুঁকি-বিমুখ।</strong> গড়করণ বাজার পতনের মানসিক ব্যথা কমায় কারণ আপনার কিছু অর্থ এখনও পাশে অপেক্ষা করছে।</li>
+          <li><strong>বাজার অস্থির।</strong> অস্থির বাজারে, একাধিক মূল্যবিন্দুতে SIP ক্রয় একটি একক প্রবেশের সময় ধরার চেয়ে ভালো।</li>
+          <li><strong>আপনি নতুন বিনিয়োগকারী।</strong> ছোট মাসিক প্রতিশ্রুতি বড় একবারের ঝুঁকির চেয়ে শুরু করা সহজ।</li>
+          <li><strong>আপনি দীর্ঘমেয়াদী অভ্যাস চান।</strong> SIP-গুলো ৫–১০+ বছরে সুন্দরভাবে চক্রবৃদ্ধি হয়।</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">🧮 মডেল করুন</p>
+          <p class="text-sm mt-1">১,০০০ রিয়াল মাসিক বিনিয়োগ ৫, ১০ বা ২০ বছরে কীভাবে বাড়ে দেখতে <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> ব্যবহার করুন।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>কখন লাম্প সাম বেছে নেবেন?</h2>
+        <p>এগুলো প্রযোজ্য হলে লাম্প সাম বেছে নিন:</p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>আপনি একটি বড় একবারের পরিমাণ পেয়েছেন।</strong> EOSB, বোনাস, উত্তরাধিকার, বা সম্পদ বিক্রি।</li>
+          <li><strong>বাজার এইমাত্র ধসে গেছে।</strong> ঐতিহাসিকভাবে, বড় সংশোধনের ঠিক পরে লাম্প সাম বিনিয়োগ কিছু সেরা দীর্ঘমেয়াদী রিটার্ন দিয়েছে।</li>
+          <li><strong>আপনি অভিজ্ঞ বিনিয়োগকারী।</strong> আপনি অস্থিরতা বোঝেন এবং ব্যালেন্স ২০% কমলেও শান্ত থাকতে পারেন।</li>
+          <li><strong>আপনার দীর্ঘ সময়সীমা আছে।</strong> ১০+ বছরে, আগে বিনিয়োগ করা প্রায় সবসময়ই জয়ী।</li>
+          <li><strong>আপনি সর্বোচ্চ চক্রবৃদ্ধি চান।</strong> প্রতিদিন আপনার অর্থ বিনিয়োগে থাকলে তা আপনার জন্য কাজ করে।</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4">
+          <p class="text-white font-medium">অনেক প্রবাসীর ব্যবহৃত স্মার্ট হাইব্রিড পদ্ধতি:</p>
+          <p class="text-gray-400 text-sm">আপনার EOSB-এর ৫০% তাৎক্ষণিকভাবে লাম্প সাম হিসেবে বিনিয়োগ করুন, তারপর বাকি ৫০% পরের ৬–১২ মাসে SIP হিসেবে ছড়িয়ে দিন। এটি টাইমিং ঝুঁকি সীমিত করার পাশাপাশি লাভ অর্জন করে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বাস্তব উদাহরণ: সৌদি বাজারে ১২,০০০ রিয়াল বিনিয়োগ</h2>
+        <p>চলুন রিয়াদের দুই প্রবাসীকে তুলনা করি, প্রত্যেকে ৮% প্রত্যাশিত বার্ষিক রিটার্নে এক বছরে ১২,০০০ রিয়াল বিনিয়োগ করছেন:</p>
         <div class="space-y-3">
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">লাম্প সাম: এখনই SAR ১,২০,০০০</p>
-            <p class="text-gray-400 text-sm">ভবিষ্যৎ মূল্য ≈ SAR ২,৫৯,০০০। আপনার পুরো মূলধন ১০ বছর ধরে চক্রবৃদ্ধি হয় — বাজার স্থিরভাবে বাড়লে সর্বোচ্চ প্রবৃদ্ধি।</p>
+            <p class="text-white font-medium">SIP: ১২ মাসের জন্য মাসে ১,০০০ রিয়াল</p>
+            <p class="text-gray-400 text-sm">মোট বিনিয়োগ: ১২,০০০ রিয়াল। যেহেতু অবদান ছড়ানো, বছরে গড় বিনিয়োগকৃত মূলধন প্রায় ৬,০০০ রিয়াল। ৮% হারে ভবিষ্যৎ মূল্য ≈ ১২,৫৩৩ রিয়াল।</p>
           </div>
           <div class="bg-[#0A0E1A] p-3 rounded-lg">
-            <p class="text-white font-medium">SIP: মাসে SAR ১,০০০</p>
-            <p class="text-gray-400 text-sm">ভবিষ্যৎ মূল্য ≈ SAR ১,৮৪,০০০। বাড়তে ধীর, তবে দরপতন গড়ে দেয় এবং আপনাকে শৃঙ্খলাবদ্ধ মাসিক কিস্তিতে সম্পূর্ণ বিনিয়োগে রাখে।</p>
+            <p class="text-white font-medium">লাম্প সাম: একসাথে ১২,০০০ রিয়াল</p>
+            <p class="text-gray-400 text-sm">মোট বিনিয়োগ: ১২,০০০ রিয়াল। পুরো পরিমাণ ১২ মাস চক্রবৃদ্ধি হয়। ৮% হারে ভবিষ্যৎ মূল্য ≈ ১২,৯৬০ রিয়াল।</p>
           </div>
         </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">বাজার পরিস্থিতি</th>
+                <th class="text-left py-2">SIP (১,০০০ রিয়াল/মাস)</th>
+                <th class="text-left py-2">লাম্প সাম (১২,০০০ রিয়াল)</th>
+                <th class="text-left py-2">বিজয়ী</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">স্থির বৃদ্ধি (+৮%)</td><td class="py-2">১২,৫৩৩ রিয়াল</td><td class="py-2">১২,৯৬০ রিয়াল</td><td class="py-2 text-green-400">লাম্প সাম</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">অস্থির, পরে পুনরুদ্ধার</td><td class="py-2">১২,৪৮০ রিয়াল</td><td class="py-2">১২,১৮০ রিয়াল</td><td class="py-2 text-green-400">SIP</td></tr>
+              <tr><td class="py-2">বাজার ১০% কমলো তারপর ফ্ল্যাট</td><td class="py-2">১১,২০০ রিয়াল</td><td class="py-2">১০,৮০০ রিয়াল</td><td class="py-2 text-green-400">SIP</td></tr>
+            </tbody>
+          </table>
+        </div>
         <p class="mt-3">
-          উভয় পরিস্থিতিই <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> দিয়ে মডেল করা হয়েছে, যা আপনাকে দুটি কৌশল সরাসরি তুলনা করতেও দেয়।
+          মূল বার্তা: উঠতে থাকা বাজারে লাম্প সাম জেতে কারণ বাজারে সময় গুরুত্বপূর্ণ। অস্থির বা পতনশীল বাজারে SIP জেতে কারণ গড়করণ সস্তা ইউনিট কেনে। <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> দিয়ে দুটি পরিস্থিতিই নিজে চালান।
         </p>
       </div>
       <div class="glass p-6 rounded-xl mb-8">
-        <h2>সৌদি আরবে কোথায় বিনিয়োগ করবেন</h2>
+        <h2>সৌদি আরবে প্রবাসীদের জন্য করের প্রভাব</h2>
         <p>
-          বিনিয়োগের আগে আপনার ঋণগ্রহণের ক্ষমতা ও মোট দায় পরীক্ষা করুন যাতে আপনার প্রয়োজন হতে পারে এমন টাকা কখনো আটকে না যায়। <a href="/sama-loan-calculator">সামা লোন ক্যালকুলেটর</a> দিয়ে নিশ্চিত করুন আপনার ডেট বার্ডেন রেশিও সামার নিয়মের মধ্যে থাকে, এবং প্রতিবছর যোগ্য বিনিয়োগে ২.৫% জাকাতের পরিকল্পনা করতে <a href="/zakat-calculator">জাকাত ক্যালকুলেটর</a> ব্যবহার করুন।
+          সৌদি আরবে বসবাসের সময় বিনিয়োগের সবচেয়ে বড় সুবিধাগুলোর একটি হলো <strong>করমুক্ত পরিবেশ</strong>। রাজ্য বর্তমানে ব্যক্তিদের উপর <strong>কোনো ব্যক্তিগত আয়কর, মূলধন লাভ কর, বা লভ্যাংশ কর</strong> আরোপ করে না। আপনার বিনিয়োগ মুনাফা — সৌদি মিউচুয়াল ফান্ড, সৌদি শেয়ার, বা বেশিরভাগ আন্তর্জাতিক ফান্ড — সাধারণত রাজ্যে করের অধীন নয়। উত্তরাধিকার করও নেই।
         </p>
         <p>
-          একটি সাধারণ বিভাজন: জরুরি তহবিল নগদে রাখুন, দীর্ঘমেয়াদী প্রবৃদ্ধির জন্য EOSB লাম্প সাম হিসাবে বিনিয়োগ করুন এবং নতুন সঞ্চয়ের জন্য উপরে মাসিক SIP চালান। এই সংমিশ্রণ দুটি কৌশলের সেরাটাই নেয়।
+          তবে, আপনার <strong>স্বদেশের কর নিয়ম</strong> পরীক্ষা করা উচিত:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300">
+          <li><strong>ভারত:</strong> বছরে ১৮২+ দিন ভারতে অবস্থান করলে করের উদ্দেশ্যে আপনি "বাসিন্দা"। ভারতীয় বাসিন্দারা বিশ্বব্যাপী আয়ের উপর কর দেন। যারা বছরে ১৮২ দিনের কম ভারতে থাকেন তারা সাধারণত সৌদি বিনিয়োগ লাভে ভারতীয় কর এড়ান, তবে লভ্যাংশ আয় করযোগ্য।</li>
+          <li><strong>পাকিস্তান:</strong> বাসিন্দারা বিশ্বব্যাপী আয়ের উপর কর দেন। ১৮৩ দিনের কম পাকিস্তানে থাকা সৌদি বাসিন্দা FBR-এর উদ্দেশ্যে অনাবাসী হতে পারেন। পাকিস্তান–সৌদি কর চুক্তি পর্যালোচনা করুন।</li>
+          <li><strong>ফিলিপাইন:</strong> বাসিন্দারা বিশ্বব্যাপী আয়ের উপর কর দেন। বছরে ১৮৩+ দিন ফিলিপাইনের বাইরে থাকা OFW (ওভারসিজ ফিলিপিনো ওয়ার্কার)-দের আয়কর প্রয়োজনে অনাবাসী হিসেবে গণ্য করা হয় এবং সাধারণত বিদেশি উপার্জনে ফিলিপাইন কর থেকে অব্যাহতি পায়।</li>
+        </ul>
+        <div class="bg-desert-primary/10 border border-desert-primary/30 p-4 rounded-xl mt-4">
+          <p class="text-sm font-medium text-desert-primary">⚠️ গুরুত্বপূর্ণ</p>
+          <p class="text-sm mt-1">এটি সাধারণ তথ্য, কর পরামর্শ নয়। আপনার ব্যক্তিগত পরিস্থিতি আপনার রেসিডেন্সি অবস্থা, স্বদেশ এবং এর বাইরে থাকার সময়ের উপর নির্ভর করে। আপনার নির্দিষ্ট ক্ষেত্রে একজন যোগ্য হিসাবরক্ষকের পরামর্শ নিন।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>KSA-তে প্রবাসীদের জন্য সেরা বিনিয়োগ প্ল্যাটফর্ম</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">স্থানীয় সৌদি প্ল্যাটফর্ম (CMA-নিয়ন্ত্রিত)</p>
+            <p class="text-gray-400 text-sm">আল রাজি ক্যাপিটাল, SNB ক্যাপিটাল, রিয়াদ ক্যাপিটাল এবং সৌদি ফ্রান্সি ক্যাপিটাল মাসে ৫০০ রিয়াল থেকে SIP অপশনসহ মিউচুয়াল ফান্ড অফার করে। ডেরায়া স্মার্ট, মালা এবং আবিয়ান ক্যাপিটালের মতো ডিজিটাল রোবো-অ্যাডভাইজার কম ন্যূনতমসহ লক্ষ্যভিত্তিক, শরিয়া-সম্মত পোর্টফোলিও অফার করে। সবগুলো ক্যাপিটাল মার্কেট অথরিটি দ্বারা নিয়ন্ত্রিত।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">আন্তর্জাতিক ব্রোকার</p>
+            <p class="text-gray-400 text-sm">যে প্রবাসীরা মার্কিন বা বৈশ্বিক বাজারে এক্সপোজার চান তারা প্রায়ই ইন্টারঅ্যাক্টিভ ব্রোকারস, সারওয়া বা eToro-এর মতো আন্তর্জাতিক ব্রোকার ব্যবহার করেন। এরা সৌদি বাসিন্দাদের গ্রহণ করে তবে কিছু পরিষেবায় বিধিনিষেধ থাকতে পারে। তহবিল স্থানান্তরের আগে সর্বদা সৌদি আরব সম্পর্কে ব্রোকারের নীতি পরীক্ষা করুন।</p>
+          </div>
+        </div>
+        <p class="mt-3">
+          প্ল্যাটফর্ম, ফি এবং শরিয়া-সম্মত অপশনের সম্পূর্ণ বিবরণের জন্য, আমাদের <a href="/guide/sip-calculator-saudi-arabia-2026">সৌদি আরবে SIP ও মিউচুয়াল ফান্ড বিনিয়োগ রিটার্নের সম্পূর্ণ গাইড</a> পড়ুন।
         </p>
       </div>
-      <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
-        <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার বিকল্প তুলনা করুন</h3>
-        <p class="text-gray-400 text-sm mb-4">ফ্রি — SIP রিটার্ন, EOSB পরিকল্পনা এবং লোন যোগ্যতা এক জায়গায়</p>
-        <a href="/sip-calculator">
-          ফ্রি SIP ক্যালকুলেটর ব্যবহার করুন
-        </a>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">১. সৌদি আরবে প্রবাসীদের জন্য কোনটি ভালো: SIP না লাম্প সাম?</p>
+            <p class="text-gray-400 text-sm">চাকরিজীবী প্রবাসীদের জন্য, SIP সাধারণত বেশি বাস্তবসম্মত পছন্দ কারণ এটি মাসিক আয়চক্রের সাথে মানানসই এবং টাইমিং ঝুঁকি কমায়। একবারের EOSB পরিশোধের জন্য, লাম্প সাম — বা ৫০/৫০ হাইব্রিড — প্রায়ই ভালো কাজ করে। এটি আপনার ঝুঁকি সহনশীলতা এবং বাজার পরিস্থিতির উপর নির্ভর করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">২. বাজার অস্থির হলে কি SIP ভালো?</p>
+            <p class="text-gray-400 text-sm">হ্যাঁ। রুপি-কস্ট এভারেজিং মানে দাম কমলে আপনার নির্দিষ্ট মাসিক পরিমাণ বেশি ইউনিট কেনে, যা প্রতি ইউনিট গড় খরচ কমায় এবং সময়ের সাথে রিটার্ন মসৃণ করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">৩. লাম্প সাম কি সবসময় SIP-কে হারায়?</p>
+            <p class="text-gray-400 text-sm">না। গবেষণা দেখায় যে স্থিরভাবে উঠতে থাকা বাজারে লাম্প সাম প্রায় দুই-তৃতীয়াংশ ক্ষেত্রে জেতে কারণ অর্থ আগে চক্রবৃদ্ধি হয়। কিন্তু পতনশীল বা ফ্ল্যাট বাজারে, গড়করণের মাধ্যমে SIP জেতে। ঐতিহাসিকভাবে ১০+ বছরে লাম্প সাম এগিয়ে থাকে, তবে অস্থির সময়ে ব্যবধান সংকুচিত হয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">৪. সৌদি আরবে বিনিয়োগ রিটার্নে কি কোনো কর আছে?</p>
+            <p class="text-gray-400 text-sm">আজ সৌদি আরবে ব্যক্তিদের উপর কোনো ব্যক্তিগত আয়, মূলধন লাভ বা লভ্যাংশ কর প্রযোজ্য নয়। তবে, আপনার স্বদেশ আপনার রেসিডেন্সি অবস্থা অনুযায়ী আপনার বিশ্বব্যাপী আয়ে কর দিতে পারে, তাই আপনার স্থানীয় নিয়ম পরীক্ষা করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">৫. সৌদি আরবে SIP শুরু করার সর্বনিম্ন পরিমাণ কত?</p>
+            <p class="text-gray-400 text-sm">বেশিরভাগ প্ল্যাটফর্ম ১০০ রিয়াল (ডেরায়া) থেকে ১,০০০ রিয়াল (SNB ক্যাপিটাল) পর্যন্ত মাসিক SIP গ্রহণ করে। অনেক ফান্ডের লাম্প সামের জন্য সর্বনিম্নও নেই, তবে মাসে ৫০০–১,০০০ রিয়াল একটি সাধারণ ভিত্তি।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">৬. আমি কি একই সাথে SIP এবং লাম্প সাম দুটোই করতে পারি?</p>
+            <p class="text-gray-400 text-sm">হ্যাঁ — অনেক প্রবাসী তাদের EOSB লাম্প সাম হিসেবে বিনিয়োগ করেন এবং বেতন থেকে উপরন্তু মাসিক SIP চালান। এটি চলমান শৃঙ্খলার সাথে সর্বোচ্চ চক্রবৃদ্ধি একত্রিত করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">৭. আমার EOSB এই সিদ্ধান্তে কীভাবে মানায়?</p>
+            <p class="text-gray-400 text-sm">এন্ড অব সার্ভিস বেনিফিট সাধারণত একজন প্রবাসীর পাওয়া সবচেয়ে বড় এককালীন অর্থ। যদি আপনি চাকরি ছাড়ছেন বা বদলাচ্ছেন, তবে সিদ্ধান্ত নিন একসাথে বিনিয়োগ করবেন, SIP হিসেবে ভাগ করবেন, নাকি হাইব্রিড করবেন। প্রথমে সঠিক পরিমাণ জানতে <a href="/eosb-calculator">EOSB ক্যালকুলেটর</a> ব্যবহার করুন।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>উপসংহার ও পরবর্তী পদক্ষেপ</h2>
+        <p>
+          কোনো একক "সেরা" কৌশল নেই — এমন কৌশল আছে যা আপনার আয়, ঝুঁকি সহনশীলতা এবং বাজার পরিস্থিতির সাথে মানানসই। শৃঙ্খলা, গড়করণ এবং মানসিক স্বাচ্ছন্দ্যে SIP জেতে। বাজারে সময় এবং উঠতে থাকা বাজারে চক্রবৃদ্ধিতে লাম্প সাম জেতে। সৌদি আরবের অনেক প্রবাসীর জন্য, সবচেয়ে স্মার্ট পদক্ষেপ হলো হাইব্রিড: বড় হঠাৎ পাওয়া অর্থ লাম্প সাম হিসেবে বিনিয়োগ করুন এবং বেতন থেকে মাসিক SIP চালান।
+        </p>
+        <p>
+          শুরু করতে প্রস্তুত? <a href="/sip-calculator">SIP রিটার্ন ক্যালকুলেটর</a> দিয়ে আপনার সংখ্যা মডেল করুন, তারপর প্ল্যাটফর্মের বিবরণ এবং ফান্ড নির্বাচনের জন্য <a href="/guide/sip-calculator-saudi-arabia-2026">সৌদি আরবে SIP ও মিউচুয়াল ফান্ড বিনিয়োগ রিটার্নের সম্পূর্ণ গাইড</a> পড়ুন।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার অপশন তুলনা করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">ফ্রি — SIP রিটার্ন, EOSB পরিকল্পনা এবং লোন যোগ্যতা এক জায়গায়</p>
+          <a href="/sip-calculator">ফ্রি SIP ক্যালকুলেটর ব্যবহার করুন</a>
+        </div>
       </div>
     ` }
   },

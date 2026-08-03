@@ -369,6 +369,10 @@ function EnContent() {
       <p>
         Choosing the right investment strategy depends on your financial situation, goals, and risk tolerance. Here is how SIP, lump sum investing, and savings accounts compare:
       </p>
+      <p className="text-gray-300 text-sm mt-4">
+        For a detailed head-to-head comparison with real numbers and a step-by-step decision framework, read our full guide:{' '}
+        <Link href="/guide/sip-vs-lump-sum-investing-saudi-arabia-2026" className="text-desert-primary underline">SIP vs Lump Sum Investment in Saudi Arabia 2026</Link>.
+      </p>
 
       <div className="not-prose glass p-5 rounded-xl mb-6">
         <h3 className="text-desert-primary font-semibold mb-3">When to Choose SIP</h3>
@@ -1158,6 +1162,10 @@ function TlContent() {
       <h2>SIP vs. Lump Sum vs. Savings Account</h2>
       <p>
         Ang SIP ay mainam para sa regular na may trabaho — nababawasan nito ang market timing risk at nagtatayo ng financial discipline. Ang lump sum ay mas mainam kapag may malaking halaga (EOSB, bonus, inheritance). Ang savings account na 2% ay natatalo sa inflation. Sa paglipas ng 10 taon, ang 1,000 SAR/month sa SIP sa 8% ay nagiging 184,000 SAR samantalang sa savings account ay 133,000 SAR lamang.
+      </p>
+      <p className="text-gray-300 text-sm mt-4">
+        Para sa detalyadong head-to-head na paghahambing na may totoong mga numero at step-by-step na framework sa pagpapasya, basahin ang aming buong gabay:{' '}
+        <Link href="/guide/sip-vs-lump-sum-investing-saudi-arabia-2026" className="text-desert-primary underline">SIP vs Lump Sum Investment sa Saudi Arabia 2026</Link>.
       </p>
 
       <h2>Mga Panganib at Regulasyon ng CMA</h2>
