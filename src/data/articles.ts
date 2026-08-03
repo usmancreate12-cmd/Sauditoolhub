@@ -9063,4 +9063,1480 @@ export const articles: Article[] = [
       </div>
     ` }
   },
+  {
+    slug: 'how-to-read-sec-electricity-bill-tariff-codes-hidden-charges-2026',
+    category: 'auto',
+    readTime: '11 min read',
+    date: '2026-08-03',
+    title: { en: 'How to Read Your SEC Electricity Bill & Hidden Charges (2026)', ar: 'كيف تقرأ فاتورة الكهرباء من الشركة السعودية للكهرباء ورسومها الخفية (2026)', ur: 'SEC بجلی کا بل کیسے پڑھیں اور چھپی ہوئی فیسیں سمجھیں (2026)', tl: 'Paano Basahin ang SEC Bill Mo at ang mga Nakatagong Charges (2026)', bn: 'SEC বিদ্যুৎ বিল কীভাবে পড়বেন এবং লুকানো চার্জগুলো বুঝবেন (২০২৬)' },
+    description: { en: 'Confused by your Saudi electricity bill? Learn how to decode SEC tariff codes, spot hidden charges, and calculate your exact dues with our free 2026 guide.', ar: 'حائر أمام فاتورة الكهرباء السعودية؟ تعلم فك رموز أكواد تعرفة الشركة واكتشاف الرسوم الخفية وحساب مستحقاتك بدقة عبر دليلنا المجاني 2026.', ur: 'کیا آپ کا سعودی بجلی کا بل سمجھ نہیں آتا؟ SEC ٹیرف کوڈ سمجھیں، چھپی ہوئی فیسیں پہچانیں اور اپنی درست واجب الادا رقم کا حساب لگائیں — ہماری مفت 2026 گائیڈ کے ساتھ۔', tl: 'Nalilito ka ba sa iyong Saudi electricity bill? Matutong i-decode ang SEC tariff codes, makita ang mga nakatagong charges, at kalkulahin ang eksaktong dues mo sa aming libreng 2026 guide.', bn: 'আপনার সৌদি বিদ্যুৎ বিলে বিভ্রান্ত? SEC ট্যারিফ কোড ডিকোড করা, লুকানো চার্জ শনাক্ত করা এবং আমাদের বিনামূল্যের ২০২৬ গাইডে সঠিক বকেয়া হিসাব করা শিখুন।' },
+    content: { en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">SEC Electricity Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">How to Read Your SEC Electricity Bill: Tariff Codes &amp; Hidden Charges Explained (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">A straight-talking, bill-line-by-bill-line breakdown of your Saudi Electricity Company statement — the tariff codes, the VAT, the estimated readings, and the fees most expats never notice.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Your SEC Bill Looks Like a Riddle — Here Is How to Crack It</h2>
+        <p>
+          Every expat remembers the first summer bill that made them double-check the number twice. You used the same AC, the same fridge, the same habits as last month — yet the amount nearly doubled. You open the SEC app, stare at a wall of numbers and Arabic labels, and quietly wonder if someone made a mistake.
+        </p>
+        <p class="mt-4">
+          This is one of the most common moments of confusion for residents in Saudi Arabia, and it is completely fixable once you understand what you are looking at.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direct answer:</strong> Your SEC bill is divided into consumption blocks, a 15% VAT, and potential meter fees. Understanding your specific tariff code is the first step to verifying your charges — and catching the billing errors that push your amount higher than it should be.
+        </p>
+        <p class="mt-4">
+          In this guide, you will learn to read every section of your SEC statement, decode the tariff code that determines your rate, spot the hidden charges that inflate your total, and dispute an incorrect bill in a few working days. By the end, a surprise bill will never surprise you again.
+        </p>
+        <p class="mt-4">
+          Before you pay anything, estimate your exact dues instantly with our free{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">SEC Electricity Bill Calculator</a> — it turns your kilowatt-hours into a verified amount in seconds.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Anatomy of an SEC Electricity Bill</h2>
+        <p>
+          Your SEC bill follows a standard layout, whether it arrives on paper, through the SEC app, or in your SADAD payment list. Once you know what each field means, the whole document becomes readable in about thirty seconds.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Field on Your Bill</th>
+                <th class="text-left py-2">What It Tells You</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Account Number</strong> (رقم الحساب)</td><td class="py-2">Your unique SEC account identifier. Keep this handy for the app, payments, and disputes.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Meter Number</strong> (رقم العداد)</td><td class="py-2">The serial number of the physical meter at your property. It must stay constant across bills.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Billing Period</strong> (فترة الفاتورة)</td><td class="py-2">The exact dates this bill covers — usually one calendar month.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Previous Reading</strong> (القراءة السابقة)</td><td class="py-2">The meter number recorded at the start of the billing period.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Current Reading</strong> (القراءة الحالية)</td><td class="py-2">The meter number recorded at the end of the billing period.</td></tr>
+              <tr><td class="py-2"><strong>Total Consumption</strong> (الاستهلاك)</td><td class="py-2">Current minus previous reading — the actual kilowatt-hours (kWh) you used this month. This is the number that drives your cost.</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          The two readings at the heart of your bill are the previous and current meter numbers. <strong class="text-white">Total consumption (in kWh) is simply the current reading minus the previous reading.</strong> If that math does not add up to what is printed on your bill, you have already found a billing problem.
+        </p>
+        <p class="mt-4">
+          Below the consumption figures, your bill shows the tariff code, the applied rate per kilowatt-hour, the consumption charges, VAT, and any additional fees. Most expats skip straight to the total at the bottom — which is exactly why billing errors go unnoticed for months.
+        </p>
+        <p class="mt-4">
+          Take thirty seconds now to open your last bill and compare the printed consumption against the meter reading physically visible on your property. You will see in the next section why this single habit catches the most common type of SEC overcharge.
+        </p>
+        <h3>Where to Find Your Bill: Paper, App, and SADAD</h3>
+        <p>
+          Your SEC statement can appear in three places, and each one shows the same information in slightly different formatting. The paper bill is the traditional way and is usually attached to your door or mailbox. The <strong class="text-white">SEC app</strong> shows the same statement on your phone with one big advantage: your complete consumption history at a glance, month by month.
+        </p>
+        <p class="mt-4">
+          The third place is <strong class="text-white">SADAD</strong>, the national bill-payment system. SADAD does not really show you the full itemized statement — it only confirms the amount due and lets you pay it through any Saudi bank. This is where many expats first see the number, and it is exactly why the full statement should be opened in the SEC app before you pay.
+        </p>
+        <p class="mt-4">
+          A practical tip from people who handle dozens of these accounts: set your SADAD payment to auto-pay from the SEC app so the due amount is always settled on time, then open the app once a month to review the itemized line. You never miss a deadline, and you never pay a wrong amount without noticing.
+        </p>
+        <h3>Reading the Numbers: A Real Example</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Line</th>
+                <th class="text-left py-2">Value on Bill</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Previous Reading</td><td class="py-2">41,285</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Current Reading</td><td class="py-2">41,841</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Total Consumption</td><td class="py-2">556 kWh</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Tariff Code</td><td class="py-2">Residential (Code 11)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Consumption Charges</td><td class="py-2">556 × 0.18 = SAR 100.08</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">VAT (15%)</td><td class="py-2">SAR 15.01</td></tr>
+              <tr><td class="py-2">Total Due</td><td class="py-2 text-desert-primary">SAR 115.09</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          In this example the entire 556 kWh falls inside the first residential block, so every unit is billed at the lower rate. The math is clean and verifiable: consumption × rate, plus 15% VAT, equals the total. Once you can reproduce this calculation for your own bill, no amount on the statement is mysterious again.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Decoding SEC Tariff Codes (The Most Important Part)</h2>
+        <p>
+          The tariff code on your bill is a small number with a big effect — it tells SEC which pricing structure applies to your property. <strong class="text-white">Different property types are billed at different rates, and the code decides which one you get.</strong>
+        </p>
+        <p>
+          If you live in a residential flat or villa, your bill uses the residential tariff. If you operate a shop, workshop, or home-based business, SEC applies a different, usually higher, commercial rate. Getting this code wrong on your account means paying the wrong rate for years without realizing it.
+        </p>
+        <p class="mt-4">
+          How do you find your code? On a paper bill it appears near the account details as a two-digit number. In the SEC app, open the account and look under the tariff or plan information. If you are unsure whether you are on the residential or commercial code, one call to SEC on 920001828 with your account number settles it.
+        </p>
+        <h3>Residential Tariff (Code 11): The Tiered "Block" System</h3>
+        <p>
+          The residential tariff in Saudi Arabia uses a <strong class="text-white">progressive block system</strong>: the first block of your monthly consumption is billed at a lower rate, and the moment your usage crosses into a higher block, every kilowatt-hour above that line is charged more.
+        </p>
+        <p class="mt-4">
+          This is where most expats get confused. The blocks do not mean "your whole bill gets the higher rate." Only the portion of consumption that falls into each block is charged at that block's rate. It is a two-step calculation, and it explains why summer bills jump so hard.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Residential tariff blocks (approximate, verify on your statement):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>First 6,000 kWh per month:</strong> billed at the lower rate (around 0.18 SAR/kWh).</li>
+            <li><strong>Above 6,000 kWh per month:</strong> billed at the higher rate (around 0.30 SAR/kWh).</li>
+          </ul>
+          <p class="mt-2">Example: 8,000 kWh consumed in one month → 6,000 kWh × 0.18 = SAR 1,080, plus 2,000 kWh × 0.30 = SAR 600. Consumption total = <strong class="text-desert-primary">SAR 1,680</strong> before VAT.</p>
+        </div>
+        <p>
+          A household that runs its AC all summer can easily pass the 6,000 kWh line, and everything above it gets billed at the expensive rate. This is why your July bill can be more than double your January bill even though your habits barely changed.
+        </p>
+        <p class="mt-4">
+          The crossover point matters more than people expect. A family that stays just under 6,000 kWh pays entirely at the low rate. A family using 7,000 kWh pays the low rate on the first 6,000 and the high rate on only the last 1,000. The jump at the block line is real, but it is never applied to your entire consumption.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The practical takeaway:</strong> if you are anywhere near the 6,000 kWh line, the highest-leverage money-saving move is keeping that last slice of usage under the threshold. Trimming a few hours of AC or a redundant appliance in the final days of the billing month can keep your entire bill at the lower rate.
+        </p>
+        <p class="mt-4">
+          The good news: the block calculation is entirely on your side to verify. Take your consumption in kWh, apply the two blocks as shown, and the arithmetic must match the "consumption charges" line on your bill. If it does not, that is grounds for a dispute.
+        </p>
+        <h3>Commercial/Shop Tariff (Code 12): What Changes</h3>
+        <p>
+          The commercial tariff applies to shops, offices, workshops, and other business premises, and it is billed differently from residential. <strong class="text-white">Commercial customers pay a flat, higher rate per kilowatt-hour instead of the residential block system.</strong>
+        </p>
+        <p class="mt-4">
+          If you run a small business from a rented shop, your SEC account should carry the commercial tariff code. The rate is generally higher than the residential first block, which is why a business electricity bill climbs faster with the same usage.
+        </p>
+        <p class="mt-4">
+          There are also separate tariff categories for government, agricultural, and industrial premises, each with its own rate structure. For a typical expat, the only two codes that matter are the residential and commercial ones — but if your property type falls outside both, the bill will state its own code and you can verify that code's rate on the SEC website.
+        </p>
+        <p class="mt-4">
+          A word of caution for expats with a home-based business or side workshop: if SEC has your account under the residential code, a commercial-style load can trigger a meter inspection and a reclassification that increases your future bills. If you genuinely run a business, register it under the correct code — but never operate a business that should be commercial on a residential account to dodge the rate; the reclassification bill will be larger than what you saved.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hidden Charges &amp; Fees You Need to Watch Out For</h2>
+        <p>
+          The number at the bottom of your bill is rarely just "consumption." Several charges sit inside that total, and knowing each one is how you avoid overpaying. Here are the four that matter most to expat households.
+        </p>
+        <h3>1. The 15% VAT</h3>
+        <p>
+          Value Added Tax (VAT) applies to your electricity bill at the standard Saudi rate of <strong class="text-white">15%</strong>, and it is calculated on your total consumption charges — not just on the base rate.
+        </p>
+        <p class="mt-4">
+          In practical terms, that means your final bill includes 15% on top of the consumption amount shown before VAT. A SAR 1,680 consumption total becomes SAR 1,932 after the SAR 252 VAT is added. The VAT line is clearly marked on your statement (ضريبة القيمة المضافة), so it should always be easy to verify.
+        </p>
+        <p class="mt-4">
+          Because the VAT is a fixed percentage, it is not negotiable and not an error — but it is worth checking that it was applied to the correct consumption total. If your consumption line was inflated by an estimated reading, your VAT is inflated too, which means a single meter error magnifies across the whole bill.
+        </p>
+        <h3>2. Estimated vs. Actual Readings</h3>
+        <p>
+          The single most common reason an SEC bill looks wrong is that it was based on an <strong class="text-white">estimated reading, not an actual one.</strong> When the meter reader cannot access your property — a locked gate, a building under renovation, or a meter tucked behind a car — SEC estimates your usage based on your history instead.
+        </p>
+        <p class="mt-4">
+          Estimated bills are usually marked with a symbol or an "E" near the reading, and they show up most often when your gate is locked or your compound restricts access on reading day. The problem: an estimate can run higher than your real usage, and the overcharge lands in your VAT too.
+        </p>
+        <p class="mt-4">
+          There is also a silent version of the same problem: an estimate that is too low. If SEC underestimates your usage for a couple of months, the true consumption is reconciled later, and a "catch-up" bill arrives that looks like a sudden spike. That is not an error — it is the difference between your estimates and your actual usage finally being settled.
+        </p>
+        <p class="mt-4">
+          The fix is fast. <strong class="text-white">Submit a "Self-Reading" through the SEC app or website</strong> with a photo of your actual meter, and SEC will recalculate your bill against the true number. If you already paid an estimated bill that was too high, the credit carries over to your next statement automatically.
+        </p>
+        <h3>3. Meter Rental or Maintenance Fees</h3>
+        <p>
+          Your statement may carry a small fixed line item for the meter and connection — a periodic fee that is charged regardless of how much you consumed. It is usually a modest amount, but it appears every billing cycle.
+        </p>
+        <p class="mt-4">
+          This fee is standard on many SEC accounts and is not a penalty. Still, check your bill for a fixed line item that repeats month to month even at zero consumption. If you see an amount that does not look like your usual fixed fee, note it and ask SEC to explain the line — unexplained fixed charges are worth one phone call to 920001828 to confirm.
+        </p>
+        <h3>4. Late Payment Penalties</h3>
+        <p>
+          SEC applies a penalty when a bill is not paid by its due date, and the penalty grows the longer the amount stays unpaid. <strong class="text-white">Pay your bill on time through SADAD, the SEC app, or your bank's app to avoid it entirely.</strong>
+        </p>
+        <p class="mt-4">
+          The late-payment charge is added to the following bill, so a missed due date quietly inflates your next statement. Worse, repeated late payments can lead to disconnection — and reconnecting a disconnected meter costs a separate fee and can take days.
+        </p>
+        <p class="mt-4">
+          Set a recurring reminder for your billing date, or enable auto-pay in the SEC app so the amount is settled before the deadline. Skipping one dinner out per month more than covers the peace of mind.
+        </p>
+        <p class="mt-4">
+          One detail that trips up expats on workday schedules: the due date is fixed to your billing cycle, not to a national holiday or payday. If payday falls after the due date, the penalty still applies. Move your bill's due date through the SEC app to align it with your salary day — it is a two-minute setting change that prevents a penalty every single month.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats in Saudi Arabia (GEO Targeting)</h2>
+        <p>
+          Expats face a few electricity billing situations that Saudi nationals rarely think about — shared villas, landlord-name accounts, and compound reading restrictions. These are the practical traps, and each has a simple solution.
+        </p>
+        <h3>For Compound/Villa Residents: How to Split the Bill Fairly</h3>
+        <p>
+          Living in a shared villa or compound with multiple families or roommates is the most common setup for expats, and it creates the classic problem: one bill, many people, endless arguments about who owes what.
+        </p>
+        <p class="mt-4">
+          The fair way to split is by actual share of usage, not by headcount. A family running two ACs at night uses far more than a bachelor who leaves for work at dawn, so dividing the bill equally usually ends in resentment.
+        </p>
+        <p class="mt-4">
+          Agree on the split rule before the bill arrives, then do the math once. Our free{' '}
+          <a href="/bill-splitter-calculator" class="text-desert-primary underline">Bill Splitter Calculator</a> divides any bill fairly in seconds — weighted by who used what, or evenly if that is what your household agreed on. One calculation per month ends the argument permanently.
+        </p>
+        <h3>For Apartment Renters: Transfer the SEC Account to Your Iqama</h3>
+        <p>
+          Many expat apartments are billed under the landlord's name because the account was never transferred after the previous tenant left. <strong class="text-white">The account staying in the landlord's name is a problem — you pay the bill but have no control, and disputes go through someone else.</strong>
+        </p>
+        <p class="mt-4">
+          Transfer the SEC account to your Iqama name through the SEC app or at an SEC branch. You will need your Iqama, the current account number, and usually the landlord's consent or the signed tenancy contract (Ejar). Once it is in your name, estimated readings, disputes, and refunds are handled by you directly.
+        </p>
+        <p class="mt-4">
+          If the landlord refuses to transfer the account, protect yourself in writing: keep every payment receipt and the signed lease, and ask the landlord to confirm in writing that the account will be settled and closed when you leave. A written trail is the only thing that protects your security deposit at handover.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Actionable tip:</strong> If your bill seems unusually high, immediately submit a <strong class="text-white">"Self-Reading" through the SEC app or website</strong> to correct an estimated billing error. Do not wait for next month's statement — the correction applies from the moment SEC processes your reading.
+        </p>
+        <h3>For South Asian and Filipino Expats: What Differs</h3>
+        <p>
+          Large expat households from South Asia and the Philippines often share accommodations in ways that create their own billing patterns. Several families under one roof with a single meter means the combined load crosses the 6,000 kWh block line far more often — and splitting the result fairly is where friction starts.
+        </p>
+        <p class="mt-4">
+          The second common pattern is heavy AC usage during summer months paired with long work shifts, so the meter keeps running while everyone is out. A <strong class="text-white">programmable thermostat or a timer on the window AC</strong> is the single most effective fix for this exact lifestyle: it cools the room before you arrive instead of running at full power all day.
+        </p>
+        <p class="mt-4">
+          For OFW households sending money home monthly, the electricity bill competes directly with remittance budgets. The same self-reading habit applies with extra urgency: an estimated bill for a shared meter can be off by hundreds of Riyals, which is real money that should have gone to family.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: How to Dispute an Incorrect SEC Bill</h2>
+        <p>
+          When your bill is genuinely wrong — a wrong meter reading, a duplicated charge, or a tariff code error — SEC has a clear dispute path. Follow these steps in order and most corrections are applied within a few working days.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Take a clear photo of your current meter reading.</strong> Capture the meter display and the meter serial number in one frame, so there is no doubt about which meter and which number you are referencing.</li>
+          <li><strong>Log in to the SEC app or website (sec.com.sa).</strong> Use your account number or registered mobile number to access the account tied to the disputed bill.</li>
+          <li><strong>Submit a "Meter Reading Update" or open a "Billing Complaint" ticket.</strong> Choose the correct request type — an updated reading for estimated bills, or a billing complaint for charge disputes — and attach your photo and any supporting evidence.</li>
+          <li><strong>Include every detail in one submission.</strong> The account number, the bill date, the disputed amount, and a one-line explanation. A complete ticket is resolved faster than a vague one.</li>
+          <li><strong>SEC will review and adjust the bill within 3–5 working days.</strong> Track the ticket status in the app. If the correction is approved, the adjusted amount replaces the disputed one on your next statement.</li>
+        </ol>
+        <p>
+          If the app route does not resolve it, call SEC customer service on <strong class="text-white">920001828</strong> and reference your ticket number. Keep every ticket number and screenshot — a documented paper trail is what wins a dispute that drags on.
+        </p>
+        <p class="mt-4">
+          One rule to remember: keep paying your bills while a dispute is open, or the late-payment penalty starts accruing. The credit for an approved correction is applied automatically, so paying now does not cost you the refund later.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Why is my SEC electricity bill so high this month?</p>
+            <p class="text-gray-400 text-sm mt-1">The most common causes are an estimated reading instead of an actual one, crossing the 6,000 kWh block line in summer, and VAT (15%) added on top of a higher consumption total. Check the reading mark and your kWh usage first.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How can I check my SEC bill using my meter number?</p>
+            <p class="text-gray-400 text-sm mt-1">Open the SEC app, log in with your account, and enter your meter number in the account search to pull your latest bill and consumption history. Your meter number is printed on the meter and on every statement.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Is the 15% VAT already included in the total SEC bill amount?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. The total at the bottom of your SEC bill already includes the 15% VAT, which is calculated on your consumption charges before it is added to the final amount.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How do I change the SEC bill name to my Iqama?</p>
+            <p class="text-gray-400 text-sm mt-1">Open the SEC app, go to account services, and submit a transfer request with your Iqama and the current account number. You may need the landlord's consent or your Ejar contract for rented properties.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Final Word: Your SEC Bill Is Readable — and Verifiable</h2>
+        <p>
+          Here is the whole system in one paragraph: your SEC bill is consumption times your tariff code, plus 15% VAT, plus any fixed meter fees. The tariff code tells you the rate, the reading tells you the amount, and the VAT is a fixed percentage of the consumption total.
+        </p>
+        <p class="mt-4">
+          Understanding your tariff code and checking for estimated readings can save you hundreds of Riyals — sometimes on a single bill. The two habits that prevent almost every overcharge are verifying your meter readings each month and catching an estimated bill before you pay it.
+        </p>
+        <p class="mt-4">
+          Don't guess your monthly expenses. Use the{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">SaudiToolHub SEC Bill Calculator</a>{' '}
+          to estimate your next bill based on your exact kWh usage — and settle the argument before it starts.
+        </p>
+        <p class="mt-4">
+          For a complete guide on managing your household budget, read our{' '}
+          <a href="/guide/sec-electricity-bill-guide-saudi-arabia-2026" class="text-desert-primary underline">SEC Electricity Bill Payment Guide 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Calculate Your Exact SEC Bill Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — enter your kWh usage and get your consumption, VAT, and total instantly</p>
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">Use the Free SEC Bill Calculator</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on current Saudi Electricity Company (SEC) regulations. Tariff rates and policies are subject to change. Always refer to your official SEC statement or contact SEC customer service (920001828) for billing disputes.
+        </p>
+      </div>
+    `, ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل فاتورة الكهرباء</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">كيف تقرأ فاتورة الكهرباء من الشركة السعودية للكهرباء: أكواد التعرفة والرسوم الخفية (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">شرح مباشر سطرًا بسطر لفاتورة الشركة السعودية للكهرباء — أكواد التعرفة وضريبة القيمة المضافة والقراءات التقديرية والرسوم التي لا يلاحظها معظم الوافدين.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>فاتورتك تبدو كأنها لغز — إليك طريقة حله</h2>
+        <p>
+          كل وافد يتذكر أول فاتورة صيفية جعلته يقرأ الرقم مرتين. استخدمت نفس المكيف ونفس الثلاجة ونفس العادات في الشهر الماضي — ومع ذلك تضاعف المبلغ تقريبًا. تفتح تطبيق الشركة السعودية للكهرباء وتحدق في جدار من الأرقام والتسميات العربية وتتساءل في صمت إن كان أحدهم قد أخطأ.
+        </p>
+        <p class="mt-4">
+          هذه من أكثر لحظات الحيرة شيوعًا للمقيمين في السعودية، وهي قابلة للحل تمامًا بمجرد أن تفهم ما الذي تنظر إليه.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">الإجابة المباشرة:</strong> تنقسم فاتورتك إلى شرائح استهلاك وضريبة قيمة مضافة 15% ورسوم عدّاد محتملة. فهم كود التعرفة الخاص بك هو الخطوة الأولى للتحقق من الرسوم — واكتشاف أخطاء الفوترة التي ترفع مبلغك أعلى مما ينبغي.
+        </p>
+        <p class="mt-4">
+          في هذا الدليل ستتعلم قراءة كل قسم من كشف حسابك، وفك شفرة كود التعرفة الذي يحدد السعر، واكتشاف الرسوم الخفية التي تضخم الإجمالي، والاعتراض على فاتورة خاطئة خلال أيام عمل قليلة. بعد ذلك لن تفاجئك فاتورة مفاجئة مرة أخرى.
+        </p>
+        <p class="mt-4">
+          قبل أن تدفع أي شيء، احسب مستحقاتك بدقة فورًا عبر{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">حاسبة فاتورة الكهرباء المجانية</a> — تحوّل كيلوواط/ساعة إلى مبلغ موثق خلال ثوانٍ.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تشريح فاتورة الشركة السعودية للكهرباء</h2>
+        <p>
+          تتبع فاتورتك تخطيطًا موحدًا سواء وصلت ورقية أو عبر التطبيق أو في قائمة الدفع عبر سداد. بمجرد أن تعرف معنى كل حقل، تصبح الوثيقة كلها قابلة للقراءة خلال ثلاثين ثانية تقريبًا.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">الحقل في فاتورتك</th>
+                <th class="text-left py-2">ما يخبرك به</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>رقم الحساب</strong></td><td class="py-2">معرّف حسابك الفريد لدى الشركة. احتفظ به جاهزًا للتطبيق والدفع والاعتراضات.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>رقم العداد</strong></td><td class="py-2">الرقم التسلسلي للعدّاد المادي في منزلك. يجب أن يبقى ثابتًا بين الفواتير.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>فترة الفاتورة</strong></td><td class="py-2">التواريخ الدقيقة التي تغطيها هذه الفاتورة — عادة شهر تقويمي واحد.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>القراءة السابقة</strong></td><td class="py-2">رقم العداد المسجل في بداية فترة الفوترة.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>القراءة الحالية</strong></td><td class="py-2">رقم العداد المسجل في نهاية فترة الفوترة.</td></tr>
+              <tr><td class="py-2"><strong>إجمالي الاستهلاك</strong></td><td class="py-2">القراءة الحالية مطروحًا منها السابقة — كيلوواط/ساعة الفعلية المستخدمة هذا الشهر. هذا الرقم هو ما يحدد التكلفة.</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          القراءتان في قلب فاتورتك هما رقما العداد السابق والحالي. <strong class="text-white">إجمالي الاستهلاك (بالكيلوواط/ساعة) هو ببساطة القراءة الحالية مطروحًا منها القراءة السابقة.</strong> إذا لم يكن هذا الحساب مطابقًا لما هو مطبوع في فاتورتك، فقد وجدت مشكلة فوترة بالفعل.
+        </p>
+        <p class="mt-4">
+          أسفل أرقام الاستهلاك تعرض فاتورتك كود التعرفة والسعر المطبق لكل كيلوواط/ساعة ورسوم الاستهلاك وضريبة القيمة المضافة وأي رسوم إضافية. ينتقل معظم الوافدين مباشرة إلى الإجمالي في الأسفل — وهذا هو بالضبط سبب بقاء أخطاء الفوترة دون اكتشاف لأشهر.
+        </p>
+        <h3>أين تجد فاتورتك: الورق والتطبيق وسداد</h3>
+        <p>
+          يمكن أن يظهر كشف حسابك في ثلاثة أماكن، ويعرض كل منها المعلومات نفسها بتنسيق مختلف قليلًا. الفاتورة الورقية هي الطريقة التقليدية وتُترك عادة عند بابك أو صندوق بريدك. يعرض <strong class="text-white">تطبيق الشركة السعودية للكهرباء</strong> الكشف نفسه على هاتفك مع ميزة كبيرة واحدة: تاريخ الاستهلاك الكامل أمامك شهرًا بشهر.
+        </p>
+        <p class="mt-4">
+          المكان الثالث هو <strong class="text-white">سداد</strong>، نظام الدفع الوطني للفواتير. سداد لا يعرض الكشف المفصل كاملًا — إنه يؤكد المبلغ المستحق فقط ويسمح لك بالدفع عبر أي بنك سعودي. هنا يرى معظم الوافدين الرقم لأول مرة، ولهذا بالضبط يجب فتح الكشف الكامل في التطبيق قبل الدفع.
+        </p>
+        <h3>قراءة الأرقام: مثال واقعي</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">البند</th>
+                <th class="text-left py-2">القيمة في الفاتورة</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">القراءة السابقة</td><td class="py-2">41,285</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">القراءة الحالية</td><td class="py-2">41,841</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">إجمالي الاستهلاك</td><td class="py-2">556 كيلوواط/ساعة</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">كود التعرفة</td><td class="py-2">سكني (الكود 11)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">رسوم الاستهلاك</td><td class="py-2">556 × 0.18 = 100.08 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">ضريبة القيمة المضافة 15%</td><td class="py-2">15.01 ريال</td></tr>
+              <tr><td class="py-2">الإجمالي المستحق</td><td class="py-2 text-desert-primary">115.09 ريال</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          في هذا المثال يقع الـ 556 كيلوواط/ساعة كاملة داخل الشريحة السكنية الأولى، لذلك تُحسب كل وحدة بالسعر المنخفض. الحساب نظيف وقابل للتحقق: الاستهلاك × السعر، زائد ضريبة القيمة المضافة 15%، يساوي الإجمالي. بمجرد أن تتمكن من إعادة إنتاج هذا الحساب لفواتيرك، لن يبقى أي مبلغ في الكشف غامضًا.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>فك رموز أكواد تعرفة الكهرباء (الجزء الأهم)</h2>
+        <p>
+          كود التعرفة في فاتورتك رقم صغير له أثر كبير — فهو يخبر الشركة أي هيكل تسعير ينطبق على عقارك. <strong class="text-white">تُحسب أنواع العقارات المختلفة بأسعار مختلفة، والكود هو الذي يحدد أيها تستخدم.</strong>
+        </p>
+        <p>
+          إذا كنت تعيش في شقة أو فيلا سكنية، تستخدم فاتورتك التعرفة السكنية. إذا كنت تدير متجرًا أو ورشة أو مشروعًا منزليًا، تطبق الشركة سعرًا تجاريًا مختلفًا وعادة أعلى. الخطأ في هذا الكود على حسابك يعني دفع السعر الخاطئ لسنوات دون أن تدري.
+        </p>
+        <p class="mt-4">
+          كيف تجد الكود؟ في الفاتورة الورقية يظهر قرب بيانات الحساب كرقم من خانتين. في التطبيق، افتح الحساب وابحث تحت معلومات التعرفة أو الخطة. إذا لم تكن متأكدًا هل أنت على الكود السكني أم التجاري، مكالمة واحدة للشركة على 920001828 مع رقم حسابك تحسم الأمر.
+        </p>
+        <h3>التعرفة السكنية (الكود 11): نظام الشرائح المتدرجة</h3>
+        <p>
+          تستخدم التعرفة السكنية في السعودية <strong class="text-white">نظام شرائح تصاعديًا</strong>: تُحسب الشريحة الأولى من استهلاكك الشهري بسعر أقل، وبمجرد أن يتجاوز استخدامك حدًا أعلى، يُحسب كل كيلوواط/ساعة فوق هذا الخط بسعر أعلى.
+        </p>
+        <p class="mt-4">
+          هذا هو الموضع الذي يختلط فيه الأمر على معظم الوافدين. الشرائح لا تعني أن "فاتورتك كلها تُحسب بالسعر الأعلى." فقط الجزء من الاستهلاك الذي يقع في كل شريحة يُحسب بسعر تلك الشريحة. إنه حساب من خطوتين، وهو يفسر سبب قفزة فواتير الصيف.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">شرائح التعرفة السكنية (تقريبية، تحقق من كشف حسابك):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>أول 6,000 كيلوواط/ساعة شهريًا:</strong> بالسعر المنخفض (نحو 0.18 ريال/كيلوواط/ساعة).</li>
+            <li><strong>ما فوق 6,000 كيلوواط/ساعة شهريًا:</strong> بالسعر الأعلى (نحو 0.30 ريال/كيلوواط/ساعة).</li>
+          </ul>
+          <p class="mt-2">مثال: استهلاك 8,000 كيلوواط/ساعة في شهر واحد → 6,000 × 0.18 = 1,080 ريال، زائد 2,000 × 0.30 = 600 ريال. إجمالي الاستهلاك = <strong class="text-desert-primary">1,680 ريال</strong> قبل الضريبة.</p>
+        </div>
+        <p>
+          يمكن لمنزل يشغل مكيفه طوال الصيف تجاوز خط 6,000 كيلوواط/ساعة بسهولة، وكل ما فوقه يُحسب بالسعر الباهظ. لهذا يمكن أن تكون فاتورة يوليو أكثر من ضعف فاتورة يناير رغم أن عاداتك تغيرت بالكاد.
+        </p>
+        <p class="mt-4">
+          نقطة التقاطع تهم أكثر مما يتوقع الناس. عائلة تبقى تحت 6,000 كيلوواط/ساعة تُحسب بالكامل بالسعر المنخفض. عائلة تستخدم 7,000 تُحسب بالسعر المنخفض لأول 6,000 وبالسعر الأعلى لآخر 1,000 فقط. القفزة عند خط الشريحة حقيقية، لكنها لا تُطبق أبدًا على استهلاكك كله.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">الخلاصة العملية:</strong> إذا كنت قريبًا من خط 6,000 كيلوواط/ساعة، فإن أعلى حركة توفير هو إبقاء تلك الشريحة الأخيرة من الاستهلاك تحت الحد. تقليم بضع ساعات من المكيف أو جهاز زائد في الأيام الأخيرة من شهر الفوترة يمكن أن يبقي فاتورتك كلها بالسعر المنخفض.
+        </p>
+        <p class="mt-4">
+          الخبر الجيد: حساب الشرائح في صفك تمامًا للتحقق. خذ استهلاكك بالكيلوواط/ساعة، طبّق الشريحتين كما هو معروض، ويجب أن يطابق الحساب سطر "رسوم الاستهلاك" في فاتورتك. إذا لم يطابق، فهذا أساس شرعي للاعتراض.
+        </p>
+        <h3>التعرفة التجارية (الكود 12): ما الذي يتغير</h3>
+        <p>
+          تنطبق التعرفة التجارية على المتاجر والمكاتب والورش وغيرها من أماكن العمل، وتُحسب بشكل مختلف عن السكنية. <strong class="text-white">يدفع العملاء التجاريون سعرًا ثابتًا أعلى لكل كيلوواط/ساعة بدلًا من نظام الشرائح السكني.</strong>
+        </p>
+        <p class="mt-4">
+          إذا كنت تدير مشروعًا صغيرًا من متجر مؤجر، يجب أن يحمل حسابك كود التعرفة التجارية. السعر أعلى عمومًا من الشريحة السكنية الأولى، ولهذا ترتفع فاتورة الأعمال أسرع مع نفس الاستهلاك.
+        </p>
+        <p class="mt-4">
+          توجد أيضًا فئات تعرفة منفصلة للمباني الحكومية والزراعية والصناعية، لكل منها هيكل سعر خاص. بالنسبة للوافد النموذجي، الكودان الوحيدان اللذان يهمان هما السكني والتجاري — لكن إذا كان نوع عقارك خارج الاثنين، سيبين الكشف كوده الخاص ويمكنك التحقق من سعره على موقع الشركة.
+        </p>
+        <p class="mt-4">
+          كلمة تحذير للوافدين الذين لديهم مشروع منزلي أو ورشة جانبية: إذا كان حسابك تحت الكود السكني، يمكن أن يسبب الحمل التجاري تفتيشًا للعدّاد وإعادة تصنيف ترفع فواتيرك المستقبلية. إذا كنت تدير مشروعًا فعليًا، سجله تحت الكود الصحيح — لكن لا تشغّل أبدًا مشروعًا يجب أن يكون تجاريًا على حساب سكني للتهرب من السعر؛ فاتورة إعادة التصنيف ستكون أكبر مما وفّرت.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الرسوم الخفية التي يجب الانتباه إليها</h2>
+        <p>
+          الرقم في أسفل فاتورتك نادرًا ما يكون "الاستهلاك" فقط. تجلس عدة رسوم داخل هذا الإجمالي، ومعرفة كل واحد منها هي الطريقة لتجنب الدفع الزائد. إليك الأربعة الأهم للأسر الوافدة.
+        </p>
+        <h3>1. ضريبة القيمة المضافة 15%</h3>
+        <p>
+          تُطبق ضريبة القيمة المضافة على فاتورة الكهرباء بالسعر القياسي السعودي البالغ <strong class="text-white">15%</strong>، وتُحسب على إجمالي رسوم الاستهلاك — وليس على السعر الأساسي فقط.
+        </p>
+        <p class="mt-4">
+          عمليًا، هذا يعني أن فاتورتك النهائية تتضمن 15% فوق مبلغ الاستهلاك المعروض قبل الضريبة. إجمالي استهلاك 1,680 ريالًا يصبح 1,932 ريالًا بعد إضافة 252 ريالًا ضريبة. سطر الضريبة محدد بوضوح في كشف حسابك (ضريبة القيمة المضافة)، لذا يجب أن يكون التحقق منه سهلًا دائمًا.
+        </p>
+        <p class="mt-4">
+          ولأن الضريبة نسبة ثابتة، فهي غير قابلة للتفاوض وليست خطأ — لكن يستحق التحقق أنها طُبقت على إجمالي الاستهلاك الصحيح. إذا كان سطر استهلاكك مضخمًا بسبب قراءة تقديرية، فضريبتك مضخمة أيضًا، ما يعني أن خطأ عدّاد واحد يتضاعف عبر الفاتورة كلها.
+        </p>
+        <h3>2. القراءة التقديرية مقابل الفعلية</h3>
+        <p>
+          السبب الأكثر شيوعًا لظهور فاتورة الشركة خاطئة هو أنها استندت إلى <strong class="text-white">قراءة تقديرية وليست فعلية.</strong> عندما لا يتمكن قارئ العدّاد من الوصول إلى عقارك — بوابة مقفلة أو مبنى قيد التجديد أو عدّاد خلف سيارة — تقدر الشركة استهلاكك بناءً على تاريخك بدلًا من ذلك.
+        </p>
+        <p class="mt-4">
+          تُحدد الفواتير التقديرية عادة برمز أو حرف "E" قرب القراءة، وتظهر غالبًا عندما تكون بوابتك مقفلة أو يقيّد مجمعك السكني الوصول يوم القراءة. المشكلة: يمكن أن يكون التقدير أعلى من استهلاكك الحقيقي، وتصيب الرسوم الزائدة ضريبتك أيضًا.
+        </p>
+        <p class="mt-4">
+          توجد أيضًا نسخة صامتة من المشكلة نفسها: تقدير منخفض جدًا. إذا قلّلت الشركة تقدير استهلاكك شهرين متتاليين، تُسوى الاستهلاك الحقيقي لاحقًا، وتصل فاتورة "تعويض" تبدو كطفرة مفاجئة. ليس ذلك خطأ — إنه الفرق بين تقديراتك واستهلاكك الفعلي الذي استُقر أخيرًا.
+        </p>
+        <p class="mt-4">
+          الإصلاح سريع. <strong class="text-white">قدّم "قراءة ذاتية" عبر تطبيق الشركة أو موقعها</strong> مع صورة لعدّادك الفعلي، وستعيد الشركة حساب فاتورتك على الرقم الحقيقي. إذا كنت قد دفعت فاتورة تقديرية كانت أعلى، ينتقل الرصيد تلقائيًا إلى كشفك التالي.
+        </p>
+        <h3>3. رسوم تأجير العدّاد أو الصيانة</h3>
+        <p>
+          قد يحمل كشف حسابك بندًا ثابتًا صغيرًا للعدّاد والتوصيل — رسومًا دورية تُحسب بغض النظر عن استهلاكك. عادة ما يكون مبلغًا متواضعًا، لكنه يظهر كل دورة فوترة.
+        </p>
+        <p class="mt-4">
+          هذه الرسوم قياسية في حسابات كثيرة وليست غرامة. ومع ذلك، تحقق من فاتورتك من وجود بند ثابت يتكرر شهرًا بعد شهر حتى عند الاستهلاك الصفري. إذا رأيت مبلغًا لا يشبه رسومك الثابتة المعتادة، دوّنه واطلب من الشركة شرح البند — الرسوم الثابتة غير المفسرة تستحق مكالمة واحدة على 920001828 للتأكيد.
+        </p>
+        <h3>4. غرامات التأخر في السداد</h3>
+        <p>
+          تطبق الشركة غرامة عندما لا تُدفع الفاتورة بحلول تاريخ استحقاقها، وتنمو الغرامة كلما بقي المبلغ غير مدفوع. <strong class="text-white">ادفع فاتورتك في وقتها عبر سداد أو تطبيق الشركة أو تطبيق بنكك لتجنبها تمامًا.</strong>
+        </p>
+        <p class="mt-4">
+          تضاف رسوم التأخر إلى الفاتورة التالية، فترفع مكشبك التالي بهدوء. والأسوأ، أن التأخر المتكرر قد يؤدي إلى فصل الخدمة — وإعادة توصيل العدّاد المفصول تكلف رسومًا منفصلة وقد تستغرق أيامًا.
+        </p>
+        <p class="mt-4">
+          اضبط تذكيرًا متكررًا لتاريخ فوترتك، أو فعّل الدفع التلقائي في التطبيق ليُسوى المبلغ قبل الموعد. تخطي عشاء واحد في الشهر يغطي راحة البال أكثر من كفاية.
+        </p>
+        <p class="mt-4">
+          تفصيلة تتعثر فيها الوافدون الذين يعملون أيام الأسبوع: تاريخ الاستحقاق مثبت على دورة الفوترة، وليس على عطلة وطنية أو يوم راتب. إذا وقع يوم الراتب بعد تاريخ الاستحقاق، تظل الغرامة مطبقة. انقل تاريخ استحقاق فاتورتك عبر التطبيق ليتماشى مع يوم راتبك — تغيير دقيقتين يمنع غرامة كل شهر.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعتبارات خاصة بالوافدين في السعودية (استهداف جغرافي)</h2>
+        <p>
+          يواجه الوافدون بضع حالات فوترة كهرباء لا يفكر فيها السعوديون أبدًا — الفلل المشتركة، وحسابات باسم المالك، وقيود القراءة في المجمعات. هذه هي الفخاخ العملية، ولكل منها حل بسيط.
+        </p>
+        <h3>لسكان المجمعات والفلل: تقسيم الفاتورة بإنصاف</h3>
+        <p>
+          العيش في فيلا أو مجمع مشترك مع عدة عائلات أو زملاء هو الإعداد الأكثر شيوعًا للوافدين، ويخلق المشكلة الكلاسيكية: فاتورة واحدة وكثير من الناس وجدال لا ينتهي حول من يدين بماذا.
+        </p>
+        <p class="mt-4">
+          الطريقة العادلة للتقسيم هي بالحصة الفعلية من الاستهلاك، وليس بعدد الأشخاص. عائلة تشغل مكيفين ليلًا تستهلك أكثر بكثير من أعزب يغادر عند الفجر، لذا تقسيم الفاتورة بالتساوي ينتهي عادة بالاستياء.
+        </p>
+        <p class="mt-4">
+          اتفقوا على قاعدة التقسيم قبل وصول الفاتورة، ثم احسبوا مرة واحدة. أداة{' '}
+          <a href="/bill-splitter-calculator" class="text-desert-primary underline">حاسبة تقسيم الفواتير</a> المجانية تقسم أي فاتورة بإنصاف في ثوانٍ — مرجحةً بمن استخدم ماذا، أو بالتساوي إذا كان ذلك ما اتفق عليه منزلك. حساب واحد في الشهر ينهي الجدال نهائيًا.
+        </p>
+        <h3>لمستأجري الشقق: انقل حساب الشركة إلى اسم إقامتك</h3>
+        <p>
+          تُحسب فواتير كثير من شقق الوافدين باسم المالك لأن الحساب لم يُنقل بعد مغادرة المستأجر السابق. <strong class="text-white">بقاء الحساب باسم المالك مشكلة — تدفع الفاتورة لكن لا تملك التحكم، والاعتراضات تمر عبر شخص آخر.</strong>
+        </p>
+        <p class="mt-4">
+          انقل حساب الشركة إلى اسم إقامتك عبر التطبيق أو في فرع الشركة. ستحتاج إلى إقامتك ورقم الحساب الحالي وعادة موافقة المالك أو عقد الإيجار الموقع (إيجار). بمجرد أن يصبح باسمك، تُدار القراءات التقديرية والاعتراضات والمبالغ المستردة مباشرة بواسطتك.
+        </p>
+        <p class="mt-4">
+          إذا رفض المالك نقل الحساب، حمِ نفسك كتابيًا: احتفظ بكل إيصال دفع وبعقد الإيجار الموقع، واطلب من المالك تأكيد كتابي بأن الحساب سيُسوى ويُغلق عند مغادرتك. الأثر الكتابي هو الشيء الوحيد الذي يحمي تأمينك عند التسليم.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">نصيحة عملية:</strong> إذا بدت فاتورتك مرتفعة بشكل غير عادي، قدّم فورًا <strong class="text-white">"قراءة ذاتية" عبر تطبيق الشركة أو موقعها</strong> لتصحيح خطأ فوترة تقديري. لا تنتظر كشف الشهر المقبل — يسري التصحيح من لحظة معالجة الشركة لقراءتك.
+        </p>
+        <h3>للوافدين من جنوب آسيا والفلبين: ما يختلف</h3>
+        <p>
+          غالبًا ما تشترك الأسر الوافدة الكبيرة من جنوب آسيا والفلبين في سكن بطرق تخلق أنماط فوترة خاصة. عدة عائلات تحت سقف واحد بعدّاد واحد يعني عبور الحمل المدمج خط 6,000 كيلوواط/ساعة أكثر بكثير — وتقسيم النتيجة بإنصاف هو موضع الاحتكاك.
+        </p>
+        <p class="mt-4">
+          النمط الثاني الشائع هو استهلاك مكيف قوي خلال الصيف مقترنًا بنوبات عمل طويلة، فيعمل العدّاد بينما الجميع خارج المنزل. <strong class="text-white">منظم حرارة قابل للبرمجة أو مؤقت على المكيف الشباكي</strong> هو الإصلاح الأكثر فاعلية لهذا النمط بالذات: يبرد الغرفة قبل وصولك بدلًا من العمل بكامل طاقته طوال اليوم.
+        </p>
+        <p class="mt-4">
+          بالنسبة لأسر العمال الذين يرسلون المال شهريًا، تتنافس فاتورة الكهرباء مباشرة مع ميزانية التحويلات. عادة القراءة الذاتية نفسها تنطبق بضرورة إضافية: الفاتورة التقديرية لعدّاد مشترك يمكن أن تكون خاطئة بمئات الريالات، وهو مال حقيقي كان يجب أن يذهب للعائلة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خطوة بخطوة: كيف تعترض على فاتورة الشركة الخاطئة</h2>
+        <p>
+          عندما تكون فاتورتك خاطئة فعلًا — قراءة عدّاد خاطئة أو رسوم مكررة أو خطأ في كود التعرفة — لدى الشركة مسار اعتراض واضح. اتبع هذه الخطوات بالترتيب وتُطبق معظم التصحيحات خلال أيام عمل قليلة.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>التقط صورة واضحة لقراءة عدّادك الحالية.</strong> صوّر شاشة العدّاد ورقمه التسلسلي في لقطة واحدة، فلا مجال للشك في أي عدّاد وأي رقم تقصد.</li>
+          <li><strong>سجّل دخولك إلى تطبيق الشركة أو موقعها (sec.com.sa).</strong> استخدم رقم حسابك أو جوالك المسجل للوصول إلى الحساب المرتبط بالفاتورة المتنازع عليها.</li>
+          <li><strong>قدّم "تحديث قراءة العدّاد" أو افتح تذكرة "شكوى فوترة".</strong> اختر نوع الطلب الصحيح — تحديث قراءة للفواتير التقديرية، أو شكوى فوترة لنزاعات الرسوم — وأرفق صورتك وأي دليل داعم.</li>
+          <li><strong>أدرج كل التفاصيل في تقديم واحد.</strong> رقم الحساب وتاريخ الفاتورة والمبلغ المتنازع عليه وسطرًا واحدًا للتوضيح. التذكرة الكاملة تُحل أسرع من التذكرة الغامضة.</li>
+          <li><strong>تراجع الشركة وتعدّل الفاتورة خلال 3–5 أيام عمل.</strong> تابع حالة التذكرة في التطبيق. إذا تمت الموافقة على التصحيح، يحل المبلغ المعدل محل المتنازع عليه في كشفك التالي.</li>
+        </ol>
+        <p>
+          إذا لم يحل مسار التطبيق الأمر، اتصل بخدمة عملاء الشركة على <strong class="text-white">920001828</strong> وأشر إلى رقم تذكرتك. احتفظ بكل رقم تذكرة ولقطة شاشة — الأثر الكتابي الموثق هو ما يربح النزاع المطول.
+        </p>
+        <p class="mt-4">
+          قاعدة واحدة تذكرها: استمر في دفع فواتيرك أثناء فتح نزاع، وإلا بدأت غرامة التأخر في التراكم. يُطبق رصيد التصحيح المعتمد تلقائيًا، فالدفع الآن لا يكلفك الاسترداد لاحقًا.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: لماذا فاتورة الكهرباء مرتفعة جدًا هذا الشهر؟</p>
+            <p class="text-gray-400 text-sm mt-1">الأسباب الأكثر شيوعًا هي قراءة تقديرية بدل الفعلية، وتجاوز خط شريحة 6,000 كيلوواط/ساعة في الصيف، وضريبة القيمة المضافة 15% فوق إجمالي استهلاك أعلى. تحقق من علامة القراءة واستهلاكك أولًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كيف أفحص فاتورة الكهرباء برقم العداد؟</p>
+            <p class="text-gray-400 text-sm mt-1">افتح تطبيق الشركة وسجل الدخول بحسابك وأدخل رقم العدّاد في البحث عن الحساب لسحب أحدث فاتورة وسجل الاستهلاك. رقم العدّاد مطبوع على العدّاد وعلى كل كشف.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل ضريبة القيمة المضافة 15% مشمولة في إجمالي الفاتورة؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. الإجمالي في أسفل فاتورتك يشمل بالفعل ضريبة القيمة المضافة 15%، التي تُحسب على رسوم الاستهلاك قبل إضافتها إلى المبلغ النهائي.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كيف أنقل اسم فاتورة الكهرباء إلى إقامتي؟</p>
+            <p class="text-gray-400 text-sm mt-1">افتح تطبيق الشركة وانتقل إلى خدمات الحساب وقدّم طلب نقل بإقامتك ورقم الحساب الحالي. قد تحتاج موافقة المالك أو عقد إيجار للعقارات المؤجرة.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كلمة أخيرة: فاتورتك مقروءة — وقابلة للتحقق</h2>
+        <p>
+          إليك النظام كله في فقرة واحدة: فاتورتك هي استهلاك × كود تعرفتك، زائد ضريبة القيمة المضافة 15%، زائد أي رسوم عدّاد ثابتة. كود التعرفة يحدد السعر، والقراءة تحدد المبلغ، والضريبة نسبة ثابتة من إجمالي الاستهلاك.
+        </p>
+        <p class="mt-4">
+          فهم كود التعرفة والتحقق من القراءات التقديرية يمكن أن يوفرا لك مئات الريالات — أحيانًا على فاتورة واحدة. العادتان اللتان تمنعان كل رسوم زائدة تقريبًا هما التحقق من قراءات العدّاد شهريًا واكتشاف الفاتورة التقديرية قبل دفعها.
+        </p>
+        <p class="mt-4">
+          لا تخمّن نفقاتك الشهرية. استخدم{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">حاسبة فاتورة الكهرباء من سعودي تول هب</a>{' '}
+          لتقدير فاتورتك التالية بناءً على استهلاكك الدقيق بالكيلوواط/ساعة — وسوِّ النزاع قبل أن يبدأ.
+        </p>
+        <p class="mt-4">
+          لدليل كامل لإدارة ميزانية منزلك، اقرأ{' '}
+          <a href="/guide/sec-electricity-bill-guide-saudi-arabia-2026" class="text-desert-primary underline">دليل دفع فاتورة الكهرباء 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">احسب فاتورة الكهرباء بدقة الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاني — أدخل استهلاكك بالكيلوواط/ساعة واحصل على الاستهلاك والضريبة والإجمالي فورًا</p>
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">استخدم حاسبة فاتورة الكهرباء المجانية</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية استنادًا إلى اللوائح الحالية للشركة السعودية للكهرباء. أسعار التعرفة والسياسات قابلة للتغيير. ارجع دائمًا إلى كشف حسابك الرسمي أو اتصل بخدمة عملاء الشركة (920001828) لنزاعات الفوترة.
+        </p>
+      </div>
+    `, ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">SEC بجلی گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی بجلی کا بل کیسے پڑھیں: ٹیرف کوڈز اور چھپی ہوئی فیسیں (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">سعودی الیکٹرسٹی کمپنی (SEC) کے بل کی ہر لائن کو سمجھنے کا سیدھا سادہ طریقہ — ٹیرف کوڈ، ویٹ، تخمینی ریڈنگز اور وہ فیسیں جنہیں زیادہ تر ایکسپیٹ کبھی نہیں دیکھتے۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آپ کا SEC بل ایک معمہ لگتا ہے — اسے حل کرنے کا طریقہ یہ ہے</h2>
+        <p>
+          ہر ایکسپیٹ کو وہ پہلا گرمیوں کا بل یاد ہے جس نے انہیں دو بار نمبر چیک کرنے پر مجبور کیا۔ آپ نے وہی AC، وہی فریج، وہی عادات رکھیں جیسے پچھلے مہینے — پھر بھی رقم تقریباً دگنی ہوگئی۔ آپ SEC ایپ کھولتے ہیں، نمبروں اور عربی لیبلز کی دیوار کو دیکھتے ہیں، اور خاموشی سے سوچتے ہیں کہ کہیں کوئی غلطی تو نہیں ہوئی۔
+        </p>
+        <p class="mt-4">
+          سعودی عرب میں مقیم لوگوں کے لیے یہ الجھن کے سب سے عام لمحوں میں سے ایک ہے، اور ایک بار جب آپ سمجھ جائیں کہ آپ کیا دیکھ رہے ہیں تو یہ مکمل طور پر حل ہو سکتی ہے۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">سیدھا جواب:</strong> آپ کا SEC بل کھپت کی قسطوں (بلکس)، 15% ویٹ، اور ممکنہ میٹر فیسیوں پر مشتمل ہوتا ہے۔ آپ کے مخصوص ٹیرف کوڈ کو سمجھنا اپنے چارجز کی تصدیق کا پہلا قدم ہے — اور ان بلنگ غلطیوں کو پکڑنے کا بھی جو آپ کی رقم بلا ضرورت بڑھا دیتی ہیں۔
+        </p>
+        <p class="mt-4">
+          اس گائیڈ میں آپ اپنے SEC سٹیٹمنٹ کا ہر حصہ پڑھنا، وہ ٹیرف کوڈ سمجھنا جو آپ کی شرح کا فیصلہ کرتا ہے، آپ کے کل کو بڑھانے والی چھپی ہوئی فیسیں پہچاننا، اور چند کام کے دنوں میں غلط بل پر اعتراض کرنا سیکھیں گے۔ اس کے بعد حیران کن بل آپ کو دوبارہ حیران نہیں کرے گا۔
+        </p>
+        <p class="mt-4">
+          کچھ بھی ادا کرنے سے پہلے، ہماری مفت{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">SEC بجلی بل کیلکولیٹر</a> سے اپنی درست واجب الادا رقم فوراً معلوم کریں — یہ آپ کے کلوواٹ گھنٹے کو سیکنڈوں میں تصدیق شدہ رقم میں بدل دیتا ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SEC بجلی کے بل کی ساخت</h2>
+        <p>
+          آپ کا SEC بل ایک معیاری ترتیب رکھتا ہے، چاہے وہ کاغذ پر آئے، SEC ایپ کے ذریعے، یا آپ کی SADAD ادائیگی کی فہرست میں۔ ایک بار جب آپ ہر خانے کا مطلب جان لیں تو پوری دستاویز تقریباً تیس سیکنڈ میں پڑھی جا سکتی ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">بل کا خانہ</th>
+                <th class="text-left py-2">آپ کو کیا بتاتا ہے</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>اکاؤنٹ نمبر</strong> (رقم الحساب)</td><td class="py-2">SEC کا آپ کا منفرد اکاؤنٹ نمبر۔ ایپ، ادائیگی اور اعتراضات کے لیے اسے ہاتھ میں رکھیں۔</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>میٹر نمبر</strong> (رقم العداد)</td><td class="py-2">آپ کی پراپرٹی پر نصب فزیکل میٹر کا سیریل نمبر۔ یہ بلوں کے درمیان مستقل رہنا چاہیے۔</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>بلنگ پیریڈ</strong> (فترة الفاتورة)</td><td class="py-2">وہ تاریخیں جن کا یہ بل احاطہ کرتا ہے — عام طور پر ایک کیلنڈر مہینہ۔</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>پچھلی ریڈنگ</strong> (القراءة السابقة)</td><td class="py-2">بلنگ پیریڈ کے آغاز میں درج میٹر نمبر۔</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>موجودہ ریڈنگ</strong> (القراءة الحالية)</td><td class="py-2">بلنگ پیریڈ کے اختتام پر درج میٹر نمبر۔</td></tr>
+              <tr><td class="py-2"><strong>کل کھپت</strong> (الاستهلاك)</td><td class="py-2">موجودہ میں پچھلی ریڈنگ کو منفی کریں — اس ماہ استعمال ہونے والے اصل کلوواٹ گھنٹے۔ یہی نمبر آپ کی لاگت طے کرتا ہے۔</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          آپ کے بل کے قلب میں موجود دو ریڈنگز پچھلے اور موجودہ میٹر نمبر ہیں۔ <strong class="text-white">کل کھپت (کلوواٹ گھنٹوں میں) محض موجودہ ریڈنگ منفی پچھلی ریڈنگ ہے۔</strong> اگر یہ حساب آپ کے بل پر چھپی رقم سے میل نہ کھائے تو آپ کو بلنگ کی مشکل مل گئی ہے۔
+        </p>
+        <p class="mt-4">
+          کھپت کے اعداد و شمار کے نیچے آپ کا بل ٹیرف کوڈ، فی کلوواٹ گھنٹہ لاگو شرح، کھپت کے چارجز، ویٹ، اور اضافی فیسیں دکھاتا ہے۔ زیادہ تر ایکسپیٹ براہِ راست نیچے کل رقم دیکھتے ہیں — اور یہی وجہ ہے کہ بلنگ کی غلطیاں مہینوں تک کسی کا دھیان نہیں دیتیں۔
+        </p>
+        <h3>اپنا بل کہاں تلاش کریں: کاغذ، ایپ اور SADAD</h3>
+        <p>
+          آپ کا SEC سٹیٹمنٹ تین جگہوں پر ظاہر ہو سکتا ہے، اور ہر ایک ایک جیسی معلومات تھوڑے مختلف انداز میں دکھاتا ہے۔ کاغذی بل روایتی طریقہ ہے اور عام طور پر آپ کے دروازے یا میل باکس پر لگایا جاتا ہے۔ <strong class="text-white">SEC ایپ</strong> آپ کے فون پر وہی سٹیٹمنٹ ایک بڑے فائدے کے ساتھ دکھاتی ہے: آپ کی مکمل کھپت کی تاریخ ایک نظر میں، مہینہ بہ مہینہ۔
+        </p>
+        <p class="mt-4">
+          تیسری جگہ <strong class="text-white">SADAD</strong> ہے، قومی بل ادائیگی کا نظام۔ SADAD آپ کو مکمل تفصیلی سٹیٹمنٹ نہیں دکھاتا — یہ صرف واجب الادا رقم کی تصدیق کرتا ہے اور آپ کو کسی بھی سعودی بینک سے ادائیگی کی اجازت دیتا ہے۔ زیادہ تر ایکسپیٹ نمبر پہلی بار یہیں دیکھتے ہیں، اور یہی وجہ ہے کہ ادائیگی سے پہلے مکمل سٹیٹمنٹ SEC ایپ میں کھولنا چاہیے۔
+        </p>
+        <h3>نمبر پڑھنا: ایک حقیقی مثال</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">لائن</th>
+                <th class="text-left py-2">بل پر قدر</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">پچھلی ریڈنگ</td><td class="py-2">41,285</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">موجودہ ریڈنگ</td><td class="py-2">41,841</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">کل کھپت</td><td class="py-2">556 کلوواٹ گھنٹے</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">ٹیرف کوڈ</td><td class="py-2">ریذیڈنشل (کوڈ 11)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">کھپت کے چارجز</td><td class="py-2">556 × 0.18 = 100.08 ریال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">ویٹ (15%)</td><td class="py-2">15.01 ریال</td></tr>
+              <tr><td class="py-2">کل واجب الادا</td><td class="py-2 text-desert-primary">115.09 ریال</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          اس مثال میں پورا 556 کلوواٹ گھنٹہ پہلی ریذیڈنشل قسط کے اندر آتا ہے، اس لیے ہر یونٹ کم شرح پر بل کیا گیا ہے۔ حساب صاف اور قابلِ تصدیق ہے: کھپت × شرح، جمع 15% ویٹ، کل کے برابر۔ ایک بار جب آپ اپنے بل کے لیے یہ حساب دہرا سکیں تو سٹیٹمنٹ کی کوئی رقم پراسرار نہیں رہتی۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SEC ٹیرف کوڈز سمجھنا (سب سے اہم حصہ)</h2>
+        <p>
+          آپ کے بل پر ٹیرف کوڈ ایک چھوٹا نمبر ہے جس کا بڑا اثر ہوتا ہے — یہ SEC کو بتاتا ہے کہ آپ کی پراپرٹی پر کون سا پرائسنگ ڈھانچہ لاگو ہوتا ہے۔ <strong class="text-white">مختلف پراپرٹی کی اقسام پر مختلف شرحوں پر بل کیا جاتا ہے، اور کوڈ فیصلہ کرتا ہے کہ آپ کو کون سا ملے گا۔</strong>
+        </p>
+        <p>
+          اگر آپ ریذیڈنشل فلیٹ یا ولا میں رہتے ہیں تو آپ کا بل ریذیڈنشل ٹیرف استعمال کرتا ہے۔ اگر آپ دکان، ورکشاپ یا گھر سے چلنے والا کاروبار چلاتے ہیں تو SEC ایک مختلف، عام طور پر زیادہ، کمرشل شرح لاگو کرتا ہے۔ اپنے اکاؤنٹ پر یہ کوڈ غلط ہونا یعنی برسوں غلط شرح پر بل کا وصول ہونا، بغیر آپ کو معلوم ہوئے۔
+        </p>
+        <p class="mt-4">
+          کوڈ کیسے تلاش کریں؟ کاغذی بل پر یہ اکاؤنٹ کی تفصیلات کے پاس دو ہندسوں کے نمبر کے طور پر ظاہر ہوتا ہے۔ SEC ایپ میں اکاؤنٹ کھولیں اور ٹیرف یا پلان کی معلومات کے تحت دیکھیں۔ اگر آپ کو یقین نہ ہو کہ آپ ریذیڈنشل ہیں یا کمرشل، تو اپنے اکاؤنٹ نمبر کے ساتھ SEC کو 920001828 پر ایک کال اسے طے کر دیتی ہے۔
+        </p>
+        <h3>ریذیڈنشل ٹیرف (کوڈ 11): ترقی پذیر "بلاک" نظام</h3>
+        <p>
+          سعودی عرب میں ریذیڈنشل ٹیرف ایک <strong class="text-white">ترقی پذیر بلاک نظام</strong> استعمال کرتا ہے: آپ کی ماہانہ کھپت کا پہلا بلاک کم شرح پر بل کیا جاتا ہے، اور جیسے ہی آپ کا استعمال اونچے بلاک میں داخل ہوتا ہے، اس لائن سے اوپر کا ہر کلوواٹ گھنٹہ زیادہ چارج ہوتا ہے۔
+        </p>
+        <p class="mt-4">
+          یہ وہ جگہ ہے جہاں زیادہ تر ایکسپیٹ الجھ جاتے ہیں۔ بلاکس کا مطلب یہ نہیں کہ "آپ کا پورا بل زیادہ شرح پر لگے گا۔" صرف کھپت کا وہ حصہ جو ہر بلاک میں آتا ہے اسی بلاک کی شرح پر چارج ہوتا ہے۔ یہ دو مراحل کا حساب ہے، اور یہ بتاتا ہے کہ گرمیوں کے بل اتنے زیادہ کیوں ہوتے ہیں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ریذیڈنشل ٹیرف بلاکس (تقریباً، اپنے سٹیٹمنٹ پر تصدیق کریں):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>پہلے 6,000 کلوواٹ گھنٹے فی مہینہ:</strong> کم شرح پر (تقریباً 0.18 ریال/کلوواٹ گھنٹہ)۔</li>
+            <li><strong>6,000 کلوواٹ گھنٹے سے اوپر فی مہینہ:</strong> زیادہ شرح پر (تقریباً 0.30 ریال/کلوواٹ گھنٹہ)۔</li>
+          </ul>
+          <p class="mt-2">مثال: ایک مہینے میں 8,000 کلوواٹ گھنٹے → 6,000 × 0.18 = 1,080 ریال، جمع 2,000 × 0.30 = 600 ریال۔ کھپت کا کل = <strong class="text-desert-primary">1,680 ریال</strong> ویٹ سے پہلے۔</p>
+        </div>
+        <p>
+          جو گھرانہ پورا گرمیوں کا موسم AC چلاتا ہے وہ آسانی سے 6,000 کلوواٹ گھنٹے کی لائن عبور کر سکتا ہے، اور اس سے اوپر کی ہر یونٹ مہنگی شرح پر بل ہوتی ہے۔ اسی لیے آپ کا جولائی کا بل جنوری کے بل سے دگنا ہو سکتا ہے حالانکہ آپ کی عادات مشکل سے بدلی ہیں۔
+        </p>
+        <p class="mt-4">
+          کراس اوور پوائنٹ لوگوں کی توقع سے زیادہ اہم ہے۔ جو خاندان بالکل 6,000 کلوواٹ گھنٹے سے نیچے رہتا ہے وہ مکمل طور پر کم شرح پر بل ہوتا ہے۔ جو خاندان 7,000 استعمال کرتا ہے وہ پہلے 6,000 پر کم شرح اور صرف آخری 1,000 پر زیادہ شرح ادا کرتا ہے۔ بلاک لائن پر چھلانگ حقیقی ہے، لیکن یہ کبھی آپ کی پوری کھپت پر لاگو نہیں ہوتی۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">عملی نتیجہ:</strong> اگر آپ 6,000 کلوواٹ گھنٹے کی لائن کے قریب ہیں، تو سب سے زیادہ پیسہ بچانے والا اقدام یہ ہے کہ کھپت کا آخری حصہ حد کے نیچے رکھیں۔ بلنگ مہینے کے آخری دنوں میں AC کے چند گھنٹے یا ایک زائد آلات کم کرنا آپ کا پورا بل کم شرح پر رکھ سکتا ہے۔
+        </p>
+        <p class="mt-4">
+          اچھی خبر: بلاک کا حساب مکمل طور پر آپ کی تصدیق کے لیے ہے۔ اپنی کھپت کلوواٹ گھنٹوں میں لیں، دو بلاکس جیسے دکھائے گئے لاگو کریں، اور حساب آپ کے بل کی "کھپت کے چارجز" لائن سے ملنا چاہیے۔ اگر نہ ملے تو یہ اعتراض کی بنیاد ہے۔
+        </p>
+        <h3>کمرشل/دکان ٹیرف (کوڈ 12): کیا بدلتا ہے</h3>
+        <p>
+          کمرشل ٹیرف دکانوں، دفاتر، ورکشاپس اور دیگر کاروباری مقامات پر لاگو ہوتا ہے، اور اسے ریذیڈنشل سے مختلف بل کیا جاتا ہے۔ <strong class="text-white">کمرشل صارفین ریذیڈنشل بلاک نظام کے بجائے فی کلوواٹ گھنٹہ ایک فلیٹ، زیادہ شرح ادا کرتے ہیں۔</strong>
+        </p>
+        <p class="mt-4">
+          اگر آپ کرائے کی دکان سے چھوٹا کاروبار چلاتے ہیں تو آپ کا SEC اکاؤنٹ کمرشل ٹیرف کوڈ رکھتا ہونا چاہیے۔ شرح عام طور پر ریذیڈنشل پہلے بلاک سے زیادہ ہوتی ہے، اسی لیے ایک جیسی کھپت پر کاروباری بجلی کا بل تیزی سے بڑھتا ہے۔
+        </p>
+        <p class="mt-4">
+          سرکاری، زرعی اور صنعتی مقامات کے لیے بھی الگ ٹیرف کیٹیگریز ہیں، ہر ایک کا اپنا شرح ڈھانچہ ہے۔ عام ایکسپیٹ کے لیے صرف دو کوڈز اہم ہیں — ریذیڈنشل اور کمرشل — لیکن اگر آپ کی پراپرٹی کی قسم دونوں سے باہر ہے تو بل اپنا کوڈ ظاہر کرے گا اور آپ اس کوڈ کی شرح SEC ویب سائٹ پر تصدیق کر سکتے ہیں۔
+        </p>
+        <p class="mt-4">
+          گھر سے چلنے والے کاروبار یا سائیڈ ورکشاپ والے ایکسپیٹس کے لیے ایک احتیاط: اگر SEC نے آپ کا اکاؤنٹ ریذیڈنشل کوڈ پر رکھا ہے، تو کمرشل طرز کا بوجھ میٹر کا معائنہ اور دوبارہ درجہ بندی کروا سکتا ہے جو آپ کے مستقبل کے بل بڑھا دیتا ہے۔ اگر آپ واقعی کاروبار چلاتے ہیں تو اسے صحیح کوڈ پر رجسٹر کریں — لیکن شرح سے بچنے کے لیے کبھی کمرشل ہونے والا کاروبار ریذیڈنشل اکاؤنٹ پر نہ چلائیں؛ دوبارہ درجہ بندی کا بل اس سے زیادہ ہوگا جو آپ نے بچایا۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>چھپی ہوئی فیسیں جن پر نظر رکھیں</h2>
+        <p>
+          آپ کے بل کے نیچے والا نمبر شاذ و نادر ہی صرف "کھپت" ہوتا ہے۔ اس کل کے اندر کئی فیسیں بیٹھی ہوتی ہیں، اور ہر ایک کو جاننا ہی زیادہ ادائیگی سے بچنے کا طریقہ ہے۔ ایکسپیٹ گھرانوں کے لیے سب سے اہم یہ چار ہیں۔
+        </p>
+        <h3>1. 15% ویٹ</h3>
+        <p>
+          ویلیو ایڈڈ ٹیکس (ویٹ) آپ کے بجلی کے بل پر معیاری سعودی شرح <strong class="text-white">15%</strong> پر لاگو ہوتا ہے، اور اس کا حساب آپ کے کل کھپت چارجز پر کیا جاتا ہے — صرف بنیادی شرح پر نہیں۔
+        </p>
+        <p class="mt-4">
+          عملی طور پر، اس کا مطلب ہے کہ آپ کا حتمی بل ویٹ سے پہلے دکھائے گئے کھپت رقم کے اوپر 15% شامل کرتا ہے۔ 1,680 ریال کی کھپت 252 ریال ویٹ شامل ہونے کے بعد 1,932 ریال بن جاتی ہے۔ ویٹ لائن آپ کے سٹیٹمنٹ پر واضح طور پر درج ہے (ضریبة القيمة المضافة)، اس لیے اس کی تصدیق ہمیشہ آسان ہونی چاہیے۔
+        </p>
+        <p class="mt-4">
+          چونکہ ویٹ ایک مقررہ فیصد ہے، یہ قابلِ گفت و شنید نہیں اور نہ ہی غلطی — لیکن یہ جانچنے کے قابل ہے کہ اسے صحیح کھپت کل پر لاگو کیا گیا۔ اگر آپ کی کھپت لائن تخمینی ریڈنگ سے بڑھ گئی تھی، تو آپ کا ویٹ بھی بڑھا ہوا ہے، جس کا مطلب ہے کہ ایک میٹر کی غلطی پورے بل پر پھیل جاتی ہے۔
+        </p>
+        <h3>2. تخمینی بمقابلہ اصل ریڈنگز</h3>
+        <p>
+          SEC بل کے غلط نظر آنے کی سب سے عام وجہ یہ ہے کہ یہ <strong class="text-white">تخمینی ریڈنگ پر مبنی تھا، اصل پر نہیں۔</strong> جب میٹر ریڈر آپ کی پراپرٹی تک نہیں پہنچ پاتا — بند گیٹ، تعمیرات کے تحت عمارت، یا گاڑی کے پیچھے چھپا میٹر — تو SEC آپ کی تاریخ کی بنیاد پر آپ کی کھپت کا تخمینہ لگاتا ہے۔
+        </p>
+        <p class="mt-4">
+          تخمینی بل عام طور پر ریڈنگ کے قریب علامت یا حرف "E" سے نشان زد ہوتے ہیں، اور سب سے زیادہ اس وقت ظاہر ہوتے ہیں جب آپ کا گیٹ بند ہو یا آپ کا کمپاؤنڈ ریڈنگ والے دن رسائی محدود کرے۔ مشکل یہ ہے: تخمینہ آپ کی اصل کھپت سے زیادہ ہو سکتا ہے، اور اضافی چارج آپ کے ویٹ میں بھی آتا ہے۔
+        </p>
+        <p class="mt-4">
+          اس کا ایک خاموش ورژن بھی ہے: ایسا تخمینہ جو بہت کم ہو۔ اگر SEC دو مہینے آپ کی کھپت کم تخمینہ کرتا ہے، تو اصل کھپت بعد میں مل جاتی ہے، اور ایک "کیچ اپ" بل آتا ہے جو اچانک اضافے کی طرح لگتا ہے۔ یہ غلطی نہیں — یہ آپ کے تخمینوں اور اصل استعمال کے درمیان فرق ہے جو آخر کار طے ہوتا ہے۔
+        </p>
+        <p class="mt-4">
+          حل تیز ہے۔ <strong class="text-white">SEC ایپ یا ویب سائٹ کے ذریعے "سیلف ریڈنگ" جمع کروائیں</strong> اپنے اصل میٹر کی تصویر کے ساتھ، اور SEC آپ کے بل کا حساب اصل نمبر کے مطابق دوبارہ کرے گا۔ اگر آپ پہلے ہی ایک تخمینی بل ادا کر چکے ہیں جو زیادہ تھا، تو کریڈٹ خود بخود آپ کے اگلے سٹیٹمنٹ پر چلا جاتا ہے۔
+        </p>
+        <h3>3. میٹر کرایہ یا دیکھ بھال کی فیسیں</h3>
+        <p>
+          آپ کے سٹیٹمنٹ پر میٹر اور کنکشن کے لیے ایک چھوٹی مقررہ لائن ہو سکتی ہے — ایک متواتر فیس جو آپ کی کھپت سے قطع نظر لی جاتی ہے۔ یہ عام طور پر معمولی رقم ہوتی ہے، لیکن ہر بلنگ سائیکل پر ظاہر ہوتی ہے۔
+        </p>
+        <p class="mt-4">
+          یہ فیس بہت سے SEC اکاؤنٹس پر معیاری ہے اور جرمانہ نہیں۔ پھر بھی، اپنے بل میں کوئی مقررہ لائن چیک کریں جو صفر کھپت پر بھی مہینہ بہ مہینہ دہرائی جائے۔ اگر آپ کو کوئی رقم نظر آئے جو آپ کی معمول کی مقررہ فیس نہیں لگتی، تو اسے نوٹ کریں اور SEC سے لائن کی وضاحت طلب کریں — غیر واضح مقررہ چارجز 920001828 پر ایک کال کے قابل ہیں۔
+        </p>
+        <h3>4. لیٹ پیمنٹ کے جرمانے</h3>
+        <p>
+          SEC جرمانہ لگاتا ہے جب بل اپنی مقررہ تاریخ تک ادا نہ ہو، اور یہ جرمانہ بڑھتا رہتا ہے جب تک رقم ادا نہ ہو۔ <strong class="text-white">اپنا بل SADAD، SEC ایپ یا اپنے بینک کی ایپ کے ذریعے وقت پر ادا کریں تاکہ یہ مکمل طور پر ختم رہے۔</strong>
+        </p>
+        <p class="mt-4">
+          لیٹ پیمنٹ چارج اگلے بل میں شامل ہوتا ہے، اس لیے چھوٹی ہوئی تاریخ آپ کے اگلے سٹیٹمنٹ کو خاموشی سے بڑھا دیتی ہے۔ اس سے بدتر، بار بار دیر سے ادائیگی کنکشن منقطع کروا سکتی ہے — اور منقطع میٹر کو دوبارہ جوڑنے پر الگ فیس لگتی ہے اور دن لگ سکتے ہیں۔
+        </p>
+        <p class="mt-4">
+          اپنی بلنگ تاریخ کے لیے بار بار ریمائنڈر سیٹ کریں، یا SEC ایپ میں آٹو پے فعال کریں تاکہ رقم آخری تاریخ سے پہلے ادا ہو جائے۔ ہر ماہ ایک بار کھانا باہر چھوڑنا ذہنی سکون سے زیادہ پورا کرتا ہے۔
+        </p>
+        <p class="mt-4">
+          ایک تفصیل جو ورکڈے شیڈول والے ایکسپیٹس کو پھنساتی ہے: مقررہ تاریخ آپ کی بلنگ سائیکل پر طے ہوتی ہے، نہ کہ کسی قومی چھٹی یا تنخواہ کے دن پر۔ اگر تنخواہ کا دن مقررہ تاریخ کے بعد آتا ہے تو جرمانہ پھر بھی لاگو ہوتا ہے۔ اپنے بل کی مقررہ تاریخ SEC ایپ کے ذریعے منتقل کریں تاکہ آپ کی تنخواہ کے دن کے ساتھ مل جائے — یہ دو منٹ کی سیٹنگ ہے جو ہر ماہ جرمانہ روکتی ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی عرب میں ایکسپیٹس کے لیے خصوصی باتیں (GEO ٹارگٹنگ)</h2>
+        <p>
+          ایکسپیٹس کو بجلی کی بلنگ کے چند حالات کا سامنا کرنا پڑتا ہے جن کے بارے میں سعودی شہری شاذ و نادر سوچتے ہیں — مشترکہ ولا، مالک کے نام پر اکاؤنٹ، اور کمپاؤنڈ ریڈنگ کی پابندیاں۔ یہ عملی جال ہیں، اور ہر ایک کا آسان حل ہے۔
+        </p>
+        <h3>کمپاؤنڈ/ولا کے رہائشیوں کے لیے: بل کو منصفانہ تقسیم کریں</h3>
+        <p>
+          متعدد خاندانوں یا روم میٹس کے ساتھ مشترکہ ولا یا کمپاؤنڈ میں رہنا ایکسپیٹس کے لیے سب سے عام انتظام ہے، اور یہ کلاسک مسئلہ پیدا کرتا ہے: ایک بل، کئی لوگ، اور اس بارے میں کبھی نہ ختم ہونے والی بحث کہ کس پر کتنا ہے۔
+        </p>
+        <p class="mt-4">
+          تقسیم کا منصفانہ طریقہ سر کے حساب سے نہیں، بلکہ کھپت کے اصل حصے کے مطابق ہے۔ رات کو دو AC چلانے والا خاندان طلوعِ فجر پر کام کے لیے نکلنے والے بیچلر سے کہیں زیادہ استعمال کرتا ہے، اس لیے بل کو برابر تقسیم کرنا عام طور پر ناراضگی پر ختم ہوتا ہے۔
+        </p>
+        <p class="mt-4">
+          بل آنے سے پہلے تقسیم کے اصول پر متفق ہوں، پھر حساب ایک بار کریں۔ ہماری مفت{' '}
+          <a href="/bill-splitter-calculator" class="text-desert-primary underline">بل سپلٹر کیلکولیٹر</a> کسی بھی بل کو سیکنڈوں میں منصفانہ تقسیم کرتا ہے — کس نے کیا استعمال کیا اس کے وزن کے ساتھ، یا برابر اگر آپ کے گھر نے ایسا طے کیا ہو۔ مہینے میں ایک حساب اس بحث کو ہمیشہ کے لیے ختم کر دیتا ہے۔
+        </p>
+        <h3>اپارٹمنٹ کرایہ داروں کے لیے: SEC اکاؤنٹ اپنے اقامہ پر منتقل کریں</h3>
+        <p>
+          بہت سے ایکسپیٹ اپارٹمنٹس مالک کے نام پر بل ہوتے ہیں کیونکہ پچھلے کرایہ دار کے جانے کے بعد اکاؤنٹ کبھی منتقل نہیں ہوا۔ <strong class="text-white">اکاؤنٹ کا مالک کے نام پر رہنا ایک مسئلہ ہے — آپ بل ادا کرتے ہیں لیکن آپ کا کنٹرول نہیں، اور اعتراضات کسی اور کے ذریعے جاتے ہیں۔</strong>
+        </p>
+        <p class="mt-4">
+          SEC اکاؤنٹ کو SEC ایپ یا SEC برانچ میں اپنے اقامہ کے نام پر منتقل کریں۔ آپ کو اپنا اقامہ، موجودہ اکاؤنٹ نمبر، اور عام طور پر مالک کی رضامندی یا دستخط شدہ کرایہ کا معاہدہ (ایجار) درکار ہوگا۔ ایک بار جب یہ آپ کے نام پر آ جائے تو تخمینی ریڈنگز، اعتراضات اور ریفنڈ براہِ راست آپ ہینڈل کرتے ہیں۔
+        </p>
+        <p class="mt-4">
+          اگر مالک اکاؤنٹ منتقل کرنے سے انکار کرے تو خود کو تحریری طور پر محفوظ رکھیں: ہر ادائیگی رسید اور دستخط شدہ لیز رکھیں، اور مالک سے تحریری طور پر تصدیق طلب کریں کہ آپ کے جانے پر اکاؤنٹ طے اور بند کر دیا جائے گا۔ تحریری ریکارڈ ہی آپ کی سیکیورٹی ڈپازٹ کی حفاظت کرتا ہے۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">عملی مشورہ:</strong> اگر آپ کا بل غیر معمولی طور پر زیادہ لگتا ہے، تو فوراً <strong class="text-white">SEC ایپ یا ویب سائٹ کے ذریعے "سیلف ریڈنگ" جمع کروائیں</strong> تاکہ تخمینی بلنگ کی غلطی درست ہو۔ اگلے ماہ کے سٹیٹمنٹ کا انتظار نہ کریں — تصحیح SEC کے آپ کی ریڈنگ پر عمل کرتے ہی لاگو ہوتی ہے۔
+        </p>
+        <h3>جنوب ایشیائی اور فلپائنی ایکسپیٹس کے لیے: کیا فرق ہے</h3>
+        <p>
+          جنوب ایشیا اور فلپائن سے آنے والے بڑے ایکسپیٹ گھرانے اکثر ایسے انداز میں مشترکہ رہائش میں رہتے ہیں جو ان کے اپنے بلنگ پیٹرن بناتے ہیں۔ ایک میٹر کے ساتھ ایک چھت کے نیچے کئی خاندان یعنی مشترکہ بوجھ 6,000 کلوواٹ گھنٹے کی لائن کو کہیں زیادہ کثرت سے عبور کرتا ہے — اور نتیجہ کو منصفانہ تقسیم کرنا وہیں سے رگڑ شروع ہوتی ہے۔
+        </p>
+        <p class="mt-4">
+          دوسرا عام پیٹرن گرمیوں کے مہینوں میں بھاری AC استعمال ہے جو لمبی شفٹوں کے ساتھ ملتا ہے، اس لیے میٹر چلتا رہتا ہے جبکہ سب باہر ہوتے ہیں۔ ایک <strong class="text-white">پروگرام ایبل تھرموسٹیٹ یا ونڈو AC پر ٹائمر</strong> اس خاص طرز زندگی کے لیے سب سے مؤثر حل ہے: یہ آپ کے پہنچنے سے پہلے کمرہ ٹھنڈا کرتا ہے بجائے پورے دن پوری طاقت پر چلنے کے۔
+        </p>
+        <p class="mt-4">
+          جو گھرانے ہر ماہ گھر پیسے بھیجتے ہیں، ان کے لیے بجلی کا بل براہِ راست ریمٹنس بجٹ سے مقابلہ کرتا ہے۔ وہی سیلف ریڈنگ عادت اضافی عجلت کے ساتھ لاگو ہوتی ہے: مشترکہ میٹر کے لیے تخمینی بل سینکڑوں ریال غلط ہو سکتا ہے، جو حقیقی رقم ہے جو خاندان تک پہنچنی چاہیے تھی۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مرحلہ وار: غلط SEC بل پر اعتراض کیسے کریں</h2>
+        <p>
+          جب آپ کا بل واقعی غلط ہو — غلط میٹر ریڈنگ، ڈپلیکیٹ چارج، یا ٹیرف کوڈ کی غلطی — تو SEC کے پاس اعتراض کا واضح راستہ ہے۔ ان اقدامات کو ترتیب سے فالو کریں اور زیادہ تر تصحیحات چند کام کے دنوں میں لاگو ہو جاتی ہیں۔
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>اپنی موجودہ میٹر ریڈنگ کی واضح تصویر لیں۔</strong> ایک فریم میں میٹر ڈسپلے اور میٹر سیریل نمبر دونوں لیں، تاکہ اس میں کوئی شک نہ ہو کہ آپ کس میٹر اور کس نمبر کا حوالہ دے رہے ہیں۔</li>
+          <li><strong>SEC ایپ یا ویب سائٹ (sec.com.sa) میں لاگ ان کریں۔</strong> متنازع بل سے منسلک اکاؤنٹ تک رسائی کے لیے اپنا اکاؤنٹ نمبر یا رجسٹرڈ موبائل نمبر استعمال کریں۔</li>
+          <li><strong>"میٹر ریڈنگ اپڈیٹ" جمع کروائیں یا "بلنگ شکایت" ٹکٹ کھولیں۔</strong> صحیح درخواست کی قسم منتخب کریں — تخمینی بلوں کے لیے اپڈیٹ شدہ ریڈنگ، یا چارجز کے تنازعات کے لیے بلنگ شکایت — اور اپنی تصویر اور کوئی معاون ثبوت منسلک کریں۔</li>
+          <li><strong>ایک ہی جمع کرانے میں ہر تفصیل شامل کریں۔</strong> اکاؤنٹ نمبر، بل کی تاریخ، متنازع رقم، اور ایک سطر کی وضاحت۔ مکمل ٹکٹ مبہم ٹکٹ سے تیزی سے حل ہوتا ہے۔</li>
+          <li><strong>SEC 3–5 کام کے دنوں میں بل کا جائزہ لے کر ایڈجسٹ کرے گا۔</strong> ایپ میں ٹکٹ کی حیثیت ٹریک کریں۔ اگر تصحیح منظور ہو جائے تو ایڈجسٹ شدہ رقم آپ کے اگلے سٹیٹمنٹ پر متنازع رقم کی جگہ لے لیتی ہے۔</li>
+        </ol>
+        <p>
+          اگر ایپ کا راستہ مسئلہ حل نہ کرے تو SEC کسٹمر سروس کو <strong class="text-white">920001828</strong> پر کال کریں اور اپنے ٹکٹ نمبر کا حوالہ دیں۔ ہر ٹکٹ نمبر اور اسکرین شاٹ رکھیں — دستاویزی ریکارڈ ہی وہ چیز ہے جو لطف انداز ہونے والے تنازع کو جیتتا ہے۔
+        </p>
+        <p class="mt-4">
+          ایک اصول یاد رکھیں: اعتراض کھلا ہوتے ہوئے اپنے بل ادا کرتے رہیں، ورنہ لیٹ پیمنٹ جرمانہ بڑھنے لگتا ہے۔ منظور شدہ تصحیح کا کریڈٹ خود بخود لاگو ہوتا ہے، اس لیے اب ادا کرنے سے آپ کو ریفنڈ بعد میں نہیں کھونا پڑتا۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">سوال: میرا SEC بجلی کا بل اس ماہ اتنا زیادہ کیوں آیا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">سب سے عام وجوہات ہیں اصل کے بجائے تخمینی ریڈنگ، گرمیوں میں 6,000 کلوواٹ گھنٹے کی بلاک لائن عبور کرنا، اور زیادہ کھپت کے کل پر 15% ویٹ۔ پہلے ریڈنگ کا نشان اور اپنا کلوواٹ گھنٹہ استعمال چیک کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">سوال: میں اپنے میٹر نمبر سے اپنا SEC بل کیسے چیک کروں؟</p>
+            <p class="text-gray-400 text-sm mt-1">SEC ایپ کھولیں، اپنے اکاؤنٹ سے لاگ ان ہوں، اور تازہ ترین بل اور کھپت کی تاریخ نکالنے کے لیے اکاؤنٹ سرچ میں اپنا میٹر نمبر درج کریں۔ میٹر نمبر میٹر اور ہر سٹیٹمنٹ پر چھپا ہوتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">سوال: کیا 15% ویٹ کل SEC بل کی رقم میں شامل ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ آپ کے SEC بل کے نیچے والا کل پہلے سے 15% ویٹ شامل رکھتا ہے، جو حتمی رقم میں شامل ہونے سے پہلے آپ کے کھپت چارجز پر لگایا جاتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">سوال: میں SEC بل کا نام اپنے اقامہ پر کیسے تبدیل کروں؟</p>
+            <p class="text-gray-400 text-sm mt-1">SEC ایپ کھولیں، اکاؤنٹ سروسز پر جائیں، اور اپنے اقامہ اور موجودہ اکاؤنٹ نمبر کے ساتھ منتقلی کی درخواست جمع کروائیں۔ کرائے کی پراپرٹیز کے لیے آپ کو مالک کی رضامندی یا ایجار کنٹریکٹ کی ضرورت ہو سکتی ہے۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آخری بات: آپ کا SEC بل پڑھنے کے قابل — اور تصدیق کے قابل ہے</h2>
+        <p>
+          پورا نظام ایک پیراگراف میں: آپ کا SEC بل کھپت ضرب آپ کے ٹیرف کوڈ، جمع 15% ویٹ، جمع کوئی مقررہ میٹر فیسیں ہے۔ ٹیرف کوڈ شرح بتاتا ہے، ریڈنگ رقم بتاتی ہے، اور ویٹ کھپت کل کا ایک مقررہ فیصد ہے۔
+        </p>
+        <p class="mt-4">
+          اپنے ٹیرف کوڈ کو سمجھنا اور تخمینی ریڈنگز کو چیک کرنا آپ کو سینکڑوں ریال بچا سکتا ہے — کبھی کبھی ایک ہی بل پر۔ تقریباً ہر زیادہ چارج کو روکنے والی دو عادتیں ہیں: ہر ماہ اپنی میٹر ریڈنگز کی تصدیق کرنا اور تخمینی بل کو ادا کرنے سے پہلے پکڑنا۔
+        </p>
+        <p class="mt-4">
+          اپنے ماہانہ اخراجات کا اندازہ لگانا چھوڑ دیں۔{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">سعودی ٹول ہب SEC بجلی بل کیلکولیٹر</a>{' '}
+          استعمال کریں تاکہ اپنے اگلے بل کا تخمینہ اپنے درست کلوواٹ گھنٹہ استعمال کی بنیاد پر لگائیں — اور بحث شروع ہونے سے پہلے ختم کر دیں۔
+        </p>
+        <p class="mt-4">
+          اپنے گھریلو بجٹ کے انتظام کی مکمل رہنمائی کے لیے، ہمارا{' '}
+          <a href="/guide/sec-electricity-bill-guide-saudi-arabia-2026" class="text-desert-primary underline">SEC بجلی بل ادائیگی گائیڈ 2026</a>{' '}
+          پڑھیں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنا درست SEC بل معلوم کریں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — اپنا کلوواٹ گھنٹہ استعمال درج کریں اور کھپت، ویٹ اور کل فوراً حاصل کریں</p>
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">مفت SEC بل کیلکولیٹر استعمال کریں</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>ڈسکلیمر:</strong> یہ گائیڈ موجودہ سعودی الیکٹرسٹی کمپنی (SEC) قواعد کی بنیاد پر معلوماتی مقاصد کے لیے ہے۔ ٹیرف کی شرحیں اور پالیسیاں تبدیل ہو سکتی ہیں۔ بلنگ تنازعات کے لیے ہمیشہ اپنے سرکاری SEC سٹیٹمنٹ کا حوالہ دیں یا SEC کسٹمر سروس (920001828) سے رابطہ کریں۔
+        </p>
+      </div>
+    `, tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">SEC Electricity Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Paano Basahin ang SEC Electricity Bill Mo: Tariff Codes at mga Nakatagong Charges (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Isang diretso, linya-sa-linya na pagbasag ng iyong Saudi Electricity Company bill — ang tariff codes, ang VAT, ang estimated readings, at ang mga bayad na hindi napapansin ng karamihan sa mga expat.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mukhang Bugtong ang SEC Bill Mo — Heto ang Paraan Para Lutasin Ito</h2>
+        <p>
+          Naaalala ng bawat expat ang unang summer bill na nagpatingin sa iyo ng dalawang beses sa numero. Pareho lang ang ginamit mong AC, pareho ang ref, pareho ang mga ugali kaysa noong nakaraang buwan — ngunit halos dumoble ang halaga. Binuksan mo ang SEC app, tumitig sa pader ng mga numero at Arabic labels, at tahimik na nagtatanong kung may nagkamali.
+        </p>
+        <p class="mt-4">
+          Isa ito sa pinakakaraniwang sandali ng kalituhan para sa mga residente sa Saudi Arabia, at ganap itong maaayos kapag naunawaan mo na kung ano ang iyong tinitingnan.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direktang sagot:</strong> Hinahati ang iyong SEC bill sa consumption blocks, isang 15% VAT, at posibleng mga meter fee. Ang pag-unawa sa iyong partikular na tariff code ang unang hakbang sa pag-verify ng iyong mga charge — at sa paghuli sa mga billing error na nagtataas ng halaga mo nang higit sa dapat.
+        </p>
+        <p class="mt-4">
+          Sa gabay na ito, matututunan mong basahin ang bawat bahagi ng iyong SEC statement, i-decode ang tariff code na nagtatakda ng iyong rate, makita ang mga nakatagong charge na nagpapalaki sa iyong kabuuang bayad, at mag-dispute ng maling bill sa loob ng ilang araw ng trabaho. Sa huli, hindi ka na muling magugulat sa isang sorpresang bill.
+        </p>
+        <p class="mt-4">
+          Bago ka magbayad ng kahit ano, i-estimate ang iyong eksaktong dues gamit ang aming libreng{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">SEC Electricity Bill Calculator</a> — ginagawa nitong verified na halaga ang iyong kilowatt-hours sa ilang segundo.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Anatomiya ng isang SEC Electricity Bill</h2>
+        <p>
+          Sumusunod ang iyong SEC bill sa isang standard na layout, kahit ito ay dumating sa papel, sa pamamagitan ng SEC app, o sa iyong SADAD payment list. Kapag alam mo na ang kahulugan ng bawat field, mababasa mo na ang buong dokumento sa halos tatlumpung segundo.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Field sa Iyong Bill</th>
+                <th class="text-left py-2">Ano ang Sinasabi Nito sa Iyo</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Account Number</strong> (رقم الحساب)</td><td class="py-2">Ang natatanging identifier ng iyong SEC account. Itago ito para sa app, pagbabayad, at mga dispute.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Meter Number</strong> (رقم العداد)</td><td class="py-2">Ang serial number ng pisikal na metro sa iyong property. Dapat itong manatiling pareho sa bawat bill.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Billing Period</strong> (فترة الفاتورة)</td><td class="py-2">Ang eksaktong mga petsa na sinasaklaw ng bill na ito — karaniwang isang buwan ng kalendaryo.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Previous Reading</strong> (القراءة السابقة)</td><td class="py-2">Ang meter number na naitala sa simula ng billing period.</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>Current Reading</strong> (القراءة الحالية)</td><td class="py-2">Ang meter number na naitala sa katapusan ng billing period.</td></tr>
+              <tr><td class="py-2"><strong>Total Consumption</strong> (الاستهلاك)</td><td class="py-2">Current minus previous reading — ang aktwal na kilowatt-hours (kWh) na ginamit mo ngayong buwan. Ito ang numerong nagtutulak sa iyong gastos.</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          Ang dalawang readings sa puso ng iyong bill ay ang previous at current meter numbers. <strong class="text-white">Ang Total Consumption (sa kWh) ay simpleng current reading minus previous reading.</strong> Kung hindi tugma ang math na iyon sa nakalimbag sa iyong bill, nakahanap ka na ng billing problem.
+        </p>
+        <p class="mt-4">
+          Sa ibaba ng consumption figures, ipinapakita ng iyong bill ang tariff code, ang inilapat na rate kada kilowatt-hour, ang consumption charges, VAT, at anumang karagdagang bayad. Karamihan sa mga expat ay diretso na tumitingin sa kabuuang halaga sa ibaba — at iyon mismo ang dahilan kung bakit hindi napapansin ang mga billing error sa loob ng maraming buwan.
+        </p>
+        <h3>Kung Saan Hahanapin ang Iyong Bill: Papel, App, at SADAD</h3>
+        <p>
+          Maaaring lumabas ang iyong SEC statement sa tatlong lugar, at bawat isa ay nagpapakita ng parehong impormasyon sa bahagyang magkaibang format. Ang paper bill ang tradisyonal na paraan at karaniwang inilalagay sa iyong pinto o mailbox. Ang <strong class="text-white">SEC app</strong> ay nagpapakita ng parehong statement sa iyong telepono na may isang malaking bentahe: ang iyong kumpletong consumption history sa isang sulyap, buwan-buwan.
+        </p>
+        <p class="mt-4">
+          Ang pangatlong lugar ay ang <strong class="text-white">SADAD</strong>, ang pambansang sistema ng pagbabayad ng bills. Hindi talaga ipinapakita ng SADAD ang buong itemized statement — kinukumpirma lang nito ang amount due at pinapayagan kang magbayad sa pamamagitan ng anumang Saudi bank. Dito unang nakikita ng maraming expat ang numero, at ito mismo ang dahilan kung bakit dapat buksan ang buong statement sa SEC app bago ka magbayad.
+        </p>
+        <h3>Pagbabasa ng mga Numero: Isang Totoong Halimbawa</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Line</th>
+                <th class="text-left py-2">Halaga sa Bill</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Previous Reading</td><td class="py-2">41,285</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Current Reading</td><td class="py-2">41,841</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Total Consumption</td><td class="py-2">556 kWh</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Tariff Code</td><td class="py-2">Residential (Code 11)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Consumption Charges</td><td class="py-2">556 × 0.18 = SAR 100.08</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">VAT (15%)</td><td class="py-2">SAR 15.01</td></tr>
+              <tr><td class="py-2">Total Due</td><td class="py-2 text-desert-primary">SAR 115.09</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          Sa halimbawang ito, ang buong 556 kWh ay nasa loob ng unang residential block, kaya bawat unit ay nasa mas mababang rate. Malinis at mabe-verify ang math: consumption × rate, plus 15% VAT, ay katumbas ng kabuuan. Kapag maaari mo nang kopyahin ang kalkulasyong ito para sa sarili mong bill, wala nang misteryosong halaga sa statement.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pag-decode ng mga SEC Tariff Code (Ang Pinakaimportanteng Bahagi)</h2>
+        <p>
+          Ang tariff code sa iyong bill ay isang maliit na numero na may malaking epekto — sinasabi nito sa SEC kung aling pricing structure ang naaangkop sa iyong property. <strong class="text-white">Iba't ibang property type ang binibigyan ng iba't ibang rate, at ang code ang nagpapasya kung alin ang makukuha mo.</strong>
+        </p>
+        <p>
+          Kung nakatira ka sa isang residential flat o villa, gumagamit ang iyong bill ng residential tariff. Kung nagpapatakbo ka ng shop, workshop, o home-based business, naglalapat ang SEC ng iba, kadalasang mas mataas, commercial rate. Ang maling code sa iyong account ay nangangahulugang binabayaran mo ang maling rate sa loob ng maraming taon nang hindi mo nalalaman.
+        </p>
+        <p class="mt-4">
+          Paano mo mahahanap ang iyong code? Sa paper bill, lumalabas ito malapit sa account details bilang isang dalawang-digit na numero. Sa SEC app, buksan ang account at tingnan sa ilalim ng tariff o plan information. Kung hindi ka sigurado kung nasa residential o commercial code ka, isang tawag sa SEC sa 920001828 gamit ang iyong account number ang magpapasya.
+        </p>
+        <h3>Residential Tariff (Code 11): Ang Tiered na "Block" System</h3>
+        <p>
+          Gumagamit ang residential tariff sa Saudi Arabia ng isang <strong class="text-white">progressive block system</strong>: ang unang block ng iyong buwanang consumption ay nasa mas mababang rate, at sa sandaling tumawid ang iyong paggamit sa mas mataas na block, bawat kilowatt-hour sa itaas ng linyang iyon ay mas mahal.
+        </p>
+        <p class="mt-4">
+          Dito nalilito ang karamihan sa mga expat. Hindi ibig sabihin ng mga block na "ang buong bill mo ay nasa mas mataas na rate." Tanging ang bahagi ng consumption na nasa loob ng bawat block ang sinisingil sa rate ng block na iyon. Dalawang-hakbang na kalkulasyon ito, at ipinapaliwanag nito kung bakit tumataas nang husto ang mga summer bill.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Residential tariff blocks (humigit-kumulang, i-verify sa iyong statement):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>Unang 6,000 kWh bawat buwan:</strong> sa mas mababang rate (humigit-kumulang 0.18 SAR/kWh).</li>
+            <li><strong>Higit sa 6,000 kWh bawat buwan:</strong> sa mas mataas na rate (humigit-kumulang 0.30 SAR/kWh).</li>
+          </ul>
+          <p class="mt-2">Halimbawa: 8,000 kWh na konsumo sa isang buwan → 6,000 kWh × 0.18 = SAR 1,080, plus 2,000 kWh × 0.30 = SAR 600. Kabuuan ng consumption = <strong class="text-desert-primary">SAR 1,680</strong> bago ang VAT.</p>
+        </div>
+        <p>
+          Isang sambahayan na nagpapatakbo ng AC sa buong tag-araw ay madaling makatawid sa 6,000 kWh na linya, at lahat ng nasa itaas nito ay sinisingil sa mahal na rate. Ito ang dahilan kung bakit maaaring higit sa doble ang iyong July bill kumpara sa January bill kahit halos hindi nagbago ang iyong mga ugali.
+        </p>
+        <p class="mt-4">
+          Mas mahalaga ang crossover point kaysa sa inaasahan ng mga tao. Ang pamilyang nananatili sa ilalim ng 6,000 kWh ay binabayaran nang buo sa mababang rate. Ang pamilyang gumagamit ng 7,000 kWh ay binabayaran sa mababang rate sa unang 6,000 at sa mataas na rate sa huling 1,000 lamang. Totoong ang pagtalon sa block line, ngunit hindi ito kailanman inilalapat sa iyong buong consumption.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang praktikal na takeaway:</strong> kung malapit ka sa 6,000 kWh na linya, ang pinakamataas na money-saving move ay ang panatilihin ang huling bahaging iyon ng paggamit sa ilalim ng limit. Ang pagbawas ng ilang oras ng AC o isang redundant na appliance sa mga huling araw ng billing month ay maaaring panatilihin ang iyong buong bill sa mas mababang rate.
+        </p>
+        <p class="mt-4">
+          Ang magandang balita: ang block calculation ay nasa iyong panig para i-verify. Kunin ang iyong consumption sa kWh, ilapat ang dalawang block tulad ng ipinakita, at dapat tumugma ang aritmetika sa "consumption charges" line sa iyong bill. Kung hindi, iyon ay basehan para sa dispute.
+        </p>
+        <h3>Commercial/Shop Tariff (Code 12): Ano ang Nagbabago</h3>
+        <p>
+          Nalalapat ang commercial tariff sa mga shop, opisina, workshop, at iba pang business premises, at iba itong binabayaran kaysa sa residential. <strong class="text-white">Ang mga commercial customer ay nagbabayad ng flat, mas mataas na rate kada kilowatt-hour imbes na ang residential block system.</strong>
+        </p>
+        <p class="mt-4">
+          Kung nagpapatakbo ka ng maliit na negosyo mula sa isang inupahang shop, dapat na nasa commercial tariff code ang iyong SEC account. Sa pangkalahatan ay mas mataas ang rate kaysa sa residential first block, kaya naman mas mabilis tumaas ang business electricity bill sa parehong paggamit.
+        </p>
+        <p class="mt-4">
+          Mayroon ding hiwalay na tariff categories para sa government, agricultural, at industrial premises, bawat isa ay may sariling rate structure. Para sa isang tipikal na expat, ang dalawang code lang na mahalaga ay ang residential at commercial — ngunit kung ang iyong property type ay wala sa dalawa, ilalagay ng bill ang sarili nitong code at mabe-verify mo ang rate ng code na iyon sa SEC website.
+        </p>
+        <p class="mt-4">
+          Isang babala para sa mga expat na may home-based business o side workshop: kung nasa residential code ang iyong account, ang commercial-style load ay maaaring mag-trigger ng meter inspection at reclassification na magtataas ng iyong mga susunod na bill. Kung totoong negosyo ang iyong pinapatakbo, irehistro ito sa tamang code — ngunit huwag kailanman patakbuhin ang isang negosyo na dapat commercial sa residential account para makaiwas sa rate; mas malaki ang reclassification bill kaysa sa inipon mo.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Nakatagong Charge at Bayad na Dapat Mong Bantayan</h2>
+        <p>
+          Ang numero sa ibaba ng iyong bill ay bihirang "consumption" lang. Ilang charge ang nakaupo sa loob ng kabuuang iyon, at ang pag-alam sa bawat isa ay kung paano mo maiiwasan ang sobrang pagbabayad. Heto ang apat na pinakamahalaga para sa mga expat household.
+        </p>
+        <h3>1. Ang 15% VAT</h3>
+        <p>
+          Nalalapat ang Value Added Tax (VAT) sa iyong electricity bill sa standard na Saudi rate na <strong class="text-white">15%</strong>, at kinukwenta ito sa iyong kabuuang consumption charges — hindi lang sa base rate.
+        </p>
+        <p class="mt-4">
+          Sa praktikal na salita, nangangahulugan ito na kasama sa iyong huling bill ang 15% sa itaas ng halaga ng consumption na ipinakita bago ang VAT. Ang SAR 1,680 na consumption total ay nagiging SAR 1,932 pagkatapos maidagdag ang SAR 252 na VAT. Malinaw na minamarkahan ang VAT line sa iyong statement (ضريبة القيمة المضافة), kaya dapat laging madaling i-verify.
+        </p>
+        <p class="mt-4">
+          Dahil fixed percentage ang VAT, hindi ito negotiable at hindi ito error — ngunit sulit na i-check kung inilapat ito sa tamang consumption total. Kung pinalaki ang iyong consumption line ng isang estimated reading, pinalaki rin ang iyong VAT, na nangangahulugang ang isang meter error ay lumalaki sa buong bill.
+        </p>
+        <h3>2. Estimated vs. Actual Readings</h3>
+        <p>
+          Ang pinakakaraniwang dahilan kung bakit mukhang mali ang isang SEC bill ay batay ito sa isang <strong class="text-white">estimated reading, hindi isang aktwal.</strong> Kapag hindi ma-access ng meter reader ang iyong property — isang naka-lock na gate, isang building na ginagawa, o isang meter na nakatago sa likod ng sasakyan — in-e-estimate ng SEC ang iyong paggamit batay sa iyong history.
+        </p>
+        <p class="mt-4">
+          Karaniwang minamarkahan ang mga estimated bill ng simbolo o isang "E" malapit sa reading, at madalas itong lumalabas kapag naka-lock ang iyong gate o naghihigpit ang iyong compound ng access sa araw ng pagbabasa. Ang problema: maaaring mas mataas ang estimate kaysa sa iyong totoong paggamit, at ang sobrang singil ay napupunta rin sa iyong VAT.
+        </p>
+        <p class="mt-4">
+          Mayroon ding tahimik na bersyon ng parehong problema: isang estimate na masyadong mababa. Kung minamaliit ng SEC ang iyong paggamit sa loob ng ilang buwan, ire-reconcile ang totoong consumption mamaya, at dumarating ang isang "catch-up" bill na mukhang biglaang pagtaas. Hindi iyon isang error — ito ang pagkakaiba sa pagitan ng iyong mga estimate at iyong aktwal na paggamit na sa wakas ay naayos na.
+        </p>
+        <p class="mt-4">
+          Mabilis ang solusyon. <strong class="text-white">Mag-submit ng "Self-Reading" sa pamamagitan ng SEC app o website</strong> na may larawan ng iyong aktwal na meter, at ire-recalculate ng SEC ang iyong bill batay sa totoong numero. Kung nagbayad ka na ng estimated bill na masyadong mataas, awtomatikong dadalhin ang credit sa iyong susunod na statement.
+        </p>
+        <h3>3. Meter Rental o Maintenance Fees</h3>
+        <p>
+          Maaaring may dalang maliit na fixed line item ang iyong statement para sa meter at connection — isang pana-panahong bayad na sinisingil kahit gaano kalaki ang iyong konsumo. Karaniwang katamtaman lang ang halaga nito, ngunit lumalabas ito sa bawat billing cycle.
+        </p>
+        <p class="mt-4">
+          Standard ang bayad na ito sa maraming SEC account at hindi ito penalty. Gayunpaman, i-check ang iyong bill para sa isang fixed line item na umuulit buwan-buwan kahit zero ang consumption. Kung makakita ka ng halaga na hindi mukhang iyong karaniwang fixed fee, tandaan ito at hilingin sa SEC na ipaliwanag ang line — ang mga hindi maipaliwanag na fixed charges ay karapat-dapat sa isang tawag sa 920001828 para kumpirmahin.
+        </p>
+        <h3>4. Late Payment Penalties</h3>
+        <p>
+          Naglalapat ng penalty ang SEC kapag hindi nabayaran ang bill sa takdang petsa nito, at lumalaki ang penalty habang nananatiling hindi bayad ang halaga. <strong class="text-white">Bayaran ang iyong bill sa tamang oras sa pamamagitan ng SADAD, SEC app, o app ng iyong bank para tuluyang maiwasan ito.</strong>
+        </p>
+        <p class="mt-4">
+          Idinadagdag ang late-payment charge sa susunod na bill, kaya ang na-miss na due date ay tahimik na nagpapalaki sa iyong susunod na statement. Mas malala, ang paulit-ulit na late payment ay maaaring humantong sa disconnection — at ang muling pagkonekta ng naputol na meter ay may hiwalay na bayad at maaaring tumagal ng mga araw.
+        </p>
+        <p class="mt-4">
+          Mag-set ng paulit-ulit na reminder sa iyong billing date, o i-enable ang auto-pay sa SEC app para ma-settle ang halaga bago ang deadline. Ang paglaktaw ng isang dinner out kada buwan ay higit pa sa sumasaklaw sa peace of mind.
+        </p>
+        <p class="mt-4">
+          Isang detalye na humaharang sa mga expat na may workday schedule: ang due date ay naka-fix sa iyong billing cycle, hindi sa isang pambansang holiday o sahod. Kung nahuhulog ang payday pagkatapos ng due date, mag-aaplay pa rin ang penalty. Ilipat ang due date ng iyong bill sa pamamagitan ng SEC app para tumugma ito sa araw ng sahod mo — isang dalawang-minutong setting na pumipigil ng penalty bawat buwan.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Espesyal na Konsiderasyon para sa mga Expat sa Saudi Arabia (GEO Targeting)</h2>
+        <p>
+          Nakakaranas ang mga expat ng ilang sitwasyon sa electricity billing na bihirang iniisip ng mga Saudi — mga shared villa, account sa pangalan ng landlord, at compound reading restrictions. Ito ang mga praktikal na bitag, at bawat isa ay may simpleng solusyon.
+        </p>
+        <h3>Para sa mga Compound/Villa Resident: Paano Hatiin ang Bill nang Patas</h3>
+        <p>
+          Ang pamumuhay sa isang shared villa o compound kasama ang maraming pamilya o roommates ang pinakakaraniwang setup para sa mga expat, at lumilikha ito ng klasikong problema: isang bill, maraming tao, at walang katapusang pagtatalo kung sino ang may utang.
+        </p>
+        <p class="mt-4">
+          Ang patas na paraan ng paghati ay batay sa aktwal na bahagi ng paggamit, hindi sa bilang ng tao. Ang isang pamilyang nagpapatakbo ng dalawang AC sa gabi ay gumagamit ng mas malaki kaysa sa isang bachelor na umaalis ng madaling araw para sa trabaho, kaya ang paghahati ng bill nang pantay ay kadalasang nagtatapos sa sama ng loob.
+        </p>
+        <p class="mt-4">
+          Sumang-ayon sa patakaran ng paghati bago dumating ang bill, pagkatapos gawin ang math nang isang beses. Ang aming libreng{' '}
+          <a href="/bill-splitter-calculator" class="text-desert-primary underline">Bill Splitter Calculator</a> ay naghahati ng anumang bill nang patas sa ilang segundo — naka-timbang kung sino ang gumamit ng ano, o pantay kung iyon ang napagkasunduan ng iyong sambahayan. Isang kalkulasyon bawat buwan ang permanenteng nagtatapos sa argumento.
+        </p>
+        <h3>Para sa mga Apartment Renter: Ilipat ang SEC Account sa Iyong Iqama</h3>
+        <p>
+          Maraming expat apartment ang binabayaran sa pangalan ng landlord dahil hindi na-transfer ang account pagkatapos umalis ng dating tenant. <strong class="text-white">Ang pananatili ng account sa pangalan ng landlord ay isang problema — binabayaran mo ang bill ngunit wala kang kontrol, at dumadaan sa ibang tao ang mga dispute.</strong>
+        </p>
+        <p class="mt-4">
+          Ilipat ang SEC account sa iyong pangalan sa pamamagitan ng SEC app o sa isang SEC branch. Kakailanganin mo ang iyong Iqama, ang kasalukuyang account number, at kadalasan ang pahintulot ng landlord o ang signed tenancy contract (Ejar). Kapag nasa pangalan mo na ito, ang mga estimated reading, dispute, at refund ay direktang hinahawakan mo.
+        </p>
+        <p class="mt-4">
+          Kung tumanggi ang landlord na ilipat ang account, protektahan ang iyong sarili nang nakasulat: itago ang bawat payment receipt at ang signed lease, at hilingin sa landlord na kumpirmahin nang nakasulat na ang account ay isa-settle at isasara kapag umalis ka. Ang nakasulat na trail lang ang nagpoprotekta sa iyong security deposit sa turnover.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Actionable tip:</strong> Kung mukhang hindi karaniwang mataas ang iyong bill, agad na mag-submit ng <strong class="text-white">"Self-Reading" sa pamamagitan ng SEC app o website</strong> para itama ang isang estimated billing error. Huwag maghintay sa susunod na buwang statement — mag-aaplay ang correction sa sandaling iproseso ng SEC ang iyong reading.
+        </p>
+        <h3>Para sa mga South Asian at Filipino Expat: Ano ang Iba</h3>
+        <p>
+          Ang malalaking expat household mula sa South Asia at Pilipinas ay madalas na nagbabahagi ng tirahan sa mga paraang lumilikha ng sarili nilang billing patterns. Ilang pamilya sa iisang bubong na may isang meter ay nangangahulugang mas madalas tumawid ang pinagsamang load sa 6,000 kWh block line — at dito nagsisimula ang alitan sa paghahati ng resulta nang patas.
+        </p>
+        <p class="mt-4">
+          Ang pangalawang karaniwang pattern ay ang mabigat na paggamit ng AC sa mga buwan ng tag-araw na sinamahan ng mahabang work shifts, kaya patuloy na tumatakbo ang meter habang wala ang lahat. Ang isang <strong class="text-white">programmable thermostat o isang timer sa window AC</strong> ang pinakamabisang solusyon para sa eksaktong lifestyle na ito: pinapalamig nito ang kwarto bago ka dumating imbes na tumakbo sa buong lakas buong araw.
+        </p>
+        <p class="mt-4">
+          Para sa mga OFW household na nagpapadala ng pera buwan-buwan, direktang nakikipagkumpitensya ang electricity bill sa remittance budget. Nalalapat ang parehong self-reading na ugali na may dagdag na pagkaapurahan: ang isang estimated bill para sa isang shared meter ay maaaring magkamali ng daan-daang Riyal, na totoong pera na dapat napunta sa pamilya.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: Paano Mag-Dispute ng Maling SEC Bill</h2>
+        <p>
+          Kapag talagang mali ang iyong bill — isang maling meter reading, isang duplicate na charge, o isang error sa tariff code — may malinaw na dispute path ang SEC. Sundin ang mga hakbang na ito nang sunod-sunod at karamihan sa mga correction ay inilalapat sa loob ng ilang araw ng trabaho.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Kumuha ng malinaw na larawan ng iyong kasalukuyang meter reading.</strong> Ikuha ang meter display at ang meter serial number sa isang frame, para walang pagdududa kung aling meter at aling numero ang iyong tinutukoy.</li>
+          <li><strong>Mag-log in sa SEC app o website (sec.com.sa).</strong> Gamitin ang iyong account number o registered mobile number para ma-access ang account na naka-link sa pinag-uusapang bill.</li>
+          <li><strong>Mag-submit ng "Meter Reading Update" o magbukas ng "Billing Complaint" ticket.</strong> Piliin ang tamang uri ng request — isang updated reading para sa estimated bills, o isang billing complaint para sa mga charge dispute — at i-attach ang iyong larawan at anumang supporting evidence.</li>
+          <li><strong>Isama ang bawat detalye sa isang submission.</strong> Ang account number, ang petsa ng bill, ang pinag-uusapang halaga, at isang isang-linya na paliwanag. Mas mabilis na nare-resolve ang kumpletong ticket kaysa sa malabo.</li>
+          <li><strong>Susuriin at ia-adjust ng SEC ang bill sa loob ng 3–5 araw ng trabaho.</strong> I-track ang status ng ticket sa app. Kung maaprubahan ang correction, papalitan ng adjusted amount ang pinag-uusapang halaga sa iyong susunod na statement.</li>
+        </ol>
+        <p>
+          Kung hindi naresolba ng app route, tumawag sa SEC customer service sa <strong class="text-white">920001828</strong> at banggitin ang iyong ticket number. Itago ang bawat ticket number at screenshot — ang dokumentadong paper trail ang siyang nananalo sa isang dispute na humahaba.
+        </p>
+        <p class="mt-4">
+          Isang patakarang tandaan: patuloy na magbayad ng iyong bills habang bukas ang isang dispute, kung hindi magsisimulang maipon ang late-payment penalty. Awtomatikong inilalapat ang credit para sa isang naaprubahang correction, kaya hindi ka mawawalan ng refund sa pagbabayad ngayon.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Bakit napakataas ng SEC electricity bill ko ngayong buwan?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang pinakakaraniwang dahilan ay isang estimated reading imbes na aktwal, pagtawid sa 6,000 kWh block line sa tag-araw, at ang 15% VAT na idinagdag sa mas mataas na consumption total. I-check muna ang marka ng reading at ang iyong kWh na paggamit.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Paano ko ma-check ang SEC bill ko gamit ang meter number ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Buksan ang SEC app, mag-log in gamit ang iyong account, at ilagay ang iyong meter number sa account search para makuha ang iyong pinakabagong bill at consumption history. Nakalimbag ang meter number sa meter at sa bawat statement.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Kasama na ba ang 15% VAT sa kabuuang halaga ng SEC bill ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Ang kabuuan sa ibaba ng iyong SEC bill ay kasama na ang 15% VAT, na kinukwenta sa iyong consumption charges bago ito idagdag sa huling halaga.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Paano ko palitan ang pangalan sa SEC bill sa aking Iqama?</p>
+            <p class="text-gray-400 text-sm mt-1">Buksan ang SEC app, pumunta sa account services, at mag-submit ng transfer request gamit ang iyong Iqama at ang kasalukuyang account number. Maaaring kailanganin mo ang pahintulot ng landlord o ang iyong Ejar contract para sa mga inuupahang property.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Huling Salita: Ang SEC Bill Mo ay Nababasa — at Mabe-verify</h2>
+        <p>
+          Heto ang buong sistema sa isang talata: ang iyong SEC bill ay consumption times iyong tariff code, plus 15% VAT, plus anumang fixed meter fees. Sinasabi ng tariff code ang rate, sinasabi ng reading ang halaga, at ang VAT ay isang fixed percentage ng consumption total.
+        </p>
+        <p class="mt-4">
+          Ang pag-unawa sa iyong tariff code at pag-check ng mga estimated reading ay makakapagtipid sa iyo ng daan-daang Riyal — minsan sa iisang bill. Ang dalawang ugali na pumipigil sa halos bawat sobrang singil ay ang pag-verify ng iyong meter readings bawat buwan at paghuli sa isang estimated bill bago mo ito bayaran.
+        </p>
+        <p class="mt-4">
+          Huwag hulaan ang iyong buwanang gastos. Gamitin ang{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">SaudiToolHub SEC Bill Calculator</a>{' '}
+          para i-estimate ang iyong susunod na bill batay sa iyong eksaktong kWh na paggamit — at i-settle ang argumento bago pa ito magsimula.
+        </p>
+        <p class="mt-4">
+          Para sa kumpletong gabay sa pamamahala ng iyong household budget, basahin ang aming{' '}
+          <a href="/guide/sec-electricity-bill-guide-saudi-arabia-2026" class="text-desert-primary underline">SEC Electricity Bill Payment Guide 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Kalkulahin ang Iyong Eksaktong SEC Bill Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — ilagay ang iyong kWh na paggamit at makuha ang iyong consumption, VAT, at kabuuan agad</p>
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">Gamitin ang Libreng SEC Bill Calculator</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa informational purposes batay sa kasalukuyang Saudi Electricity Company (SEC) regulations. Maaaring magbago ang tariff rates at policies. Laging sumangguni sa iyong opisyal na SEC statement o makipag-ugnayan sa SEC customer service (920001828) para sa mga billing dispute.
+        </p>
+      </div>
+    `, bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">SEC বিদ্যুৎ গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি বিদ্যুৎ বিল কীভাবে পড়বেন: ট্যারিফ কোড ও লুকানো চার্জ (২০২৬)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">সৌদি ইলেকট্রিসিটি কোম্পানির (SEC) বিলের প্রতিটি লাইন বোঝার সরাসরি পদ্ধতি — ট্যারিফ কোড, ভ্যাট, আনুমানিক রিডিং এবং সেই ফিগুলো যা বেশিরভাগ প্রবাসী কখনও লক্ষ্য করেন না।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আপনার SEC বিল ধাঁধাঁর মতো দেখাচ্ছে — এটিই সমাধান করার উপায়</h2>
+        <p>
+          প্রতিটি প্রবাসী প্রথম গ্রীষ্মের বিলটি মনে রাখে যা তাদের সংখ্যাটি দুবার দেখতে বাধ্য করেছিল। আপনি একই এসি, একই ফ্রিজ, একই অভ্যাস রেখেছিলেন গত মাসের মতো — তবুও টাকার পরিমাণ প্রায় দ্বিগুণ হয়ে গেল। আপনি SEC অ্যাপ খোলেন, সংখ্যা ও আরবি লেবেলের একটি দেওয়ালের দিকে তাকান, আর নীরবে ভাবেন কেউ ভুল করেছে কিনা।
+        </p>
+        <p class="mt-4">
+          সৌদি আরবে বসবাসকারীদের জন্য এটি বিভ্রান্তির সবচেয়ে সাধারণ মুহূর্তগুলোর একটি, এবং আপনি যা দেখছেন তা একবার বুঝতে পারলে এটি সম্পূর্ণভাবে সমাধানযোগ্য।
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">সরাসরি উত্তর:</strong> আপনার SEC বিলটি খরচের ব্লক, ১৫% ভ্যাট এবং সম্ভাব্য মিটার ফি-তে বিভক্ত। আপনার নির্দিষ্ট ট্যারিফ কোড বোঝাই আপনার চার্জ যাচাইয়ের প্রথম ধাপ — এবং সেই বিলিং ভুলগুলো ধরা পড়ারও, যা আপনার পরিমাণ যথাযথের চেয়ে বেশি করে তুলে।
+        </p>
+        <p class="mt-4">
+          এই গাইডে আপনি আপনার SEC স্টেটমেন্টের প্রতিটি অংশ পড়তে, আপনার হার নির্ধারণকারী ট্যারিফ কোডটি ডিকোড করতে, আপনার মোট বাড়ানো লুকানো চার্জগুলো শনাক্ত করতে এবং কয়েক কার্যদিবসের মধ্যে ভুল বিলের বিরুদ্ধে আপত্তি করতে শিখবেন। এরপর একটি আশ্চর্য বিল আপনাকে আর কখনও বিস্মিত করবে না।
+        </p>
+        <p class="mt-4">
+          কিছু দেওয়ার আগে, আমাদের বিনামূল্যের{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">SEC বিদ্যুৎ বিল ক্যালকুলেটর</a> দিয়ে আপনার সঠিক বকেয়া হিসাব করুন — এটি আপনার কিলোওয়াট-ঘণ্টাকে সেকেন্ডে যাচাইকৃত পরিমাণে পরিণত করে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SEC বিদ্যুৎ বিলের গঠন</h2>
+        <p>
+          আপনার SEC বিল একটি মানসম্মত বিন্যাস অনুসরণ করে, তা কাগজে আসুক, SEC অ্যাপের মাধ্যমে হোক, বা আপনার সাদাদ পেমেন্ট তালিকায়। প্রতিটি ঘরের অর্থ জানা হয়ে গেলে, পুরো নথিটি প্রায় ত্রিশ সেকেন্ডে পড়া যায়।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">বিলের ঘর</th>
+                <th class="text-left py-2">এটি যা বলে</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>অ্যাকাউন্ট নম্বর</strong> (رقم الحساب)</td><td class="py-2">SEC-এর কাছে আপনার অনন্য অ্যাকাউন্ট পরিচয়। অ্যাপ, পেমেন্ট ও আপত্তির জন্য এটি হাতে রাখুন।</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>মিটার নম্বর</strong> (رقم العداد)</td><td class="py-2">আপনার সম্পত্তিতে থাকা প্রকৃত মিটারের সিরিয়াল নম্বর। বিলগুলোর মধ্যে এটি স্থির থাকতে হবে।</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>বিলিং পিরিয়ড</strong> (فترة الفاتورة)</td><td class="py-2">এই বিলটি কভার করা সঠিক তারিখগুলো — সাধারণত একটি ক্যালেন্ডার মাস।</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>পূর্ববর্তী রিডিং</strong> (القراءة السابقة)</td><td class="py-2">বিলিং পিরিয়ডের শুরুতে রেকর্ড করা মিটার নম্বর।</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2"><strong>বর্তমান রিডিং</strong> (القراءة الحالية)</td><td class="py-2">বিলিং পিরিয়ডের শেষে রেকর্ড করা মিটার নম্বর।</td></tr>
+              <tr><td class="py-2"><strong>মোট খরচ</strong> (الاستهلاك)</td><td class="py-2">বর্তমান বিয়োগ পূর্ববর্তী রিডিং — এই মাসে আপনি ব্যবহৃত প্রকৃত কিলোওয়াট-ঘণ্টা (kWh)। এই সংখ্যাই আপনার খরচ নির্ধারণ করে।</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          আপনার বিলের হৃদয়ে থাকা দুটি রিডিং হলো পূর্ববর্তী ও বর্তমান মিটার নম্বর। <strong class="text-white">মোট খরচ (kWh-এ) কেবল বর্তমান রিডিং বিয়োগ পূর্ববর্তী রিডিং।</strong> এই হিসাবটি আপনার বিলে ছাপা সংখ্যার সাথে মেলে না গেলে, আপনি ইতিমধ্যেই একটি বিলিং সমস্যা খুঁজে পেয়েছেন।
+        </p>
+        <p class="mt-4">
+          খরচের পরিসংখ্যানের নিচে আপনার বিল ট্যারিফ কোড, প্রতি কিলোওয়াট-ঘণ্টায় প্রযোজ্য হার, খরচ চার্জ, ভ্যাট এবং যেকোনো অতিরিক্ত ফি দেখায়। বেশিরভাগ প্রবাসী সরাসরি নিচের মোট পরিমাণ দেখে ফেলে — এবং এজন্যই বিলিং ভুলগুলো মাসের পর মাস অলক্ষিত থেকে যায়।
+        </p>
+        <h3>আপনার বিল কোথায় পাবেন: কাগজ, অ্যাপ ও সাদাদ</h3>
+        <p>
+          আপনার SEC স্টেটমেন্ট তিনটি জায়গায় দেখা যেতে পারে, এবং প্রতিটিই একই তথ্য সামান্য ভিন্ন বিন্যাসে দেখায়। কাগজের বিলই ঐতিহ্যবাহী পদ্ধতি এবং সাধারণত আপনার দরজা বা মেইলবক্সে আটকানো থাকে। <strong class="text-white">SEC অ্যাপ</strong> আপনার ফোনে একই স্টেটমেন্ট দেখায় একটি বড় সুবিধা সহ: আপনার সম্পূর্ণ খরচের ইতিহাস এক নজরে, মাসে মাসে।
+        </p>
+        <p class="mt-4">
+          তৃতীয় জায়গাটি হলো <strong class="text-white">সাদাদ</strong>, জাতীয় বিল পরিশোধ ব্যবস্থা। সাদাদ আসলে সম্পূর্ণ আইটেমাইজড স্টেটমেন্ট দেখায় না — এটি কেবল বকেয়া পরিমাণ নিশ্চিত করে এবং যেকোনো সৌদি ব্যাংকের মাধ্যমে পরিশোধ করতে দেয়। অনেক প্রবাসী প্রথমবার সংখ্যাটি এখানেই দেখেন, আর এজন্যই পেমেন্টের আগে SEC অ্যাপে সম্পূর্ণ স্টেটমেন্ট খোলা উচিত।
+        </p>
+        <h3>সংখ্যা পড়া: একটি বাস্তব উদাহরণ</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">লাইন</th>
+                <th class="text-left py-2">বিলে মান</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">পূর্ববর্তী রিডিং</td><td class="py-2">41,285</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">বর্তমান রিডিং</td><td class="py-2">41,841</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">মোট খরচ</td><td class="py-2">৫৫৬ kWh</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">ট্যারিফ কোড</td><td class="py-2">আবাসিক (কোড ১১)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">খরচ চার্জ</td><td class="py-2">৫৫৬ × 0.18 = ১০০.০৮ রিয়াল</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">ভ্যাট (১৫%)</td><td class="py-2">১৫.০১ রিয়াল</td></tr>
+              <tr><td class="py-2">মোট বকেয়া</td><td class="py-2 text-desert-primary">১১৫.০৯ রিয়াল</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          এই উদাহরণে সম্পূর্ণ ৫৫৬ kWh প্রথম আবাসিক ব্লকের ভেতরে পড়ে, তাই প্রতিটি ইউনিট কম হারেই বিল হয়েছে। হিসাবটি পরিষ্কার ও যাচাইযোগ্য: খরচ × হার, যোগ ১৫% ভ্যাট, মোটের সমান। একবার আপনি নিজের বিলের জন্য এই হিসাবটি আবার করতে পারলে, স্টেটমেন্টের কোনো পরিমাণই আর রহস্যময় থাকে না।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>SEC ট্যারিফ কোড ডিকোডিং (সবচেয়ে গুরুত্বপূর্ণ অংশ)</h2>
+        <p>
+          আপনার বিলের ট্যারিফ কোডটি একটি ছোট সংখ্যা যার বড় প্রভাব — এটি SEC-কে বলে কোন মূল্য কাঠামো আপনার সম্পত্তিতে প্রযোজ্য। <strong class="text-white">বিভিন্ন সম্পত্তির ধরনে ভিন্ন হারে বিল করা হয়, আর কোডটি ঠিক করে আপনি কোনটি পাবেন।</strong>
+        </p>
+        <p>
+          আপনি আবাসিক ফ্ল্যাট বা ভিলায় থাকলে আপনার বিল আবাসিক ট্যারিফ ব্যবহার করে। আপনি দোকান, ওয়ার্কশপ বা ঘর থেকে চালিত ব্যবসা পরিচালনা করলে SEC একটি ভিন্ন, সাধারণত বেশি, বাণিজ্যিক হার প্রয়োগ করে। আপনার অ্যাকাউন্টে এই কোডটি ভুল থাকা মানে বছরের পর বছর ভুল হারে বিল পরিশোধ করা, আপনি না জেনেই।
+        </p>
+        <p class="mt-4">
+          কোডটি কীভাবে খুঁজবেন? কাগজের বিলে এটি অ্যাকাউন্টের বিবরণের পাশে দুই-অঙ্কের সংখ্যা হিসেবে দেখা যায়। SEC অ্যাপে অ্যাকাউন্ট খুলুন এবং ট্যারিফ বা প্ল্যান তথ্যের নিচে দেখুন। আপনি আবাসিক নাকি বাণিজ্যিক কোডে আছেন নিশ্চিত না হলে, অ্যাকাউন্ট নম্বরসহ 920001828-এ একটি কলেই তা নিষ্পত্তি হয়।
+        </p>
+        <h3>আবাসিক ট্যারিফ (কোড ১১): স্তরযুক্ত "ব্লক" ব্যবস্থা</h3>
+        <p>
+          সৌদি আরবে আবাসিক ট্যারিফ একটি <strong class="text-white">ক্রমবর্ধমান ব্লক ব্যবস্থা</strong> ব্যবহার করে: আপনার মাসিক খরচের প্রথম ব্লকটি কম হারে বিল হয়, এবং আপনার ব্যবহার উচ্চতর ব্লকে ঢোকার মুহুর্তেই, সেই লাইনের উপরের প্রতিটি কিলোওয়াট-ঘণ্টা বেশি চার্জ হয়।
+        </p>
+        <p class="mt-4">
+          এখানেই বেশিরভাগ প্রবাসী বিভ্রান্ত হন। ব্লকগুলোর অর্থ এই নয় যে "আপনার পুরো বিলটি বেশি হারে হবে।" শুধুমাত্র প্রতিটি ব্লকে পড়া খরচের অংশটি সেই ব্লকের হারে চার্জ হয়। এটি দুই-ধাপের হিসাব, আর এটি ব্যাখ্যা করে কেন গ্রীষ্মের বিল এত কঠিন বেড়ে যায়।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">আবাসিক ট্যারিফ ব্লক (আনুমানিক, আপনার স্টেটমেন্টে যাচাই করুন):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>প্রতি মাসে প্রথম ৬,০০০ kWh:</strong> কম হারে (আনুমানিক 0.18 রিয়াল/kWh)।</li>
+            <li><strong>প্রতি মাসে ৬,০০০ kWh-এর উপরে:</strong> বেশি হারে (আনুমানিক 0.30 রিয়াল/kWh)।</li>
+          </ul>
+          <p class="mt-2">উদাহরণ: এক মাসে ৮,০০০ kWh খরচ → ৬,০০০ × 0.18 = ১,০৮০ রিয়াল, যোগ ২,০০০ × 0.30 = ৬০০ রিয়াল। খরচের মোট = <strong class="text-desert-primary">১,৬৮০ রিয়াল</strong> ভ্যাটের আগে।</p>
+        </div>
+        <p>
+          যে পরিবার সারা গ্রীষ্মে এসি চালায় সে সহজেই ৬,০০০ kWh লাইন অতিক্রম করতে পারে, আর এর উপরের প্রতিটি ইউনিট দামি হারে বিল হয়। এজন্যই আপনার জুলাইয়ের বিল জানুয়ারির বিলের দ্বিগুণের বেশি হতে পারে যদিও আপনার অভ্যাস সবে বদলেছে।
+        </p>
+        <p class="mt-4">
+          ক্রসওভার পয়েন্টটি মানুষের ধারণার চেয়ে বেশি গুরুত্বপূর্ণ। যে পরিবার ঠিক ৬,০০০ kWh-এর নিচে থাকে সে পুরোপুরি কম হারে বিল হয়। যে পরিবার ৭,০০০ ব্যবহার করে সে প্রথম ৬,০০০-এ কম এবং শুধু শেষ ১,০০০-তে বেশি হার দেয়। ব্লক লাইনে লাফটি সত্য, কিন্তু এটি কখনও আপনার সম্পূর্ণ খরচে প্রয়োগ হয় না।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">ব্যবহারিক সিদ্ধান্ত:</strong> আপনি যদি ৬,০০০ kWh লাইনের কাছাকাছি থাকেন, তবে সর্বোচ্চ টাকা বাঁচানোর পদক্ষেপ হলো খরচের সেই শেষ অংশটি সীমার নিচে রাখা। বিলিং মাসের শেষ দিনগুলোতে কয়েক ঘণ্টা এসি বা একটি অতিরিক্ত যন্ত্র কমানো আপনার পুরো বিলকে কম হারে রাখতে পারে।
+        </p>
+        <p class="mt-4">
+          ভালো খবর: ব্লক হিসাবটি সম্পূর্ণ আপনার পক্ষে যাচাই করার জন্য। আপনার খরচ kWh-এ নিন, দেখানো দুটি ব্লক প্রয়োগ করুন, এবং হিসাবটি আপনার বিলের "খরচ চার্জ" লাইনের সাথে মেলানো উচিত। মেলে না গেলে, সেটি আপত্তির ভিত্তি।
+        </p>
+        <h3>বাণিজ্যিক/দোকান ট্যারিফ (কোড ১২): কী পরিবর্তন হয়</h3>
+        <p>
+          বাণিজ্যিক ট্যারিফ দোকান, অফিস, ওয়ার্কশপ এবং অন্যান্য ব্যবসায়িক স্থানে প্রযোজ্য, এবং এটি আবাসিক থেকে ভিন্নভাবে বিল হয়। <strong class="text-white">বাণিজ্যিক গ্রাহকরা আবাসিক ব্লক ব্যবস্থার বদলে প্রতি কিলোওয়াট-ঘণ্টায় একটি সমতল, বেশি হার দেন।</strong>
+        </p>
+        <p class="mt-4">
+          আপনি ভাড়া করা দোকান থেকে ছোট ব্যবসা চালালে আপনার SEC অ্যাকাউন্টে বাণিজ্যিক ট্যারিফ কোড থাকা উচিত। হার সাধারণত আবাসিক প্রথম ব্লকের চেয়ে বেশি, তাই একই ব্যবহারে ব্যবসায়িক বিদ্যুৎ বিল দ্রুত বাড়ে।
+        </p>
+        <p class="mt-4">
+          সরকারি, কৃষি ও শিল্প স্থানের জন্যও আলাদা ট্যারিফ বিভাগ রয়েছে, প্রতিটির নিজস্ব হার কাঠামো। সাধারণ প্রবাসীর জন্য কেবল দুটি কোড গুরুত্বপূর্ণ — আবাসিক ও বাণিজ্যিক — কিন্তু আপনার সম্পত্তির ধরন দুটির বাইরে হলে বিল নিজের কোড দেখাবে এবং আপনি সেই কোডের হার SEC ওয়েবসাইটে যাচাই করতে পারেন।
+        </p>
+        <p class="mt-4">
+          ঘর থেকে চালিত ব্যবসা বা পার্শ্ব ওয়ার্কশপ থাকা প্রবাসীদের জন্য একটি সতর্কতা: SEC যদি আপনার অ্যাকাউন্ট আবাসিক কোডে রাখে, তবে বাণিজ্যিক ধাঁচের লোড মিটার পরিদর্শন এবং পুনর্বর্গীকরণ ঘটাতে পারে যা আপনার ভবিষ্যতের বিল বাড়ায়। আপনি সত্যিই ব্যবসা চালালে তা সঠিক কোডে নিবন্ধন করুন — তবে হার এড়াতে কখনও বাণিজ্যিক হওয়া ব্যবসা আবাসিক অ্যাকাউন্টে চালাবেন না; পুনর্বর্গীকরণের বিলটি আপনি যা বাঁচালেন তার চেয়ে বড় হবে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>লুকানো চার্জ ও ফি যা খেয়াল রাখা দরকার</h2>
+        <p>
+          আপনার বিলের নিচের সংখ্যাটি সচরাচর শুধু "খরচ" নয়। সেই মোটের ভেতরে বেশ কয়েকটি চার্জ বসে থাকে, আর প্রতিটি জানাই বেশি পরিশোধ এড়ানোর উপায়। প্রবাসী পরিবারের জন্য সবচেয়ে গুরুত্বপূর্ণ এই চারটি।
+        </p>
+        <h3>১. ১৫% ভ্যাট</h3>
+        <p>
+          ভ্যালু অ্যাডেড ট্যাক্স (ভ্যাট) আপনার বিদ্যুৎ বিলে প্রমিত সৌদি হার <strong class="text-white">১৫%</strong> এ প্রয়োগ হয়, এবং এটি আপনার মোট খরচ চার্জে হিসাব করা হয় — শুধু মৌলিক হারে নয়।
+        </p>
+        <p class="mt-4">
+          ব্যবহারিকভাবে, এর অর্থ আপনার চূড়ান্ত বিল ভ্যাটের আগে দেখানো খরচের পরিমাণের উপরে ১৫% অন্তর্ভুক্ত করে। ১,৬৮০ রিয়ালের খরচ ২৫২ রিয়াল ভ্যাট যোগ হওয়ার পর ১,৯৩২ রিয়াল হয়। ভ্যাট লাইনটি আপনার স্টেটমেন্টে স্পষ্টভাবে চিহ্নিত (ضريبة القيمة المضافة), তাই এটি যাচাই করা সবসময় সহজ হওয়া উচিত।
+        </p>
+        <p class="mt-4">
+          যেহেতু ভ্যাট একটি নির্দিষ্ট শতাংশ, এটি আলোচনার যোগ্য নয় এবং ভুলও নয় — তবে এটি সঠিক খরচের মোটের উপর প্রয়োগ হয়েছে কিনা তা পরীক্ষা করা মূল্যবান। আপনার খরচ লাইন আনুমানিক রিডিংয়ে বাড়ানো থাকলে আপনার ভ্যাটও বাড়ানো, অর্থাৎ একটি মিটার ভুল পুরো বিলে ছড়িয়ে পড়ে।
+        </p>
+        <h3>২. আনুমানিক বনাম প্রকৃত রিডিং</h3>
+        <p>
+          একটি SEC বিল ভুল দেখানোর সবচেয়ে সাধারণ কারণ হলো এটি <strong class="text-white">আনুমানিক রিডিংয়ের ভিত্তিতে তৈরি, প্রকৃতের নয়।</strong> যখন মিটার পাঠক আপনার সম্পত্তিতে পৌঁছাতে পারে না — বন্ধ গেট, সংস্কারাধীন ভবন, বা গাড়ির পেছনে লুকানো মিটার — তখন SEC আপনার ইতিহাসের ভিত্তিতে আপনার ব্যবহার অনুমান করে।
+        </p>
+        <p class="mt-4">
+          আনুমানিক বিল সাধারণত রিডিংয়ের কাছে একটি চিহ্ন বা "E" দিয়ে চিহ্নিত থাকে, এবং প্রায়শই দেখা যায় যখন আপনার গেট বন্ধ থাকে বা আপনার কম্পাউন্ড রিডিংয়ের দিনে প্রবেশ সীমাবদ্ধ করে। সমস্যা: একটি অনুমান আপনার প্রকৃত ব্যবহারের চেয়ে বেশি হতে পারে, এবং অতিরিক্ত চার্জ আপনার ভ্যাটেও পড়ে।
+        </p>
+        <p class="mt-4">
+          একই সমস্যার একটি নীরব সংস্করণও আছে: খুব কম একটি অনুমান। SEC যদি কয়েক মাস আপনার ব্যবহার কম অনুমান করে, তবে প্রকৃত খরচ পরে মিলিয়ে নেওয়া হয়, এবং একটি "ক্যাচ-আপ" বিল আসে যা হঠাৎ বাড়ার মতো দেখায়। সেটি ভুল নয় — এটি আপনার অনুমান ও প্রকৃত ব্যবহারের মধ্যে পার্থক্য যা অবশেষে নিষ্পত্তি হয়।
+        </p>
+        <p class="mt-4">
+          সমাধান দ্রুত। <strong class="text-white">SEC অ্যাপ বা ওয়েবসাইটের মাধ্যমে একটি "সেলফ-রিডিং" জমা দিন</strong> আপনার প্রকৃত মিটারের ছবিসহ, এবং SEC সত্য সংখ্যার ভিত্তিতে আপনার বিল পুনরায় হিসাব করবে। আপনি যদি ইতিমধ্যে বেশি ছিল এমন আনুমানিক বিল পরিশোধ করে থাকেন, তবে ক্রেডিট স্বয়ংক্রিয়ভাবে আপনার পরবর্তী স্টেটমেন্টে চলে যায়।
+        </p>
+        <h3>৩. মিটার ভাড়া বা রক্ষণাবেক্ষণ ফি</h3>
+        <p>
+          আপনার স্টেটমেন্টে মিটার ও সংযোগের জন্য একটি ছোট নির্দিষ্ট লাইন আইটেম থাকতে পারে — একটি পর্যায়ক্রমিক ফি যা আপনি যতই খরচ করুন না কেন আদায় হয়। এটি সাধারণত একটি সামান্য পরিমাণ, কিন্তু প্রতিটি বিলিং চক্রে দেখা যায়।
+        </p>
+        <p class="mt-4">
+          এই ফি অনেক SEC অ্যাকাউন্টে প্রমিত এবং জরিমানা নয়। তবুও, আপনার বিলে এমন একটি নির্দিষ্ট লাইন আইটেম খুঁজুন যা শূন্য খরচেও মাসে মাসে পুনরাবৃত্তি হয়। যদি এমন পরিমাণ দেখেন যা আপনার স্বাভাবিক নির্দিষ্ট ফি নয়, তবে তা নোট করুন এবং SEC-কে লাইনটি ব্যাখ্যা করতে বলুন — অমীমাংসিত নির্দিষ্ট চার্জ 920001828-এ একটি কলের দাবিদার।
+        </p>
+        <h3>৪. দেরিতে পরিশোধের জরিমানা</h3>
+        <p>
+          SEC জরিমানা প্রয়োগ করে যখন একটি বিল তার নির্ধারিত তারিখের মধ্যে পরিশোধ হয় না, আর পরিমাণ অপরিশোধিত থাকা পর্যন্ত জরিমানা বাড়ে। <strong class="text-white">সাদাদ, SEC অ্যাপ বা আপনার ব্যাংকের অ্যাপের মাধ্যমে সময়মতো বিল পরিশোধ করুন যাতে এটি সম্পূর্ণ এড়ানো যায়।</strong>
+        </p>
+        <p class="mt-4">
+          দেরিতে পরিশোধের চার্জ পরবর্তী বিলে যোগ হয়, তাই একটি মিস করা তারিখ নীরবে আপনার পরবর্তী স্টেটমেন্ট বাড়িয়ে দেয়। এর চেয়ে খারাপ, বারবার দেরিতে পরিশোধ সংযোগ বিচ্ছিন্ন করতে পারে — এবং বিচ্ছিন্ন মিটার পুনরায় সংযোগে আলাদা ফি লাগে এবং দিনও লাগতে পারে।
+        </p>
+        <p class="mt-4">
+          আপনার বিলিং তারিখের জন্য একটি পুনরাবৃত্তি অনুস্মারক সেট করুন, অথবা SEC অ্যাপে অটো-পে চালু করুন যাতে পরিমাণ শেষ তারিখের আগেই পরিশোধ হয়। মাসে একবার বাইরে খাওয়া বাদ দেওয়া মনের শান্তির চেয়ে বেশি ঢেকে দেয়।
+        </p>
+        <p class="mt-4">
+          একটি বিবরণ যা কর্মদিবসের সময়সূচি থাকা প্রবাসীদের আটকে দেয়: নির্ধারিত তারিখটি আপনার বিলিং চক্রে স্থির, কোনো জাতীয় ছুটি বা বেতনের দিনে নয়। বেতনের দিন নির্ধারিত তারিখের পরে পড়লে জরিমানা তবুও প্রযোজ্য। SEC অ্যাপের মাধ্যমে আপনার বিলের তারিখ স্থানান্তর করুন যাতে তা আপনার বেতনের দিনের সাথে মেলে — এটি দুই মিনিটের একটি সেটিং যা প্রতিটি মাসে জরিমানা রোধ করে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি আরবে প্রবাসীদের জন্য বিশেষ বিবেচনা (GEO টার্গেটিং)</h2>
+        <p>
+          প্রবাসীরা কয়েকটি বিদ্যুৎ বিলিং পরিস্থিতির মুখোমুখি হন যা সৌদি নাগরিকরা খুব কমই ভাবেন — ভাগাভাগির ভিলা, বাড়িওয়ালার নামে অ্যাকাউন্ট এবং কম্পাউন্ড রিডিং নিষেধাজ্ঞা। এগুলোই ব্যবহারিক ফাঁদ, আর প্রতিটির সহজ সমাধান আছে।
+        </p>
+        <h3>কম্পাউন্ড/ভিলা বাসিন্দাদের জন্য: বিল ন্যায্যভাবে ভাগ করুন</h3>
+        <p>
+          একাধিক পরিবার বা রুমমেটের সাথে ভাগাভাগির ভিলা বা কম্পাউন্ডে বসবাস প্রবাসীদের জন্য সবচেয়ে সাধারণ ব্যবস্থা, আর এটি ক্লাসিক সমস্যা তৈরি করে: একটি বিল, অনেক মানুষ, আর কার কত দেন তা নিয়ে অন্তহীন তর্ক।
+        </p>
+        <p class="mt-4">
+          ভাগ করার ন্যায্য উপায় হলো ব্যবহারের প্রকৃত অংশ অনুযায়ী, মাথাপিছু নয়। যে পরিবার রাতে দুটি এসি চালায় সে ভোরবেলা কাজে বের হওয়া ব্যাচেলরের চেয়ে অনেক বেশি ব্যবহার করে, তাই বিলটি সমানভাবে ভাগ করা সাধারণত বিরক্তিতে শেষ হয়।
+        </p>
+        <p class="mt-4">
+          বিল আসার আগেই ভাগ করার নিয়মে সম্মত হোন, তারপর হিসাবটি একবার করুন। আমাদের বিনামূল্যের{' '}
+          <a href="/bill-splitter-calculator" class="text-desert-primary underline">বিল স্প্লিটার ক্যালকুলেটর</a> যেকোনো বিলকে সেকেন্ডে ন্যায্যভাবে ভাগ করে — কে কত ব্যবহার করেছে তার ওজন অনুযায়ী, অথবা সমানভাবে যদি আপনার পরিবার তাই স্থির করে। মাসে এক হিসাব তর্কটি স্থায়ীভাবে শেষ করে দেয়।
+        </p>
+        <h3>অ্যাপার্টমেন্ট ভাড়াটেদের জন্য: SEC অ্যাকাউন্ট নিজের ইকামায় স্থানান্তর করুন</h3>
+        <p>
+          অনেক প্রবাসী অ্যাপার্টমেন্ট বাড়িওয়ালার নামে বিল হয় কারণ আগের ভাড়াটে চলে যাওয়ার পরে অ্যাকাউন্টটি কখনও স্থানান্তরিত হয়নি। <strong class="text-white">বাড়িওয়ালার নামে অ্যাকাউন্ট থাকা একটি সমস্যা — আপনি বিল দেন কিন্তু নিয়ন্ত্রণ পান না, আর আপত্তিগুলো অন্য কারও মাধ্যমে যায়।</strong>
+        </p>
+        <p class="mt-4">
+          SEC অ্যাপে বা SEC শাখায় অ্যাকাউন্টটি নিজের ইকামার নামে স্থানান্তর করুন। আপনার ইকামা, বর্তমান অ্যাকাউন্ট নম্বর এবং সাধারণত বাড়িওয়ালার সম্মতি বা স্বাক্ষরিত ভাড়া চুক্তি (ইজার) লাগবে। একবার এটি আপনার নামে এলে, আনুমানিক রিডিং, আপত্তি এবং রিফান্ড সরাসরি আপনি সামলান।
+        </p>
+        <p class="mt-4">
+          বাড়িওয়ালা অ্যাকাউন্ট স্থানান্তর করতে অস্বীকার করলে নিজেকে লিখিতভাবে রক্ষা করুন: প্রতিটি পেমেন্ট রসিদ ও স্বাক্ষরিত লিজ রাখুন, এবং বাড়িওয়ালাকে লিখিতভাবে নিশ্চিত করতে বলুন যে চলে যাওয়ার সময় অ্যাকাউন্টটি নিষ্পত্তি ও বন্ধ করা হবে। আপনার সিকিউরিটি ডিপোজিট রক্ষা করে কেবল লিখিত নথিপত্র।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">কার্যকরী টিপ:</strong> বিলটি অস্বাভাবিকভাবে বেশি মনে হলে, অবিলম্বে <strong class="text-white">SEC অ্যাপ বা ওয়েবসাইটের মাধ্যমে একটি "সেলফ-রিডিং" জমা দিন</strong> যাতে আনুমানিক বিলিং ভুল সংশোধন হয়। পরের মাসের স্টেটমেন্টের অপেক্ষা করবেন না — SEC আপনার রিডিং প্রক্রিয়া করার মুহূর্ত থেকেই সংশোধন প্রযোজ্য।
+        </p>
+        <h3>দক্ষিণ এশীয় ও ফিলিপিনো প্রবাসীদের জন্য: কী আলাদা</h3>
+        <p>
+          দক্ষিণ এশিয়া ও ফিলিপাইন থেকে আসা বড় প্রবাসী পরিবারগুলো প্রায়ই এমনভাবে ভাগাভাগি বাসস্থানে থাকে যা নিজস্ব বিলিং প্যাটার্ন তৈরি করে। একটি মিটারসহ এক ছাদের নিচে কয়েকটি পরিবার মানে সম্মিলিত বোঝা ৬,০০০ kWh ব্লক লাইন অনেক বেশি বার অতিক্রম করে — আর সেখান থেকেই ন্যায্য ভাগ নিয়ে ঘর্ষণ শুরু হয়।
+        </p>
+        <p class="mt-4">
+          দ্বিতীয় সাধারণ প্যাটার্ন হলো গ্রীষ্মের মাসগুলোতে ভারী এসি ব্যবহার যা দীর্ঘ কাজের শিফটের সাথে মিলে যায়, তাই মিটার চলতেই থাকে যখন সবাই বাইরে থাকে। একটি <strong class="text-white">প্রোগ্রামেবল থার্মোস্ট্যাট বা উইন্ডো এসিতে টাইমার</strong> এই নির্দিষ্ট জীবনধারার জন্য সবচেয়ে কার্যকর সমাধান: এটি আপনার পৌঁছানোর আগেই রুম ঠান্ডা করে, সারাদিন পূর্ণ শক্তিতে চলার বদলে।
+        </p>
+        <p class="mt-4">
+          যে পরিবারগুলো প্রতি মাসে দেশে টাকা পাঠায়, তাদের জন্য বিদ্যুৎ বিল সরাসরি রেমিট্যান্স বাজেটের সাথে প্রতিদ্বন্দ্বিতা করে। একই সেলফ-রিডিং অভ্যাস অতিরিক্ত জরুরিতার সাথে প্রযোজ্য: ভাগাভাগির মিটারের জন্য আনুমানিক বিল শত শত রিয়াল ভুল হতে পারে, যা প্রকৃত টাকা যা পরিবারের কাছে পৌঁছানো উচিত ছিল।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধাপে ধাপে: ভুল SEC বিলে কীভাবে আপত্তি করবেন</h2>
+        <p>
+          যখন আপনার বিল সত্যিই ভুল — ভুল মিটার রিডিং, নকল চার্জ, বা ট্যারিফ কোডের ভুল — SEC-এর একটি স্পষ্ট আপত্তির পথ আছে। এই ধাপগুলো ক্রমানুসারে অনুসরণ করুন এবং বেশিরভাগ সংশোধন কয়েক কার্যদিবসে প্রযোজ্য হয়।
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>আপনার বর্তমান মিটার রিডিংয়ের একটি স্পষ্ট ছবি তুলুন।</strong> একটি ফ্রেমে মিটার ডিসপ্লে ও মিটার সিরিয়াল নম্বর দুটোই ধরুন, যাতে কোন মিটার ও কোন নম্বর উল্লেখ করছেন তাতে কোনো সন্দেহ না থাকে।</li>
+          <li><strong>SEC অ্যাপ বা ওয়েবসাইটে (sec.com.sa) লগ ইন করুন।</strong> বিতর্কিত বিলের সাথে যুক্ত অ্যাকাউন্টে প্রবেশ করতে আপনার অ্যাকাউন্ট নম্বর বা নিবন্ধিত মোবাইল নম্বর ব্যবহার করুন।</li>
+          <li><strong>"মিটার রিডিং আপডেট" জমা দিন বা "বিলিং অভিযোগ" টিকিট খুলুন।</strong> সঠিক অনুরোধের ধরন নির্বাচন করুন — আনুমানিক বিলের জন্য আপডেটেড রিডিং, বা চার্জ বিরোধের জন্য বিলিং অভিযোগ — এবং আপনার ছবি ও যেকোনো সহায়ক প্রমাণ সংযুক্ত করুন।</li>
+          <li><strong>একটি জমাতেই প্রতিটি বিবরণ অন্তর্ভুক্ত করুন।</strong> অ্যাকাউন্ট নম্বর, বিলের তারিখ, বিতর্কিত পরিমাণ এবং এক লাইনের ব্যাখ্যা। সম্পূর্ণ টিকিট অস্পষ্ট টিকিটের চেয়ে দ্রুত নিষ্পত্তি হয়।</li>
+          <li><strong>SEC ৩–৫ কার্যদিবসের মধ্যে বিলটি পর্যালোচনা ও সমন্বয় করবে।</strong> অ্যাপে টিকিটের অবস্থা ট্র্যাক করুন। সংশোধন অনুমোদিত হলে, সমন্বিত পরিমাণ আপনার পরবর্তী স্টেটমেন্টে বিতর্কিত পরিমাণের জায়গা নেয়।</li>
+        </ol>
+        <p>
+          অ্যাপ রুটে সমস্যা মিটে না গেলে, SEC কাস্টমার সার্ভিসে <strong class="text-white">920001828</strong> নম্বরে কল করুন এবং আপনার টিকিট নম্বর উল্লেখ করুন। প্রতিটি টিকিট নম্বর ও স্ক্রিনশট রাখুন — নথিভুক্ত পথই একটি দীর্ঘ বিরোধ জেতে।
+        </p>
+        <p class="mt-4">
+          একটি নিয়ম মনে রাখুন: আপত্তি খোলা থাকা অবস্থায় বিল পরিশোধ করে যান, নইলে দেরি-পরিশোধ জরিমানা জমা হতে শুরু করে। অনুমোদিত সংশোধনের ক্রেডিট স্বয়ংক্রিয়ভাবে প্রয়োগ হয়, তাই এখন পরিশোধ করা পরে রিফান্ড নষ্ট করে না।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: আমার SEC বিদ্যুৎ বিল এই মাসে এত বেশি কেন?</p>
+            <p class="text-gray-400 text-sm mt-1">সবচেয়ে সাধারণ কারণ হলো প্রকৃতের বদলে আনুমানিক রিডিং, গ্রীষ্মে ৬,০০০ kWh ব্লক লাইন অতিক্রম করা এবং বেশি খরচের মোটের উপরে ১৫% ভ্যাট। প্রথমে রিডিংয়ের চিহ্ন ও আপনার kWh ব্যবহার পরীক্ষা করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: আমার মিটার নম্বর দিয়ে কীভাবে SEC বিল চেক করব?</p>
+            <p class="text-gray-400 text-sm mt-1">SEC অ্যাপ খুলুন, আপনার অ্যাকাউন্ট দিয়ে লগ ইন করুন, এবং সর্বশেষ বিল ও খরচের ইতিহাস আনতে অ্যাকাউন্ট সার্চে আপনার মিটার নম্বর দিন। মিটার নম্বর মিটারে ও প্রতিটি স্টেটমেন্টে ছাপা থাকে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: ১৫% ভ্যাট কি SEC বিলের মোট পরিমাণে আগে থেকেই অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। আপনার SEC বিলের নিচের মোটটি আগে থেকেই ১৫% ভ্যাট অন্তর্ভুক্ত করে, যা চূড়ান্ত পরিমাণে যোগ হওয়ার আগে আপনার খরচ চার্জে হিসাব করা হয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: কীভাবে SEC বিলের নাম আমার ইকামায় পরিবর্তন করব?</p>
+            <p class="text-gray-400 text-sm mt-1">SEC অ্যাপ খুলুন, অ্যাকাউন্ট সার্ভিসে যান, এবং আপনার ইকামা ও বর্তমান অ্যাকাউন্ট নম্বরসহ একটি স্থানান্তর অনুরোধ জমা দিন। ভাড়া সম্পত্তির জন্য বাড়িওয়ালার সম্মতি বা আপনার ইজার চুক্তির প্রয়োজন হতে পারে।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>শেষ কথা: আপনার SEC বিল পড়ার যোগ্য — এবং যাচাইয়ের যোগ্য</h2>
+        <p>
+          পুরো ব্যবস্থা এক অনুচ্ছেদে: আপনার SEC বিল হলো খরচ × আপনার ট্যারিফ কোড, যোগ ১৫% ভ্যাট, যোগ যেকোনো নির্দিষ্ট মিটার ফি। ট্যারিফ কোড হার বলে, রিডিং পরিমাণ বলে, আর ভ্যাট খরচের মোটের একটি নির্দিষ্ট শতাংশ।
+        </p>
+        <p class="mt-4">
+          আপনার ট্যারিফ কোড বোঝা এবং আনুমানিক রিডিং পরীক্ষা করা আপনাকে শত শত রিয়াল বাঁচাতে পারে — কখনও একটিমাত্র বিলে। প্রায় প্রতিটি বেশি চার্জ রোধকারী দুটি অভ্যাস হলো প্রতি মাসে মিটার রিডিং যাচাই করা এবং পরিশোধের আগে আনুমানিক বিল ধরা।
+        </p>
+        <p class="mt-4">
+          আপনার মাসিক খরচ অনুমান করা বন্ধ করুন।{' '}
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">সৌদিটুলহাব SEC বিল ক্যালকুলেটর</a>{' '}
+          ব্যবহার করুন আপনার সঠিক kWh ব্যবহারের ভিত্তিতে পরবর্তী বিলটি অনুমান করতে — এবং তর্ক শুরু হওয়ার আগেই মিটমাট করুন।
+        </p>
+        <p class="mt-4">
+          আপনার গৃহস্থালি বাজেট পরিচালনার সম্পূর্ণ গাইডের জন্য, পড়ুন আমাদের{' '}
+          <a href="/guide/sec-electricity-bill-guide-saudi-arabia-2026" class="text-desert-primary underline">SEC বিদ্যুৎ বিল পরিশোধ গাইড ২০২৬</a>।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার সঠিক SEC বিল হিসাব করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — আপনার kWh ব্যবহার দিন এবং খরচ, ভ্যাট ও মোট সাথে সাথে পান</p>
+          <a href="/sec-bill-calculator" class="text-desert-primary underline">বিনামূল্যের SEC বিল ক্যালকুলেটর ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই গাইডটি বর্তমান সৌদি ইলেকট্রিসিটি কোম্পানি (SEC) নিয়মের ভিত্তিতে তথ্যমূলক উদ্দেশ্যে। ট্যারিফ হার ও নীতি পরিবর্তনযোগ্য। বিলিং বিরোধের জন্য সর্বদা আপনার অফিসিয়াল SEC স্টেটমেন্ট দেখুন বা SEC কাস্টমার সার্ভিস (920001828) এ যোগাযোগ করুন।
+        </p>
+      </div>
+    ` }
+  },
 ]
