@@ -97,10 +97,14 @@
 
 .animate-gradient-shift {
   animation: gradient-shift 4s ease infinite;
+  transform: translateZ(0);
+  will-change: background-position;
 }
 
 .animate-gradient-rotate {
   animation: gradient-rotate 3s linear infinite;
+  transform: translateZ(0);
+  will-change: transform;
 }
 
 @keyframes pulse-glow {

@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from 'next'
-import Script from 'next/script'
 import { NextIntlClientProvider } from 'next-intl'
 import { Navbar } from '@/components/Navbar'
 import { Footer } from '@/components/Footer'
@@ -8,11 +7,19 @@ import { ScrollProgress } from '@/components/ScrollProgress'
 import { ThemeProvider } from '@/lib/theme'
 import JsonLd from '@/components/JsonLd'
 import CookieConsent from '@/components/CookieConsent'
+import AnalyticsScripts from '@/components/AnalyticsScripts'
 import { Poppins, Tajawal, Harmattan } from 'next/font/google'
 import { cn } from '@/lib/utils'
 import '../globals.css'
 
-const poppins = Poppins({ subsets: ['latin'], weight: ['400', '500', '600', '700', '800'], variable: '--font-sans', display: 'swap' })
+const poppins = Poppins({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  variable: '--font-sans',
+  display: 'swap',
+  preload: true,
+  fallback: ['system-ui', 'arial'],
+})
 const tajawal = Tajawal({ subsets: ['arabic'], weight: ['400', '500', '700', '800'], variable: '--font-arabic', display: 'swap' })
 const harmattan = Harmattan({ subsets: ['arabic'], weight: ['400', '700'], variable: '--font-urdu', display: 'swap' })
 
@@ -47,8 +54,8 @@ export function generateStaticParams() {
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
-  maximumScale: 1,
-  userScalable: false,
+  maximumScale: 5,
+  userScalable: true,
   viewportFit: 'cover',
 }
 
@@ -124,31 +131,7 @@ export default async function LocaleLayout({
       <body className={`min-h-dvh bg-[#0A0E1A] text-gray-100 antialiased ${poppins.variable} ${tajawal.variable} ${harmattan.variable}`}>
         <JsonLd data={organizationSchema} />
         <JsonLd data={websiteSchema} />
-        <Script
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-KREVP1RPEX"
-        />
-        <Script
-          id="google-analytics"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-KREVP1RPEX', { page_path: window.location.pathname });`,
-          }}
-        />
-        <Script
-          id="microsoft-clarity"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `(function(c,l,a,r,i,t,y){
-c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-})(window, document, "clarity", "script", "xukbgt4067");`,
-          }}
-        />
+        <AnalyticsScripts />
         <CookieConsent />
         <ThemeProvider>
           <NextIntlClientProvider locale={locale} messages={messages}>

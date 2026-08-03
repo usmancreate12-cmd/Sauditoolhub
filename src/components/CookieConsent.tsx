@@ -29,7 +29,7 @@ export default function CookieConsent() {
         'glass rounded-2xl p-5 border border-white/10',
         'shadow-[0_8px_32px_rgba(0,0,0,0.4)]'
       )}>
-        <p className="text-sm text-gray-300 leading-relaxed mb-4">
+        <p className="text-base text-gray-200 leading-relaxed mb-4">
           We use cookies to enhance your experience and analyze our traffic. By continuing, you agree to our use of cookies.
         </p>
         <div className="flex items-center gap-3">

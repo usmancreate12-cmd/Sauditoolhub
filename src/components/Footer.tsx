@@ -89,17 +89,17 @@ export function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-gray-700/30 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-xs text-gray-500">
+          <p className="text-xs text-gray-400">
             {tf('copyright', { year: new Date().getFullYear() })}
           </p>
-          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-gray-500">
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-gray-400">
             <Link href="/about" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.about')}</Link>
             <Link href="/privacy-policy" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.privacy')}</Link>
             <Link href="/terms-of-service" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.terms')}</Link>
             <Link href="/disclaimer" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.disclaimer')}</Link>
             <Link href="/contact" className="flex items-center min-h-[44px] hover:text-desert-primary transition-colors active:scale-95">{tf('links.contact')}</Link>
           </div>
-          <p className="text-xs text-gray-500">
+          <p className="text-xs text-gray-400">
             {tf('disclaimerText')}
           </p>
         </div>

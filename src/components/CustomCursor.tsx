@@ -59,8 +59,7 @@ export function CustomCursor() {
       const currentHover = detectHover()
       hoverRef.current = currentHover
 
-      cursor.style.left = `${posRef.current.x}px`
-      cursor.style.top = `${posRef.current.y}px`
+      cursor.style.transform = `translate3d(${posRef.current.x}px, ${posRef.current.y}px, 0)`
 
       if (currentHover === 'button') {
         cursor.style.width = '40px'
@@ -110,8 +109,7 @@ export function CustomCursor() {
       dots.forEach((dot, i) => {
         const tp = trailPositions.current[i]
         if (tp) {
-          dot.style.left = `${tp.x}px`
-          dot.style.top = `${tp.y}px`
+          dot.style.transform = `translate3d(${tp.x}px, ${tp.y}px, 0)`
         }
       })
 
@@ -146,6 +144,8 @@ export function CustomCursor() {
           background: 'rgba(0, 212, 170, 0.7)',
           width: '8px',
           height: '8px',
+          left: 0,
+          top: 0,
           mixBlendMode: 'difference',
           transition: 'width 0.2s, height 0.2s, background 0.2s, border-radius 0.2s',
           willChange: 'transform',
@@ -164,6 +164,8 @@ export function CustomCursor() {
             className="pointer-events-none fixed h-1.5 w-1.5 rounded-full opacity-0"
             style={{
               background: color,
+              left: 0,
+              top: 0,
               opacity: 0.5 - i * 0.1,
               transition: 'opacity 0.3s',
               willChange: 'transform',

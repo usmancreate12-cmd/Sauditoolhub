@@ -238,7 +238,7 @@ export function HeroSection() {
         {/* Title */}
         <motion.h1
           variants={itemVariants}
-          className="mx-auto max-w-5xl bg-gradient-to-r from-teal-400 via-amber-400 to-teal-400 bg-[length:200%_auto] bg-clip-text text-5xl font-extrabold leading-tight text-transparent animate-gradient-shift sm:text-6xl md:text-7xl lg:text-8xl"
+          className="mx-auto max-w-5xl bg-gradient-to-r from-teal-400 via-amber-400 to-teal-400 bg-[length:200%_auto] bg-clip-text text-5xl font-bold leading-tight text-transparent animate-gradient-shift sm:text-6xl md:text-7xl lg:text-8xl"
         >
           {t('title') || "Saudi Arabia's #1 Free Expat & Business Calculator Hub 2026"}
         </motion.h1>
