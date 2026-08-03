@@ -5304,4 +5304,1998 @@ export const articles: Article[] = [
       </div>
     ` }
   },
+  {
+    slug: 'top-5-reasons-saudi-family-visa-rejected-avoid-2026',
+    category: 'expat',
+    readTime: '10 min read',
+    date: '2026-08-03',
+    title: { en: 'Top 5 Reasons Saudi Family Visa Rejected & How to Fix (2026)', ar: 'أهم 5 أسباب لرفض تأشيرة الزيارة العائلية في السعودية وكيفية تجنبها (2026)', ur: 'سعودی فیملی وزیٹ ویزا ریجیکٹ ہونے کی 5 وجوہات اور بچنے کے طریقے (2026)', tl: 'Top 5 na Dahilan ng Saudi Family Visit Visa Rejection at Paano Ito Maiiwasan (2026)', bn: 'সৌদি ফ্যামিলি ভিজিট ভিসা বাতিলের ৫টি প্রধান কারণ ও কীভাবে এড়াবেন (২০২৬)' },
+    description: { en: 'MOFA rejected your family visit visa? Discover the top 5 hidden reasons (Iqama profession, typos, Chamber stamping) and the exact steps to get approved.', ar: 'رفضت وزارة الخارجية تأشيرتك العائلية؟ اكتشف الأسباب الخفية الخمسة (مهنة الإقامة، الأخطاء الإملائية، ختم الغرفة) والخطوات الدقيقة للحصول على الموافقة.', ur: 'کیا MOFA نے آپ کا فیملی وزیٹ ویزا ریجیکٹ کیا؟ 5 پوشیدہ وجوہات (اقامہ پیشہ، ٹائپو، چیمبر اسٹیمپنگ) اور منظوری کے درست اقدامات جانیں۔', tl: 'Nire-reject ang iyong family visit visa? Tuklasin ang top 5 nakatagong dahilan (Iqama profession, typos, Chamber stamping) at ang eksaktong hakbang para maaprubahan.', bn: 'আপনার ফ্যামিলি ভিজিট ভিসা বাতিল হয়েছে? ৫টি লুকানো কারণ (ইকামা পেশা, টাইপো, চেম্বার স্ট্যাম্পিং) ও অনুমোদনের সঠিক পদক্ষেপ জেনে নিন।' },
+    content: { en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Top 5 Reasons Saudi Family Visit Visa Gets Rejected &amp; How to Avoid Them (2026 Update)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">A PRO-grade, no-nonsense breakdown of exactly why MOFA rejects family visit visa applications — and the precise steps to get approved the next time.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Frustration Is Real — And Completely Fixable</h2>
+        <p>
+          You gathered the documents. You filled the MOFA form carefully. You paid the fee. And then the rejection message arrived: <strong class="text-white">"Application rejected."</strong> No explanation, no guidance, just a dead end — and months of saved leave suddenly feel wasted.
+        </p>
+        <p class="mt-4">
+          You are not alone. Across expat forums, WhatsApp groups, and PRO offices in every city from Riyadh to Dammam, this scene plays out every single week. Parents who never get to meet their grandchildren. Spouses stuck apart for another year. Vacation plans cancelled at the last minute. The emotional weight of a rejected family visa is real — and it is completely unnecessary in most cases.
+        </p>
+        <p class="mt-4">
+          Here is the honest truth from thousands of expat cases across Saudi Arabia: <strong class="text-desert-primary">most rejections are not because of you, your income, or your criminal record.</strong> They are caused by small, silent, fixable mistakes — a typo in a name, a mismatch between your MOFA profile and your company's Chamber of Commerce registration, or an Iqama profession that simply does not sponsor dependents.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direct answer:</strong> most rejections are due to minor data mismatches or profession restrictions, and can be fixed within days. You do not need an agent. You do not need to pay again and again. You need this guide.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">What you will get from this guide:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>The 5 rejection reasons ranked by how often they actually happen.</li>
+            <li>A real example under every reason, drawn from actual expat experiences.</li>
+            <li>The exact fix for each problem — in plain, step-by-step language.</li>
+            <li>The refund policy explained, so you never overpay.</li>
+            <li>Country-specific advice for Pakistani, Indian, Filipino, and Bangladeshi expats.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Before reapplying, check your eligibility instantly with our free{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Family Visa Optimizer Tool</a>.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Top 5 Most Common Reasons for MOFA Visa Rejection</h2>
+        <p>
+          Based on Ministry of Foreign Affairs (MOFA) patterns, Absher data, and real expat experiences shared on forums like Reddit, Quora, and expat community groups, these five reasons account for the overwhelming majority of family visit visa rejections. Read every single one — the fix is almost always in the details.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Rank</th>
+                <th class="text-left py-2">Reason</th>
+                <th class="text-left py-2">How Common</th>
+                <th class="text-left py-2">Fix Difficulty</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#1</td><td class="py-2">Restricted / Low-tier Iqama profession</td><td class="py-2">Very high</td><td class="py-2 text-yellow-400">Medium (needs HR)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#2</td><td class="py-2">Name &amp; document typos</td><td class="py-2">Very high</td><td class="py-2 text-green-400">Easy</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#3</td><td class="py-2">Chamber of Commerce (Ghurafah) stamping</td><td class="py-2">High</td><td class="py-2 text-yellow-400">Medium (needs PRO)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#4</td><td class="py-2">Ineligible relative category</td><td class="py-2">Medium</td><td class="py-2 text-green-400">Easy (don't apply)</td></tr>
+              <tr><td class="py-2 text-desert-primary">#5</td><td class="py-2">MOFA profile address mismatch</td><td class="py-2">High (hidden)</td><td class="py-2 text-green-400">Easy</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          The good news: four of the five reasons are fully within your control. The fifth — the profession restriction — can usually be resolved with a conversation with your employer. None of them require legal intervention.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>1. Restricted or Low-Tier Iqama Profession</h3>
+        <p>
+          This is the single most common reason family visit visas get rejected in Saudi Arabia — and it is also the one most expats never see coming. <strong class="text-white">Not every Iqama profession is allowed to sponsor family members.</strong> The Ministry of Interior maintains a classification of "sponsorable" vs. "non-sponsorable" professions, and it is tied directly to your employer's activity and your official job title.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Who gets rejected:</strong> Expats holding manual, low-skill, or semi-skilled professions — for example, drivers, laborers, cleaners, farm workers, construction workers, security guards, and similar roles. Under Saudi labor policy, these categories are generally not permitted to bring dependents into the Kingdom.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Who gets approved:</strong> Professionals, managers, engineers, doctors, teachers, IT specialists, accountants, and other skilled/white-collar roles sponsored by companies in "high-tier" commercial and industrial activities.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Usually Allowed</th>
+                <th class="text-left py-2">Usually Rejected</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">Engineers, doctors, nurses, teachers, accountants, IT specialists, managers, marketing professionals</td>
+                <td class="py-2">General laborers, drivers, cleaners, farm/agricultural workers, construction workers, security guards, service workers</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          The classification is not public, and it changes. A profession that was rejected last year can become eligible next year — and the reverse is also true. This is why checking current rules matters more than relying on a friend's experience from two years ago.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Real-world example:</strong> An Asian expat working as a "General Worker" for a small construction firm applied for his wife's visit visa. Rejected twice. His colleague at the same company, holding the title "Civil Engineer" on the same project, was approved on the first attempt. Same employer. Same salary. Different job title = different result.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The fix:</strong> Ask your HR department to review your profession with the Ministry of Human Resources and Social Development (MHRSD). If your actual role qualifies but your Iqama says otherwise, your employer can initiate a <strong class="text-white">profession amendment</strong> before you reapply. Note that a profession amendment can take several weeks and may affect your salary grade — weigh the timing carefully.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>2. Name &amp; Document Typos (The #1 Silent Killer)</h3>
+        <p>
+          A single letter difference between your passport and your MOFA application is enough to trigger an automatic rejection. The Saudi system cross-checks your name against passport records, and the comparison is exact — not approximate. <strong class="text-white">A typo is the #1 silent killer of visa applications.</strong>
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Where the typos hide:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Passport name vs. MOFA form name.</strong> If your passport says "Abdul Rahman" but you wrote "Abdulrahman," that is a mismatch.</li>
+          <li><strong>English vs. Arabic transliteration.</strong> The Arabic spelling of your name must match your passport and your Iqama exactly, including the placement of "Al," "Bin," or "Abdul."</li>
+          <li><strong>Dates.</strong> A wrong birth date or passport expiry date is an instant red flag.</li>
+          <li><strong>Passport number.</strong> One digit off and the system cannot verify you at all.</li>
+          <li><strong>Place of issue.</strong> A mismatched passport issue city or country is also automatically flagged.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Real-world example:</strong> A Filipino expat wrote his wife's passport name as "Maria Elena Cruz" while her passport clearly read "Maria Elena-Cruz." The hyphen triggered a rejection. One character. Fixed in five minutes.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Real-world example #2:</strong> A Bangladeshi expat entered his mother's birth year as 1968. Her passport said 1966. The two-digit mismatch on the application form produced a rejection that took three weeks to diagnose — because everything else was perfect.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The Iqama validity rule you must know:</strong> Your Iqama must be valid for at least <strong class="text-white">six (6) months</strong> from the date of application. If your Iqama expires sooner, your family visit visa application will be automatically rejected regardless of how accurate your documents are. Renew your Iqama first, then apply.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The golden habit:</strong> Before submitting, compare the application form against the passport page by page, field by field — or have someone who was not involved in filling the form check it. Fresh eyes catch typos. Tired eyes miss them.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>3. Chamber of Commerce (Ghurafah) Stamping Failures</h3>
+        <p>
+          The Chamber of Commerce stamp — known locally as <strong class="text-white">"Ghurafah" (الغرفة)</strong> — is a mandatory element of the Saudi family visit visa application. It proves that your employer is a registered, active, and compliant business. Without a valid stamp, MOFA cannot process your request, and the application times out into an automatic rejection.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">How the stamping process works:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Your employer must visit the Chamber of Commerce (or use their online portal) to verify and stamp the family visit request.</li>
+          <li>The stamp must be fresh and tied to the current business registration certificate.</li>
+          <li>The company's commercial registration (CR) must be valid and renewed for the current year.</li>
+          <li>Delays here are the most common silent cause of rejection — the application sits "pending" so long that MOFA's system cancels it.</li>
+        </ul>
+        <p class="mt-4">
+          Many expats assume the stamping is automatic once they submit. It is not. The stamp is a separate, manual step performed by your employer's representative — usually the PRO (Public Relations Officer). If the PRO is slow, your application is silently dying in the queue.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Real-world example:</strong> A Pakistani expat submitted his application on a Sunday. His employer's PRO promised the stamp "by Thursday." The system auto-cancelled the application on Wednesday. The employee only discovered the rejection when checking the status a week later.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The fix:</strong> Before you submit, confirm with your PRO that the Chamber of Commerce stamp is completed — and verify it on the MOFA status page within 48 hours. Never let an application sit idle.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Pro tip:</strong> Ask your PRO for a copy of the stamped request or a screenshot of the confirmation. If a future rejection happens, you will have proof that this step was completed correctly.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>4. Ineligible Relative Categories</h3>
+        <p>
+          The Saudi family visit visa is strictly limited to <strong class="text-white">first-degree relatives: spouses, children, and parents.</strong> Grandparents, brothers, sisters, uncles, aunts, cousins, and in-laws are <strong class="text-desert-primary">not eligible</strong> under the standard family visit visa.
+        </p>
+        <p class="mt-4">
+          Applying for an ineligible relative is one of the fastest ways to get rejected — and it can also flag your account for closer scrutiny on future applications. The system checks the relationship against your declared family structure, and many expats discover the hard way that "family" in Saudi visa terms means something narrower than they assumed.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Eligible (First-Degree)</th>
+                <th class="text-left py-2">Not Eligible</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">Spouse (wife/husband), children, parents (father &amp; mother)</td>
+                <td class="py-2">Siblings, grandparents, grandchildren, uncles, aunts, cousins, in-laws, step-relatives</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Real-world example:</strong> An Indian expat tried to sponsor his brother. Rejected with no explanation. His wife and parents, however, were approved without issue. The system enforces the first-degree rule automatically.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The fix:</strong> Only apply for your spouse, your children, and your parents. If you want to host siblings or extended family, they must apply through the standard tourist visa (eVisa) process, not the family visit visa.
+        </p>
+        <p class="mt-4">
+          A note on parents: sponsoring parents is allowed, but it is scrutinized more heavily than spouse or child applications, and it may require additional documentation proving your ability to support them. If a parent application is rejected while your spouse's is approved, the profession and address checks are the usual culprits.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>5. The "Hidden" Address Mismatch (Forum Insight)</h3>
+        <p>
+          This is the rejection reason almost nobody talks about — and it catches experienced expats off guard. <strong class="text-white">If your company is registered in Jeddah but your MOFA profile address says Riyadh, it will be rejected.</strong> Update your MOFA profile to match your Chamber of Commerce registration exactly in Arabic.
+        </p>
+        <p class="mt-4">
+          MOFA cross-references your employer's registered address with the address on your profile. When the two do not align — even by a district, a street, or a missing "Al-" prefix — the system flags the application as inconsistent and rejects it. This mismatch is a recurring theme across expat forums, and it is almost always missed because it is invisible on your own screen.
+        </p>
+        <p class="mt-4">
+          Why is this so common? Because your MOFA profile may have been created when you first arrived — possibly by a PRO who used an older address, or before your company relocated offices. Years later, nobody remembers the profile exists, let alone what address it holds. Then the rejection arrives, and nobody can explain why.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">How to check right now:</strong> Open your MOFA visa platform profile and your company's Chamber of Commerce certificate side by side. Compare: the company name (in Arabic), the city, the district, and the street address. Every character must match your Chamber registration exactly in Arabic.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The fix:</strong> Correct your MOFA profile address to match the Chamber of Commerce certificate before reapplying. If your employer recently moved offices, update the certificate first, then update your profile.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Watch out for:</strong> The same mismatch can also appear on your Absher record. When you update one, verify the other. A complete, consistent digital footprint is your best defense against silent rejections.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: How to Fix and Reapply Successfully</h2>
+        <p>
+          Once you understand the cause, the path forward is clear and usually quick. Follow this exact sequence to maximize your chances of approval on the next attempt.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Wait 3-5 days before reapplying.</strong> Reapplying immediately after a rejection can trigger an automatic secondary flag. Give the system time to clear your previous record.</li>
+          <li><strong>Correct your MOFA profile.</strong> Fix the address, the name spelling, and the passport details to match your documents and your Chamber of Commerce registration exactly — in Arabic.</li>
+          <li><strong>Check your Iqama validity.</strong> Your Iqama must be valid for at least 6 months from the application date. Renew if needed.</li>
+          <li><strong>Ensure your employer stamps it.</strong> Confirm with your PRO that the Chamber of Commerce stamp is complete before submission, and verify the status within 48 hours.</li>
+          <li><strong>Reapply with a fresh, complete application.</strong> Upload clear, high-resolution passport copies for every applicant. Double-check every date and number.</li>
+          <li><strong>Track the status.</strong> Use the MOFA visa status check and your Absher account to monitor progress daily.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Before-you-apply checklist:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Passport copies for every applicant — clear, not blurry.</li>
+            <li>Your Iqama copy, valid for 6+ months.</li>
+            <li>Your employer's valid commercial registration (CR).</li>
+            <li>Chamber of Commerce stamp completed on the request.</li>
+            <li>Your MOFA profile address matches the CR — in Arabic.</li>
+            <li>Every name spelled exactly as in the passport.</li>
+            <li>Correct relative category: spouse, child, or parent only.</li>
+          </ul>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">About the refund:</strong> If your application is rejected, <strong class="text-desert-primary">MOFA automatically refunds the visa fee.</strong> You will not be charged twice for a failed application. This also means there is no financial penalty for fixing your documents and reapplying.</p>
+        </div>
+        <p class="mt-4">
+          The refund typically arrives through the same channel you paid with — bank card, SADAD, or transfer — within a few working days. If it does not appear within two weeks, contact your bank or the MOFA support line with your application reference number.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>How to Check Your MOFA Visa Status (Before and After Submission)</h2>
+        <p>
+          Knowing where your application stands is half the battle. Rejections often sit unnoticed because nobody checks the status in time. Here is exactly how to track a Saudi family visit visa.
+        </p>
+        <h3>Before submission — the eligibility check</h3>
+        <p>
+          Do not submit an application you are unsure about. Run a quick self-check first: your Iqama validity, your profession's eligibility, your employer's CR status, and your MOFA profile address. Our free{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Family Visa Optimizer</a>{' '}
+          walks you through these checks in minutes and shows your estimated dependent fees at the same time.
+        </p>
+        <h3>After submission — the tracking steps</h3>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300 mt-2">
+          <li>Open the official MOFA visa platform (visa.mofa.gov.sa) and log in.</li>
+          <li>Go to "Enquiry" &gt; "Visa Application Status."</li>
+          <li>Enter your application number and passport number.</li>
+          <li>Check the status daily — especially in the first 48 hours, when a missing Chamber stamp can already be visible as a pending/holding state.</li>
+          <li>Also open Absher &gt; "Visa Services" for the same application.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">What the statuses mean:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-green-400">Accepted/Approved:</strong> The visa is issued. Download and print it.</li>
+            <li><strong class="text-yellow-400">Under Process:</strong> Still being reviewed — but check the Chamber stamp is done.</li>
+            <li><strong class="text-red-400">Rejected/Cancelled:</strong> Take a screenshot of the reference, identify the cause from this guide, fix it, and reapply after 3-5 days.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          A common mistake is checking only once, a week after submission. By then, an application rejected on day two is long past its window for a quick fix. Check daily, act fast.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What To Do If Your Visa Is Rejected Multiple Times</h2>
+        <p>
+          A second rejection is not a dead end — it is a signal that you are missing something the automated system checks silently. Here is how to diagnose a repeated rejection properly.
+        </p>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300">
+          <li><strong>Stop and change nothing for now.</strong> Do not keep resubmitting the same application. Each identical submission burns time and raises flags.</li>
+          <li><strong>Pull every record side by side.</strong> Your passport, your Iqama, your company CR, and your MOFA profile. Compare them field by field — name, father's name, city, street, spelling.</li>
+          <li><strong>Check the 6-month rule again.</strong> Iqama expiring inside six months is the most common silent repeater.</li>
+          <li><strong>Ask your PRO for the full submission log.</strong> Sometimes the first application was fine, but the employer's stamping was not completed on any of them.</li>
+          <li><strong>Have a second person review.</strong> A colleague, a PRO from another company, or a trusted community member can spot what you have stared past.</li>
+          <li><strong>Consider the profession check.</strong> If everything matches perfectly and you are still rejected, the Iqama profession restriction is the prime suspect. Talk to HR about a profession amendment.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">When to involve the employer directly:</strong> If you have corrected names, updated your profile address, confirmed the stamp, and verified your Iqama validity — and still get rejected — schedule a meeting with your company's HR or PRO department. In rare cases the company's CR category itself restricts dependent sponsorship, which only the employer can resolve.</p>
+        </div>
+        <p class="mt-4">
+          Remember: a rejection is not a black mark on your record. The Saudi system treats each application on its own merits. Your job is to make sure every application you submit is as clean and consistent as possible.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Common Myths About Saudi Family Visit Visa Rejections</h2>
+        <p>
+          Misinformation spreads fast in expat circles. Let us clear up the myths that cost people time, money, and stress.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-sm text-gray-300">
+          <p><strong class="text-white">Myth 1: "A rejection means I am banned from applying again."</strong></p>
+          <p class="mt-1">False. A rejection is not a ban. You can reapply after correcting the issue, typically within days. There is no permanent record blocking you.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Myth 2: "I need an agent to fix it."</strong></p>
+          <p class="mt-1">False for most cases. The fixes in this guide — name matching, address correction, stamp confirmation — are things you and your employer can do directly and for free.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Myth 3: "The fee is lost if I get rejected."</strong></p>
+          <p class="mt-1">False. MOFA automatically refunds the fee for rejected applications. You only pay when the visa is issued.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Myth 4: "Higher salary guarantees approval."</strong></p>
+          <p class="mt-1">False. Salary helps, but a clean, consistent application matters more. Many high earners get rejected over a single typo, while modest earners with perfect paperwork get approved.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Myth 5: "Anyone with an Iqama can sponsor family."</strong></p>
+          <p class="mt-1">False. Only expats in professions and job tiers classified as eligible can sponsor dependents. Check your profession before spending time on documents.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats (GEO Targeting)</h2>
+        <p>
+          Your home country shapes how the system sees your application. Here are the specific notes for the largest expat communities in the Kingdom.
+        </p>
+        <h3>For Pakistani &amp; Indian Expats</h3>
+        <p>
+          Make sure you understand the terms as they appear on official forms: <strong class="text-white">"Kafala"</strong> (the sponsorship system), <strong class="text-white">"Iqama validity"</strong> (the 6-month minimum), and <strong class="text-white">"Chamber stamping"</strong> (the Ghurafah process). Pakistani and Indian applications are among the most frequent in the system, so the matching algorithms are strictest with name transliteration. Verify that the father's name appears in full, exactly as in the passport.
+        </p>
+        <p class="mt-4">
+          For Indian expats specifically: the "Aadhaar vs. passport name" confusion causes many rejections. Use the name exactly as printed in the passport, not the Aadhaar card. For Pakistani expats: ensure your passport (NADRA-issued) name matches your visa and Iqama records character for character.
+        </p>
+        <h3>For Filipino &amp; Bangladeshi Expats</h3>
+        <p>
+          Check the exact spelling of every family member's name <strong class="text-white">as it appears in the passport</strong> — including hyphens, middle names, and suffixes like "Jr." or "Sr." This matters now and later: an NBI clearance (for Filipinos) or police clearance (for Bangladeshis) must match your family's passport names for future immigration steps. A tiny inconsistency today can become a serious problem when applying for Iqama transfer or residency later.
+        </p>
+        <p class="mt-4">
+          Filipino expats should also remember that Philippine passports list the mother's maiden name separately — do not combine it into the given-name field on the MOFA form. Bangladeshi expats should verify the father's name in English matches the NADRA/BRTA-issued records exactly.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can I apply again immediately after a Saudi family visa rejection?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes, technically you can apply again at any time. However, it is strongly recommended to wait 3-5 days and fix the root cause first. Reapplying with the same error will almost certainly produce the same rejection — and could flag your account for extra scrutiny.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Will I get a refund if my MOFA family visit visa is rejected?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. MOFA automatically refunds the visa fee when an application is rejected. You are only charged when the visa is actually issued. Check your payment method for the refund within a few working days.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Is the Saudi family visit visa currently stopped or banned in 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">No. The family visit visa is active and being issued throughout 2026. What has changed is stricter automated verification: exact name matching, the 6-month Iqama validity rule, and the address cross-check. The visa is not banned — the rules are just enforced more strictly.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How long does it take for a family visit visa to be approved after fixing errors?</p>
+            <p class="text-gray-400 text-sm mt-1">After you fix the identified errors and reapply, approvals typically take 3-7 working days. In many cases, applications submitted correctly with a valid Chamber of Commerce stamp are approved within 48 hours. Check the MOFA status page and Absher daily.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Why does my Saudi family visa show "under process" for weeks?</p>
+            <p class="text-gray-400 text-sm mt-1">A long "under process" status usually means one of two things: the Chamber of Commerce stamp has not been completed by your employer, or there is a data inconsistency being reviewed manually. Contact your PRO to confirm the stamp was done, and double-check your profile address in Arabic.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can my employer's PRO apply for the family visit visa on my behalf?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. In fact, the Chamber of Commerce stamping step requires employer involvement, so the PRO is often the one who submits. But you are still responsible for the accuracy of the personal data. Review the submitted form yourself before it goes to MOFA.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Final Words: Stop Guessing, Start Fixing</h2>
+        <p>
+          The five reasons above cover the vast majority of Saudi family visit visa rejections. None of them require an expensive agent or a miracle. They require attention to detail: the right Iqama profession, perfect name spelling, a valid Chamber stamp, the correct relative category, and an address that matches your employer's registration exactly.
+        </p>
+        <p class="mt-4">
+          Here is the summary you came for:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">Rejection reason #1:</strong> Iqama profession — check with HR, amend if needed.</li>
+          <li><strong class="text-white">Rejection reason #2:</strong> Name and document typos — match the passport exactly, field by field.</li>
+          <li><strong class="text-white">Rejection reason #3:</strong> Chamber stamp missing — confirm with your PRO before and after submission.</li>
+          <li><strong class="text-white">Rejection reason #4:</strong> Ineligible relative — spouse, child, or parent only.</li>
+          <li><strong class="text-white">Rejection reason #5:</strong> Address mismatch — make MOFA profile match Chamber registration in Arabic.</li>
+        </ul>
+        <p class="mt-4">
+          Don't guess your eligibility. Use the <a href="/family-visa-optimizer" class="text-desert-primary underline">SaudiToolHub Family Visa Optimizer</a> to check your Iqama profession and dependent fees before applying. And for a complete breakdown of dependent fees, read our <a href="/guide/family-visa-dependent-fee-calculator-saudi-arabia-2026" class="text-desert-primary underline">Family Visa Dependent Fee Calculator Guide 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Check Your Family Visa Eligibility Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — profession check, dependent fees, and Iqama validity in one place</p>
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Use the Free Family Visa Optimizer</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on current Ministry of Foreign Affairs (MOFA) regulations. Rules may change. Always verify your specific case on the official MOFA Visa Platform (visa.mofa.gov.sa).
+        </p>
+      </div>
+    `, ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل الوافدين</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">أهم 5 أسباب لرفض تأشيرة الزيارة العائلية في السعودية وكيفية تجنبها (تحديث 2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">تحليل احترافي مباشر لأسباب رفض وزارة الخارجية لتأشيرات الزيارة العائلية — والخطوات الدقيقة للحصول على الموافقة في المرة القادمة.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الإحباط حقيقي — والحل سهل تمامًا</h2>
+        <p>
+          جمعت المستندات. تعبأت نموذج وزارة الخارجية بعناية. دفعت الرسوم. ثم وصلت رسالة الرفض: <strong class="text-white">"تم رفض الطلب."</strong> بلا أي تفسير، وبلا أي توجيه — مجرد طريق مسدود، وإجازتك المدخرة لشهور تُهدر فجأة.
+        </p>
+        <p class="mt-4">
+          لست وحدك. في منتديات الوافدين ومجموعات واتساب ومكاتب العلاقات العامة في كل مدينة من الرياض إلى الدمام، يتكرر هذا المشهد كل أسبوع. آباء لا يلتقون أحفادهم أبدًا. أزواج يظلون منفصلين سنة أخرى. إجازات تُلغى في اللحظة الأخيرة. ثقل الرفض عاطفيًا حقيقي — وغير ضروري في معظم الحالات.
+        </p>
+        <p class="mt-4">
+          هذه هي الحقيقة الصادقة من آلاف حالات الوافدين في السعودية: <strong class="text-desert-primary">معظم الرفوض ليست بسببك، ولا دخلك، ولا سجلك الجنائي.</strong> بل بسبب أخطاء صغيرة صامتة قابلة للإصلاح — خطأ إملائي في اسم، أو عدم تطابق بين ملفك في وزارة الخارجية وسجل شركتك في غرفة التجارة، أو مهنة إقامة لا تسمح بترشيح المُرافقين.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">الإجابة المباشرة:</strong> معظم حالات الرفض سببها عدم تطابق بسيط في البيانات أو قيود على المهنة، ويمكن إصلاحها خلال أيام. لا تحتاج إلى مكتب وساطة. لا تحتاج إلى الدفع مرارًا. تحتاج إلى هذا الدليل.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">ماذا ستستفيد من هذا الدليل:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>الأسباب الخمسة مرتبة حسب تكرار حدوثها الفعلي.</li>
+            <li>مثال حقيقي تحت كل سبب، مستخلص من تجارب وافدين فعلية.</li>
+            <li>الحل الدقيق لكل مشكلة — بلغة بسيطة وخطوات واضحة.</li>
+            <li>سياسة استرداد الرسوم موضحة حتى لا تدفع مرتين.</li>
+            <li>نصائح خاصة بالوافدين من باكستان والهند والفلبين وبنجلاديش.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          قبل إعادة التقديم، تحقق من أهليتك فورًا عبر أداة{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">محسّن تأشيرة العائلة المجاني</a>.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أهم 5 أسباب شائعة لرفض تأشيرة وزارة الخارجية</h2>
+        <p>
+          استنادًا إلى أنماط وزارة الخارجية وبيانات أبشر وتجارب الوافدين الحقيقية على منتديات مثل ريديت وكورا ومجموعات الجاليات، فإن هذه الأسباب الخمسة تفسر الغالبية العظمى من حالات رفض تأشيرات الزيارة العائلية. اقرأ كل سبب بعناية — الحل دائمًا في التفاصيل.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">الترتيب</th>
+                <th class="text-left py-2">السبب</th>
+                <th class="text-left py-2">الانتشار</th>
+                <th class="text-left py-2">صعوبة الإصلاح</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#1</td><td class="py-2">مهنة الإقامة المقيدة أو من الدرجة المتدنية</td><td class="py-2">مرتفعة جدًا</td><td class="py-2 text-yellow-400">متوسطة (تحتاج موارد بشرية)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#2</td><td class="py-2">أخطاء الاسم والمستندات</td><td class="py-2">مرتفعة جدًا</td><td class="py-2 text-green-400">سهل</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#3</td><td class="py-2">أخطاء ختم غرفة التجارة</td><td class="py-2">مرتفعة</td><td class="py-2 text-yellow-400">متوسطة (تحتاج علاقات عامة)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#4</td><td class="py-2">فئة قريب غير مؤهلة</td><td class="py-2">متوسطة</td><td class="py-2 text-green-400">سهل (لا تتقدم)</td></tr>
+              <tr><td class="py-2 text-desert-primary">#5</td><td class="py-2">عدم تطابق العنوان في ملف وزارة الخارجية</td><td class="py-2">مرتفعة (خفي)</td><td class="py-2 text-green-400">سهل</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          الخبر الجيد: أربعة من الأسباب الخمسة تحت سيطرتك الكاملة. والخامس — قيد المهنة — يمكن حله غالبًا بمحادثة مع صاحب العمل. لا يتطلب أي منها تدخلًا قانونيًا.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>1. مهنة الإقامة المقيدة أو من الدرجة المتدنية</h3>
+        <p>
+          هذا هو السبب الأكثر شيوعًا لرفض تأشيرات الزيارة العائلية في السعودية — وهو أيضًا الذي لا يتوقعه معظم الوافدين. <strong class="text-white">ليست كل مهنة إقامة تسمح بترشيح أفراد العائلة.</strong> تحتفظ وزارة الداخلية بتصنيف للمهن "القابلة للترشيح" مقابل "غير القابلة"، وهو مرتبط مباشرة بنشاط صاحب العمل والمسمى الوظيفي الرسمي.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">من يُرفض:</strong> الوافدون في المهن اليدوية أو منخفضة المهارة — مثل السائقين والعمال وعمال النظافة والمزارعين وعمال البناء وحراس الأمن وما شابه. بموجب سياسة العمل السعودية، لا يُسمح عمومًا لهذه الفئات بإحضار مُرافقين إلى المملكة.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">من يُوافق:</strong> المهنيون والمديرون والمهندسون والأطباء والمعلمون ومتخصصو تقنية المعلومات والمحاسبون وغيرهم من الوظائف الماهرة/ذات الياقات البيضاء، في الشركات ذات الأنشطة التجارية والصناعية "عالية المستوى".
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">مسموح عادةً</th>
+                <th class="text-left py-2">يُرفض عادةً</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">المهندسون والأطباء والممرضون والمعلمون والمحاسبون ومتخصصو تقنية المعلومات والمديرون والمتخصصون في التسويق</td>
+                <td class="py-2">العمال العامون والسائقون وعمال النظافة والعمال الزراعيون وعمال البناء وحراس الأمن وعمال الخدمات</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          التصنيف غير معلن للعموم وهو متغير. مهنة كانت مرفوضة العام الماضي قد تصبح مؤهلة العام القادم — والعكس صحيح أيضًا. لهذا فإن التحقق من القواعد الحالية أهم من الاعتماد على تجربة صديق قبل سنتين.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مثال واقعي:</strong> وافد آسيوي يعمل "عاملًا عامًا" في شركة إنشاءات صغيرة تقدم لطلب تأشيرة زوجته. رُفض مرتين. زميله في نفس الشركة بمسمى "مهندس مدني" في نفس المشروع وُوفق من المحاولة الأولى. نفس صاحب العمل. نفس الراتب. مسمى وظيفي مختلف = نتيجة مختلفة.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">الحل:</strong> اطلب من قسم الموارد البشرية مراجعة مهنتك لدى وزارة الموارد البشرية والتنمية الاجتماعية. إذا كان دورك الفعلي مؤهلًا لكن إقامتك تقول غير ذلك، يمكن لصاحب العمل تقديم طلب <strong class="text-white">تعديل مهنة</strong> قبل إعادة التقديم. لاحظ أن تعديل المهنة قد يستغرق أسابيع وقد يؤثر على درجة الراتب — وازن التوقيت بعناية.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>2. أخطاء الاسم والمستندات (القاتل الصامت رقم 1)</h3>
+        <p>
+          حرف واحد مختلف بين جواز سفرك وطلب وزارة الخارجية كافٍ لإحداث رفض تلقائي. يقارن النظام السعودي اسمك بسجلات جواز السفر، والمقارنة دقيقة تمامًا وليست تقريبية. <strong class="text-white">الخطأ الإملائي هو القاتل الصامت رقم 1 لطلبات التأشيرة.</strong>
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">أين تختبئ الأخطاء الإملائية:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>اسم الجواز مقابل اسم النموذج.</strong> إذا كان جوازك يقول "عبد الرحمن" وكتبت "عبدالرحمن"، فهذا عدم تطابق.</li>
+          <li><strong>النقل الحرفي بين الإنجليزية والعربية.</strong> يجب أن يطابق التهجئة العربية لاسمك جواز سفرك وإقامتك تمامًا، بما فيها مواضع "ال" و"بن" و"عبد".</li>
+          <li><strong>التواريخ.</strong> خطأ في تاريخ الميلاد أو انتهاء الجواز علامة حمراء فورية.</li>
+          <li><strong>رقم الجواز.</strong> خطأ في رقم واحد يجعل النظام غير قادر على التحقق منك أصلًا.</li>
+          <li><strong>مكان الإصدار.</strong> عدم تطابق مدينة أو دولة إصدار الجواز يُرفض تلقائيًا أيضًا.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مثال واقعي:</strong> وافد فلبيني كتب اسم زوجته "Maria Elena Cruz" بينما جوازها ينص بوضوح "Maria Elena-Cruz". الشرطة المائلة تسببت في الرفض. حرف واحد. أُصلح في خمس دقائق.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مثال واقعي 2:</strong> وافد بنغلادشي أدخل سنة ميلاد أمه 1968 بينما جوازها يقول 1966. عدم تطابق رقمين في نموذج الطلب أدى إلى رفض استغرق تشخيصه ثلاثة أسابيع — لأن كل شيء آخر كان مثاليًا.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">قاعدة صلاحية الإقامة التي يجب أن تعرفها:</strong> يجب أن تكون إقامتك صالحة لمدة <strong class="text-white">ستة (6) أشهر على الأقل</strong> من تاريخ التقديم. إذا انتهت إقامتك قبل ذلك، فسيُرفض طلب تأشيرة الزيارة العائلية تلقائيًا مهما كانت مستنداتك دقيقة. جدد إقامتك أولًا ثم تقدم.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">العادة الذهبية:</strong> قبل الإرسال، قارن نموذج الطلب مع الجواز صفحة بصفحة وحقلًا بحقل — أو اطلب من شخص لم يشارك في ملء النموذج أن يدققه. العيون الجديدة تكتشف الأخطاء. العيون المتعبة تفوتها.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>3. أخطاء ختم غرفة التجارة (الغرفة)</h3>
+        <p>
+          ختم غرفة التجارة — المعروف محليًا باسم <strong class="text-white">"الغرفة"</strong> — عنصر إلزامي في طلب تأشيرة الزيارة العائلية السعودية. وهو يثبت أن صاحب عملك شركة مسجلة ونشطة وممتثلة. بدون ختم صحيح، لا تستطيع وزارة الخارجية معالجة طلبك، وينتهي الطلب برفض تلقائي بسبب انتهاء المهلة.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">كيف تعمل عملية الختم:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>على صاحب العمل زيارة غرفة التجارة (أو استخدام بوابتها الإلكترونية) للتحقق من طلب الزيارة العائلية وختمه.</li>
+          <li>يجب أن يكون الختم حديثًا ومرتبطًا بشهادة السجل التجاري الحالية.</li>
+          <li>يجب أن يكون السجل التجاري (CR) للشركة ساريًا ومجددًا للعام الحالي.</li>
+          <li>التأخير هنا هو السبب الصامت الأكثر شيوعًا للرفض — يظل الطلب "قيد الانتظار" طويلًا حتى يلغيه نظام وزارة الخارجية.</li>
+        </ul>
+        <p class="mt-4">
+          يظن كثير من الوافدين أن الختم يتم تلقائيًا بمجرد تقديمهم. ليس كذلك. الختم خطوة منفصلة يدوية يقوم بها ممثل صاحب العمل — عادةً موظف العلاقات العامة (PRO). إذا كان موظف العلاقات العامة بطيئًا، فإن طلبك يموت بصمت في الطابور.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مثال واقعي:</strong> وافد باكستاني قدم طلبه يوم الأحد. وعد موظف العلاقات العامة بالختم "بحلول الخميس". ألغى النظام الطلب تلقائيًا يوم الأربعاء. اكتشف الموظف الرفض فقط عندما فحص الحالة بعد أسبوع.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">الحل:</strong> قبل التقديم، تأكد من موظف العلاقات العامة أن ختم غرفة التجارة قد اكتمل — وتحقق من صفحة حالة وزارة الخارجية خلال 48 ساعة. لا تترك طلبًا معلقًا أبدًا.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">نصيحة احترافية:</strong> اطلب من موظف العلاقات العامة نسخة من الطلب المختوم أو لقطة شاشة للتأكيد. إذا حدث رفض مستقبلي، سيكون لديك إثبات أن هذه الخطوة اكتملت بشكل صحيح.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>4. فئة قريب غير مؤهلة</h3>
+        <p>
+          تقتصر تأشيرة الزيارة العائلية السعودية بصرامة على <strong class="text-white">الأقارب من الدرجة الأولى: الأزواج والأبناء والوالدان.</strong> الأجداد والإخوة والأخوات والأعمام والعمات وأبناء العم والخالات والأصهار <strong class="text-desert-primary">غير مؤهلين</strong> بموجب تأشيرة الزيارة العائلية القياسية.
+        </p>
+        <p class="mt-4">
+          التقدم لقريب غير مؤهل من أسرع طرق الرفض — ويمكن أن يضع علامة على حسابك لمزيد من التدقيق في الطلبات المستقبلية. يفحص النظام العلاقة مقابل هيكل عائلتك المعلن، ويكتشف كثير من الوافدين بالطريقة الصعبة أن "العائلة" في مصطلحات التأشيرة السعودية أضيق مما ظنوا.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">مؤهل (الدرجة الأولى)</th>
+                <th class="text-left py-2">غير مؤهل</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">الزوج/الزوجة والأبناء والوالدان (الأب والأم)</td>
+                <td class="py-2">الإخوة والأخوات والأجداد والأحفاد والأعمام والعمات وأبناء العم والخالات والأصهار وأقارب الزوجة/الزوج</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مثال واقعي:</strong> وافد هندي حاول ترشيح أخيه. رُفض دون تفسير. زوجته ووالداه، مع ذلك، وُوفقا دون مشكلة. يفرض النظام قاعدة الدرجة الأولى تلقائيًا.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">الحل:</strong> تقدم فقط لزوجتك وأبنائك ووالديك. إذا أردت استضافة إخوتك أو أقاربك البعيدين، فعليهم التقدم عبر عملية التأشيرة السياحية القياسية (التأشيرة الإلكترونية)، وليس تأشيرة الزيارة العائلية.
+        </p>
+        <p class="mt-4">
+          ملاحظة حول الوالدين: ترشيح الوالدين مسموح لكنه يخضع لتدقيق أشد من طلبات الزوج أو الأبناء، وقد يتطلب مستندات إضافية تثبت قدرتك على إعالتهم. إذا رُفض طلب والد بينما وُوفق طلب زوجتك، فالأسباب المعتادة هي فحص المهنة والعنوان.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>5. "السبب الخفي": عدم تطابق العنوان (رؤية المنتديات)</h3>
+        <p>
+          هذا هو سبب الرفض الذي لا يتحدث عنه أحد تقريبًا — ويفاجئ الوافدين ذوي الخبرة. <strong class="text-white">إذا كانت شركتك مسجلة في جدة لكن عنوان ملفك في وزارة الخارجية يقول الرياض، فسيُرفض طلبك.</strong> حدّث ملفك في وزارة الخارجية ليطابق سجل غرفة التجارة تمامًا باللغة العربية.
+        </p>
+        <p class="mt-4">
+          تقاطع وزارة الخارجية العنوان المسجل لصاحب عملك مع العنوان الموجود في ملفك. عندما لا يتطابقان — حتى بحي أو شارع أو بادئة "ال" ناقصة — يعلّم النظام الطلب على أنه غير متسق ويرفضه. هذا عدم التطابق موضوع متكرر في منتديات الوافدين، ويُغفل دائمًا تقريبًا لأنه غير مرئي على شاشتك أنت.
+        </p>
+        <p class="mt-4">
+          لماذا هو شائع جدًا؟ لأن ملفك في وزارة الخارجية ربما أُنشئ عند وصولك الأول — ربما من قبل موظف علاقات عامة استخدم عنوانًا قديمًا، أو قبل انتقال شركتك إلى مكاتب جديدة. بعد سنوات، لا يتذكر أحد أن الملف موجود، ناهيك عن العنوان الذي يحمله. ثم يأتي الرفض ولا يستطيع أحد تفسيره.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">كيف تتحقق الآن:</strong> افتح ملف منصة تأشيرات وزارة الخارجية وشهادة سجل غرفة التجارة لشركتك جنبًا إلى جنب. قارن: اسم الشركة (بالعربية)، والمدينة، والحي، وعنوان الشارع. كل حرف يجب أن يطابق سجل الغرفة تمامًا باللغة العربية.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">الحل:</strong> صحح عنوان ملف وزارة الخارجية ليطابق شهادة غرفة التجارة قبل إعادة التقديم. إذا نقل صاحب عملك مكتبه مؤخرًا، حدّث الشهادة أولًا ثم حدّث ملفك.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">انتبه إلى:</strong> قد يظهر عدم التطابق نفسه أيضًا في سجلك في أبشر. عند تحديث أحدهما، تحقق من الآخر. البصمة الرقمية الكاملة والمتسقة هي أفضل دفاع لك ضد الرفض الصامت.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خطوة بخطوة: كيفية الإصلاح وإعادة التقديم بنجاح</h2>
+        <p>
+          بمجرد فهم السبب، يصبح الطريق أمامك واضحًا وسريعًا عادةً. اتبع هذا التسلسل بدقة لتعظيم فرص الموافقة في المحاولة القادمة.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>انتظر 3-5 أيام قبل إعادة التقديم.</strong> إعادة التقديم فورًا بعد الرفض قد تطلق إشارة ثانوية تلقائية. امنح النظام وقتًا لمسح سجلك السابق.</li>
+          <li><strong>صحح ملف وزارة الخارجية.</strong> أصلح العنوان وتهجئة الاسم وتفاصيل الجواز لتطابق مستنداتك وسجل غرفة التجارة تمامًا — بالعربية.</li>
+          <li><strong>تحقق من صلاحية الإقامة.</strong> يجب أن تكون إقامتك صالحة لمدة 6 أشهر على الأقل من تاريخ التقديم. جدد إذا لزم.</li>
+          <li><strong>تأكد من ختم صاحب العمل.</strong> أكد مع موظف العلاقات العامة أن ختم غرفة التجارة اكتمل قبل التقديم، وتحقق من الحالة خلال 48 ساعة.</li>
+          <li><strong>أعد التقديم بطلب جديد كامل.</strong> ارفع نسخًا واضحة عالية الدقة من جوازات جميع المتقدمين. راجع كل تاريخ ورقم مرتين.</li>
+          <li><strong>تابع الحالة.</strong> استخدم فحص حالة تأشيرات وزارة الخارجية وحسابك في أبشر لمتابعة التقدم يوميًا.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">قائمة التحقق قبل التقديم:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>نسخ جوازات لكل المتقدمين — واضحة وليست مشوشة.</li>
+            <li>نسخة إقامتك الصالحة لمدة 6 أشهر فأكثر.</li>
+            <li>السجل التجاري الساري لصاحب عملك (CR).</li>
+            <li>ختم غرفة التجارة مكتمل على الطلب.</li>
+            <li>عنوان ملف وزارة الخارجية يطابق السجل التجاري — بالعربية.</li>
+            <li>كل اسم مكتوب تمامًا كما في الجواز.</li>
+            <li>فئة القريب الصحيحة: زوج أو ابن أو والد فقط.</li>
+          </ul>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">عن الاسترداد:</strong> إذا رُفض طلبك، <strong class="text-desert-primary">تسترد وزارة الخارجية رسوم التأشيرة تلقائيًا.</strong> لن تُدفع مرتين مقابل طلب فاشل. هذا يعني أيضًا عدم وجود عقوبة مالية لتصحيح مستنداتك وإعادة التقديم.</p>
+        </div>
+        <p class="mt-4">
+          يصل الاسترداد عادةً عبر نفس القناة التي دفعت بها — بطاقة بنكية أو سداد أو تحويل — خلال أيام عمل قليلة. إذا لم يظهر خلال أسبوعين، اتصل ببنكك أو بخط دعم وزارة الخارجية مع رقم مرجع طلبك.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كيف تفحص حالة تأشيرة وزارة الخارجية (قبل التقديم وبعده)</h2>
+        <p>
+          معرفة مكان طلبك نصف المعركة. غالبًا ما تظل الرفوض دون أن يلاحظها أحد لأن لا أحد يفحص الحالة في الوقت المناسب. إليك بالضبط كيفية تتبع تأشيرة زيارة عائلية سعودية.
+        </p>
+        <h3>قبل التقديم — فحص الأهلية</h3>
+        <p>
+          لا تقدم طلبًا لست واثقًا منه. أجرِ فحصًا ذاتيًا سريعًا أولًا: صلاحية إقامتك، وأهلية مهنتك، وحالة السجل التجاري لصاحب عملك، وعنوان ملفك في وزارة الخارجية. أداة{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">محسّن تأشيرة العائلة</a>{' '}
+          المجانية ترشدك عبر هذه الفحوصات في دقائق وتعرض رسوم المرافقين التقديرية في الوقت نفسه.
+        </p>
+        <h3>بعد التقديم — خطوات التتبع</h3>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300 mt-2">
+          <li>افتح منصة تأشيرات وزارة الخارجية الرسمية (visa.mofa.gov.sa) وسجل الدخول.</li>
+          <li>انتقل إلى "الاستعلام" &gt; "حالة طلب التأشيرة".</li>
+          <li>أدخل رقم الطلب ورقم جواز السفر.</li>
+          <li>افحص الحالة يوميًا — خاصة في أول 48 ساعة، حيث يمكن أن يظهر ختم الغرفة الناقص كحالة معلقة.</li>
+          <li>افتح أيضًا أبشر &gt; "خدمات التأشيرات" لنفس الطلب.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ماذا تعني الحالات:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-green-400">مقبول/موافقة:</strong> صدرت التأشيرة. حمّلها واطبعها.</li>
+            <li><strong class="text-yellow-400">قيد المعالجة:</strong> ما زالت قيد المراجعة — لكن تحقق من اكتمال ختم الغرفة.</li>
+            <li><strong class="text-red-400">مرفوض/ملغى:</strong> التقط لقطة شاشة للمرجع، وحدد السبب من هذا الدليل، وأصلحه، وأعد التقديم بعد 3-5 أيام.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          خطأ شائع: فحص الحالة مرة واحدة فقط بعد أسبوع من التقديم. عندها، يكون الطلب المرفوض في يومه الثاني قد خرج من نافذة الإصلاح السريع. افحص يوميًا وتصرف بسرعة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ماذا تفعل إذا رُفضت تأشيرتك عدة مرات</h2>
+        <p>
+          الرفض الثاني ليس نهاية الطريق — إنه إشارة على أنك تفوّت شيئًا يفحصه النظام الآلي بصمت. إليك كيفية تشخيص الرفض المتكرر بشكل صحيح.
+        </p>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300">
+          <li><strong>توقف الآن ولا تغير شيئًا مؤقتًا.</strong> لا تستمر في إعادة إرسال نفس الطلب. كل إرسال متطابق يهدر وقتًا ويرفع العلامات.</li>
+          <li><strong>ضع كل السجلات جنبًا إلى جنب.</strong> جواز سفرك وإقامتك والسجل التجاري لشركتك وملف وزارة الخارجية. قارنها حقلًا بحقل — الاسم واسم الأب والمدينة والشارع والتهجئة.</li>
+          <li><strong>تحقق من قاعدة الـ 6 أشهر مجددًا.</strong> الإقامة المنتهية خلال ستة أشهر هي السبب الصامت الأكثر شيوعًا للتكرار.</li>
+          <li><strong>اطلب من موظف العلاقات العامة سجل التقديم الكامل.</strong> أحيانًا كان الطلب الأول سليمًا، لكن ختم صاحب العمل لم يكتمل في أي منها.</li>
+          <li><strong>استشر شخصًا ثانيًا.</strong> زميل أو موظف علاقات عامة من شركة أخرى أو عضو موثوق من الجالية يمكنه رصد ما لمحت إليه عيناك.</li>
+          <li><strong>فكر في فحص المهنة.</strong> إذا تطابق كل شيء تمامًا وما زلت مرفوضًا، فقيد المهنة هو المشتبه الأول. تحدث مع الموارد البشرية حول تعديل المهنة.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">متى تُشرك صاحب العمل مباشرة:</strong> إذا صححت الأسماء وحدّثت عنوان ملفك وأكدت الختم وتحققت من صلاحية إقامتك — وما زلت مرفوضًا — حدد اجتماعًا مع قسم الموارد البشرية أو العلاقات العامة في شركتك. في حالات نادرة، يكون تصنيف السجل التجاري للشركة نفسه مقيدًا لترشيح المرافقين، ولا يمكن لصاحب العمل سوى حله.</p>
+        </div>
+        <p class="mt-4">
+          تذكر: الرفض ليس وصمة عار في سجلك. يعامل النظام السعودي كل طلب بمزاياه الخاصة. مهمتك أن تجعل كل طلب تقدمه نظيفًا ومتسقًا قدر الإمكان.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خرافات شائعة حول رفض تأشيرات الزيارة العائلية السعودية</h2>
+        <p>
+          تنتشر المعلومات الخاطئة بسرعة في أوساط الوافدين. لنوضح الخرافات التي تكلف الناس الوقت والمال والضغط.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-sm text-gray-300">
+          <p><strong class="text-white">خرافة 1: "الرفض يعني أنني ممنوع من إعادة التقديم."</strong></p>
+          <p class="mt-1">غير صحيح. الرفض ليس منعًا. يمكنك إعادة التقديم بعد تصحيح المشكلة، عادةً خلال أيام. لا يوجد سجل دائم يمنعك.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">خرافة 2: "أحتاج مكتب وساطة لإصلاحه."</strong></p>
+          <p class="mt-1">غير صحيح في معظم الحالات. الإصلاحات في هذا الدليل — مطابقة الاسم وتصحيح العنوان وتأكيد الختم — أشياء تستطيع أنت وصاحب عملك فعلها مباشرة وبالمجان.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">خرافة 3: "الرسوم تضيع إذا رُفضت."</strong></p>
+          <p class="mt-1">غير صحيح. تسترد وزارة الخارجية الرسوم تلقائيًا للطلبات المرفوضة. تدفع فقط عند إصدار التأشيرة.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">خرافة 4: "الراتب الأعلى يضمن الموافقة."</strong></p>
+          <p class="mt-1">غير صحيح. الراتب يساعد، لكن الطلب النظيف والمتسق أهم. كثير من أصحاب الدخل المرتفع يُرفضون بسبب خطأ إملائي واحد، بينما يُوافق على ذوي الدخل المتواضع بأوراق مثالية.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">خرافة 5: "أي شخص لديه إقامة يستطيع ترشيح عائلته."</strong></p>
+          <p class="mt-1">غير صحيح. فقط الوافدون في المهن والدرجات الوظيفية المصنفة كمؤهلة يستطيعون ترشيح مرافقين. تحقق من مهنتك قبل قضاء الوقت في المستندات.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعتبارات خاصة بالوافدين (الاستهداف الجغرافي)</h2>
+        <p>
+          بلدك الأصلي يشكل الطريقة التي يرى بها النظام طلبك. إليك الملاحظات الخاصة بأكبر مجتمعات الوافدين في المملكة.
+        </p>
+        <h3>للوافدين الباكستانيين والهنود</h3>
+        <p>
+          تأكد من فهم المصطلحات كما تظهر في النماذج الرسمية: <strong class="text-white">"الكفالة"</strong> (نظام الترشيح)، و<strong class="text-white">"صلاحية الإقامة"</strong> (الحد الأدنى 6 أشهر)، و<strong class="text-white">"ختم الغرفة"</strong> (عملية الغرفة التجارية). الطلبات الباكستانية والهندية من الأكثر تكرارًا في النظام، لذا فإن خوارزميات المطابقة أشد صرامة مع النقل الحرفي للأسماء. تأكد من ظهور اسم الأب كاملًا تمامًا كما في الجواز.
+        </p>
+        <p class="mt-4">
+          للوافدين الهنود تحديدًا: الارتباك بين "اسم الجواز واسم أدهار" يسبب كثيرًا من الرفوض. استخدم الاسم تمامًا كما هو مطبوع في الجواز، لا بطاقة أدهار. للوافدين الباكستانيين: تأكد من تطابق اسم جوازك (الصادر من نادرا) مع سجلات تأشيرتك وإقامتك حرفًا بحرف.
+        </p>
+        <h3>للوافدين الفلبينيين والبنغلادشيين</h3>
+        <p>
+          تحقق من التهجئة الدقيقة لاسم كل فرد من أفراد العائلة <strong class="text-white">كما تظهر في الجواز</strong> — بما فيها الشرطات والأسماء الوسطى واللواحق مثل "Jr." أو "Sr.". هذا مهم الآن ولاحقًا: يجب أن يطابق إثبات عدم المحكومية (NBI للفلبينيين) أو شهادة خلو سوابق (للبنغلادشيين) أسماء عائلتك في الجوازات للخطوات الهجرية المستقبلية. أي تناقض صغير اليوم قد يصبح مشكلة خطيرة عند التقدم لنقل الكفالة أو الإقامة لاحقًا.
+        </p>
+        <p class="mt-4">
+          يجب أن يتذكر الوافدون الفلبينيون أيضًا أن جوازات الفلبين تدرج اسم الأم قبل الزواج بشكل منفصل — لا تدمجه في حقل الاسم المعطى في نموذج وزارة الخارجية. يجب أن يتحقق الوافدون البنغلادشيون من مطابقة اسم الأب بالإنجليزية لسجلات الجواز أو الهوية تمامًا.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكنني إعادة التقديم فورًا بعد رفض تأشيرة العائلة السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم، تقنيًا يمكنك إعادة التقديم في أي وقت. لكن يُنصح بشدة بالانتظار 3-5 أيام وإصلاح السبب الجذري أولًا. إعادة التقديم بنفس الخطأ ستنتج الرفض نفسه شبه المؤكد — وقد تضع علامة على حسابك لمزيد من التدقيق.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل سأسترد رسومي إذا رُفضت تأشيرة الزيارة العائلية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. تسترد وزارة الخارجية رسوم التأشيرة تلقائيًا عند رفض الطلب. تُدفع الرسوم فقط عند إصدار التأشيرة فعليًا. تحقق من طريقة الدفع الخاصة بك لوصول الاسترداد خلال أيام عمل قليلة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل تأشيرة الزيارة العائلية السعودية موقوفة أو محظورة حاليًا في 2026؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. تأشيرة الزيارة العائلية نشطة وتُصدر طوال عام 2026. ما تغير هو التحقق الآلي الأكثر صرامة: المطابقة الدقيقة للأسماء، وقاعدة صلاحية الإقامة 6 أشهر، والتحقق المتقاطع من العنوان. التأشيرة ليست محظورة — القواعد تُطبق فقط بصرامة أكبر.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كم يستغرق اعتماد تأشيرة الزيارة العائلية بعد إصلاح الأخطاء؟</p>
+            <p class="text-gray-400 text-sm mt-1">بعد إصلاح الأخطاء المحددة وإعادة التقديم، تستغرق الموافقات عادةً 3-7 أيام عمل. في كثير من الحالات، تُوافق الطلبات المقدمة بشكل صحيح مع ختم غرفة تجارة ساري خلال 48 ساعة. افحص صفحة حالة وزارة الخارجية وأبشر يوميًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: لماذا تظهر تأشيرتي السعودية "قيد المعالجة" لأسابيع؟</p>
+            <p class="text-gray-400 text-sm mt-1">حالة "قيد المعالجة" الطويلة تعني عادةً أحد أمرين: لم يكتمل ختم غرفة التجارة من قبل صاحب عملك، أو وجود تناقض في البيانات قيد المراجعة اليدوية. اتصل بموظف العلاقات العامة لتأكيد اكتمال الختم، وراجع عنوان ملفك بالعربية.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكن لموظف العلاقات العامة في شركتي التقدم لتأشيرة الزيارة العائلية نيابة عني؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. في الواقع، تتطلب خطوة ختم غرفة التجارة مشاركة صاحب العمل، لذا غالبًا ما يتقدم موظف العلاقات العامة. لكنك تظل مسؤولًا عن دقة البيانات الشخصية. راجع النموذج المقدم بنفسك قبل ذهابه إلى وزارة الخارجية.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كلمة أخيرة: توقف عن التخمين وابدأ الإصلاح</h2>
+        <p>
+          الأسباب الخمسة أعلاه تغطي الغالبية العظمى من حالات رفض تأشيرات الزيارة العائلية السعودية. لا يتطلب أي منها مكتب وساطة مكلفًا أو معجزة. تتطلب انتباهًا للتفاصيل: المهنة الصحيحة للإقامة، وتهجئة الاسم المثالية، وختم غرفة صالحًا، وفئة القريب الصحيحة، وعنوانًا يطابق سجل صاحب العمل تمامًا.
+        </p>
+        <p class="mt-4">
+          إليك الملخص الذي جئت من أجله:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">سبب الرفض 1:</strong> مهنة الإقامة — راجع مع الموارد البشرية وعدّل عند الحاجة.</li>
+          <li><strong class="text-white">سبب الرفض 2:</strong> أخطاء الاسم والمستندات — طابق الجواز تمامًا حقلًا بحقل.</li>
+          <li><strong class="text-white">سبب الرفض 3:</strong> ختم الغرفة ناقص — أكد مع موظف العلاقات العامة قبل التقديم وبعده.</li>
+          <li><strong class="text-white">سبب الرفض 4:</strong> قريب غير مؤهل — زوج أو ابن أو والد فقط.</li>
+          <li><strong class="text-white">سبب الرفض 5:</strong> عدم تطابق العنوان — اجعل ملف وزارة الخارجية يطابق سجل الغرفة بالعربية.</li>
+        </ul>
+        <p class="mt-4">
+          لا تخمّن أهليتك. استخدم{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">محسّن تأشيرة العائلة في SauditoolHub</a>{' '}
+          للتحقق من مهنة إقامتك ورسوم المرافقين قبل التقديم. وللحصول على تفصيل كامل لرسوم المرافقين، اقرأ{' '}
+          <a href="/guide/family-visa-dependent-fee-calculator-saudi-arabia-2026" class="text-desert-primary underline">دليل حاسبة رسوم المرافقين لتأشيرة العائلة 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">تحقق من أهليتك لتأشيرة العائلة الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاني — فحص المهنة ورسوم المرافقين وصلاحية الإقامة في مكان واحد</p>
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">استخدم محسّن تأشيرة العائلة المجاني</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية استنادًا إلى اللوائح الحالية لوزارة الخارجية. قد تتغير القواعد. تحقق دائمًا من حالتك الخاصة على منصة تأشيرات وزارة الخارجية الرسمية (visa.mofa.gov.sa).
+        </p>
+      </div>
+    `, ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">تارکین وطن گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب میں فیملی وزیٹ ویزا ریجیکٹ ہونے کی 5 بڑی وجوہات اور بچنے کے طریقے (2026 اپڈیٹ)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">پیشہ ورانہ اور براہِ راست تجزیہ کہ وزارت خارجہ فیملی وزیٹ ویزا کی درخواستیں کیوں ریجیکٹ کرتی ہے — اور اگلی بار منظوری حاصل کرنے کے درست اقدامات۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مایوسی حقیقی ہے — اور مکمل طور پر حل ہونے والی ہے</h2>
+        <p>
+          آپ نے دستاویزات جمع کیں۔ وزارت خارجہ کا فارم احتیاط سے بھرا۔ فیس ادا کی۔ اور پھر ریجیکشن کا پیغام آیا: <strong class="text-white">"درخواست مسترد کر دی گئی۔"</strong> کوئی وضاحت نہیں، کوئی رہنمائی نہیں — بس ایک بند راستہ، اور مہینوں کی جمع شدہ چھٹی یکدم ضائع ہوتی محسوس ہوتی ہے۔
+        </p>
+        <p class="mt-4">
+          آپ اکیلی نہیں۔ ریاض سے دمام تک ہر شہر میں ایکسپیٹ فورمز، واٹس ایپ گروپس اور PRO دفاتر میں یہ منظر ہر ہفتے دہرایا جاتا ہے۔ والدین جو کبھی اپنے پوتوں سے نہیں مل پاتے۔ میاں بیوی جو ایک اور سال الگ رہ جاتے ہیں۔ چھٹیاں آخری لمحے منسوخ۔ ریجیکٹڈ فیملی ویزے کا جذباتی وزن حقیقی ہے — اور اکثر مکمل طور پر غیر ضروری ہوتا ہے۔
+        </p>
+        <p class="mt-4">
+          یہ سعودی عرب میں ہزاروں ایکسپیٹ کیسز سے لی گئی ایماندار حقیقت ہے: <strong class="text-desert-primary">زیادہ تر ریجیکشن آپ کی وجہ سے، آپ کی تنخواہ سے، یا آپ کے کریمنل ریکارڈ سے نہیں ہوتے۔</strong> یہ چھوٹی، خاموش، قابلِ اصلاح غلطیوں کی وجہ سے ہوتے ہیں — نام میں ٹائپو، وزارت خارجہ کے پروفائل اور کمپنی کے چیمبر آف کامرس رجسٹریشن کے درمیان فرق، یا اقامہ کی ایسی پیشہ جو کفیل ہونے کی اجازت ہی نہیں دیتی۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">سیدھا جواب:</strong> زیادہ تر ریجیکشن معمولی ڈیٹا مماثلت یا پیشہ کی پابندیوں کی وجہ سے ہوتے ہیں، اور دنوں میں درست کیے جا سکتے ہیں۔ آپ کو ایجنٹ کی ضرورت نہیں۔ آپ کو بار بار فیس دینے کی ضرورت نہیں۔ آپ کو اس گائیڈ کی ضرورت ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">اس گائیڈ سے آپ کو کیا ملے گا:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>5 ریجیکشن وجوہات ان کی حقیقی تعدد کے مطابق درج۔</li>
+            <li>ہر وجہ کے تحت ایک حقیقی مثال، براہِ راست ایکسپیٹ تجربات سے۔</li>
+            <li>ہر مسئلے کا درست حل — سادہ اور مرحلہ وار زبان میں۔</li>
+            <li>ریفنڈ پالیسی واضح کی گئی تاکہ آپ کبھی زیادہ ادائیگی نہ کریں۔</li>
+            <li>پاکستانی، ہندوستانی، فلپائنی اور بنگلہ دیشی ایکسپیٹس کے لیے ملکی مشورے۔</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          دوبارہ درخواست دینے سے پہلے، ہماری مفت{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">فیملی ویزا آپٹیمائزر ٹول</a>{' '}
+          سے فوری اپنی اہلیت چیک کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>MOFA ویزا ریجیکشن کی 5 سب سے عام وجوہات</h2>
+        <p>
+          وزارت خارجہ کے پیٹرنز، ابشر ڈیٹا، اور ریڈٹ، کوورا اور کمیونٹی گروپس جیسے فورمز پر ایکسپیٹس کے حقیقی تجربات کی بنیاد پر، یہ پانچ وجوہات فیملی وزیٹ ویزا ریجیکشن کی اکثریت کی وضاحت کرتی ہیں۔ ہر ایک کو پڑھیں — حل تقریباً ہمیشہ تفصیلات میں چھپا ہوتا ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">درجہ</th>
+                <th class="text-left py-2">وجہ</th>
+                <th class="text-left py-2">عمومیت</th>
+                <th class="text-left py-2">حل کی مشکل</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#1</td><td class="py-2">اقامہ کی محدود یا کم درجے کی پیشہ</td><td class="py-2">بہت زیادہ</td><td class="py-2 text-yellow-400">درمیانی (HR درکار)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#2</td><td class="py-2">نام اور دستاویزات میں ٹائپو</td><td class="py-2">بہت زیادہ</td><td class="py-2 text-green-400">آسان</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#3</td><td class="py-2">چیمبر آف کامرس (غرفہ) اسٹیمپنگ</td><td class="py-2">زیادہ</td><td class="py-2 text-yellow-400">درمیانی (PRO درکار)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#4</td><td class="py-2">نااہل رشتہ داروں کی کیٹیگری</td><td class="py-2">درمیانی</td><td class="py-2 text-green-400">آسان (درخواست نہ دیں)</td></tr>
+              <tr><td class="py-2 text-desert-primary">#5</td><td class="py-2">MOFA پروفائل میں ایڈریس مماثلت نہ ہونا</td><td class="py-2">زیادہ (خفیہ)</td><td class="py-2 text-green-400">آسان</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          اچھی خبر: پانچ میں سے چار وجوہات مکمل طور پر آپ کے کنٹرول میں ہیں۔ پانچویں — پیشہ کی پابندی — عموماً آجر سے ایک گفتگو سے حل ہو سکتی ہے۔ ان میں سے کسی کو قانونی مداخلت کی ضرورت نہیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>1. اقامہ کی محدود یا کم درجے کی پیشہ</h3>
+        <p>
+          یہ سعودی عرب میں فیملی وزیٹ ویزا ریجیکشن کی سب سے عام وجہ ہے — اور وہ بھی جس کا زیادہ تر ایکسپیٹس کو اندازہ نہیں ہوتا۔ <strong class="text-white">ہر اقامہ کی پیشہ فیملی ممبرز کی کفالت کی اجازت نہیں دیتی۔</strong> وزارت داخلہ "کفالت کے قابل" بمقابلہ "کفالت کے ناقابل" پیشوں کی درجہ بندی رکھتی ہے، اور یہ براہِ راست آپ کے آجر کی سرگرمی اور آپ کے سرکاری جاب ٹائٹل سے منسلک ہوتی ہے۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">کس کے ریجیکٹ ہونے کا امکان:</strong> دستی، کم مہارت یا نیم ہنرمند پیشوں والے ایکسپیٹس — مثلاً ڈرائیور، مزدور، کلینر، فارم ورکرز، کنسٹرکشن ورکرز، سیکیورٹی گارڈز اور ایسی ہی نوکریاں۔ سعودی لیبر پالیسی کے تحت ان کیٹیگریز کو عام طور پر مملکت میں کفیل لانے کی اجازت نہیں۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">کس کو منظوری ملتی ہے:</strong> پیشہ ور افراد، منیجرز، انجینئرز، ڈاکٹرز، اساتذہ، آئی ٹی ماہرین، اکاؤنٹنٹس اور دیگر ہنرمند/وائٹ کالر نوکریاں، جن کی کمپنیاں "اعلی درجے کی" تجارتی اور صنعتی سرگرمیوں میں ہوں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">عام طور پر اجازت</th>
+                <th class="text-left py-2">عام طور پر ریجیکٹ</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">انجینئرز، ڈاکٹرز، نرسیں، اساتذہ، اکاؤنٹنٹس، آئی ٹی ماہرین، منیجرز، مارکیٹنگ پروفیشنلز</td>
+                <td class="py-2">جنرل مزدور، ڈرائیور، کلینر، زرعی کارکن، کنسٹرکشن ورکرز، سیکیورٹی گارڈز، سروس ورکرز</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          یہ درجہ بندی عوامی نہیں اور بدلتی رہتی ہے۔ پچھلے سال مسترد ہونے والی پیشہ اگلے سال اہل ہو سکتی ہے — اور اس کا الٹ بھی درست ہے۔ اسی لیے موجودہ قواعد کی جانچ پڑتال، دو سال پرانی دوست کی تجربے پر بھروسہ کرنے سے زیادہ اہم ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">حقیقی مثال:</strong> ایک ایشیائی ایکسپیٹ جو ایک چھوٹی تعمیراتی فرم میں "جنرل ورکر" کے طور پر کام کرتا تھا، نے اپنی بیوی کے وزیٹ ویزے کے لیے درخواست دی۔ دو بار ریجیکٹ ہوئی۔ اسی کمپنی میں اسی پروجیکٹ پر "سول انجینئر" کے ٹائٹل والے اس کے ساتھی کو پہلی کوشش میں منظوری مل گئی۔ ایک ہی آجر۔ ایک ہی تنخواہ۔ مختلف جاب ٹائٹل = مختلف نتیجہ۔</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">حل:</strong> اپنی HR ڈیپارٹمنٹ سے کہیں کہ وہ وزارتِ انسانی وسائل اور سماجی ترقی (MHRSD) کے ساتھ آپ کی پیشہ کا جائزہ لیں۔ اگر آپ کا اصل کردار اہل ہے لیکن اقامہ کچھ اور کہتا ہے، تو آجر دوبارہ درخواست سے پہلے <strong class="text-white">پیشہ ترمیم</strong> شروع کر سکتا ہے۔ نوٹ کریں کہ پیشہ ترمیم میں کئی ہفتے لگ سکتے ہیں اور یہ آپ کے تنخواہ گریڈ کو متاثر کر سکتی ہے — وقت کا توازن احتیاط سے رکھیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>2. نام اور دستاویزات میں ٹائپو (نمبر 1 خاموش قاتل)</h3>
+        <p>
+          پاسپورٹ اور آپ کی MOFA درخواست کے درمیان ایک حرف کا فرق خودکار ریجیکشن کے لیے کافی ہے۔ سعودی نظام آپ کے نام کو پاسپورٹ ریکارڈز سے ملاتا ہے، اور یہ موازنہ بالکل درست ہوتا ہے — تقریبی نہیں۔ <strong class="text-white">ٹائپو ویزا درخواستوں کا نمبر 1 خاموش قاتل ہے۔</strong>
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">ٹائپو کہاں چھپے ہوتے ہیں:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>پاسپورٹ کا نام بمقابلہ فارم کا نام۔</strong> اگر پاسپورٹ پر "عبد الرحمن" لکھا ہے اور آپ نے "عبدالرحمن" لکھا، تو یہ مماثلت نہیں۔</li>
+          <li><strong>انگریزی بمقابلہ عربی نقلِ حرفی۔</strong> آپ کے نام کا عربی املا پاسپورٹ اور اقامہ سے بالکل مماثل ہونا چاہیے، بشمول "ال"، "بن" یا "عبد" کی جگہ۔</li>
+          <li><strong>تاریخیں۔</strong> غلط تاریخِ پیدائش یا پاسپورٹ کی میعاد فوری سرخ جھنڈا ہے۔</li>
+          <li><strong>پاسپورٹ نمبر۔</strong> ایک ہندسہ غلط ہو تو نظام آپ کی تصدیق ہی نہیں کر سکتا۔</li>
+          <li><strong>جاری کرنے کی جگہ۔</strong> پاسپورٹ جاری کرنے والے شہر یا ملک کا فرق بھی خود بخود جھنڈا لگا دیتا ہے۔</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">حقیقی مثال:</strong> ایک فلپائنی ایکسپیٹ نے اپنی بیوی کا پاسپورٹ نام "Maria Elena Cruz" لکھا جبکہ اس کے پاسپورٹ پر واضح طور پر "Maria Elena-Cruz" تھا۔ ہائفن نے ریجیکشن کروایا۔ ایک حرف۔ پانچ منٹ میں درست۔</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">حقیقی مثال 2:</strong> ایک بنگلہ دیشی ایکسپیٹ نے اپنی والدہ کا سالِ پیدائش 1968 درج کیا۔ اس کے پاسپورٹ پر 1966 تھا۔ درخواست فارم پر دو ہندسوں کا فرق تین ہفتوں کی تشخیص لے آیا — کیونکہ باقی سب کچھ درست تھا۔</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">اقامہ کی میعاد کا اصول جو آپ کو جاننا چاہیے:</strong> درخواست کی تاریخ سے آپ کی اقامہ کم از کم <strong class="text-white">چھ (6) ماہ</strong> کے لیے درست ہونی چاہیے۔ اگر آپ کی اقامہ پہلے ختم ہو جائے گی، تو آپ کی فیملی وزیٹ ویزا درخواست خود بخود ریجیکٹ ہو جائے گی چاہے آپ کے دستاویزات کتنے بھی درست ہوں۔ پہلے اقامہ تجدید کروائیں، پھر درخواست دیں۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">سنہری عادت:</strong> جمع کرانے سے پہلے، درخواست فارم کا پاسپورٹ سے صفحہ بہ صفحہ، فیلڈ بہ فیلڈ موازنہ کریں — یا کسی ایسے شخص سے چیک کروائیں جو فارم بھرنے میں شامل نہ تھا۔ نئی آنکھیں ٹائپو پکڑتی ہیں۔ تھکی ہوئی آنکھیں چھوڑ دیتی ہیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>3. چیمبر آف کامرس (غرفہ) اسٹیمپنگ کے مسائل</h3>
+        <p>
+          چیمبر آف کامرس اسٹیمپ — جسے مقامی طور پر <strong class="text-white">"غرفہ"</strong> کہا جاتا ہے — سعودی فیملی وزیٹ ویزا درخواست کا لازمی حصہ ہے۔ یہ ثابت کرتا ہے کہ آپ کا آجر ایک رجسٹرڈ، فعال اور تعمیل کرنے والا کاروبار ہے۔ درست اسٹیمپ کے بغیر، MOFA آپ کی درخواست پر کارروائی نہیں کر سکتی، اور درخواست خودکار ریجیکشن میں ڈھل جاتی ہے۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">اسٹیمپنگ کا عمل کیسے کام کرتا ہے:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>آجر کو چیمبر آف کامرس جانا ہوتا ہے (یا اس کا آن لائن پورٹل استعمال کرنا) تاکہ فیملی وزیٹ درخواست کی تصدیق اور اسٹیمپ کریں۔</li>
+          <li>اسٹیمپ تازہ ہونا چاہیے اور موجودہ کمرشل رجسٹریشن سرٹیفکیٹ سے منسلک۔</li>
+          <li>کمپنی کا کمرشل رجسٹریشن (CR) جاری سال کے لیے درست اور تجدید شدہ ہونا چاہیے۔</li>
+          <li>یہاں تاخیر ریجیکشن کی سب سے عام خاموش وجہ ہے — درخواست اتنے عرصے "زیر التوا" رہتی ہے کہ MOFA کا نظام اسے منسوخ کر دیتا ہے۔</li>
+        </ul>
+        <p class="mt-4">
+          بہت سے ایکسپیٹس سمجھتے ہیں کہ جمع کراتے ہی اسٹیمپ خودکار ہو جاتا ہے۔ ایسا نہیں۔ اسٹیمپ ایک الگ، دستی قدم ہے جو آجر کے نمائندے — عموماً PRO (پبلک ریلیشنز آفیسر) — انجام دیتا ہے۔ اگر PRO سست ہے تو آپ کی درخواست خاموشی سے قطار میں مر رہی ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">حقیقی مثال:</strong> ایک پاکستانی ایکسپیٹ نے اتوار کو درخواست جمع کرائی۔ کمپنی کے PRO نے "جمعرات تک" اسٹیمپ کا وعدہ کیا۔ نظام نے بدھ کو درخواست خود بخود منسوخ کر دی۔ ملازم کو ایک ہفتے بعد سٹیٹس چیک کرتے ہوئے ریجیکشن کا پتہ چلا۔</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">حل:</strong> جمع کرانے سے پہلے، PRO سے تصدیق کریں کہ چیمبر آف کامرس اسٹیمپ مکمل ہے — اور 48 گھنٹوں کے اندر MOFA سٹیٹس پیج پر اسے جانچیں۔ درخواست کو کبھی بیکار نہ رہنے دیں۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">پیشہ ورانہ مشورہ:</strong> PRO سے اسٹیمپ شدہ درخواست کی کاپی یا تصدیق کا اسکرین شاٹ طلب کریں۔ اگر مستقبل میں ریجیکشن ہو تو آپ کے پاس ثبوت ہوگا کہ یہ مرحلہ درست انجام دیا گیا تھا۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>4. نااہل رشتہ داروں کی کیٹیگری</h3>
+        <p>
+          سعودی فیملی وزیٹ ویزا سختی سے <strong class="text-white">فرسٹ ڈگری رشتہ داروں تک محدود ہے: شریکِ حیات، بچے اور والدین۔</strong> دادا دادی، بھائی، بہن، چچا، خالہ، کزن اور سسرالی رشتہ دار <strong class="text-desert-primary">اہل نہیں</strong> معیاری فیملی وزیٹ ویزا کے تحت۔
+        </p>
+        <p class="mt-4">
+          نااہل رشتہ دار کے لیے درخواست دینا ریجیکشن کے تیز ترین طریقوں میں سے ایک ہے — اور یہ مستقبل کی درخواستوں پر قریبی جانچ کے لیے آپ کے اکاؤنٹ پر جھنڈا بھی لگا سکتا ہے۔ نظام آپ کے اعلان کردہ خاندانی ڈھانچے کے خلاف رشتہ چیک کرتا ہے، اور بہت سے ایکسپیٹس کو سختی سے معلوم ہوتا ہے کہ سعودی ویزا اصطلاحات میں "خاندان" ان کے خیال سے کہیں تنگ ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">اہل (فرسٹ ڈگری)</th>
+                <th class="text-left py-2">نااہل</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">شریکِ حیات (بیوی/شوہر)، بچے، والدین (والد اور والدہ)</td>
+                <td class="py-2">بہن بھائی، دادا دادی، پوتے، چچا، خالہ، کزن، سسرالی اور سوتیلے رشتہ دار</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">حقیقی مثال:</strong> ایک ہندوستانی ایکسپیٹ نے اپنے بھائی کی کفالت کی کوشش کی۔ بغیر وضاحت کے ریجیکٹ۔ اس کی بیوی اور والدین، البتہ، بغیر کسی مسئلے کے منظور ہو گئے۔ نظام فرسٹ ڈگری کا اصول خود بخود نافذ کرتا ہے۔</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">حل:</strong> صرف اپنے شریکِ حیات، اپنے بچوں اور اپنے والدین کے لیے درخواست دیں۔ اگر آپ بہن بھائیوں یا دور کے رشتہ داروں کی میزبانی کرنا چاہتے ہیں، تو انہیں معیاری ٹورسٹ ویزا (ای ویزا) عمل کے ذریعے درخواست دینی چاہیے، نہ کہ فیملی وزیٹ ویزا کے ذریعے۔
+        </p>
+        <p class="mt-4">
+          والدین کے بارے میں ایک نوٹ: والدین کی کفالت جائز ہے لیکن شریکِ حیات یا بچوں کی درخواستوں سے زیادہ سختی سے جانچی جاتی ہے، اور اس کے لیے اضافی دستاویزات درکار ہو سکتی ہیں جو ان کی کفالت کی آپ کی صلاحیت ثابت کریں۔ اگر والد کی درخواست ریجیکٹ ہو جبکہ شریکِ حیات کی منظوری ہو، تو عام مجرم پیشہ اور ایڈریس چیک ہیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>5. "خفیہ" ایڈریس مماثلت نہ ہونا (فورم کی بصیرت)</h3>
+        <p>
+          یہ ریجیکشن کی وجہ ہے جس کے بارے میں تقریباً کوئی بات نہیں کرتا — اور یہ تجربہ کار ایکسپیٹس کو بھی حیران کر دیتی ہے۔ <strong class="text-white">اگر آپ کی کمپنی جدہ میں رجسٹرڈ ہے لیکن آپ کے MOFA پروفائل کا ایڈریس ریاض کہتا ہے، تو یہ ریجیکٹ ہو گی۔</strong> اپنے MOFA پروفائل کو اپ ڈیٹ کریں تاکہ یہ چیمبر آف کامرس رجسٹریشن سے بالکل مماثل ہو، عربی میں۔
+        </p>
+        <p class="mt-4">
+          MOFA آپ کے آجر کے رجسٹرڈ ایڈریس کو آپ کے پروفائل کے ایڈریس سے کراس چیک کرتا ہے۔ جب دونوں ہم آہنگ نہ ہوں — حتیٰ کہ ایک محلے، ایک گلی یا "ال" کا لاحقہ غائب ہو — تو نظام درخواست کو متضاد قرار دے کر ریجیکٹ کر دیتا ہے۔ یہ فرق ایکسپیٹ فورمز پر بار بار آنے والا موضوع ہے، اور تقریباً ہمیشہ چھوٹ جاتا ہے کیونکہ یہ آپ کی اپنی اسکرین پر نظر نہیں آتا۔
+        </p>
+        <p class="mt-4">
+          یہ اتنا عام کیوں ہے؟ کیونکہ آپ کا MOFA پروفائل شاید آپ کی پہلی آمد پر بنایا گیا تھا — ممکنہ طور پر کسی PRO نے پرانا ایڈریس استعمال کیا، یا آپ کی کمپنی نے دفاتر منتقل کرنے سے پہلے۔ سالوں بعد، کوئی یاد نہیں رکھتا کہ پروفائل موجود ہے، چہ جائیکہ اس میں کیا ایڈریس ہے۔ پھر ریجیکشن آتا ہے اور کوئی وضاحت نہیں کر سکتا۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ابھی کیسے چیک کریں:</strong> اپنا MOFA ویزا پلیٹ فارم پروفائل اور آپ کی کمپنی کا چیمبر آف کامرس سرٹیفکیٹ ساتھ ساتھ کھولیں۔ موازنہ کریں: کمپنی کا نام (عربی میں)، شہر، محلہ اور گلی کا پتہ۔ ہر حرف آپ کے چیمبر رجسٹریشن سے بالکل مماثل ہونا چاہیے، عربی میں۔</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">حل:</strong> دوبارہ درخواست سے پہلے اپنے MOFA پروفائل کا ایڈریس چیمبر آف کامرس سرٹیفکیٹ سے مماثل کریں۔ اگر آپ کے آجر نے حال ہی میں دفاتر منتقل کیے ہیں، تو پہلے سرٹیفکیٹ اپ ڈیٹ کریں، پھر اپنا پروفائل۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">خبردار رہیں:</strong> یہی فرق آپ کے ابشر ریکارڈ پر بھی ظاہر ہو سکتا ہے۔ ایک کو اپ ڈیٹ کرتے وقت دوسرے کی بھی تصدیق کریں۔ مکمل اور مستقل ڈیجیٹل فوٹ پرنٹ خاموش ریجیکشن کے خلاف آپ کا بہترین دفاع ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مرحلہ وار: کامیابی سے درست کرنے اور دوبارہ درخواست دینے کا طریقہ</h2>
+        <p>
+          وجہ سمجھتے ہی راستہ واضح اور عموماً تیز ہو جاتا ہے۔ اگلی کوشش میں منظوری کے امکانات زیادہ سے زیادہ کرنے کے لیے اس عین ترتیب پر عمل کریں۔
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>دوبارہ درخواست سے پہلے 3-5 دن انتظار کریں۔</strong> ریجیکشن کے فوراً بعد دوبارہ درخواست دینا خودکار ثانوی جھنڈا لگا سکتا ہے۔ نظام کو اپنا پچھلا ریکارڈ صاف کرنے کا وقت دیں۔</li>
+          <li><strong>اپنا MOFA پروفائل درست کریں۔</strong> ایڈریس، نام کا املا اور پاسپورٹ کی تفصیلات کو اپنی دستاویزات اور چیمبر آف کامرس رجسٹریشن سے بالکل مماثل کریں — عربی میں۔</li>
+          <li><strong>اقامہ کی میعاد چیک کریں۔</strong> درخواست کی تاریخ سے آپ کی اقامہ کم از کم 6 ماہ درست ہونی چاہیے۔ ضرورت ہو تو تجدید کروائیں۔</li>
+          <li><strong>اسٹیمپ یقینی بنائیں۔</strong> جمع کرانے سے پہلے PRO سے تصدیق کریں کہ چیمبر آف کامرس اسٹیمپ مکمل ہے، اور 48 گھنٹوں کے اندر سٹیٹس چیک کریں۔</li>
+          <li><strong>نئی مکمل درخواست دوبارہ دیں۔</strong> ہر درخواست گزار کے لیے واضح، ہائی ریزولوشن پاسپورٹ کاپیاں اپ لوڈ کریں۔ ہر تاریخ اور نمبر دو بار چیک کریں۔</li>
+          <li><strong>سٹیٹس ٹریک کریں۔</strong> MOFA ویزا سٹیٹس چیک اور اپنے ابشر اکاؤنٹ سے روزانہ پیش رفت دیکھیں۔</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">درخواست سے پہلے چیک لسٹ:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>ہر درخواست گزار کے لیے پاسپورٹ کاپیاں — واضح، دھندلی نہیں۔</li>
+            <li>آپ کی اقامہ کاپی، 6+ ماہ کے لیے درست۔</li>
+            <li>آپ کے آجر کا درست کمرشل رجسٹریشن (CR)۔</li>
+            <li>چیمبر آف کامرس اسٹیمپ درخواست پر مکمل۔</li>
+            <li>آپ کا MOFA پروفائل ایڈریس CR سے مماثل — عربی میں۔</li>
+            <li>ہر نام بالکل پاسپورٹ کے مطابق لکھا۔</li>
+            <li>درست رشتہ کیٹیگری: صرف شریکِ حیات، بچہ یا والدین۔</li>
+          </ul>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ریفنڈ کے بارے میں:</strong> اگر آپ کی درخواست ریجیکٹ ہو جائے تو <strong class="text-desert-primary">MOFA ویزا فیس خود بخود ریفنڈ کر دیتی ہے۔</strong> ناکام درخواست کے لیے آپ سے دو بار نہیں لیا جائے گا۔ اس کا مطلب یہ بھی ہے کہ دستاویزات درست کرکے دوبارہ درخواست دینے کی کوئی مالی سزا نہیں۔</p>
+        </div>
+        <p class="mt-4">
+          ریفنڈ عام طور پر اسی چینل کے ذریعے آتا ہے جس سے آپ نے ادائیگی کی — بینک کارڈ، سداد یا ٹرانسفر — چند کام کے دنوں میں۔ اگر دو ہفتوں میں نہ آئے تو اپنے بینک یا MOFA سپورٹ لائن سے اپنے درخواست ریفرنس نمبر کے ساتھ رابطہ کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اپنے MOFA ویزا کی سٹیٹس کیسے چیک کریں (جمع کرانے سے پہلے اور بعد)</h2>
+        <p>
+          آپ کی درخواست کہاں ہے یہ جاننا آدھی جنگ ہے۔ ریجیکشن اکثر کسی کا دھیان نہیں جاتا کیونکہ کوئی بھی وقت پر سٹیٹس نہیں چیک کرتا۔ یہ رہا عین طریقہ سعودی فیملی وزیٹ ویزا ٹریک کرنے کا۔
+        </p>
+        <h3>جمع کرانے سے پہلے — اہلیت کا چیک</h3>
+        <p>
+          ایسی درخواست نہ دیں جس کے بارے میں آپ کو یقین نہ ہو۔ پہلے فوری خود چیک کریں: اقامہ کی میعاد، آپ کی پیشہ کی اہلیت، آپ کے آجر کا CR سٹیٹس، اور آپ کا MOFA پروفائل ایڈریس۔ ہماری مفت{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">فیملی ویزا آپٹیمائزر</a>{' '}
+          ان چیکس کو منٹوں میں کراتی ہے اور ساتھ ہی آپ کے تخمینی انحصاری فیس بھی دکھاتی ہے۔
+        </p>
+        <h3>جمع کرانے کے بعد — ٹریکنگ کے اقدامات</h3>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300 mt-2">
+          <li>سرکاری MOFA ویزا پلیٹ فارم (visa.mofa.gov.sa) کھولیں اور لاگ ان کریں۔</li>
+          <li>"انکوائری" &gt; "ویزا ایپلیکیشن سٹیٹس" پر جائیں۔</li>
+          <li>اپنا درخواست نمبر اور پاسپورٹ نمبر درج کریں۔</li>
+          <li>سٹیٹس روزانہ چیک کریں — خاص طور پر پہلے 48 گھنٹوں میں، جب غائب چیمبر اسٹیمپ زیر التوا حالت میں نظر آ سکتی ہے۔</li>
+          <li>اسی درخواست کے لیے ابشر &gt; "ویزا سروسز" بھی کھولیں۔</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">سٹیٹس کا مطلب:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-green-400">قبول/منظور:</strong> ویزا جاری ہو گیا۔ اسے ڈاؤن لوڈ اور پرنٹ کریں۔</li>
+            <li><strong class="text-yellow-400">زیر عمل:</strong> ابھی زیرِ جائزہ — لیکن چیک کریں کہ چیمبر اسٹیمپ مکمل ہے۔</li>
+            <li><strong class="text-red-400">ریجیکٹ/منسوخ:</strong> ریفرنس کا اسکرین شاٹ لیں، اس گائیڈ سے وجہ معلوم کریں، درست کریں اور 3-5 دن بعد دوبارہ درخواست دیں۔</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          ایک عام غلطی: جمع کرانے کے ایک ہفتے بعد صرف ایک بار سٹیٹس چیک کرنا۔ تب تک، دوسرے دن ریجیکٹ ہونے والی درخواست فوری اصلاح کی مدت سے بہت آگے نکل چکی ہوتی ہے۔ روزانہ چیک کریں، تیزی سے عمل کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اگر آپ کا ویزا کئی بار ریجیکٹ ہو جائے تو کیا کریں</h2>
+        <p>
+          دوسرا ریجیکشن اختتامِ راہ نہیں — یہ ایک اشارہ ہے کہ آپ کوئی ایسی چیز چھوڑ رہے ہیں جو خودکار نظام خاموشی سے چیک کرتا ہے۔ بار بار ہونے والے ریجیکشن کی درست تشخیص یہاں ہے۔
+        </p>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300">
+          <li><strong>رکیں اور فی الحال کچھ نہ بدلیں۔</strong> وہی درخواست بار بار جمع نہ کریں۔ ہر یکساں جمع کروانا وقت ضائع کرتا ہے اور جھنڈے بلند کرتا ہے۔</li>
+          <li><strong>تمام ریکارڈز ساتھ ساتھ رکھیں۔</strong> آپ کا پاسپورٹ، آپ کی اقامہ، آپ کی کمپنی کا CR اور آپ کا MOFA پروفائل۔ فیلڈ بہ فیلڈ موازنہ کریں — نام، والد کا نام، شہر، گلی، املا۔</li>
+          <li><strong>6 ماہ کا اصول دوبارہ چیک کریں۔</strong> چھ ماہ کے اندر ختم ہونے والی اقامہ سب سے عام خاموش دہرانے والی وجہ ہے۔</li>
+          <li><strong>PRO سے مکمل جمع کرانے کا لاگ طلب کریں۔</strong> کبھی کبھی پہلی درخواست درست تھی، لیکن آجر کا اسٹیمپ کسی پر بھی مکمل نہ ہوا۔</li>
+          <li><strong>دوسرے شخص سے چیک کروائیں۔</strong> کوئی ساتھی، کسی اور کمپنی کا PRO یا معتبر کمیونٹی ممبر وہ چیز دیکھ سکتا ہے جسے آپ نے دیکھتے دیکھتے نظر انداز کر دیا۔</li>
+          <li><strong>پیشہ چیک پر غور کریں۔</strong> اگر سب کچھ بالکل مماثل ہے اور پھر بھی ریجیکشن ہے، تو اقامہ پیشہ کی پابندی پہلا مشتبہ ہے۔ HR سے پیشہ ترمیم کے بارے میں بات کریں۔</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">آجر کو کب براہِ راست شامل کریں:</strong> اگر آپ نے نام درست کیے، پروفائل ایڈریس اپ ڈیٹ کیا، اسٹیمپ کی تصدیق کی اور اقامہ کی میعاد چیک کی — اور پھر بھی ریجیکشن ہو — تو کمپنی کے HR یا PRO ڈیپارٹمنٹ سے ملاقات طے کریں۔ نایاب صورتوں میں کمپنی کی CR کیٹیگری ہی انحصاری کفالت کو محدود کرتی ہے، جسے صرف آجر حل کر سکتا ہے۔</p>
+        </div>
+        <p class="mt-4">
+          یاد رکھیں: ریجیکشن آپ کے ریکارڈ پر داغ نہیں۔ سعودی نظام ہر درخواست کو اس کی اپنی خوبیوں پر دیکھتا ہے۔ آپ کا کام یہ ہے کہ آپ جو بھی درخواست دیتے ہیں اسے زیادہ سے زیادہ صاف اور مستقل بنائیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی فیملی وزیٹ ویزا ریجیکشن کے بارے میں عام غلط فہمیاں</h2>
+        <p>
+          ایکسپیٹ حلقوں میں غلط معلومات تیزی سے پھیلتی ہیں۔ آئیے ان غلط فہمیوں کو دور کریں جو لوگوں کا وقت، پیسہ اور پریشانی خرچ کرتی ہیں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-sm text-gray-300">
+          <p><strong class="text-white">غلط فہمی 1: "ریجیکشن کا مطلب ہے کہ میں دوبارہ درخواست نہیں دے سکتا۔"</strong></p>
+          <p class="mt-1">غلط۔ ریجیکشن پابندی نہیں۔ مسئلہ درست کرنے کے بعد آپ دوبارہ درخواست دے سکتے ہیں، عام طور پر دنوں میں۔ کوئی مستقل ریکارڈ آپ کو روکتا نہیں۔</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">غلط فہمی 2: "میں اسے درست کرنے کے لیے ایجنٹ چاہتا ہوں۔"</strong></p>
+          <p class="mt-1">زیادہ تر معاملات میں غلط۔ اس گائیڈ کے اصلاحاتی اقدامات — نام مماثلت، ایڈریس تصحیح، اسٹیمپ تصدیق — وہ چیزیں ہیں جو آپ اور آپ کا آجر براہِ راست اور مفت کر سکتے ہیں۔</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">غلط فہمی 3: "ریجیکٹ ہونے پر فیس ضائع ہو جاتی ہے۔"</strong></p>
+          <p class="mt-1">غلط۔ MOFA مسترد شدہ درخواستوں کے لیے فیس خود بخود ریفنڈ کرتی ہے۔ آپ صرف ویزا جاری ہونے پر ادائیگی کرتے ہیں۔</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">غلط فہمی 4: "زیادہ تنخواہ منظوری کی ضمانت دیتی ہے۔"</strong></p>
+          <p class="mt-1">غلط۔ تنخواہ مدد کرتی ہے، لیکن صاف اور مستقل درخواست زیادہ اہم ہے۔ بہت سے زیادہ کمانے والے ایک ٹائپو پر ریجیکٹ ہوتے ہیں، جبکہ معمولی آمدنی والے کامل کاغذات کے ساتھ منظور ہوتے ہیں۔</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">غلط فہمی 5: "اقامہ رکھنے والا کوئی بھی خاندان کی کفالت کر سکتا ہے۔"</strong></p>
+          <p class="mt-1">غلط۔ صرف وہی ایکسپیٹس جن کی پیشہ اور جاب ٹیئر اہل درجہ بندی کی ہے، انحصاریوں کی کفالت کر سکتے ہیں۔ دستاویزات پر وقت گزارنے سے پہلے اپنی پیشہ چیک کریں۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تارکین وطن کے لیے خصوصی تحفظات (جیو ٹارگٹنگ)</h2>
+        <p>
+          آپ کا وطن اس بات کو شکل دیتا ہے کہ نظام آپ کی درخواست کو کیسے دیکھتا ہے۔ مملکت کی سب سے بڑی ایکسپیٹ کمیونٹیز کے لیے مخصوص نوٹ یہ ہیں۔
+        </p>
+        <h3>پاکستانی اور ہندوستانی ایکسپیٹس کے لیے</h3>
+        <p>
+          سرکاری فارمز پر ظاہر ہونے والی اصطلاحات کو یقینی طور پر سمجھیں: <strong class="text-white">"کفالت"</strong> (کفالت کا نظام)، <strong class="text-white">"اقامہ کی میعاد"</strong> (کم از کم 6 ماہ)، اور <strong class="text-white">"چیمبر اسٹیمپنگ"</strong> (غرفہ کا عمل)۔ پاکستانی اور ہندوستانی درخواستیں نظام میں سب سے زیادہ بار بار آنے والی ہیں، اس لیے میچنگ الگورتھم نام کی نقلِ حرفی کے معاملے میں سخت ترین ہیں۔ تصدیق کریں کہ والد کا نام مکمل طور پر ظاہر ہو، بالکل پاسپورٹ کے مطابق۔
+        </p>
+        <p class="mt-4">
+          خاص طور پر ہندوستانی ایکسپیٹس کے لیے: "آدھار بمقابلہ پاسپورٹ نام" کی الجھن کئی ریجیکشنز کا سبب بنتی ہے۔ وہ نام استعمال کریں جو پاسپورٹ میں درج ہے، آدھار کارڈ کا نہیں۔ پاکستانی ایکسپیٹس کے لیے: اپنا پاسپورٹ (نادرا سے جاری) نام اپنے ویزا اور اقامہ ریکارڈز سے حرف بہ حرف مماثل رکھیں۔
+        </p>
+        <h3>فلپائنی اور بنگلہ دیشی ایکسپیٹس کے لیے</h3>
+        <p>
+          ہر خاندانی ممبر کے نام کی عین املا <strong class="text-white">جیسا کہ پاسپورٹ میں ظاہر ہے</strong> چیک کریں — بشمول ہائفنز، درمیانی نام اور "Jr." یا "Sr." جیسے لاحقے۔ یہ اب اور بعد میں اہم ہے: مستقبل کے امیگریشن مراحل کے لیے NBI کلیئرنس (فلپائنیوں کے لیے) یا پولیس کلیئرنس (بنگلہ دیشیوں کے لیے) آپ کے خاندان کے پاسپورٹ ناموں سے مماثل ہونی چاہیے۔ آج کی چھوٹی سی بے ضابطگی بعد میں کفالت کی منتقلی یا رہائش کے لیے درخواست دیتے وقت سنگین مسئلہ بن سکتی ہے۔
+        </p>
+        <p class="mt-4">
+          فلپائنی ایکسپیٹس کو یہ بھی یاد رکھنا چاہیے کہ فلپائن کے پاسپورٹ والدہ کا پہلا نام (میڈن نام) الگ سے درج کرتے ہیں — اسے MOFA فارم کے نام کے خانے میں نہ ملا دیں۔ بنگلہ دیشی ایکسپیٹس کو تصدیق کرنی چاہیے کہ والد کا نام انگریزی میں جاری کردہ ریکارڈز سے بالکل مماثل ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا میں سعودی فیملی ویزا ریجیکشن کے فوراً بعد دوبارہ درخواست دے سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں، تکنیکی طور پر آپ کسی بھی وقت دوبارہ درخواست دے سکتے ہیں۔ البتہ، سختی سے سفارش کی جاتی ہے کہ 3-5 دن انتظار کریں اور پہلے اصل وجہ درست کریں۔ اسی غلطی کے ساتھ دوبارہ درخواست دینا تقریباً یقینی طور پر وہی ریجیکشن لائے گی — اور آپ کے اکاؤنٹ پر اضافی جانچ کا جھنڈا لگا سکتی ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: اگر میرا MOFA فیملی وزیٹ ویزا ریجیکٹ ہو جائے تو کیا مجھے ریفنڈ ملے گا؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ MOFA درخواست ریجیکٹ ہونے پر ویزا فیس خود بخود ریفنڈ کر دیتی ہے۔ آپ سے صرف ویزا اصل میں جاری ہونے پر چارج کیا جاتا ہے۔ اپنے ادائیگی کے طریقے میں چند کام کے دنوں کے اندر ریفنڈ چیک کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا سعودی فیملی وزیٹ ویزا فی الحال 2026 میں بند یا پابند ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ فیملی وزیٹ ویزا فعال ہے اور پورے 2026 میں جاری کیا جا رہا ہے۔ جو تبدیل ہوا ہے وہ سخت خودکار تصدیق ہے: ناموں کی عین مماثلت، 6 ماہ کی اقامہ میعاد کا اصول، اور ایڈریس کراس چیک۔ ویزا پابند نہیں — قواعد صرف زیادہ سختی سے نافذ ہو رہے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: غلطیاں درست کرنے کے بعد فیملی وزیٹ ویزا کی منظوری میں کتنا وقت لگتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">شناخت شدہ غلطیاں درست کرکے دوبارہ درخواست دینے کے بعد، منظوری عام طور پر 3-7 کام کے دن لیتی ہے۔ کئی معاملات میں، درست چیمبر آف کامرس اسٹیمپ کے ساتھ مناسب طریقے سے جمع کردہ درخواستیں 48 گھنٹوں کے اندر منظور ہو جاتی ہیں۔ MOFA سٹیٹس پیج اور ابشر روزانہ چیک کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: میرا سعودی ویزا ہفتوں سے "زیرِ عمل" کیوں ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">طویل "زیرِ عمل" سٹیٹس عموماً دو چیزوں میں سے ایک کا مطلب ہے: چیمبر آف کامرس اسٹیمپ آپ کے آجر نے مکمل نہیں کیا، یا کوئی ڈیٹا تضاد دستی جائزے میں ہے۔ PRO سے تصدیق کریں کہ اسٹیمپ مکمل ہے، اور اپنا پروفائل ایڈریس عربی میں دو بار چیک کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا کمپنی کا PRO میری طرف سے فیملی وزیٹ ویزا کے لیے درخواست دے سکتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ دراصل، چیمبر آف کامرس اسٹیمپنگ مرحلے کے لیے آجر کی شمولیت درکار ہے، اس لیے اکثر PRO ہی جمع کراتا ہے۔ لیکن ذاتی ڈیٹا کی درستگی کی ذمہ داری اب بھی آپ پر ہے۔ جمع شدہ فارم کا خود جائزہ لیں اس سے پہلے کہ وہ MOFA تک جائے۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آخری کلمات: اندازہ لگانا چھوڑیں، درست کرنا شروع کریں</h2>
+        <p>
+          اوپر کی پانچ وجوہات سعودی فیملی وزیٹ ویزا ریجیکشن کی اکثریت کا احاطہ کرتی ہیں۔ ان میں سے کسی کو مہنگے ایجنٹ یا معجزے کی ضرورت نہیں۔ انہیں تفصیل پر توجہ درکار ہے: صحیح اقامہ پیشہ، کامل نام املا، درست چیمبر اسٹیمپ، درست رشتہ کیٹیگری، اور وہ ایڈریس جو آجر کی رجسٹریشن سے بالکل مماثل ہو۔
+        </p>
+        <p class="mt-4">
+          یہ رہا وہ خلاصہ جس کے لیے آپ آئے تھے:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">ریجیکشن وجہ 1:</strong> اقامہ پیشہ — HR سے چیک کریں، ضرورت ہو تو ترمیم کروائیں۔</li>
+          <li><strong class="text-white">ریجیکشن وجہ 2:</strong> نام اور دستاویزات میں ٹائپو — پاسپورٹ سے بالکل فیلڈ بہ فیلڈ مماثل کریں۔</li>
+          <li><strong class="text-white">ریجیکشن وجہ 3:</strong> چیمبر اسٹیمپ غائب — جمع کرانے سے پہلے اور بعد PRO سے تصدیق کریں۔</li>
+          <li><strong class="text-white">ریجیکشن وجہ 4:</strong> نااہل رشتہ دار — صرف شریکِ حیات، بچہ یا والدین۔</li>
+          <li><strong class="text-white">ریجیکشن وجہ 5:</strong> ایڈریس مماثلت نہ ہونا — MOFA پروفائل کو چیمبر رجسٹریشن سے عربی میں مماثل کریں۔</li>
+        </ul>
+        <p class="mt-4">
+          اپنی اہلیت کا اندازہ نہ لگائیں۔ درخواست سے پہلے{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">SaudiToolHub فیملی ویزا آپٹیمائزر</a>{' '}
+          سے اپنی اقامہ پیشہ اور انحصاری فیس چیک کریں۔ اور انحصاری فیس کی مکمل تفصیل کے لیے، ہماری{' '}
+          <a href="/guide/family-visa-dependent-fee-calculator-saudi-arabia-2026" class="text-desert-primary underline">فیملی ویزا ڈیپنڈنٹ فیس کیلکولیٹر گائیڈ 2026</a>{' '}
+          پڑھیں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنی فیملی ویزا اہلیت چیک کریں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — پیشہ چیک، انحصاری فیس اور اقامہ کی میعاد ایک جگہ</p>
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">مفت فیملی ویزا آپٹیمائزر استعمال کریں</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>ڈس کلیمر:</strong> یہ گائیڈ صرف معلوماتی مقاصد کے لیے ہے اور وزارت خارجہ (MOFA) کے موجودہ ضوابط پر مبنی ہے۔ قواعد تبدیل ہو سکتے ہیں۔ اپنے مخصوص کیس کی تصدیق ہمیشہ سرکاری MOFA ویزا پلیٹ فارم (visa.mofa.gov.sa) پر کریں۔
+        </p>
+      </div>
+    `, tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay ng Ekspat</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Top 5 na Dahilan Kung Bakit Nire-reject ang Saudi Family Visit Visa at Paano Ito Maiiwasan (2026 Update)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Isang propesyonal at direktang pagbabalangkas ng eksaktong dahilan kung bakit nire-reject ng MOFA ang mga family visit visa application — at ang tiyak na mga hakbang para maaprubahan sa susunod na pagsubok.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Totoo ang Frustration — At Ganap na Naaayos</h2>
+        <p>
+          Inihanda mo ang mga dokumento. Pinunan mo nang maingat ang MOFA form. Binayaran mo ang fee. At pagkatapos ay dumating ang rejection message: <strong class="text-white">"Rejected ang aplikasyon."</strong> Walang paliwanag, walang gabay — isang patay na dulo lang, at biglang parang nasayang ang mga buwang naipon na bakasyon.
+        </p>
+        <p class="mt-4">
+          Hindi ka nag-iisa. Sa mga expat forum, WhatsApp group, at PRO offices sa bawat lungsod mula Riyadh hanggang Dammam, paulit-ulit ang ganitong eksena kada linggo. Mga magulang na hindi man lang nakikita ang kanilang mga apo. Mga mag-asawang magkahiwalay ng isa pang taon. Mga bakasyong kinansela sa huling sandali. Ang bigat ng emosyon ng isang re-reject na family visa ay totoo — at sa karamihan ng kaso, ganap na hindi kinakailangan.
+        </p>
+        <p class="mt-4">
+          Ito ang tapat na katotohanan mula sa libu-libong expat cases sa Saudi Arabia: <strong class="text-desert-primary">ang karamihan ng mga rejection ay hindi dahil sa iyo, sa iyong kita, o sa iyong criminal record.</strong> Sanhi ang mga ito ng maliliit, tahimik, at naaayos na pagkakamali — isang typo sa pangalan, isang hindi tugma sa pagitan ng iyong MOFA profile at ng Chamber of Commerce registration ng iyong kumpanya, o isang Iqama profession na hindi lang talaga pumapayag mag-sponsor ng mga dependent.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direktang sagot:</strong> ang karamihan ng mga rejection ay dahil sa maliliit na data mismatch o profession restrictions, at maaayos sa loob ng ilang araw. Hindi mo kailangan ng agent. Hindi mo kailangang magbayad nang paulit-ulit. Kailangan mo ang gabay na ito.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Ano ang makukuha mo sa gabay na ito:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Ang 5 dahilan ng rejection, ayon sa aktwal na dalas ng mga ito.</li>
+            <li>Isang tunay na halimbawa sa bawat dahilan, mula sa aktwal na karanasan ng mga expat.</li>
+            <li>Ang eksaktong ayos para sa bawat problema — sa malinaw, step-by-step na paraan.</li>
+            <li>Ipinaliwanag ang refund policy, para hindi ka mag-overpay.</li>
+            <li>Payong espesyal para sa mga expat na Pakistani, Indian, Filipino, at Bangladeshi.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Bago mag-apply ulit, i-check agad ang iyong eligibility gamit ang aming libreng{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Family Visa Optimizer Tool</a>.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Top 5 Pinaka-Karaniwang Dahilan ng MOFA Visa Rejection</h2>
+        <p>
+          Batay sa mga pattern ng Ministry of Foreign Affairs (MOFA), data ng Absher, at tunay na karanasan ng mga expat na ibinahagi sa mga forum tulad ng Reddit, Quora, at community groups, ang limang dahilan na ito ang bumubuo sa napakaraming bahagi ng family visit visa rejections. Basahin ang bawat isa — ang ayos ay halos palaging nasa mga detalye.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Ranggo</th>
+                <th class="text-left py-2">Dahilan</th>
+                <th class="text-left py-2">Kadalasan</th>
+                <th class="text-left py-2">Hirap ng Ayos</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#1</td><td class="py-2">Restricted / mababang-tier na Iqama profession</td><td class="py-2">Napakataas</td><td class="py-2 text-yellow-400">Katamtaman (kailangan HR)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#2</td><td class="py-2">Typo sa pangalan at dokumento</td><td class="py-2">Napakataas</td><td class="py-2 text-green-400">Madali</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#3</td><td class="py-2">Chamber of Commerce (Ghurafah) stamping</td><td class="py-2">Mataas</td><td class="py-2 text-yellow-400">Katamtaman (kailangan PRO)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#4</td><td class="py-2">Hindi karapat-dapat na kamag-anak</td><td class="py-2">Katamtaman</td><td class="py-2 text-green-400">Madali (huwag mag-apply)</td></tr>
+              <tr><td class="py-2 text-desert-primary">#5</td><td class="py-2">Hindi tugmang address sa MOFA profile</td><td class="py-2">Mataas (nakatago)</td><td class="py-2 text-green-400">Madali</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          Ang magandang balita: apat sa limang dahilan ay ganap na nasa iyong kontrol. Ang ikalima — ang profession restriction — ay kadalasang nalulutas sa isang usapan lamang sa iyong employer. Wala sa mga ito ang nangangailangan ng legal na interbensyon.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>1. Restricted o Mababang-Tier na Iqama Profession</h3>
+        <p>
+          Ito ang pinaka-karaniwang dahilan ng pagka-reject ng family visit visas sa Saudi Arabia — at ito rin ang hindi inaasahan ng karamihan sa mga expat. <strong class="text-white">Hindi lahat ng Iqama profession ay pinapayagang mag-sponsor ng pamilya.</strong> Ang Ministry of Interior ay may klasipikasyon ng mga "pwedeng mag-sponsor" vs. "hindi pwedeng mag-sponsor" na propesyon, at ito ay direktang nakaugnay sa aktibidad ng iyong employer at sa iyong opisyal na job title.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Sino ang karaniwang nire-reject:</strong> Ang mga expat na nasa manual, mababang-kasanayan, o semi-skilled na propesyon — halimbawa, mga driver, laborer, cleaner, farm worker, construction worker, security guard, at mga katulad na tungkulin. Sa ilalim ng patakaran sa paggawa ng Saudi, ang mga kategoryang ito ay karaniwang hindi pinapayagang magdala ng mga dependent sa Kaharian.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Sino ang naaaprubahan:</strong> Ang mga propesyonal, manager, engineer, doktor, guro, IT specialist, accountant, at iba pang skilled/white-collar na tungkulin na ini-sponsor ng mga kumpanyang nasa "mataas na-tier" na komersyal at industriyal na aktibidad.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Karaniwang Pinapayagan</th>
+                <th class="text-left py-2">Karaniwang Nire-reject</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">Engineer, doktor, nurse, guro, accountant, IT specialist, manager, marketing professional</td>
+                <td class="py-2">General laborer, driver, cleaner, farm/agricultural worker, construction worker, security guard, service worker</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          Hindi pampubliko ang klasipikasyon at nagbabago ito. Ang isang propesyon na na-reject noong nakaraang taon ay maaaring maging eligible sa susunod na taon — at kabaligtaran din. Kaya mas mahalaga ang pag-check ng kasalukuyang mga patakaran kaysa umasa sa karanasan ng isang kaibigan dalawang taon na ang nakalipas.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tunay na halimbawa:</strong> Isang Asian expat na nagtatrabaho bilang "General Worker" sa isang maliit na construction firm ang nag-apply para sa visit visa ng kanyang asawa. Dalawang beses na-reject. Ang kanyang katrabaho sa parehong kumpanya, may titulong "Civil Engineer" sa parehong proyekto, ay naaprubahan sa unang pagsubok. Parehong employer. Parehong sahod. Iba't ibang job title = iba't ibang resulta.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang ayos:</strong> Hilingin sa iyong HR department na i-review ang iyong propesyon sa Ministry of Human Resources and Social Development (MHRSD). Kung ang iyong aktwal na tungkulin ay kwalipikado ngunit iba ang nakalagay sa Iqama mo, maaaring simulan ng iyong employer ang isang <strong class="text-white">profession amendment</strong> bago ka muling mag-apply. Tandaan: ang profession amendment ay maaaring tumagal ng ilang linggo at maaaring makaapekto sa iyong salary grade — timbangin nang mabuti ang oras.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>2. Typo sa Pangalan at Dokumento (Ang #1 Silent Killer)</h3>
+        <p>
+          Isang letra lang na kaibahan sa pagitan ng iyong passport at ng iyong MOFA application ay sapat na para mag-trigger ng automatic rejection. Ikinukumpara ng Saudi system ang iyong pangalan sa passport records, at eksakto — hindi humigit-kumulang — ang paghahambing. <strong class="text-white">Ang typo ay ang #1 silent killer ng mga visa application.</strong>
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Kung saan nagtatago ang mga typo:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Pangalan sa passport vs. pangalan sa MOFA form.</strong> Kung nakalagay sa passport mo ang "Abdul Rahman" pero isinulat mo ang "Abdulrahman," hindi iyon tugma.</li>
+          <li><strong>English vs. Arabic transliteration.</strong> Dapat eksaktong tumugma ang Arabic na baybay ng iyong pangalan sa iyong passport at Iqama, kasama ang paglalagay ng "Al," "Bin," o "Abdul."</li>
+          <li><strong>Mga petsa.</strong> Maling birth date o passport expiry date ay agarang red flag.</li>
+          <li><strong>Passport number.</strong> Isang digit na mali at hindi ka na ma-verify ng system.</li>
+          <li><strong>Lugar ng pag-isyu.</strong> Hindi tugmang passport issue city o bansa ay awtomatikong minamarka rin.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tunay na halimbawa:</strong> Isinulat ng isang Filipino expat ang pangalan ng kanyang asawa na "Maria Elena Cruz" sa passport application habang malinaw na "Maria Elena-Cruz" ang nakalagay sa aktwal na passport. Na-trigger ng hyphen ang rejection. Isang character. Naayos sa limang minuto.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tunay na halimbawa #2:</strong> Inilagay ng isang Bangladeshi expat ang taon ng kapanganakan ng kanyang ina na 1968. Nakalagay sa passport nito ang 1966. Ang dalawang digit na hindi tugma sa application form ay nagdulot ng rejection na tumagal ng tatlong linggo bago na-diagnose — dahil perpekto ang lahat ng iba pa.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang Iqama validity rule na dapat mong malaman:</strong> Dapat valid ang iyong Iqama nang hindi bababa sa <strong class="text-white">anim (6) na buwan</strong> mula sa petsa ng application. Kung mas maaga mag-e-expire ang iyong Iqama, awtomatikong mababatikos ang iyong family visit visa application kahit gaano pa katumpak ang iyong mga dokumento. I-renew muna ang iyong Iqama, saka mag-apply.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang gintong ugali:</strong> Bago mag-submit, ihambing ang application form sa passport — pahina sa pahina, field sa field — o ipa-check sa taong hindi kasama sa pagpuno ng form. Nakakakita ng typo ang mga sariwang mata. Hindi nakikita ng pagod na mga mata.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>3. Mga Pagkabigo sa Chamber of Commerce (Ghurafah) Stamping</h3>
+        <p>
+          Ang Chamber of Commerce stamp — kilala sa lokal na tawag na <strong class="text-white">"Ghurafah" (الغرفة)</strong> — ay isang mandatoryong bahagi ng Saudi family visit visa application. Pinapatunayan nito na ang iyong employer ay rehistrado, aktibo, at sumusunod sa mga patakaran. Kung walang valid na stamp, hindi maaaring iproseso ng MOFA ang iyong kahilingan, at ang application ay mauubusan ng oras papunta sa automatic rejection.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Paano gumagana ang stamping process:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Dapat bisitahin ng iyong employer ang Chamber of Commerce (o gamitin ang online portal nito) para i-verify at i-stamp ang family visit request.</li>
+          <li>Dapat bago ang stamp at nakatali sa kasalukuyang business registration certificate.</li>
+          <li>Dapat valid at na-renew para sa kasalukuyang taon ang commercial registration (CR) ng kumpanya.</li>
+          <li>Ang mga pagkaantala dito ang pinaka-karaniwang tahimik na sanhi ng rejection — masyadong mahaba ang pag-upo ng application sa "pending" na ang sistema ng MOFA ay kakanselahin na ito.</li>
+        </ul>
+        <p class="mt-4">
+          Ipinapalagay ng maraming expat na awtomatiko ang stamping kapag nag-submit na sila. Hindi. Ang stamp ay isang hiwalay, manual na hakbang na ginagawa ng kinatawan ng iyong employer — kadalasan ang PRO (Public Relations Officer). Kung mabagal ang PRO, tahimik na namamatay ang iyong application sa pila.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tunay na halimbawa:</strong> Isang Pakistani expat ang nag-submit ng kanyang application noong Linggo. Nangako ang PRO ng kanyang employer ng stamp "sa Huwebes." Awtomatikong kinansela ng sistema ang application noong Miyerkules. Nalaman lang ng empleyado ang rejection nang i-check niya ang status makalipas ang isang linggo.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang ayos:</strong> Bago ka mag-submit, kumpirmahin sa iyong PRO na kumpleto na ang Chamber of Commerce stamp — at i-verify ito sa MOFA status page sa loob ng 48 oras. Huwag kailanman hayaan ang isang application na nakaupo lang.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Pro tip:</strong> Hingin sa iyong PRO ang kopya ng stamped request o screenshot ng confirmation. Kung may mangyaring rejection sa hinaharap, magkakaroon ka ng patunay na tama ang pagkakagawa sa hakbang na ito.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>4. Hindi Karapat-dapat na Kategorya ng Kamag-anak</h3>
+        <p>
+          Ang Saudi family visit visa ay mahigpit na limitado sa <strong class="text-white">first-degree relatives: asawa, mga anak, at mga magulang.</strong> Ang mga lolo't lola, kapatid, tiyuhin, tiyahin, pinsan, at mga in-law ay <strong class="text-desert-primary">hindi karapat-dapat</strong> sa ilalim ng standard family visit visa.
+        </p>
+        <p class="mt-4">
+          Ang pag-apply para sa isang hindi karapat-dapat na kamag-anak ay isa sa pinakamabilis na paraan para ma-reject — at maaari rin itong mag-marka sa iyong account para sa mas mahigpit na pagsusuri sa mga susunod na application. Ikinukumpara ng system ang relasyon sa iyong deklaradong family structure, at maraming expat ang natutuklasan nang masakit na ang "pamilya" sa Saudi visa terms ay mas makitid kaysa sa inakala nila.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Karapat-dapat (First-Degree)</th>
+                <th class="text-left py-2">Hindi Karapat-dapat</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">Asawa (asawa/bana), mga anak, mga magulang (ama at ina)</td>
+                <td class="py-2">Mga kapatid, lolo't lola, apo, tiyuhin, tiyahin, pinsan, in-law, step-relatives</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tunay na halimbawa:</strong> Sinubukan ng isang Indian expat na i-sponsor ang kanyang kapatid. Na-reject nang walang paliwanag. Ang kanyang asawa at mga magulang, gayunpaman, ay naaprubahan nang walang isyu. Awtomatikong ipinatutupad ng system ang first-degree rule.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang ayos:</strong> Mag-apply lamang para sa iyong asawa, sa iyong mga anak, at sa iyong mga magulang. Kung nais mong i-host ang mga kapatid o extended family, dapat silang mag-apply sa pamamagitan ng standard tourist visa (eVisa) process, hindi sa family visit visa.
+        </p>
+        <p class="mt-4">
+          Isang tala tungkol sa mga magulang: pinapayagan ang pag-sponsor sa mga magulang, ngunit mas mahigpit itong sinusuri kaysa sa mga application ng asawa o anak, at maaaring mangailangan ng karagdagang dokumentasyon na nagpapatunay ng iyong kakayahang buhayin sila. Kung ma-reject ang application ng isang magulang habang naaprubahan ang sa iyong asawa, ang karaniwang dahilan ay ang profession at address checks.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>5. Ang "Nakatagong" Hindi Tugmang Address (Insight mula sa Forum)</h3>
+        <p>
+          Ito ang dahilan ng rejection na halos walang pinag-uusapan — at nahuhuli nito ang mga batikang expat. <strong class="text-white">Kung rehistrado ang iyong kumpanya sa Jeddah pero ang address sa iyong MOFA profile ay Riyadh, mababatikos ito.</strong> I-update ang iyong MOFA profile para eksaktong tumugma sa iyong Chamber of Commerce registration — sa Arabic.
+        </p>
+        <p class="mt-4">
+          Ini-cross-reference ng MOFA ang rehistradong address ng iyong employer sa address sa iyong profile. Kapag hindi nagtugma ang dalawa — kahit isang district, isang kalye, o isang nawawalang "Al-" prefix lang — minamarkahan ng system ang application bilang hindi tugma at nire-reject ito. Ang mismatch na ito ay paulit-ulit na tema sa mga expat forum, at halos palaging hindi napapansin dahil hindi ito nakikita sa sarili mong screen.
+        </p>
+        <p class="mt-4">
+          Bakit ito napaka-karaniwan? Dahil posibleng ginawa ang iyong MOFA profile noong una kang dumating — marahil ng isang PRO na gumamit ng lumang address, o bago lumipat ng opisina ang iyong kumpanya. Pagkalipas ng mga taon, walang nakakaalala na umiiral ang profile, pabayaan kung anong address ang nakalagay dito. Pagkatapos ay darating ang rejection at walang sinumang makapagpaliwanag kung bakit.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Paano i-check ngayon:</strong> Buksan nang sabay ang iyong MOFA visa platform profile at ang Chamber of Commerce certificate ng iyong kumpanya. Ihambing: ang pangalan ng kumpanya (sa Arabic), ang lungsod, ang district, at ang street address. Bawat character ay dapat eksaktong tumugma sa iyong Chamber registration — sa Arabic.</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang ayos:</strong> Itama ang address sa iyong MOFA profile para tumugma sa Chamber of Commerce certificate bago muling mag-apply. Kung kamakailan lang lumipat ng opisina ang iyong employer, i-update muna ang certificate, pagkatapos ay ang iyong profile.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Pag-ingatan ito:</strong> Maaaring lumabas din ang parehong mismatch sa iyong Absher record. Kapag in-update mo ang isa, i-verify ang isa pa. Ang kumpleto at tugmang digital footprint ay ang iyong pinakamahusay na depensa laban sa tahimik na mga rejection.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: Paano Aayusin at Muling Mag-Apply Nang Matagumpay</h2>
+        <p>
+          Kapag naunawaan mo na ang dahilan, malinaw at karaniwang mabilis na ang daan pasulong. Sundin ang eksaktong pagkakasunod-sunod na ito para mapalaki ang iyong tsansa ng approval sa susunod na pagsubok.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Maghintay ng 3-5 araw bago muling mag-apply.</strong> Ang agarang muling pag-apply pagkatapos ng rejection ay maaaring mag-trigger ng automatic secondary flag. Bigyan ang system ng oras para i-clear ang iyong naunang record.</li>
+          <li><strong>Itama ang iyong MOFA profile.</strong> Ayusin ang address, ang spelling ng pangalan, at ang mga detalye ng passport para eksaktong tumugma sa iyong mga dokumento at sa iyong Chamber of Commerce registration — sa Arabic.</li>
+          <li><strong>I-check ang validity ng iyong Iqama.</strong> Dapat valid ang iyong Iqama nang hindi bababa sa 6 na buwan mula sa petsa ng application. I-renew kung kinakailangan.</li>
+          <li><strong>Siguraduhing i-stamp ito ng iyong employer.</strong> Kumpirmahin sa iyong PRO na kumpleto na ang Chamber of Commerce stamp bago mag-submit, at i-verify ang status sa loob ng 48 oras.</li>
+          <li><strong>Muling mag-apply gamit ang bago at kumpletong application.</strong> Mag-upload ng malinaw, high-resolution na passport copies para sa bawat applicant. I-double-check ang bawat petsa at numero.</li>
+          <li><strong>I-track ang status.</strong> Gamitin ang MOFA visa status check at ang iyong Absher account para subaybayan ang progress araw-araw.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Checklist bago mag-apply:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Passport copies para sa bawat applicant — malinaw, hindi malabo.</li>
+            <li>Kopya ng iyong Iqama, valid nang 6+ na buwan.</li>
+            <li>Valid na commercial registration (CR) ng iyong employer.</li>
+            <li>Kumpletong Chamber of Commerce stamp sa request.</li>
+            <li>Ang iyong MOFA profile address ay tumutugma sa CR — sa Arabic.</li>
+            <li>Bawat pangalan ay eksaktong baybay gaya ng sa passport.</li>
+            <li>Tamang kategorya ng kamag-anak: asawa, anak, o magulang lamang.</li>
+          </ul>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tungkol sa refund:</strong> Kung ma-reject ang iyong application, <strong class="text-desert-primary">awtomatikong nire-refund ng MOFA ang visa fee.</strong> Hindi ka sisingilin nang dalawang beses para sa isang nabigong application. Nangangahulugan din ito na walang parusang pinansyal sa pag-aayos ng iyong mga dokumento at muling pag-apply.</p>
+        </div>
+        <p class="mt-4">
+          Karaniwang dumarating ang refund sa pamamagitan ng parehong channel na ginamit mo sa pagbabayad — bank card, SADAD, o transfer — sa loob ng ilang araw ng trabaho. Kung hindi ito lumabas sa loob ng dalawang linggo, kontakin ang iyong bangko o ang MOFA support line gamit ang iyong application reference number.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Paano I-check ang Iyong MOFA Visa Status (Bago at Pagkatapos ng Submission)</h2>
+        <p>
+          Ang pag-alam kung nasaan ang iyong application ay kalahati na ng laban. Madalas na hindi napapansin ang mga rejection dahil walang nag-check ng status sa tamang oras. Narito ang eksaktong paraan ng pag-track ng isang Saudi family visit visa.
+        </p>
+        <h3>Bago ang submission — ang eligibility check</h3>
+        <p>
+          Huwag mag-submit ng application na hindi ka sigurado. Gumawa muna ng mabilis na self-check: ang validity ng iyong Iqama, ang eligibility ng iyong propesyon, ang CR status ng iyong employer, at ang address sa iyong MOFA profile. Ang aming libreng{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Family Visa Optimizer</a>{' '}
+          ay gagabay sa iyo sa mga check na ito sa loob ng ilang minuto at ipapakita rin ang iyong tinatayang dependent fees.
+        </p>
+        <h3>Pagkatapos ng submission — ang mga hakbang sa pag-track</h3>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300 mt-2">
+          <li>Buksan ang opisyal na MOFA visa platform (visa.mofa.gov.sa) at mag-log in.</li>
+          <li>Pumunta sa "Enquiry" &gt; "Visa Application Status."</li>
+          <li>Ilagay ang iyong application number at passport number.</li>
+          <li>I-check ang status araw-araw — lalo na sa unang 48 oras, kapag ang isang kulang na Chamber stamp ay maaaring makita bilang pending state.</li>
+          <li>Buksan din ang Absher &gt; "Visa Services" para sa parehong application.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ano ang ibig sabihin ng mga status:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-green-400">Accepted/Approved:</strong> Na-isyu na ang visa. I-download at i-print ito.</li>
+            <li><strong class="text-yellow-400">Under Process:</strong> Sinusuri pa — pero i-check na kung tapos na ang Chamber stamp.</li>
+            <li><strong class="text-red-400">Rejected/Cancelled:</strong> Kumuha ng screenshot ng reference, alamin ang dahilan mula sa gabay na ito, ayusin ito, at muling mag-apply pagkalipas ng 3-5 araw.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Isang karaniwang pagkakamali: isang beses lang mag-check ng status, isang linggo pagkatapos ng submission. Sa panahong iyon, ang isang application na na-reject sa ikalawang araw ay malayo na sa bintana ng mabilis na ayos. Mag-check araw-araw, kumilos nang mabilis.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang Gagawin Kung Maraming Beses Ka Nang Na-reject</h2>
+        <p>
+          Ang pangalawang rejection ay hindi patay na dulo — ito ay isang senyales na may napalampas kang isang bagay na tahimik na chine-check ng automated system. Narito kung paano maayos na i-diagnose ang paulit-ulit na rejection.
+        </p>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300">
+          <li><strong>Tumigil at huwag munang baguhin ang anuman.</strong> Huwag ipagpatuloy ang pag-submit ng parehong application. Bawat magkatulad na submission ay nakasasayang ng oras at nagpapalaki ng mga flag.</li>
+          <li><strong>Ilabas ang lahat ng record nang magkakasabay.</strong> Ang iyong passport, ang iyong Iqama, ang CR ng iyong kumpanya, at ang iyong MOFA profile. Ihambing ang mga ito field sa field — pangalan, pangalan ng ama, lungsod, kalye, baybay.</li>
+          <li><strong>I-check muli ang 6-month rule.</strong> Ang Iqama na mag-e-expire sa loob ng anim na buwan ay ang pinaka-karaniwang tahimik na umuulit.</li>
+          <li><strong>Hingin sa iyong PRO ang buong submission log.</strong> Minsan maayos ang unang application, ngunit hindi natapos ang stamping ng employer sa kahit isa man sa mga ito.</li>
+          <li><strong>Ipa-review sa pangalawang tao.</strong> Isang katrabaho, isang PRO mula sa ibang kumpanya, o isang pinagkakatiwalaang miyembro ng komunidad ang makakakita sa bagay na hindi mo na napansin.</li>
+          <li><strong>Isaalang-alang ang profession check.</strong> Kung perpektong tugma ang lahat at na-reject ka pa rin, ang Iqama profession restriction ang pangunahing pinaghihinalaan. Kausapin ang HR tungkol sa profession amendment.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Kailan direktang isasangkot ang employer:</strong> Kung naitama mo na ang mga pangalan, na-update ang address sa iyong profile, nakumpirma ang stamp, at na-verify ang validity ng iyong Iqama — at na-reject ka pa rin — mag-iskedyul ng pulong sa HR o PRO department ng iyong kumpanya. Sa mga bihirang kaso, ang CR category mismo ng kumpanya ang naglilimita sa dependent sponsorship, na tanging employer ang makalulutas.</p>
+        </div>
+        <p class="mt-4">
+          Tandaan: ang rejection ay hindi mantsa sa iyong record. Tinitingnan ng Saudi system ang bawat application batay sa sarili nitong mga merito. Ang iyong trabaho ay siguraduhing malinis at tugma ang bawat application na iyong isinusumite hangga't maaari.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Karaniwang Mito Tungkol sa Saudi Family Visit Visa Rejections</h2>
+        <p>
+          Mabilis kumalat ang maling impormasyon sa mga expat circles. Linawin natin ang mga mito na pumapasan sa oras, pera, at stress ng mga tao.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-sm text-gray-300">
+          <p><strong class="text-white">Mito 1: "Ang rejection ay nangangahulugang bawal na akong mag-apply muli."</strong></p>
+          <p class="mt-1">Mali. Ang rejection ay hindi pagbabawal. Maaari kang muling mag-apply pagkatapos itama ang isyu, kadalasan sa loob ng ilang araw. Walang permanenteng record na humahadlang sa iyo.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Mito 2: "Kailangan ko ng agent para ayusin ito."</strong></p>
+          <p class="mt-1">Mali sa karamihan ng mga kaso. Ang mga ayos sa gabay na ito — pagtutugma ng pangalan, pagwawasto ng address, pagkokumpirma ng stamp — ay mga bagay na magagawa mo at ng iyong employer nang direkta at libre.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Mito 3: "Nawawala ang fee kapag na-reject ako."</strong></p>
+          <p class="mt-1">Mali. Awtomatikong nire-refund ng MOFA ang fee para sa mga re-reject na application. Magbabayad ka lamang kapag na-isyu na ang visa.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Mito 4: "Garantisado ang approval kapag mas mataas ang sahod."</strong></p>
+          <p class="mt-1">Mali. Nakakatulong ang sahod, ngunit mas mahalaga ang malinis at tugmang application. Maraming malalaki ang kita ang na-re-reject dahil sa isang typo, habang ang mga may katamtamang kita na may perpektong papeles ay naaaprubahan.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Mito 5: "Sinumang may Iqama ay maaaring mag-sponsor ng pamilya."</strong></p>
+          <p class="mt-1">Mali. Tanging ang mga expat na nasa klasipikadong eligible na propesyon at job tier ang maaaring mag-sponsor ng mga dependent. I-check ang iyong propesyon bago gumastos ng oras sa mga dokumento.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Espesyal na Pagsasaalang-alang para sa mga Ekspat (GEO Targeting)</h2>
+        <p>
+          Hinuhubog ng iyong bansang pinagmulan kung paano nakikita ng system ang iyong application. Narito ang mga tiyak na tala para sa pinakamalalaking expat community sa Kaharian.
+        </p>
+        <h3>Para sa mga Pakistani at Indian na Ekspat</h3>
+        <p>
+          Siguraduhing nauunawaan mo ang mga termino ayon sa paglitaw ng mga ito sa mga opisyal na form: <strong class="text-white">"Kafala"</strong> (ang sponsorship system), <strong class="text-white">"Iqama validity"</strong> (ang 6-month minimum), at <strong class="text-white">"Chamber stamping"</strong> (ang Ghurafah process). Ang mga Pakistani at Indian application ay kabilang sa pinakamadalas sa system, kaya ang pinaka-mahigpit ang matching algorithms sa name transliteration. I-verify na buo ang pangalan ng ama, eksakto gaya ng sa passport.
+        </p>
+        <p class="mt-4">
+          Para sa mga Indian expat partikular: ang "Aadhaar vs. passport name" na kalituhan ay nagdudulot ng maraming rejection. Gamitin ang pangalang naka-print sa passport, hindi ang Aadhaar card. Para sa mga Pakistani expat: siguraduhing tugma nang character-for-character ang pangalan ng iyong passport (NADRA-issued) sa iyong visa at Iqama records.
+        </p>
+        <h3>Para sa mga Filipino at Bangladeshi na Ekspat</h3>
+        <p>
+          I-check ang eksaktong baybay ng pangalan ng bawat miyembro ng pamilya <strong class="text-white">ayon sa paglitaw nito sa passport</strong> — kasama ang mga hyphen, middle name, at mga suffix gaya ng "Jr." o "Sr." Mahalaga ito ngayon at mamaya: dapat tumugma ang NBI clearance (para sa mga Filipino) o police clearance (para sa mga Bangladeshi) sa mga pangalan sa passport ng iyong pamilya para sa mga susunod na immigration steps. Ang maliit na inconsistency ngayon ay maaaring maging seryosong problema sa pag-apply para sa Iqama transfer o residency mamaya.
+        </p>
+        <p class="mt-4">
+          Dapat ding tandaan ng mga Filipino expat na hiwalay na nililista ng Philippine passports ang maiden name ng ina — huwag itong isama sa given-name field sa MOFA form. Dapat i-verify ng mga Bangladeshi expat na eksaktong tugma ang pangalan ng ama sa English sa mga record na inisyu ng gobyerno.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari ba akong mag-apply agad matapos ma-reject ang aking Saudi family visa?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo, teknikal na maaari kang mag-apply muli anumang oras. Gayunpaman, mahigpit na inirerekomenda na maghintay ng 3-5 araw at ayusin muna ang ugat na dahilan. Ang muling pag-apply na may parehong pagkakamali ay halos tiyak na magdudulot ng parehong rejection — at maaaring mag-marka sa iyong account para sa mas mahigpit na pagsusuri.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Makakatanggap ba ako ng refund kung ma-reject ang aking MOFA family visit visa?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Awtomatikong nire-refund ng MOFA ang visa fee kapag na-reject ang isang application. Sisingilin ka lamang kapag aktwal nang na-isyu ang visa. I-check ang iyong payment method para sa refund sa loob ng ilang araw ng trabaho.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Nakatigil o bawal ba ang Saudi family visit visa sa 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Aktibo ang family visit visa at ini-isyu sa buong 2026. Ang nagbago ay ang mas mahigpit na automated verification: eksaktong pagtutugma ng pangalan, ang 6-month Iqama validity rule, at ang address cross-check. Hindi bawal ang visa — mas mahigpit lang ang pagpapatupad ng mga patakaran.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Gaano katagal bago maaprubahan ang family visit visa pagkatapos ayusin ang mga pagkakamali?</p>
+            <p class="text-gray-400 text-sm mt-1">Pagkatapos mong ayusin ang mga natukoy na pagkakamali at muling mag-apply, karaniwang tumatagal ng 3-7 araw ng trabaho ang mga approval. Sa maraming kaso, ang mga application na na-submit nang tama na may valid na Chamber of Commerce stamp ay naaaprubahan sa loob ng 48 oras. I-check ang MOFA status page at Absher araw-araw.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Bakit "under process" nang ilang linggo ang aking Saudi family visa?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang mahabang "under process" status ay karaniwang nangangahulugan ng isa sa dalawang bagay: hindi pa natatapos ng iyong employer ang Chamber of Commerce stamp, o may data inconsistency na manu-manong sinusuri. Kontakin ang iyong PRO para kumpirmahin ang stamp, at i-double-check ang iyong profile address sa Arabic.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari bang mag-apply ang PRO ng aking kumpanya para sa family visit visa sa aking behalf?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Sa katunayan, nangangailangan ng partisipasyon ng employer ang Chamber of Commerce stamping step, kaya madalas ang PRO ang nag-submit. Ngunit ikaw pa rin ang responsable sa kawastuhan ng personal data. I-review mo mismo ang na-submit na form bago ito dumating sa MOFA.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pangwakas na mga Salita: Tigilan ang Panghuhula, Simulan ang Pag-aayos</h2>
+        <p>
+          Sinasaklaw ng limang dahilan sa itaas ang karamihan sa mga Saudi family visit visa rejection. Wala sa mga ito ang nangangailangan ng mamahaling agent o milagro. Nangangailangan ang mga ito ng pansin sa detalye: ang tamang Iqama profession, perpektong spelling ng pangalan, valid na Chamber stamp, tamang kategorya ng kamag-anak, at isang address na eksaktong tumutugma sa registration ng iyong employer.
+        </p>
+        <p class="mt-4">
+          Narito ang buod na iyong hinahanap:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">Dahilan ng rejection #1:</strong> Iqama profession — i-check sa HR, i-amend kung kailangan.</li>
+          <li><strong class="text-white">Dahilan ng rejection #2:</strong> Typo sa pangalan at dokumento — tumugma sa passport nang eksakto, field sa field.</li>
+          <li><strong class="text-white">Dahilan ng rejection #3:</strong> Kulang ang Chamber stamp — kumpirmahin sa PRO bago at pagkatapos ng submission.</li>
+          <li><strong class="text-white">Dahilan ng rejection #4:</strong> Hindi karapat-dapat na kamag-anak — asawa, anak, o magulang lamang.</li>
+          <li><strong class="text-white">Dahilan ng rejection #5:</strong> Hindi tugmang address — gawing tugma ang MOFA profile sa Chamber registration sa Arabic.</li>
+        </ul>
+        <p class="mt-4">
+          Huwag hulaan ang iyong eligibility. Gamitin ang <a href="/family-visa-optimizer" class="text-desert-primary underline">SaudiToolHub Family Visa Optimizer</a> para i-check ang iyong Iqama profession at dependent fees bago mag-apply. At para sa kumpletong pagbabalangkas ng mga dependent fee, basahin ang aming <a href="/guide/family-visa-dependent-fee-calculator-saudi-arabia-2026" class="text-desert-primary underline">Family Visa Dependent Fee Calculator Guide 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">I-check ang Iyong Family Visa Eligibility Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — profession check, dependent fees, at Iqama validity sa isang lugar</p>
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Gamitin ang Libreng Family Visa Optimizer</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa mga layuning pang-impormasyon batay sa kasalukuyang mga regulasyon ng Ministry of Foreign Affairs (MOFA). Maaaring magbago ang mga patakaran. Palaging i-verify ang iyong partikular na kaso sa opisyal na MOFA Visa Platform (visa.mofa.gov.sa).
+        </p>
+      </div>
+    `, bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">প্রবাসী গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি ফ্যামিলি ভিজিট ভিসা বাতিল হওয়ার ৫টি প্রধান কারণ ও কীভাবে এড়াবেন (২০২৬ আপডেট)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">মোফা কেন ফ্যামিলি ভিজিট ভিসার আবেদন বাতিল করে তার একটি প্রফেশনাল ও সরাসরি বিশ্লেষণ — এবং পরের বার অনুমোদন পাওয়ার সঠিক পদক্ষেপসমূহ।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>হতাশাটা সত্যি — এবং সম্পূর্ণ সমাধানযোগ্য</h2>
+        <p>
+          আপনি সব কাগজপত্র জোগাড় করলেন। মোফার ফর্মটা যত্ন করে পূরণ করলেন। ফি পরিশোধ করলেন। আর তারপর বাতিলের বার্তাটা এল: <strong class="text-white">"আবেদনটি বাতিল করা হয়েছে।"</strong> কোনো ব্যাখ্যা নেই, কোনো দিকনির্দেশনা নেই — শুধু একটা শেষ প্রান্ত, আর মাসখানেকের জমানো ছুটিটা হঠাৎ নষ্ট হয়ে যাওয়ার মতো মনে হচ্ছে।
+        </p>
+        <p class="mt-4">
+          আপনি একা নন। রিয়াদ থেকে দাম্মাম পর্যন্ত প্রতিটি শহরের প্রবাসী ফোরাম, হোয়াটসঅ্যাপ গ্রুপ আর পিআরও অফিসে প্রতিটি সপ্তাহে এই দৃশ্যটা ঘটে। বাবা-মা যারা কখনো নাতি-নাতনিদের দেখতে পান না। স্বামী-স্ত্রী আরেক বছর আলাদা থাকেন। ছুটি শেষ মুহূর্তে বাতিল হয়। বাতিল হওয়া ফ্যামিলি ভিসার আবেগঘন বোঝাটা সত্যি — আর বেশিরভাগ ক্ষেত্রে সেটা সম্পূর্ণ অপ্রয়োজনীয়।
+        </p>
+        <p class="mt-4">
+          সৌদি আরবে হাজার হাজার প্রবাসীর মামলা থেকে প্রাপ্ত সৎ সত্যটা হলো: <strong class="text-desert-primary">বেশিরভাগ বাতিলের কারণ আপনার জন্য নয়, আপনার আয়ের জন্য নয়, বা আপনার অপরাধের রেকর্ডের জন্য নয়।</strong> এর কারণ ছোট, নীরব, সহজে ঠিক করা যায় এমন ভুল — নামে টাইপো, আপনার মোফা প্রোফাইল আর কোম্পানির চেম্বার অফ কমার্স নিবন্ধনের মধ্যে অসামঞ্জস্য, অথবা এমন একটি ইকামা পেশা যা আসলেই নির্ভরশীলদের স্পনসর করতে দেয় না।
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">সরাসরি উত্তর:</strong> বেশিরভাগ বাতিলের কারণ সামান্য তথ্য অসামঞ্জস্য বা পেশা সংক্রান্ত সীমাবদ্ধতা, আর কয়েক দিনের মধ্যেই তা ঠিক করা যায়। আপনার এজেন্টের দরকার নেই। বারবার ফি দেওয়ার দরকার নেই। আপনার দরকার এই গাইডটি।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">এই গাইড থেকে আপনি যা পাবেন:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>৫টি বাতিলের কারণ, কতবার ঘটে তার ক্রম অনুযায়ী সাজানো।</li>
+            <li>প্রতিটি কারণের নিচে একটি বাস্তব উদাহরণ, প্রকৃত প্রবাসী অভিজ্ঞতা থেকে নেওয়া।</li>
+            <li>প্রতিটি সমস্যার সঠিক সমাধান — সহজ, ধাপে ধাপে ভাষায়।</li>
+            <li>রিফান্ড নীতিটি পরিষ্কারভাবে ব্যাখ্যা করা, যাতে আপনি কখনো বেশি টাকা না দেন।</li>
+            <li>পাকিস্তানি, ভারতীয়, ফিলিপিনো ও বাংলাদেশি প্রবাসীদের জন্য দেশভিত্তিক পরামর্শ।</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          আবার আবেদন করার আগে, আমাদের বিনামূল্যের{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">ফ্যামিলি ভিসা অপটিমাইজার টুল</a> দিয়ে সঙ্গে সঙ্গে আপনার যোগ্যতা যাচাই করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>মোফা ভিসা বাতিলের ৫টি সবচেয়ে সাধারণ কারণ</h2>
+        <p>
+          পররাষ্ট্র মন্ত্রণালয়ের (মোফা) নিয়ম, আবশের ডেটা এবং রেডিট, কুওরা ও প্রবাসী কমিউনিটি গ্রুপের মতো ফোরামে ভাগ করা প্রকৃত প্রবাসী অভিজ্ঞতার ভিত্তিতে, এই পাঁচটি কারণ ফ্যামিলি ভিজিট ভিসা বাতিলের বিশাল সংখ্যাগরিষ্ঠ অংশের ব্যাখ্যা দেয়। প্রতিটা পড়ুন — সমাধানটা প্রায় সবসময়ই বিস্তারিত বিবরণে লুকিয়ে থাকে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">ক্রম</th>
+                <th class="text-left py-2">কারণ</th>
+                <th class="text-left py-2">কতটা সাধারণ</th>
+                <th class="text-left py-2">সমাধানের অসুবিধা</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#১</td><td class="py-2">সীমাবদ্ধ / নিম্নমানের ইকামা পেশা</td><td class="py-2">খুব বেশি</td><td class="py-2 text-yellow-400">মাঝারি (এইচআর দরকার)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#২</td><td class="py-2">নাম ও কাগজপত্রে টাইপো</td><td class="py-2">খুব বেশি</td><td class="py-2 text-green-400">সহজ</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#৩</td><td class="py-2">চেম্বার অফ কমার্স (গুরফাহ) স্ট্যাম্পিং</td><td class="py-2">বেশি</td><td class="py-2 text-yellow-400">মাঝারি (পিআরও দরকার)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2 text-desert-primary">#৪</td><td class="py-2">অযোগ্য আত্মীয়ের শ্রেণি</td><td class="py-2">মাঝারি</td><td class="py-2 text-green-400">সহজ (আবেদন করবেন না)</td></tr>
+              <tr><td class="py-2 text-desert-primary">#৫</td><td class="py-2">মোফা প্রোফাইলে ঠিকানার অসামঞ্জস্য</td><td class="py-2">বেশি (লুকানো)</td><td class="py-2 text-green-400">সহজ</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          ভালো খবর: পাঁচটি কারণের মধ্যে চারটি সম্পূর্ণ আপনার নিয়ন্ত্রণে। পঞ্চমটি — পেশা সংক্রান্ত সীমাবদ্ধতা — সাধারণত আপনার নিয়োগকর্তার সঙ্গে একটু কথা বলে সমাধান করা যায়। এগুলোর কোনোটিরই আইনি হস্তক্ষেপের প্রয়োজন নেই।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>১. সীমাবদ্ধ বা নিম্নমানের ইকামা পেশা</h3>
+        <p>
+          এটিই সৌদি আরবে ফ্যামিলি ভিজিট ভিসা বাতিল হওয়ার সবচেয়ে সাধারণ কারণ — আর এটিই সেই কারণ যেটা বেশিরভাগ প্রবাসী কখনো দেখতে পান না। <strong class="text-white">প্রতিটি ইকামা পেশা পরিবারের সদস্যদের স্পনসর করার অনুমতি দেয় না।</strong> স্বরাষ্ট্র মন্ত্রণালয় "স্পনসরযোগ্য" বনাম "অস্পনসরযোগ্য" পেশার একটি শ্রেণিবিন্যাস রক্ষণাবেক্ষণ করে, আর সেটি সরাসরি আপনার নিয়োগকর্তার কার্যক্রম ও আপনার অফিসিয়াল চাকরির পদবির সঙ্গে যুক্ত।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">কারা বাতিল হন:</strong> যারা কায়িক, নিম্ন-দক্ষ বা আধা-দক্ষ পেশায় আছেন — যেমন চালক, শ্রমিক, পরিচ্ছন্নতাকর্মী, কৃষিশ্রমিক, নির্মাণশ্রমিক, নিরাপত্তারক্ষী এবং অনুরূপ পদ। সৌদি শ্রমনীতির আওতায় এসব শ্রেণিকে সাধারণত নির্ভরশীলদের রাজ্যে আনার অনুমতি দেওয়া হয় না।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">কারা অনুমোদন পান:</strong> পেশাদার, ম্যানেজার, প্রকৌশলী, চিকিৎসক, শিক্ষক, আইটি বিশেষজ্ঞ, হিসাবরক্ষক এবং অন্যান্য দক্ষ/শ্বেতপোশাকী পদধারীরা, যাদের স্পনসর করছে "উচ্চমানের" বাণিজ্যিক ও শিল্প কার্যক্রমের কোম্পানি।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">সাধারণত অনুমোদিত</th>
+                <th class="text-left py-2">সাধারণত বাতিল</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">প্রকৌশলী, চিকিৎসক, নার্স, শিক্ষক, হিসাবরক্ষক, আইটি বিশেষজ্ঞ, ম্যানেজার, মার্কেটিং পেশাদার</td>
+                <td class="py-2">সাধারণ শ্রমিক, চালক, পরিচ্ছন্নতাকর্মী, কৃষি/খামার শ্রমিক, নির্মাণশ্রমিক, নিরাপত্তারক্ষী, সেবা কর্মী</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          এই শ্রেণিবিন্যাসটি প্রকাশিত নয়, এবং এটি বদলায়। গত বছর বাতিল হওয়া একটি পেশা পরের বছর যোগ্য হয়ে উঠতে পারে — এবং এর উল্টোটাও সত্যি। এ কারণেই দুই বছর আগের বন্ধুর অভিজ্ঞতার উপর নির্ভর করার চেয়ে বর্তমান নিয়ম যাচাই করা বেশি গুরুত্বপূর্ণ।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব উদাহরণ:</strong> একটি ছোট নির্মাণ প্রতিষ্ঠানে "সাধারণ শ্রমিক" হিসেবে কাজ করা একজন এশীয় প্রবাসী তার স্ত্রীর ভিজিট ভিসার জন্য আবেদন করেছিলেন। দুবার বাতিল হয়েছে। একই কোম্পানির একই প্রকল্পে "সিভিল ইঞ্জিনিয়ার" পদবিসহ তার সহকর্মী প্রথম চেষ্টাতেই অনুমোদন পেয়েছেন। একই নিয়োগকর্তা। একই বেতন। ভিন্ন চাকরির পদবি = ভিন্ন ফলাফল।</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">সমাধান:</strong> আপনার এইচআর ডিপার্টমেন্টকে বলুন যেন তারা মানবসম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয়ের (এমএইচআরএসডি) কাছে আপনার পেশাটি পর্যালোচনা করে। আপনার প্রকৃত ভূমিকা যোগ্য কিন্তু ইকামায় অন্য কিছু লেখা থাকলে, আবার আবেদনের আগে আপনার নিয়োগকর্তা একটি <strong class="text-white">পেশা সংশোধন (প্রফেশন অ্যামেন্ডমেন্ট)</strong> শুরু করতে পারেন। মনে রাখবেন, পেশা সংশোধনে কয়েক সপ্তাহ লাগতে পারে এবং এটি আপনার বেতন গ্রেডকে প্রভাবিত করতে পারে — সময়টা ভালোভাবে যাচাই করে নিন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>২. নাম ও কাগজপত্রে টাইপো (নম্বর ১ নীরব ঘাতক)</h3>
+        <p>
+          আপনার পাসপোর্ট আর আপনার মোফা আবেদনের মধ্যে একটি মাত্র অক্ষরের পার্থক্যও স্বয়ংক্রিয় বাতিলের জন্য যথেষ্ট। সৌদি ব্যবস্থা আপনার নাম পাসপোর্ট রেকর্ডের সঙ্গে মিলিয়ে দেখে, আর এই তুলনা পুরোপুরি সঠিক — আনুমানিক নয়। <strong class="text-white">টাইপো ভিসা আবেদনের নম্বর ১ নীরব ঘাতক।</strong>
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">টাইপোগুলো কোথায় লুকিয়ে থাকে:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>পাসপোর্টের নাম বনাম ফর্মের নাম।</strong> আপনার পাসপোর্টে "আবদুর রহমান" লেখা থাকলে কিন্তু আপনি লিখেছেন "আবদুররহমান", সেটাই অসামঞ্জস্য।</li>
+          <li><strong>ইংরেজি বনাম আরবি লিপ্যন্তর।</strong> আপনার নামের আরবি বানান পাসপোর্ট ও ইকামার সঙ্গে হুবহু মিলতে হবে, যার মধ্যে "আল", "বিন" বা "আবদুল"-এর অবস্থানও অন্তর্ভুক্ত।</li>
+          <li><strong>তারিখ।</strong> জন্মতারিখ বা পাসপোর্ট মেয়াদে ভুল মানে তাৎক্ষণিক লাল পতাকা।</li>
+          <li><strong>পাসপোর্ট নম্বর।</strong> এক অঙ্ক ভুল হলে সিস্টেম আপনাকে একেবারেই যাচাই করতে পারে না।</li>
+          <li><strong>ইস্যুর স্থান।</strong> পাসপোর্ট ইস্যুর শহর বা দেশের অসামঞ্জস্যও স্বয়ংক্রিয়ভাবে চিহ্নিত হয়।</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব উদাহরণ:</strong> একজন ফিলিপিনো প্রবাসী তার স্ত্রীর পাসপোর্ট নাম "মারিয়া এলেনা ক্রুজ" লিখেছিলেন, অথচ পাসপোর্টে স্পষ্ট "মারিয়া এলেনা-ক্রুজ" লেখা ছিল। হাইফেনটিই বাতিলের কারণ হয়ে দাঁড়াল। একটি অক্ষর। পাঁচ মিনিটে ঠিক।</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব উদাহরণ ২:</strong> একজন বাংলাদেশি প্রবাসী তার মায়ের জন্মসাল ১৯৬৮ হিসেবে লিখেছিলেন। পাসপোর্টে ছিল ১৯৬৬। আবেদন ফর্মের এই দুই অঙ্কের অসামঞ্জস্য এমন একটি বাতিলের কারণ হয়েছিল যার নির্ণয়ে তিন সপ্তাহ লেগেছে — কারণ বাকি সবকিছু নিখুঁত ছিল।</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">ইকামা বৈধতার নিয়মটি যা আপনার জানা জরুরি:</strong> আবেদনের তারিখ থেকে আপনার ইকামা কমপক্ষে <strong class="text-white">ছয় (৬) মাস</strong> বৈধ থাকতে হবে। আপনার ইকামা এর আগেই মেয়াদ শেষ হলে, আপনার কাগজপত্র যত সঠিকই হোক না কেন, ফ্যামিলি ভিজিট ভিসার আবেদন স্বয়ংক্রিয়ভাবে বাতিল হবে। আগে ইকামা নবায়ন করুন, তারপর আবেদন করুন।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">স্বর্ণের অভ্যাস:</strong> জমা দেওয়ার আগে আবেদন ফর্মটিকে পাসপোর্টের সঙ্গে পৃষ্ঠায় পৃষ্ঠায়, ঘরে ঘরে মিলিয়ে দেখুন — অথবা ফর্মটি পূরণে যিনি জড়িত ছিলেন না এমন কাউকে দিয়ে যাচাই করান। নতুন চোখ টাইপো ধরে। ক্লান্ত চোখ তা দেখতে পায় না।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>৩. চেম্বার অফ কমার্স (গুরফাহ) স্ট্যাম্পিং-এর ব্যর্থতা</h3>
+        <p>
+          চেম্বার অফ কমার্স স্ট্যাম্প — যেটা স্থানীয়ভাবে <strong class="text-white">"গুরফাহ" (الغرفة)</strong> নামে পরিচিত — সৌদি ফ্যামিলি ভিজিট ভিসা আবেদনের একটি বাধ্যতামূলক উপাদান। এটি প্রমাণ করে যে আপনার নিয়োগকর্তা একটি নিবন্ধিত, সক্রিয় ও আইন মেনে চলা ব্যবসা। বৈধ স্ট্যাম্প ছাড়া মোফা আপনার আবেদন প্রক্রিয়া করতে পারে না, আর আবেদনটি স্বয়ংক্রিয় বাতিল হয়ে যাওয়ার মাধ্যমে সময় ফুরিয়ে যায়।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">স্ট্যাম্পিং প্রক্রিয়া যেভাবে কাজ করে:</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>আপনার নিয়োগকর্তাকে চেম্বার অফ কমার্সে যেতে হবে (বা তাদের অনলাইন পোর্টাল ব্যবহার করতে হবে) ফ্যামিলি ভিজিটের আবেদন যাচাই ও স্ট্যাম্প করার জন্য।</li>
+          <li>স্ট্যাম্পটি নতুন হতে হবে এবং বর্তমান ব্যবসা নিবন্ধন সনদের সঙ্গে যুক্ত হতে হবে।</li>
+          <li>কোম্পানির বাণিজ্যিক নিবন্ধন (সিআর) বর্তমান বছরের জন্য বৈধ ও নবায়নকৃত হতে হবে।</li>
+          <li>এখানে দেরি হওয়াই বাতিলের সবচেয়ে সাধারণ নীরব কারণ — আবেদনটি এতদিন "বিচারাধীন" অবস্থায় থাকে যে মোফার সিস্টেম তা বাতিল করে দেয়।</li>
+        </ul>
+        <p class="mt-4">
+          অনেক প্রবাসী ধরে নেন জমা দেওয়া মাত্রই স্ট্যাম্পিং স্বয়ংক্রিয় হয়ে যায়। তা নয়। স্ট্যাম্পটি একটি আলাদা, ম্যানুয়াল ধাপ যা আপনার নিয়োগকর্তার প্রতিনিধি — সাধারণত পিআরও (পাবলিক রিলেশনস অফিসার) — সম্পাদন করেন। পিআরও ধীর হলে, আপনার আবেদনটি সারিতে নীরবে মৃত্যুর দিকে যাচ্ছে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব উদাহরণ:</strong> একজন পাকিস্তানি প্রবাসী রোববার আবেদনটি জমা দিয়েছিলেন। কোম্পানির পিআরও "বৃহস্পতিবারের মধ্যে" স্ট্যাম্পের প্রতিশ্রুতি দিয়েছিলেন। বুধবার সিস্টেমটি আবেদনটি স্বয়ংক্রিয়ভাবে বাতিল করে দেয়। এক সপ্তাহ পরে স্ট্যাটাস চেক করতে গিয়ে কর্মীটি বাতিলের বিষয়টি জানতে পারেন।</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">সমাধান:</strong> জমা দেওয়ার আগে আপনার পিআরও-র কাছে নিশ্চিত হন যে চেম্বার অফ কমার্স স্ট্যাম্প সম্পন্ন হয়েছে — আর ৪৮ ঘণ্টার মধ্যে মোফা স্ট্যাটাস পেজে তা যাচাই করুন। কখনোই আবেদনটি অলস পড়ে থাকতে দেবেন না।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">প্রো টিপ:</strong> আপনার পিআরও-র কাছে স্ট্যাম্পকৃত আবেদনের একটি কপি বা নিশ্চিতকরণের স্ক্রিনশট চাইতে পারেন। ভবিষ্যতে কোনো বাতিল ঘটলে, আপনার কাছে প্রমাণ থাকবে যে এই ধাপটি সঠিকভাবে সম্পন্ন হয়েছিল।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>৪. অযোগ্য আত্মীয়ের শ্রেণি</h3>
+        <p>
+          সৌদি ফ্যামিলি ভিজিট ভিসা কঠোরভাবে <strong class="text-white">প্রথম-মাত্রার আত্মীয়দের মধ্যে সীমাবদ্ধ: স্ত্রী/স্বামী, সন্তান এবং বাবা-মা।</strong> দাদা-দাদি, ভাই-বোন, চাচা, খালা, ফুফু, কাজিন এবং শ্বশুরবাড়ির সদস্যরা স্ট্যান্ডার্ড ফ্যামিলি ভিজিট ভিসার আওতায় <strong class="text-desert-primary">যোগ্য নন</strong>।
+        </p>
+        <p class="mt-4">
+          অযোগ্য কোনো আত্মীয়ের জন্য আবেদন করা বাতিল হওয়ার দ্রুততম উপায়গুলোর একটি — এবং এটি ভবিষ্যতের আবেদনগুলোর ক্ষেত্রে আপনার অ্যাকাউন্টকে আরও কড়া যাচাইয়ের ঝুঁকিতে ফেলতে পারে। সিস্টেমটি আপনার ঘোষিত পারিবারিক কাঠামোর সঙ্গে সম্পর্ক মিলিয়ে দেখে, আর অনেক প্রবাসী কঠিন উপায়ে আবিষ্কার করেন যে সৌদি ভিসার পরিভাষায় "পরিবার" বলতে যা বোঝায় তা তাদের ধারণার চেয়ে অনেক সংকীর্ণ।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">যোগ্য (প্রথম-মাত্রার)</th>
+                <th class="text-left py-2">যোগ্য নয়</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50">
+                <td class="py-2">স্ত্রী/স্বামী, সন্তান, বাবা-মা (পিতা ও মাতা)</td>
+                <td class="py-2">ভাই-বোন, দাদা-দাদি, নাতি-নাতনি, চাচা, খালা, ফুফু, কাজিন, শ্বশুরবাড়ির সদস্য, সৎ-আত্মীয়</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব উদাহরণ:</strong> একজন ভারতীয় প্রবাসী তার ভাইকে স্পনসর করার চেষ্টা করেছিলেন। কোনো ব্যাখ্যা ছাড়াই বাতিল। তবে তার স্ত্রী ও বাবা-মা কোনো সমস্যা ছাড়াই অনুমোদন পেয়েছেন। সিস্টেমটি প্রথম-মাত্রার নিয়মটি স্বয়ংক্রিয়ভাবে প্রয়োগ করে।</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">সমাধান:</strong> শুধুমাত্র আপনার স্ত্রী/স্বামী, আপনার সন্তান এবং আপনার বাবা-মার জন্য আবেদন করুন। আপনি যদি ভাই-বোন বা দূরের আত্মীয়দের আমন্ত্রণ জানাতে চান, তাহলে তাদের অবশ্যই স্ট্যান্ডার্ড ট্যুরিস্ট ভিসা (ই-ভিসা) প্রক্রিয়ার মাধ্যমে আবেদন করতে হবে, ফ্যামিলি ভিজিট ভিসার মাধ্যমে নয়।
+        </p>
+        <p class="mt-4">
+          বাবা-মা সম্পর্কে একটি নোট: বাবা-মাকে স্পনসর করা অনুমোদিত, তবে এটি স্ত্রী বা সন্তানের আবেদনের চেয়ে বেশি যাচাই করা হয়, এবং তাদের ভরণপোষণের সক্ষমতা প্রমাণের জন্য অতিরিক্ত নথির প্রয়োজন হতে পারে। আপনার স্ত্রীর আবেদন অনুমোদিত হওয়ার সময় যদি বাবা-মার আবেদন বাতিল হয়, তাহলে সাধারণ কারণ হিসেবে পেশা ও ঠিকানা পরীক্ষাই দায়ী।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h3>৫. "লুকানো" ঠিকানার অসামঞ্জস্য (ফোরামের অন্তর্দৃষ্টি)</h3>
+        <p>
+          এটিই বাতিলের সেই কারণ যেটা প্রায় কেউই বলে না — এবং এটা অভিজ্ঞ প্রবাসীদেরও অপ্রস্তুত করে ফেলে। <strong class="text-white">আপনার কোম্পানি জেদ্দায় নিবন্ধিত থাকলে কিন্তু আপনার মোফা প্রোফাইলের ঠিকানা রিয়াদ লেখা থাকলে, আবেদনটি বাতিল হবে।</strong> আপনার মোফা প্রোফাইল আপডেট করুন যাতে সেটি আপনার চেম্বার অফ কমার্স নিবন্ধনের সঙ্গে আরবিতে হুবহু মেলে।
+        </p>
+        <p class="mt-4">
+          মোফা আপনার নিয়োগকর্তার নিবন্ধিত ঠিকানার সঙ্গে আপনার প্রোফাইলের ঠিকানাটি ক্রস-রেফারেন্স করে। দুটির মিল না হলে — এমনকি একটি এলাকা, একটি রাস্তা বা একটি হারিয়ে যাওয়া "আল-" উপসর্গের কারণে হলেও — সিস্টেমটি আবেদনটিকে অসঙ্গত হিসেবে চিহ্নিত করে বাতিল করে দেয়। এই অসামঞ্জস্য প্রবাসী ফোরামে বারবার উঠে আসা একটি বিষয়, আর এটি প্রায় সবসময়ই ধরা পড়ে না কারণ আপনার নিজের স্ক্রিনে এটি অদৃশ্য।
+        </p>
+        <p class="mt-4">
+          এটি এত সাধারণ কেন? কারণ আপনার মোফা প্রোফাইলটি সম্ভবত আপনার প্রথম আগমনের সময় তৈরি হয়েছিল — হয়তো কোনো পিআরও পুরোনো ঠিকানা ব্যবহার করেছিল, অথবা আপনার কোম্পানি অফিস স্থানান্তর করার আগের সময়ে। বছরের পর বছর পরে, প্রোফাইলটি আছে বলেই কেউ মনে রাখে না, তো ঠিকানাটি কী তা তো ভাবাই যায় না। তারপর বাতিলের খবর আসে, আর কেউ ব্যাখ্যা করতে পারে না কেন।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">এখনই যেভাবে যাচাই করবেন:</strong> আপনার মোফা ভিসা প্ল্যাটফর্ম প্রোফাইল এবং আপনার কোম্পানির চেম্বার অফ কমার্স সনদ পাশাপাশি খুলুন। তুলনা করুন: কোম্পানির নাম (আরবিতে), শহর, এলাকা এবং রাস্তার ঠিকানা। প্রতিটি অক্ষর অবশ্যই আরবিতে আপনার চেম্বার নিবন্ধনের সঙ্গে হুবহু মিলতে হবে।</p>
+        </div>
+        <p class="mt-4">
+          <strong class="text-desert-primary">সমাধান:</strong> আবার আবেদনের আগে আপনার মোফা প্রোফাইলের ঠিকানা চেম্বার অফ কমার্স সনদের সঙ্গে মিলিয়ে নিন। আপনার নিয়োগকর্তা সম্প্রতি অফিস স্থানান্তর করলে, প্রথমে সনদটি আপডেট করুন, তারপর আপনার প্রোফাইল।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">সতর্ক থাকুন:</strong> একই অসামঞ্জস্য আপনার আবশের রেকর্ডেও দেখা দিতে পারে। একটি আপডেট করার সময় অন্যটিও যাচাই করুন। একটি সম্পূর্ণ ও সামঞ্জস্যপূর্ণ ডিজিটাল ফুটপ্রিন্ট নীরব বাতিলের বিরুদ্ধে আপনার সেরা প্রতিরক্ষা।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধাপে ধাপে: কীভাবে ঠিক করে সফলভাবে আবার আবেদন করবেন</h2>
+        <p>
+          কারণটি বোঝার সঙ্গে সঙ্গে সামনের পথ পরিষ্কার এবং সাধারণত দ্রুত হয়ে যায়। পরের চেষ্টায় অনুমোদনের সম্ভাবনা বাড়াতে এই সঠিক ক্রমটি অনুসরণ করুন।
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>আবার আবেদনের আগে ৩-৫ দিন অপেক্ষা করুন।</strong> বাতিলের পরপরই আবার আবেদন করলে স্বয়ংক্রিয় দ্বিতীয় পতাকা ওঠার ঝুঁকি থাকে। আপনার পূর্বের রেকর্ড পরিষ্কার করার জন্য সিস্টেমকে সময় দিন।</li>
+          <li><strong>আপনার মোফা প্রোফাইল ঠিক করুন।</strong> ঠিকানা, নামের বানান এবং পাসপোর্টের বিবরণ আপনার নথি ও চেম্বার অফ কমার্স নিবন্ধনের সঙ্গে হুবহু মেলান — আরবিতে।</li>
+          <li><strong>ইকামার বৈধতা যাচাই করুন।</strong> আবেদনের তারিখ থেকে আপনার ইকামা কমপক্ষে ৬ মাস বৈধ থাকতে হবে। প্রয়োজন হলে নবায়ন করুন।</li>
+          <li><strong>নিশ্চিত করুন যে নিয়োগকর্তা স্ট্যাম্প দিয়েছেন।</strong> জমার আগে পিআরও-র কাছে নিশ্চিত হন যে চেম্বার অফ কমার্স স্ট্যাম্প সম্পন্ন হয়েছে, এবং ৪৮ ঘণ্টার মধ্যে স্ট্যাটাস যাচাই করুন।</li>
+          <li><strong>নতুন, সম্পূর্ণ আবেদন দিয়ে আবার আবেদন করুন।</strong> প্রতিটি আবেদনকারীর জন্য স্পষ্ট, উচ্চ-রেজোলিউশনের পাসপোর্ট কপি আপলোড করুন। প্রতিটি তারিখ ও সংখ্যা দুবার যাচাই করুন।</li>
+          <li><strong>স্ট্যাটাস ট্র্যাক করুন।</strong> অগ্রগতি প্রতিদিন দেখতে মোফা ভিসা স্ট্যাটাস চেক ও আপনার আবশের অ্যাকাউন্ট ব্যবহার করুন।</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">আবেদনের আগে চেকলিস্ট:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>প্রতিটি আবেদনকারীর পাসপোর্ট কপি — স্পষ্ট, ঝাপসা নয়।</li>
+            <li>আপনার ইকামার কপি, ৬+ মাসের জন্য বৈধ।</li>
+            <li>আপনার নিয়োগকর্তার বৈধ বাণিজ্যিক নিবন্ধন (সিআর)।</li>
+            <li>আবেদনে চেম্বার অফ কমার্স স্ট্যাম্প সম্পন্ন।</li>
+            <li>আপনার মোফা প্রোফাইলের ঠিকানা সিআর-এর সঙ্গে মেলে — আরবিতে।</li>
+            <li>প্রতিটি নাম পাসপোর্টে যেভাবে আছে হুবহু সেভাবে লেখা।</li>
+            <li>সঠিক আত্মীয় শ্রেণি: শুধুমাত্র স্ত্রী/স্বামী, সন্তান বা বাবা-মা।</li>
+          </ul>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">রিফান্ড সম্পর্কে:</strong> আপনার আবেদন বাতিল হলে, <strong class="text-desert-primary">মোফা স্বয়ংক্রিয়ভাবে ভিসা ফি ফেরত দেয়।</strong> ব্যর্থ আবেদনের জন্য আপনাকে দুইবার চার্জ করা হবে না। এর অর্থ হলো আপনার নথি ঠিক করে আবার আবেদন করার কোনো আর্থিক জরিমানা নেই।</p>
+        </div>
+        <p class="mt-4">
+          রিফান্ড সাধারণত আপনি যে চ্যানেলে অর্থ পরিশোধ করেছেন — ব্যাংক কার্ড, সাদাদ বা ট্রান্সফার — সেই চ্যানেলেই কয়েক কার্যদিবসের মধ্যে আসে। দুই সপ্তাহের মধ্যে না আসলে, আপনার আবেদনের রেফারেন্স নম্বরসহ ব্যাংক বা মোফা হেল্পলাইনে যোগাযোগ করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আপনার মোফা ভিসার স্ট্যাটাস যেভাবে যাচাই করবেন (জমা দেওয়ার আগে ও পরে)</h2>
+        <p>
+          আপনার আবেদনটি কোথায় আছে তা জানা অর্ধেক যুদ্ধ। বাতিল হওয়ার খবর প্রায়ই অলক্ষিত থেকে যায় কারণ কেউ সময়মতো স্ট্যাটাস চেক করে না। সৌদি ফ্যামিলি ভিজিট ভিসা ট্র্যাক করার সঠিক পদ্ধতি এখানে দেওয়া হলো।
+        </p>
+        <h3>জমা দেওয়ার আগে — যোগ্যতা যাচাই</h3>
+        <p>
+          যে আবেদন সম্পর্কে নিশ্চিত নন সেটি জমা দেবেন না। আগে দ্রুত একটি স্ব-পরীক্ষা চালান: আপনার ইকামার বৈধতা, আপনার পেশার যোগ্যতা, আপনার নিয়োগকর্তার সিআর অবস্থা এবং আপনার মোফা প্রোফাইলের ঠিকানা। আমাদের বিনামূল্যের{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">ফ্যামিলি ভিসা অপটিমাইজার</a>{' '}
+          মিনিটের মধ্যে এই পরীক্ষাগুলো করিয়ে দেয় এবং একই সঙ্গে আপনার আনুমানিক নির্ভরশীল ফিগুলোও দেখায়।
+        </p>
+        <h3>জমা দেওয়ার পরে — ট্র্যাকিংয়ের ধাপ</h3>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300 mt-2">
+          <li>অফিসিয়াল মোফা ভিসা প্ল্যাটফর্ম (visa.mofa.gov.sa) খুলুন এবং লগ ইন করুন।</li>
+          <li>"এনকোয়ারি" &gt; "ভিসা অ্যাপ্লিকেশন স্ট্যাটাস"-এ যান।</li>
+          <li>আপনার আবেদন নম্বর এবং পাসপোর্ট নম্বর প্রবেশ করান।</li>
+          <li>প্রতিদিন স্ট্যাটাস চেক করুন — বিশেষ করে প্রথম ৪৮ ঘণ্টায়, যখন একটি অনুপস্থিত চেম্বার স্ট্যাম্প ইতিমধ্যেই বিচারাধীন অবস্থা হিসেবে দৃশ্যমান হতে পারে।</li>
+          <li>একই আবেদনের জন্য আবশের &gt; "ভিসা সার্ভিসেস"-এও যান।</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">স্ট্যাটাসগুলোর অর্থ কী:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-green-400">গৃহীত/অনুমোদিত:</strong> ভিসাটি ইস্যু হয়েছে। এটি ডাউনলোড করে প্রিন্ট করুন।</li>
+            <li><strong class="text-yellow-400">প্রক্রিয়াধীন:</strong> এখনও পর্যালোচনা হচ্ছে — তবে চেম্বার স্ট্যাম্প সম্পন্ন হয়েছে কিনা দেখুন।</li>
+            <li><strong class="text-red-400">বাতিল:</strong> রেফারেন্সের স্ক্রিনশট নিন, এই গাইড থেকে কারণটি নির্ণয় করুন, ঠিক করুন এবং ৩-৫ দিন পরে আবার আবেদন করুন।</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          একটি সাধারণ ভুল হলো জমা দেওয়ার এক সপ্তাহ পরে মাত্র একবার স্ট্যাটাস চেক করা। ততক্ষণে, দ্বিতীয় দিনে বাতিল হওয়া একটি আবেদন দ্রুত সমাধানের সুযোগ অনেক আগেই হারিয়ে ফেলেছে। প্রতিদিন চেক করুন, দ্রুত কাজ করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আপনার ভিসা বারবার বাতিল হলে কী করবেন</h2>
+        <p>
+          দ্বিতীয় বাতিল কোনো শেষ প্রান্ত নয় — এটি একটি সংকেত যে আপনি এমন কিছু মিস করছেন যা স্বয়ংক্রিয় সিস্টেম নীরবে যাচাই করে। বারবার বাতিল হওয়ার সঠিক নির্ণয়ের পদ্ধতি এখানে দেওয়া হলো।
+        </p>
+        <ol class="list-decimal list-inside space-y-1 text-gray-300">
+          <li><strong>থামুন এবং আপাতত কিছুই পরিবর্তন করবেন না।</strong> একই আবেদন বারবার জমা দেওয়া চালিয়ে যাবেন না। প্রতিটি অভিন্ন জমা সময় নষ্ট করে এবং পতাকা তোলে।</li>
+          <li><strong>সব রেকর্ড পাশাপাশি বের করুন।</strong> আপনার পাসপোর্ট, আপনার ইকামা, আপনার কোম্পানির সিআর এবং আপনার মোফা প্রোফাইল। এগুলো ঘরে ঘরে মিলিয়ে দেখুন — নাম, পিতার নাম, শহর, রাস্তা, বানান।</li>
+          <li><strong>৬ মাসের নিয়মটি আবার যাচাই করুন।</strong> ছয় মাসের মধ্যে মেয়াদ শেষ হওয়া ইকামাই সবচেয়ে সাধারণ নীরব পুনরাবৃত্তিকারী।</li>
+          <li><strong>পিআরও-র কাছে সম্পূর্ণ জমা দেওয়ার লগ চান।</strong> কখনও কখনও প্রথম আবেদনটি সঠিক ছিল, কিন্তু কোনো আবেদনেই নিয়োগকর্তার স্ট্যাম্পিং সম্পন্ন হয়নি।</li>
+          <li><strong>দ্বিতীয় ব্যক্তিকে দিয়ে পর্যালোচনা করান।</strong> একজন সহকর্মী, অন্য কোম্পানির পিআরও বা বিশ্বস্ত কমিউনিটির সদস্য সেটি দেখতে পারেন যা আপনি দেখতে দেখতে পেরিয়ে গেছেন।</li>
+          <li><strong>পেশা পরীক্ষার কথা ভাবুন।</strong> সবকিছু নিখুঁত মিললে এবং তবুও বাতিল হলে, ইকামা পেশার সীমাবদ্ধতাই প্রধান সন্দেহভাজন। পেশা সংশোধনের বিষয়ে এইচআর-এর সঙ্গে কথা বলুন।</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">কখন নিয়োগকর্তাকে সরাসরি জড়াবেন:</strong> আপনি যদি নাম ঠিক করে থাকেন, প্রোফাইলের ঠিকানা আপডেট করে থাকেন, স্ট্যাম্প নিশ্চিত করে থাকেন এবং ইকামার বৈধতা যাচাই করে থাকেন — এবং তবুও বাতিল হচ্ছে — তাহলে কোম্পানির এইচআর বা পিআরও ডিপার্টমেন্টের সঙ্গে বৈঠকের সময় নির্ধারণ করুন। বিরল ক্ষেত্রে, কোম্পানির সিআর শ্রেণিটিই নির্ভরশীলদের স্পনসরশিপ সীমাবদ্ধ করে, যেটি শুধুমাত্র নিয়োগকর্তাই সমাধান করতে পারেন।</p>
+        </div>
+        <p class="mt-4">
+          মনে রাখবেন: বাতিল হওয়া আপনার রেকর্ডে কালো দাগ নয়। সৌদি ব্যবস্থা প্রতিটি আবেদনকে তার নিজস্ব যোগ্যতার ভিত্তিতে বিচার করে। আপনার কাজ হলো আপনি জমা দেওয়া প্রতিটি আবেদন যতটা সম্ভব পরিষ্কার ও সামঞ্জস্যপূর্ণ রাখা।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি ফ্যামিলি ভিজিট ভিসা বাতিল সম্পর্কে প্রচলিত ভুল ধারণা</h2>
+        <p>
+          প্রবাসী মহলে ভুল তথ্য দ্রুত ছড়ায়। চলুন সেই ভুল ধারণাগুলো দূর করি যা মানুষকে সময়, টাকা ও চাপের মধ্যে ফেলে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-sm text-gray-300">
+          <p><strong class="text-white">ভুল ধারণা ১: "বাতিল হওয়া মানে আমি আর কখনো আবেদন করতে পারব না।"</strong></p>
+          <p class="mt-1">ভুল। বাতিল হওয়া নিষেধাজ্ঞা নয়। সমস্যাটি ঠিক করার পরে আপনি আবার আবেদন করতে পারেন, সাধারণত কয়েক দিনের মধ্যে। কোনো স্থায়ী রেকর্ড আপনাকে আটকায় না।</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">ভুল ধারণা ২: "এটি ঠিক করতে আমার এজেন্ট দরকার।"</strong></p>
+          <p class="mt-1">বেশিরভাগ ক্ষেত্রে ভুল। এই গাইডের সমাধানগুলো — নাম মেলানো, ঠিকানা সংশোধন, স্ট্যাম্প নিশ্চিতকরণ — এমন কাজ যা আপনি ও আপনার নিয়োগকর্তা সরাসরি এবং বিনামূল্যে করতে পারেন।</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">ভুল ধারণা ৩: "বাতিল হলে ফি হারিয়ে যায়।"</strong></p>
+          <p class="mt-1">ভুল। বাতিল হওয়া আবেদনের জন্য মোফা স্বয়ংক্রিয়ভাবে ফি ফেরত দেয়। ভিসা ইস্যু হওয়ার সময়েই কেবল আপনি অর্থ প্রদান করেন।</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">ভুল ধারণা ৪: "উচ্চ বেতন অনুমোদন নিশ্চিত করে।"</strong></p>
+          <p class="mt-1">ভুল। বেতন সাহায্য করে, কিন্তু একটি পরিষ্কার ও সামঞ্জস্যপূর্ণ আবেদনই বেশি গুরুত্বপূর্ণ। অনেক বেশি আয়ের মানুষ একটিমাত্র টাইপোর কারণে বাতিল হন, আর নিখুঁত কাগজপত্র থাকা কম আয়ের মানুষ অনুমোদন পান।</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">ভুল ধারণা ৫: "ইকামা থাকলেই যে কেউ পরিবারের স্পনসর করতে পারে।"</strong></p>
+          <p class="mt-1">ভুল। শুধুমাত্র যোগ্য হিসেবে শ্রেণিবদ্ধ পেশা ও চাকরির স্তরের প্রবাসীরাই নির্ভরশীলদের স্পনসর করতে পারেন। কাগজপত্রে সময় দেওয়ার আগে আপনার পেশাটি যাচাই করুন।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রবাসীদের জন্য বিশেষ বিবেচনা (জিও টার্গেটিং)</h2>
+        <p>
+          আপনার জন্মভূমি নির্ধারণ করে সিস্টেমটি কীভাবে আপনার আবেদনকে দেখে। রাজ্যের সবচেয়ে বড় প্রবাসী সম্প্রদায়গুলোর জন্য নির্দিষ্ট নোট এখানে দেওয়া হলো।
+        </p>
+        <h3>পাকিস্তানি ও ভারতীয় প্রবাসীদের জন্য</h3>
+        <p>
+          অফিসিয়াল ফর্মে যেভাবে প্রদর্শিত হয় সেভাবে পরিভাষাগুলো বুঝেছেন কিনা তা নিশ্চিত করুন: <strong class="text-white">"কাফালা"</strong> (স্পনসরশিপ ব্যবস্থা), <strong class="text-white">"ইকামা বৈধতা"</strong> (ন্যূনতম ৬ মাস) এবং <strong class="text-white">"চেম্বার স্ট্যাম্পিং"</strong> (গুরফাহ প্রক্রিয়া)। পাকিস্তানি ও ভারতীয় আবেদনগুলো সিস্টেমে সবচেয়ে ঘনঘন ঘটে, তাই নামের লিপ্যন্তরের ক্ষেত্রে মিলানোর অ্যালগরিদমগুলো সবচেয়ে কঠোর। নিশ্চিত করুন যে পিতার নামটি সম্পূর্ণরূপে, পাসপোর্টে যেমন আছে হুবহু তেমনিভাবে দেখা যাচ্ছে।
+        </p>
+        <p class="mt-4">
+          বিশেষ করে ভারতীয় প্রবাসীদের জন্য: "আধার বনাম পাসপোর্ট নাম" বিভ্রান্তি অনেক বাতিলের কারণ। পাসপোর্টে যেভাবে ছাপা আছে সেই নামটি ব্যবহার করুন, আধার কার্ডের নয়। পাকিস্তানি প্রবাসীদের জন্য: নিশ্চিত করুন যে আপনার পাসপোর্ট (এনএডিআরএ ইস্যুকৃত) নাম আপনার ভিসা ও ইকামা রেকর্ডের সঙ্গে অক্ষরে অক্ষরে মিলছে।
+        </p>
+        <h3>ফিলিপিনো ও বাংলাদেশি প্রবাসীদের জন্য</h3>
+        <p>
+          প্রতিটি পরিবারের সদস্যের নামের সঠিক বানান <strong class="text-white">পাসপোর্টে যেভাবে আছে</strong> তা যাচাই করুন — যার মধ্যে হাইফেন, মিডল নাম এবং "জুনিয়র" বা "সিনিয়র"-এর মতো প্রত্যয়ও অন্তর্ভুক্ত। এটি এখন এবং পরে উভয় ক্ষেত্রেই গুরুত্বপূর্ণ: ভবিষ্যতের ইমিগ্রেশন ধাপগুলোর জন্য এনবিআই ক্লিয়ারেন্স (ফিলিপিনোদের জন্য) বা পুলিশ ক্লিয়ারেন্স (বাংলাদেশিদের জন্য) অবশ্যই আপনার পরিবারের পাসপোর্ট নামের সঙ্গে মিলতে হবে। আজকের একটি ছোট অসঙ্গতি পরবর্তীকালে ইকামা স্থানান্তর বা আবাসনের জন্য আবেদন করার সময় গুরুতর সমস্যা হয়ে উঠতে পারে।
+        </p>
+        <p class="mt-4">
+          ফিলিপিনো প্রবাসীদের আরও মনে রাখা উচিত যে ফিলিপাইন পাসপোর্টে মায়ের জন্মগত পদবি আলাদাভাবে তালিকাভুক্ত থাকে — মোফা ফর্মের প্রদত্ত-নাম ঘরে সেটি জুড়ে দেবেন না। বাংলাদেশি প্রবাসীদের নিশ্চিত হওয়া উচিত যে পিতার নাম ইংরেজিতে সরকার ইস্যু করা রেকর্ডের সঙ্গে হুবহু মিলছে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (এফএকিউ)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্রশ্ন: সৌদি ফ্যামিলি ভিসা বাতিল হওয়ার সঙ্গে সঙ্গে আমি কি আবার আবেদন করতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ, প্রযুক্তিগতভাবে আপনি যেকোনো সময় আবার আবেদন করতে পারেন। তবে দৃঢ়ভাবে সুপারিশ করা হয় যে ৩-৫ দিন অপেক্ষা করুন এবং আগে মূল কারণটি ঠিক করুন। একই ভুল নিয়ে আবার আবেদন করলে প্রায় নিশ্চিতভাবেই একই বাতিল হবে — এবং আপনার অ্যাকাউন্টে অতিরিক্ত যাচাইয়ের পতাকা উঠতে পারে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্রশ্ন: আমার মোফা ফ্যামিলি ভিজিট ভিসা বাতিল হলে কি রিফান্ড পাব?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। কোনো আবেদন বাতিল হলে মোফা স্বয়ংক্রিয়ভাবে ভিসা ফি ফেরত দেয়। ভিসাটি প্রকৃতপক্ষে ইস্যু হলেই কেবল আপনার চার্জ করা হয়। কয়েক কার্যদিবসের মধ্যে রিফান্ডের জন্য আপনার পরিশোধের মাধ্যমটি দেখুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্রশ্ন: ২০২৬ সালে সৌদি ফ্যামিলি ভিজিট ভিসা কি বন্ধ বা নিষিদ্ধ?</p>
+            <p class="text-gray-400 text-sm mt-1">না। ফ্যামিলি ভিজিট ভিসা সক্রিয় এবং ২০২৬ জুড়ে ইস্যু হচ্ছে। যা পরিবর্তিত হয়েছে তা হলো কঠোর স্বয়ংক্রিয় যাচাইকরণ: নামের হুবহু মিল, ৬ মাসের ইকামা বৈধতার নিয়ম এবং ঠিকানার ক্রস-চেক। ভিসাটি নিষিদ্ধ নয় — নিয়মগুলো কেবল আরও কঠোরভাবে প্রয়োগ করা হচ্ছে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্রশ্ন: ভুলগুলো ঠিক করার পরে ফ্যামিলি ভিজিট ভিসা অনুমোদন হতে কত সময় লাগে?</p>
+            <p class="text-gray-400 text-sm mt-1">নির্ণয় করা ভুলগুলো ঠিক করে আবার আবেদন করার পরে, অনুমোদন সাধারণত ৩-৭ কার্যদিবস লাগে। অনেক ক্ষেত্রে, বৈধ চেম্বার অফ কমার্স স্ট্যাম্পসহ সঠিকভাবে জমা দেওয়া আবেদনগুলো ৪৮ ঘণ্টার মধ্যে অনুমোদিত হয়। মোফা স্ট্যাটাস পেজ এবং আবশের প্রতিদিন চেক করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্রশ্ন: আমার সৌদি ভিসা সপ্তাহের পর সপ্তাহ "প্রক্রিয়াধীন" দেখাচ্ছে কেন?</p>
+            <p class="text-gray-400 text-sm mt-1">দীর্ঘ "প্রক্রিয়াধীন" স্ট্যাটাস সাধারণত দুটি জিনিসের একটিকে বোঝায়: আপনার নিয়োগকর্তা চেম্বার অফ কমার্স স্ট্যাম্প সম্পন্ন করেননি, অথবা কোনো তথ্যগত অসঙ্গতি ম্যানুয়ালি পর্যালোচনা করা হচ্ছে। স্ট্যাম্প সম্পন্ন হয়েছে তা নিশ্চিত করতে আপনার পিআরও-র সঙ্গে যোগাযোগ করুন এবং আরবিতে আপনার প্রোফাইলের ঠিকানা দুবার যাচাই করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্রশ্ন: আমার কোম্পানির পিআরও কি আমার পক্ষে ফ্যামিলি ভিজিট ভিসার আবেদন করতে পারবে?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। আসলে, চেম্বার অফ কমার্স স্ট্যাম্পিং ধাপে নিয়োগকর্তার সম্পৃক্ততা প্রয়োজন, তাই প্রায়শই পিআরও-ই জমা দেয়। তবে ব্যক্তিগত তথ্যের নির্ভুলতার দায়িত্ব এখনও আপনার। এটি মোফায় যাওয়ার আগে জমা দেওয়া ফর্মটি নিজে পর্যালোচনা করুন।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>শেষ কথা: অনুমান করা বন্ধ করুন, ঠিক করা শুরু করুন</h2>
+        <p>
+          উপরের পাঁচটি কারণ সৌদি ফ্যামিলি ভিজিট ভিসা বাতিলের বিশাল সংখ্যাগরিষ্ঠ অংশকে আচ্ছাদন করে। এর কোনো একটির জন্যই দামি এজেন্ট বা অলৌকিক কিছু লাগে না। এগুলোর প্রয়োজন বিস্তারিত বিবরণে মনোযোগ: সঠিক ইকামা পেশা, নিখুঁত নামের বানান, বৈধ চেম্বার স্ট্যাম্প, সঠিক আত্মীয় শ্রেণি এবং আপনার নিয়োগকর্তার নিবন্ধনের সঙ্গে হুবহু মিলে যাওয়া একটি ঠিকানা।
+        </p>
+        <p class="mt-4">
+          আপনি যে সারাংশটির জন্য এসেছিলেন তা এখানে:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">বাতিলের কারণ ১:</strong> ইকামা পেশা — এইচআর-এর সঙ্গে যাচাই করুন, প্রয়োজন হলে সংশোধন করুন।</li>
+          <li><strong class="text-white">বাতিলের কারণ ২:</strong> নাম ও কাগজপত্রে টাইপো — পাসপোর্টের সঙ্গে ঘরে ঘরে হুবহু মেলান।</li>
+          <li><strong class="text-white">বাতিলের কারণ ৩:</strong> চেম্বার স্ট্যাম্প অনুপস্থিত — জমার আগে ও পরে পিআরও-র সঙ্গে নিশ্চিত করুন।</li>
+          <li><strong class="text-white">বাতিলের কারণ ৪:</strong> অযোগ্য আত্মীয় — শুধুমাত্র স্ত্রী/স্বামী, সন্তান বা বাবা-মা।</li>
+          <li><strong class="text-white">বাতিলের কারণ ৫:</strong> ঠিকানার অসামঞ্জস্য — মোফা প্রোফাইলকে আরবিতে চেম্বার নিবন্ধনের সঙ্গে মেলান।</li>
+        </ul>
+        <p class="mt-4">
+          আপনার যোগ্যতা নিয়ে অনুমান করবেন না। আবেদনের আগে আপনার ইকামা পেশা ও নির্ভরশীল ফি যাচাই করতে <a href="/family-visa-optimizer" class="text-desert-primary underline">সৌদিটুলহাব ফ্যামিলি ভিসা অপটিমাইজার</a> ব্যবহার করুন। আর নির্ভরশীল ফিগুলোর সম্পূর্ণ বিবরণের জন্য, আমাদের{' '}
+          <a href="/guide/family-visa-dependent-fee-calculator-saudi-arabia-2026" class="text-desert-primary underline">ফ্যামিলি ভিসা ডিপেন্ডেন্ট ফি ক্যালকুলেটর গাইড ২০২৬</a>{' '}
+          পড়ুন।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার ফ্যামিলি ভিসার যোগ্যতা যাচাই করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — পেশা যাচাই, নির্ভরশীল ফি ও ইকামা বৈধতা এক জায়গায়</p>
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">বিনামূল্যের ফ্যামিলি ভিসা অপটিমাইজার ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই গাইডটি পররাষ্ট্র মন্ত্রণালয়ের (মোফা) বর্তমান নিয়মের ভিত্তিতে শুধুমাত্র তথ্যগত উদ্দেশ্যে। নিয়ম পরিবর্তন হতে পারে। অফিসিয়াল মোফা ভিসা প্ল্যাটফর্মে (visa.mofa.gov.sa) সর্বদা আপনার নির্দিষ্ট ক্ষেত্রটি যাচাই করুন।
+        </p>
+      </div>
+    ` }
+  },
 ]
