@@ -8,7 +8,6 @@ import { Calculator, Shield, Zap, Globe, ChevronRight, Search, X } from 'lucide-
 import { GlassCard } from '@/components/GlassCard'
 
 const HeroSection = dynamic(() => import('@/components/HeroSection').then(module => ({ default: module.HeroSection })), {
-  ssr: false,
   loading: () => <div className="min-h-[90vh] flex items-center justify-center" />,
 })
 
@@ -96,7 +95,7 @@ export default function HomePage() {
       <HeroSection />
 
       {/* Live Stats */}
-      <section className="px-4 py-16">
+      <section className="content-visibility-auto px-4 py-16">
         <div className="mx-auto max-w-6xl">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             <div className="text-center">
@@ -120,7 +119,7 @@ export default function HomePage() {
       </section>
 
       {/* Search Bar */}
-      <section className="px-4 py-12">
+      <section className="content-visibility-auto px-4 py-12">
         <div className="w-full max-w-2xl mx-auto mb-12">
           <div className="relative">
             <input
@@ -157,7 +156,7 @@ export default function HomePage() {
       </section>
 
       {/* Categories Grid */}
-      <section id="categories" className="px-4 py-20">
+      <section id="categories" className="content-visibility-auto px-4 py-20">
         <div className="mx-auto max-w-6xl">
           <h2 className="text-3xl font-bold text-white text-center mb-3">
             {t('categories.title')}
@@ -213,7 +212,7 @@ export default function HomePage() {
       </section>
 
       {/* Why Choose Us */}
-      <section className="px-4 py-20">
+      <section className="content-visibility-auto px-4 py-20">
         <div className="mx-auto max-w-6xl">
           <h2 className="text-3xl font-bold text-white text-center mb-12">
             {t('whyChooseUs.title')}
@@ -237,7 +236,7 @@ export default function HomePage() {
       </section>
 
       {/* Testimonials */}
-      <section className="px-4 py-16">
+      <section className="content-visibility-auto px-4 py-16">
         <div className="mx-auto max-w-6xl">
           <h2 className="text-3xl font-bold text-white text-center mb-12">
             {t('testimonials.title')}
@@ -279,7 +278,7 @@ export default function HomePage() {
       </section>
 
       {/* CTA */}
-      <section className="px-4 py-20">
+      <section className="content-visibility-auto px-4 py-20">
         <div className="mx-auto max-w-3xl glass p-12 text-center border-desert-primary/20 transition-all duration-300 hover:shadow-[0_0_40px_rgba(0,212,170,0.1)]">
           <h2 className="text-3xl font-bold text-white mb-3">
             {t('cta.title')}

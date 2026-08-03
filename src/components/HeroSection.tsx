@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef, useState, useCallback } from 'react'
+import { useEffect, useRef, useState, useCallback, useSyncExternalStore } from 'react'
 import { motion, useAnimationFrame, useMotionValue, useSpring } from 'framer-motion'
 import {
   Shield,
@@ -16,6 +16,20 @@ import { useTranslations } from 'next-intl'
 import { useRouter } from 'next/navigation'
 import { cn } from '@/lib/utils'
 
+function subscribeTouch(cb: () => void) {
+  const mq = window.matchMedia('(hover: none)')
+  mq.addEventListener('change', cb)
+  return () => mq.removeEventListener('change', cb)
+}
+
+function useIsTouch() {
+  return useSyncExternalStore(
+    subscribeTouch,
+    () => typeof window !== 'undefined' && window.matchMedia('(hover: none)').matches,
+    () => false
+  )
+}
+
 function useMousePosition() {
   const x = useMotionValue(0.5)
   const y = useMotionValue(0.5)
@@ -24,7 +38,7 @@ function useMousePosition() {
       x.set(e.clientX / window.innerWidth)
       y.set(e.clientY / window.innerHeight)
     }
-    window.addEventListener('mousemove', handler)
+    window.addEventListener('mousemove', handler, { passive: true })
     return () => window.removeEventListener('mousemove', handler)
   }, [x, y])
   return { x, y }
@@ -218,6 +232,7 @@ function RippleButton({
 
 export function HeroSection() {
   const t = useTranslations('Hero')
+  const isTouch = useIsTouch()
 
   return (
     <section className="relative flex min-h-[90vh] flex-col items-center justify-center overflow-hidden px-4 pt-20">
@@ -235,13 +250,10 @@ export function HeroSection() {
           </span>
         </motion.div>
 
-        {/* Title */}
-        <motion.h1
-          variants={itemVariants}
-          className="mx-auto max-w-5xl bg-gradient-to-r from-teal-400 via-amber-400 to-teal-400 bg-[length:200%_auto] bg-clip-text text-5xl font-bold leading-tight text-transparent animate-gradient-shift sm:text-6xl md:text-7xl lg:text-8xl"
-        >
+        {/* Title - LCP element: rendered statically for instant paint */}
+        <h1 className="mx-auto max-w-5xl bg-gradient-to-r from-teal-400 via-amber-400 to-teal-400 bg-[length:200%_auto] bg-clip-text text-5xl font-bold leading-tight text-transparent sm:text-6xl md:text-7xl lg:text-8xl">
           {t('title') || "Saudi Arabia's #1 Free Expat & Business Calculator Hub 2026"}
-        </motion.h1>
+        </h1>
 
         {/* Subtitle */}
         <motion.p
@@ -301,46 +313,58 @@ export function HeroSection() {
       </motion.div>
 
       {/* Floating Elements */}
-      <FloatingIcon Icon={Calculator} x={0.08} y={0.25} delay={0.4} size={28} />
-      <FloatingIcon Icon={Calculator} x={0.92} y={0.2} delay={0.8} size={22} />
-      <FloatingIcon Icon={Globe} x={0.05} y={0.65} delay={1} size={20} />
-      <FloatingIcon Icon={Zap} x={0.94} y={0.7} delay={0.5} size={24} rotate={false} />
+      {!isTouch && (
+        <>
+          <FloatingIcon Icon={Calculator} x={0.08} y={0.25} delay={0.4} size={28} />
+          <FloatingIcon Icon={Calculator} x={0.92} y={0.2} delay={0.8} size={22} />
+          <FloatingIcon Icon={Globe} x={0.05} y={0.65} delay={1} size={20} />
+          <FloatingIcon Icon={Zap} x={0.94} y={0.7} delay={0.5} size={24} rotate={false} />
+        </>
+      )}
 
       {/* Geometric Shapes */}
-      <GeometricShape shape="hex" x={0.15} y={0.75} delay={0.6} size={32} />
-      <GeometricShape shape="circle" x={0.85} y={0.35} delay={0.9} size={28} />
-      <GeometricShape shape="square" x={0.03} y={0.45} delay={1.1} size={24} />
-      <GeometricShape shape="circle" x={0.97} y={0.55} delay={0.7} size={36} />
+      {!isTouch && (
+        <>
+          <GeometricShape shape="hex" x={0.15} y={0.75} delay={0.6} size={32} />
+          <GeometricShape shape="circle" x={0.85} y={0.35} delay={0.9} size={28} />
+          <GeometricShape shape="square" x={0.03} y={0.45} delay={1.1} size={24} />
+          <GeometricShape shape="circle" x={0.97} y={0.55} delay={0.7} size={36} />
+        </>
+      )}
 
       {/* SAR symbols */}
-      <motion.div
-        className="pointer-events-none absolute z-10 text-2xl font-bold text-amber-400/15"
-        style={{ left: '20%', top: '35%' }}
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.6, delay: 1.2 }}
-      >
-        <motion.span
-          animate={{ y: [0, -15, 0], rotate: [0, 5, -5, 0] }}
-          transition={{ duration: 5, repeat: Infinity, ease: 'easeInOut' }}
-        >
-          ﷼
-        </motion.span>
-      </motion.div>
-      <motion.div
-        className="pointer-events-none absolute z-10 text-3xl font-bold text-teal-400/15"
-        style={{ left: '78%', top: '60%' }}
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.6, delay: 1.5 }}
-      >
-        <motion.span
-          animate={{ y: [0, -12, 0], rotate: [0, -5, 5, 0] }}
-          transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
-        >
-          ﷼
-        </motion.span>
-      </motion.div>
+      {!isTouch && (
+        <>
+          <motion.div
+            className="pointer-events-none absolute z-10 text-2xl font-bold text-amber-400/15"
+            style={{ left: '20%', top: '35%' }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.6, delay: 1.2 }}
+          >
+            <motion.span
+              animate={{ y: [0, -15, 0], rotate: [0, 5, -5, 0] }}
+              transition={{ duration: 5, repeat: Infinity, ease: 'easeInOut' }}
+            >
+              ﷼
+            </motion.span>
+          </motion.div>
+          <motion.div
+            className="pointer-events-none absolute z-10 text-3xl font-bold text-teal-400/15"
+            style={{ left: '78%', top: '60%' }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.6, delay: 1.5 }}
+          >
+            <motion.span
+              animate={{ y: [0, -12, 0], rotate: [0, -5, 5, 0] }}
+              transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
+            >
+              ﷼
+            </motion.span>
+          </motion.div>
+        </>
+      )}
 
       {/* Scroll Indicator */}
       <motion.div

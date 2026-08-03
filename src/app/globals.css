@@ -154,3 +154,24 @@
     transition: none !important;
   }
 }
+
+/* Faster tap response on mobile */
+a, button, input, select, textarea {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Defer rendering of below-the-fold content */
+.content-visibility-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 500px;
+}
+
+/* Mobile: disable heavy/non-composited animations to cut jank & main-thread work */
+@media (max-width: 768px) {
+  .animate-gradient-shift,
+  .animate-gradient-rotate,
+  .animate-ripple {
+    animation: none !important;
+  }
+}

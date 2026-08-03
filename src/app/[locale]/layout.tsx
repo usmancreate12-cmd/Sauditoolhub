@@ -129,6 +129,10 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={isRtl ? 'rtl' : 'ltr'} className="dark">
       <body className={`min-h-dvh bg-[#0A0E1A] text-gray-100 antialiased ${poppins.variable} ${tajawal.variable} ${harmattan.variable}`}>
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://scripts.clarity.ms" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://scripts.clarity.ms" />
         <JsonLd data={organizationSchema} />
         <JsonLd data={websiteSchema} />
         <AnalyticsScripts />
