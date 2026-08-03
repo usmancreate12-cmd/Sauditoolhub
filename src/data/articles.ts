@@ -7298,4 +7298,1769 @@ export const articles: Article[] = [
       </div>
     ` }
   },
+  {
+    slug: 'how-to-improve-dbr-debt-burden-ratio-sama-loan-ksa-2026',
+    category: 'finance',
+    readTime: '11 min read',
+    date: '2026-08-03',
+    title: { en: 'How to Improve Your DBR for SAMA Loan Approval in KSA (2026)', ar: 'كيف تحسّن نسبة العبء التمويلي (DBR) للحصول على موافقة البنك المركزي السعودي (2026)', ur: 'سعودی عرب میں SAMA قرض کی منظوری کے لیے اپنا DBR (Debt Burden Ratio) کیسے بہتر بنائیں (2026)', tl: 'Paano Babaan ang DBR (Debt Burden Ratio) para sa SAMA Loan Approval sa KSA (2026)', bn: 'কিভাবে DBR (Debt Burden Ratio) কমানো যায় SAMA ঋণ অনুমোদনের জন্য সৌদি আরবে (২০২৬)' },
+    description: { en: 'Loan rejected due to high DBR? Learn 5 proven ways to lower your Debt Burden Ratio, fix your SIMAH report, and get your SAMA bank loan approved in 2026.', ar: 'هل رُفض قرضك بسبب ارتفاع نسبة العبء التمويلي؟ تعرّف على 5 طرق مثبتة لخفض DBR وتنظيف سجلك في سمة والحصول على موافقة قرضك في 2026.', ur: 'کیا زیادہ DBR کی وجہ سے آپ کا قرض ریجیکٹ ہوا؟ DBR کم کرنے، SIMAH رپورٹ ٹھیک کرنے اور 2026 میں SAMA قرض کی منظوری کے 5 طریقے جانیں۔', tl: 'Na-reject ang loan mo dahil sa mataas na DBR? Matutunan ang 5 paraan para ibaba ang Debt Burden Ratio, ayusin ang SIMAH report, at maaprubahan ang SAMA bank loan mo sa 2026.', bn: 'উচ্চ DBR-এর কারণে আপনার ঋণ প্রত্যাখ্যাত? Debt Burden Ratio কমানোর ৫টি উপায়, SIMAH রিপোর্ট ঠিক করা এবং ২০২৬ সালে SAMA ঋণ অনুমোদনের উপায় জেনে নিন।' },
+    content: { en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">SAMA Loan Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">How to Improve Your DBR (Debt Burden Ratio) for SAMA Loan Approval in KSA (2026 Guide)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">A no-nonsense, bank-officer breakdown of exactly how to lower your Debt Burden Ratio, clean up your SIMAH report, and get your SAMA-regulated loan approved in 2026.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Your Loan Was Rejected — Here Is Why, and How to Fix It</h2>
+        <p>
+          You have the salary. You have the job stability. You have been saving for months. And then the bank says no — usually with one vague line: "Your Debt Burden Ratio exceeds the approved limit." No explanation. No guidance. Just a closed door, right when you needed the money most.
+        </p>
+        <p class="mt-4">
+          You are not alone, and this is not the end of the road. <strong class="text-desert-primary">A high DBR is the single most common reason personal, auto, and home loans get rejected for expats in Saudi Arabia</strong> — and in most cases, it is fully fixable within weeks.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direct answer:</strong> SAMA regulations cap your Debt Burden Ratio (DBR) at roughly 33% to 45% of your basic salary. If your DBR is too high, you can lower it by paying off small debts, adding a co-signer, updating your salary certificate, or correcting errors on your SIMAH report.
+        </p>
+        <p class="mt-4">
+          Most rejections are caused by a handful of silent problems, not by your actual ability to pay. This guide is written the way a bank loan officer would explain it to you across the desk: plain numbers, clear steps, and zero guesswork.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">What you will get from this guide:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>A plain-language explanation of what DBR is and how SAMA banks calculate it.</li>
+            <li>The 5 proven ways to lower your DBR before you reapply.</li>
+            <li>The hidden DBR killers that hit South Asian, Filipino, and other expat communities specifically.</li>
+            <li>A step-by-step SIMAH report check-and-fix plan, with exact numbers.</li>
+            <li>Direct answers to the most-asked DBR questions for 2026.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Before you do anything else, check your exact position with our free{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">SAMA Loan Calculator</a> — it shows your current DBR and maximum loan amount in under a minute.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What Is DBR and Why SAMA Banks Care</h2>
+        <p>
+          Debt Burden Ratio (DBR) is the percentage of your monthly income already committed to paying off debt. Banks use it to decide whether you can afford one more loan without drowning in monthly installments. It is the single number that determines how much a Saudi bank will lend you — not your salary alone.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The DBR formula:</strong></p>
+          <p class="mt-2 font-mono text-white">(Total Monthly Debt Obligations ÷ Total Monthly Income) × 100 = DBR%</p>
+          <p class="mt-2">Example: If your basic salary is SAR 10,000 and your existing monthly obligations are SAR 4,000, your DBR is (4,000 ÷ 10,000) × 100 = <strong class="text-desert-primary">40%</strong>.</p>
+        </div>
+        <p>
+          In simple terms: the lower your DBR, the more capacity the bank sees for a new monthly installment. That is why the ratio matters more than your total salary. A person earning SAR 25,000 with no debts can borrow more than someone earning SAR 35,000 who already owes half of it.
+        </p>
+        <p class="mt-4">
+          SAMA requires banks to be strict here for your own protection. Consumer finance regulations exist so that no customer is pushed into installments they cannot actually service. When a bank applies the DBR ceiling, it is not punishing you — it is obeying a rule designed to stop over-indebtedness. That rule works in your favor once you learn how to play it correctly.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">The SAMA rule:</strong> The Saudi Central Bank (SAMA) sets the ceiling. Under current consumer finance regulations, banks in Saudi Arabia generally do not approve a loan if your total DBR would exceed <strong class="text-desert-primary">45%</strong> — and many banks apply a stricter <strong class="text-desert-primary">33%</strong> to 35% ceiling for certain expat categories, new-to-bank customers, or specific product lines.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">DBR Band</th>
+                <th class="text-left py-2">What It Means</th>
+                <th class="text-left py-2">Approval Likelihood</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Below 33%</td><td class="py-2">Strong capacity, low risk</td><td class="py-2 text-green-400">High — smooth approval</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">33% – 45%</td><td class="py-2">At or near many banks' ceilings</td><td class="py-2 text-yellow-400">Borderline — bank-by-bank</td></tr>
+              <tr><td class="py-2">Above 45%</td><td class="py-2">Over the SAMA ceiling</td><td class="py-2 text-red-400">Rejected at most banks</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>What Counts as "Monthly Income" in the DBR Calculation</h3>
+        <p>
+          Banks calculate your DBR against your <strong class="text-white">basic salary as recorded by the bank</strong> — not your take-home pay. Allowances like housing, transport, or overtime only count if your employer officially registers them on your salary certificate and with the bank. Money that simply appears in your account is ignored.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Counts:</strong> basic salary, registered fixed allowances (housing, transport, living), and any income formally reported to the bank.</li>
+          <li><strong>Does not count:</strong> overtime, one-off bonuses, freelance income, and cash that arrives without an official payroll record.</li>
+        </ul>
+        <p>
+          This is the first place expats get stuck: their actual income is higher than what the bank sees. Fixing that mismatch is one of the fastest wins in this guide.
+        </p>
+        <h3>What Counts as "Monthly Obligations"</h3>
+        <p>
+          The obligation side is wider than most people expect. Saudi banks include every recurring payment that appears on your credit file — not just the loans you think of as "real debt."
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Credit card minimum payments</strong> — often calculated as a percentage of your total card limit, even if you carry no balance.</li>
+          <li><strong>Personal loan installments</strong> — including the loan you are applying for.</li>
+          <li><strong>Auto loan installments</strong> — active car financing.</li>
+          <li><strong>Mortgage / REAL installments</strong> — home financing payments.</li>
+          <li><strong>Co-signed loans you guarantee</strong> — if you are a co-signer on someone else's loan, it is counted against you.</li>
+          <li><strong>BNPL plans reported to SIMAH</strong> — Tabby, Tamara, and similar installment plans when the provider reports them.</li>
+        </ul>
+        <p>
+          Notice what is on the list: it is about committed, recurring payments that the bank can verify. This is why a zero-balance credit card still hurts you — the bank does not trust your current balance, it uses the card's potential burden. Closing the card removes that burden completely.
+        </p>
+        <p class="mt-4">
+          Every one of these reduces the room you have for a new installment. The good news: most of them are within your control, and clearing them has an immediate effect on your ratio.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>A Full DBR Worked Example (Copy This Math)</h2>
+        <p>
+          Let us walk through a realistic expat profile so you can see exactly how the numbers move. We will use a basic salary of SAR 14,000 and a mix of typical obligations.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Step</th>
+                <th class="text-left py-2">Item</th>
+                <th class="text-left py-2">Monthly Amount</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">1</td><td class="py-2">Basic salary (bank record)</td><td class="py-2">SAR 14,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">2</td><td class="py-2">Credit card #1 (SAR 20,000 limit, 3% minimum)</td><td class="py-2">SAR 600</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">3</td><td class="py-2">Credit card #2 (SAR 10,000 limit, 3% minimum)</td><td class="py-2">SAR 300</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">4</td><td class="py-2">Personal loan installment</td><td class="py-2">SAR 2,100</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">5</td><td class="py-2">Active BNPL plans (Tabby/Tamara)</td><td class="py-2">SAR 750</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">6</td><td class="py-2">Total monthly obligations</td><td class="py-2 text-desert-primary">SAR 3,750</td></tr>
+              <tr><td class="py-2">7</td><td class="py-2">Current DBR (3,750 ÷ 14,000)</td><td class="py-2 text-red-400">26.8%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          At 26.8% this profile looks healthy. Now add the new loan you want: a SAR 120,000 personal loan at roughly 3,700 SAR per month over 36 months.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">New DBR after the loan:</strong> (3,750 + 3,700) ÷ 14,000 = 53.2% — <strong class="text-red-400">rejected</strong>, because it is far above the 45% ceiling.</p>
+          <p class="mt-2"><strong class="text-white">If you clear the two credit cards and the BNPL first:</strong> (0 + 0 + 2,100 + 0 + 3,700) ÷ 14,000 = 41.4% — <strong class="text-green-400">approvable</strong> at most banks.</p>
+        </div>
+        <p class="mt-4">
+          This is the entire game in one example: <strong class="text-white">freeing monthly capacity of a few hundred Riyals can be the difference between "rejected" and "approved."</strong> Small obligations look harmless until the bank adds your new installment on top of them.
+        </p>
+        <p class="mt-4">
+          Notice how nothing about your salary changed in this example. The income stayed at SAR 14,000 the whole time. What changed was the debt side of the equation — and that is exactly the point: <strong class="text-white">your DBR is a ratio you can move by reducing obligations, not just by earning more.</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Top 5 Proven Ways to Lower Your DBR Before Applying</h2>
+        <p>
+          These five moves are the exact steps a seasoned Saudi loan officer would walk you through. Do them in order, and watch your DBR percentage drop before your eyes.
+        </p>
+        <h3>1. Pay Off Small Credit Cards or Personal Loans</h3>
+        <p>
+          The fastest way to lower your DBR is to eliminate small, high-interest obligations first. Banks count a credit card against you based on its <strong class="text-white">monthly minimum payment</strong> — or in some cases, a fixed percentage of the limit — even if you carry no balance at all.
+        </p>
+        <p class="mt-4">
+          Close the smallest cards entirely, not just pay them down. A card with a SAR 5,000 limit can be treated as a SAR 250–500 monthly obligation on paper, which quietly steals from your approval capacity. Settle it, cancel it, and get written proof of closure from the issuing bank.
+        </p>
+        <p class="mt-4">
+          Pay off debts in order of smallest-to-largest (the "snowball" method). Every card you close is a permanent monthly obligation removed from your file. Do not open replacement cards afterward — a new card re-adds the same obligation and triggers a fresh credit inquiry.
+        </p>
+        <p class="mt-4">
+          Expect the closure to take time to reflect. Banks report account closures to SIMAH on their own schedule, usually within 30 to 60 days. Do not apply for your loan the day after you pay off a card — wait until the closure appears on your SIMAH report, or the bank will still see the old obligation.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Real example:</strong> An expat with SAR 12,000 basic salary had two credit cards (SAR 15,000 and SAR 8,000 limits) and one small SAR 20,000 personal loan. Paper DBR looked like 46% — rejected. He closed both cards and paid off the loan. New DBR: 29%. Approved on the next attempt at a better rate.</p>
+        </div>
+        <h3>2. Add a Co-Signer (Kafeel) with High Income</h3>
+        <p>
+          If your income alone cannot get you under the ceiling, add a co-signer. A spouse or immediate family member with a strong Iqama and a higher salary can be added to the application, and their income is combined with yours for the DBR calculation.
+        </p>
+        <p class="mt-4">
+          Not every bank offers co-signing for expats, so ask your loan officer directly. The co-signer must typically be employed in the Kingdom, have a valid Iqama with sufficient remaining validity, and pass the same credit check. Both of you share the repayment obligation legally, so the co-signer must fully understand the commitment.
+        </p>
+        <p class="mt-4">
+          The co-signer's own debts still count, which means the combined DBR is what matters. Choose a co-signer with a clean SIMAH report and low personal obligations — a high salary alone is not enough if they already carry heavy debt.
+        </p>
+        <p class="mt-4">
+          Have the co-signer bring their Iqama, a recent salary certificate, and proof of employment. Ask the bank in writing whether co-signing is available for your product and whether it truly combines income or simply guarantees the loan. The two options work very differently for your DBR.
+        </p>
+        <h3>3. Request a Salary Certificate Update</h3>
+        <p>
+          This is the most overlooked fix in the entire system. If you received a raise, a promotion, or a new fixed allowance and your employer has not updated your <strong class="text-white">salary certificate (تعريف بالراتب)</strong>, the bank still sees your old, lower income — and your DBR looks artificially high.
+        </p>
+        <p class="mt-4">
+          Ask your HR department for a fresh salary certificate that reflects your current basic salary and all registered allowances. Then ensure the updated figure is submitted to your bank's HR/Finance portal — many Saudi banks pull salary data directly from the employer's payroll system, so the bank must receive the updated record on its side too.
+        </p>
+        <p class="mt-4">
+          The math is immediate and purely on paper: a SAR 1,000 raise on a SAR 10,000 salary drops a 45% DBR to roughly 41%. It costs nothing, takes days, and can lift your entire borrowing capacity.
+        </p>
+        <p class="mt-4">
+          A word of caution: some banks only consider <strong class="text-white">basic salary</strong> for expats, while others accept registered allowances too. Ask your loan officer which figure they use before you rely on the update. And if your employer pays you partially in cash, that portion will not appear in the bank's records no matter what the certificate says.
+        </p>
+        <h3>4. Clear SIMAH Defaults or Errors</h3>
+        <p>
+          Your SIMAH credit report is the single document that decides your loan. Unpaid utility bills — old STC internet lines, SEC electricity bills, or a forgotten postpaid phone account — can appear on SIMAH as small defaults and inflate your risk profile out of proportion to the amount owed.
+        </p>
+        <p class="mt-4">
+          The scary part is that many expats do not even know these accounts exist until the loan is rejected. Settle any outstanding balances, get the closure documented, and give SIMAH the 30–60 days it typically needs to update your record after payment. Section 4 of this guide walks you through the full check-and-fix process.
+        </p>
+        <p class="mt-4">
+          A SIMAH default does more than raise your DBR — it damages your whole credit assessment. Banks review defaults separately from your ratio, so a small unpaid STC bill can sink an application that looks perfect on paper. The good news is that a cleared and documented default is far easier to explain than a current one.
+        </p>
+        <h3>5. Avoid New Credit Inquiries</h3>
+        <p>
+          Every time you apply for a loan, credit card, or even a BNPL service that reports to SIMAH, an inquiry appears on your record. A cluster of inquiries in a short period signals financial distress, and each one can temporarily shave points off your credit assessment.
+        </p>
+        <p class="mt-4">
+          Practical rule: stop applying for new credit at least <strong class="text-white">30 to 90 days</strong> before your loan application. Do not "shop around" by submitting full applications to five banks. Instead, use pre-approval tools and our calculator to shortlist one or two banks, then apply cleanly once your DBR and SIMAH report are in order.
+        </p>
+        <p class="mt-4">
+          A single inquiry is not fatal. A pattern of several inquiries across different banks in the same month is what raises red flags — and it can also tell the bank you have been turned down elsewhere.
+        </p>
+        <p class="mt-4">
+          Understand the difference between a hard and a soft check. A soft check — like using our calculator or asking a bank for a pre-approval — does not leave a mark. A hard check, made when you submit a full application, does. Use soft checks freely to shortlist, and spend your hard checks carefully.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Hidden DBR Killers for Expats in Saudi Arabia (GEO Targeting)</h2>
+        <p>
+          Your home country shapes the debts and reporting quirks that catch expats off guard. These are the specific traps for the largest expat communities in the Kingdom.
+        </p>
+        <h3>For South Asian Expats (Pakistan / India / Bangladesh)</h3>
+        <p>
+          Good news first: <strong class="text-white">frequent international remittances do not count toward your DBR.</strong> Sending money home to support family does not appear as a monthly obligation in SAMA calculations — so you are not penalized for helping your family.
+        </p>
+        <p class="mt-4">
+          The trap is local. <strong class="text-white">"Buy Now, Pay Later" (BNPL) services like Tabby and Tamara do count against your DBR when they are reported to SIMAH.</strong> A SAR 400 dress split into four installments looks small — but a few active BNPL plans can add SAR 500–1,500 of hidden monthly obligations that push you over the limit.
+        </p>
+        <p class="mt-4">
+          Practical advice: pause BNPL usage for 2–3 months before applying, or clear outstanding installments entirely. They are silent DBR killers precisely because they feel like "not real debt." Check your SIMAH report to see which BNPL providers actually report your plans.
+        </p>
+        <p class="mt-4">
+          For Bangladeshi expats specifically: remittance habits are not a factor, but some local providers report installment plans just like credit cards. Treat every active "pay later" plan as a real monthly obligation, because that is exactly how the bank's system will treat it.
+        </p>
+        <h3>For Filipino Expats</h3>
+        <p>
+          The number one issue for OFWs is a mismatch between your <strong class="text-white">POEA-verified contract salary</strong> and what the Saudi bank has on file. If your contract says SAR 7,000 but the bank's system shows SAR 5,500 — because your employer under-reported, or the salary certificate was never updated — your DBR is calculated on the wrong, lower figure.
+        </p>
+        <p class="mt-4">
+          Fix it by bringing your employment contract, your POEA/DMW-verified documents, and your latest salary certificate to the bank together. Ask the bank to update your registered salary, and have your employer confirm the figure through their payroll system. A correct income figure is worth thousands of Riyals of extra borrowing capacity.
+        </p>
+        <p class="mt-4">
+          The same lesson applies to every nationality: always verify that the bank's record of your salary matches your contract — not your memory of it. A salary mismatch is the quietest DBR killer of all, because nothing about it appears on your SIMAH report and you never see the wrong number until the rejection letter arrives.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: How to Check and Fix Your SIMAH Report</h2>
+        <p>
+          Your SIMAH report is the single most important document in your loan file. Here is exactly how to check it, read it, and fix it before you walk into a bank.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Download the SIMAH app</strong> (or visit simah.com) and register with your Iqama number and registered mobile.</li>
+          <li><strong>Request your credit report.</strong> Every individual is entitled to one free credit report per year in Saudi Arabia.</li>
+          <li><strong>Check for "Late Payment" flags.</strong> Look at every account line: installment amounts, current balances, and any payment status marked as late, overdue, or defaulted.</li>
+          <li><strong>Identify unknown accounts.</strong> Old utility lines, dormant postpaid plans, or accounts you forgot you opened will appear here. Note the reference numbers.</li>
+          <li><strong>File a dispute directly through SIMAH</strong> for anything that is wrong, duplicated, or no longer yours. Provide supporting documents (settlement letters, closure confirmations, passport or Iqama copy).</li>
+          <li><strong>Wait and re-verify.</strong> Corrections typically take 30–60 days to reflect. Pull your report again and confirm every line is accurate before applying.</li>
+        </ol>
+        <h3>How to Read the Three Key Sections of Your Report</h3>
+        <p>
+          Your SIMAH report is not one long list. It has clear sections, and each one matters differently to the bank.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Credit summary:</strong> your total number of accounts, total outstanding balances, and your overall credit history age. This is the first thing a loan officer scans.</li>
+          <li><strong>Account details:</strong> every loan, card, and reported BNPL plan with its monthly installment, current balance, and payment status.</li>
+          <li><strong>Inquiries:</strong> every time a bank or finance company pulled your report. A long list here is a red flag.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Pro tip:</strong> Take a screenshot of your SIMAH report and read it out loud to a friend. Reading the numbers aloud forces you to actually see them — most expats discover the rejection-causing detail only when they slow down and look.</p>
+        </div>
+        <p class="mt-4">
+          If you find a legitimate default that is truly yours, do not panic. Pay it in full, obtain written settlement proof, and wait for the update. One cleared default is far less damaging than an unpaid one that keeps aging on your file.
+        </p>
+        <p class="mt-4">
+          Timing matters: SIMAH updates are not instant. Plan your loan application at least 60 days after you settle any disputed or defaulted account, so the corrected report is what the bank pulls.
+        </p>
+        <p class="mt-4">
+          If your bank pulled your report before the correction was applied, do not be afraid to ask them to re-check. A loan officer who sees a fresh, clean report after a dispute resolution is usually happy to reconsider a borderline application — especially when you arrive with the SIMAH dispute reference in hand.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>How Much Can You Borrow After Fixing Your DBR?</h2>
+        <p>
+          Once your DBR is under the ceiling, the bank calculates your maximum loan from your free monthly capacity. The math is simple, even if the exact rate varies by bank.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Free monthly capacity = (allowed DBR % − your current DBR %) × basic salary</strong></p>
+          <p class="mt-2">Example: bank ceiling 45%, your DBR now 25%, basic salary SAR 12,000 → (45% − 25%) × 12,000 = SAR 2,400 of new monthly installment capacity.</p>
+        </div>
+        <p>
+          That SAR 2,400 of capacity converts into a loan size based on the term and rate. A longer term means a lower monthly installment for the same amount borrowed, which is why the term you choose directly affects how much you can take.
+        </p>
+        <p class="mt-4">
+          Every bank uses slightly different pricing and rules, so do not treat a rough figure as final. Our free{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">SAMA Loan Calculator</a>{' '}
+          does this conversion for you and shows the maximum loan amount for your exact salary and obligations.
+        </p>
+        <p class="mt-4">
+          Two practical notes: most expat personal loans in the Kingdom run 12 to 60 months, and banks usually price more favorably when your salary is transferred to an account at the lending bank itself. Both factors change the loan size you can realistically be approved for.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What is the maximum DBR allowed for expats in Saudi Arabia in 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">The SAMA ceiling is generally 45%, but many banks apply a stricter 33%–35% limit for expats and specific products. The exact figure depends on your bank and loan type.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Does Tabby or Tamara affect my SAMA loan DBR?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes, if your BNPL plan is reported to SIMAH. Each active installments plan can add a monthly obligation that raises your DBR, so clear them before applying.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can I get a SAMA loan if my DBR is exactly 45%?</p>
+            <p class="text-gray-400 text-sm mt-1">Possibly, but you are at the very edge of the ceiling. Most banks approve more comfortably at or below 40%, and some product lines cap at 33%–35%.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How long does it take for a paid-off debt to reflect on my SIMAH report?</p>
+            <p class="text-gray-400 text-sm mt-1">Typically 30 to 60 days after settlement, depending on when the creditor reports the update. Confirm closure in writing and re-pull your report before applying.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Do allowances like housing count toward my DBR income?</p>
+            <p class="text-gray-400 text-sm mt-1">Only if your employer officially registers them on your salary certificate and with the bank. Unregistered allowances are ignored, which artificially inflates your DBR.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can a co-signer really reduce my DBR?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. When a bank allows co-signing, the co-signer's income is combined with yours, lowering your combined DBR. Confirm your bank offers it for expat loans first.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Final Word: Lowering Your DBR Is Strategy, Not Luck</h2>
+        <p>
+          Here is the summary you came for. Lowering your DBR is about strategic financial management, not just earning more. You do not need a miracle — you need the right sequence:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">Pay off and close</strong> small cards and loans to free monthly capacity.</li>
+          <li><strong class="text-white">Add a co-signer</strong> if your income alone falls short.</li>
+          <li><strong class="text-white">Update your salary certificate</strong> so the bank sees your real income.</li>
+          <li><strong class="text-white">Clear SIMAH defaults</strong> — especially hidden utility bills and BNPL plans.</li>
+          <li><strong class="text-white">Stop new credit inquiries</strong> 30–90 days before you apply.</li>
+        </ul>
+        <p class="mt-4">
+          Follow that order, fix your report, and your next application stands a realistic chance of approval at a better rate.
+        </p>
+        <p class="mt-4">
+          For a complete breakdown of loan types and requirements, read our{' '}
+          <a href="/guide/sama-loan-calculator-saudi-arabia-2026" class="text-desert-primary underline">SAMA Loan Eligibility &amp; DBR Calculator Guide 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Check Your Exact DBR and Loan Amount Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — salary, obligations, and maximum loan amount in one place</p>
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">Use the Free SAMA Loan Calculator</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on current Saudi Central Bank (SAMA) regulations. Individual bank policies may vary. Always consult with your bank's loan officer for official financial advice.
+        </p>
+      </div>
+    `, ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل قروض البنك المركزي</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">كيف تحسّن نسبة العبء التمويلي (DBR) للحصول على موافقة البنك المركزي السعودي في السعودية (دليل 2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">شرح مباشر بأسلوب موظف قروض محترف لكيفية خفض نسبة العبء التمويلي وتنظيف سجلك في سمة والحصول على موافقة قرضك في 2026.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>قرضك رُفض — هذا هو السبب، وطريقة إصلاحه</h2>
+        <p>
+          لديك الراتب. لديك استقرار الوظيفة. لقد ادخرت لأشهر. ثم قال البنك لا — عادةً بسطر واحد غامض: "نسبة العبء التمويلي تتجاوز الحد المسموح." لا تفسير. لا إرشاد. مجرد باب مغلق، في اللحظة التي كنت تحتاج فيها المال أكثر من أي وقت مضى.
+        </p>
+        <p class="mt-4">
+          لست وحدك، وهذه ليست نهاية الطريق. <strong class="text-desert-primary">نسبة العبء التمويلي المرتفعة هي السبب الأكثر شيوعًا لرفض قروض الشخصية والسيارات والإسكان للوافدين في السعودية</strong> — وفي معظم الحالات يمكن إصلاحها بالكامل خلال أسابيع.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">الإجابة المباشرة:</strong> يحدّ البنك المركزي السعودي نسبة العبء التمويلي لديك بحوالي 33% إلى 45% من الراتب الأساسي. إذا كانت نسبتك مرتفعة جدًا، يمكنك خفضها بسداد الديون الصغيرة أو إضافة ضامن أو تحديث شهادة الراتب أو تصحيح الأخطاء في سجل سمة.
+        </p>
+        <p class="mt-4">
+          معظم حالات الرفض سببها مشكلات صامتة قليلة، وليست قدرتك الفعلية على السداد. هذا الدليل مكتوب بالطريقة التي يشرحها لك بها موظف القروض في البنك عبر المكتب: أرقام واضحة، خطوات محددة، وبدون تخمين.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">ماذا ستحصل من هذا الدليل:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>شرح بلغة بسيطة لما هي نسبة العبء التمويلي وكيف تحسبها بنوك ساما.</li>
+            <li>الطرق الخمس المثبتة لخفض نسبتك قبل إعادة التقديم.</li>
+            <li>القاتلات الخفية لنسبة العبء التي تصيب الوافدين من جنوب آسيا والفلبين وغيرهم.</li>
+            <li>خطة خطوة بخطوة لفحص سجل سمة وإصلاحه، بأرقام دقيقة.</li>
+            <li>إجابات مباشرة على أكثر الأسئلة شيوعًا عن نسبة العبء لعام 2026.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          قبل أي شيء، تحقق من وضعك بدقة عبر أداة{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">حاسبة قروض البنك المركزي المجانية</a> — تعرض نسبتك الحالية والحد الأقصى للقرض خلال أقل من دقيقة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ما هي نسبة العبء التمويلي ولماذا تهتم بها بنوك ساما</h2>
+        <p>
+          نسبة العبء التمويلي (DBR) هي النسبة المئوية من دخلك الشهري الملتزم به لسداد الديون. تستخدمها البنوك لتقرير ما إذا كان بإمكانك تحمل قرض إضافي دون الغرق في أقساط شهرية. إنها الرقم الوحيد الذي يحدد كم سيقرضك البنك السعودي — وليس راتبك وحده.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">معادلة نسبة العبء التمويلي:</strong></p>
+          <p class="mt-2 font-mono text-white">(إجمالي الالتزامات الشهرية ÷ إجمالي الدخل الشهري) × 100 = نسبة العبء التمويلي</p>
+          <p class="mt-2">مثال: إذا كان راتبك الأساسي 10,000 ريال والتزاماتك الشهرية الحالية 4,000 ريال، فإن نسبتك = (4,000 ÷ 10,000) × 100 = <strong class="text-desert-primary">40%</strong>.</p>
+        </div>
+        <p>
+          بعبارة بسيطة: كلما انخفضت نسبتك، زادت السعة التي يراها البنك لقسط شهري جديد. لهذا السبب تهم النسبة أكثر من إجمالي راتبك. شخص يتقاضى 25,000 ريال بدون ديون يمكنه الاقتراض أكثر ممن يتقاضى 35,000 ريال ويدين بنصفها أصلًا.
+        </p>
+        <p class="mt-4">
+          يطلب البنك المركزي السعودي من البنوك أن تكون صارمة هنا لحمايتك أنت. لوائح التمويل الاستهلاكي موجودة حتى لا يُدفع أي عميل إلى أقساط لا يستطيع سدادها فعليًا. عندما يطبق البنك سقف العبء، فهو لا يعاقبك — بل يطبق قاعدة مصممة لوقف المديونية المفرطة. وهذه القاعدة تعمل لصالحك بمجرد أن تتعلم التعامل معها بشكل صحيح.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">قاعدة البنك المركزي:</strong> يضع البنك المركزي السعودي (ساما) السقف. بموجب اللوائح الحالية للتمويل الاستهلاكي، لا توافق البنوك السعودية عمومًا على قرض إذا كانت نسبتك الإجمالية ستتجاوز <strong class="text-desert-primary">45%</strong> — وتطبق العديد من البنوك سقفًا أشد من <strong class="text-desert-primary">33%</strong> إلى 35% لفئات معينة من الوافدين أو للعملاء الجدد أو لبعض المنتجات.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">نطاق النسبة</th>
+                <th class="text-left py-2">ماذا يعني</th>
+                <th class="text-left py-2">احتمال الموافقة</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">أقل من 33%</td><td class="py-2">سعة قوية، مخاطر منخفضة</td><td class="py-2 text-green-400">مرتفع — موافقة سلسة</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">33% – 45%</td><td class="py-2">عند حد أو قرب حد العديد من البنوك</td><td class="py-2 text-yellow-400">حدودي — يختلف حسب البنك</td></tr>
+              <tr><td class="py-2">أعلى من 45%</td><td class="py-2">تجاوز سقف البنك المركزي</td><td class="py-2 text-red-400">مرفوض في معظم البنوك</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>ما الذي يُحتسب "دخلًا شهريًا" في حساب نسبة العبء</h3>
+        <p>
+          تحسب البنوك نسبتك مقابل <strong class="text-white">الراتب الأساسي المسجل لدى البنك</strong> — وليس صافي ما تستلمه. البدلات مثل السكن والمواصلات أو العمل الإضافي تُحتسب فقط إذا سجلها صاحب العمل رسميًا في شهادة الراتب ولدى البنك. الأموال التي تظهر في حسابك دون سجل رسمي تُتجاهل.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>يُحتسب:</strong> الراتب الأساسي، والبدلات الثابتة المسجلة (سكن، مواصلات، معيشة)، وأي دخل معلن رسميًا للبنك.</li>
+          <li><strong>لا يُحتسب:</strong> العمل الإضافي، والمكافآت لمرة واحدة، والدخل الحر، والنقد الذي يصل دون سجل رواتب رسمي.</li>
+        </ul>
+        <p>
+          هذا أول مكان يتعثر فيه الوافدون: دخلهم الفعلي أعلى مما يراه البنك. إصلاح هذا التباين من أسرع المكاسب في هذا الدليل.
+        </p>
+        <h3>ما الذي يُحتسب "التزامًا شهريًا"</h3>
+        <p>
+          جانب الالتزامات أوسع مما يتوقع معظم الناس. تدرج البنوك السعودية كل دفعة متكررة تظهر في ملفك الائتماني — وليس فقط القروض التي تعتبرها "ديونًا حقيقية".
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>الحد الأدنى لسداد البطاقات الائتمانية</strong> — غالبًا يُحسب كنسبة من إجمالي حد البطاقة، حتى لو لم يكن عليك أي رصيد.</li>
+          <li><strong>أقساط القروض الشخصية</strong> — بما فيها القرض الذي تتقدم به.</li>
+          <li><strong>أقساط السيارات</strong> — تمويل السيارات النشط.</li>
+          <li><strong>أقساط الرهن العقاري / الإجارة المنتهية بالتمليك</strong> — دفعات تمويل المسكن.</li>
+          <li><strong>القروض المكفولة التي تضمنها</strong> — إذا كنت ضامنًا لقرض شخص آخر، يُحتسب عليك.</li>
+          <li><strong>خطط "اشترِ الآن وادفع لاحقًا" المبلغة لسمة</strong> — تابي وتامارا وما شابههما عندما يبلغ عنها المزود.</li>
+        </ul>
+        <p>
+          لاحظ ما هو موجود في القائمة: إنه عن دفعات ملتزم بها ومتكررة يستطيع البنك التحقق منها. لهذا تؤذيك البطاقة الائتمانية برصيد صفر — فالبنك لا يثق برصيدك الحالي، بل يستخدم العبء المحتمل للبطاقة. إغلاق البطاقة يزيل هذا العبء تمامًا.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مثال كامل لحساب نسبة العبء (انسخ هذه الأرقام)</h2>
+        <p>
+          لنمُرّ على ملف واقعي لوافد لترى كيف تتحرك الأرقام بالضبط. سنستخدم راتبًا أساسيًا قدره 14,000 ريال ومزيجًا من الالتزامات النموذجية.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">الخطوة</th>
+                <th class="text-left py-2">البند</th>
+                <th class="text-left py-2">المبلغ الشهري</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">1</td><td class="py-2">الراتب الأساسي (سجل البنك)</td><td class="py-2">14,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">2</td><td class="py-2">البطاقة 1 (حد 20,000، حد أدنى 3%)</td><td class="py-2">600 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">3</td><td class="py-2">البطاقة 2 (حد 10,000، حد أدنى 3%)</td><td class="py-2">300 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">4</td><td class="py-2">قسط قرض شخصي</td><td class="py-2">2,100 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">5</td><td class="py-2">خطط تابي/تامارا النشطة</td><td class="py-2">750 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">6</td><td class="py-2">إجمالي الالتزامات الشهرية</td><td class="py-2 text-desert-primary">3,750 ريال</td></tr>
+              <tr><td class="py-2">7</td><td class="py-2">النسبة الحالية (3,750 ÷ 14,000)</td><td class="py-2 text-red-400">26.8%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          عند 26.8% يبدو هذا الملف سليمًا. الآن أضف القرض الجديد الذي تريده: قرض شخصي بقيمة 120,000 ريال بتقسط شهري يقارب 3,700 ريال على 36 شهرًا.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">النسبة بعد القرض:</strong> (3,750 + 3,700) ÷ 14,000 = 53.2% — <strong class="text-red-400">مرفوض</strong>، لأنها أعلى بكثير من سقف 45%.</p>
+          <p class="mt-2"><strong class="text-white">إذا أغلقت البطاقتين وخطط تابي/تامارا أولًا:</strong> (0 + 0 + 2,100 + 0 + 3,700) ÷ 14,000 = 41.4% — <strong class="text-green-400">مقبول</strong> في معظم البنوك.</p>
+        </div>
+        <p class="mt-4">
+          هذه هي اللعبة كلها في مثال واحد: <strong class="text-white">تحرير سعة شهرية ببضع مئات من الريالات يمكن أن يكون الفرق بين "مرفوض" و"مقبول".</strong> تبدو الالتزامات الصغيرة غير ضارة حتى يضيف البنك قسطك الجديد فوقها.
+        </p>
+        <p class="mt-4">
+          لاحظ أن شيئًا في راتبك لم يتغير في هذا المثال. بقي الدخل عند 14,000 ريال طوال الوقت. ما تغير هو جانب الديون من المعادلة — وهذا هو جوهر الفكرة: <strong class="text-white">نسبة العبء نسبة يمكنك تحريكها بتقليل الالتزامات، وليس فقط بزيادة الدخل.</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أفضل 5 طرق مثبتة لخفض نسبة العبء قبل التقديم</h2>
+        <p>
+          هذه الخطوات الخمس هي بالضبط ما سيمشيك فيه موظف قروض سعودي متمرس. نفذها بالترتيب وشاهد نسبتك تنخفض أمام عينيك.
+        </p>
+        <h3>1. سدّد البطاقات الائتمانية أو القروض الشخصية الصغيرة</h3>
+        <p>
+          أسرع طريقة لخفض نسبتك هي إلغاء الالتزامات الصغيرة عالية الفائدة أولًا. تحسب البنوك البطاقة الائتمانية ضدك بناءً على <strong class="text-white">الحد الأدنى للسداد الشهري</strong> — أو في بعض الحالات نسبة ثابتة من الحد — حتى لو لم يكن عليك أي رصيد.
+        </p>
+        <p class="mt-4">
+          أغلق أصغر البطاقات تمامًا، ولا تكتفِ بتخفيضها. بطاقة بحد 5,000 ريال قد تُعامل على الورق كالتزام شهري من 250 إلى 500 ريال، يسرق بهدوء من سعة موافقتك. سدّدها وألغِها واحصل على إثبات إغلاق كتابي من البنك المُصدر.
+        </p>
+        <p class="mt-4">
+          سدّد الديون بترتيب الأصغر فالأصغر (طريقة "كرة الثلج"). كل بطاقة تغلقها التزام شهري دائم يُحذف من ملفك. لا تفتح بطاقات بديلة بعدها — البطاقة الجديدة تعيد نفس الالتزام وتطلق استعلامًا ائتمانيًا جديدًا.
+        </p>
+        <p class="mt-4">
+          توقع أن يستغرق انعكاس الإغلاق وقتًا. تبلغ البنوك بإغلاق الحسابات لسمة وفق جدولها الخاص، عادة خلال 30 إلى 60 يومًا. لا تتقدم لقرضك في اليوم التالي لسداد البطاقة — انتظر حتى يظهر الإغلاق في سجل سمة، وإلا سيرى البنك الالتزام القديم.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مثال واقعي:</strong> وافد براتب أساسي 12,000 ريال لديه بطاقتان (حدود 15,000 و8,000) وقرض شخصي صغير 20,000 ريال. بدت النسبة على الورق 46% — مرفوض. أغلق البطاقتين وسدّد القرض. النسبة الجديدة: 29%. ووفق في المحاولة التالية بسعر أفضل.</p>
+        </div>
+        <h3>2. أضف ضامنًا (كفيلًا) بدخل مرتفع</h3>
+        <p>
+          إذا لم يستطع دخلك وحده إيصالك تحت السقف، أضف ضامنًا. يمكن إضافة زوجة أو قريب من الدرجة الأولى بإقامة قوية وراتب أعلى إلى الطلب، ويُدمج دخلهما مع دخلك في حساب النسبة.
+        </p>
+        <p class="mt-4">
+          لا تقدم كل البنوك الضمان للوافدين، لذا اسأل موظف القروض مباشرة. يجب أن يكون الضامن عادةً موظفًا داخل المملكة، بإقامة سارية ومتبقٍ منها وقت كافٍ، وأن يجتاز نفس الفحص الائتماني. يتحمل الاثنان التزام السداد قانونيًا، لذا يجب أن يفهم الضامن الالتزام بالكامل.
+        </p>
+        <p class="mt-4">
+          ديون الضامن نفسها ما زالت تُحتسب، ما يعني أن النسبة المدمجة هي المهمة. اختر ضامنًا بسجل سمة نظيف والتزامات شخصية منخفضة — الراتب العالي وحده لا يكفي إذا كان يتحمل ديونًا ثقيلة.
+        </p>
+        <p class="mt-4">
+          اطلب من الضامن إحضار إقامته وشهادة راتب حديثة وإثبات عمل. اسأل البنك كتابيًا ما إذا كان الضمان متاحًا لمنتجك وما إذا كان يدمج الدخل فعلًا أو يضمن القرض فقط. الطريقتان تعملان بشكل مختلف تمامًا على نسبتك.
+        </p>
+        <h3>3. اطلب تحديث شهادة الراتب</h3>
+        <p>
+          هذا هو الإصلاح الأكثر إغفالًا في النظام بأكمله. إذا حصلت على زيادة أو ترقية أو بدل ثابت جديد ولم يحدّث صاحب العمل <strong class="text-white">شهادة الراتب (تعريف بالراتب)</strong>، فلا يزال البنك يرى دخلك القديم الأقل — وتبدو نسبتك مرتفعة بشكل مصطنع.
+        </p>
+        <p class="mt-4">
+          اطلب من قسم الموارد البشرية شهادة راتب جديدة تعكس راتبك الأساسي الحالي وجميع البدلات المسجلة. ثم تأكد من إرسال الرقم المحدث إلى بوابة الموارد البشرية/المالية في بنكك — فالعديد من البنوك السعودية تسحب بيانات الراتب مباشرة من نظام رواتب صاحب العمل، لذلك يجب أن يستلم البنك السجل المحدث من جانبه أيضًا.
+        </p>
+        <p class="mt-4">
+          الحساب فوري وعلى الورق فقط: زيادة 1,000 ريال على راتب 10,000 تخفض نسبة 45% إلى نحو 41%. لا يكلف شيئًا، ويستغرق أيامًا، ويرفع قدرتك الاقتراضية كلها.
+        </p>
+        <p class="mt-4">
+          كلمة تحذير: بعض البنوك لا تحتسب سوى <strong class="text-white">الراتب الأساسي</strong> للوافدين، بينما تقبل أخرى البدلات المسجلة. اسأل موظف القروض عن الرقم الذي يستخدمه قبل الاعتماد على التحديث. وإذا كان صاحب عملك يدفع لك جزءًا نقدًا، فلن يظهر هذا الجزء في سجلات البنك مهما قالت الشهادة.
+        </p>
+        <h3>4. امسح التعثرات أو الأخطاء في سمة</h3>
+        <p>
+          سجل سمة الائتماني هو الوثيقة الوحيدة التي تقرر قرضك. يمكن أن تظهر فواتير الخدمات غير المسددة — خطوط stc للإنترنت القديمة، فواتير الكهرباء (SEC)، أو حساب هاتف نقال آجل منسي — في سمة كتعثرات صغيرة تضخم ملف المخاطر لديك بما لا يتناسب مع المبلغ المستحق.
+        </p>
+        <p class="mt-4">
+          الجانب المخيف أن كثيرًا من الوافدين لا يعرفون حتى بوجود هذه الحسابات حتى يُرفض القرض. سدّد أي أرصدة مستحقة، ووثّق الإغلاق، وامنح سمة الأيام الثلاثين إلى الستين التي تحتاجها عادةً لتحديث سجلك بعد السداد. القسم الرابع من هذا الدليل يمشي معك في عملية الفحص والإصلاح الكاملة.
+        </p>
+        <p class="mt-4">
+          تعثر سمة يفعل أكثر من رفع نسبتك — إنه يضر تقييمك الائتماني كله. تراجع البنوك التعثرات بشكل منفصل عن النسبة، لذا يمكن لفاتورة stc صغيرة غير مسددة أن تُسقط طلبًا يبدو مثاليًا على الورق. والخبر الجيد أن التعثر الممسوح والموثق أسهل تفسيرًا بكثير من تعثر حالي.
+        </p>
+        <h3>5. تجنب الاستعلامات الائتمانية الجديدة</h3>
+        <p>
+          في كل مرة تتقدم فيها لقرض أو بطاقة ائتمانية أو حتى خدمة "اشترِ الآن وادفع لاحقًا" تبلغ سمة، يظهر استعلام في سجلك. تشير مجموعة الاستعلامات في فترة قصيرة إلى ضائقة مالية، ويمكن لكل واحد منها أن يخفض نقاطًا من تقييمك الائتماني مؤقتًا.
+        </p>
+        <p class="mt-4">
+          قاعدة عملية: توقف عن التقدم لائتمان جديد قبل <strong class="text-white">30 إلى 90 يومًا</strong> على الأقل من طلب قرضك. لا "تتسوق" بتقديم طلبات كاملة لخمسة بنوك. بدلًا من ذلك، استخدم أدوات الموافقة المسبقة وحسابتنا لاختصار بنك أو اثنين، ثم تقدم بطلب نظيف بمجرد أن تكون نسبتك وسجل سمة في ترتيب جيد.
+        </p>
+        <p class="mt-4">
+          استعلام واحد ليس قاتلًا. نمط عدة استعلامات عبر بنوك مختلفة في الشهر نفسه هو ما يرفع الأعلام الحمراء — ويمكنه أيضًا أن يخبر البنك بأنك رُفضت في مكان آخر.
+        </p>
+        <p class="mt-4">
+          افهم الفرق بين الفحص الصلب والفحص اللين. الفحص اللين — مثل استخدام حسابتنا أو طلب موافقة مسبقة من بنك — لا يترك أثرًا. الفحص الصلب، الذي يحدث عند تقديم طلب كامل، يترك أثرًا. استخدم الفحوصات اللينة بحرية لاختصار الخيارات، وأنفق فحوصاتك الصلبة بحكمة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>القاتلات الخفية لنسبة العبء لدى الوافدين في السعودية (استهداف جغرافي)</h2>
+        <p>
+          بلدك الأصلي يشكل الديون وخصوصيات التبليغ التي تفاجئ الوافدين. هذه هي الفخاخ الخاصة بأكبر المجتمعات الوافدة في المملكة.
+        </p>
+        <h3>للوافدين من جنوب آسيا (باكستان / الهند / بنجلاديش)</h3>
+        <p>
+          الخبر الجيد أولًا: <strong class="text-white">التحويلات الدولية المتكررة لا تُحتسب في نسبتك.</strong> إرسال المال إلى وطنك لدعم العائلة لا يظهر كالتزام شهري في حسابات البنك المركزي — فلا تُعاقب على مساعدة عائلتك.
+        </p>
+        <p class="mt-4">
+          الفخ محلي. <strong class="text-white">خدمات "اشترِ الآن وادفع لاحقًا" (BNPL) مثل تابي وتامارا تُحتسب ضد نسبتك عندما تبلغ عنها لسمة.</strong> ثوب بقيمة 400 ريال مقسم على أربعة أقساط يبدو صغيرًا — لكن عددًا من خطط BNPL النشطة يمكن أن يضيف 500 إلى 1,500 ريال من التزامات شهرية خفية تدفعك فوق الحد.
+        </p>
+        <p class="mt-4">
+          نصيحة عملية: أوقف استخدام BNPL لمدة 2–3 أشهر قبل التقديم، أو سدّد الأقساط المستحقة بالكامل. إنها قاتلات نسبة صامتة تحديدًا لأنها تبدو "ليست دينًا حقيقيًا". افحص سجل سمة لترى أي مزودي BNPL يبلغون عن خططك فعلًا.
+        </p>
+        <p class="mt-4">
+          للوافدين البنجلاديشيين تحديدًا: عادات التحويل ليست عاملًا، لكن بعض المزودين المحليين يبلغون عن خطط التقسيط تمامًا مثل البطاقات الائتمانية. عامل كل خطة "ادفع لاحقًا" نشطة كالتزام شهري حقيقي، لأن نظام البنك سيعاملها هكذا بالضبط.
+        </p>
+        <h3>للوافدين الفلبينيين</h3>
+        <p>
+          المشكلة الأولى للعمال الفلبينيين في الخارج (OFW) هي التباين بين <strong class="text-white">راتب العقد الموثق من POEA</strong> وما لدى البنك السعودي في ملفه. إذا كان عقدك ينص على 7,000 ريال لكن نظام البنك يعرض 5,500 ريال — لأن صاحب العمل قلل التبليغ، أو لم تُحدث شهادة الراتب — تُحسب نسبتك على الرقم الخاطئ الأقل.
+        </p>
+        <p class="mt-4">
+          أصلحها بإحضار عقد عملك ووثائق POEA/DMW الموثقة وأحدث شهادة راتب إلى البنك معًا. اطلب من البنك تحديث الراتب المسجل، واطلب من صاحب العمل تأكيد الرقم عبر نظام الرواتب. رقم الدخل الصحيح يساوي آلاف الريالات من قدرة اقتراض إضافية.
+        </p>
+        <p class="mt-4">
+          نفس الدرس ينطبق على كل الجنسيات: تحقق دائمًا من أن سجل راتبك لدى البنك يطابق عقدك — وليس ذاكرتك عنه. تباين الراتب هو أكثر قاتلات النسبة صمتًا على الإطلاق، لأن لا شيء منه يظهر في سجل سمة ولا ترى الرقم الخاطئ أبدًا حتى تصل رسالة الرفض.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خطوة بخطوة: كيف تفحص سجل سمة وتصلحه</h2>
+        <p>
+          سجل سمة هو أهم وثيقة في ملف قرضك. إليك بالضبط كيف تفحصه وتقرؤه وتصلحه قبل دخولك إلى أي بنك.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>حمّل تطبيق سمة</strong> (أو زر الموقع simah.com) وسجل برقم إقامتك وجوالك المسجل.</li>
+          <li><strong>اطلب تقريرك الائتماني.</strong> يحق لكل فرد الحصول على تقرير ائتماني مجاني مرة واحدة في السنة في السعودية.</li>
+          <li><strong>افحص علامات "التأخر في السداد".</strong> راجع كل سطر حساب: مبالغ الأقساط، والأرصدة الحالية، وأي حالة دفع مذكورة كمؤجل أو متأخر أو متعثر.</li>
+          <li><strong>حدد الحسابات غير المعروفة.</strong> خطوط الخدمات القديمة، والخطط الآجلة الخاملة، أو الحسابات التي نسيت أنك فتحتها ستظهر هنا. دوّن الأرقام المرجعية.</li>
+          <li><strong>قدّم اعتراضًا مباشرة عبر سمة</strong> على أي شيء خاطئ أو مكرر أو لم يعد ملكك. زوّد بالمستندات الداعمة (خطابات التسوية، تأكيدات الإغلاق، نسخة جواز أو إقامة).</li>
+          <li><strong>انتظر وأعد التحقق.</strong> تستغرق التصحيحات عادةً 30 إلى 60 يومًا لتنعكس. اسحب تقريرك مجددًا وتأكد من صحة كل سطر قبل التقديم.</li>
+        </ol>
+        <h3>كيف تقرأ الأقسام الثلاثة الرئيسية في تقريرك</h3>
+        <p>
+          تقرير سمة ليس قائمة طويلة واحدة. له أقسام واضحة، وكل قسم يهم البنك بشكل مختلف.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>الملخص الائتماني:</strong> عدد حساباتك الإجمالي، إجمالي الأرصدة المستحقة، وعمر سجلك الائتماني الإجمالي. هذا أول ما يمسحه موظف القروض.</li>
+          <li><strong>تفاصيل الحسابات:</strong> كل قرض وبطاقة وخطة BNPL مبلغ عنها مع قسطها الشهري ورصيدها الحالي وحالة السداد.</li>
+          <li><strong>الاستعلامات:</strong> كل مرة سحب فيها بنك أو شركة تمويل تقريرك. قائمة طويلة هنا علم أحمر.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">نصيحة احترافية:</strong> التقط لقطة شاشة لسجل سمة واقرأها بصوت عالٍ أمام صديق. قراءة الأرقام بصوت عالٍ تجبرك على رؤيتها فعلًا — معظم الوافدين يكتشفون التفصيلة المسببة للرفض فقط عندما يبطئون وينظرون.</p>
+        </div>
+        <p class="mt-4">
+          إذا وجدت تعثرًا مشروعًا وهو فعلًا لك، فلا تذعر. سدّده بالكامل، واحصل على إثبات تسوية كتابي، وانتظر التحديث. تعثر ممسوح واحد أقل ضررًا بكثير من تعثر غير مسدد يستمر في التقادم في ملفك.
+        </p>
+        <p class="mt-4">
+          التوقيت مهم: تحديثات سمة ليست فورية. خطط لطلب قرضك بعد 60 يومًا على الأقل من تسوية أي حساب متنازع عليه أو متعثر، حتى يكون التقرير المصحح هو ما يسحبه البنك.
+        </p>
+        <p class="mt-4">
+          إذا سحب بنكك تقريرك قبل تطبيق التصحيح، فلا تخف من أن تطلب منه إعادة الفحص. موظف القروض الذي يرى تقريرًا جديدًا نظيفًا بعد تسوية الاعتراض يكون سعيدًا عادةً بإعادة النظر في طلب حدودي — خاصة عندما تحضر معك مرجع الاعتراض من سمة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كم يمكنك الاقتراض بعد إصلاح نسبتك؟</h2>
+        <p>
+          بمجرد أن تكون نسبتك تحت السقف، يحسب البنك الحد الأقصى لقرضك من سعتك الشهرية الحرة. الحساب بسيط، حتى لو اختلف السعر الدقيق من بنك لآخر.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">السعة الشهرية الحرة = (نسبة العبء المسموحة − نسبتك الحالية) × الراتب الأساسي</strong></p>
+          <p class="mt-2">مثال: سقف البنك 45%، نسبتك الآن 25%، الراتب الأساسي 12,000 ريال → (45% − 25%) × 12,000 = سعة قسط شهري جديد قدرها 2,400 ريال.</p>
+        </div>
+        <p>
+          تتحول سعة الـ 2,400 ريال إلى حجم قرض بناءً على المدة والسعر. المدة الأطول تعني قسطًا شهريًا أقل لنفس المبلغ المقترض، ولهذا تؤثر المدة التي تختارها مباشرة على كم يمكنك أن تأخذ.
+        </p>
+        <p class="mt-4">
+          كل بنك يستخدم تسعيرًا وقواعد مختلفة قليلًا، فلا تعامل الرقم التقريبي كنهائي. أداة{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">حاسبة قروض البنك المركزي المجانية</a>{' '}
+          تقوم بهذا التحويل لك وتعرض الحد الأقصى لمبلغ القرض لراتبك والتزاماتك بالضبط.
+        </p>
+        <p class="mt-4">
+          ملاحظتان عمليتان: معظم القروض الشخصية للوافدين في المملكة تتراوح بين 12 و60 شهرًا، وعادة ما تكون البنوك أفضل تسعيرًا عندما تُحوَّل راتبك إلى حساب لدى البنك المُقرض نفسه. كلا العاملين يغيران حجم القرض الذي يمكنك الحصول على موافقة واقعية له.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ما هي النسبة القصوى المسموح بها للوافدين في السعودية لعام 2026؟</p>
+            <p class="text-gray-400 text-sm mt-1">سقف البنك المركزي عمومًا 45%، لكن العديد من البنوك تفرض حدًا أشد من 33% إلى 35% للوافدين وبعض المنتجات. الرقم الدقيق يعتمد على بنكك ونوع القرض.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل تؤثر تابي أو تامارا على نسبة العبء لقرضي؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم، إذا بلغت شركتك عن خطتك لسمة. كل خطة تقسيط نشطة يمكنها إضافة التزام شهري يرفع نسبتك، لذا سدّدها قبل التقديم.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكنني الحصول على قرض إذا كانت نسبتي 45% بالضبط؟</p>
+            <p class="text-gray-400 text-sm mt-1">ربما، لكنك على حافة السقف تمامًا. معظم البنوك توافق براحة أكبر عند 40% أو أقل، وبعض المنتجات تسقف عند 33%–35%.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كم يستغرق انعكاس الدين المسدد على سجل سمة؟</p>
+            <p class="text-gray-400 text-sm mt-1">عادة 30 إلى 60 يومًا بعد التسوية، حسب موعد تبليغ الدائن بالتحديث. أكد الإغلاق كتابيًا وأعد سحب تقريرك قبل التقديم.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل تُحتسب بدلات مثل السكن كدخل في نسبتي؟</p>
+            <p class="text-gray-400 text-sm mt-1">فقط إذا سجلها صاحب العمل رسميًا في شهادة الراتب ولدى البنك. البدلات غير المسجلة تُتجاهل، ما يرفع نسبتك بشكل مصطنع.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكن للضامن أن يخفض نسبتي فعلًا؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. عندما يسمح البنك بالضمان، يُدمج دخل الضامن مع دخلك، ما يخفض النسبة المدمجة. أكد أولًا أن بنكك يقدمه للقروض الوافدة.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كلمة أخيرة: خفض نسبتك استراتيجية وليست حظًا</h2>
+        <p>
+          إليك الملخص الذي جئت من أجله. خفض نسبة العبء التمويلي يتعلق بإدارة مالية استراتيجية، وليس فقط بكسب المزيد. لا تحتاج إلى معجزة — تحتاج إلى التسلسل الصحيح:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">سدّد وأغلق</strong> البطاقات والقروض الصغيرة لتحرير سعة شهرية.</li>
+          <li><strong class="text-white">أضف ضامنًا</strong> إذا كان دخلك وحده لا يكفي.</li>
+          <li><strong class="text-white">حدّث شهادة الراتب</strong> ليرى البنك دخلك الحقيقي.</li>
+          <li><strong class="text-white">امسح تعثرات سمة</strong> — خاصة فواتير الخدمات الخفية وخطط الدفع لاحقًا.</li>
+          <li><strong class="text-white">أوقف الاستعلامات الائتمانية الجديدة</strong> لمدة 30–90 يومًا قبل التقديم.</li>
+        </ul>
+        <p class="mt-4">
+          اتبع هذا الترتيب، وأصلح سجلك، وسيحظى طلبك التالي بفرصة واقعية للموافقة بسعر أفضل.
+        </p>
+        <p class="mt-4">
+          للحصول على تفصيل كامل لأنواع القروض ومتطلباتها، اقرأ{' '}
+          <a href="/guide/sama-loan-calculator-saudi-arabia-2026" class="text-desert-primary underline">دليل أهلية قروض البنك المركزي وحاسبة نسبة العبء 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">تحقق الآن من نسبتك ومبلغ قرضك بالضبط</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاني — الراتب والالتزامات والحد الأقصى للقرض في مكان واحد</p>
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">استخدم حاسبة قروض البنك المركزي المجانية</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية استنادًا إلى اللوائح الحالية للبنك المركزي السعودي (ساما). قد تختلف سياسات كل بنك. استشر دائمًا موظف القروض في بنكك للحصول على استشارة مالية رسمية.
+        </p>
+      </div>
+    `, ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">ساما لون گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب میں SAMA لون اپروول کے لیے اپنا DBR (ڈیٹ برڈن ریشو) بہتر کیسے کریں (2026 گائیڈ)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">ایک تجربہ کار بینک لون آفیسر کے انداز میں بالکل سیدھا حل کہ اپنا ڈیٹ برڈن ریشو کیسے کم کریں، سماح رپورٹ صاف کریں اور 2026 میں اپنا قرض منظور کروائیں۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آپ کا لون ریجیکٹ ہوا — یہ ہے وجہ، اور اسے درست کرنے کا طریقہ</h2>
+        <p>
+          آپ کے پاس تنخواہ ہے۔ نوکری مستحکم ہے۔ مہینوں سے بچت کر رہے ہیں۔ اور پھر بینک نہیں کہتا — عموماً ایک مبہم لائن کے ساتھ: "آپ کا ڈیٹ برڈن ریشو منظور شدہ حد سے تجاوز کر گیا ہے۔" کوئی وضاحت نہیں۔ کوئی رہنمائی نہیں۔ بس ایک بند دروازہ، بالکل اس وقت جب آپ کو پیسوں کی سب سے زیادہ ضرورت تھی۔
+        </p>
+        <p class="mt-4">
+          آپ اکیلے نہیں ہیں، اور یہ سڑک کا اختتام نہیں۔ <strong class="text-desert-primary">ہائی DBR سعودی عرب میں وافدین کے پرسنل، کار اور گھر کے قرضے ریجیکٹ ہونے کی سب سے عام وجہ ہے</strong> — اور زیادہ تر معاملات میں یہ ہفتوں میں مکمل طور پر ٹھیک ہو سکتی ہے۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">سیدھا جواب:</strong> سعودی مرکزی بینک (ساما) آپ کا ڈیٹ برڈن ریشو آپ کی بنیادی تنخواہ کے تقریباً 33% سے 45% تک محدود کرتا ہے۔ اگر آپ کا DBR بہت زیادہ ہے، تو آپ چھوٹے قرضے ادا کر کے، کافیل شامل کر کے، تنخواہ سرٹیفکیٹ اپ ڈیٹ کروا کر، یا اپنی سماح رپورٹ میں غلطیاں درست کروا کر اسے کم کر سکتے ہیں۔
+        </p>
+        <p class="mt-4">
+          زیادہ تر ریجیکشن آپ کی اصل ادائیگی کی صلاحیت کی وجہ سے نہیں ہوتے، بلکہ کچھ خاموش مسائل کی وجہ سے ہوتے ہیں۔ یہ گائیڈ اسی طرح لکھا گیا ہے جیسے کوئی بینک لون آفیسر آپ کو میز کے سامنے سمجھائے: صاف نمبر، واضح اقدامات، اور کوئی اندازہ نہیں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">اس گائیڈ سے آپ کو کیا ملے گا:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>سادہ زبان میں کہ DBR کیا ہے اور ساما کے بینک اسے کیسے حساب کرتے ہیں۔</li>
+            <li>دوبارہ درخواست دینے سے پہلے DBR کم کرنے کے 5 ثابت شدہ طریقے۔</li>
+            <li>وہ پوشیدہ DBR قاتل جو جنوبی ایشیائی، فلپائنی اور دیگر وافد کمیونٹیز کو خاص طور پر نقصان پہنچاتے ہیں۔</li>
+            <li>سماح رپورٹ چیک کرنے اور درست کرنے کا مرحلہ وار منصوبہ، درست نمبروں کے ساتھ۔</li>
+            <li>2026 کے سب سے زیادہ پوچھے جانے والے DBR سوالات کے سیدھے جواب۔</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          کچھ بھی کرنے سے پہلے، ہماری مفت{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">ساما لون کیلکولیٹر</a>{' '}
+          سے اپنا موجودہ DBR اور زیادہ سے زیادہ قرض کی رقم ایک منٹ میں چیک کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>DBR کیا ہے اور ساما کے بینک کیوں اس کی پرواہ کرتے ہیں</h2>
+        <p>
+          ڈیٹ برڈن ریشو (DBR) آپ کی ماہانہ آمدنی کا وہ فیصد ہے جو پہلے سے قرضوں کی ادائیگی کے لیے وقف ہے۔ بینک اسے اس بات کا فیصلہ کرنے کے لیے استعمال کرتے ہیں کہ کیا آپ ایک اور قرض کا بوجھ بغیر ڈوبے اٹھا سکتے ہیں۔ یہ وہ واحد نمبر ہے جو طے کرتا ہے کہ سعودی بینک آپ کو کتنا قرض دے گا — صرف آپ کی تنخواہ نہیں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">DBR کا فارمولا:</strong></p>
+          <p class="mt-2 font-mono text-white">(کل ماہانہ قرض ذمہ داریاں ÷ کل ماہانہ آمدنی) × 100 = DBR%</p>
+          <p class="mt-2">مثال: اگر آپ کی بنیادی تنخواہ 10,000 ریال ہے اور موجودہ ماہانہ ذمہ داریاں 4,000 ریال ہیں، تو آپ کا DBR = (4,000 ÷ 10,000) × 100 = <strong class="text-desert-primary">40%</strong>۔</p>
+        </div>
+        <p>
+          سادہ الفاظ میں: آپ کا DBR جتنا کم ہوگا، بینک اتنی زیادہ گنجائش دیکھے گا نئی ماہانہ قسط کے لیے۔ اس لیے یہ تناسب آپ کی کل تنخواہ سے زیادہ اہم ہے۔ 25,000 ریال کمانے والا بغیر کسی قرض کے، 35,000 ریال کمانے والے سے زیادہ قرض لے سکتا ہے جو پہلے ہی اپنی آدھی آمدنی پر مقروض ہو۔
+        </p>
+        <p class="mt-4">
+          ساما بینکوں سے یہاں سختی کا تقاضا آپ کی اپنی حفاظت کے لیے کرتا ہے۔ صارفین کی فنانسنگ کی ضوابط اس لیے موجود ہیں کہ کوئی گاہک ان اقساط میں نہ دھکیلا جائے جو وہ واقعی ادا نہیں کر سکتا۔ جب بینک DBR کی حد لگاتا ہے، تو وہ آپ کو سزا نہیں دے رہا — وہ ایک ایسا اصول نافذ کر رہا ہے جو حد سے زیادہ قرض کے بوجھ کو روکنے کے لیے بنایا گیا ہے۔ یہ اصول آپ کے حق میں کام کرتا ہے جب آپ اسے صحیح طریقے سے استعمال کرنا سیکھ لیں۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">ساما کا اصول:</strong> سعودی مرکزی بینک حد مقرر کرتا ہے۔ موجودہ صارف فنانسنگ ضوابط کے تحت، سعودی بینک عموماً قرض منظور نہیں کرتے اگر آپ کا کل DBR <strong class="text-desert-primary">45%</strong> سے تجاوز کر جائے — اور بہت سے بینک بعض وافد کیٹیگریز، نئے بینک گاہکوں، یا مخصوص پراڈکٹس کے لیے زیادہ سخت <strong class="text-desert-primary">33%</strong> سے 35% کی حد لگاتے ہیں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">DBR بینڈ</th>
+                <th class="text-left py-2">اس کا مطلب</th>
+                <th class="text-left py-2">منظوری کا امکان</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">33% سے کم</td><td class="py-2">مضبوط گنجائش، کم خطرہ</td><td class="py-2 text-green-400">زیادہ — آسان منظوری</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">33% – 45%</td><td class="py-2">بہت سے بینکوں کی حد پر یا اس کے قریب</td><td class="py-2 text-yellow-400">سرحدی — بینک بہ بینک</td></tr>
+              <tr><td class="py-2">45% سے زیادہ</td><td class="py-2">ساما کی حد سے تجاوز</td><td class="py-2 text-red-400">زیادہ تر بینکوں میں ریجیکٹ</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>DBR کے حساب میں "ماہانہ آمدنی" کیا شمار ہوتی ہے</h3>
+        <p>
+          بینک آپ کے DBR کا حساب آپ کی <strong class="text-white">بنیادی تنخواہ جو بینک کے پاس درج ہے</strong> سے کرتے ہیں — نہ کہ جو رقم آپ کے ہاتھ میں آتی ہے۔ رہائش، ٹرانسپورٹ یا اوور ٹائم جیسے الاؤنس صرف اس صورت میں شمار ہوتے ہیں جب آپ کا آجر انہیں سرکاری طور پر تنخواہ سرٹیفکیٹ اور بینک میں رجسٹر کرے۔ جو رقم سرکاری ریکارڈ کے بغیر آپ کے اکاؤنٹ میں آتی ہے، وہ نظر انداز کر دی جاتی ہے۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>شمار ہوتا ہے:</strong> بنیادی تنخواہ، رجسٹرڈ فکسڈ الاؤنسز (رہائش، ٹرانسپورٹ، معاش)، اور کوئی آمدنی جو بینک کو رسمی طور پر بتائی گئی ہو۔</li>
+          <li><strong>شمار نہیں ہوتی:</strong> اوور ٹائم، ایک بار کے بونس، فری لانس آمدنی، اور وہ نقدی جو سرکاری پے رول ریکارڈ کے بغیر آئے۔</li>
+        </ul>
+        <p>
+          یہ پہلی جگہ ہے جہاں وافدین پھنس جاتے ہیں: ان کی اصل آمدنی اس سے زیادہ ہوتی ہے جو بینک دیکھتا ہے۔ اس فرق کو درست کرنا اس گائیڈ کی سب سے تیز جیت ہے۔
+        </p>
+        <h3>"ماہانہ ذمہ داریوں" میں کیا شامل ہے</h3>
+        <p>
+          ذمہ داریوں کا پہلو اس سے وسیع ہے جو زیادہ تر لوگ سمجھتے ہیں۔ سعودی بینک ہر بار بار آنے والی ادائیگی کو شامل کرتے ہیں جو آپ کی کریڈٹ فائل پر نظر آتی ہے — نہ صرف وہ قرضے جنہیں آپ "اصلی قرض" سمجھتے ہیں۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>کریڈٹ کارڈ کی کم از کم ادائیگی</strong> — اکثر آپ کے کل کارڈ لمٹ کا فیصد شمار کی جاتی ہے، چاہے آپ پر کوئی بیلنس نہ ہو۔</li>
+          <li><strong>پرسنل لون کی اقساط</strong> — بشمول وہ قرض جس کے لیے آپ درخواست دے رہے ہیں۔</li>
+          <li><strong>کار لون کی اقساط</strong> — فعال کار فنانسنگ۔</li>
+          <li><strong>مارگیج / ریئل اقساط</strong> — گھر کی فنانسنگ کی ادائیگیاں۔</li>
+          <li><strong>وہ قرضے جن پر آپ کافیل ہیں</strong> — اگر آپ کسی اور کے قرض پر کافیل ہیں، تو یہ آپ کے خلاف شمار ہوتا ہے۔</li>
+          <li><strong>سمعہ کو رپورٹ ہونے والے BNPL پلانز</strong> — ٹیبی، تمارا اور اسی طرح کے قسط پلان جب فراہم کنندہ انہیں رپورٹ کرے۔</li>
+        </ul>
+        <p>
+          غور کریں کہ فہرست میں کیا ہے: یہ وہ وابستہ، بار بار آنے والی ادائیگیاں ہیں جن کی تصدیق بینک کر سکتا ہے۔ اس لیے صفر بیلنس والا کریڈٹ کارڈ بھی آپ کو نقصان پہنچاتا ہے — بینک آپ کے موجودہ بیلنس پر بھروسہ نہیں کرتا، وہ کارڈ کے ممکنہ بوجھ کو استعمال کرتا ہے۔ کارڈ بند کرنے سے یہ بوجھ مکمل طور پر ختم ہو جاتا ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>DBR کا مکمل عملی حساب (یہ ریاضی کاپی کریں)</h2>
+        <p>
+          آئیے ایک حقیقی وافد پروفائل پر چلتے ہیں تاکہ آپ دیکھ سکیں کہ نمبر کیسے حرکت کرتے ہیں۔ ہم 14,000 ریال کی بنیادی تنخواہ اور عام ذمہ داریوں کا ملاپ استعمال کریں گے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">مرحلہ</th>
+                <th class="text-left py-2">آئٹم</th>
+                <th class="text-left py-2">ماہانہ رقم</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">1</td><td class="py-2">بنیادی تنخواہ (بینک ریکارڈ)</td><td class="py-2">14,000 ریال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">2</td><td class="py-2">کریڈٹ کارڈ 1 (20,000 لمٹ، 3% کم از کم)</td><td class="py-2">600 ریال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">3</td><td class="py-2">کریڈٹ کارڈ 2 (10,000 لمٹ، 3% کم از کم)</td><td class="py-2">300 ریال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">4</td><td class="py-2">پرسنل لون قسط</td><td class="py-2">2,100 ریال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">5</td><td class="py-2">فعال ٹیبی/تمارا پلانز</td><td class="py-2">750 ریال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">6</td><td class="py-2">کل ماہانہ ذمہ داریاں</td><td class="py-2 text-desert-primary">3,750 ریال</td></tr>
+              <tr><td class="py-2">7</td><td class="py-2">موجودہ DBR (3,750 ÷ 14,000)</td><td class="py-2 text-red-400">26.8%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          26.8% پر یہ پروفائل صحت مند نظر آتا ہے۔ اب وہ نیا قرض شامل کریں جو آپ چاہتے ہیں: 120,000 ریال کا پرسنل لون تقریباً 3,700 ریال ماہانہ قسط کے ساتھ 36 ماہ پر۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">قرض کے بعد نیا DBR:</strong> (3,750 + 3,700) ÷ 14,000 = 53.2% — <strong class="text-red-400">ریجیکٹ</strong>، کیونکہ یہ 45% کی حد سے کہیں زیادہ ہے۔</p>
+          <p class="mt-2"><strong class="text-white">اگر آپ پہلے دونوں کارڈ اور BNPL صاف کر لیں:</strong> (0 + 0 + 2,100 + 0 + 3,700) ÷ 14,000 = 41.4% — <strong class="text-green-400">زیادہ تر بینکوں میں قابلِ قبول</strong>۔</p>
+        </div>
+        <p class="mt-4">
+          یہ پوری کھیل ایک مثال میں ہے: <strong class="text-white">چند سو ریال کی ماہانہ گنجائش خالی کرنا "ریجیکٹ" اور "منظور" کے درمیان فرق بن سکتا ہے۔</strong> چھوٹی ذمہ داریاں اس وقت تک بے ضرر لگتی ہیں جب تک بینک آپ کی نئی قسط ان کے اوپر نہ ڈال دے۔
+        </p>
+        <p class="mt-4">
+          غور کریں کہ اس مثال میں آپ کی تنخواہ میں کچھ بھی نہیں بدلا۔ آمدنی پورے وقت 14,000 ریال رہی۔ جو بدلا وہ مساوات کا قرض والا پہلو ہے — اور بالکل یہی بات ہے: <strong class="text-white">DBR ایک تناسب ہے جسے آپ ذمہ داریاں کم کر کے حرکت دے سکتے ہیں، نہ صرف زیادہ کما کر۔</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>درخواست سے پہلے DBR کم کرنے کے 5 ثابت شدہ طریقے</h2>
+        <p>
+          یہ پانچ اقدامات وہی ہیں جو ایک تجربہ کار سعودی لون آفیسر آپ کو کروائے گا۔ انہیں ترتیب سے کریں، اور دیکھیں آپ کا DBR فیصد آنکھوں کے سامنے کم ہوتا ہے۔
+        </p>
+        <h3>1. چھوٹے کریڈٹ کارڈ یا پرسنل لون ادا کریں</h3>
+        <p>
+          DBR کم کرنے کا تیز ترین طریقہ پہلے چھوٹی، زیادہ سود والی ذمہ داریوں کا خاتمہ ہے۔ بینک کریڈٹ کارڈ کو اس کی <strong class="text-white">ماہانہ کم از کم ادائیگی</strong> کی بنیاد پر آپ کے خلاف شمار کرتے ہیں — یا بعض صورتوں میں لمٹ کے فکسڈ فیصد کی بنیاد پر — چاہے آپ پر کوئی بیلنس نہ ہو۔
+        </p>
+        <p class="mt-4">
+          سب سے چھوٹے کارڈ مکمل طور پر بند کریں، صرف کم نہ کریں۔ 5,000 ریال لمٹ والا کارڈ کاغذ پر 250 سے 500 ریال کی ماہانہ ذمہ داری سمجھا جا سکتا ہے، جو خاموشی سے آپ کی منظوری کی گنجائش چرا لیتا ہے۔ اسے ادا کریں، منسوخ کریں، اور جاری کرنے والے بینک سے تحریری ثبوت لیں۔
+        </p>
+        <p class="mt-4">
+          قرضوں کو چھوٹے سے بڑے کی ترتیب سے ادا کریں ("سنو بال" طریقہ)۔ ہر بند کیا ہوا کارڈ آپ کی فائل سے ہمیشہ کے لیے حذف ہونے والی ماہانہ ذمہ داری ہے۔ اس کے بعد متبادل کارڈ نہ کھولیں — نیا کارڈ وہی ذمہ داری واپس لا کر نئی کریڈٹ انکوائری کا سبب بنتا ہے۔
+        </p>
+        <p class="mt-4">
+          توقع رکھیں کہ بندش ظاہر ہونے میں وقت لگے گا۔ بینک اپنے شیڈول پر اکاؤنٹ بندش سمعہ کو رپورٹ کرتے ہیں، عموماً 30 سے 60 دن میں۔ کارڈ ادا کرنے کے اگلے ہی دن قرض کے لیے درخواست نہ دیں — بندش کے سماح رپورٹ میں ظاہر ہونے تک انتظار کریں، ورنہ بینک پرانی ذمہ داری دیکھے گا۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">حقیقی مثال:</strong> 12,000 ریال بنیادی تنخواہ والے وافد کے پاس دو کریڈٹ کارڈ تھے (15,000 اور 8,000 لمٹ) اور ایک چھوٹا 20,000 ریال پرسنل لون۔ کاغذ پر DBR 46% لگ رہا تھا — ریجیکٹ۔ اس نے دونوں کارڈ بند کیے اور لون ادا کر دیا۔ نیا DBR: 29%۔ اگلی کوشش میں بہتر شرح پر منظور ہو گیا۔</p>
+        </div>
+        <h3>2. زیادہ آمدنی والا کافیل شامل کریں</h3>
+        <p>
+          اگر آپ کی تنخواہ اکیلے آپ کو حد کے نیچے نہیں لا سکتی، تو کافیل شامل کریں۔ مضبوط اقامہ اور زیادہ تنخواہ والا شریکِ حیات یا قریبی رشتہ دار درخواست میں شامل کیا جا سکتا ہے، اور ان کی آمدنی DBR کے حساب کے لیے آپ کی آمدنی کے ساتھ مل جاتی ہے۔
+        </p>
+        <p class="mt-4">
+          ہر بینک وافدین کے لیے کفالت کی پیشکش نہیں کرتا، اس لیے اپنے لون آفیسر سے براہِ راست پوچھیں۔ کافیل کے پاس عموماً مملکت میں ملازمت، معقول باقی میعاد کے ساتھ درست اقامہ، اور وہی کریڈٹ چیک پاس کرنا ضروری ہے۔ دونوں قانونی طور پر ادائیگی کی ذمہ داری بانٹتے ہیں، اس لیے کافیل کو پوری ذمہ داری سمجھنی چاہیے۔
+        </p>
+        <p class="mt-4">
+          کافیل کے اپنے قرضے اب بھی شمار ہوتے ہیں، اس لیے مشترکہ DBR ہی اہم ہے۔ صاف سمعہ رپورٹ اور کم ذاتی ذمہ داریوں والا کافیل منتخب کریں — اکیلے زیادہ تنخواہ کافی نہیں اگر وہ پہلے ہی بھاری قرض لے رہا ہو۔
+        </p>
+        <p class="mt-4">
+          کافیل سے کہیں کہ وہ اپنی اقامہ، تازہ تنخواہ سرٹیفکیٹ اور ملازمت کا ثبوت لائے۔ بینک سے تحریری طور پر پوچھیں کہ کیا کفالت آپ کے پراڈکٹ کے لیے دستیاب ہے اور کیا یہ واقعی آمدنی کو ملاتی ہے یا صرف قرض کی ضمانت دیتی ہے۔ دونوں صورتیں آپ کے DBR پر بہت مختلف اثر ڈالتی ہیں۔
+        </p>
+        <h3>3. تنخواہ سرٹیفکیٹ اپ ڈیٹ کروائیں</h3>
+        <p>
+          یہ پورے سسٹم میں سب سے زیادہ نظر انداز کیا جانے والا حل ہے۔ اگر آپ کو تنخواہ میں اضافہ، ترقی، یا نیا فکسڈ الاؤنس ملا اور آپ کے آجر نے <strong class="text-white">تنخواہ سرٹیفکیٹ (تعریف بالراتب)</strong> اپ ڈیٹ نہیں کیا، تو بینک پھر بھی آپ کی پرانی، کم آمدنی دیکھتا ہے — اور آپ کا DBR مصنوعی طور پر زیادہ لگتا ہے۔
+        </p>
+        <p class="mt-4">
+          اپنے HR ڈیپارٹمنٹ سے تازہ تنخواہ سرٹیفکیٹ لیں جو آپ کی موجودہ بنیادی تنخواہ اور تمام رجسٹرڈ الاؤنسز ظاہر کرے۔ پھر یقینی بنائیں کہ اپ ڈیٹ شدہ رقم آپ کے بینک کے HR/فنانس پورٹل پر بھیجی گئی ہے — بہت سے سعودی بینک تنخواہ کا ڈیٹا براہِ راست آجر کے پے رول سسٹم سے کھینچتے ہیں، اس لیے بینک کو اپ ڈیٹ شدہ ریکارڈ اپنی طرف بھی موصول ہونا چاہیے۔
+        </p>
+        <p class="mt-4">
+          حساب فوری اور صرف کاغذ پر ہے: 10,000 ریال کی تنخواہ پر 1,000 ریال کا اضافہ 45% DBR کو تقریباً 41% تک گرا دیتا ہے۔ اس میں کوئی خرچ نہیں، دن لگتے ہیں، اور آپ کی پوری قرض لینے کی صلاحیت بڑھ سکتی ہے۔
+        </p>
+        <p class="mt-4">
+          ایک احتیاط: کچھ بینک وافدین کے لیے صرف <strong class="text-white">بنیادی تنخواہ</strong> شمار کرتے ہیں، جبکہ دیگر رجسٹرڈ الاؤنسز بھی قبول کرتے ہیں۔ اپنے لون آفیسر سے پوچھیں کہ وہ کون سا نمبر استعمال کرتے ہیں اس سے پہلے کہ آپ اپ ڈیٹ پر بھروسہ کریں۔ اور اگر آپ کا آجر آپ کو کچھ نقد ادا کرتا ہے، تو وہ حصہ سرٹیفکیٹ میں کچھ بھی لکھا ہو، بینک کے ریکارڈ میں ظاہر نہیں ہوگا۔
+        </p>
+        <h3>4. سماح کے ڈیفالٹس یا غلطیاں صاف کریں</h3>
+        <p>
+          آپ کی سماح کریڈٹ رپورٹ وہ واحد دستاویز ہے جو آپ کے قرض کا فیصلہ کرتی ہے۔ ادا نہ کیے گئے یوٹیلیٹی بلز — پرانی stc انٹرنیٹ لائنیں، بجلی کے بل (SEC)، یا بھولا ہوا پوسٹ پیڈ فون اکاؤنٹ — سماح میں چھوٹے ڈیفالٹس کے طور پر ظاہر ہو سکتے ہیں اور آپ کے رسک پروفائل کو رقم کے تناسب سے کہیں زیادہ بڑھا سکتے ہیں۔
+        </p>
+        <p class="mt-4">
+          خوفناک پہلو یہ ہے کہ بہت سے وافدین کو قرض ریجیکٹ ہونے تک ان اکاؤنٹس کے وجود کا پتہ بھی نہیں ہوتا۔ بقایا بیلنس ادا کریں، بندش دستاویز کروائیں، اور سماح کو وہ 30-60 دن دیں جو اسے ادائیگی کے بعد آپ کا ریکارڈ اپ ڈیٹ کرنے کے لیے درکار ہیں۔ اس گائیڈ کا حصہ 4 آپ کو مکمل چیک اور درست کرنے کے عمل سے گزارے گا۔
+        </p>
+        <p class="mt-4">
+          سماح کا ڈیفالٹ صرف DBR نہیں بڑھاتا — یہ آپ کی پوری کریڈٹ تشخیص کو نقصان پہنچاتا ہے۔ بینک ڈیفالٹس کو تناسب سے الگ دیکھتے ہیں، اس لیے ایک چھوٹا ادا نہ کیا گیا stc بل ایک ایسی درخواست ڈبو سکتا ہے جو کاغذ پر کامل نظر آتی ہے۔ اچھی خبر یہ ہے کہ صاف شدہ اور دستاویزی ڈیفالٹ موجودہ ڈیفالٹ کے مقابلے میں سمجھانا کہیں آسان ہے۔
+        </p>
+        <h3>5. نئی کریڈٹ انکوائریوں سے بچیں</h3>
+        <p>
+          جب بھی آپ قرض، کریڈٹ کارڈ، یا کسی ایسی BNPL سروس کے لیے درخواست دیتے ہیں جو سمعہ کو رپورٹ کرتی ہے، آپ کے ریکارڈ پر ایک انکوائری ظاہر ہوتی ہے۔ مختصر مدت میں انکوائریوں کا جھرمٹ مالی پریشانی کا اشارہ دیتا ہے، اور ہر ایک آپ کی کریڈٹ تشخیص سے عارضی طور پر پوائنٹس کاٹ سکتی ہے۔
+        </p>
+        <p class="mt-4">
+          عملی اصول: قرض کی درخواست سے کم از کم <strong class="text-white">30 سے 90 دن پہلے</strong> نیا کریڈٹ لینا بند کریں۔ پانچ بینکوں کو مکمل درخواستیں دے کر "دکانوں کی سیر" نہ کریں۔ اس کے بجائے، پری اپروول ٹولز اور ہمارا کیلکولیٹر استعمال کر کے ایک یا دو بینک منتخب کریں، پھر جب آپ کا DBR اور سماح رپورٹ ترتیب میں ہوں تو صاف درخواست دیں۔
+        </p>
+        <p class="mt-4">
+          ایک انکوائری مہلک نہیں۔ اسی مہینے میں مختلف بینکوں میں کئی انکوائریوں کا نمونہ سرخ جھنڈا اٹھاتا ہے — اور یہ بینک کو یہ بھی بتا سکتا ہے کہ آپ کو کہیں اور ریجیکٹ کیا گیا۔
+        </p>
+        <p class="mt-4">
+          ہارڈ اور سافٹ چیک کا فرق سمجھیں۔ سافٹ چیک — جیسے ہمارا کیلکولیٹر استعمال کرنا یا بینک سے پری اپروول مانگنا — کوئی نشان نہیں چھوڑتا۔ ہارڈ چیک، جو مکمل درخواست جمع کرانے پر ہوتا ہے، نشان چھوڑتا ہے۔ مختصر فہرست بنانے کے لیے سافٹ چیک آزادانہ استعمال کریں، اور اپنے ہارڈ چیک احتیاط سے خرچ کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی عرب میں وافدین کے پوشیدہ DBR قاتل (جیو ٹارگٹنگ)</h2>
+        <p>
+          آپ کا وطن ان قرضوں اور رپورٹنگ کی خصوصیات کو شکل دیتا ہے جو وافدین کو حیران کرتے ہیں۔ یہ مملکت کی سب سے بڑی وافد کمیونٹیز کے لیے مخصوص پھندے ہیں۔
+        </p>
+        <h3>جنوبی ایشیائی وافدین کے لیے (پاکستان / ہندوستان / بنگلہ دیش)</h3>
+        <p>
+          پہلے اچھی خبر: <strong class="text-white">بار بار بین الاقوامی رقم بھیجنا آپ کے DBR میں شمار نہیں ہوتا۔</strong> گھر والوں کی کفالت کے لیے وطن رقم بھیجنا ساما کے حساب میں ماہانہ ذمہ داری کے طور پر ظاہر نہیں ہوتا — اس لیے اپنی فیملی کی مدد کرنے پر آپ کو سزا نہیں ملتی۔
+        </p>
+        <p class="mt-4">
+          پھندا مقامی ہے۔ <strong class="text-white">"خریدو اور بعد میں ادا کرو" (BNPL) خدمات جیسے ٹیبی اور تمارا آپ کے DBR کے خلاف شمار ہوتی ہیں جب انہیں سمعہ کو رپورٹ کیا جاتا ہے۔</strong> 400 ریال کا لباس چار اقساط میں چھوٹا لگتا ہے — لیکن چند فعال BNPL پلانز 500 سے 1,500 ریال کی پوشیدہ ماہانہ ذمہ داریاں شامل کر سکتے ہیں جو آپ کو حد سے باہر دھکیل دیتی ہیں۔
+        </p>
+        <p class="mt-4">
+          عملی مشورہ: درخواست سے 2-3 ماہ پہلے BNPL استعمال بند کریں، یا بقایا اقساط مکمل صاف کریں۔ یہ اس لیے خاموش DBR قاتل ہیں کیونکہ یہ "اصلی قرض" جیسے محسوس نہیں ہوتے۔ اپنی سماح رپورٹ چیک کریں کہ کون سے BNPL فراہم کنندہ آپ کے پلان رپورٹ کرتے ہیں۔
+        </p>
+        <p class="mt-4">
+          خاص طور پر بنگلہ دیشی وافدین کے لیے: رقم بھیجنے کی عادات کوئی عنصر نہیں، لیکن کچھ مقامی فراہم کنندہ قسط پلان بالکل کریڈٹ کارڈ کی طرح رپورٹ کرتے ہیں۔ ہر فعال "بعد میں ادا کرو" پلان کو حقیقی ماہانہ ذمہ داری سمجھیں، کیونکہ بینک کا سسٹم بالکل ایسے ہی سمجھے گا۔
+        </p>
+        <h3>فلپائنی وافدین کے لیے</h3>
+        <p>
+          OFWs کے لیے نمبر ایک مسئلہ آپ کے <strong class="text-white">POEA سے تصدیق شدہ معاہدے کی تنخواہ</strong> اور سعودی بینک کے پاس موجود تنخواہ کے درمیان فرق ہے۔ اگر آپ کے معاہدے میں 7,000 ریال ہے لیکن بینک کا سسٹم 5,500 ریال دکھاتا ہے — کیونکہ آجر نے کم رپورٹ کیا، یا تنخواہ سرٹیفکیٹ اپ ڈیٹ نہیں ہوا — تو آپ کا DBR غلط، کم رقم پر شمار ہوتا ہے۔
+        </p>
+        <p class="mt-4">
+          اسے اس طرح درست کریں: اپنا روزگار معاہدہ، آپ کی POEA/DMW تصدیق شدہ دستاویزات، اور تازہ ترین تنخواہ سرٹیفکیٹ ایک ساتھ بینک لے جائیں۔ بینک سے رجسٹرڈ تنخواہ اپ ڈیٹ کرنے کو کہیں، اور آجر سے کہیں کہ وہ پے رول سسٹم کے ذریعے رقم کی تصدیق کرے۔ درست آمدنی کا نمبر ہزاروں ریال کی اضافی قرض لینے کی صلاحیت کے برابر ہے۔
+        </p>
+        <p class="mt-4">
+          یہی سبق ہر قومیت پر لاگو ہوتا ہے: ہمیشہ تصدیق کریں کہ بینک کے پاس آپ کی تنخواہ کا ریکارڈ آپ کے معاہدے سے میل کھاتا ہے — نہ کہ آپ کی یادداشت سے۔ تنخواہ کا فرق سب سے خاموش DBR قاتل ہے، کیونکہ اس میں سے کچھ بھی آپ کی سماح رپورٹ پر ظاہر نہیں ہوتا اور آپ غلط نمبر کبھی نہیں دیکھتے یہاں تک کہ ریجیکشن کا خط آ جائے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مرحلہ وار: اپنی سماح رپورٹ کیسے چیک اور درست کریں</h2>
+        <p>
+          آپ کی سماح رپورٹ آپ کی لون فائل کی سب سے اہم دستاویز ہے۔ یہ ہے بالکل طریقہ کہ بینک میں جانے سے پہلے اسے کیسے چیک کریں، پڑھیں اور درست کریں۔
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>سماح ایپ ڈاؤن لوڈ کریں</strong> (یا simah.com پر جائیں) اور اپنے اقامہ نمبر اور رجسٹرڈ موبائل سے رجسٹر ہوں۔</li>
+          <li><strong>اپنی کریڈٹ رپورٹ مانگیں۔</strong> سعودی عرب میں ہر فرد سال میں ایک بار مفت کریڈٹ رپورٹ کا حقدار ہے۔</li>
+          <li><strong>"دیر سے ادائیگی" کے جھنڈے چیک کریں۔</strong> ہر اکاؤنٹ لائن دیکھیں: قسط کی رقم، موجودہ بیلنس، اور کوئی ادائیگی کی حیثیت جو دیر، زائد المیعاد یا ڈیفالٹ کے طور پر نشان زد ہو۔</li>
+          <li><strong>نامعلوم اکاؤنٹس پہچانیں۔</strong> پرانی یوٹیلیٹی لائنیں، غیر فعال پوسٹ پیڈ پلان، یا وہ اکاؤنٹس جنہیں آپ نے کھولنا بھول گئے تھے یہاں نظر آئیں گے۔ حوالہ نمبر نوٹ کریں۔</li>
+          <li><strong>سمعہ کے ذریعے براہِ راست اعتراض درج کروائیں</strong> کسی بھی ایسی چیز پر جو غلط، نقلی، یا اب آپ کی نہیں۔ معاون دستاویزات دیں (تصفیہ کے خطوط، بندش کی تصدیق، پاسپورٹ یا اقامہ کی کاپی)۔</li>
+          <li><strong>انتظار کریں اور دوبارہ تصدیق کریں۔</strong> تصحیح کو ظاہر ہونے میں عام طور پر 30-60 دن لگتے ہیں۔ درخواست سے پہلے دوبارہ رپورٹ نکالیں اور ہر لائن کی درستگی کی تصدیق کریں۔</li>
+        </ol>
+        <h3>اپنی رپورٹ کے تین اہم حصے کیسے پڑھیں</h3>
+        <p>
+          آپ کی سماح رپورٹ ایک لمبی فہرست نہیں۔ اس کے واضح حصے ہیں، اور ہر حصہ بینک کے لیے مختلف طریقے سے اہم ہے۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>کریڈٹ خلاصہ:</strong> آپ کے اکاؤنٹس کی کل تعداد، کل بقایا بیلنس، اور آپ کی کریڈٹ ہسٹری کی مجموعی عمر۔ لون آفیسر سب سے پہلے یہی دیکھتا ہے۔</li>
+          <li><strong>اکاؤنٹ تفصیلات:</strong> ہر قرض، کارڈ اور رپورٹ شدہ BNPL پلان اپنی ماہانہ قسط، موجودہ بیلنس اور ادائیگی کی حیثیت کے ساتھ۔</li>
+          <li><strong>انکوائریاں:</strong> ہر بار جب بینک یا فنانس کمپنی نے آپ کی رپورٹ کھینچی۔ یہاں لمبی فہرست سرخ جھنڈا ہے۔</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">پرو ٹپ:</strong> اپنی سماح رپورٹ کا اسکرین شاٹ لیں اور اسے کسی دوست کے سامنے بلند آواز سے پڑھیں۔ نمبر بلند آواز سے پڑھنا آپ کو مجبور کرتا ہے کہ انہیں واقعی دیکھیں — زیادہ تر وافدین ریجیکشن کا سبب بننے والی تفصیل صرف تب دریافت کرتے ہیں جب وہ سست ہو کر دیکھتے ہیں۔
+        </div>
+        <p class="mt-4">
+          اگر آپ کو ایک جائز ڈیفالٹ ملے جو واقعی آپ کا ہے، تو گھبرائیں نہیں۔ اسے مکمل ادا کریں، تحریری تصفیہ ثبوت حاصل کریں، اور اپ ڈیٹ کا انتظار کریں۔ ایک صاف شدہ ڈیفالٹ ایک ادا نہ کیے گئے ڈیفالٹ سے کہیں کم نقصان دہ ہے جو آپ کی فائل میں پرانا ہوتا رہتا ہے۔
+        </p>
+        <p class="mt-4">
+          وقت اہم ہے: سماح اپ ڈیٹس فوری نہیں۔ کسی متنازع یا ڈیفالٹ اکاؤنٹ کی تصفیہ کے بعد اپنی قرض کی درخواست کم از کم 60 دن بعد رکھیں، تاکہ بینک تصحیح شدہ رپورٹ کھینچے۔
+        </p>
+        <p class="mt-4">
+          اگر آپ کے بینک نے تصحیح لاگو ہونے سے پہلے آپ کی رپورٹ کھینچ لی، تو ان سے دوبارہ چیک کرنے کے لیے کہنے سے نہ گھبرائیں۔ ایک لون آفیسر جو اعتراض کے حل کے بعد تازہ، صاف رپورٹ دیکھتا ہے، وہ عام طور پر سرحدی درخواست پر نظرِ ثانی کرنے میں خوش ہوتا ہے — خاص طور پر جب آپ سمعہ کا اعتراض حوالہ لے کر آئیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>DBR درست کرنے کے بعد آپ کتنا قرض لے سکتے ہیں؟</h2>
+        <p>
+          جب آپ کا DBR حد کے نیچے آ جائے، بینک آپ کی مفت ماہانہ گنجائش سے آپ کے زیادہ سے زیادہ قرض کا حساب لگاتا ہے۔ حساب سادہ ہے، چاہے درست شرح بینک بہ بینک مختلف ہو۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مفت ماہانہ گنجائش = (اجازت یافتہ DBR % − آپ کا موجودہ DBR %) × بنیادی تنخواہ</strong></p>
+          <p class="mt-2">مثال: بینک کی حد 45%، آپ کا DBR اب 25%، بنیادی تنخواہ 12,000 ریال → (45% − 25%) × 12,000 = 2,400 ریال کی نئی ماہانہ قسط گنجائش۔</p>
+        </div>
+        <p>
+          وہ 2,400 ریال کی گنجائش مدت اور شرح کی بنیاد پر قرض کے حجم میں بدل جاتی ہے۔ طویل مدت کا مطلب اسی رقم کے لیے کم ماہانہ قسط ہے، اس لیے آپ کی منتخب کردہ مدت براہِ راست اثر انداز ہوتی ہے کہ آپ کتنا لے سکتے ہیں۔
+        </p>
+        <p class="mt-4">
+          ہر بینک قدرے مختلف قیمتوں اور اصولوں کا استعمال کرتا ہے، اس لیے اندازاً نمبر کو حتمی نہ سمجھیں۔ ہمارا مفت{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">ساما لون کیلکولیٹر</a>{' '}
+          آپ کے لیے یہ تبدیلی کرتا ہے اور آپ کی عین تنخواہ اور ذمہ داریوں کے لیے زیادہ سے زیادہ قرض کی رقم دکھاتا ہے۔
+        </p>
+        <p class="mt-4">
+          دو عملی باتیں: مملکت میں زیادہ تر وافد پرسنل لون 12 سے 60 ماہ تک ہوتے ہیں، اور بینک عام طور پر اس وقت بہتر قیمت دیتے ہیں جب آپ کی تنخواہ قرض دینے والے بینک کے اکاؤنٹ میں منتقل ہوتی ہے۔ دونوں عوامل اس قرض کے حجم کو بدل دیتے ہیں جس کے لیے آپ واقعی منظوری پا سکتے ہیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: 2026 میں سعودی عرب میں وافدین کے لیے زیادہ سے زیادہ DBR کیا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">ساما کی حد عام طور پر 45% ہے، لیکن بہت سے بینک وافدین اور مخصوص پراڈکٹس کے لیے زیادہ سخت 33%-35% حد لگاتے ہیں۔ درست نمبر آپ کے بینک اور قرض کی قسم پر منحصر ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا ٹیبی یا تمارا میرے SAMA لون DBR کو متاثر کرتی ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">ہاں، اگر آپ کا BNPL پلان سمعہ کو رپورٹ ہوتا ہے۔ ہر فعال قسط پلان ایک ماہانہ ذمہ داری شامل کر سکتا ہے جو آپ کا DBR بڑھاتا ہے، اس لیے درخواست سے پہلے انہیں صاف کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا مجھے SAMA لون مل سکتا ہے اگر میرا DBR بالکل 45% ہو؟</p>
+            <p class="text-gray-400 text-sm mt-1">ممکن ہے، لیکن آپ حد کے بالکل کنارے پر ہیں۔ زیادہ تر بینک 40% یا اس سے کم پر زیادہ آسانی سے منظوری دیتے ہیں، اور کچھ پراڈکٹ لائنز 33%-35% پر سقف کرتی ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ادا شدہ قرض کو سماح رپورٹ پر ظاہر ہونے میں کتنا وقت لگتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">عام طور پر تصفیہ کے 30 سے 60 دن بعد، اس پر منحصر ہے کہ قرض دہندہ اپ ڈیٹ کب رپورٹ کرتا ہے۔ تحریری طور پر بندش کی تصدیق کریں اور درخواست سے پہلے دوبارہ رپورٹ نکالیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا رہائش جیسے الاؤنس میرے DBR آمدنی میں شمار ہوتے ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">صرف اس صورت میں جب آپ کا آجر انہیں سرکاری طور پر تنخواہ سرٹیفکیٹ اور بینک میں رجسٹر کرے۔ غیر رجسٹرڈ الاؤنسز نظر انداز ہوتے ہیں، جو آپ کے DBR کو مصنوعی طور پر بڑھاتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا کافیل واقعی میرا DBR کم کر سکتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">ہاں۔ جب بینک کفالت کی اجازت دیتا ہے، تو کافیل کی آمدنی آپ کی آمدنی کے ساتھ مل جاتی ہے، جس سے مشترکہ DBR کم ہوتا ہے۔ پہلے تصدیق کریں کہ آپ کا بینک اسے وافد لونز کے لیے پیش کرتا ہے۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آخری بات: DBR کم کرنا حکمت عملی ہے، قسمت نہیں</h2>
+        <p>
+          یہ رہا وہ خلاصہ جس کے لیے آپ آئے تھے۔ DBR کم کرنا اسٹریٹجک مالی انتظام کے بارے میں ہے، صرف زیادہ کمانا نہیں۔ آپ کو معجزے کی ضرورت نہیں — آپ کو صحیح ترتیب چاہیے:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">چھوٹے کارڈ اور قرضے ادا کریں اور بند کریں</strong> تاکہ ماہانہ گنجائش خالی ہو۔</li>
+          <li><strong class="text-white">کافیل شامل کریں</strong> اگر آپ کی تنخواہ اکیلے ناکافی ہو۔</li>
+          <li><strong class="text-white">تنخواہ سرٹیفکیٹ اپ ڈیٹ کروائیں</strong> تاکہ بینک آپ کی اصلی آمدنی دیکھے۔</li>
+          <li><strong class="text-white">سماح کے ڈیفالٹس صاف کریں</strong> — خاص طور پر چھپے ہوئے یوٹیلیٹی بل اور BNPL پلان۔</li>
+          <li><strong class="text-white">درخواست سے 30-90 دن پہلے نئی کریڈٹ انکوائری بند کریں</strong>۔</li>
+        </ul>
+        <p class="mt-4">
+          اس ترتیب پر عمل کریں، اپنی رپورٹ درست کریں، اور آپ کی اگلی درخواست بہتر شرح پر منظوری کا حقیقت پسندانہ موقع رکھتی ہے۔
+        </p>
+        <p class="mt-4">
+          قرض کی اقسام اور ضروریات کی مکمل تفصیل کے لیے، ہماری{' '}
+          <a href="/guide/sama-loan-calculator-saudi-arabia-2026" class="text-desert-primary underline">ساما لون اہلیت اور DBR کیلکولیٹر گائیڈ 2026</a>{' '}
+          پڑھیں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنا DBR اور قرض کی رقم چیک کریں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — تنخواہ، ذمہ داریاں اور زیادہ سے زیادہ قرض ایک جگہ</p>
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">مفت ساما لون کیلکولیٹر استعمال کریں</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>ڈس کلیمر:</strong> یہ گائیڈ سعودی مرکزی بینک (ساما) کے موجودہ ضوابط کی بنیاد پر صرف معلوماتی مقاصد کے لیے ہے۔ انفرادی بینک کی پالیسیاں مختلف ہو سکتی ہیں۔ سرکاری مالی مشورے کے لیے ہمیشہ اپنے بینک کے لون آفیسر سے رجوع کریں۔
+        </p>
+      </div>
+    `, tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">SAMA Loan Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Paano Babaan ang DBR (Debt Burden Ratio) Mo para Maaprubahan ang SAMA Loan sa KSA (2026 Guide)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Isang direkta, kung paano ipapaliwanag ng bank officer, na pagbabalangkas kung paano ibababa ang Debt Burden Ratio mo, lilinisin ang SIMAH report mo, at maaprubahan ang SAMA-regulated loan mo sa 2026.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Na-reject ang Loan Mo — Heto ang Dahilan, at Paano Ito Aayusin</h2>
+        <p>
+          May sahod ka. May matatag na trabaho ka. Ilang buwan ka nang nag-iipon. At pagkatapos ay nagsabi ang bangko ng hindi — kadalasan sa isang malabong linya: "Ang iyong Debt Burden Ratio ay lumampas sa aprubadong limitasyon." Walang paliwanag. Walang gabay. Sarado lang ang pinto, eksaktong oras na kailangan mo nang sobra ang pera.
+        </p>
+        <p class="mt-4">
+          Hindi ka nag-iisa, at hindi ito katapusan ng daan. <strong class="text-desert-primary">Ang mataas na DBR ang pinakakaraniwang dahilan kung bakit nare-reject ang personal, sasakyan, at bahay na loan para sa mga expat sa Saudi Arabia</strong> — at sa karamihan ng kaso, kayang ayusin ito sa loob ng ilang linggo.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direktang sagot:</strong> Ang mga regulasyon ng SAMA ay nagtatakda ng DBR ceiling mo sa humigit-kumulang 33% hanggang 45% ng iyong basic salary. Kung masyadong mataas ang DBR mo, maaari mo itong ibaba sa pamamagitan ng pagbayad sa maliliit na utang, pagdagdag ng co-signer, pag-update ng salary certificate mo, o pag-aayos ng mga error sa SIMAH report mo.
+        </p>
+        <p class="mt-4">
+          Kadalasan, ang mga rejection ay dulot ng ilang tahimik na problema, hindi ng tunay mong kakayahang magbayad. Ang gabay na ito ay isinulat kung paano ito ipapaliwanag sa iyo ng bank loan officer sa kabilang side ng mesa: malinaw na numero, malinaw na hakbang, at walang paghula.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Ang makukuha mo sa gabay na ito:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Simpleng paliwanag kung ano ang DBR at kung paano ito kinukwenta ng mga SAMA bank.</li>
+            <li>Ang 5 napatunayang paraan para ibaba ang DBR mo bago ka muling mag-apply.</li>
+            <li>Ang mga nakatagong DBR killer na tiyak na tumatama sa mga South Asian, Filipino, at iba pang expat community.</li>
+            <li>Step-by-step na SIMAH report check-and-fix plan, na may eksaktong numero.</li>
+            <li>Direktang sagot sa mga pinaka-tinatanong na DBR questions para sa 2026.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Bago ka gumawa ng kahit ano, alamin ang eksaktong posisyon mo gamit ang aming libreng{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">SAMA Loan Calculator</a> — ipinapakita nito ang kasalukuyang DBR mo at maximum loan amount sa loob ng wala pang isang minuto.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang DBR at Bakit Mahalaga Ito sa mga SAMA Bank</h2>
+        <p>
+          Ang Debt Burden Ratio (DBR) ay ang porsyento ng iyong buwanang kita na naka-kompromiso na sa pagbayad ng utang. Ginagamit ito ng mga bangko para magpasya kung kaya mo bang magbayad ng isa pang loan nang hindi nalulunod sa mga buwanang installment. Ito ang nag-iisang numero na tumutukoy kung magkano ang ipapautang sa iyo ng Saudi bank — hindi ang sahod mo lang.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ang DBR formula:</strong></p>
+          <p class="mt-2 font-mono text-white">(Kabuuang Buwanang Obligasyon sa Utang ÷ Kabuuang Buwanang Kita) × 100 = DBR%</p>
+          <p class="mt-2">Halimbawa: Kung ang basic salary mo ay SAR 10,000 at ang kasalukuyang buwanang obligasyon mo ay SAR 4,000, ang DBR mo ay (4,000 ÷ 10,000) × 100 = <strong class="text-desert-primary">40%</strong>.</p>
+        </div>
+        <p>
+          Sa simpleng salita: kapag mas mababa ang DBR mo, mas malaki ang kakayahang makita ng bangko para sa isang bagong buwanang installment. Kaya naman mas mahalaga ang ratio kaysa sa kabuuang sahod mo. Ang taong kumikita ng SAR 25,000 na walang utang ay maaaring umutang ng mas malaki kaysa sa taong kumikita ng SAR 35,000 pero may utang na sa kalahati nito.
+        </p>
+        <p class="mt-4">
+          Mahigpit ang SAMA sa mga bangko dito para sa proteksyon mo mismo. Umiiral ang consumer finance regulations para walang customer na itulak sa mga installment na hindi niya talaga kayang bayaran. Kapag inilapat ng bangko ang DBR ceiling, hindi ka nito pinaparusahan — sumusunod lang ito sa isang patakaran na dinisenyo upang itigil ang sobrang pagka-utang. Gumagana ang patakarang iyon pabor sa iyo kapag natutunan mo nang laruin ito nang tama.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Ang SAMA rule:</strong> Itinatakda ng Saudi Central Bank (SAMA) ang ceiling. Sa ilalim ng kasalukuyang consumer finance regulations, karaniwang hindi inaaprubahan ng mga bangko sa Saudi Arabia ang isang loan kung lalampas ang kabuuang DBR mo sa <strong class="text-desert-primary">45%</strong> — at maraming bangko ang naglalapat ng mas mahigpit na <strong class="text-desert-primary">33%</strong> hanggang 35% na ceiling para sa ilang expat categories, bagong customer sa bangko, o partikular na product lines.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">DBR Band</th>
+                <th class="text-left py-2">Ano ang Ibig Sabihin</th>
+                <th class="text-left py-2">Tsansa ng Pag-apruba</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Mas mababa sa 33%</td><td class="py-2">Malakas ang kakayahan, mababa ang risk</td><td class="py-2 text-green-400">Mataas — mabilis na aprub</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">33% – 45%</td><td class="py-2">Nasa o malapit sa ceiling ng maraming bangko</td><td class="py-2 text-yellow-400">Borderline — depende sa bangko</td></tr>
+              <tr><td class="py-2">Higit sa 45%</td><td class="py-2">Lampas sa SAMA ceiling</td><td class="py-2 text-red-400">Reject sa karamihan ng bangko</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Ano ang Binibilang bilang "Buwanang Kita" sa DBR Calculation</h3>
+        <p>
+          Kinukwenta ng mga bangko ang DBR mo batay sa <strong class="text-white">basic salary na nakatala sa bangko</strong> — hindi sa take-home pay mo. Ang mga allowance tulad ng housing, transport, o overtime ay binibilang lamang kung opisyal itong nirerehistro ng employer mo sa salary certificate at sa bangko. Ang perang basta na lang dumating sa account mo ay hindi pinapansin.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Binibilang:</strong> basic salary, mga rehistradong fixed allowance (housing, transport, living), at anumang kita na pormal na naiulat sa bangko.</li>
+          <li><strong>Hindi binibilang:</strong> overtime, isang beses na bonus, freelance income, at cash na dumarating nang walang opisyal na payroll record.</li>
+        </ul>
+        <p>
+          Ito ang unang lugar kung saan naipit ang mga expat: mas mataas ang tunay nilang kita kaysa sa nakikita ng bangko. Ang pag-aayos ng mismatch na iyon ay isa sa pinakamabilis na panalo sa gabay na ito.
+        </p>
+        <h3>Ano ang Binibilang bilang "Buwanang Obligasyon"</h3>
+        <p>
+          Mas malawak ang obligasyon side kaysa sa inaasahan ng karamihan. Isinasama ng mga Saudi bank ang bawat paulit-ulit na bayad na lumalabas sa credit file mo — hindi lang ang mga loan na itinuturing mong "tunay na utang."
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Credit card minimum payments</strong> — madalas kinukwenta bilang porsyento ng kabuuang card limit, kahit walang balance.</li>
+          <li><strong>Personal loan installments</strong> — kasama ang loan na ina-applyan mo.</li>
+          <li><strong>Auto loan installments</strong> — aktibong car financing.</li>
+          <li><strong>Mortgage / REAL installments</strong> — mga bayad sa home financing.</li>
+          <li><strong>Co-signed loans na ginagarantiya mo</strong> — kung co-signer ka sa loan ng ibang tao, binibilang ito laban sa iyo.</li>
+          <li><strong>BNPL plans na iniulat sa SIMAH</strong> — Tabby, Tamara, at mga katulad na installment plan kapag iniulat ito ng provider.</li>
+        </ul>
+        <p>
+          Pansinin kung ano ang nasa listahan: tungkol ito sa mga nakatuong, paulit-ulit na bayad na kayang i-verify ng bangko. Ito ang dahilan kung bakit nasasaktan ka pa rin ng zero-balance credit card — hindi pinagkakatiwalaan ng bangko ang kasalukuyang balance mo, ginagamit nito ang potensyal na pasanin ng card. Ang pagsasara ng card ay ganap na nag-aalis ng pasaning iyon.
+        </p>
+        <p class="mt-4">
+          Binabawasan ng bawat isa dito ang espasyong natitira sa iyo para sa bagong installment. Ang magandang balita: halos lahat ng ito ay nasa kontrol mo, at ang pag-alis sa mga ito ay may agarang epekto sa ratio mo.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Buong DBR Worked Example (Kopyahin ang Math na Ito)</h2>
+        <p>
+          Dumaan tayo sa isang makatotohanang expat profile para makita mo nang eksakto kung paano gumagalaw ang mga numero. Gagamit tayo ng basic salary na SAR 14,000 at kombinasyon ng mga karaniwang obligasyon.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Hakbang</th>
+                <th class="text-left py-2">Item</th>
+                <th class="text-left py-2">Buwanang Halaga</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">1</td><td class="py-2">Basic salary (record ng bangko)</td><td class="py-2">SAR 14,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">2</td><td class="py-2">Credit card #1 (SAR 20,000 limit, 3% minimum)</td><td class="py-2">SAR 600</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">3</td><td class="py-2">Credit card #2 (SAR 10,000 limit, 3% minimum)</td><td class="py-2">SAR 300</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">4</td><td class="py-2">Personal loan installment</td><td class="py-2">SAR 2,100</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">5</td><td class="py-2">Aktibong BNPL plans (Tabby/Tamara)</td><td class="py-2">SAR 750</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">6</td><td class="py-2">Kabuuang buwanang obligasyon</td><td class="py-2 text-desert-primary">SAR 3,750</td></tr>
+              <tr><td class="py-2">7</td><td class="py-2">Kasalukuyang DBR (3,750 ÷ 14,000)</td><td class="py-2 text-red-400">26.8%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          Sa 26.8%, mukhang malusog ang profile na ito. Ngayon idagdag ang bagong loan na gusto mo: isang SAR 120,000 personal loan na humigit-kumulang 3,700 SAR kada buwan sa loob ng 36 na buwan.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Bagong DBR pagkatapos ng loan:</strong> (3,750 + 3,700) ÷ 14,000 = 53.2% — <strong class="text-red-400">reject</strong>, dahil malayong higit ito sa 45% ceiling.</p>
+          <p class="mt-2"><strong class="text-white">Kung aalisin mo muna ang dalawang credit card at ang BNPL:</strong> (0 + 0 + 2,100 + 0 + 3,700) ÷ 14,000 = 41.4% — <strong class="text-green-400">maaaring maaprubahan</strong> sa karamihan ng bangko.</p>
+        </div>
+        <p class="mt-4">
+          Ito ang buong laro sa isang halimbawa: <strong class="text-white">ang pagpalaya ng buwanang kapasidad na ilang daang Riyal lang ay maaaring maging pagkakaiba ng "reject" at "aprub."</strong> Mukhang hindi nakakapinsala ang maliliit na obligasyon hanggang idagdag ng bangko ang bagong installment mo sa itaas ng mga ito.
+        </p>
+        <p class="mt-4">
+          Pansinin na walang nagbago sa sahod mo sa halimbawang ito. Nanatiling SAR 14,000 ang kita sa buong panahon. Ang nagbago ay ang utang side ng equation — at iyon mismo ang punto: <strong class="text-white">ang DBR mo ay isang ratio na kayang galawin sa pamamagitan ng pagbawas ng obligasyon, hindi lang sa pagtaas ng kita.</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Top 5 Napatunayang Paraan para Ibaba ang DBR Mo Bago Mag-Apply</h2>
+        <p>
+          Ang limang galaw na ito ay ang eksaktong hakbang na gagabayan ka ng isang bihasang Saudi loan officer. Gawin mo sila nang sunod-sunod, at panooring bumaba ang DBR porsyento mo sa harap mismo ng mga mata mo.
+        </p>
+        <h3>1. Bayaran ang Maliliit na Credit Card o Personal Loans</h3>
+        <p>
+          Ang pinakamabilis na paraan para ibaba ang DBR mo ay alisin muna ang maliliit, mataas-interes na obligasyon. Binibilang ng mga bangko ang isang credit card laban sa iyo batay sa <strong class="text-white">buwanang minimum payment</strong> — o sa ilang kaso, isang fixed na porsyento ng limit — kahit na wala kang balance.
+        </p>
+        <p class="mt-4">
+          Isara nang buo ang pinakamaliliit na card, hindi lang bayaran. Ang isang card na may SAR 5,000 limit ay maaaring ituring na SAR 250–500 na buwanang obligasyon sa papel, na tahimik na kumukuha sa capacity mo para sa approval. Ayusin ito, i-cancel, at kumuha ng nakasulat na patunay ng pagsasara mula sa naglabas na bangko.
+        </p>
+        <p class="mt-4">
+          Bayaran ang mga utang sa ayos ng pinakamaliit hanggang pinakamalaki (ang "snowball" method). Bawat card na isinara mo ay permanenteng buwanang obligasyong tinanggal sa file mo. Huwag magbukas ng kapalit na card pagkatapos — ang bagong card ay nagdadagdag muli ng parehong obligasyon at nag-trigger ng bagong credit inquiry.
+        </p>
+        <p class="mt-4">
+          Asahan na may oras bago mag-reflect ang pagsasara. Iniuulat ng mga bangko ang pagsasara ng account sa SIMAH ayon sa kanilang sariling iskedyul, kadalasan sa loob ng 30 hanggang 60 araw. Huwag mag-apply sa loan mo isang araw pagkatapos mong bayaran ang isang card — maghintay hanggang lumabas ang pagsasara sa SIMAH report mo, kung hindi, makikita pa rin ng bangko ang lumang obligasyon.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tunay na halimbawa:</strong> Isang expat na may SAR 12,000 basic salary ang may dalawang credit card (SAR 15,000 at SAR 8,000 limits) at isang maliit na SAR 20,000 personal loan. Ang papel na DBR ay mukhang 46% — reject. Isinara niya ang parehong card at binayaran ang loan. Bagong DBR: 29%. Naaprubahan sa susunod na pagtatangka sa mas magandang rate.</p>
+        </div>
+        <h3>2. Magdagdag ng Co-Signer (Kafeel) na May Mataas na Kita</h3>
+        <p>
+          Kung hindi kayang ibaba ng kita mo lang sa ceiling, magdagdag ng co-signer. Maaaring idagdag sa application ang isang asawa o kaanib ng pamilya na may malakas na Iqama at mas mataas na sahod, at pinagsasama ang kita nila sa iyo para sa DBR calculation.
+        </p>
+        <p class="mt-4">
+          Hindi lahat ng bangko ay nag-aalok ng co-signing para sa mga expat, kaya tanungin nang direkta ang loan officer mo. Ang co-signer ay karaniwang dapat na empleyado sa Kaharian, may valid na Iqama na may sapat na natitirang validity, at pumasa sa parehong credit check. Pareho kayong may legal na obligasyon sa pagbabayad, kaya dapat na lubos na maunawaan ng co-signer ang commitment.
+        </p>
+        <p class="mt-4">
+          Binibilang pa rin ang mga utang ng co-signer mismo, kaya ang pinagsamang DBR ang mahalaga. Pumili ng co-signer na may malinis na SIMAH report at mababang personal na obligasyon — hindi sapat ang mataas na sahod kung may mabigat na utang na sila.
+        </p>
+        <p class="mt-4">
+          Ipasama sa co-signer ang Iqama, kamakailang salary certificate, at patunay ng trabaho. Itanong sa bangko nang nakasulat kung available ang co-signing para sa produkto mo at kung talagang pinagsasama nito ang kita o garantisado lang ang loan. Iba ang epekto ng dalawang opsyon na ito sa DBR mo.
+        </p>
+        <h3>3. Humiling ng Salary Certificate Update</h3>
+        <p>
+          Ito ang pinaka-napapabayaang ayos sa buong sistema. Kung tumaas ang sahod mo, na-promote ka, o may bagong fixed allowance at hindi na-update ng employer mo ang <strong class="text-white">salary certificate (تعريف بالراتب)</strong>, nakikita pa rin ng bangko ang luma, mas mababang kita mo — at mukhang artipisyal na mataas ang DBR mo.
+        </p>
+        <p class="mt-4">
+          Hilingin sa HR department mo ang bagong salary certificate na sumasalamin sa kasalukuyang basic salary at lahat ng rehistradong allowance. Pagkatapos siguraduhin na naisumite ang updated na numero sa HR/Finance portal ng bangko mo — maraming Saudi bank ang direktang kumukuha ng data ng sahod mula sa payroll system ng employer, kaya dapat matanggap din ng bangko ang updated na record sa kanilang side.
+        </p>
+        <p class="mt-4">
+          Agaran at puro papel lang ang math: ang SAR 1,000 na pagtaas sa SAR 10,000 na sahod ay nagbababa ng 45% na DBR sa humigit-kumulang 41%. Walang halaga ito, ilang araw lang, at kayang iangat ang buong borrowing capacity mo.
+        </p>
+        <p class="mt-4">
+          Isang babala: ang ilang bangko ay <strong class="text-white">basic salary lang</strong> ang binibilang para sa mga expat, habang ang iba ay tumatanggap din ng rehistradong allowance. Itanong sa loan officer mo kung aling numero ang ginagamit nila bago umasa sa update. At kung bahagi ng sahod mo ang binabayaran nang cash, hindi lalabas ang bahaging iyon sa mga record ng bangko kahit anong sabihin ng certificate.
+        </p>
+        <h3>4. Alisin ang mga SIMAH Default o Error</h3>
+        <p>
+          Ang SIMAH credit report mo ang nag-iisang dokumento na nagdedesisyon sa loan mo. Ang hindi nabayarang utility bills — lumang STC internet lines, SEC electricity bills, o nakalimutang postpaid phone account — ay maaaring lumabas sa SIMAH bilang maliliit na default at magpataas sa risk profile mo nang hindi proporsyonal sa halaga ng utang.
+        </p>
+        <p class="mt-4">
+          Ang nakakatakot na bahagi ay maraming expat ang hindi alam na umiiral ang mga account na ito hanggang ma-reject ang loan. Ayusin ang anumang natitirang balanse, ipa-dokumento ang pagsasara, at bigyan ang SIMAH ng 30–60 araw na karaniwang kailangan nito para i-update ang record mo pagkatapos ng pagbabayad. Ang Section 4 ng gabay na ito ay gagabay sa iyo sa buong check-and-fix process.
+        </p>
+        <p class="mt-4">
+          Higit pa sa pagtaas ng DBR ang ginagawa ng SIMAH default — sinisira nito ang buong credit assessment mo. Hiwalay na nire-review ng mga bangko ang mga default mula sa ratio mo, kaya ang maliit na hindi bayad na STC bill ay maaaring mag-sink ng application na perpekto sa papel. Ang magandang balita ay mas madaling ipaliwanag ang naayos at na-dokumentong default kaysa sa kasalukuyang default.
+        </p>
+        <h3>5. Iwasan ang mga Bagong Credit Inquiry</h3>
+        <p>
+          Bawat oras na mag-a-apply ka sa loan, credit card, o kahit sa BNPL service na nag-uulat sa SIMAH, lumalabas ang inquiry sa record mo. Ang kumpol ng mga inquiry sa maikling panahon ay senyales ng pinansyal na kagipitan, at bawat isa ay maaaring pansamantalang magbawas ng puntos sa credit assessment mo.
+        </p>
+        <p class="mt-4">
+          Praktikal na patakaran: itigil ang pag-apply ng bagong credit nang hindi bababa sa <strong class="text-white">30 hanggang 90 araw</strong> bago ang loan application mo. Huwag "mag-shop around" sa pamamagitan ng pagsusumite ng kumpletong application sa limang bangko. Sa halip, gumamit ng pre-approval tools at ng calculator namin para mag-shortlist ng isa o dalawang bangko, pagkatapos mag-apply nang malinis kapag nasa maayos na estado na ang DBR at SIMAH report mo.
+        </p>
+        <p class="mt-4">
+          Hindi nakamamatay ang isang inquiry. Ang pattern ng ilang inquiry sa iba't ibang bangko sa parehong buwan ang nagtataas ng red flag — at maaari rin itong sabihin sa bangko na na-reject ka sa ibang lugar.
+        </p>
+        <p class="mt-4">
+          Unawain ang pagkakaiba ng hard at soft check. Ang soft check — tulad ng paggamit ng calculator namin o pagtatanong sa bangko ng pre-approval — ay walang marka. Ang hard check, na nangyayari kapag nagsumite ka ng kumpletong application, ay may marka. Gamiting malaya ang mga soft check para mag-shortlist, at gamiting maingat ang mga hard check.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang mga Nakatagong DBR Killer para sa mga Expat sa Saudi Arabia (GEO Targeting)</h2>
+        <p>
+          Hinuhubog ng bansang pinagmulan mo ang mga utang at reporting quirks na nakakagulat sa mga expat. Ito ang mga partikular na bitag para sa pinakamalalaking expat community sa Kaharian.
+        </p>
+        <h3>Para sa mga South Asian Expat (Pakistan / India / Bangladesh)</h3>
+        <p>
+          Mabuting balita muna: <strong class="text-white">hindi binibilang ang madalas na international remittance sa DBR mo.</strong> Ang pagpapadala ng pera pauwi para suportahan ang pamilya ay hindi lumalabas bilang buwanang obligasyon sa mga SAMA calculation — kaya hindi ka pinaparusahan sa pagtulong sa pamilya mo.
+        </p>
+        <p class="mt-4">
+          Ang bitag ay lokal. <strong class="text-white">Binibilang laban sa DBR mo ang "Buy Now, Pay Later" (BNPL) services tulad ng Tabby at Tamara kapag iniulat ang mga ito sa SIMAH.</strong> Ang SAR 400 na damit na hinati sa apat na installment ay mukhang maliit — pero ang ilang aktibong BNPL plan ay maaaring magdagdag ng SAR 500–1,500 na nakatagong buwanang obligasyon na magtutulak sa iyo lampas sa limit.
+        </p>
+        <p class="mt-4">
+          Praktikal na payo: ihinto ang paggamit ng BNPL sa loob ng 2–3 buwan bago mag-apply, o bayaran nang buo ang mga natitirang installment. Ang mga ito ay tahimik na DBR killer eksakto dahil parang "hindi tunay na utang." Suriin ang SIMAH report mo para makita kung aling BNPL providers ang talagang nag-uulat ng mga plan mo.
+        </p>
+        <p class="mt-4">
+          Partikular para sa mga Bangladeshi expat: hindi factor ang remittance habits, pero may mga lokal na provider na nag-uulat ng installment plans tulad ng credit cards. Ituring ang bawat aktibong "pay later" plan bilang tunay na buwanang obligasyon, dahil eksaktong ganoon ang pagtrato ng system ng bangko.
+        </p>
+        <h3>Para sa mga Filipino Expat</h3>
+        <p>
+          Ang numero unong isyu ng mga OFW ay ang mismatch sa pagitan ng <strong class="text-white">POEA-verified contract salary</strong> mo at kung ano ang nasa file ng Saudi bank. Kung ang contract mo ay nagsasabing SAR 7,000 pero ang system ng bangko ay nagpapakita ng SAR 5,500 — dahil nag-under-report ang employer mo, o hindi na-update ang salary certificate — kinukwenta ang DBR mo sa mali, mas mababang numero.
+        </p>
+        <p class="mt-4">
+          Ayusin ito sa pamamagitan ng pagsama ng employment contract, POEA/DMW-verified documents, at pinakabagong salary certificate papunta sa bangko nang magkakasama. Hilingin sa bangko na i-update ang rehistradong sahod mo, at ipakumpirma sa employer mo ang numero sa pamamagitan ng payroll system. Ang tamang income figure ay katumbas ng libu-libong Riyal na dagdag na borrowing capacity.
+        </p>
+        <p class="mt-4">
+          Nalalapat ang parehong aral sa bawat nasyonalidad: laging i-verify na tugma ang record ng bangko sa sahod mo sa contract mo — hindi sa naaalala mo. Ang salary mismatch ang pinakatahimik na DBR killer sa lahat, dahil walang bahagi nito ang lumalabas sa SIMAH report mo at hindi mo nakikita ang maling numero hanggang dumating ang rejection letter.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: Paano I-check at Ayusin ang SIMAH Report Mo</h2>
+        <p>
+          Ang SIMAH report mo ang pinakamahalagang dokumento sa loan file mo. Heto nang eksakto kung paano ito i-check, basahin, at ayusin bago ka pumasok sa bangko.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>I-download ang SIMAH app</strong> (o bisitahin ang simah.com) at mag-register gamit ang Iqama number at rehistradong mobile mo.</li>
+          <li><strong>Humingi ng credit report.</strong> Ang bawat indibidwal ay may karapatan sa isang libreng credit report bawat taon sa Saudi Arabia.</li>
+          <li><strong>I-check ang "Late Payment" flags.</strong> Tingnan ang bawat account line: installment amounts, kasalukuyang balances, at anumang payment status na may markang late, overdue, o default.</li>
+          <li><strong>Kilalanin ang hindi mo kilalang account.</strong> Lalabas dito ang mga lumang utility lines, dormant postpaid plans, o account na nakalimutan mong binuksan. Itala ang reference numbers.</li>
+          <li><strong>Mag-file ng dispute nang direkta sa SIMAH</strong> para sa anumang mali, duplicate, o hindi na sa iyo. Magbigay ng supporting documents (settlement letters, closure confirmations, kopya ng passport o Iqama).</li>
+          <li><strong>Maghintay at mag-verify ulit.</strong> Karaniwang tumatagal ng 30–60 araw ang mga correction bago mag-reflect. Hilahin muli ang report mo at kumpirmahing tama ang bawat linya bago mag-apply.</li>
+        </ol>
+        <h3>Paano Basahin ang Tatlong Pangunahing Seksyon ng Report Mo</h3>
+        <p>
+          Ang SIMAH report mo ay hindi isang mahabang listahan. May malinaw itong mga seksyon, at iba ang kahalagahan ng bawat isa sa bangko.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Credit summary:</strong> kabuuang bilang ng account mo, kabuuang outstanding balances, at kabuuang edad ng credit history mo. Ito ang unang sinusuri ng loan officer.</li>
+          <li><strong>Account details:</strong> bawat loan, card, at iniulat na BNPL plan kasama ang buwanang installment, kasalukuyang balance, at payment status.</li>
+          <li><strong>Inquiries:</strong> bawat oras na hinila ng bangko o finance company ang report mo. Ang mahabang listahan dito ay red flag.</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Pro tip:</strong> Kumuha ng screenshot ng SIMAH report mo at basahin ito nang malakas sa isang kaibigan. Pinipilit ka ng pagbasa ng malakas sa mga numero na talagang makita ang mga ito — natutuklasan lang ng karamihan sa mga expat ang detalye na sanhi ng rejection kapag nagbagal sila at tumingin.</p>
+        </div>
+        <p class="mt-4">
+          Kung makakita ka ng lehitimong default na tunay sa iyo, huwag mag-panic. Bayaran ito nang buo, kumuha ng nakasulat na settlement proof, at maghintay sa update. Ang isang naayos na default ay hindi gaanong nakakasama kaysa sa hindi bayad na patuloy na tumatanda sa file mo.
+        </p>
+        <p class="mt-4">
+          Mahalaga ang timing: hindi instant ang mga SIMAH update. Iplano ang loan application mo nang hindi bababa sa 60 araw pagkatapos mong ayusin ang anumang disputed o defaulted account, para ang naitama na report ang hilahin ng bangko.
+        </p>
+        <p class="mt-4">
+          Kung hinila ng bangko mo ang report mo bago nailapat ang correction, huwag matakot humiling na i-check nila ulit. Ang loan officer na nakakakita ng bago, malinis na report pagkatapos ng dispute resolution ay karaniwang masaya na muling isaalang-alang ang borderline application — lalo na kapag dumating ka dala ang SIMAH dispute reference.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Magkano ang Kayang Mong Umutang Pagkatapos Ayusin ang DBR Mo?</h2>
+        <p>
+          Kapag nasa ilalim na ng ceiling ang DBR mo, kinukwenta ng bangko ang maximum loan mo mula sa libreng buwanang kapasidad mo. Simple ang math, kahit iba-iba ang eksaktong rate ng bawat bangko.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Libreng buwanang kapasidad = (allowed DBR % − kasalukuyang DBR %) × basic salary</strong></p>
+          <p class="mt-2">Halimbawa: ceiling ng bangko 45%, kasalukuyang DBR mo 25%, basic salary SAR 12,000 → (45% − 25%) × 12,000 = SAR 2,400 na bagong buwanang installment capacity.</p>
+        </div>
+        <p>
+          Ang SAR 2,400 na capacity na iyon ay nagiging laki ng loan batay sa term at rate. Ang mas mahabang term ay nangangahulugang mas mababang buwanang installment para sa parehong halagang hiniram, kaya naman direktang nakakaapekto ang term na pipiliin mo sa magkano ang kaya mong kunin.
+        </p>
+        <p class="mt-4">
+          Bahagyang iba ang pricing at rules ng bawat bangko, kaya huwag ituring ang tinatayang numero bilang pinal. Ang aming libreng{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">SAMA Loan Calculator</a>{' '}
+          ang gumagawa ng conversion na ito para sa iyo at ipinapakita ang maximum loan amount para sa eksaktong sahod at obligasyon mo.
+        </p>
+        <p class="mt-4">
+          Dalawang praktikal na tala: karamihan ng expat personal loans sa Kaharian ay tumatakbo ng 12 hanggang 60 buwan, at karaniwang mas paborable ang pricing ng mga bangko kapag inilipat ang sahod mo sa account sa lending bank mismo. Pareho nilang binabago ang laki ng loan na makatotohanang maaaprubahan para sa iyo.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Ano ang maximum DBR na pinapayagan para sa mga expat sa Saudi Arabia sa 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang SAMA ceiling ay karaniwang 45%, pero maraming bangko ang naglalapat ng mas mahigpit na 33%–35% na limit para sa mga expat at partikular na produkto. Depende sa bangko at uri ng loan ang eksaktong numero.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Nakakaapekto ba ang Tabby o Tamara sa DBR ng SAMA loan ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo, kung iniulat ang BNPL plan mo sa SIMAH. Bawat aktibong installment plan ay maaaring magdagdag ng buwanang obligasyon na nagpapataas ng DBR mo, kaya i-clear ang mga ito bago mag-apply.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari ba akong makakuha ng SAMA loan kung eksaktong 45% ang DBR ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Posible, pero nasa mismong gilid ka na ng ceiling. Mas kumportableng nag-aapruba ang karamihan ng bangko sa 40% o mas mababa, at ang ilang product lines ay may cap sa 33%–35%.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Gaano katagal bago mag-reflect sa SIMAH report ko ang bayad nang utang?</p>
+            <p class="text-gray-400 text-sm mt-1">Karaniwang 30 hanggang 60 araw pagkatapos ng settlement, depende kung kailan iniulat ng creditor ang update. Kumpirmahin nang nakasulat ang pagsasara at hilahin muli ang report mo bago mag-apply.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Binibilang ba ang mga allowance tulad ng housing sa DBR income ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Lamang kung opisyal itong nirerehistro ng employer mo sa salary certificate at sa bangko. Hindi pinapansin ang mga hindi rehistradong allowance, na artipisyal na nagpapataas ng DBR mo.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari bang talagang bawasan ng co-signer ang DBR ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Kapag pinapayagan ng bangko ang co-signing, pinagsasama ang kita ng co-signer sa iyo, na nagpapababa ng pinagsamang DBR mo. Kumpirmahin muna na inaalok ito ng bangko mo para sa mga expat loan.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pangwakas: Ang Pagbaba ng DBR Mo ay Estratehiya, Hindi Suwerte</h2>
+        <p>
+          Heto ang buod na hinahanap mo. Ang pagbaba ng DBR mo ay tungkol sa strategic financial management, hindi lang sa pagtaas ng kita. Hindi mo kailangan ng himala — kailangan mo ang tamang pagkakasunod-sunod:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">Bayaran at isara</strong> ang maliliit na card at loan para palayain ang buwanang kapasidad.</li>
+          <li><strong class="text-white">Magdagdag ng co-signer</strong> kung hindi sapat ang kita mo lang.</li>
+          <li><strong class="text-white">I-update ang salary certificate</strong> para makita ng bangko ang totoong kita mo.</li>
+          <li><strong class="text-white">Alisin ang mga SIMAH default</strong> — lalo na ang nakatagong utility bills at BNPL plans.</li>
+          <li><strong class="text-white">Itigil ang mga bagong credit inquiry</strong> 30–90 araw bago ka mag-apply.</li>
+        </ul>
+        <p class="mt-4">
+          Sundin ang ayos na iyon, ayusin ang report mo, at magkakaroon ng makatotohanang tsansa ng approval sa mas magandang rate ang susunod na application mo.
+        </p>
+        <p class="mt-4">
+          Para sa kumpletong breakdown ng mga uri ng loan at requirements, basahin ang aming{' '}
+          <a href="/guide/sama-loan-calculator-saudi-arabia-2026" class="text-desert-primary underline">SAMA Loan Eligibility &amp; DBR Calculator Guide 2026</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">I-check ang Eksaktong DBR at Loan Amount Mo Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — sahod, obligasyon, at maximum loan amount sa isang lugar</p>
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">Gamitin ang Libreng SAMA Loan Calculator</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa informational purposes batay sa kasalukuyang Saudi Central Bank (SAMA) regulations. Maaaring mag-iba ang mga patakaran ng bawat bangko. Palaging kumonsulta sa loan officer ng bangko mo para sa opisyal na financial advice.
+        </p>
+      </div>
+    `, bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">SAMA Loan Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">কিভাবে আপনার DBR (Debt Burden Ratio) কমানো যায় সৌদি আরবে SAMA ঋণ অনুমোদনের জন্য (2026 গাইড)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">একটি সরাসরি, ব্যাংক কর্মকর্তার ভাষায় লেখা গাইড — কীভাবে আপনার Debt Burden Ratio কমানো যায়, SIMAH রিপোর্ট পরিষ্কার করা যায়, এবং ২০২৬ সালে SAMA-নিয়ন্ত্রিত ঋণ অনুমোদন করানো যায়।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আপনার ঋণ প্রত্যাখ্যাত হয়েছে — কারণ এখানে, এবং সমাধান এখানে</h2>
+        <p>
+          আপনার বেতন আছে। চাকরি স্থিতিশীল। মাসের পর মাস সঞ্চয় করছেন। তারপর ব্যাংক বলল না — সাধারণত একটি অস্পষ্ট লাইনে: "আপনার Debt Burden Ratio অনুমোদিত সীমা অতিক্রম করেছে।" কোনো ব্যাখ্যা নেই। কোনো দিকনির্দেশনা নেই। শুধু একটি বন্ধ দরজা, ঠিক সেই মুহূর্তে যখন আপনার সবচেয়ে বেশি টাকার দরকার ছিল।
+        </p>
+        <p class="mt-4">
+          আপনি একা নন, এবং এটাই শেষ পথ নয়। <strong class="text-desert-primary">উচ্চ DBR হল সৌদি আরবে প্রবাসীদের ব্যক্তিগত, গাড়ি এবং হোম ঋণ প্রত্যাখ্যাত হওয়ার সবচেয়ে সাধারণ কারণ</strong> — এবং বেশিরভাগ ক্ষেত্রে কয়েক সপ্তাহের মধ্যেই এটি সম্পূর্ণ সমাধানযোগ্য।
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">সরাসরি উত্তর:</strong> SAMA নিয়ম আপনার Debt Burden Ratio (DBR) মৌলিক বেতনের আনুমানিক 33% থেকে 45%-এ সীমাবদ্ধ রাখে। আপনার DBR খুব বেশি হলে, ছোট ঋণ পরিশোধ করে, কো-সাইনারের যোগ করে, বেতন সার্টিফিকেট আপডেট করে, অথবা SIMAH রিপোর্টের ত্রুটি সংশোধন করে আপনি তা কমাতে পারেন।
+        </p>
+        <p class="mt-4">
+          বেশিরভাগ প্রত্যাখ্যান আপনার প্রকৃত পরিশোধের ক্ষমতার কারণে নয়, বরং কয়েকটি নীরব সমস্যার কারণে হয়। এই গাইডটি ব্যাংক ঋণ কর্মকর্তা যেভাবে আপনাকে টেবিলের ওপাশ থেকে বুঝিয়ে দেবেন সেভাবে লেখা: পরিষ্কার সংখ্যা, পরিষ্কার ধাপ, এবং কোনো অনুমান নয়।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">এই গাইড থেকে যা পাবেন:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>DBR কী এবং SAMA ব্যাংকগুলো কীভাবে তা হিসাব করে তার সহজ ভাষায় ব্যাখ্যা।</li>
+            <li>পুনরায় আবেদনের আগে DBR কমানোর ৫টি প্রমাণিত উপায়।</li>
+            <li>দক্ষিণ এশীয়, ফিলিপিনো এবং অন্যান্য প্রবাসী কমিউনিটিকে বিশেষভাবে আঘাত করা লুকানো DBR হত্যাকারীগুলো।</li>
+            <li>সঠিক সংখ্যাসহ একটি ধাপে-ধাপে SIMAH রিপোর্ট পরীক্ষা ও সংশোধনের পরিকল্পনা।</li>
+            <li>২০২৬ সালের সবচেয়ে বেশি জিজ্ঞাসিত DBR প্রশ্নগুলোর সরাসরি উত্তর।</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          অন্য কিছু করার আগে, আমাদের বিনামূল্যের{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">SAMA Loan Calculator</a> দিয়ে আপনার সঠিক অবস্থান যাচাই করুন — এটি এক মিনিটেরও কম সময়ে আপনার বর্তমান DBR এবং সর্বোচ্চ ঋণের পরিমাণ দেখায়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>DBR কী এবং SAMA ব্যাংকগুলো কেন এতে আগ্রহী</h2>
+        <p>
+          Debt Burden Ratio (DBR) হল আপনার মাসিক আয়ের সেই শতাংশ যা ইতিমধ্যে ঋণ পরিশোধে নিবেদিত। ব্যাংকগুলো এটির মাধ্যমে সিদ্ধান্ত নেয় যে মাসিক কিস্তিতে ডুবে না গিয়ে আপনি আরও একটি ঋণ বহন করতে পারেন কিনা। এটি সেই একক সংখ্যা যা নির্ধারণ করে একটি সৌদি ব্যাংক আপনাকে কত ঋণ দেবে — শুধু আপনার বেতন নয়।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">DBR সূত্র:</strong></p>
+          <p class="mt-2 font-mono text-white">(মোট মাসিক ঋণ বাধ্যবাধকতা ÷ মোট মাসিক আয়) × ১০০ = DBR%</p>
+          <p class="mt-2">উদাহরণ: আপনার মৌলিক বেতন ১০,০০০ রিয়াল এবং বর্তমান মাসিক বাধ্যবাধকতা ৪,০০০ রিয়াল হলে, আপনার DBR হবে (৪,০০০ ÷ ১০,০০০) × ১০০ = <strong class="text-desert-primary">৪০%</strong>।</p>
+        </div>
+        <p>
+          সহজ ভাষায়: আপনার DBR যত কম, ব্যাংক তত বেশি ক্ষমতা দেখে একটি নতুন মাসিক কিস্তির জন্য। তাই মোট বেতনের চেয়ে এই অনুপাত বেশি গুরুত্বপূর্ণ। যে ব্যক্তি ২৫,০০০ রিয়াল আয় করে কোনো ঋণ ছাড়া, সে ৩৫,০০০ রিয়াল আয় করা ব্যক্তির চেয়ে বেশি ধার করতে পারে — যদি পরেরটির অর্ধেকই ঋণে যায়।
+        </p>
+        <p class="mt-4">
+          SAMA ব্যাংকগুলোকে এখানে কঠোর থাকতে বলে আপনার নিজের সুরক্ষার জন্য। কনজিউমার ফাইন্যান্স নিয়মাবলী এমনভাবে তৈরি যেন কোনো গ্রাহককে এমন কিস্তিতে ঠেলে দেওয়া না হয় যা তারা প্রকৃতপক্ষে পরিশোধ করতে পারে না। যখন ব্যাংক DBR সীমা প্রয়োগ করে, তখন এটি আপনাকে শাস্তি দিচ্ছে না — এটি অতিরিক্ত ঋণগ্রস্ততা বন্ধ করার জন্য তৈরি একটি নিয়ম মানছে। এই নিয়মটি আপনার পক্ষে কাজ করে একবার আপনি সঠিকভাবে এটি ব্যবহার করতে শিখলে।
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">SAMA নিয়ম:</strong> সৌদি কেন্দ্রীয় ব্যাংক (SAMA) সীমা নির্ধারণ করে। বর্তমান কনজিউমার ফাইন্যান্স নিয়মাবলীর অধীনে, আপনার মোট DBR <strong class="text-desert-primary">৪৫%</strong> অতিক্রম করলে সৌদি আরবের ব্যাংকগুলো সাধারণত ঋণ অনুমোদন করে না — এবং অনেক ব্যাংক নির্দিষ্ট প্রবাসী শ্রেণী, নতুন ব্যাংক গ্রাহক বা নির্দিষ্ট পণ্য লাইনের জন্য আরও কঠোর <strong class="text-desert-primary">৩৩%</strong> থেকে ৩৫% সীমা প্রয়োগ করে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">DBR রেঞ্জ</th>
+                <th class="text-left py-2">এর অর্থ</th>
+                <th class="text-left py-2">অনুমোদনের সম্ভাবনা</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">৩৩%-এর নিচে</td><td class="py-2">শক্তিশালী ক্ষমতা, কম ঝুঁকি</td><td class="py-2 text-green-400">উচ্চ — সহজ অনুমোদন</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">৩৩% – ৪৫%</td><td class="py-2">অনেক ব্যাংকের সীমার কাছাকাছি বা সীমায়</td><td class="py-2 text-yellow-400">সীমান্তবর্তী — ব্যাংকভেদে ভিন্ন</td></tr>
+              <tr><td class="py-2">৪৫%-এর উপরে</td><td class="py-2">SAMA সীমা অতিক্রম করেছে</td><td class="py-2 text-red-400">বেশিরভাগ ব্যাংকে প্রত্যাখ্যাত</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>DBR হিসাবে "মাসিক আয়" হিসেবে কী গণনা হয়</h3>
+        <p>
+          ব্যাংকগুলো আপনার <strong class="text-white">ব্যাংকে নথিভুক্ত মৌলিক বেতনের</strong> বিপরীতে DBR হিসাব করে — আপনার হাতে পাওয়া টাকার নয়। আবাসন, পরিবহন বা ওভারটাইমের মতো ভাতা কেবল তখনই গণনা হয় যদি আপনার নিয়োগকর্তা সেগুলো আনুষ্ঠানিকভাবে বেতন সার্টিফিকেট এবং ব্যাংকে নথিভুক্ত করেন। আপনার অ্যাকাউন্টে কেবল আসা টাকা উপেক্ষা করা হয়।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>গণনা হয়:</strong> মৌলিক বেতন, নথিভুক্ত নির্দিষ্ট ভাতা (আবাসন, পরিবহন, জীবনযাত্রা), এবং ব্যাংকে আনুষ্ঠানিকভাবে রিপোর্ট করা যেকোনো আয়।</li>
+          <li><strong>গণনা হয় না:</strong> ওভারটাইম, এককালীন বোনাস, ফ্রিল্যান্স আয়, এবং আনুষ্ঠানিক বেতন রেকর্ড ছাড়া আসা নগদ।</li>
+        </ul>
+        <p>
+          এটিই প্রথম জায়গা যেখানে প্রবাসীরা আটকে যায়: তাদের প্রকৃত আয় ব্যাংকের দেখা আয়ের চেয়ে বেশি। এই অমিল ঠিক করা এই গাইডের দ্রুততম লাভগুলোর একটি।
+        </p>
+        <h3>"মাসিক বাধ্যবাধকতা" হিসেবে কী গণনা হয়</h3>
+        <p>
+          বাধ্যবাধকতার দিকটি বেশিরভাগ মানুষের ধারণার চেয়ে ব্যাপক। সৌদি ব্যাংকগুলো আপনার ক্রেডিট ফাইলে থাকা প্রতিটি পুনরাবৃত্ত পেমেন্ট অন্তর্ভুক্ত করে — শুধু যে ঋণগুলো আপনি "প্রকৃত ঋণ" মনে করেন তা নয়।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>ক্রেডিট কার্ডের ন্যূনতম পেমেন্ট</strong> — প্রায়ই মোট কার্ড সীমার শতাংশ হিসেবে হিসাব করা হয়, এমনকি কোনো ব্যালেন্স না থাকলেও।</li>
+          <li><strong>ব্যক্তিগত ঋণের কিস্তি</strong> — আপনি যে ঋণের জন্য আবেদন করছেন তাও সহ।</li>
+          <li><strong>গাড়ির ঋণের কিস্তি</strong> — সক্রিয় গাড়ি ফাইন্যান্সিং।</li>
+          <li><strong>মর্টগেজ / REAL কিস্তি</strong> — হোম ফাইন্যান্সিং পেমেন্ট।</li>
+          <li><strong>আপনি গ্যারান্টি দেওয়া কো-সাইনড ঋণ</strong> — আপনি কারও ঋণের কো-সাইনার হলে, এটি আপনার বিরুদ্ধে গণনা হয়।</li>
+          <li><strong>SIMAH-তে রিপোর্ট করা BNPL পরিকল্পনা</strong> — Tabby, Tamara এবং অনুরূপ কিস্তি পরিকল্পনা যখন প্রদানকারী সেগুলো রিপোর্ট করে।</li>
+        </ul>
+        <p>
+          লক্ষ্য করুন তালিকায় কী আছে: এটি নিবেদিত, পুনরাবৃত্ত পেমেন্ট সম্পর্কে যা ব্যাংক যাচাই করতে পারে। এ কারণেই শূন্য-ব্যালেন্স ক্রেডিট কার্ড এখনও আপনাকে ক্ষতি করে — ব্যাংক আপনার বর্তমান ব্যালেন্সে বিশ্বাস করে না, এটি কার্ডের সম্ভাব্য বোঝা ব্যবহার করে। কার্ড বন্ধ করলে সেই বোঝা সম্পূর্ণভাবে চলে যায়।
+        </p>
+        <p class="mt-4">
+          এগুলোর প্রতিটি একটি নতুন কিস্তির জন্য আপনার অবশিষ্ট জায়গা কমিয়ে দেয়। ভালো খবর: বেশিরভাগই আপনার নিয়ন্ত্রণে, এবং সেগুলো পরিষ্কার করলে আপনার অনুপাতে তাৎক্ষণিক প্রভাব পড়ে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সম্পূর্ণ DBR হিসাবের উদাহরণ (এই গণিতটি অনুলিপি করুন)</h2>
+        <p>
+          আসুন একটি বাস্তবসম্মত প্রবাসী প্রোফাইলের মধ্য দিয়ে যাই যাতে আপনি ঠিক দেখতে পারেন সংখ্যাগুলো কীভাবে সরে। আমরা ১৪,০০০ রিয়ালের মৌলিক বেতন এবং সাধারণ বাধ্যবাধকতার মিশ্রণ ব্যবহার করব।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-gray-300 text-sm">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">ধাপ</th>
+                <th class="text-left py-2">আইটেম</th>
+                <th class="text-left py-2">মাসিক পরিমাণ</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">১</td><td class="py-2">মৌলিক বেতন (ব্যাংক রেকর্ড)</td><td class="py-2">১৪,০০০ রিয়াল</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">২</td><td class="py-2">ক্রেডিট কার্ড #১ (২০,০০০ রিয়াল সীমা, ৩% ন্যূনতম)</td><td class="py-2">৬০০ রিয়াল</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">৩</td><td class="py-2">ক্রেডিট কার্ড #২ (১০,০০০ রিয়াল সীমা, ৩% ন্যূনতম)</td><td class="py-2">৩০০ রিয়াল</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">৪</td><td class="py-2">ব্যক্তিগত ঋণের কিস্তি</td><td class="py-2">২,১০০ রিয়াল</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">৫</td><td class="py-2">সক্রিয় BNPL পরিকল্পনা (Tabby/Tamara)</td><td class="py-2">৭৫০ রিয়াল</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">৬</td><td class="py-2">মোট মাসিক বাধ্যবাধকতা</td><td class="py-2 text-desert-primary">৩,৭৫০ রিয়াল</td></tr>
+              <tr><td class="py-2">৭</td><td class="py-2">বর্তমান DBR (৩,৭৫০ ÷ ১৪,০০০)</td><td class="py-2 text-red-400">২৬.৮%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          ২৬.৮%-এ এই প্রোফাইলটি সুস্থ দেখায়। এখন আপনি যে নতুন ঋণ চান তা যোগ করুন: একটি ১২০,০০০ রিয়ালের ব্যক্তিগত ঋণ, ৩৬ মাসে প্রতি মাসে প্রায় ৩,৭০০ রিয়াল কিস্তি।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ঋণের পরে নতুন DBR:</strong> (৩,৭৫০ + ৩,৭০০) ÷ ১৪,০০০ = ৫৩.২% — <strong class="text-red-400">প্রত্যাখ্যাত</strong>, কারণ এটি ৪৫% সীমা থেকে অনেক উপরে।</p>
+          <p class="mt-2"><strong class="text-white">যদি আপনি প্রথমে দুটি ক্রেডিট কার্ড এবং BNPL পরিষ্কার করেন:</strong> (০ + ০ + ২,১০০ + ০ + ৩,৭০০) ÷ ১৪,০০০ = ৪১.৪% — <strong class="text-green-400">অনুমোদনযোগ্য</strong> বেশিরভাগ ব্যাংকে।</p>
+        </div>
+        <p class="mt-4">
+          এক উদাহরণেই পুরো খেলা: <strong class="text-white">কয়েকশত রিয়ালের মাসিক ক্ষমতা মুক্ত করা "প্রত্যাখ্যাত" এবং "অনুমোদিত"-এর মধ্যে পার্থক্য হতে পারে।</strong> ছোট বাধ্যবাধকতাগুলো নিরীহ দেখায় যতক্ষণ না ব্যাংক তাদের উপরে আপনার নতুন কিস্তি যোগ করে।
+        </p>
+        <p class="mt-4">
+          লক্ষ্য করুন এই উদাহরণে আপনার বেতনে কিছুই বদলায়নি। আয় পুরো সময় ১৪,০০০ রিয়ালই ছিল। যা বদলাল তা হল সমীকরণের ঋণের দিক — এবং এটাই মূল কথা: <strong class="text-white">আপনার DBR এমন একটি অনুপাত যা আপনি বাধ্যবাধকতা কমিয়ে সরাতে পারেন, শুধু আয় বাড়িয়ে নয়।</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আবেদনের আগে DBR কমানোর শীর্ষ ৫টি প্রমাণিত উপায়</h2>
+        <p>
+          এই পাঁচটি পদক্ষেপই একজন অভিজ্ঞ সৌদি ঋণ কর্মকর্তা আপনাকে করিয়ে দেবেন। ক্রমানুসারে করুন, এবং আপনার চোখের সামনেই DBR শতাংশ কমতে দেখুন।
+        </p>
+        <h3>১. ছোট ক্রেডিট কার্ড বা ব্যক্তিগত ঋণ পরিশোধ করুন</h3>
+        <p>
+          DBR কমানোর দ্রুততম উপায় হল আগে ছোট, উচ্চ-সুদের বাধ্যবাধকতাগুলো দূর করা। ব্যাংকগুলো <strong class="text-white">মাসিক ন্যূনতম পেমেন্টের</strong> ভিত্তিতে — বা কিছু ক্ষেত্রে সীমার একটি নির্দিষ্ট শতাংশ — ক্রেডিট কার্ড আপনার বিরুদ্ধে গণনা করে, এমনকি কোনো ব্যালেন্স না থাকলেও।
+        </p>
+        <p class="mt-4">
+          সবচেয়ে ছোট কার্ডগুলো সম্পূর্ণ বন্ধ করুন, শুধু পরিশোধ করবেন না। ৫,০০০ রিয়াল সীমার একটি কার্ডকে কাগজে ২৫০–৫০০ রিয়ালের মাসিক বাধ্যবাধকতা হিসাবে গণনা করা যেতে পারে, যা আপনার অনুমোদনের ক্ষমতা থেকে নিঃশব্দে চুরি করে। এটি নিষ্পত্তি করুন, বাতিল করুন, এবং ইস্যুকারী ব্যাংক থেকে বন্ধের লিখিত প্রমাণ নিন।
+        </p>
+        <p class="mt-4">
+          সবচেয়ে ছোট থেকে সবচেয়ে বড় ক্রমে ঋণ পরিশোধ করুন ("স্নোবল" পদ্ধতি)। প্রতিটি বন্ধ কার্ড হল আপনার ফাইল থেকে চিরতরে সরানো একটি মাসিক বাধ্যবাধকতা। পরে প্রতিস্থাপন কার্ড খুলবেন না — নতুন কার্ড একই বাধ্যবাধকতা আবার যোগ করে এবং একটি নতুন ক্রেডিট অনুসন্ধান শুরু করে।
+        </p>
+        <p class="mt-4">
+          বন্ধের প্রতিফলন ঘটতে সময় লাগবে বলে আশা করুন। ব্যাংকগুলো নিজস্ব সময়সূচীতে সাধারণত ৩০ থেকে ৬০ দিনের মধ্যে অ্যাকাউন্ট বন্ধের খবর SIMAH-তে রিপোর্ট করে। কার্ড পরিশোধের পরের দিনই ঋণের জন্য আবেদন করবেন না — বন্ধটি SIMAH রিপোর্টে দেখা না যাওয়া পর্যন্ত অপেক্ষা করুন, অন্যথায় ব্যাংক এখনও পুরনো বাধ্যবাধকতা দেখবে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব উদাহরণ:</strong> ১২,০০০ রিয়াল মৌলিক বেতনের একজন প্রবাসীর দুটি ক্রেডিট কার্ড (১৫,০০০ এবং ৮,০০০ রিয়াল সীমা) এবং একটি ছোট ২০,০০০ রিয়ালের ব্যক্তিগত ঋণ ছিল। কাগজে DBR দেখাচ্ছিল ৪৬% — প্রত্যাখ্যাত। তিনি দুটি কার্ড বন্ধ করে ঋণ পরিশোধ করলেন। নতুন DBR: ২৯%। পরবর্তী চেষ্টায় আরও ভালো সুদে অনুমোদিত।</p>
+        </div>
+        <h3>২. উচ্চ আয়ের একজন কো-সাইনার (Kafeel) যোগ করুন</h3>
+        <p>
+          যদি আপনার একা আয় আপনাকে সীমার নিচে আনতে না পারে, তবে একজন কো-সাইনার যোগ করুন। শক্তিশালী ইকামা এবং উচ্চ বেতনের একজন স্ত্রী বা নিকটাত্মীয়কে আবেদনে যোগ করা যেতে পারে, এবং DBR হিসাবের জন্য তাদের আয় আপনার সাথে একত্রিত হয়।
+        </p>
+        <p class="mt-4">
+          প্রবাসীদের জন্য সব ব্যাংকই কো-সাইনিং অফার করে না, তাই সরাসরি আপনার ঋণ কর্মকর্তাকে জিজ্ঞাসা করুন। কো-সাইনারের সাধারণত রাজ্যে কর্মরত, পর্যাপ্ত মেয়াদসহ বৈধ ইকামা থাকতে হবে এবং একই ক্রেডিট পরীক্ষায় উত্তীর্ণ হতে হবে। পরিশোধের দায়িত্ব আইনত আপনাদের দুজনেই বহন করেন, তাই কো-সাইনারকে সম্পূর্ণ প্রতিশ্রুতি বুঝতে হবে।
+        </p>
+        <p class="mt-4">
+          কো-সাইনারের নিজের ঋণও গণনা হয়, তাই একত্রিত DBR-ই আসল বিষয়। পরিষ্কার SIMAH রিপোর্ট এবং কম ব্যক্তিগত বাধ্যবাধকতাসম্পন্ন কো-সাইনার বেছে নিন — তাদের উপর ইতিমধ্যে ভারী ঋণ থাকলে উচ্চ বেতন একা যথেষ্ট নয়।
+        </p>
+        <p class="mt-4">
+          কো-সাইনারের ইকামা, সাম্প্রতিক বেতন সার্টিফিকেট এবং চাকরির প্রমাণ আনুন। আপনার পণ্যের জন্য কো-সাইনিং উপলব্ধ কিনা এবং এটি সত্যিই আয় একত্রিত করে নাকি শুধু ঋণ গ্যারান্টি দেয় তা লিখিতভাবে ব্যাংককে জিজ্ঞাসা করুন। দুটি বিকল্প আপনার DBR-তে খুব ভিন্নভাবে কাজ করে।
+        </p>
+        <h3>৩. বেতন সার্টিফিকেট আপডেটের অনুরোধ করুন</h3>
+        <p>
+          এটি পুরো ব্যবস্থার সবচেয়ে উপেক্ষিত সমাধান। আপনি যদি বেতন বৃদ্ধি, পদোন্নতি, বা নতুন নির্দিষ্ট ভাতা পান এবং আপনার নিয়োগকর্তা আপনার <strong class="text-white">বেতন সার্টিফিকেট (تعريف بالراتب)</strong> আপডেট না করেন, তবে ব্যাংক এখনও আপনার পুরনো, কম আয় দেখে — এবং আপনার DBR কৃত্রিমভাবে বেশি দেখায়।
+        </p>
+        <p class="mt-4">
+          আপনার বর্তমান মৌলিক বেতন এবং সমস্ত নথিভুক্ত ভাতা প্রতিফলিত একটি নতুন বেতন সার্টিফিকেটের জন্য HR বিভাগকে অনুরোধ করুন। তারপর নিশ্চিত করুন যে আপডেট করা সংখ্যাটি আপনার ব্যাংকের HR/ফাইন্যান্স পোর্টালে জমা দেওয়া হয়েছে — অনেক সৌদি ব্যাংক সরাসরি নিয়োগকর্তার বেতন ব্যবস্থা থেকে বেতনের তথ্য টানে, তাই ব্যাংককেও নিজের দিকে আপডেট রেকর্ড পেতে হবে।
+        </p>
+        <p class="mt-4">
+          গণিতটি তাৎক্ষণিক এবং সম্পূর্ণ কাগজে: ১০,০০০ রিয়ালের বেতনে ১,০০০ রিয়াল বৃদ্ধি ৪৫% DBR কমিয়ে প্রায় ৪১% করে। এতে কিছু খরচ হয় না, কয়েক দিন লাগে, এবং আপনার পুরো ঋণ নেওয়ার ক্ষমতা বাড়াতে পারে।
+        </p>
+        <p class="mt-4">
+          একটি সতর্কবাণী: কিছু ব্যাংক প্রবাসীদের জন্য শুধু <strong class="text-white">মৌলিক বেতন</strong> গণনা করে, আবার অন্যরা নথিভুক্ত ভাতাও গ্রহণ করে। আপডেটের উপর নির্ভর করার আগে আপনার ঋণ কর্মকর্তাকে জিজ্ঞাসা করুন তারা কোন সংখ্যাটি ব্যবহার করে। আর যদি আপনার নিয়োগকর্তা আপনাকে আংশিক নগদে বেতন দেন, তবে সার্টিফিকেটে যা-ই লেখা থাকুক না কেন, সেই অংশটি ব্যাংকের রেকর্ডে দেখা যাবে না।
+        </p>
+        <h3>৪. SIMAH ডিফল্ট বা ত্রুটি পরিষ্কার করুন</h3>
+        <p>
+          আপনার SIMAH ক্রেডিট রিপোর্টই একমাত্র নথি যা আপনার ঋণের সিদ্ধান্ত নেয়। অপরিশোধিত ইউটিলিটি বিল — পুরনো stc ইন্টারনেট লাইন, SEC বিদ্যুৎ বিল, বা ভুলে যাওয়া পোস্টপেইড ফোন অ্যাকাউন্ট — SIMAH-তে ছোট ডিফল্ট হিসাবে দেখা যেতে পারে এবং পাওনা পরিমাণের সাথে অসম пропорцией আপনার ঝুঁকি প্রোফাইল বাড়িয়ে দেয়।
+        </p>
+        <p class="mt-4">
+          ভয়ের বিষয় হলো অনেক প্রবাসী জানতেও পারে না এই অ্যাকাউন্টগুলো বিদ্যমান যতক্ষণ না ঋণ প্রত্যাখ্যাত হয়। যেকোনো বকেয়া ব্যালেন্স নিষ্পত্তি করুন, বন্ধের নথিভুক্ত করুন, এবং পেমেন্টের পরে রেকর্ড আপডেট করতে SIMAH-কে সাধারণত প্রয়োজনীয় ৩০–৬০ দিন দিন। এই গাইডের ধারা ৪ আপনাকে সম্পূর্ণ পরীক্ষা ও সংশোধন প্রক্রিয়ায় নিয়ে যাবে।
+        </p>
+        <p class="mt-4">
+          SIMAH ডিফল্ট আপনার DBR বাড়ানোর চেয়ে বেশি করে — এটি আপনার পুরো ক্রেডিট মূল্যায়নকে ক্ষতিগ্রস্ত করে। ব্যাংকগুলো অনুপাত থেকে আলাদাভাবে ডিফল্ট পর্যালোচনা করে, তাই একটি ছোট অপরিশোধিত stc বিল কাগজে নিখুঁত দেখায় এমন আবেদন ডুবিয়ে দিতে পারে। ভালো খবর হল পরিষ্কার ও নথিভুক্ত একটি ডিফল্ট ব্যাখ্যা করা বর্তমান ডিফল্টের চেয়ে অনেক সহজ।
+        </p>
+        <h3>৫. নতুন ক্রেডিট অনুসন্ধান এড়িয়ে চলুন</h3>
+        <p>
+          প্রতিবার আপনি ঋণ, ক্রেডিট কার্ড, এমনকি SIMAH-তে রিপোর্ট করা BNPL পরিষেবার জন্য আবেদন করলে, আপনার রেকর্ডে একটি অনুসন্ধান আসে। অল্প সময়ে অনুসন্ধানের ক্লাস্টার আর্থিক সংকটের ইঙ্গিত দেয়, এবং প্রতিটি আপনার ক্রেডিট মূল্যায়ন থেকে সাময়িকভাবে পয়েন্ট কেটে নিতে পারে।
+        </p>
+        <p class="mt-4">
+          ব্যবহারিক নিয়ম: ঋণের আবেদনের অন্তত <strong class="text-white">৩০ থেকে ৯০ দিন</strong> আগে নতুন ক্রেডিটের জন্য আবেদন করা বন্ধ করুন। পাঁচটি ব্যাংকে সম্পূর্ণ আবেদন জমা দিয়ে "দোকান ঘুরবেন না"। পরিবর্তে, প্রাক-অনুমোদন টুল এবং আমাদের ক্যালকুলেটর ব্যবহার করে এক বা দুটি ব্যাংক শর্টলিস্ট করুন, তারপর আপনার DBR এবং SIMAH রিপোর্ট ঠিক থাকলে পরিষ্কারভাবে আবেদন করুন।
+        </p>
+        <p class="mt-4">
+          একটি অনুসন্ধান মারাত্মক নয়। একই মাসে বিভিন্ন ব্যাংকে কয়েকটি অনুসন্ধানের প্যাটার্নই লাল পতাকা তোলে — এবং এটি ব্যাংককে বলতেও পারে যে আপনাকে অন্য কোথাও ফিরিয়ে দেওয়া হয়েছে।
+        </p>
+        <p class="mt-4">
+          হার্ড এবং সফট চেকের মধ্যে পার্থক্য বুঝুন। সফট চেক — যেমন আমাদের ক্যালকুলেটর ব্যবহার করা বা ব্যাংককে প্রাক-অনুমোদনের জন্য জিজ্ঞাসা করা — কোনো চিহ্ন রাখে না। হার্ড চেক, যা সম্পূর্ণ আবেদন জমা দিলে ঘটে, চিহ্ন রাখে। শর্টলিস্ট করতে সফট চেক অবাধে ব্যবহার করুন, এবং হার্ড চেক সাবধানে খরচ করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি আরবে প্রবাসীদের জন্য লুকানো DBR হত্যাকারীরা (GEO টার্গেটিং)</h2>
+        <p>
+          আপনার নিজের দেশ ঋণ এবং রিপোর্টিংয়ের সেই অদ্ভুততাগুলো তৈরি করে যা প্রবাসীদের অবাক করে। এগুলো রাজ্যের বৃহত্তম প্রবাসী কমিউনিটিগুলোর জন্য নির্দিষ্ট ফাঁদ।
+        </p>
+        <h3>দক্ষিণ এশীয় প্রবাসীদের জন্য (পাকিস্তান / ভারত / বাংলাদেশ)</h3>
+        <p>
+          আগে ভালো খবর: <strong class="text-white">ঘন ঘন আন্তর্জাতিক রেমিট্যান্স আপনার DBR-তে গণনা হয় না।</strong> পরিবারকে সহায়তার জন্য দেশে টাকা পাঠানো SAMA হিসাবে মাসিক বাধ্যবাধকতা হিসাবে দেখা যায় না — তাই পরিবারকে সাহায্য করার জন্য আপনাকে শাস্তি দেওয়া হয় না।
+        </p>
+        <p class="mt-4">
+          ফাঁদটি স্থানীয়। <strong class="text-white">Tabby এবং Tamara-এর মতো "Buy Now, Pay Later" (BNPL) পরিষেবাগুলি SIMAH-তে রিপোর্ট করা হলে আপনার DBR-এর বিরুদ্ধে গণনা হয়।</strong> চারটি কিস্তিতে ভাগ করা একটি ৪০০ রিয়ালের পোশাক ছোট দেখায় — কিন্তু কয়েকটি সক্রিয় BNPL পরিকল্পনা ৫০০–১,৫০০ রিয়ালের লুকানো মাসিক বাধ্যবাধকতা যোগ করতে পারে যা আপনাকে সীমার উপরে ঠেলে দেয়।
+        </p>
+        <p class="mt-4">
+          ব্যবহারিক পরামর্শ: আবেদনের আগে ২–৩ মাস BNPL ব্যবহার বন্ধ রাখুন, বা বকেয়া কিস্তি সম্পূর্ণ পরিষ্কার করুন। এগুলো নিঃশব্দ DBR হত্যাকারী সুনির্দিষ্টভাবে কারণ এগুলো "প্রকৃত ঋণ নয়" বলে মনে হয়। কোন BNPL প্রদানকারী আসলে আপনার পরিকল্পনা রিপোর্ট করে তা দেখতে আপনার SIMAH রিপোর্ট পরীক্ষা করুন।
+        </p>
+        <p class="mt-4">
+          বিশেষ করে বাংলাদেশি প্রবাসীদের জন্য: রেমিট্যান্স অভ্যাস কোনো ফ্যাক্টর নয়, তবে কিছু স্থানীয় প্রদানকারী ক্রেডিট কার্ডের মতোই কিস্তি পরিকল্পনা রিপোর্ট করে। প্রতিটি সক্রিয় "পরে পরিশোধ" পরিকল্পনাকে প্রকৃত মাসিক বাধ্যবাধকতা হিসাবে গণ্য করুন, কারণ ব্যাংকের সিস্টেম এটিই করবে।
+        </p>
+        <h3>ফিলিপিনো প্রবাসীদের জন্য</h3>
+        <p>
+          OFW-দের জন্য এক নম্বর সমস্যা হল আপনার <strong class="text-white">POEA-যাচাইকৃত চুক্তির বেতন</strong> এবং সৌদি ব্যাংকের ফাইলে থাকা বেতনের মধ্যে অমিল। যদি আপনার চুক্তি ৭,০০০ রিয়াল বলে কিন্তু ব্যাংকের সিস্টেম ৫,৫০০ রিয়াল দেখায় — কারণ আপনার নিয়োগকর্তা কম রিপোর্ট করেছেন, বা বেতন সার্টিফিকেট আপডেট করা হয়নি — তাহলে আপনার DBR ভুল, কম সংখ্যায় হিসাব করা হয়।
+        </p>
+        <p class="mt-4">
+          আপনার কর্মসংস্থান চুক্তি, POEA/DMW-যাচাইকৃত নথি এবং সর্বশেষ বেতন সার্টিফিকেট একসাথে ব্যাংকে নিয়ে গিয়ে এটি ঠিক করুন। ব্যাংককে আপনার নিবন্ধিত বেতন আপডেট করতে বলুন, এবং নিয়োগকর্তাকে তাদের বেতন ব্যবস্থার মাধ্যমে সংখ্যাটি নিশ্চিত করান। সঠিক আয়ের পরিমাণ হাজার হাজার রিয়ালের অতিরিক্ত ঋণ নেওয়ার ক্ষমতার সমান।
+        </p>
+        <p class="mt-4">
+          একই পাঠ প্রতিটি জাতীয়তার জন্য প্রযোজ্য: সর্বদা যাচাই করুন যে ব্যাংকের আপনার বেতনের রেকর্ড আপনার চুক্তির সাথে মেলে — আপনার স্মৃতির সাথে নয়। বেতনের অমিল হল সবচেয়ে নিঃশব্দ DBR হত্যাকারী, কারণ এর কিছুই আপনার SIMAH রিপোর্টে দেখা যায় না এবং প্রত্যাখ্যানের চিঠি আসার আগ পর্যন্ত আপনি ভুল সংখ্যাটি কখনও দেখতে পান না।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধাপে ধাপে: কীভাবে আপনার SIMAH রিপোর্ট পরীক্ষা ও সংশোধন করবেন</h2>
+        <p>
+          আপনার SIMAH রিপোর্ট আপনার ঋণ ফাইলের সবচেয়ে গুরুত্বপূর্ণ নথি। ব্যাংকে ঢোকার আগে এটি কীভাবে পরীক্ষা, পড়া এবং সংশোধন করবেন তা এখানে।
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>SIMAH অ্যাপ ডাউনলোড করুন</strong> (বা simah.com-এ যান) এবং আপনার ইকামা নম্বর ও নিবন্ধিত মোবাইল দিয়ে নিবন্ধন করুন।</li>
+          <li><strong>আপনার ক্রেডিট রিপোর্টের অনুরোধ করুন।</strong> সৌদি আরবে প্রতিটি ব্যক্তি বছরে একটি বিনামূল্যে ক্রেডিট রিপোর্ট পাওয়ার অধিকারী।</li>
+          <li><strong>"Late Payment" ফ্ল্যাগ পরীক্ষা করুন।</strong> প্রতিটি অ্যাকাউন্ট লাইন দেখুন: কিস্তির পরিমাণ, বর্তমান ব্যালেন্স এবং বিলম্বিত, বকেয়া বা ডিফল্ট হিসাবে চিহ্নিত যেকোনো পেমেন্ট অবস্থা।</li>
+          <li><strong>অজানা অ্যাকাউন্ট চিহ্নিত করুন।</strong> পুরনো ইউটিলিটি লাইন, নিষ্ক্রিয় পোস্টপেইড পরিকল্পনা বা আপনি খোলার কথা ভুলে যাওয়া অ্যাকাউন্ট এখানে দেখা যাবে। রেফারেন্স নম্বরগুলো নোট করুন।</li>
+          <li><strong>যেকোনো ভুল, সদৃশ বা আর আপনার না থাকা জিনিসের জন্য সরাসরি SIMAH-তে একটি ডিসপিউট দাখিল করুন।</strong> সহায়ক নথি দিন (নিষ্পত্তি পত্র, বন্ধের নিশ্চিতকরণ, পাসপোর্ট বা ইকামার কপি)।</li>
+          <li><strong>অপেক্ষা করুন এবং আবার যাচাই করুন।</strong> সংশোধন প্রতিফলিত হতে সাধারণত ৩০–৬০ দিন লাগে। আবেদনের আগে আবার রিপোর্ট টানুন এবং প্রতিটি লাইন সঠিক কিনা নিশ্চিত করুন।</li>
+        </ol>
+        <h3>আপনার রিপোর্টের তিনটি মূল ধারা কীভাবে পড়বেন</h3>
+        <p>
+          আপনার SIMAH রিপোর্ট একটি দীর্ঘ তালিকা নয়। এর স্পষ্ট ধারা রয়েছে, এবং প্রতিটি ব্যাংকের কাছে ভিন্নভাবে গুরুত্বপূর্ণ।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>ক্রেডিট সারাংশ:</strong> আপনার মোট অ্যাকাউন্ট সংখ্যা, মোট বকেয়া ব্যালেন্স এবং আপনার সামগ্রিক ক্রেডিট ইতিহাসের বয়স। ঋণ কর্মকর্তা প্রথমে এটিই দেখেন।</li>
+          <li><strong>অ্যাকাউন্টের বিবরণ:</strong> প্রতিটি ঋণ, কার্ড এবং রিপোর্ট করা BNPL পরিকল্পনা তার মাসিক কিস্তি, বর্তমান ব্যালেন্স এবং পেমেন্ট অবস্থাসহ।</li>
+          <li><strong>অনুসন্ধান:</strong> প্রতিবার কোনো ব্যাংক বা ফাইন্যান্স কোম্পানি আপনার রিপোর্ট টেনেছে। এখানে দীর্ঘ তালিকা একটি লাল পতাকা।</li>
+        </ul>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">প্রো টিপ:</strong> আপনার SIMAH রিপোর্টের স্ক্রিনশট নিন এবং বন্ধুর কাছে জোরে জোরে পড়ুন। সংখ্যাগুলো জোরে পড়া আপনাকে সেগুলো সত্যিই দেখতে বাধ্য করে — বেশিরভাগ প্রবাসী প্রত্যাখ্যানের কারণটি তখনই আবিষ্কার করেন যখন তারা ধীর হয়ে দেখেন।</p>
+        </div>
+        <p class="mt-4">
+          যদি আপনি একটি বৈধ ডিফল্ট খুঁজে পান যা সত্যিই আপনার, আতঙ্কিত হবেন না। এটি সম্পূর্ণ পরিশোধ করুন, লিখিত নিষ্পত্তির প্রমাণ নিন এবং আপডেটের জন্য অপেক্ষা করুন। একটি পরিষ্কার ডিফল্ট আপনার ফাইলে বয়স হতে থাকা অপরিশোধিত ডিফল্টের চেয়ে অনেক কম ক্ষতিকর।
+        </p>
+        <p class="mt-4">
+          সময় গুরুত্বপূর্ণ: SIMAH আপডেট তাৎক্ষণিক নয়। যেকোনো বিবাদিত বা ডিফল্ট অ্যাকাউন্ট নিষ্পত্তির কমপক্ষে ৬০ দিন পরে আপনার ঋণের আবেদন পরিকল্পনা করুন, যাতে ব্যাংক সংশোধিত রিপোর্ট টানে।
+        </p>
+        <p class="mt-4">
+          যদি আপনার ব্যাংক সংশোধন প্রয়োগের আগে রিপোর্ট টেনে থাকে, তবে আবার পরীক্ষা করতে বলতে ভয় পাবেন না। যে ঋণ কর্মকর্তা ডিসপিউট নিষ্পত্তির পরে একটি নতুন, পরিষ্কার রিপোর্ট দেখেন তিনি সাধারণত সীমান্তবর্তী আবেদন পুনর্বিবেচনা করতে খুশি — বিশেষ করে যখন আপনি SIMAH ডিসপিউট রেফারেন্স নিয়ে আসেন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>DBR ঠিক করার পরে আপনি কত ঋণ নিতে পারবেন?</h2>
+        <p>
+          আপনার DBR সীমার নিচে এলে, ব্যাংক আপনার অব্যবহৃত মাসিক ক্ষমতা থেকে সর্বোচ্চ ঋণ হিসাব করে। গণিতটি সহজ, যদিও প্রতিটি ব্যাংকে সঠিক হার ভিন্ন।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">অব্যবহৃত মাসিক ক্ষমতা = (অনুমোদিত DBR% − আপনার বর্তমান DBR%) × মৌলিক বেতন</strong></p>
+          <p class="mt-2">উদাহরণ: ব্যাংক সীমা ৪৫%, আপনার DBR এখন ২৫%, মৌলিক বেতন ১২,০০০ রিয়াল → (৪৫% − ২৫%) × ১২,০০০ = ২,৪০০ রিয়ালের নতুন মাসিক কিস্তির ক্ষমতা।</p>
+        </div>
+        <p>
+          সেই ২,৪০০ রিয়ালের ক্ষমতা মেয়াদ ও হারের ভিত্তিতে ঋণের আকারে রূপান্তরিত হয়। দীর্ঘ মেয়াদ মানে একই পরিমাণ ঋণের জন্য কম মাসিক কিস্তি, তাই আপনি যে মেয়াদ বেছে নেন তা সরাসরি প্রভাবিত করে আপনি কতটা নিতে পারেন।
+        </p>
+        <p class="mt-4">
+          প্রতিটি ব্যাংক কিছুটা ভিন্ন দাম ও নিয়ম ব্যবহার করে, তাই আনুমানিক সংখ্যাকে চূড়ান্ত মনে করবেন না। আমাদের বিনামূল্যের{' '}
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">SAMA Loan Calculator</a>{' '}
+          এই রূপান্তর আপনার জন্য করে এবং আপনার সঠিক বেতন ও বাধ্যবাধকতার জন্য সর্বোচ্চ ঋণের পরিমাণ দেখায়।
+        </p>
+        <p class="mt-4">
+          দুটি ব্যবহারিক নোট: রাজ্যে বেশিরভাগ প্রবাসী ব্যক্তিগত ঋণ ১২ থেকে ৬০ মাস চলে, এবং আপনার বেতন যখন ঋণদাতা ব্যাংকেই অ্যাকাউন্টে স্থানান্তরিত হয় তখন ব্যাংকগুলো সাধারণত বেশি অনুকূল মূল্য দেয়। উভয় কারণই বাস্তবসম্মতভাবে অনুমোদিত হতে পারে এমন ঋণের আকার বদলায়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: ২০২৬ সালে সৌদি আরবে প্রবাসীদের জন্য সর্বোচ্চ অনুমোদিত DBR কত?</p>
+            <p class="text-gray-400 text-sm mt-1">SAMA সীমা সাধারণত ৪৫%, তবে অনেক ব্যাংক প্রবাসী এবং নির্দিষ্ট পণ্যের জন্য আরও কঠোর ৩৩%–৩৫% সীমা প্রয়োগ করে। সঠিক সংখ্যা আপনার ব্যাংক এবং ঋণের ধরনের উপর নির্ভর করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: Tabby বা Tamara কি আমার SAMA ঋণের DBR-কে প্রভাবিত করে?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ, যদি আপনার BNPL পরিকল্পনা SIMAH-তে রিপোর্ট করা হয়। প্রতিটি সক্রিয় কিস্তি পরিকল্পনা একটি মাসিক বাধ্যবাধকতা যোগ করতে পারে যা আপনার DBR বাড়ায়, তাই আবেদনের আগে সেগুলো পরিষ্কার করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: আমার DBR ঠিক ৪৫% হলে কি আমি SAMA ঋণ পেতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">সম্ভবত, তবে আপনি সীমার একদম কিনারায় আছেন। বেশিরভাগ ব্যাংক ৪০% বা তার নিচে আরও স্বাচ্ছন্দ্যে অনুমোদন করে, এবং কিছু পণ্য লাইনের সীমা ৩৩%–৩৫%।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: পরিশোধ করা ঋণ আমার SIMAH রিপোর্টে প্রতিফলিত হতে কত সময় লাগে?</p>
+            <p class="text-gray-400 text-sm mt-1">নিষ্পত্তির পরে সাধারণত ৩০ থেকে ৬০ দিন, নির্ভর করে ঋণদাতা কখন আপডেট রিপোর্ট করে। বন্ধটি লিখিতভাবে নিশ্চিত করুন এবং আবেদনের আগে আবার রিপোর্ট টানুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: আবাসনের মতো ভাতা কি আমার DBR আয়ে গণনা হয়?</p>
+            <p class="text-gray-400 text-sm mt-1">শুধুমাত্র যদি আপনার নিয়োগকর্তা আনুষ্ঠানিকভাবে বেতন সার্টিফিকেটে এবং ব্যাংকে সেগুলো নথিভুক্ত করেন। অনথিভুক্ত ভাতা উপেক্ষা করা হয়, যা আপনার DBR কৃত্রিমভাবে বাড়িয়ে দেয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: কো-সাইনার কি সত্যিই আমার DBR কমাতে পারে?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। যখন ব্যাংক কো-সাইনিং অনুমতি দেয়, তখন কো-সাইনারের আয় আপনার সাথে একত্রিত হয়, যা আপনার একত্রিত DBR কমায়। প্রথমে নিশ্চিত করুন আপনার ব্যাংক প্রবাসী ঋণের জন্য এটি অফার করে।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>শেষ কথা: আপনার DBR কমানো কৌশল, ভাগ্য নয়</h2>
+        <p>
+          আপনি যে সারাংশ খুঁজছিলেন তা এখানে। আপনার DBR কমানো কৌশলগত আর্থিক ব্যবস্থাপনার বিষয়, শুধু বেশি আয় করার নয়। আপনার অলৌকিক ঘটনার দরকার নেই — সঠিক ক্রম দরকার:
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong class="text-white">ছোট কার্ড এবং ঋণ পরিশোধ ও বন্ধ</strong> করুন মাসিক ক্ষমতা মুক্ত করতে।</li>
+          <li><strong class="text-white">কো-সাইনার যোগ করুন</strong> যদি আপনার একা আয় যথেষ্ট না হয়।</li>
+          <li><strong class="text-white">বেতন সার্টিফিকেট আপডেট করুন</strong> যাতে ব্যাংক আপনার প্রকৃত আয় দেখে।</li>
+          <li><strong class="text-white">SIMAH ডিফল্ট পরিষ্কার করুন</strong> — বিশেষ করে লুকানো ইউটিলিটি বিল এবং BNPL পরিকল্পনা।</li>
+          <li><strong class="text-white">আবেদনের ৩০–৯০ দিন আগে নতুন ক্রেডিট অনুসন্ধান বন্ধ করুন</strong>।</li>
+        </ul>
+        <p class="mt-4">
+          সেই ক্রম অনুসরণ করুন, আপনার রিপোর্ট ঠিক করুন, এবং আপনার পরবর্তী আবেদনের ভালো সুদে অনুমোদনের বাস্তবসম্মত সম্ভাবনা থাকবে।
+        </p>
+        <p class="mt-4">
+          ঋণের ধরন এবং প্রয়োজনীয়তার সম্পূর্ণ বিবরণের জন্য, পড়ুন আমাদের{' '}
+          <a href="/guide/sama-loan-calculator-saudi-arabia-2026" class="text-desert-primary underline">SAMA Loan Eligibility &amp; DBR Calculator Guide 2026</a>।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার সঠিক DBR এবং ঋণের পরিমাণ যাচাই করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — বেতন, বাধ্যবাধকতা এবং সর্বোচ্চ ঋণের পরিমাণ এক জায়গায়</p>
+          <a href="/sama-loan-calculator" class="text-desert-primary underline">বিনামূল্যের SAMA Loan Calculator ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-500 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই গাইডটি বর্তমান সৌদি কেন্দ্রীয় ব্যাংক (SAMA) প্রবিধানের উপর ভিত্তি করে তথ্যমূলক উদ্দেশ্যে। প্রতিটি ব্যাংকের নীতি ভিন্ন হতে পারে। অফিসিয়াল আর্থিক পরামর্শের জন্য সর্বদা আপনার ব্যাংকের ঋণ কর্মকর্তার সাথে পরামর্শ করুন।
+        </p>
+      </div>
+    ` }
+  },
 ]
