@@ -227,7 +227,7 @@ export function SallaProfitCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <ShoppingCart className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -237,20 +237,20 @@ export function SallaProfitCalculator({ locale }: { locale?: string }) {
                   <div className="space-y-4">
                     <div className="grid grid-cols-2 gap-3">
                       <div className="text-center">
-                        <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.perOrder')}</p>
+                        <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.perOrder')}</p>
                         <p className={`text-2xl font-bold ${result.netProfitPerOrder >= 0 ? 'text-desert-primary' : 'text-red-400'}`}>
                           <NumberTicker value={result.netProfitPerOrder} /> SAR
                         </p>
                       </div>
                       <div className="text-center">
-                        <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.monthly')}</p>
+                        <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.monthly')}</p>
                         <p className={`text-2xl font-bold ${result.monthlyNetProfit >= 0 ? 'text-desert-primary' : 'text-red-400'}`}>
                           <NumberTicker value={result.monthlyNetProfit} /> SAR
                         </p>
                       </div>
                     </div>
                     <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                      <p className="text-xs text-gray-500">{t('results.profitMargin')}</p>
+                      <p className="text-xs text-gray-400">{t('results.profitMargin')}</p>
                       <p className={`text-lg font-bold ${result.profitMarginPct >= 0 ? 'text-desert-primary' : 'text-red-400'}`}>
                         <NumberTicker value={result.profitMarginPct} />%
                       </p>

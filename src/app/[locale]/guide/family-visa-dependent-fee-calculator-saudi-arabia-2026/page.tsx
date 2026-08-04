@@ -215,7 +215,7 @@ function EnContent() {
           <li><strong className="text-desert-primary">Wife + 1 child:</strong> SAR 800/month = SAR 9,600/year.</li>
           <li><strong className="text-desert-primary">Wife + 2 children:</strong> SAR 1,200/month = SAR 14,400/year.</li>
           <li><strong className="text-desert-primary">Wife + 3 children:</strong> SAR 1,600/month = SAR 19,200/year.</li>
-          <li className="text-gray-500 text-sm mt-2">* The levy is non-negotiable and must be paid annually in full.</li>
+          <li className="text-gray-400 text-sm mt-2">* The levy is non-negotiable and must be paid annually in full.</li>
         </ul>
       </div>
 
@@ -225,7 +225,7 @@ function EnContent() {
           <li><strong className="text-desert-primary">New Iqama (first issuance):</strong> SAR 2,000 per dependent.</li>
           <li><strong className="text-desert-primary">Annual Iqama renewal:</strong> SAR 2,000 per dependent.</li>
           <li><strong className="text-desert-primary">Validity period:</strong> 1 year (must be renewed annually).</li>
-          <li className="text-gray-500 text-sm mt-2">* This is a one-time fee per renewal cycle, separate from the monthly levy.</li>
+          <li className="text-gray-400 text-sm mt-2">* This is a one-time fee per renewal cycle, separate from the monthly levy.</li>
         </ul>
       </div>
 
@@ -236,7 +236,7 @@ function EnContent() {
           <li><strong className="text-desert-primary">Single Exit visa:</strong> SAR 200 per person.</li>
           <li><strong className="text-desert-primary">Multiple Exit (6 months):</strong> SAR 3,000 per person.</li>
           <li><strong className="text-desert-primary">Multiple Exit (1 year):</strong> SAR 5,000 per person.</li>
-          <li className="text-gray-500 text-sm mt-2">* Single entry visas make sense for 1-2 trips per year, while multiple-entry visas are more economical for frequent travelers.</li>
+          <li className="text-gray-400 text-sm mt-2">* Single entry visas make sense for 1-2 trips per year, while multiple-entry visas are more economical for frequent travelers.</li>
         </ul>
       </div>
 
@@ -245,7 +245,7 @@ function EnContent() {
         <ul className="space-y-3 text-gray-300">
           <li><strong className="text-desert-primary">Mandatory health insurance:</strong> Required for all dependents.</li>
           <li><strong className="text-desert-primary">Average annual cost:</strong> SAR 1,000 - 2,500 per dependent.</li>
-          <li className="text-gray-500 text-sm mt-2">* Costs vary based on provider, coverage level, and age of dependents.</li>
+          <li className="text-gray-400 text-sm mt-2">* Costs vary based on provider, coverage level, and age of dependents.</li>
         </ul>
       </div>
 
@@ -253,7 +253,7 @@ function EnContent() {
       <div className="not-prose glass p-4 rounded-xl mb-6">
         <ul className="space-y-3 text-gray-300">
           <li><strong className="text-desert-primary">Annual work permit:</strong> SAR 960 per dependent who wishes to work.</li>
-          <li className="text-gray-500 text-sm mt-2">* Only applicable if your spouse or dependent child plans to work in Saudi Arabia.</li>
+          <li className="text-gray-400 text-sm mt-2">* Only applicable if your spouse or dependent child plans to work in Saudi Arabia.</li>
         </ul>
       </div>
 
@@ -300,7 +300,7 @@ function EnContent() {
           <div className="border-t border-gray-600 pt-1 mt-1">
             <p className="text-desert-primary font-bold">Total annual cost: approximately SAR 17,400</p>
           </div>
-          <p className="text-gray-500 text-sm mt-2">Monthly budget needed: SAR 1,450</p>
+          <p className="text-gray-400 text-sm mt-2">Monthly budget needed: SAR 1,450</p>
         </div>
       </div>
 
@@ -315,7 +315,7 @@ function EnContent() {
           <div className="border-t border-gray-600 pt-1 mt-1">
             <p className="text-desert-primary font-bold">Total annual cost: approximately SAR 28,500</p>
           </div>
-          <p className="text-gray-500 text-sm mt-2">Monthly budget needed: SAR 2,375</p>
+          <p className="text-gray-400 text-sm mt-2">Monthly budget needed: SAR 2,375</p>
         </div>
       </div>
 
@@ -330,7 +330,7 @@ function EnContent() {
           <div className="border-t border-gray-600 pt-1 mt-1">
             <p className="text-desert-primary font-bold">Total annual cost: approximately SAR 44,500</p>
           </div>
-          <p className="text-gray-500 text-sm mt-2">Monthly budget needed: SAR 3,708</p>
+          <p className="text-gray-400 text-sm mt-2">Monthly budget needed: SAR 3,708</p>
         </div>
       </div>
 

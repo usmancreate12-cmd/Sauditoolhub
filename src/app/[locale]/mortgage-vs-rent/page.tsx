@@ -63,7 +63,7 @@ export default async function MortgageVsRentPage({ params }: Props) {
       ]} />
       <ToolSeoContent namespace="MortgageVsRentCalculator" locale={locale} />
       <div className="mx-auto mt-2 max-w-4xl px-4">
-        <p className="text-right text-xs text-gray-500">Last updated: July 2026 &middot; Based on current Saudi mortgage and rental market data</p>
+        <p className="text-right text-xs text-gray-400">Last updated: July 2026 &middot; Based on current Saudi mortgage and rental market data</p>
       </div>
     </>
   )

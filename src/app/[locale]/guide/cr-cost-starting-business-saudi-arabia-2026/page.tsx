@@ -401,7 +401,7 @@ function EnContent() {
           <p>PRO/Typing Services: 500 SAR</p>
           <p>Commercial Insurance: 2,000 SAR</p>
           <p className="text-desert-primary font-bold mt-2">Total First-Year Cost: 7,300 SAR</p>
-          <p className="text-gray-500 text-xs mt-1">Annual renewal (Year 2+): ~4,500 SAR (no name reservation or typing fees)</p>
+          <p className="text-gray-400 text-xs mt-1">Annual renewal (Year 2+): ~4,500 SAR (no name reservation or typing fees)</p>
         </div>
       </div>
 
@@ -417,7 +417,7 @@ function EnContent() {
           <p>Commercial Insurance: 3,000 SAR</p>
           <p>Office Rent (small shop, annual): 25,000 SAR</p>
           <p className="text-desert-primary font-bold mt-2">Total First-Year Cost: 37,200 SAR</p>
-          <p className="text-gray-500 text-xs mt-1">Annual renewal (Year 2+): ~7,000 SAR + rent and employee costs</p>
+          <p className="text-gray-400 text-xs mt-1">Annual renewal (Year 2+): ~7,000 SAR + rent and employee costs</p>
         </div>
       </div>
 

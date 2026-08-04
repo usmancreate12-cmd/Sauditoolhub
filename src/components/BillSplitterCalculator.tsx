@@ -141,10 +141,10 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
                         onChange={(e) => updateRoommate(r.id, 'share', e.target.value)}
                         className={`${inputClass} w-16 text-center`}
                       />
-                      <span className="text-xs text-gray-500">pts</span>
+                      <span className="text-xs text-gray-400">pts</span>
                     </div>
                     {roommates.length > 2 && (
-                      <button onClick={() => removeRoommate(r.id)} className="text-gray-500 hover:text-red-400 transition-colors">
+                      <button onClick={() => removeRoommate(r.id)} className="text-gray-400 hover:text-red-400 transition-colors">
                         <Trash2 size={14} />
                       </button>
                     )}
@@ -186,7 +186,7 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
                       placeholder="0"
                       className={`${inputClass} w-24`}
                     />
-                    <button onClick={() => removeBill(i)} className="text-gray-500 hover:text-red-400 transition-colors">
+                    <button onClick={() => removeBill(i)} className="text-gray-400 hover:text-red-400 transition-colors">
                       <Trash2 size={14} />
                     </button>
                   </div>
@@ -212,7 +212,7 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Users className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -220,7 +220,7 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
               <motion.div key="result" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="space-y-4">
                 <GlassCard>
                   <div className="text-center">
-                    <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.totalBills')}</p>
+                    <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.totalBills')}</p>
                     <p className="text-3xl font-bold text-desert-primary">
                       <NumberTicker value={result.grandTotal} /> SAR
                     </p>
@@ -233,7 +233,7 @@ export function BillSplitterCalculator({ locale }: { locale?: string }) {
                       <h3 className="font-semibold text-white">{r.name}</h3>
                       <p className="text-lg font-bold text-desert-primary">{r.amount.toFixed(2)} SAR</p>
                     </div>
-                    <p className="text-xs text-gray-500 mb-2">
+                    <p className="text-xs text-gray-400 mb-2">
                       {t('results.shareInfo', { share: r.share })}
                     </p>
                     <div className="space-y-1">

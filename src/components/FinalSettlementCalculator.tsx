@@ -257,7 +257,7 @@ export function FinalSettlementCalculator({ locale }: { locale?: string }) {
                     {...register('eosbAmount')}
                     className={inputClass}
                   />
-                  <p className="mt-1 text-xs text-gray-500">{t('form.eosbAmount.hint')}</p>
+                  <p className="mt-1 text-xs text-gray-400">{t('form.eosbAmount.hint')}</p>
                 </div>
 
                 {calcError && (
@@ -311,7 +311,7 @@ export function FinalSettlementCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Calculator className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -341,7 +341,7 @@ export function FinalSettlementCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="space-y-4">
                     <div className="text-center">
-                      <p className="text-xs font-medium uppercase tracking-wider text-gray-500">
+                      <p className="text-xs font-medium uppercase tracking-wider text-gray-400">
                         {t('results.totalSettlement')}
                       </p>
                       <p className="text-4xl font-bold text-desert-primary">
@@ -351,13 +351,13 @@ export function FinalSettlementCalculator({ locale }: { locale?: string }) {
 
                     <div className="grid grid-cols-2 gap-3">
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.dailyRate')}</p>
+                        <p className="text-xs text-gray-400">{t('results.dailyRate')}</p>
                         <p className="text-lg font-bold text-white">
                           <NumberTicker value={result.dailyRate} /> SAR
                         </p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.totalSettlement')}</p>
+                        <p className="text-xs text-gray-400">{t('results.totalSettlement')}</p>
                         <p className="text-lg font-bold text-white">
                           <NumberTicker value={result.totalSettlement} /> SAR
                         </p>
@@ -386,7 +386,7 @@ export function FinalSettlementCalculator({ locale }: { locale?: string }) {
                       </div>
                     ))}
                   </div>
-                  <div className="mt-3 rounded-lg bg-desert-primary/5 px-3 py-2 text-xs text-gray-500">
+                  <div className="mt-3 rounded-lg bg-desert-primary/5 px-3 py-2 text-xs text-gray-400">
                     {t('legalReference')}
                   </div>
                 </GlassCard>

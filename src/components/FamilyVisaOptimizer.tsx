@@ -218,7 +218,7 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
                         <option value="renewal">{t('form.wifeIqamaStatus.options.renewal')}</option>
                         <option value="active">{t('form.wifeIqamaStatus.options.active')}</option>
                       </select>
-                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500" />
+                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
                     </div>
                   </div>
                   <div>
@@ -229,7 +229,7 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
                         <option value="renewal">{t('form.kidsIqamaStatus.options.renewal')}</option>
                         <option value="active">{t('form.kidsIqamaStatus.options.active')}</option>
                       </select>
-                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500" />
+                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
                     </div>
                   </div>
                 </div>
@@ -243,7 +243,7 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
                         <option value="single">{t('form.exitType.options.single')}</option>
                         <option value="multiple">{t('form.exitType.options.multiple')}</option>
                       </select>
-                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500" />
+                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
                     </div>
                   </div>
                   <div>
@@ -256,7 +256,7 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
                         <option value="6m">{t('form.visaDuration.options.6m')}</option>
                         <option value="1y">{t('form.visaDuration.options.1y')}</option>
                       </select>
-                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500" />
+                      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
                     </div>
                   </div>
                 </div>
@@ -279,7 +279,7 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
                       <option value="1y">{t('form.planningPeriod.options.1y')}</option>
                       <option value="2y">{t('form.planningPeriod.options.2y')}</option>
                     </select>
-                    <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500" />
+                    <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
                   </div>
                 </div>
 
@@ -336,7 +336,7 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Users className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -367,7 +367,7 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="space-y-4">
                     <div className="text-center">
-                      <p className="text-xs font-medium uppercase tracking-wider text-gray-500">
+                      <p className="text-xs font-medium uppercase tracking-wider text-gray-400">
                         {t('results.totalFees')} ({t(`period.${result.planningMonths}m`)})
                       </p>
                       <p className={cn('result-value text-desert-primary', isRtl && 'font-arabic')}>
@@ -377,13 +377,13 @@ export function FamilyVisaOptimizer({ locale }: { locale?: string }) {
 
                     <div className="grid grid-cols-2 gap-3">
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.monthlyBudget')}</p>
+                        <p className="text-xs text-gray-400">{t('results.monthlyBudget')}</p>
                         <p className="text-lg font-bold text-white">
                           <NumberTicker value={result.monthlyBudget} /> SAR
                         </p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.dependents')}</p>
+                        <p className="text-xs text-gray-400">{t('results.dependents')}</p>
                         <p className="text-lg font-bold text-white">{result.totalDependents}</p>
                       </div>
                     </div>

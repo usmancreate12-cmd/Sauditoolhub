@@ -186,7 +186,7 @@ export function FreelanceIncomeCalculator({ locale }: { locale?: string }) {
                     <div className="relative">
                       <input type="number" min={0} max={100} step={0.5} {...register('platformFeePct')} className={inputClass} />
                     </div>
-                    <p className="mt-1 text-[10px] text-gray-500">{t('form.platformFee.hint')}</p>
+                    <p className="mt-1 text-[10px] text-gray-400">{t('form.platformFee.hint')}</p>
                   </div>
                   <div>
                     <label className={labelClass}>{t('form.hours.label')}</label>
@@ -247,7 +247,7 @@ export function FreelanceIncomeCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Briefcase className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -257,20 +257,20 @@ export function FreelanceIncomeCalculator({ locale }: { locale?: string }) {
                   <div className="space-y-4">
                     <div className="grid grid-cols-2 gap-3">
                       <div className="text-center">
-                        <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.monthly')}</p>
+                        <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.monthly')}</p>
                         <p className={`text-2xl font-bold ${result.netIncome >= 0 ? 'text-desert-primary' : 'text-red-400'}`}>
                           <NumberTicker value={result.netIncome} /> SAR
                         </p>
                       </div>
                       <div className="text-center">
-                        <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.annual')}</p>
+                        <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.annual')}</p>
                         <p className={`text-2xl font-bold ${result.annualNetIncome >= 0 ? 'text-desert-primary' : 'text-red-400'}`}>
                           <NumberTicker value={result.annualNetIncome} /> SAR
                         </p>
                       </div>
                     </div>
                     <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                      <p className="text-xs text-gray-500">{t('results.hourlyRate')}</p>
+                      <p className="text-xs text-gray-400">{t('results.hourlyRate')}</p>
                       <p className="text-lg font-bold text-desert-primary">
                         <NumberTicker value={result.effectiveHourlyRate} /> SAR/hr
                       </p>

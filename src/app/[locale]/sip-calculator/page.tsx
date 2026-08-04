@@ -49,7 +49,7 @@ export default async function SipPage({ params }: Props) {
         { question: 'Which Saudi banks offer mutual fund SIPs?', answer: 'Major Saudi banks offering mutual fund SIPs include Al Rajhi Bank (Al Rajhi Capital), SNB (SNB Capital), Riyad Bank (Riyad Capital), SABB, and Saudi Fransi Capital. Each offers a range of local and international fund options across different asset classes.' },
       ]} />
       <ToolSeoContent namespace="SipCalculator" locale={locale} />
-      <div className="mx-auto mt-2 max-w-4xl px-4"><p className="text-right text-xs text-gray-500">Last updated: July 2026 &middot; Based on Saudi mutual fund market data and compound interest calculations</p></div>
+      <div className="mx-auto mt-2 max-w-4xl px-4"><p className="text-right text-xs text-gray-400">Last updated: July 2026 &middot; Based on Saudi mutual fund market data and compound interest calculations</p></div>
     </>
   )
 }

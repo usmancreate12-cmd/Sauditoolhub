@@ -104,12 +104,12 @@ export function FuelCostCalculator({ locale }: { locale?: string }) {
                   <div>
                     <label className={labelClass}>{t('form.distanceLabel')}</label>
                     <input type="number" min={1} step={5} {...register('distance')} className={inputClass} />
-                    <p className="mt-1 text-xs text-gray-500">{t('form.distanceHint')}</p>
+                    <p className="mt-1 text-xs text-gray-400">{t('form.distanceHint')}</p>
                   </div>
                   <div>
                     <label className={labelClass}>{t('form.efficiencyLabel')}</label>
                     <input type="number" min={1} step={0.5} {...register('efficiency')} className={inputClass} />
-                    <p className="mt-1 text-xs text-gray-500">{t('form.efficiencyHint')}</p>
+                    <p className="mt-1 text-xs text-gray-400">{t('form.efficiencyHint')}</p>
                   </div>
                 </div>
                 <div className="grid grid-cols-2 gap-3">
@@ -129,7 +129,7 @@ export function FuelCostCalculator({ locale }: { locale?: string }) {
                 <div>
                   <label className={labelClass}>{t('form.tripsLabel')}</label>
                   <input type="number" min={0} max={100} step={1} {...register('tripsPerMonth')} className={inputClass} />
-                  <p className="mt-1 text-xs text-gray-500">{t('form.tripsHint')}</p>
+                  <p className="mt-1 text-xs text-gray-400">{t('form.tripsHint')}</p>
                 </div>
                 {calcError && (
                   <div className="flex items-center gap-2 rounded-lg bg-red-500/15 px-3 py-2 text-xs text-red-400">
@@ -158,7 +158,7 @@ export function FuelCostCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Fuel className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -167,18 +167,18 @@ export function FuelCostCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="space-y-4">
                     <div className="text-center">
-                      <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.monthlyCost')}</p>
+                      <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.monthlyCost')}</p>
                       <p className="text-3xl font-bold text-desert-primary">
                         <NumberTicker value={result.monthlyCost} /> SAR
                       </p>
                     </div>
                     <div className="grid grid-cols-2 gap-3">
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.costPerTrip')}</p>
+                        <p className="text-xs text-gray-400">{t('results.costPerTrip')}</p>
                         <p className="text-lg font-bold text-desert-accent"><NumberTicker value={result.costPerTrip} /> SAR</p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.costPerKm')}</p>
+                        <p className="text-xs text-gray-400">{t('results.costPerKm')}</p>
                         <p className="text-lg font-bold text-white">{result.costPerKm} SAR</p>
                       </div>
                     </div>

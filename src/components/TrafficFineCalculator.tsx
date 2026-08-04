@@ -163,9 +163,9 @@ export function TrafficFineCalculator({ locale }: { locale?: string }) {
                           max={currentViolation.fineRange[1]}
                           className={inputClass}
                         />
-                        <span className="flex items-center text-sm text-gray-500">SAR</span>
+                        <span className="flex items-center text-sm text-gray-400">SAR</span>
                       </div>
-                      <p className="mt-1 text-xs text-gray-500">
+                      <p className="mt-1 text-xs text-gray-400">
                         {t('form.rangeHint', { min: currentViolation.fineRange[0], max: currentViolation.fineRange[1] })}
                       </p>
                     </div>
@@ -198,7 +198,7 @@ export function TrafficFineCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <ShieldAlert className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -207,18 +207,18 @@ export function TrafficFineCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="space-y-4">
                     <div className="text-center">
-                      <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.totalFine')}</p>
+                      <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.totalFine')}</p>
                       <p className="text-3xl font-bold text-desert-primary">
                         <NumberTicker value={result.totalFine} /> SAR
                       </p>
                     </div>
                     <div className="grid grid-cols-2 gap-3">
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.totalBlackPoints')}</p>
+                        <p className="text-xs text-gray-400">{t('results.totalBlackPoints')}</p>
                         <p className="text-lg font-bold text-desert-accent">{result.totalBlackPoints}</p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.violationsCount')}</p>
+                        <p className="text-xs text-gray-400">{t('results.violationsCount')}</p>
                         <p className="text-lg font-bold text-white">{result.violations.length}</p>
                       </div>
                     </div>
@@ -252,7 +252,7 @@ export function TrafficFineCalculator({ locale }: { locale?: string }) {
                             <span className="text-xs text-gray-600">{v.blackPoints} pt</span>
                             <button
                               onClick={() => handleRemoveViolation(v.id)}
-                              className="text-gray-500 hover:text-red-400 transition-colors"
+                              className="text-gray-400 hover:text-red-400 transition-colors"
                             >
                               <Trash2 size={14} />
                             </button>

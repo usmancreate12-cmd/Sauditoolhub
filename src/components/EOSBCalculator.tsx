@@ -289,7 +289,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
                     <option value="resignation">{t('form.reason.options.resignation')}</option>
                     <option value="contract_end">{t('form.reason.options.contract_end')}</option>
                   </select>
-                  <ChevronDown className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500', isRtl ? 'left-3' : 'right-3')} />
+                  <ChevronDown className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400', isRtl ? 'left-3' : 'right-3')} />
                 </div>
               </motion.div>
 
@@ -300,7 +300,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
                     <option value="indefinite">{t('form.contractType.options.indefinite')}</option>
                     <option value="fixed">{t('form.contractType.options.fixed')}</option>
                   </select>
-                  <ChevronDown className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500', isRtl ? 'left-3' : 'right-3')} />
+                  <ChevronDown className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400', isRtl ? 'left-3' : 'right-3')} />
                 </div>
               </motion.div>
 
@@ -379,7 +379,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
                     animate={{ rotate: [0, 10, -10, 0], scale: [1, 1.1, 1] }}
                     transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }}
                   >
-                    <Calculator className="mb-4 h-14 w-14 text-gray-500" />
+                    <Calculator className="mb-4 h-14 w-14 text-gray-400" />
                   </motion.div>
                   <p className="text-sm text-gray-400">
                     Enter your details and click Calculate to see your EOSB estimate.
@@ -441,7 +441,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
 
                     {/* Action buttons */}
                     <div className="mt-4 flex flex-wrap items-center gap-2 border-t border-gray-700/30 pt-4">
-                      <span className="mr-1 text-xs text-gray-500">
+                      <span className="mr-1 text-xs text-gray-400">
                         {t('buttons.share')}:
                       </span>
                       <MagneticButton variant="secondary" size="sm" onClick={() => handleShare('whatsapp')}>
@@ -513,7 +513,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
                     </div>
 
                     {watchedReason === 'resignation' && result.reductionPercentage < 100 && (
-                      <p className="mt-3 flex items-center gap-1.5 text-xs text-gray-500">
+                      <p className="mt-3 flex items-center gap-1.5 text-xs text-gray-400">
                         <Info className="h-3 w-3" />
                         {t('results.breakdown.percentageApplied', {
                           percentage: result.reductionPercentage,
@@ -542,10 +542,10 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
                         {t('results.howItsCalculatedContent')}
                         <div className="mt-3 rounded-xl bg-gray-800 p-3 font-mono text-xs">
                           <p>EOSB = (BasicSalary / 2) &times; min(Years, 5) + BasicSalary &times; max(0, Years - 5)</p>
-                          <p className="mt-1 text-gray-500">
+                          <p className="mt-1 text-gray-400">
                             Article 84: &frac12; month/year (first 5yr) + 1 month/year (after 5yr)
                           </p>
-                          <p className="text-gray-500">
+                          <p className="text-gray-400">
                             Article 85: Resignation reduces entitlement by tier
                           </p>
                         </div>
@@ -559,7 +559,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.3 }}
-                  className="px-1 text-xs leading-relaxed text-gray-500"
+                  className="px-1 text-xs leading-relaxed text-gray-400"
                 >
                   {t('disclaimer')}
                 </motion.p>

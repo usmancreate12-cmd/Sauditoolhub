@@ -270,7 +270,7 @@ export default function HomePage() {
                 <div className="text-sm text-desert-primary font-semibold">
                   {testimonial.name}, {testimonial.location}
                 </div>
-                <div className="text-xs text-gray-500">{testimonial.tool}</div>
+                <div className="text-xs text-gray-400">{testimonial.tool}</div>
               </GlassCard>
             ))}
           </div>

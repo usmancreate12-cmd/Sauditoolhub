@@ -124,7 +124,7 @@ export function EjarDepositCalculator({ locale }: { locale?: string }) {
                   <label className={labelClass}>{t('form.damageDeductionLabel')}</label>
                   <div className="flex items-center gap-2">
                     <input type="number" min={0} max={100} step={1} {...register('damageDeduction')} className={inputClass} />
-                    <span className="text-sm text-gray-500">%</span>
+                    <span className="text-sm text-gray-400">%</span>
                   </div>
                 </div>
                 {calcError && (
@@ -154,7 +154,7 @@ export function EjarDepositCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Home className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -163,18 +163,18 @@ export function EjarDepositCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="space-y-4">
                     <div className="text-center">
-                      <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.refundAmount')}</p>
+                      <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.refundAmount')}</p>
                       <p className="text-3xl font-bold text-desert-primary">
                         <NumberTicker value={result.refundAmount} /> SAR
                       </p>
                     </div>
                     <div className="grid grid-cols-2 gap-3">
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.depositAmount')}</p>
+                        <p className="text-xs text-gray-400">{t('results.depositAmount')}</p>
                         <p className="text-lg font-bold text-white"><NumberTicker value={result.depositAmount} /> SAR</p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.totalDeductions')}</p>
+                        <p className="text-xs text-gray-400">{t('results.totalDeductions')}</p>
                         <p className="text-lg font-bold text-desert-accent"><NumberTicker value={result.totalDeductions} /> SAR</p>
                       </div>
                     </div>
@@ -194,7 +194,7 @@ export function EjarDepositCalculator({ locale }: { locale?: string }) {
                     ))}
                   </div>
                   <div className="mt-3 rounded-xl bg-desert-primary/10 p-3 text-center">
-                    <p className="text-xs text-gray-500">{t('breakdown.refundRate')}</p>
+                    <p className="text-xs text-gray-400">{t('breakdown.refundRate')}</p>
                     <p className="text-2xl font-bold text-desert-primary"><NumberTicker value={result.refundPercentage} />%</p>
                   </div>
                 </GlassCard>

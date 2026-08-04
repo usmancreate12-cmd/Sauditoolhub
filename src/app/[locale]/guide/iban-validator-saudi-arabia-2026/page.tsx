@@ -203,19 +203,19 @@ function EnContent() {
           <div className="grid grid-cols-5 gap-1 text-center mb-3">
             <div className="bg-desert-primary/20 p-2 rounded">
               <div className="text-desert-primary font-bold">SA</div>
-              <div className="text-gray-500 text-xs">Country Code</div>
+              <div className="text-gray-400 text-xs">Country Code</div>
             </div>
             <div className="bg-desert-primary/20 p-2 rounded">
               <div className="text-desert-primary font-bold">03</div>
-              <div className="text-gray-500 text-xs">Check Digits</div>
+              <div className="text-gray-400 text-xs">Check Digits</div>
             </div>
             <div className="bg-desert-primary/20 p-2 rounded">
               <div className="text-desert-primary font-bold">80</div>
-              <div className="text-gray-500 text-xs">Bank Code</div>
+              <div className="text-gray-400 text-xs">Bank Code</div>
             </div>
             <div className="bg-desert-primary/20 p-2 rounded col-span-2">
               <div className="text-desert-primary font-bold">000000608010167519</div>
-              <div className="text-gray-500 text-xs">Account Number (18 digits)</div>
+              <div className="text-gray-400 text-xs">Account Number (18 digits)</div>
             </div>
           </div>
           <p className="text-gray-400 mt-2"><strong className="text-white">SA</strong> — Country code for Saudi Arabia. Always the first two characters.</p>
@@ -313,7 +313,7 @@ function EnContent() {
             </tbody>
           </table>
         </div>
-        <p className="text-gray-500 text-xs mt-2">*Bank codes are the 5th and 6th characters of the IBAN. Note: SNB and Riyad Bank share the same code (10) — the difference is in the account number range.</p>
+        <p className="text-gray-400 text-xs mt-2">*Bank codes are the 5th and 6th characters of the IBAN. Note: SNB and Riyad Bank share the same code (10) — the difference is in the account number range.</p>
       </div>
 
       <h2>Types of Bank Transfers in Saudi Arabia &amp; Their Fees</h2>
@@ -445,7 +445,7 @@ function EnContent() {
           <p>Bank Code: 10 = SNB ✓</p>
           <p>Check Digits (99): Mod 97 validation FAIL ✗</p>
           <p className="text-red-400 font-bold mt-1">Result: INVALID IBAN — Transaction will be rejected</p>
-          <p className="text-gray-500 text-xs mt-1">Note: The check digit 99 was chosen arbitrarily; a real SNB IBAN would have correctly calculated check digits.</p>
+          <p className="text-gray-400 text-xs mt-1">Note: The check digit 99 was chosen arbitrarily; a real SNB IBAN would have correctly calculated check digits.</p>
         </div>
       </div>
 

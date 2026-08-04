@@ -93,7 +93,7 @@ export default async function PrivacyPolicyPage({ params }: Props) {
               <h1 className="text-4xl md:text-5xl font-bold text-white mt-4 mb-6">
                 {t('title')}
               </h1>
-              <p className="text-sm text-gray-500">{t('lastUpdated')}</p>
+              <p className="text-sm text-gray-400">{t('lastUpdated')}</p>
             </div>
 
             <div className="space-y-6">

@@ -421,10 +421,10 @@ function EnContent() {
         <div className="bg-[#0A0E1A] p-5 rounded-xl mt-4">
           <h3 className="text-white font-bold mb-3">Related Calculators &amp; Guides</h3>
           <ul className="space-y-2 text-sm">
-            <li><Link href="/fuel-cost-calculator" className="text-desert-primary underline hover:text-desert-primary-dim">→ Fuel Cost Calculator</Link> <span className="text-gray-500">— Calculate trip fuel costs instantly</span></li>
-            <li><Link href="/used-car-calculator" className="text-desert-primary underline hover:text-desert-primary-dim">→ Used Car Calculator</Link> <span className="text-gray-500">— Estimate total cost of ownership including fuel</span></li>
-            <li><Link href="/traffic-fine-calculator" className="text-desert-primary underline hover:text-desert-primary-dim">→ Traffic Fine Calculator</Link> <span className="text-gray-500">— Check and estimate your traffic fines</span></li>
-            <li><Link href="/blog" className="text-desert-primary underline hover:text-desert-primary-dim">→ Sauditoolhub Blog</Link> <span className="text-gray-500">— More guides on driving, fuel, and car maintenance in Saudi</span></li>
+            <li><Link href="/fuel-cost-calculator" className="text-desert-primary underline hover:text-desert-primary-dim">→ Fuel Cost Calculator</Link> <span className="text-gray-400">— Calculate trip fuel costs instantly</span></li>
+            <li><Link href="/used-car-calculator" className="text-desert-primary underline hover:text-desert-primary-dim">→ Used Car Calculator</Link> <span className="text-gray-400">— Estimate total cost of ownership including fuel</span></li>
+            <li><Link href="/traffic-fine-calculator" className="text-desert-primary underline hover:text-desert-primary-dim">→ Traffic Fine Calculator</Link> <span className="text-gray-400">— Check and estimate your traffic fines</span></li>
+            <li><Link href="/blog" className="text-desert-primary underline hover:text-desert-primary-dim">→ Sauditoolhub Blog</Link> <span className="text-gray-400">— More guides on driving, fuel, and car maintenance in Saudi</span></li>
           </ul>
         </div>
       </GlassCard>

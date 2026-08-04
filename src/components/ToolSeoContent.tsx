@@ -80,7 +80,7 @@ export function ToolSeoContent({ namespace, locale }: ToolSeoContentProps) {
         </div>
       </GlassCard>
 
-      <p className="text-xs text-gray-500 leading-relaxed">{t('seo.disclaimer')}</p>
+      <p className="text-xs text-gray-400 leading-relaxed">{t('seo.disclaimer')}</p>
     </div>
   )
 }

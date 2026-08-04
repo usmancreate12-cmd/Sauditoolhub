@@ -225,7 +225,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
                       <option value="exit_reentry">{t('form.overstayType.options.exit_reentry')}</option>
                       <option value="visit_visa">{t('form.overstayType.options.visit_visa')}</option>
                     </select>
-                    <ChevronDown className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500', isRtl ? 'left-3' : 'right-3')} />
+                    <ChevronDown className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400', isRtl ? 'left-3' : 'right-3')} />
                   </div>
                 </div>
               </motion.div>
@@ -234,7 +234,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
               <motion.div variants={fadeSlide(isRtl)}>
                 <label className={labelClass}>{t('form.expiryDate.label')}</label>
                 <div className="relative">
-                  <Calendar className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500', isRtl ? 'left-3' : 'right-3')} />
+                  <Calendar className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400', isRtl ? 'left-3' : 'right-3')} />
                   <input type="date" {...register('expiryDate')} className={inputClass} />
                 </div>
                 {errors.expiryDate && (
@@ -248,7 +248,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
               <motion.div variants={fadeSlide(isRtl)}>
                 <label className={labelClass}>{t('form.calculateDate.label')}</label>
                 <div className="relative">
-                  <Clock className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500', isRtl ? 'left-3' : 'right-3')} />
+                  <Clock className={cn('pointer-events-none absolute top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400', isRtl ? 'left-3' : 'right-3')} />
                   <input type="date" {...register('calculateDate')} className={inputClass} />
                 </div>
               </motion.div>
@@ -342,7 +342,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
               <motion.div key="empty" initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.95 }} className="flex-1">
                 <GlassCard className="flex h-full min-h-[300px] flex-col items-center justify-center p-10 text-center lg:min-h-0" tilt>
                   <motion.div animate={{ rotate: [0, 10, -10, 0], scale: [1, 1.1, 1] }} transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }}>
-                    <ShieldAlert className="mb-4 h-14 w-14 text-gray-500" />
+                    <ShieldAlert className="mb-4 h-14 w-14 text-gray-400" />
                   </motion.div>
                   <p className="text-sm text-gray-400">
                     Enter your visa details and click Calculate to see your Jawazat fine estimate.
@@ -375,7 +375,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
                     <p className={`result-value ${riskClasses[result.riskLevel]}`}>
                       <NumberTicker value={result.totalFine} duration={1500} formatter={(v) => formatSAR(v)} suffix=" SAR" />
                     </p>
-                    <p className="mt-2 text-xs text-gray-500">
+                    <p className="mt-2 text-xs text-gray-400">
                       <Clock className="inline h-3 w-3 mr-1" />
                       {result.daysOverstayed} {t('results.daysOverstayed')} &middot; {result.dailyFine} SAR/day
                     </p>
@@ -387,7 +387,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
                     )}
 
                     <div className="mt-4 flex flex-wrap items-center gap-2 border-t border-gray-700/30 pt-4">
-                      <span className="mr-1 text-xs text-gray-500">
+                      <span className="mr-1 text-xs text-gray-400">
                         {t('buttons.share')}:
                       </span>
                       <MagneticButton variant="secondary" size="sm" onClick={() => handleShare('whatsapp')}>
@@ -454,7 +454,7 @@ export function JawazatCalculator({ locale }: { locale?: string }) {
                   </GlassCard>
                 </motion.div>
 
-                <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }} className="px-1 text-xs leading-relaxed text-gray-500">
+                <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }} className="px-1 text-xs leading-relaxed text-gray-400">
                   {t('disclaimer')}
                 </motion.p>
               </motion.div>

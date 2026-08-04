@@ -170,7 +170,7 @@ export function NitaqatSimulator({ locale }: { locale?: string }) {
                       <option value="all">{t('form.sector.options.all')}</option>
                     </select>
                   </div>
-                  <p className="mt-1 text-xs text-gray-500">{t('form.sector.hint')}</p>
+                  <p className="mt-1 text-xs text-gray-400">{t('form.sector.hint')}</p>
                 </div>
 
                 {calcError && (
@@ -267,7 +267,7 @@ export function NitaqatSimulator({ locale }: { locale?: string }) {
                 </div>
               </div>
 
-              <p className="text-xs text-gray-500 leading-relaxed">{t('simulator.hint')}</p>
+              <p className="text-xs text-gray-400 leading-relaxed">{t('simulator.hint')}</p>
             </div>
           </GlassCard>
         </motion.div>
@@ -280,7 +280,7 @@ export function NitaqatSimulator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <BarChart3 className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -342,7 +342,7 @@ export function NitaqatSimulator({ locale }: { locale?: string }) {
                       </span>
                     </div>
                     <div className="flex items-center justify-between pt-1">
-                      <span className="text-xs text-gray-500">{t('results.breakdown')}</span>
+                      <span className="text-xs text-gray-400">{t('results.breakdown')}</span>
                       <span className="text-xs text-gray-400">
                         {result.proposedSaudi} {t('results.saudi')} / {result.proposedTotal - result.proposedSaudi} {t('results.expat')} = {result.proposedTotal} {t('results.total')}
                       </span>

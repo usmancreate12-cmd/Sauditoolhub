@@ -355,7 +355,7 @@ function EnContent() {
           <p className="pl-4">Total Expenses: 750 SAR</p>
           <p>No VAT (international client — zero-rated)</p>
           <p className="text-desert-primary font-bold mt-2">Net Monthly Income: 6,844 - 750 = 6,094 SAR</p>
-          <p className="text-gray-500 text-xs mt-1">Effective tax/fee burden: ~19% of gross income</p>
+          <p className="text-gray-400 text-xs mt-1">Effective tax/fee burden: ~19% of gross income</p>
         </div>
       </div>
 
@@ -376,7 +376,7 @@ function EnContent() {
           <p>Income Before VAT: 18,000 - 2,600 = 15,400 SAR</p>
           <p>VAT (15% of taxable income): 15,400 × 15% = 2,310 SAR</p>
           <p className="text-desert-primary font-bold mt-2">Net Monthly Income: 15,400 - 2,310 = 13,090 SAR</p>
-          <p className="text-gray-500 text-xs mt-1">Effective tax/fee burden: ~35% of gross income</p>
+          <p className="text-gray-400 text-xs mt-1">Effective tax/fee burden: ~35% of gross income</p>
         </div>
         <p className="text-gray-400 text-xs mt-2">Note: The VAT amount (2,310 SAR) is collected from your client and remitted to ZATCA. It is not a cost to you — it passes through your business. Your actual net income before expenses is 15,400 SAR.</p>
       </div>

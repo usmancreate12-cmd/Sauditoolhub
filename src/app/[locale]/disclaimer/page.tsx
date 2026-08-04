@@ -95,7 +95,7 @@ export default async function DisclaimerPage({ params }: Props) {
               <h1 className="text-4xl md:text-5xl font-bold text-white mt-4 mb-6">
                 {t('title')}
               </h1>
-              <p className="text-sm text-gray-500">{t('lastUpdated')}</p>
+              <p className="text-sm text-gray-400">{t('lastUpdated')}</p>
             </div>
 
             <div className="space-y-6">
@@ -115,7 +115,7 @@ export default async function DisclaimerPage({ params }: Props) {
                             className="flex items-center justify-between glass p-3 rounded-lg text-sm text-gray-300 hover:text-desert-primary transition-colors"
                           >
                             <span className="font-medium">{p.name}</span>
-                            <span className="text-xs text-gray-500">{p.desc}</span>
+                            <span className="text-xs text-gray-400">{p.desc}</span>
                           </a>
                         ))}
                       </div>

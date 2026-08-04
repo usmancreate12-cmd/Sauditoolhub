@@ -376,7 +376,7 @@ function EnContent() {
           <p>Less Debts: 0 SAR</p>
           <p>Nisab Check: 55,000 &gt; ~21,250 ✓</p>
           <p className="text-desert-primary font-bold mt-1">Zakat Due: 55,000 × 2.5% = 1,375 SAR</p>
-          <p className="text-gray-500 text-xs mt-1">Note: The apartment building itself is not Zakatable (it is a fixed asset used for business). Only the rental income saved is subject to Zakat.</p>
+          <p className="text-gray-400 text-xs mt-1">Note: The apartment building itself is not Zakatable (it is a fixed asset used for business). Only the rental income saved is subject to Zakat.</p>
         </div>
       </div>
 
@@ -513,7 +513,7 @@ function ArContent() {
         <div className="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm">
           <p>الذهب (24 قيراط): 85 جراماً = ~20,400 - 22,950 ريال</p>
           <p>الفضة: 595 جراماً = ~2,380 - 3,570 ريال</p>
-          <p className="text-gray-500 text-xs mt-1">*أسعار الذهب والفضة تتغير يومياً. تحقق من الأسعار الحالية في حاسبة الزكاة.</p>
+          <p className="text-gray-400 text-xs mt-1">*أسعار الذهب والفضة تتغير يومياً. تحقق من الأسعار الحالية في حاسبة الزكاة.</p>
         </div>
       </div>
 

@@ -49,7 +49,7 @@ export default async function IbanPage({ params }: Props) {
         { question: 'How do I find my IBAN in Saudi Arabia?', answer: 'You can find your IBAN on your bank statement, through your bank\'s mobile app under account details, or by visiting your bank branch. Most Saudi banks display the IBAN prominently in their online banking platforms.' },
       ]} />
       <ToolSeoContent namespace="IbanValidator" locale={locale} />
-      <div className="mx-auto mt-2 max-w-4xl px-4"><p className="text-right text-xs text-gray-500">Last updated: July 2026 &middot; Based on SAMA regulations and Saudi bank fee schedules</p></div>
+      <div className="mx-auto mt-2 max-w-4xl px-4"><p className="text-right text-xs text-gray-400">Last updated: July 2026 &middot; Based on SAMA regulations and Saudi bank fee schedules</p></div>
     </>
   )
 }

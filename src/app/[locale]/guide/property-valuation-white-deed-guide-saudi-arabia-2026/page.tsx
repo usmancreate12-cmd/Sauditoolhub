@@ -294,7 +294,7 @@ function EnContent() {
           <p className="text-gray-400 text-sm">Adjustments: -10% for 12-year-old building, +5% for central AC, 0% for good condition</p>
           <p className="text-gray-400 text-sm">Total adjustment: -5%</p>
           <p className="text-gray-400 text-sm text-desert-primary mt-1">Estimated Value: 1,500,000 × 0.95 = 1,425,000 SAR</p>
-          <p className="text-gray-500 text-xs mt-1">Compare with the seller's asking price of 1,550,000 SAR — appears overpriced by ~125,000 SAR</p>
+          <p className="text-gray-400 text-xs mt-1">Compare with the seller's asking price of 1,550,000 SAR — appears overpriced by ~125,000 SAR</p>
         </div>
 
         <h3>Example 2: Valuing a White Deed Plot in Jeddah</h3>

@@ -97,7 +97,7 @@ export function MortgageVsRentCalculator({ locale }: { locale?: string }) {
                     <label className={labelClass}>{t('form.downPaymentPercentLabel')}</label>
                     <div className="flex items-center gap-2">
                       <input type="number" min={0} max={100} step={1} {...register('downPaymentPercent')} className={inputClass} />
-                      <span className="text-sm text-gray-500">%</span>
+                      <span className="text-sm text-gray-400">%</span>
                     </div>
                   </div>
                 </div>
@@ -106,14 +106,14 @@ export function MortgageVsRentCalculator({ locale }: { locale?: string }) {
                     <label className={labelClass}>{t('form.interestRateLabel')}</label>
                     <div className="flex items-center gap-2">
                       <input type="number" min={0} max={30} step={0.1} {...register('interestRate')} className={inputClass} />
-                      <span className="text-sm text-gray-500">%</span>
+                      <span className="text-sm text-gray-400">%</span>
                     </div>
                   </div>
                   <div>
                     <label className={labelClass}>{t('form.loanTenureLabel')}</label>
                     <div className="flex items-center gap-2">
                       <input type="number" min={1} max={50} step={1} {...register('loanTenure')} className={inputClass} />
-                      <span className="text-sm text-gray-500">{t('form.years')}</span>
+                      <span className="text-sm text-gray-400">{t('form.years')}</span>
                     </div>
                   </div>
                 </div>
@@ -126,7 +126,7 @@ export function MortgageVsRentCalculator({ locale }: { locale?: string }) {
                     <label className={labelClass}>{t('form.yearsToCompareLabel')}</label>
                     <div className="flex items-center gap-2">
                       <input type="number" min={1} max={50} step={1} {...register('yearsToCompare')} className={inputClass} />
-                      <span className="text-sm text-gray-500">{t('form.years')}</span>
+                      <span className="text-sm text-gray-400">{t('form.years')}</span>
                     </div>
                   </div>
                 </div>
@@ -157,7 +157,7 @@ export function MortgageVsRentCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <TrendingUp className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -165,23 +165,23 @@ export function MortgageVsRentCalculator({ locale }: { locale?: string }) {
               <motion.div key="result" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="space-y-4">
                 <GlassCard>
                   <div className="text-center">
-                    <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.monthlyPayment')}</p>
+                    <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.monthlyPayment')}</p>
                     <p className="text-3xl font-bold text-desert-primary">
                       <NumberTicker value={result.monthlyPayment} /> SAR
                     </p>
                   </div>
                   <div className="mt-4 grid grid-cols-2 gap-3">
                     <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                      <p className="text-xs text-gray-500">{t('results.totalBuyCost')}</p>
+                      <p className="text-xs text-gray-400">{t('results.totalBuyCost')}</p>
                       <p className={`text-lg font-bold ${result.buyBetter ? 'text-green-400' : 'text-desert-accent'}`}><NumberTicker value={result.totalBuyCost} /> SAR</p>
                     </div>
                     <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                      <p className="text-xs text-gray-500">{t('results.totalRentCost')}</p>
+                      <p className="text-xs text-gray-400">{t('results.totalRentCost')}</p>
                       <p className={`text-lg font-bold ${!result.buyBetter ? 'text-green-400' : 'text-desert-accent'}`}><NumberTicker value={result.totalRentCost} /> SAR</p>
                     </div>
                   </div>
                   <div className="mt-3 rounded-xl bg-desert-primary/10 p-3 text-center">
-                    <p className="text-xs text-gray-500">{result.buyBetter ? t('results.buyRecommend') : t('results.rentRecommend')}</p>
+                    <p className="text-xs text-gray-400">{result.buyBetter ? t('results.buyRecommend') : t('results.rentRecommend')}</p>
                   </div>
                 </GlassCard>
 
@@ -207,10 +207,10 @@ export function MortgageVsRentCalculator({ locale }: { locale?: string }) {
                   </div>
                   {showBreakdown && (
                     <motion.div initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: 'auto' }} className="mt-3 space-y-1">
-                      <p className="text-xs font-medium text-gray-500">{t('results.yearlyTable')}</p>
+                      <p className="text-xs font-medium text-gray-400">{t('results.yearlyTable')}</p>
                       {result.breakdown.map((row) => (
                         <div key={row.year} className="flex items-center justify-between rounded-lg bg-gray-800/10 px-3 py-1.5 text-xs">
-                          <span className="text-gray-500">{t('results.yearLabel', { year: row.year })}</span>
+                          <span className="text-gray-400">{t('results.yearLabel', { year: row.year })}</span>
                           <span className="text-gray-400">{t('results.buyLabel')}: {row.cumulativeBuyCost.toLocaleString()}</span>
                           <span className="text-gray-400">{t('results.rentLabel')}: {row.cumulativeRentCost.toLocaleString()}</span>
                         </div>

@@ -103,7 +103,7 @@ export default async function FreelanceIncomePage({ params }: Props) {
       />
       <ToolSeoContent namespace="FreelanceIncomeCalculator" locale={locale} />
       <div className="mx-auto mt-2 max-w-4xl px-4">
-        <p className="text-right text-xs text-gray-500">
+        <p className="text-right text-xs text-gray-400">
           Last updated: July 2026 &middot; Based on Saudi freelance regulations &amp; platform fee structures
         </p>
       </div>

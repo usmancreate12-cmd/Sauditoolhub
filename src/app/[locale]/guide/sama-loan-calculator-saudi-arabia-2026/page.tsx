@@ -301,7 +301,7 @@ function EnContent() {
           <p>Loan Tenure: 60 months (5 years)</p>
           <p>APR: 5%</p>
           <p>Calculated Max Loan Amount: <strong className="text-desert-primary">~156,000 SAR</strong></p>
-          <p className="text-gray-500 text-xs mt-1">Total interest paid over 5 years: ~20,400 SAR</p>
+          <p className="text-gray-400 text-xs mt-1">Total interest paid over 5 years: ~20,400 SAR</p>
         </div>
       </div>
 
@@ -316,7 +316,7 @@ function EnContent() {
           <p>Loan Tenure: 60 months (5 years)</p>
           <p>APR: 4.5%</p>
           <p>Calculated Max Loan Amount: <strong className="text-desert-primary">~484,000 SAR</strong></p>
-          <p className="text-gray-500 text-xs mt-1">Note: Standard max limits still apply (750,000 SAR for Saudis)</p>
+          <p className="text-gray-400 text-xs mt-1">Note: Standard max limits still apply (750,000 SAR for Saudis)</p>
         </div>
       </div>
 
@@ -330,7 +330,7 @@ function EnContent() {
           <p>Available EMI: 3,960 - 400 = <strong>3,560 SAR</strong></p>
           <p>Maximum Loan at 5.5% APR over 4 years: ~153,000 SAR</p>
           <p className="text-desert-primary">50,000 SAR loan is well within eligibility ✓</p>
-          <p className="text-gray-500 text-xs mt-1">Tip: Paying off the credit card increases available EMI to 3,960 SAR</p>
+          <p className="text-gray-400 text-xs mt-1">Tip: Paying off the credit card increases available EMI to 3,960 SAR</p>
         </div>
       </div>
 

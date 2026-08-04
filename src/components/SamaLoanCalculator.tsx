@@ -165,7 +165,7 @@ export function SamaLoanCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Landmark className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -185,18 +185,18 @@ export function SamaLoanCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="space-y-4">
                     <div className="text-center">
-                      <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.eligibleLoan')}</p>
+                      <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.eligibleLoan')}</p>
                       <p className="text-3xl font-bold text-desert-primary">
                         <NumberTicker value={result.maxEligibleLoan} /> SAR
                       </p>
                     </div>
                     <div className="grid grid-cols-2 gap-3">
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.monthlyEMI')}</p>
+                        <p className="text-xs text-gray-400">{t('results.monthlyEMI')}</p>
                         <p className="text-lg font-bold text-white"><NumberTicker value={result.maxMonthlyEMI} /> SAR</p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.totalInterest')}</p>
+                        <p className="text-xs text-gray-400">{t('results.totalInterest')}</p>
                         <p className="text-lg font-bold text-desert-accent"><NumberTicker value={result.totalInterestPayable} /> SAR</p>
                       </div>
                     </div>

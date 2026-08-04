@@ -277,7 +277,7 @@ function EnContent() {
               <p>Equity Built: 0 SAR</p>
               <p>Moving Costs (3 moves): 6,000 SAR</p>
               <p className="text-desert-gold mt-2">Total Cost: 606,000 SAR</p>
-              <p className="text-gray-500">You own nothing after 10 years.</p>
+              <p className="text-gray-400">You own nothing after 10 years.</p>
             </div>
             <div>
               <p className="text-desert-primary font-medium">Buying</p>
@@ -287,7 +287,7 @@ function EnContent() {
               <p>Monthly Payment: ~5,150 SAR</p>
               <p>10-Year Payments: 618,000 SAR</p>
               <p className="text-desert-gold mt-2">Remaining Loan: ~620,000 SAR</p>
-              <p className="text-gray-500">Equity built: 580,000 SAR + appreciation</p>
+              <p className="text-gray-400">Equity built: 580,000 SAR + appreciation</p>
             </div>
           </div>
         </div>

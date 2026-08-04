@@ -103,7 +103,7 @@ export default async function VisaChecklistPage({ params }: Props) {
       />
       <ToolSeoContent namespace="VisaChecklist" locale={locale} />
       <div className="mx-auto mt-2 max-w-4xl px-4">
-        <p className="text-right text-xs text-gray-500">
+        <p className="text-right text-xs text-gray-400">
           Last updated: July 2026 &middot; Based on Saudi visa regulations &amp; Ministry of Foreign Affairs requirements
         </p>
       </div>

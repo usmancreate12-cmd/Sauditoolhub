@@ -146,7 +146,7 @@ export default async function ContactPage({ params }: Props) {
                     {t('submitButton')}
                   </button>
                 </form>
-                <p className="text-xs text-gray-500 mt-4 text-center">{t('responseTime')}</p>
+                <p className="text-xs text-gray-400 mt-4 text-center">{t('responseTime')}</p>
               </div>
 
               <div className="space-y-6">

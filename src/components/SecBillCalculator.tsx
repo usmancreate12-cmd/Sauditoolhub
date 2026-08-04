@@ -91,7 +91,7 @@ export function SecBillCalculator({ locale }: { locale?: string }) {
                     placeholder={t('form.consumptionPlaceholder')}
                     className={inputClass}
                   />
-                  <p className="mt-1 text-xs text-gray-500">{t('form.consumptionHint')}</p>
+                  <p className="mt-1 text-xs text-gray-400">{t('form.consumptionHint')}</p>
                   {errors.consumption && (
                     <p className="mt-1 text-xs text-red-400">{errors.consumption.message}</p>
                   )}
@@ -133,7 +133,7 @@ export function SecBillCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <Zap className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -142,22 +142,22 @@ export function SecBillCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="space-y-4">
                     <div className="text-center">
-                      <p className="text-xs font-medium uppercase tracking-wider text-gray-500">{t('results.totalBill')}</p>
+                      <p className="text-xs font-medium uppercase tracking-wider text-gray-400">{t('results.totalBill')}</p>
                       <p className="text-3xl font-bold text-desert-primary">
                         <NumberTicker value={result.totalAfterVat} /> SAR
                       </p>
                     </div>
                     <div className="grid grid-cols-3 gap-3">
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.beforeVat')}</p>
+                        <p className="text-xs text-gray-400">{t('results.beforeVat')}</p>
                         <p className="text-lg font-bold text-white"><NumberTicker value={result.totalBeforeVat} /> SAR</p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.vatAmount')}</p>
+                        <p className="text-xs text-gray-400">{t('results.vatAmount')}</p>
                         <p className="text-lg font-bold text-desert-accent"><NumberTicker value={result.vatAmount} /> SAR</p>
                       </div>
                       <div className="rounded-xl bg-gray-800/50 p-3 text-center">
-                        <p className="text-xs text-gray-500">{t('results.avgRate')}</p>
+                        <p className="text-xs text-gray-400">{t('results.avgRate')}</p>
                         <p className="text-lg font-bold text-white">{result.avgRatePerKwh} SAR</p>
                       </div>
                     </div>
@@ -167,7 +167,7 @@ export function SecBillCalculator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <h3 className="mb-3 text-sm font-semibold text-white">{t('breakdown.title')}</h3>
                   <div className="space-y-1">
-                    <div className="flex items-center justify-between rounded-lg bg-gray-800/20 px-3 py-2 text-xs text-gray-500">
+                    <div className="flex items-center justify-between rounded-lg bg-gray-800/20 px-3 py-2 text-xs text-gray-400">
                       <span>{t('breakdown.tierHeader')}</span>
                       <span>{t('breakdown.kwhHeader')}</span>
                       <span>{t('breakdown.rateHeader')}</span>
@@ -177,7 +177,7 @@ export function SecBillCalculator({ locale }: { locale?: string }) {
                       <div key={i} className="flex items-center justify-between rounded-lg bg-gray-800/20 px-3 py-2">
                         <span className="text-sm text-gray-400 w-20">{item.tierLabel}</span>
                         <span className="text-sm text-gray-300 w-20 text-center">{item.consumption.toLocaleString()}</span>
-                        <span className="text-sm text-gray-500 w-16 text-center">{item.rateSar.toFixed(3)}</span>
+                        <span className="text-sm text-gray-400 w-16 text-center">{item.rateSar.toFixed(3)}</span>
                         <span className="text-sm font-medium text-green-400 w-20 text-right">{item.cost.toFixed(2)} SAR</span>
                       </div>
                     ))}

@@ -63,7 +63,7 @@ export default async function BillSplitterPage({ params }: Props) {
       ]} />
       <ToolSeoContent namespace="BillSplitterCalculator" locale={locale} />
       <div className="mx-auto mt-2 max-w-4xl px-4">
-        <p className="text-right text-xs text-gray-500">Last updated: July 2026</p>
+        <p className="text-right text-xs text-gray-400">Last updated: July 2026</p>
       </div>
     </>
   )

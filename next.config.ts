@@ -3,6 +3,10 @@ import createNextIntlPlugin from 'next-intl/plugin'
 
 const withNextIntl = createNextIntlPlugin()
 
+// Note: No custom babel config exists and .browserslistrc only targets modern browsers
+// ("> 0.5%", "last 2 versions", "not dead", "not ie <= 11"). Next.js compiles with SWC
+// defaults, so Lighthouse's ~18 KiB "legacy JavaScript" polyfill warning
+// (Array.prototype.at/flat, Object.hasOwn) is a minor false positive for modern browsers.
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
@@ -20,6 +24,10 @@ const nextConfig: NextConfig = {
   },
   experimental: {
     optimizePackageImports: ['lucide-react', 'framer-motion'],
+    // Inline route CSS into <style> tags in <head> to remove the render-blocking
+    // stylesheet request on first load (improves FCP/LCP for first-time visitors).
+    // Recommended for atomic CSS frameworks like Tailwind.
+    inlineCss: true,
   },
   async headers() {
     return [

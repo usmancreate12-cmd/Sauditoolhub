@@ -95,7 +95,7 @@ export default async function FamilyVisaPage({ params }: Props) {
       />
       <ToolSeoContent namespace="FamilyVisaCalculator" locale={locale} />
       <div className="mx-auto mt-2 max-w-4xl px-4">
-        <p className="text-right text-xs text-gray-500">
+        <p className="text-right text-xs text-gray-400">
           {t('lastUpdated')} &middot; {t('legalNotice')}
         </p>
       </div>

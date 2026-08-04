@@ -100,20 +100,20 @@ function SearchableSelect({ value, onChange, groups, placeholder, searchPlacehol
         onClick={() => { setOpen(!open); setTimeout(() => inputRef.current?.focus(), 50) }}
         onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setOpen(!open); setTimeout(() => inputRef.current?.focus(), 50) } }}
       >
-        <span className={value ? 'text-gray-100' : 'text-gray-500'}>
+        <span className={value ? 'text-gray-100' : 'text-gray-400'}>
           {value ? selectedLabel : placeholder}
         </span>
         <div className="flex items-center gap-1">
           {value && (
             <button
               onClick={(e) => { e.stopPropagation(); handleClear() }}
-              className="rounded p-0.5 text-gray-500 hover:text-gray-300 transition-colors"
+              className="rounded p-0.5 text-gray-400 hover:text-gray-300 transition-colors"
               aria-label="Clear selection"
             >
               <X size={14} />
             </button>
           )}
-          <ChevronDown size={14} className={`text-gray-500 transition-transform duration-200 ${open ? 'rotate-180' : ''}`} />
+          <ChevronDown size={14} className={`text-gray-400 transition-transform duration-200 ${open ? 'rotate-180' : ''}`} />
         </div>
       </div>
 
@@ -127,7 +127,7 @@ function SearchableSelect({ value, onChange, groups, placeholder, searchPlacehol
             className="absolute z-50 mt-1 w-full overflow-hidden rounded-xl border border-gray-600 bg-gray-900 shadow-2xl"
           >
             <div className="relative border-b border-gray-700">
-              <Search size={14} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-500" />
+              <Search size={14} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
               <input
                 ref={inputRef}
                 type="text"
@@ -139,7 +139,7 @@ function SearchableSelect({ value, onChange, groups, placeholder, searchPlacehol
               {search && (
                 <button
                   onClick={() => setSearch('')}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-500 hover:text-gray-300 transition-colors"
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-300 transition-colors"
                 >
                   <X size={14} />
                 </button>
@@ -147,7 +147,7 @@ function SearchableSelect({ value, onChange, groups, placeholder, searchPlacehol
             </div>
             <div className="max-h-64 overflow-y-auto">
               {Object.keys(filtered).length === 0 ? (
-                <p className="p-4 text-center text-sm text-gray-500">No results found</p>
+                <p className="p-4 text-center text-sm text-gray-400">No results found</p>
               ) : (
                 Object.entries(filtered).map(([groupKey, items]) => (
                   <div key={groupKey}>
@@ -278,7 +278,7 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                         <option key={vt} value={vt}>{t(`visaTypes.${vt}`)}</option>
                       ))}
                     </select>
-                    <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500" />
+                    <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
                   </div>
                 </div>
 
@@ -338,7 +338,7 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
                     <FileText className="mb-4 h-12 w-12 text-gray-600" />
-                    <p className="text-sm text-gray-500">{t('emptyState')}</p>
+                    <p className="text-sm text-gray-400">{t('emptyState')}</p>
                   </div>
                 </GlassCard>
               </motion.div>
@@ -351,7 +351,7 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
               >
                 <GlassCard>
                   <div className="flex flex-col items-center justify-center py-12 text-center">
-                    <FileText className="mb-4 h-12 w-12 text-gray-500" />
+                    <FileText className="mb-4 h-12 w-12 text-gray-400" />
                     <p className="text-lg font-semibold text-white">{t('noDocuments.title')}</p>
                     <p className="mt-2 text-sm text-gray-400">{t('noDocuments.message')}</p>
                   </div>
@@ -371,12 +371,12 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                       <div>
                         <p className="text-sm font-medium text-white">{t('visaTypes.' + visaType)}</p>
                         {nationality && (
-                          <p className="text-xs text-gray-500">{t('nationalities.' + nationality)}</p>
+                          <p className="text-xs text-gray-400">{t('nationalities.' + nationality)}</p>
                         )}
                       </div>
                       <div className="text-right">
-                        <p className="text-2xl font-bold text-desert-primary">{checkedCount}<span className="text-sm text-gray-500">/{totalDocs}</span></p>
-                        <p className="text-xs text-gray-500">{t('progress.ready')}</p>
+                        <p className="text-2xl font-bold text-desert-primary">{checkedCount}<span className="text-sm text-gray-400">/{totalDocs}</span></p>
+                        <p className="text-xs text-gray-400">{t('progress.ready')}</p>
                       </div>
                     </div>
 
@@ -388,7 +388,7 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                         transition={{ duration: 0.4, ease: 'easeOut' }}
                       />
                     </div>
-                    <p className="text-xs text-gray-500">{t('progress.completed', { progress })}</p>
+                    <p className="text-xs text-gray-400">{t('progress.completed', { progress })}</p>
                   </div>
                 </GlassCard>
 
@@ -438,7 +438,7 @@ export function VisaChecklistGenerator({ locale }: { locale?: string }) {
                               <span className={`mt-0.5 inline-block rounded px-1.5 py-0.5 text-[10px] ${
                                 doc.required
                                   ? 'bg-red-500/20 text-red-400'
-                                  : 'bg-gray-700/50 text-gray-500'
+                                  : 'bg-gray-700/50 text-gray-400'
                               }`}>
                                 {doc.required ? t('required') : t('optional')}
                               </span>

@@ -114,7 +114,7 @@ export default async function BlogPage({ params }: Props) {
                     <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-desert-primary/15 text-desert-primary">
                       {t(`categories.${post.category}`)}
                     </span>
-                    <span className="flex items-center gap-1 text-xs text-gray-500">
+                    <span className="flex items-center gap-1 text-xs text-gray-400">
                       <Clock className="h-3 w-3" />
                       {post.readTime} {t('minRead')}
                     </span>
@@ -128,7 +128,7 @@ export default async function BlogPage({ params }: Props) {
                   </p>
 
                   <div className="flex items-center justify-between mt-auto pt-4 border-t border-gray-700/30">
-                    <span className="flex items-center gap-1.5 text-xs text-gray-500">
+                    <span className="flex items-center gap-1.5 text-xs text-gray-400">
                       <Calendar className="h-3 w-3" />
                       {new Date(post.date).toLocaleDateString(locale === 'en' ? 'en-US' : locale === 'ar' ? 'ar-SA' : locale === 'ur' ? 'ur-PK' : locale, {
                         year: 'numeric',

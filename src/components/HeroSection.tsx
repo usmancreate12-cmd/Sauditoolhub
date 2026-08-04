@@ -297,7 +297,7 @@ export function HeroSection() {
               <motion.div
                 key={item.key}
                 variants={trustVariants}
-                className="flex items-center gap-2 text-xs text-gray-500 sm:text-sm"
+                className="flex items-center gap-2 text-xs text-gray-400 sm:text-sm"
               >
                 <motion.div
                   animate={{ scale: [1, 1.15, 1] }}
