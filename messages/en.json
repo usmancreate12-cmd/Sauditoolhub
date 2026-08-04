@@ -134,7 +134,10 @@
         "tool3Href": "/visa-checklist-generator",
         "tool4Name": "Final Settlement Calculator",
         "tool4Desc": "Calculate your full final settlement including EOSB, unused vacation days, and notice period pay.",
-        "tool4Href": "/final-settlement-calculator"
+        "tool4Href": "/final-settlement-calculator",
+        "tool5Name": "Traffic Fine Calculator",
+        "tool5Desc": "Check Saudi traffic fines, Saher camera violations, and how to pay them quickly.",
+        "tool5Href": "/traffic-fine-calculator"
       },
       "disclaimer": "This calculator provides estimates based on Saudi Jawazat regulations and published fine structures. Actual fines may vary based on your specific situation, nationality, and official assessment by the Saudi Ministry of Interior and Jawazat. We recommend verifying with Absher or visiting a Jawazat office for the exact amount. This is not legal advice."
     }
@@ -265,8 +268,8 @@
   },
   "FamilyVisaCalculator": {
     "toolName": "Family Visa & Dependent Fee Calculator",
-    "metaTitle": "Family Visa & Dependent Fee Calculator Saudi Arabia 2026 | Check Eligibility",
-    "description": "Calculate your Saudi Family Visa dependent fees (SAR 400/mo) and check eligibility instantly. Updated 2026 rules for expats.",
+    "metaTitle": "Family Visa Eligibility Optimizer Saudi Arabia 2026 | Check Now",
+    "description": "Check if you qualify for Saudi family visa sponsorship. Free optimizer tool for expats. Verify profession, salary, and dependent requirements 2026.",
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Family Details",
@@ -873,7 +876,10 @@
         "tool3Href": "/cr-cost-estimator",
         "tool4Name": "Zakat Calculator",
         "tool4Desc": "Calculate your Zakat obligation based on Saudi Zakat regulations for businesses and individuals.",
-        "tool4Href": "/zakat-calculator"
+        "tool4Href": "/zakat-calculator",
+        "tool5Name": "Freelance Income Tax Guide",
+        "tool5Desc": "Step-by-step guide to freelance income tax rules in Saudi Arabia and how to stay ZATCA compliant.",
+        "tool5Href": "/guide/freelance-income-calculator-saudi-arabia-2026"
       },
       "disclaimer": "This calculator provides estimates based on ZATCA regulations and Saudi VAT Law. Compliance requirements may vary based on your business type, revenue threshold, and ZATCA classification. We recommend consulting a ZATCA-approved tax advisor for official guidance. This is not legal or tax advice."
     }
@@ -2315,7 +2321,8 @@
   },
   "FuelCostCalculator": {
     "toolName": "Fuel Cost & Mileage Calculator",
-    "description": "Calculate fuel costs for daily commutes or road trips in Saudi Arabia based on your car's fuel efficiency and current gasoline prices. Supports Gasoline 91, 95, and Diesel.",
+    "metaTitle": "Fuel Cost & Mileage Calculator Saudi Arabia 2026 | Free Tool",
+    "description": "Calculate your fuel cost per km in Saudi Arabia 2026. Free mileage calculator for expats. Estimate petrol expenses for Riyadh, Jeddah, Dammam trips.",
     "trustBadge": "100% Free & Private — No Data Stored",
     "form": {
       "title": "Trip & Vehicle Details",
@@ -2831,7 +2838,19 @@
         "tool3Href": "/ejar-deposit-calculator",
         "tool4Name": "Used Car Cost",
         "tool4Desc": "Calculate used car cost.",
-        "tool4Href": "/used-car-calculator"
+        "tool4Href": "/used-car-calculator",
+        "tool5Name": "Family Visa Optimizer",
+        "tool5Desc": "Check your Saudi family visa sponsorship eligibility and dependent fees.",
+        "tool5Href": "/family-visa-optimizer",
+        "tool6Name": "Final Settlement Calculator",
+        "tool6Desc": "Calculate your full final settlement including EOSB and unused vacation days.",
+        "tool6Href": "/final-settlement-calculator",
+        "tool7Name": "EOSB Calculator",
+        "tool7Desc": "Estimate your End of Service Benefit under Saudi Labor Law.",
+        "tool7Href": "/eosb-calculator",
+        "tool8Name": "Visa Checklist Generator",
+        "tool8Desc": "Get a complete document checklist for Saudi visa applications.",
+        "tool8Href": "/visa-checklist-generator"
       },
       "disclaimer": "This is a market estimate. Not an official valuation."
     }

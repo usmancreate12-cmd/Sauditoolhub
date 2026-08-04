@@ -64,7 +64,9 @@ export function ToolSeoContent({ namespace, locale }: ToolSeoContentProps) {
       <GlassCard className="p-6 md:p-8">
         <h2 className="mb-6 text-2xl font-bold text-white">{t('seo.relatedTools.title')}</h2>
         <div className="grid gap-4 sm:grid-cols-2">
-          {[1, 2, 3, 4].map((i) => {
+          {[1, 2, 3, 4, 5, 6, 7, 8].map((i) => {
+            const nameKey = `seo.relatedTools.tool${i}Name`
+            if (!t.has(nameKey)) return null
             const href = t(`seo.relatedTools.tool${i}Href`)
             return (
               <Link key={i} href={href}>

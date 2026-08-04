@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const title = article.title[locale as keyof typeof article.title] || article.title.en
   const description = article.description[locale as keyof typeof article.description] || article.description.en
+  const metaTitle = article.metaTitle?.[locale as keyof typeof article.metaTitle] || `${title} — Sauditoolhub`
   const isDefault = locale === 'en'
   const pageUrl = isDefault ? `${baseUrl}/guide/${slug}` : `${baseUrl}/${locale}/guide/${slug}`
 
@@ -32,18 +33,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${title} — Sauditoolhub`,
+    title: metaTitle,
     description,
     alternates: { canonical: pageUrl, languages: alternates },
     openGraph: {
-      title: `${title} — Sauditoolhub`,
+      title: metaTitle,
       description,
       url: pageUrl,
       siteName: 'Sauditoolhub',
       locale: locale === 'en' ? 'en_US' : locale === 'ar' ? 'ar_SA' : locale === 'ur' ? 'ur_PK' : locale,
       type: 'article',
     },
-    twitter: { card: 'summary_large_image', title: `${title} — Sauditoolhub`, description },
+    twitter: { card: 'summary_large_image', title: metaTitle, description },
     robots: { index: true, follow: true },
   }
 }

@@ -37,6 +37,17 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'www.sauditoolhub.com' }],
+        destination: 'https://sauditoolhub.com/:path*',
+        permanent: true,
+      },
+      {
+        source: '/www/:path*',
+        destination: 'https://sauditoolhub.com/:path*',
+        permanent: true,
+      },
+      {
         source: '/guide/freelance-income-tax-guide-saudi-arabia-2026',
         destination: '/guide/freelance-income-calculator-saudi-arabia-2026',
         permanent: true,
