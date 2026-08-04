@@ -10561,4 +10561,3937 @@ export const articles: Article[] = [
       </div>
     ` }
   },
+  {
+    slug: 'freelance-visa-vs-work-visa-saudi-arabia-2026',
+    category: 'expat',
+    readTime: '16 min read',
+    date: '2026-08-04',
+    title: {
+      en: 'Freelance Visa vs Work Visa in Saudi Arabia: Taxes, Iqama Rules & Income Limits 2026',
+      ar: 'تأشيرة العمل الحر مقابل تأشيرة العمل في السعودية: الضرائب وقواعد الإقامة وحدود الدخل 2026',
+      ur: 'سعودی عرب میں فری لانس ویزا بمقابلہ ورک ویزا: ٹیکس، اقامہ کے قواعد اور آمدنی کی حدود 2026',
+      tl: 'Freelance Visa vs Work Visa sa Saudi Arabia: Buwis, Mga Panuntunan sa Iqama at Mga Limitasyon sa Kita 2026',
+      bn: 'সৌদি আরবে ফ্রিল্যান্স ভিসা বনাম ওয়ার্ক ভিসা: ট্যাক্স, ইকামা নিয়ম ও আয়ের সীমা ২০২৬',
+    },
+    description: {
+      en: 'Confused between freelance and work visas in Saudi Arabia? Compare Iqama rules, taxes, income limits, and sponsorship requirements for expats in 2026.',
+      ar: 'حائر بين تأشيرة العمل الحر وتأشيرة العمل في السعودية؟ قارن قواعد الإقامة والضرائب وحدود الدخل ومتطلبات الكفيل للوافدين في 2026.',
+      ur: 'سعودی عرب میں فری لانس اور ورک ویزا میں الجھن ہے؟ 2026 میں اقامہ کے قواعد، ٹیکس، آمدنی کی حدود اور کفیل کی شرائط کا موازنہ کریں۔',
+      tl: 'Nalilito sa freelance at work visa sa Saudi Arabia? Ikumpara ang mga panuntunan sa Iqama, buwis, mga limitasyon sa kita, at mga requirement sa sponsor para sa mga expat sa 2026.',
+      bn: 'সৌদি আরবে ফ্রিল্যান্স ও ওয়ার্ক ভিসা নিয়ে বিভ্রান্ত? ২০২৬ সালে ইকামা নিয়ম, ট্যাক্স, আয়ের সীমা ও স্পনসরের প্রয়োজনীয়তা তুলনা করুন।',
+    },
+    metaTitle: {
+      en: 'Freelance Visa vs Work Visa in KSA 2026: Complete Comparison',
+      ar: 'تأشيرة العمل الحر مقابل تأشيرة العمل في السعودية 2026: مقارنة كاملة',
+      ur: 'فری لانس ویزا بمقابلہ ورک ویزا سعودی عرب 2026: مکمل موازنہ',
+      tl: 'Freelance Visa vs Work Visa sa KSA 2026: Kumpletong Paghahambing',
+      bn: 'ফ্রিল্যান্স ভিসা বনাম ওয়ার্ক ভিসা সৌদি আরব ২০২৬: সম্পূর্ণ তুলনা',
+    },
+    content: { en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Career Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Freelance Visa vs. Work Visa in Saudi Arabia: Taxes, Iqama Rules & Income Limits 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">A straight comparison of the two paths that let expats earn in Saudi Arabia — sponsorship freedom, taxes, income stability, and everything in between for 2026.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Which Visa Should You Hold in 2026?</h2>
+        <p>
+          Freelancing in Saudi Arabia is no longer a fringe idea. Under Vision 2030, the government has deliberately opened doors for independent professionals — writers, developers, designers, marketers, consultants, and educators — through the <strong class="text-white">MISA freelance permit</strong>. More expats than ever are now deciding between a traditional employment Iqama and a freelance visa.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direct answer:</strong> A freelance visa (also called a self-employment visa or MISA freelance license) lets you work independently without a sponsor, while a traditional work visa requires employer sponsorship and ties you to one company. Everything else — taxes, family sponsorship, Iqama portability, and income potential — flows from that single difference.
+        </p>
+        <p class="mt-4">
+          The choice is not about which is "better." It is about which fits your life: your income, your family situation, your tolerance for risk, and your long-term plan in the Kingdom.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">The four differences that matter most:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">Sponsorship freedom:</strong> one employer vs. multiple clients.</li>
+            <li><strong class="text-white">Income variability:</strong> fixed salary vs. variable earnings.</li>
+            <li><strong class="text-white">Tax obligations:</strong> nearly identical, but freelancers must handle Zakat and VAT themselves.</li>
+            <li><strong class="text-white">Iqama portability:</strong> locked to a Kafeel vs. fully transferable.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Before you decide, run the numbers. Our free{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">Freelance Income Calculator</a>{' '}
+          shows your realistic monthly take-home across both paths in under a minute.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Understanding the Saudi Work Visa System (Traditional Employment)</h2>
+        <p>
+          The work visa is the route most expats already know. It is how the vast majority of the Kingdom's foreign workforce is employed, and for good reason: it is structured, predictable, and heavily regulated in the worker's favor.
+        </p>
+        <h3>What is a Work Visa (Employment Iqama)?</h3>
+        <p>
+          A work visa is a Saudi residence permit (Iqama) issued through the sponsorship, or <strong class="text-white">Kafala</strong>, system. Your employer — the <strong class="text-white">Kafeel</strong> — is your legal sponsor, and the Iqama is issued in their name. Your right to live and work in the Kingdom exists because of them.
+        </p>
+        <p class="mt-4">
+          The employer handles the heavy lifting: applying for your work visa, paying the recruitment fees, issuing your Iqama, renewing it yearly, and providing mandatory health insurance. You report to the Ministry of Human Resources and Social Development (MHRSD) as their employee, and your labor contract defines your salary, hours, and leave.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The Kafala system in plain terms:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Your employer sponsors your residence and employment.</li>
+            <li>You may legally work only for that employer.</li>
+            <li>Your Iqama is renewed annually through your employer.</li>
+            <li>Changing jobs means changing sponsors, with rules governed by Nitaqat.</li>
+          </ul>
+        </div>
+        <h3>Work Visa Eligibility Requirements</h3>
+        <p>
+          Eligibility for an employment Iqama depends on the job you are hired for and your qualifications. The process is standardized, but the bar varies by profession and by your home country's attestation requirements.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Attested educational certificates:</strong> your degree or diploma must be attested by your home country's foreign affairs authority and the Saudi embassy before it is accepted.</li>
+          <li><strong>Professional experience:</strong> senior roles often require proof of prior work history; the Saudi system increasingly verifies this through the Digital Credential program.</li>
+          <li><strong>Medical examination and fingerprinting:</strong> every new entrant completes a medical test (including for infectious diseases) and biometric fingerprinting, typically within days of arrival.</li>
+          <li><strong>Minimum salary thresholds:</strong> many job titles have salary floors for visa issuance, and family sponsorship raises the bar further.</li>
+        </ul>
+        <h3>Rights and Restrictions of Work Visa Holders</h3>
+        <p>
+          The work visa is powerful precisely because it is structured. But that structure comes with limits you must understand before comparing it to freelancing.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>You work for one employer.</strong> Working for anyone else without a permit is a legal violation that can trigger fines and deportation.</li>
+          <li><strong>You cannot start a business without permission.</strong> Owning a business while on an employment Iqama requires separate approvals and, in most cases, a MISA license.</li>
+          <li><strong>Exit and re-entry are controlled.</strong> Your employer controls exit/re-entry visa issuance; absconding (Huroob) is a serious offense.</li>
+          <li><strong>Job changes follow Nitaqat rules.</strong> Moving to a new sponsor is allowed, but the ease depends on your current profession and the new employer's Nitaqat rating.</li>
+          <li><strong>Family sponsorship is salary-based.</strong> You generally need a basic salary of <strong class="text-white">SAR 4,000–5,000</strong> to sponsor dependents, plus dependent fees.</li>
+        </ul>
+        <h3>Tax Implications for Work Visa Holders</h3>
+        <p>
+          Saudi Arabia has no personal income tax. Your salary is paid in full — no withholding for income tax, no payroll tax on your side. For most expats, this is the single biggest reason employment in the Kingdom pays so well.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>No personal income tax:</strong> 0% on your salary, bonuses, or benefits.</li>
+          <li><strong>Zakat applies to Muslims:</strong> 2.5% on qualifying savings and wealth above the Nisab threshold, calculated on your personal assets.</li>
+          <li><strong>Your employer handles compliance:</strong> the company files and pays its own obligations — you do not file anything as an employee.</li>
+        </ul>
+        <p class="mt-4">
+          The one thing to remember: while you pay no local income tax, your home country may still tax your worldwide income. US citizens, for example, must file IRS returns even while living in Saudi Arabia.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Understanding the Saudi Freelance Visa System (Self-Employment)</h2>
+        <p>
+          The freelance visa is the newer, more flexible path — and it exists because the government wants independent professionals in the Kingdom, not just employees.
+        </p>
+        <h3>What is a Freelance Visa (MISA Freelance License)?</h3>
+        <p>
+          A freelance visa is a residence permit tied to a <strong class="text-white">freelance permit from the Ministry of Investment (MISA)</strong> instead of an employment contract. You are your own professional entity, licensed to serve multiple clients without a sponsoring employer.
+        </p>
+        <p class="mt-4">
+          It is part of Vision 2030's push to build a knowledge economy. The government recognized that a large class of professionals — remote developers, designers, consultants, content creators — do not fit the traditional employee mold, and built a legal pathway for them.
+        </p>
+        <h3>Freelance Visa Eligibility Requirements</h3>
+        <p>
+          You do not need a sponsor, but you do need to prove you are a genuine professional with a marketable skill.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Professional qualifications:</strong> degrees, diplomas, or recognized certifications in your field.</li>
+          <li><strong>A portfolio or proof of expertise:</strong> past projects, client references, published work, or a professional profile.</li>
+          <li><strong>Income evidence:</strong> MISA looks for evidence that freelancing is a real income source, not a hobby.</li>
+          <li><strong>Eligible professions:</strong> the freelance route covers IT, marketing, design, consulting, education, content creation, translation, and similar service fields — not manual or retail work.</li>
+        </ul>
+        <h3>Application Process for the Freelance Visa</h3>
+        <p>
+          The process runs largely through the MISA portal, and while you can do it yourself, most first-timers use a licensed PRO or consultant to avoid a rejected application.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Create an account on the MISA portal.</strong> Register with your passport and Iqama details.</li>
+          <li><strong>Submit your documents.</strong> Passport copy, Iqama copy, educational certificates, portfolio, and a short professional profile.</li>
+          <li><strong>Pay the application fees.</strong> Budget roughly SAR 2,000–3,000 for the initial licensing stage.</li>
+          <li><strong>Wait for approval.</strong> Typical processing runs 2–4 weeks; complex professions can take longer.</li>
+          <li><strong>Obtain your Iqama and open a business bank account.</strong> With an approved freelance permit, you can open a bank account in your own name for business income.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Required documents checklist:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Valid passport and Iqama copies.</li>
+            <li>Attested educational certificates.</li>
+            <li>Portfolio or client references.</li>
+            <li>Bank statement showing freelance income history (where applicable).</li>
+          </ul>
+        </div>
+        <h3>Rights and Freedoms of Freelance Visa Holders</h3>
+        <p>
+          The freedoms are real, and they are the reason most people switch.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Multiple clients at once.</strong> No single employer controls your workload.</li>
+          <li><strong>Family sponsorship.</strong> You can sponsor dependents once you prove consistent income — typically SAR 5,000+ per month.</li>
+          <li><strong>Business bank accounts.</strong> You can hold accounts in your name for business income.</li>
+          <li><strong>No exit/re-entry visa dependency.</strong> You are not stuck waiting for an employer's approval to travel.</li>
+          <li><strong>A stepping stone to a company.</strong> A freelance license can grow into a full commercial registration (CR) when you are ready.</li>
+        </ul>
+        <h3>Tax and Zakat Obligations for Freelancers</h3>
+        <p>
+          Freelancers still enjoy the same 0% personal income tax as employees — but they take on the administrative work themselves.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>No personal income tax:</strong> your freelance earnings are not taxed as income.</li>
+          <li><strong>Zakat on your wealth:</strong> 2.5% on qualifying savings and business assets above the Nisab.</li>
+          <li><strong>VAT registration:</strong> once your annual revenue exceeds <strong class="text-white">SAR 375,000</strong>, you must register with ZATCA and charge 15% VAT on taxable supplies.</li>
+          <li><strong>Record keeping:</strong> you must issue invoices, track expenses, and keep books — because you are the one who reports.</li>
+        </ul>
+        <p class="mt-4">
+          For a full walkthrough of how Zakat is calculated on your earnings, read our{' '}
+          <a href="/guide/zakat-calculation-guide-saudi-arabia-2026" class="text-desert-primary underline">Zakat Calculation Guide 2026</a>.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Head-to-Head Comparison: Freelance Visa vs. Work Visa</h2>
+        <p>
+          Now the practical part. Here is how the two paths stack up on the seven decisions that actually affect your life.
+        </p>
+        <h3>1. Sponsorship and Freedom</h3>
+        <p>
+          The work visa is anchored to your Kafeel. Changing jobs requires your sponsor's release, a new sponsor, and Nitaqat-dependent approvals — a process that can take weeks and sometimes leaves you stuck.
+        </p>
+        <p class="mt-4">
+          The freelance visa removes the anchor entirely. You are the sponsor of your own professional life, free to take clients from anywhere in the world and to switch focus without asking anyone's permission.
+        </p>
+        <h3>2. Income Stability and Earning Potential</h3>
+        <p>
+          A work visa means a fixed monthly salary. It is predictable, bankable, and easy to plan a family budget around. A freelance visa means variable income — but with no ceiling.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Real-world income examples (2026):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>Senior software developer (employed):</strong> SAR 22,000–35,000/month, fixed.</li>
+            <li><strong>Senior software developer (freelance):</strong> SAR 15,000–60,000/month, variable by contract flow.</li>
+            <li><strong>Marketing consultant (employed):</strong> SAR 12,000–20,000/month, fixed.</li>
+            <li><strong>Marketing consultant (freelance):</strong> SAR 8,000–40,000/month, client-dependent.</li>
+          </ul>
+        </div>
+        <h3>3. Costs and Fees</h3>
+        <p>
+          On a work visa, your employer absorbs most of the cost: recruitment, Iqama issuance, yearly renewal, and health insurance.
+        </p>
+        <p class="mt-4">
+          As a freelancer, you fund everything yourself: the MISA license (SAR 2,000–3,000), Iqama fees, medical insurance, and professional service fees. The out-of-pocket cost is real, but it is far lower than the cost of a full company.
+        </p>
+        <h3>4. Family Sponsorship Rules</h3>
+        <p>
+          Both paths allow family sponsorship, but the proof is different. Employees show a salary certificate at <strong class="text-white">SAR 4,000–5,000</strong>; freelancers must demonstrate consistent income — the common benchmark is SAR 5,000+ per month.
+        </p>
+        <p class="mt-4">
+          Dependent fees run about <strong class="text-white">SAR 400 per person per month</strong> either way. For a precise figure for your family size, use our{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Family Visa Optimizer</a>.
+        </p>
+        <h3>5. Iqama Validity and Renewal</h3>
+        <p>
+          Employment Iqamas typically run 1–2 years and are renewed by the employer. A freelance Iqama is issued for 1 year and renewed yourself through the MISA portal — no employer in the loop, but also no one to remind you.
+        </p>
+        <h3>6. Healthcare and Insurance</h3>
+        <p>
+          Work visa holders get employer-provided health insurance — mandatory and covered. Freelancers must purchase private health insurance, typically <strong class="text-white">SAR 2,000–5,000/year</strong> depending on coverage and dependents.
+        </p>
+        <h3>7. Career Growth and Networking</h3>
+        <p>
+          Employees climb a corporate ladder with structured promotions and company-provided training. Freelancers grow through their portfolio and client network — slower to start, but compounding once established.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats (GEO Targeting)</h2>
+        <p>
+          Your home country shapes the practical realities of both routes. Here is what each major expat community should keep in mind.
+        </p>
+        <h3>For South Asian Expats (Pakistan / India / Bangladesh)</h3>
+        <p>
+          The biggest practical hurdle is <strong class="text-white">degree attestation from your home country</strong>. Both routes require attested educational certificates, and the process — from your home foreign affairs ministry to the Saudi cultural attaché — takes time and money. Start early.
+        </p>
+        <p class="mt-4">
+          Culturally, employment remains the dominant preference across the region: a fixed salary is what most families budget around. But entrepreneurship is growing fast, and the freelance visa now offers a legal middle path for skilled professionals who want independence without opening a full company.
+        </p>
+        <p class="mt-4">
+          On remittances: there is no restriction on sending freelance earnings home through licensed channels. The same transfer fees and SADAD/IBAN rules apply as for salary.
+        </p>
+        <h3>For Filipino Expats</h3>
+        <p>
+          If you arrived through a licensed recruitment agency, your employment route involves <strong class="text-white">POEA/DMW verification and an Overseas Employment Certificate (OEC)</strong>. Those requirements belong to the employer-employee track.
+        </p>
+        <p class="mt-4">
+          Freelancing changes the picture: as an independent contractor, you are not an OFW under the standard employment definition, which means the POEA employment pipeline does not apply to your visa. Instead, you go through MISA directly. Demand for Filipino freelancers in the Kingdom is real — in IT support, design, content, and administrative services — and the freelance visa is the legal way to serve Saudi clients without an employer.
+        </p>
+        <h3>For Western Expats (US / UK / Europe)</h3>
+        <p>
+          High-skilled professionals from Western countries typically find the freelance visa straightforward: qualifications, portfolio, and income evidence are easy to produce, and MISA approval is routine for recognized professions.
+        </p>
+        <p class="mt-4">
+          The tax angle is the real difference. <strong class="text-white">US citizens must file IRS returns on worldwide income even while living in Saudi Arabia</strong> — and freelance income is fully reportable. UK residents may still owe National Insurance in some cases, and many European home countries tax global income. Budget for a tax professional in your home country before you freelance.
+        </p>
+        <p class="mt-4">
+          The lifestyle upside is why many Western expats choose this route: no exit/re-entry approvals, total client freedom, and the ability to build a global client base from a tax-free base in Riyadh or Jeddah.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Which Visa Should You Choose? A Practical Decision Matrix</h2>
+        <p>
+          Stop comparing and start deciding. Work through these questions in order.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>Do you value stability above all?</strong> Choose the work visa. Fixed salary, employer-paid insurance, and structured renewal fit a budget-driven life.</li>
+            <li><strong>Do you value freedom above all?</strong> Choose the freelance visa. Multiple clients, no Kafeel, and unlimited upside — if you can manage variability.</li>
+            <li><strong>Do you have dependents?</strong> Compare sponsorship proof carefully. Employees need a salary certificate; freelancers need consistent income history.</li>
+            <li><strong>Are you planning to start a business?</strong> Start with the freelance visa as a legal, low-cost stepping stone before moving to a full CR.</li>
+          </ul>
+        </div>
+        <h3>Real-world scenarios</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Scenario 1 — Ahmed, a Pakistani software developer with 5 years' experience:</strong> He has a wife and two children. His priority is family sponsorship and a fixed salary while he builds savings. The work visa wins: an employer-backed Iqama makes family sponsorship simple and predictable.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Scenario 2 — Maria, a Filipino marketing consultant with multiple clients:</strong> She already earns more from three remote clients than her old office job paid. Her priority is client freedom and not being tied to one employer. The freelance visa wins: it legitimizes what she is already doing.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Scenario 3 — David, a UK-based developer considering a move:</strong> He wants to test Saudi Arabia for a year before committing. He values flexibility and exit options. The freelance visa wins, with one warning: sort out UK tax obligations before leaving.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can I convert my work visa to a freelance visa in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes, in most cases. You apply for a MISA freelance license, and once approved, your employer releases your Iqama so it can be transferred to the freelance permit. The process runs through MISA and the relevant authorities.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What is the minimum income required for a freelance visa in KSA 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">There is no single official figure, but MISA expects evidence of genuine freelance income. For family sponsorship, the practical benchmark is consistent earnings of SAR 5,000+ per month.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can freelance visa holders sponsor their family in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. You can sponsor dependents once you demonstrate consistent income — the common benchmark is SAR 5,000+ per month — and you pay the standard dependent fees of about SAR 400 per person per month.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Do I need a sponsor for a freelance visa in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">No. That is the defining feature of the freelance visa. Your residence is tied to your MISA freelance permit instead of an employer sponsor.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How much does a freelance visa cost in Saudi Arabia 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">Budget SAR 2,000–3,000 for the MISA license stage, plus Iqama fees, medical insurance (SAR 2,000–5,000/year), and professional service fees if you use a consultant.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can I work for multiple companies with a work visa in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">No. A work visa ties you to one sponsoring employer. Working for another company without a permit is a violation that can carry fines and deportation.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What are the eligible professions for a freelance visa in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">The freelance route covers service and knowledge professions: IT, software, design, marketing, consulting, education, content creation, translation, and similar fields. Manual and retail work is not covered.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How long does it take to get a freelance visa in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Approval typically takes 2–4 weeks through the MISA portal, depending on your profession and the completeness of your documents. Complex cases can take longer.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can I open a business bank account with a freelance visa?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. With an approved freelance permit, you can open a bank account in your own name to receive business income and pay business expenses.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Do freelancers pay Zakat in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Muslim freelancers calculate Zakat at 2.5% on qualifying savings and business assets above the Nisab threshold — the same rule that applies to their wealth regardless of employment status.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Final Word: Stability or Freedom</h2>
+        <p>
+          Every visa decision is a trade-off between two things: stability and freedom. The work visa gives you a predictable salary, employer-paid insurance, and structured sponsorship — at the cost of being tied to one company. The freelance visa gives you multiple clients, full independence, and unlimited earning potential — at the cost of managing your own income, insurance, and paperwork.
+        </p>
+        <p class="mt-4">
+          There is no universally correct answer. There is only the answer that matches your income, your family, and your tolerance for risk.
+        </p>
+        <p class="mt-4">
+          Not sure which path is right for you? Use the{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">SaudiToolHub Freelance Income Calculator</a>{' '}
+          to estimate your earning potential as a freelancer, or check the{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">CR Cost Estimator</a>{' '}
+          if you are planning to start a business instead.
+        </p>
+        <p class="mt-4">
+          For more detail on the business route, read our{' '}
+          <a href="/guide/hidden-costs-commercial-registration-cr-saudi-arabia-2026" class="text-desert-primary underline">Hidden Costs of Commercial Registration (CR) in Saudi Arabia</a> guide.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Estimate Your Freelance Income Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — compare salary vs. freelance earnings in one minute</p>
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">Use the Free Freelance Income Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on current Saudi Ministry of Investment (MISA) and Ministry of Human Resources regulations. Visa policies are subject to change. Always consult with an official MISA representative or licensed immigration lawyer for official advice.
+        </p>
+      </div>
+    `, ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل مسار الوافد المهني</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">تأشيرة العمل الحر مقابل تأشيرة العمل في السعودية: الضرائب وقواعد الإقامة وحدود الدخل 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">مقارنة مباشرة بين المسارين اللذين يتيحان للوافدين الكسب في السعودية — حرية الكفالة، والضرائب، واستقرار الدخل، وكل ما بينهما لعام 2026.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أي تأشيرة تحمل في 2026؟</h2>
+        <p>
+          لم يعد العمل الحر فكرة هامشية في السعودية. تحت رؤية 2030، فتحت الحكومة الأبواب عمدًا للمحترفين المستقلين — الكتّاب والمطورين والمصممين والمسوقين والمستشارين والمعلمين — من خلال <strong class="text-white">تصريح العمل الحر من وزارة الاستثمار</strong>. أكثر من أي وقت مضى، يقرر الوافدون الآن بين إقامة العمل التقليدية وتأشيرة العمل الحر.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">إجابة مباشرة:</strong> تأشيرة العمل الحر (وتُسمى أيضًا تأشيرة العمل الذاتي أو رخصة العمل الحر من وزارة الاستثمار) تتيح لك العمل بشكل مستقل دون كفيل، بينما تتطلب تأشيرة العمل التقليدية كفالة صاحب عمل وتربطك بشركة واحدة. كل ما عدا ذلك — الضرائب، وكفالة العائلة، وقابلية نقل الإقامة، وإمكانات الدخل — ينبع من هذا الفارق الوحيد.
+        </p>
+        <p class="mt-4">
+          الاختيار ليس عن أي منهما "أفضل". بل عن أيهما يناسب حياتك: دخلك، ووضع عائلتك، وتحملك للمخاطر، وخطتك طويلة المدى في المملكة.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">الفروق الأربعة الأهم:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">حرية الكفالة:</strong> صاحب عمل واحد مقابل عدة عملاء.</li>
+            <li><strong class="text-white">تقلب الدخل:</strong> راتب ثابت مقابل أرباح متغيرة.</li>
+            <li><strong class="text-white">الالتزامات الضريبية:</strong> شبه متطابقة، لكن العامل الحر يتولى الزكاة وضريبة القيمة المضافة بنفسه.</li>
+            <li><strong class="text-white">قابلية نقل الإقامة:</strong> مرتبطة بالكفيل مقابل قابلة للنقل بالكامل.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          قبل أن تقرر، احسب الأرقام. حاسبة{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">دخل العمل الحر المجانية</a>{' '}
+          لدينا تعرض دخلك الشهري الواقعي عبر المسارين في أقل من دقيقة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>فهم نظام تأشيرة العمل السعودي (التوظيف التقليدي)</h2>
+        <p>
+          تأشيرة العمل هي المسار الذي يعرفه معظم الوافدين بالفعل. إنها الطريقة التي يعمل بها الغالبية العظمى من القوى العاملة الأجنبية في المملكة، ولسبب وجيه: إنها منظمة ويمكن التنبؤ بها ومحكومة بشدة لصالح العامل.
+        </p>
+        <h3>ما هي تأشيرة العمل (إقامة التوظيف)؟</h3>
+        <p>
+          تأشيرة العمل هي تصريح إقامة سعودي (إقامة) يُصدر من خلال نظام الكفالة (كفالة). صاحب العمل — <strong class="text-white">الكفيل</strong> — هو كفيلك القانوني، وتُصدر الإقامة باسمه. حقك في العيش والعمل في المملكة قائم بسببه.
+        </p>
+        <p class="mt-4">
+          يتولى صاحب العمل المهام الثقيلة: تقديم طلب تأشيرة عملك، ودفع رسوم التوظيف، وإصدار إقامتك، وتجديدها سنويًا، وتوفير التأمين الصحي الإلزامي. أنت تُسجل في وزارة الموارد البشرية والتنمية الاجتماعية كموظف لديه، ويحدد عقد العمل راتبك وساعاتك وإجازاتك.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">نظام الكفالة بعبارات بسيطة:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>صاحب العمل يكفل إقامتك وتوظيفك.</li>
+            <li>يُسمح لك قانونيًا بالعمل له فقط.</li>
+            <li>تُجدد إقامتك سنويًا عبر صاحب العمل.</li>
+            <li>تغيير الوظيفة يعني تغيير الكفيل، وفق قواعد النطاق.</li>
+          </ul>
+        </div>
+        <h3>متطلبات أهلية تأشيرة العمل</h3>
+        <p>
+          تعتمد الأهلية للحصول على إقامة توظيف على الوظيفة التي عُيّنت فيها ومؤهلاتك. العملية موحدة، لكن سقف المتطلبات يختلف حسب المهنة ومتطلبات توثيق بلدك الأصلي.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>الشهادات التعليمية الموثقة:</strong> يجب توثيق شهادتك من وزارة الخارجية في بلدك والسفارة السعودية قبل قبولها.</li>
+          <li><strong>الخبرة المهنية:</strong> غالبًا ما تتطلب المناصب العليا إثبات خبرة سابقة؛ ويتحقق النظام السعودي من ذلك عبر برنامج الشهادة الرقمية.</li>
+          <li><strong>الفحص الطبي والبصمة:</strong> يخضع كل قادم جديد لفحص طبي (بما فيه الأمراض المعدية) وأخذ البصمات، عادةً خلال أيام من الوصول.</li>
+          <li><strong>حدود الراتب الأدنى:</strong> للعديد من المسميات الوظيفية حدود رواتب دنيا لإصدار التأشيرة، وكفالة العائلة ترفع السقف أكثر.</li>
+        </ul>
+        <h3>حقوق وقيود حاملي تأشيرة العمل</h3>
+        <p>
+          تأشيرة العمل قوية تحديدًا لأنها منظمة. لكن هذا التنظيم يأتي مع قيود يجب أن تفهمها قبل مقارنتها بالعمل الحر.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>تعمل لصاحب عمل واحد.</strong> العمل لدى أي شخص آخر دون تصريح مخالفة قانونية قد تؤدي إلى غرامات وترحيل.</li>
+          <li><strong>لا يمكنك بدء عمل تجاري دون إذن.</strong> امتلاك عمل تجاري أثناء إقامة التوظيف يتطلب موافقات منفصلة، وفي معظم الحالات رخصة من وزارة الاستثمار.</li>
+          <li><strong>الخروج والعودة خاضعان للتحكم.</strong> يتحكم صاحب العمل في إصدار تأشيرات الخروج والعودة؛ والهروب (هروب) جريمة خطيرة.</li>
+          <li><strong>تغيير الوظيفة يتبع قواعد النطاق.</strong> الانتقال لكفيل جديد مسموح، لكن سهولته تعتمد على مهنتك الحالية وتصنيف النطاق للكفيل الجديد.</li>
+          <li><strong>كفالة العائلة تعتمد على الراتب.</strong> تحتاج عمومًا إلى راتب أساسي <strong class="text-white">من 4,000 إلى 5,000 ريال</strong> لكفالة المعالين، إضافة إلى الرسوم.</li>
+        </ul>
+        <h3>الآثار الضريبية لحاملي تأشيرة العمل</h3>
+        <p>
+          لا توجد ضريبة دخل شخصية في السعودية. راتبك يُدفع بالكامل — لا اقتطاع لضريبة الدخل، ولا ضريبة رواتب عليك. بالنسبة لمعظم الوافدين، هذا هو أكبر سبب يدفعهم للعمل في المملكة.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>لا ضريبة دخل شخصية:</strong> 0% على راتبك أو مكافآتك أو بدلاتك.</li>
+          <li><strong>الزكاة تنطبق على المسلمين:</strong> 2.5% على المدخرات والثروة المؤهلة فوق حد النصاب، محسوبة على أصولك الشخصية.</li>
+          <li><strong>صاحب العمل يتولى الامتثال:</strong> الشركة تُقدم وتدفع التزاماتها — لا تقدم أنت أي إقرار كموظف.</li>
+        </ul>
+        <p class="mt-4">
+          تذكر شيئًا واحدًا: بينما لا تدفع ضريبة دخل محلية، قد تفرض بلدك الأصلية ضريبة على دخلك العالمي. المواطنون الأمريكيون، على سبيل المثال، يجب أن يقدموا إقرارات للـ IRS حتى أثناء إقامتهم في السعودية.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>فهم نظام تأشيرة العمل الحر السعودي (العمل الذاتي)</h2>
+        <p>
+          تأشيرة العمل الحر هي المسار الأحدث والأكثر مرونة — وهي موجودة لأن الحكومة تريد محترفين مستقلين في المملكة، وليس موظفين فقط.
+        </p>
+        <h3>ما هي تأشيرة العمل الحر (رخصة العمل الحر من وزارة الاستثمار)؟</h3>
+        <p>
+          تأشيرة العمل الحر هي تصريح إقامة مرتبط بـ<strong class="text-white">تصريح عمل حر من وزارة الاستثمار (MISA)</strong> بدلًا من عقد عمل. أنت كيانك المهني الخاص، مرخص لخدمة عدة عملاء دون كفيل.
+        </p>
+        <p class="mt-4">
+          إنها جزء من دفع رؤية 2030 نحو اقتصاد المعرفة. أدركت الحكومة أن فئة كبيرة من المحترفين — مطورين عن بُعد، مصممين، مستشارين، صانعي محتوى — لا تناسب قالب الموظف التقليدي، فأنشأت مسارًا قانونيًا لهم.
+        </p>
+        <h3>متطلبات أهلية تأشيرة العمل الحر</h3>
+        <p>
+          لا تحتاج كفيلًا، لكنك تحتاج إثبات أنك محترف حقيقي بمهارة قابلة للتسويق.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>المؤهلات المهنية:</strong> درجات أو دبلومات أو شهادات معترف بها في مجالك.</li>
+          <li><strong>محفظة أعمال أو إثبات خبرة:</strong> مشاريع سابقة، مراجع عملاء، أعمال منشورة، أو ملف مهني.</li>
+          <li><strong>إثبات الدخل:</strong> تبحث وزارة الاستثمار عن دليل أن العمل الحر مصدر دخل حقيقي وليس هواية.</li>
+          <li><strong>المهن المؤهلة:</strong> يشمل مسار العمل الحر تقنية المعلومات والتسويق والتصميم والاستشارات والتعليم وصناعة المحتوى والترجمة وما شابه — وليس الأعمال اليدوية أو التجارية.</li>
+        </ul>
+        <h3>إجراءات التقديم على تأشيرة العمل الحر</h3>
+        <p>
+          تتم العملية إلى حد كبير عبر بوابة وزارة الاستثمار، وبينما يمكنك القيام بها بنفسك، يستخدم معظم المبتدئين موظف علاقات عامة مرخصًا أو مستشارًا لتجنب رفض الطلب.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>أنشئ حسابًا على بوابة وزارة الاستثمار.</strong> سجل ببيانات جوازك وإقامتك.</li>
+          <li><strong>قدّم مستنداتك.</strong> نسخة جواز، نسخة إقامة، شهادات تعليمية، محفظة أعمال، وملفًا مهنيًا قصيرًا.</li>
+          <li><strong>ادفع رسوم التقديم.</strong> خصص نحو 2,000–3,000 ريال لمرحلة الترخيص الأولية.</li>
+          <li><strong>انتظر الموافقة.</strong> تستغرق المعالجة عادةً من 2 إلى 4 أسابيع؛ والمهن المعقدة أطول.</li>
+          <li><strong>استلم إقامتك وافتح حسابًا بنكيًا تجاريًا.</strong> بعد موافقة تصريح العمل الحر، يمكنك فتح حساب بنكي باسمك لدخل عملك.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">قائمة المستندات المطلوبة:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>نسخ صالحة من جواز السفر والإقامة.</li>
+            <li>الشهادات التعليمية الموثقة.</li>
+            <li>محفظة أعمال أو مراجع عملاء.</li>
+            <li>كشف حساب يظهر سجل دخل العمل الحر (حيث ينطبق).</li>
+          </ul>
+        </div>
+        <h3>حقوق وحريات حاملي تأشيرة العمل الحر</h3>
+        <p>
+          الحريات حقيقية، وهي السبب الذي يدفع معظم الناس للانتقال.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>عدة عملاء في نفس الوقت.</strong> لا يتحكم صاحب عمل واحد في عبء عملك.</li>
+          <li><strong>كفالة العائلة.</strong> يمكنك كفالة المعالين بمجرد إثبات دخل ثابت — عادةً 5,000 ريال فأكثر شهريًا.</li>
+          <li><strong>حسابات بنكية تجارية.</strong> يمكنك الاحتفاظ بحسابات باسمك لدخل عملك.</li>
+          <li><strong>لا اعتماد على تأشيرة خروج وعودة.</strong> لست عالقًا في انتظار موافقة صاحب عمل للسفر.</li>
+          <li><strong>خطوة أولى نحو شركة.</strong> يمكن أن تتطور رخصة العمل الحر إلى سجل تجاري كامل عندما تكون جاهزًا.</li>
+        </ul>
+        <h3>الالتزامات الضريبية والزكاة للعاملين لحسابهم الخاص</h3>
+        <p>
+          يتمتع العاملون الحرّون بنفس الـ0% لضريبة الدخل الشخصي التي يتمتع بها الموظفون — لكنهم يتولون العمل الإداري بأنفسهم.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>لا ضريبة دخل شخصية:</strong> أرباحك الحرة غير خاضعة للضريبة كدخل.</li>
+          <li><strong>الزكاة على ثروتك:</strong> 2.5% على المدخرات والأصول التجارية المؤهلة فوق النصاب.</li>
+          <li><strong>التسجيل في ضريبة القيمة المضافة:</strong> بمجرد تجاوز إيراداتك السنوية <strong class="text-white">375,000 ريال</strong>، يجب أن تسجل لدى هيئة الزكاة والضريبة والجمارك وتفرض 15% على المبيعات الخاضعة.</li>
+          <li><strong>حفظ السجلات:</strong> يجب عليك إصدار فواتير وتتبع النفقات وإمساك الدفاتر — لأنك أنت من يُقدم الإقرار.</li>
+        </ul>
+        <p class="mt-4">
+          لشرح كامل لكيفية حساب الزكاة على أرباحك، اقرأ{' '}
+          <a href="/guide/zakat-calculation-guide-saudi-arabia-2026" class="text-desert-primary underline">دليل حساب الزكاة 2026</a>.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مقارنة وجهاً لوجه: تأشيرة العمل الحر مقابل تأشيرة العمل</h2>
+        <p>
+          الآن الجزء العملي. إليك كيف يقف المساران على القرارات السبعة التي تؤثر فعليًا على حياتك.
+        </p>
+        <h3>1. الكفالة والحرية</h3>
+        <p>
+          تأشيرة العمل مثبتة على كفيلك. تغيير الوظيفة يتطلب إخلاء طرف من كفيلك وكفيلًا جديدًا وموافقات تعتمد على النطاق — عملية قد تستغرق أسابيع وتتركك أحيانًا عالقًا.
+        </p>
+        <p class="mt-4">
+          تأشيرة العمل الحر تزيل المرساة بالكامل. أنت كفيل حياتك المهنية، حر في أخذ عملاء من أي مكان في العالم وفي تغيير تركيزك دون إذن أحد.
+        </p>
+        <h3>2. استقرار الدخل وإمكانات الكسب</h3>
+        <p>
+          تأشيرة العمل تعني راتبًا شهريًا ثابتًا. يمكن التنبؤ به وقابل للاعتماد عليه وسهل التخطيط لميزانية الأسرة حوله. تأشيرة العمل الحر تعني دخلًا متغيرًا — لكن دون سقف.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">أمثلة دخل واقعية (2026):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>مطور برمجيات أول (موظف):</strong> 22,000–35,000 ريال/شهر، ثابت.</li>
+            <li><strong>مطور برمجيات أول (حر):</strong> 15,000–60,000 ريال/شهر، متغير حسب تدفق العقود.</li>
+            <li><strong>مستشار تسويق (موظف):</strong> 12,000–20,000 ريال/شهر، ثابت.</li>
+            <li><strong>مستشار تسويق (حر):</strong> 8,000–40,000 ريال/شهر، حسب العملاء.</li>
+          </ul>
+        </div>
+        <h3>3. التكاليف والرسوم</h3>
+        <p>
+          في تأشيرة العمل، يتحمل صاحب العمل معظم التكلفة: التوظيف، إصدار الإقامة، التجديد السنوي، والتأمين الصحي.
+        </p>
+        <p class="mt-4">
+          كعامل حر، تمول كل شيء بنفسك: رخصة وزارة الاستثمار (2,000–3,000 ريال)، رسوم الإقامة، التأمين الطبي، ورسوم الخدمات المهنية. التكلفة النقدية حقيقية، لكنها أقل بكثير من تكلفة شركة كاملة.
+        </p>
+        <h3>4. قواعد كفالة العائلة</h3>
+        <p>
+          يسمح كلا المسارين بكفالة العائلة، لكن الإثبات مختلف. الموظفون يقدمون شهادة راتب <strong class="text-white">من 4,000 إلى 5,000 ريال</strong>؛ والعاملون الحرّون يجب أن يظهروا دخلًا ثابتًا — المعيار الشائع 5,000 ريال فأكثر شهريًا.
+        </p>
+        <p class="mt-4">
+          رسوم المعالين نحو <strong class="text-white">400 ريال لكل فرد شهريًا</strong> في الحالتين. لرقم دقيق لحجم عائلتك، استخدم{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">محسّن تأشيرة العائلة</a>.
+        </p>
+        <h3>5. صلاحية الإقامة وتجديدها</h3>
+        <p>
+          إقامات التوظيف عادةً من 1 إلى 2 سنة وتجدد من قبل صاحب العمل. إقامة العمل الحر تُصدر لمدة سنة وتجدد بنفسك عبر بوابة وزارة الاستثمار — لا كفيل في الحلقة، لكن لا أحد يذكرك أيضًا.
+        </p>
+        <h3>6. الرعاية الصحية والتأمين</h3>
+        <p>
+          حاملو تأشيرة العمل يحصلون على تأمين صحي من صاحب العمل — إلزامي ومغطى. العاملون الحرّون يجب أن يشتروا تأمينًا صحيًا خاصًا، عادةً <strong class="text-white">2,000–5,000 ريال/سنة</strong> حسب التغطية والمعالين.
+        </p>
+        <h3>7. النمو المهني والتواصل</h3>
+        <p>
+          الموظفون يتسلقون سلمًا وظيفيًا بترقيات منظمة وتدريب من الشركة. العاملون الحرّون ينمون عبر محفظتهم وشبكة عملائهم — أبطأ في البداية، لكنه يتراكم بمجرد الاستقرار.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعتبارات خاصة للوافدين (استهداف جغرافي)</h2>
+        <p>
+          بلدك الأصلي يشكل الحقائق العملية لكلا المسارين. إليك ما يجب أن تضعه كل مجتمع كبير من الوافدين في الاعتبار.
+        </p>
+        <h3>للوافدين من جنوب آسيا (باكستان / الهند / بنغلاديش)</h3>
+        <p>
+          أكبر عائق عملي هو <strong class="text-white">توثيق الشهادة من بلدك الأصلي</strong>. يتطلب كلا المسارين شهادات تعليمية موثقة، والعملية — من وزارة الخارجية في بلدك إلى الملحق الثقافي السعودي — تستغرق وقتًا ومالًا. ابدأ مبكرًا.
+        </p>
+        <p class="mt-4">
+          ثقافيًا، يبقى التوظيف الخيار المهيمن في المنطقة: الراتب الثابت هو ما تبني عليه معظم الأسر ميزانيتها. لكن ريادة الأعمال تنمو بسرعة، وتقدم تأشيرة العمل الحر الآن مسارًا وسطًا قانونيًا للمحترفين المهرة الذين يريدون الاستقلال دون فتح شركة كاملة.
+        </p>
+        <p class="mt-4">
+          بشأن التحويلات: لا قيود على إرسال أرباح العمل الحر للوطن عبر القنوات المرخصة. تنطبق نفس رسوم التحويل وقواعد سداد/آيبان كما في الراتب.
+        </p>
+        <h3>للوافدين الفلبينيين</h3>
+        <p>
+          إذا وصلت عبر وكالة توظيف مرخصة، يتضمن مسار التوظيف الخاص بك <strong class="text-white">تحقق POEA/وزارة الهجرة العمالية وشهادة التوظيف الخارجي (OEC)</strong>. هذه المتطلبات تخص مسار صاحب العمل والموظف.
+        </p>
+        <p class="mt-4">
+          العمل الحر يغير الصورة: بصفة مقاول مستقل، لست عاملًا فلبينيًا في الخارج بالتعريف القياسي للتوظيف، ما يعني أن مسار توظيف POEA لا ينطبق على تأشيرتك. بدلًا من ذلك، تتعامل مع وزارة الاستثمار مباشرة. الطلب على العاملين الحرّين الفلبينيين في المملكة حقيقي — في دعم تقنية المعلومات والتصميم والمحتوى والخدمات الإدارية — وتأشيرة العمل الحر هي الطريقة القانونية لخدمة العملاء السعوديين دون صاحب عمل.
+        </p>
+        <h3>للوافدين الغربيين (أمريكا / بريطانيا / أوروبا)</h3>
+        <p>
+          عادةً ما يجد المحترفون ذوو المهارات العالية من الدول الغربية أن تأشيرة العمل الحر سهلة: المؤهلات والمحفظة وإثبات الدخل سهلة الإعداد، وموافقة وزارة الاستثمار روتينية للمهن المعترف بها.
+        </p>
+        <p class="mt-4">
+          الجانب الضريبي هو الفارق الحقيقي. <strong class="text-white">المواطنون الأمريكيون يجب أن يقدموا إقرارات للـ IRS على الدخل العالمي حتى أثناء إقامتهم في السعودية</strong> — ودخل العمل الحر قابل للتصريح بالكامل. المقيمون في بريطانيا قد يظلون مدينين بالتأمين الوطني في بعض الحالات، والعديد من الدول الأوروبية تفرض ضرائب على الدخل العالمي. خصص ميزانية لمحاسب في بلدك قبل أن تعمل حرًا.
+        </p>
+        <p class="mt-4">
+          ميزة نمط الحياة هي السبب الذي يجعل العديد من الوافدين الغربيين يختارون هذا المسار: لا موافقات خروج وعودة، حرية كاملة في العملاء، والقدرة على بناء قاعدة عملاء عالمية من قاعدة معفاة من الضرائب في الرياض أو جدة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أي تأشيرة تختار؟ مصفوفة قرار عملية</h2>
+        <p>
+          توقف عن المقارنة وابدأ القرار. اعمل على هذه الأسئلة بالترتيب.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>هل تقدر الاستقرار قبل كل شيء؟</strong> اختر تأشيرة العمل. الراتب الثابت والتأمين المدفوع من صاحب العمل والتجديد المنظم يناسب الحياة القائمة على الميزانية.</li>
+            <li><strong>هل تقدر الحرية قبل كل شيء؟</strong> اختر تأشيرة العمل الحر. عدة عملاء، بلا كفيل، وفرص غير محدودة — إذا أتقنت إدارة التقلب.</li>
+            <li><strong>هل لديك معالون؟</strong> قارن إثبات الكفالة بعناية. الموظفون يحتاجون شهادة راتب؛ والعاملون الحرّون يحتاجون سجل دخل ثابت.</li>
+            <li><strong>هل تخطط لبدء عمل تجاري؟</strong> ابدأ بتأشيرة العمل الحر كخطوة أولى قانونية منخفضة التكلفة قبل الانتقال إلى سجل تجاري كامل.</li>
+          </ul>
+        </div>
+        <h3>سيناريوهات واقعية</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">السيناريو 1 — أحمد، مطور برمجيات باكستاني بخبرة 5 سنوات:</strong> لديه زوجة وطفلان. أولويته كفالة العائلة وراتب ثابت أثناء ادخاره. تأشيرة العمل تفوز: إقامة مدعومة من صاحب العمل تجعل كفالة العائلة بسيطة ومتوقعة.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">السيناريو 2 — ماريا، مستشارة تسويق فلبينية لديها عدة عملاء:</strong> تكسب بالفعل من ثلاثة عملاء عن بُعد أكثر مما كان يدفعه عملها المكتبي السابق. أولويتها حرية العملاء وعدم الارتباط بصاحب عمل واحد. تأشيرة العمل الحر تفوز: إنها تشرعن ما تفعله بالفعل.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">السيناريو 3 — ديفيد، مطور مقيم في بريطانيا يفكر في الانتقال:</strong> يريد اختبار السعودية لعام قبل الالتزام. يقدر المرونة وخيارات الخروج. تأشيرة العمل الحر تفوز، مع تحذير واحد: رتب التزاماتك الضريبية البريطانية قبل المغادرة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكنني تحويل تأشيرة عملي إلى تأشيرة عمل حر في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم، في معظم الحالات. تتقدم للحصول على رخصة عمل حر من وزارة الاستثمار، وبمجرد الموافقة، يفرج كفيلك عن إقامتك لنقلها إلى تصريح العمل الحر. تتم العملية عبر وزارة الاستثمار والجهات ذات الصلة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ما هو الحد الأدنى للدخل المطلوب لتأشيرة عمل حر في السعودية 2026؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا يوجد رقم رسمي واحد، لكن وزارة الاستثمار تتوقع إثبات دخل حقيقي من العمل الحر. لكفالة العائلة، المعيار العملي هو أرباح ثابتة تبلغ 5,000 ريال فأكثر شهريًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكن لحاملي تأشيرة العمل الحر كفالة عائلاتهم في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. يمكنك كفالة المعالين بمجرد إثبات دخل ثابت — المعيار الشائع 5,000 ريال فأكثر شهريًا — وتدفع الرسوم القياسية للمعالين البالغة نحو 400 ريال للفرد شهريًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل أحتاج كفيلًا لتأشيرة عمل حر في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. هذه هي السمة المميزة لتأشيرة العمل الحر. إقامتك مرتبطة بتصريح العمل الحر من وزارة الاستثمار بدلًا من كفيل من صاحب العمل.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كم تكلف تأشيرة العمل الحر في السعودية 2026؟</p>
+            <p class="text-gray-400 text-sm mt-1">خصص 2,000–3,000 ريال لمرحلة رخصة وزارة الاستثمار، إضافة إلى رسوم الإقامة والتأمين الطبي (2,000–5,000 ريال/سنة) ورسوم الخدمات المهنية إذا استخدمت مستشارًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكنني العمل لدى عدة شركات بتأشيرة عمل في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. تأشيرة العمل تربطك بكفيل واحد. العمل لدى شركة أخرى دون تصريح مخالفة قد تستوجب غرامات وترحيلًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ما هي المهن المؤهلة لتأشيرة العمل الحر في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">يشمل مسار العمل الحر المهن الخدمية والمعرفية: تقنية المعلومات، البرمجيات، التصميم، التسويق، الاستشارات، التعليم، صناعة المحتوى، الترجمة وما شابه. الأعمال اليدوية والتجارية غير مشمولة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كم يستغرق الحصول على تأشيرة عمل حر في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">تستغرق الموافقة عادةً من 2 إلى 4 أسابيع عبر بوابة وزارة الاستثمار، حسب مهنتك واكتمال مستنداتك. الحالات المعقدة قد تستغرق أطول.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكنني فتح حساب بنكي تجاري بتأشيرة عمل حر؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. مع تصريح العمل الحر المعتمد، يمكنك فتح حساب بنكي باسمك لاستقبال دخل العمل ودفع نفقاته.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يدفع العاملون الحرّون الزكاة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">يحسب العاملون الحرّون المسلمون الزكاة بنسبة 2.5% على المدخرات والأصول التجارية المؤهلة فوق النصاب — نفس القاعدة المطبقة على ثروتهم بغض النظر عن وضع التوظيف.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الكلمة الأخيرة: الاستقرار أم الحرية</h2>
+        <p>
+          كل قرار فيزيائي هو مقايضة بين شيئين: الاستقرار والحرية. تأشيرة العمل تمنحك راتبًا متوقعًا وتأمينًا مدفوعًا من صاحب العمل وكفالة منظمة — مقابل الارتباط بشركة واحدة. تأشيرة العمل الحر تمنحك عدة عملاء واستقلالًا كاملًا وإمكانات كسب غير محدودة — مقابل إدارة دخلك وتأمينك وأوراقك بنفسك.
+        </p>
+        <p class="mt-4">
+          لا توجد إجابة صحيحة عالمية. توجد فقط الإجابة التي تناسب دخلك وعائلتك وتحملك للمخاطر.
+        </p>
+        <p class="mt-4">
+          لست متأكدًا أي مسار يناسبك؟ استخدم{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">حاسبة دخل العمل الحر في SaudiToolHub</a>{' '}
+          لتقدير إمكانات كسبك كعامل حر، أو راجع{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">مُقدّر تكلفة السجل التجاري</a>{' '}
+          إذا كنت تخطط لبدء عمل تجاري بدلًا من ذلك.
+        </p>
+        <p class="mt-4">
+          لمزيد من التفاصيل عن مسار الأعمال، اقرأ دليلنا{' '}
+          <a href="/guide/hidden-costs-commercial-registration-cr-saudi-arabia-2026" class="text-desert-primary underline">التكاليف الخفية للسجل التجاري (CR) في السعودية</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">قدّر دخل عملك الحر الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجانًا — قارن الراتب مقابل أرباح العمل الحر في دقيقة</p>
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">استخدم حاسبة دخل العمل الحر المجانية</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية بناءً على اللوائح الحالية لوزارة الاستثمار السعودية ووزارة الموارد البشرية. سياسات التأشيرات قابلة للتغيير. استشر دائمًا ممثلًا رسميًا لوزارة الاستثمار أو محامي هجرة مرخصًا للحصول على المشورة الرسمية.
+        </p>
+      </div>
+    `, ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">ایکسپیٹ کیریئر گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">فری لانس ویزا بمقابلہ ورک ویزا سعودی عرب میں: ٹیکس، اقامہ کے قواعد اور آمدنی کی حدود 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">ان دو راستوں کا سیدھا موازنہ جو ایکسپیٹس کو سعودی عرب میں کمانے کی اجازت دیتے ہیں — کفالت کی آزادی، ٹیکس، آمدنی کا استحکام، اور درمیان کی ہر چیز 2026 کے لیے۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>2026 میں کونسا ویزا رکھیں؟</h2>
+        <p>
+          سعودی عرب میں فری لانسنگ اب کوئی معمولی بات نہیں۔ ویژن 2030 کے تحت حکومت نے جان بوجھ کر خود مختار پیشہ ور افراد — مصنفین، ڈویلپرز، ڈیزائنرز، مارکیٹرز، کنسلٹنٹس اور اساتذہ — کے لیے <strong class="text-white">MISA فری لانس پرمٹ</strong> کے ذریعے دروازے کھولے ہیں۔ پہلے سے زیادہ ایکسپیٹس اب روایتی ایمپلائمنٹ اقامہ اور فری لانس ویزا کے درمیان فیصلہ کر رہے ہیں۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">سیدھا جواب:</strong> فری لانس ویزا (جسے خود روزگار ویزا یا MISA فری لانس لائسنس بھی کہتے ہیں) آپ کو بغیر کفیل کے آزادانہ کام کرنے دیتا ہے، جبکہ روایتی ورک ویزا کے لیے ایمپلائر کی کفالت ضروری ہوتی ہے اور یہ آپ کو ایک کمپنی سے باندھ دیتا ہے۔ باقی سب کچھ — ٹیکس، خاندانی کفالت، اقامہ کی منتقلی، اور آمدنی کی صلاحیت — اسی ایک فرق سے جنم لیتا ہے۔
+        </p>
+        <p class="mt-4">
+          یہ انتخاب اس بارے میں نہیں کہ کونسا "بہتر" ہے۔ بلکہ یہ اس بارے میں ہے کہ کونسا آپ کی زندگی کے مطابق ہے: آپ کی آمدنی، آپ کے خاندان کی صورتحال، خطرہ مول لینے کی آپ کی صلاحیت، اور مملکت میں آپ کا طویل مدتی منصوبہ۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">چار اہم ترین فرق:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">کفالت کی آزادی:</strong> ایک ایمپلائر بمقابلہ متعدد کلائنٹ۔</li>
+            <li><strong class="text-white">آمدنی کا اتار چڑھاؤ:</strong> فکسڈ تنخواہ بمقابلہ متغیر آمدنی۔</li>
+            <li><strong class="text-white">ٹیکس کی ذمہ داریاں:</strong> تقریباً ایک جیسی، لیکن فری لانسرز کو زکوٰۃ اور VAT خود سنبھالنی پڑتی ہے۔</li>
+            <li><strong class="text-white">اقامہ کی منتقلی:</strong> کفیل سے جڑی ہوئی بمقابلہ مکمل طور پر منتقلی کے قابل۔</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          فیصلہ کرنے سے پہلے نمبر دیکھ لیں۔ ہماری مفت{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">فری لانس انکم کیلکولیٹر</a>{' '}
+          ایک منٹ میں دونوں راستوں پر آپ کی حقیقت پسندانہ ماہانہ کمائی دکھاتی ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی ورک ویزا سسٹم کو سمجھیں (روایتی ملازمت)</h2>
+        <p>
+          ورک ویزا وہ راستہ ہے جو زیادہ تر ایکسپیٹس پہلے ہی جانتے ہیں۔ یہ وہ طریقہ ہے جس سے مملکت کی زیادہ تر غیر ملکی افرادی قوت ملازم ہے، اور بجا طور پر: یہ منظم، قابلِ پیش گوئی اور کارکن کے حق میں بھاری ریگولیٹڈ ہے۔
+        </p>
+        <h3>ورک ویزا (ایمپلائمنٹ اقامہ) کیا ہے؟</h3>
+        <p>
+          ورک ویزا ایک سعودی رہائشی پرمٹ (اقامہ) ہے جو <strong class="text-white">کفالہ</strong> نظام کے ذریعے جاری ہوتا ہے۔ آپ کا ایمپلائر — <strong class="text-white">کفیل</strong> — آپ کا قانونی سپانسر ہوتا ہے، اور اقامہ انہی کے نام پر جاری ہوتا ہے۔ مملکت میں رہنے اور کام کرنے کا آپ کا حق ان کی وجہ سے ہے۔
+        </p>
+        <p class="mt-4">
+          ایمپلائر بھاری کام خود سنبھالتا ہے: آپ کے ورک ویزا کی درخواست، بھرتی کی فیس، اقامہ کا اجراء، سالانہ تجدید، اور لازمی ہیلتھ انشورنس۔ آپ وزارت انسانی وسائل و سماجی ترقی (MHRSD) میں ان کے ملازم کے طور پر رجسٹرڈ ہوتے ہیں، اور آپ کا لیبر کنٹریکٹ آپ کی تنخواہ، اوقات اور چھٹیوں کا تعین کرتا ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">کفالہ نظام آسان الفاظ میں:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>آپ کا ایمپلائر آپ کی رہائش اور ملازمت کی کفالت کرتا ہے۔</li>
+            <li>آپ قانونی طور پر صرف اسی ایمپلائر کے لیے کام کر سکتے ہیں۔</li>
+            <li>آپ کا اقامہ ہر سال آپ کے ایمپلائر کے ذریعے تجدید ہوتا ہے۔</li>
+            <li>ملازمت تبدیل کرنا کفیل تبدیل کرنا ہے، جس پر نطاقات کے قواعد لاگو ہوتے ہیں۔</li>
+          </ul>
+        </div>
+        <h3>ورک ویزا کی اہلیت کی شرائط</h3>
+        <p>
+          ایمپلائمنٹ اقامہ کے لیے اہلیت اس ملازمت اور آپ کی قابلیت پر منحصر ہے جس کے لیے آپ رکھے گئے ہیں۔ عمل معیاری ہے، لیکن حد پیشے اور آپ کے وطن کی تصدیقی ضروریات کے لحاظ سے مختلف ہوتی ہے۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>تصدیق شدہ تعلیمی سرٹیفکیٹ:</strong> آپ کی ڈگری کو قبول کرنے سے پہلے آپ کے وطن کی وزارت خارجہ اور سعودی سفارت خانے سے تصدیق کروانی ہوتی ہے۔</li>
+          <li><strong>پیشہ ورانہ تجربہ:</strong> سینئر عہدوں کے لیے اکثر پہلے کام کا ثبوت درکار ہوتا ہے؛ سعودی نظام اب ڈیجیٹل کریڈینشل پروگرام کے ذریعے اس کی تصدیق کرتا ہے۔</li>
+          <li><strong>طبی معائنہ اور فنگر پرنٹنگ:</strong> ہر نئے داخلے والے کا طبی ٹیسٹ (بشمول متعدی امراض) اور بایومیٹرک فنگر پرنٹنگ ہوتی ہے، عام طور پر آمد کے چند دنوں میں۔</li>
+          <li><strong>کم از کم تنخواہ کی حدیں:</strong> بہت سے عہدوں کے لیے ویزا اجراء کے لیے تنخواہ کی حدیں ہیں، اور خاندانی کفالت اس حد کو مزید بڑھا دیتی ہے۔</li>
+        </ul>
+        <h3>ورک ویزا ہولڈرز کے حقوق اور پابندیاں</h3>
+        <p>
+          ورک ویزا اس لیے طاقتور ہے کہ یہ منظم ہے۔ لیکن اس تنظیم کے ساتھ حدود آتی ہیں جنہیں آپ کو فری لانسنگ سے موازنہ کرنے سے پہلے سمجھنا ہوگا۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>آپ ایک ایمپلائر کے لیے کام کرتے ہیں۔</strong> بغیر اجازت کسی اور کے لیے کام کرنا قانونی خلاف ورزی ہے جس پر جرمانے اور ملک بدری ہو سکتی ہے۔</li>
+          <li><strong>بغیر اجازت کاروبار نہیں کھول سکتے۔</strong> ایمپلائمنٹ اقامہ پر کاروبار رکھنے کے لیے الگ منظوری اور اکثر MISA لائسنس درکار ہوتا ہے۔</li>
+          <li><strong>خروج و دخول کنٹرول شدہ ہے۔</strong> ایگزٹ/ری-انٹری ویزا آپ کا ایمپلائر کنٹرول کرتا ہے؛ بھاگنا (ہروب) سنگین جرم ہے۔</li>
+          <li><strong>ملازمت کی تبدیلی نطاقات کے قواعد پر عمل کرتی ہے۔</strong> نئے کفیل کے پاس جانا جائز ہے، لیکن آسانی آپ کے موجودہ پیشے اور نئے ایمپلائر کی نطاقات درجہ بندی پر منحصر ہے۔</li>
+          <li><strong>خاندانی کفالت تنخواہ پر مبنی ہے۔</strong> عام طور پر آپ کو <strong class="text-white">SAR 4,000–5,000</strong> بنیادی تنخواہ کی ضرورت ہوتی ہے، نیز فیسیں بھی۔</li>
+        </ul>
+        <h3>ورک ویزا ہولڈرز کے لیے ٹیکس کے اثرات</h3>
+        <p>
+          سعودی عرب میں ذاتی انکم ٹیکس نہیں ہے۔ آپ کی تنخواہ مکمل ادا ہوتی ہے — کوئی انکم ٹیکس کٹوتی نہیں، آپ کی طرف سے کوئی پے رول ٹیکس نہیں۔ زیادہ تر ایکسپیٹس کے لیے، یہ واحد سب سے بڑی وجہ ہے کہ مملکت میں ملازمت اتنی اچھی ادا کرتی ہے۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>کوئی ذاتی انکم ٹیکس نہیں:</strong> آپ کی تنخواہ، بونس یا الاؤنس پر 0%۔</li>
+          <li><strong>زکوٰۃ مسلمانوں پر لاگو:</strong> نصاب سے اوپر کی اہل بچت اور دولت پر 2.5%، آپ کے ذاتی اثاثوں پر حساب کی جاتی ہے۔</li>
+          <li><strong>آپ کا ایمپلائر تعمیل سنبھالتا ہے:</strong> کمپنی خود اپنی ذمہ داریاں داخل کرتی ہے اور ادا کرتی ہے — آپ بطور ملازم کچھ داخل نہیں کرتے۔</li>
+        </ul>
+        <p class="mt-4">
+          ایک بات یاد رکھیں: جبکہ آپ کوئی مقامی انکم ٹیکس نہیں دیتے، آپ کا وطن آپ کی عالمی آمدنی پر ٹیکس لگا سکتا ہے۔ مثال کے طور پر، امریکی شہریوں کو سعودی عرب میں رہتے ہوئے بھی IRS رٹرن داخل کرنا پڑتا ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی فری لانس ویزا سسٹم کو سمجھیں (خود روزگار)</h2>
+        <p>
+          فری لانس ویزا نیا اور زیادہ لچکدار راستہ ہے — اور یہ اس لیے موجود ہے کہ حکومت مملکت میں خود مختار پیشہ ور چاہتی ہے، نہ صرف ملازمین۔
+        </p>
+        <h3>فری لانس ویزا (MISA فری لانس لائسنس) کیا ہے؟</h3>
+        <p>
+          فری لانس ویزا ایک رہائشی پرمٹ ہے جو ملازمت کے معاہدے کے بجائے <strong class="text-white">وزارت سرمایہ کاری (MISA) کے فری لانس پرمٹ</strong> سے جڑا ہوتا ہے۔ آپ اپنی پیشہ ورانہ اکائی خود ہوتے ہیں، بغیر کفیل کے متعدد کلائنٹس کی خدمت کے لیے لائسنس یافتہ۔
+        </p>
+        <p class="mt-4">
+          یہ ویژن 2030 کے نالج اکانومی کے فروغ کا حصہ ہے۔ حکومت نے محسوس کیا کہ پیشہ ور افراد کی ایک بڑی کلاس — ریموٹ ڈویلپرز، ڈیزائنرز، کنسلٹنٹس، مواد تخلیق کار — روایتی ملازم کے سانچے میں نہیں آتی، اور ان کے لیے قانونی راستہ بنایا۔
+        </p>
+        <h3>فری لانس ویزا کی اہلیت کی شرائط</h3>
+        <p>
+          آپ کو کفیل کی ضرورت نہیں، لیکن آپ کو ثابت کرنا ہوگا کہ آپ حقیقی پیشہ ور ہیں جس کی قابلِ فروخت مہارت ہے۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>پیشہ ورانہ قابلیت:</strong> آپ کے شعبے میں ڈگریاں، ڈپلومے یا تسلیم شدہ سرٹیفکیٹ۔</li>
+          <li><strong>پورٹ فولیو یا مہارت کا ثبوت:</strong> پچھلے پروجیکٹس، کلائنٹ ریفرنسز، شائع شدہ کام، یا پیشہ ورانہ پروفائل۔</li>
+          <li><strong>آمدنی کا ثبوت:</strong> MISA یہ ثبوت چاہتا ہے کہ فری لانسنگ حقیقی آمدنی کا ذریعہ ہے، شوق نہیں۔</li>
+          <li><strong>اہل پیشے:</strong> فری لانس راستہ IT، مارکیٹنگ، ڈیزائن، کنسلٹنگ، تعلیم، مواد تخلیق، ترجمہ اور اسی طرح کے سروس شعبوں کا احاطہ کرتا ہے — دستی یا خوردہ کام نہیں۔</li>
+        </ul>
+        <h3>فری لانس ویزا کے لیے درخواست کا عمل</h3>
+        <p>
+          یہ عمل زیادہ تر MISA پورٹل کے ذریعے چلتا ہے، اور جبکہ آپ خود کر سکتے ہیں، زیادہ تر پہلی بار والے لائسنس یافتہ PRO یا کنسلٹنٹ استعمال کرتے ہیں تاکہ مسترد شدہ درخواست سے بچ سکیں۔
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>MISA پورٹل پر اکاؤنٹ بنائیں۔</strong> اپنے پاسپورٹ اور اقامہ کی تفصیلات سے رجسٹر کریں۔</li>
+          <li><strong>اپنی دستاویزات جمع کروائیں۔</strong> پاسپورٹ کاپی، اقامہ کاپی، تعلیمی سرٹیفکیٹ، پورٹ فولیو اور مختصر پیشہ ورانہ پروفائل۔</li>
+          <li><strong>درخواست کی فیسیں ادا کریں۔</strong> ابتدائی لائسنسنگ مرحلے کے لیے تقریباً SAR 2,000–3,000 مختص کریں۔</li>
+          <li><strong>منظوری کا انتظار کریں۔</strong> عام پروسیسنگ 2–4 ہفتے لگتی ہے؛ پیچیدہ پیشوں میں زیادہ وقت لگ سکتا ہے۔</li>
+          <li><strong>اقامہ حاصل کریں اور بزنس بینک اکاؤنٹ کھولیں۔</strong> منظور شدہ فری لانس پرمٹ کے ساتھ آپ کاروباری آمدنی کے لیے اپنے نام پر بینک اکاؤنٹ کھول سکتے ہیں۔</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مطلوبہ دستاویزات کی چیک لسٹ:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>درست پاسپورٹ اور اقامہ کی کاپیاں۔</li>
+            <li>تصدیق شدہ تعلیمی سرٹیفکیٹ۔</li>
+            <li>پورٹ فولیو یا کلائنٹ ریفرنسز۔</li>
+            <li>بینک اسٹیٹمنٹ جو فری لانس آمدنی کی تاریخ دکھائے (جہاں لاگو ہو)۔</li>
+          </ul>
+        </div>
+        <h3>فری لانس ویزا ہولڈرز کے حقوق اور آزادیاں</h3>
+        <p>
+          آزادیاں حقیقی ہیں، اور یہی وجہ ہے کہ زیادہ تر لوگ تبدیل ہوتے ہیں۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>ایک ساتھ متعدد کلائنٹ۔</strong> کوئی ایک ایمپلائر آپ کے کام کا بوجھ کنٹرول نہیں کرتا۔</li>
+          <li><strong>خاندانی کفالت۔</strong> مستقل آمدنی ثابت کرنے پر آپ معالین کی کفالت کر سکتے ہیں — عام طور پر SAR 5,000+ ماہانہ۔</li>
+          <li><strong>بزنس بینک اکاؤنٹس۔</strong> کاروباری آمدنی کے لیے آپ اپنے نام پر اکاؤنٹس رکھ سکتے ہیں۔</li>
+          <li><strong>کوئی ایگزٹ/ری-انٹری ویزا انحصار نہیں۔</strong> سفر کے لیے ایمپلائر کی منظوری کا انتظار نہیں کرنا پڑتا۔</li>
+          <li><strong>کمپنی کی طرف سیڑھی کا پہلا قدم۔</strong> جب آپ تیار ہوں تو فری لانس لائسنس مکمل کمرشل رجسٹریشن (CR) میں تبدیل ہو سکتا ہے۔</li>
+        </ul>
+        <h3>فری لانسرز کے لیے ٹیکس اور زکوٰۃ کی ذمہ داریاں</h3>
+        <p>
+          فری لانسرز کو بھی ملازمین کی طرح 0% ذاتی انکم ٹیکس ملتا ہے — لیکن وہ انتظامی کام خود سنبھالتے ہیں۔
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>کوئی ذاتی انکم ٹیکس نہیں:</strong> آپ کی فری لانس کمائی پر انکم ٹیکس نہیں لگتا۔</li>
+          <li><strong>آپ کی دولت پر زکوٰۃ:</strong> نصاب سے اوپر کی اہل بچت اور کاروباری اثاثوں پر 2.5%۔</li>
+          <li><strong>VAT رجسٹریشن:</strong> ایک بار جب آپ کی سالانہ آمدنی <strong class="text-white">SAR 375,000</strong> سے بڑھ جائے، تو آپ کو ZATCA میں رجسٹر ہونا ہوگا اور قابلِ ٹیکس اشیاء پر 15% VAT وصول کرنا ہوگا۔</li>
+          <li><strong>ریکارڈ رکھنا:</strong> آپ کو انوائس جاری کرنا، اخراجات کا حساب رکھنا اور کتابیں رکھنی ہیں — کیونکہ رپورٹ آپ خود کرتے ہیں۔</li>
+        </ul>
+        <p class="mt-4">
+          اپنی کمائی پر زکوٰۃ کے مکمل حساب کے لیے ہمارا{' '}
+          <a href="/guide/zakat-calculation-guide-saudi-arabia-2026" class="text-desert-primary underline">زکوٰۃ کیلکولیشن گائیڈ 2026</a>{' '}
+          پڑھیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آمنے سامنے موازنہ: فری لانس ویزا بمقابلہ ورک ویزا</h2>
+        <p>
+          اب عملی حصہ۔ آئیے دیکھیں کہ یہ دونوں راستے ان سات فیصلوں پر کیسے کھڑے ہوتے ہیں جو حقیقتاً آپ کی زندگی کو متاثر کرتے ہیں۔
+        </p>
+        <h3>1. کفالت اور آزادی</h3>
+        <p>
+          ورک ویزا آپ کے کفیل سے جڑا ہوتا ہے۔ ملازمت تبدیل کرنے کے لیے آپ کے کفیل کی رہائی، نیا کفیل، اور نطاقات پر منحصر منظوری درکار ہوتی ہے — ایک عمل جو ہفتے لے سکتا ہے اور بعض اوقات آپ کو پھنسا سکتا ہے۔
+        </p>
+        <p class="mt-4">
+          فری لانس ویزا لنگر مکمل طور پر ہٹا دیتا ہے۔ آپ اپنی پیشہ ورانہ زندگی کے کفیل ہیں، دنیا میں کہیں سے بھی کلائنٹ لینے اور بغیر کسی کی اجازت کے اپنی توجہ بدلنے میں آزاد۔
+        </p>
+        <h3>2. آمدنی کا استحکام اور کمانے کی صلاحیت</h3>
+        <p>
+          ورک ویزا کا مطلب فکسڈ ماہانہ تنخواہ ہے۔ یہ قابلِ پیش گوئی، قابلِ بینک، اور خاندانی بجٹ کی منصوبہ بندی میں آسان ہے۔ فری لانس ویزا کا مطلب متغیر آمدنی ہے — لیکن بغیر کسی حد کے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">حقیقت پسندانہ آمدنی کی مثالیں (2026):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>سینئر سافٹ ویئر ڈویلپر (ملازم):</strong> SAR 22,000–35,000/ماہ، فکسڈ۔</li>
+            <li><strong>سینئر سافٹ ویئر ڈویلپر (فری لانس):</strong> SAR 15,000–60,000/ماہ، معاہدوں کے بہاؤ کے لحاظ سے متغیر۔</li>
+            <li><strong>مارکیٹنگ کنسلٹنٹ (ملازم):</strong> SAR 12,000–20,000/ماہ، فکسڈ۔</li>
+            <li><strong>مارکیٹنگ کنسلٹنٹ (فری لانس):</strong> SAR 8,000–40,000/ماہ، کلائنٹ پر منحصر۔</li>
+          </ul>
+        </div>
+        <h3>3. اخراجات اور فیسیں</h3>
+        <p>
+          ورک ویزا پر، آپ کا ایمپلائر زیادہ تر لاگت برداشت کرتا ہے: بھرتی، اقامہ کا اجراء، سالانہ تجدید اور ہیلتھ انشورنس۔
+        </p>
+        <p class="mt-4">
+          فری لانسر کے طور پر، آپ سب کچھ خود فنڈ کرتے ہیں: MISA لائسنس (SAR 2,000–3,000)، اقامہ کی فیسیں، طبی انشورنس اور پیشہ ورانہ خدمات کی فیسیں۔ نقدی لاگت حقیقی ہے، لیکن یہ مکمل کمپنی کی لاگت سے کہیں کم ہے۔
+        </p>
+        <h3>4. خاندانی کفالت کے قواعد</h3>
+        <p>
+          دونوں راستے خاندانی کفالت کی اجازت دیتے ہیں، لیکن ثبوت مختلف ہے۔ ملازمین <strong class="text-white">SAR 4,000–5,000</strong> کی تنخواہ سرٹیفکیٹ دکھاتے ہیں؛ فری لانسرز کو مستقل آمدنی ثابت کرنی ہوتی ہے — عام معیار SAR 5,000+ ماہانہ ہے۔
+        </p>
+        <p class="mt-4">
+          معالین کی فیسیں دونوں صورتوں میں تقریباً <strong class="text-white">SAR 400 فی فرد ماہانہ</strong> چلتی ہیں۔ اپنے خاندان کے سائز کے لیے درست رقم جاننے کے لیے ہمارا{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">فیملی ویزا آپٹیمائزر</a>{' '}
+          استعمال کریں۔
+        </p>
+        <h3>5. اقامہ کی مدت اور تجدید</h3>
+        <p>
+          ایمپلائمنٹ اقامات عام طور پر 1–2 سال کے ہوتے ہیں اور ایمپلائر تجدید کرتا ہے۔ فری لانس اقامہ 1 سال کے لیے جاری ہوتا ہے اور آپ MISA پورٹل کے ذریعے خود تجدید کرتے ہیں — کفیل درمیان میں نہیں، لیکن یاد دلانے والا بھی نہیں۔
+        </p>
+        <h3>6. صحت کی دیکھ بھال اور انشورنس</h3>
+        <p>
+          ورک ویزا ہولڈرز کو ایمپلائر فراہم کردہ ہیلتھ انشورنس ملتا ہے — لازمی اور احاطہ شدہ۔ فری لانسرز کو پرائیویٹ ہیلتھ انشورنس خریدنی ہوتی ہے، عام طور پر <strong class="text-white">SAR 2,000–5,000/سال</strong> کوریج اور معالین کے لحاظ سے۔
+        </p>
+        <h3>7. کیریئر کی ترقی اور نیٹ ورکنگ</h3>
+        <p>
+          ملازمین منظم ترقیوں اور کمپنی فراہم کردہ تربیت کے ساتھ کارپوریٹ سیڑھی چڑھتے ہیں۔ فری لانسرز اپنے پورٹ فولیو اور کلائنٹ نیٹ ورک سے بڑھتے ہیں — شروع میں آہستہ، لیکن استحکام کے بعد تیزی سے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ایکسپیٹس کے لیے خصوصی تحفظات (GEO ٹارگٹنگ)</h2>
+        <p>
+          آپ کا وطن دونوں راستوں کی عملی حقیقتوں کو تشکیل دیتا ہے۔ ہر بڑی ایکسپیٹ کمیونٹی کو کیا ذہن میں رکھنا چاہیے۔
+        </p>
+        <h3>جنوبی ایشیائی ایکسپیٹس کے لیے (پاکستان / انڈیا / بنگلہ دیش)</h3>
+        <p>
+          سب سے بڑی عملی رکاوٹ آپ کے وطن سے <strong class="text-white">ڈگری کی تصدیق</strong> ہے۔ دونوں راستوں کے لیے تصدیق شدہ تعلیمی سرٹیفکیٹ درکار ہیں، اور یہ عمل — آپ کے وطن کی وزارت خارجہ سے سعودی کلچرل اٹیشے تک — وقت اور پیسہ لیتا ہے۔ جلد شروع کریں۔
+        </p>
+        <p class="mt-4">
+          ثقافتی طور پر، ملازمت ہی خطے میں غالب ترجیح ہے: فکسڈ تنخواہ وہی ہے جس پر زیادہ تر خاندان بجٹ بناتے ہیں۔ لیکن انٹرپرینیورشپ تیزی سے بڑھ رہی ہے، اور فری لانس ویزا اب مہارت رکھنے والے پیشہ ور افراد کے لیے ایک قانونی درمیانی راستہ پیش کرتا ہے جو مکمل کمپنی کھولے بغیر آزادی چاہتے ہیں۔
+        </p>
+        <p class="mt-4">
+          ترسیلاتِ زر کے بارے میں: لائسنس یافتہ چینلز کے ذریعے فری لانس آمدنی وطن بھیجنے پر کوئی پابندی نہیں۔ وہی ٹرانسفر فیسیں اور سداد/IBAN قواعد لاگو ہوتے ہیں جیسے تنخواہ پر۔
+        </p>
+        <h3>فلپائنی ایکسپیٹس کے لیے</h3>
+        <p>
+          اگر آپ لائسنس یافتہ بھرتی ایجنسی کے ذریعے آئے ہیں، تو آپ کے ملازمت کے راستے میں <strong class="text-white">POEA/DMW تصدیق اور اوورسیز ایمپلائمنٹ سرٹیفکیٹ (OEC)</strong> شامل ہے۔ یہ تقاضے ایمپلائر-ملازم ٹریک سے تعلق رکھتے ہیں۔
+        </p>
+        <p class="mt-4">
+          فری لانسنگ تصویر بدلتی ہے: آزاد ٹھیکیدار کے طور پر، آپ معیاری ملازمت کی تعریف کے تحت OFW نہیں ہیں، جس کا مطلب ہے کہ POEA ملازمت کا پائپ لائن آپ کے ویزا پر لاگو نہیں ہوتا۔ اس کے بجائے، آپ سیدھے MISA کے ذریعے جاتے ہیں۔ مملکت میں فلپائنی فری لانسرز کی مانگ حقیقی ہے — IT سپورٹ، ڈیزائن، مواد اور انتظامی خدمات میں — اور فری لانس ویزا بغیر ایمپلائر کے سعودی کلائنٹس کی خدمت کا قانونی طریقہ ہے۔
+        </p>
+        <h3>مغربی ایکسپیٹس کے لیے (امریکہ / برطانیہ / یورپ)</h3>
+        <p>
+          مغربی ممالک کے اعلیٰ مہارت والے پیشہ ور افراد کو فری لانس ویزا عام طور پر آسان لگتا ہے: قابلیت، پورٹ فولیو اور آمدنی کا ثبوت بنانا آسان ہے، اور تسلیم شدہ پیشوں کے لیے MISA منظوری معمول ہے۔
+        </p>
+        <p class="mt-4">
+          ٹیکس کا پہلو اصلی فرق ہے۔ <strong class="text-white">امریکی شہریوں کو سعودی عرب میں رہتے ہوئے بھی عالمی آمدنی پر IRS رٹرن داخل کرنا پڑتا ہے</strong> — اور فری لانس آمدنی مکمل طور پر قابلِ رپورٹ ہے۔ برطانیہ کے رہائشی بعض صورتوں میں نیشنل انشورنس کے مقروض ہو سکتے ہیں، اور بہت سے یورپی ممالک عالمی آمدنی پر ٹیکس لگاتے ہیں۔ فری لانسنگ سے پہلے اپنے وطن میں ٹیکس پیشہ ور کے لیے بجٹ بنائیں۔
+        </p>
+        <p class="mt-4">
+          طرز زندگی کا فائدہ وہی ہے جس کی وجہ سے بہت سے مغربی ایکسپیٹس یہ راستہ چنتے ہیں: کوئی ایگزٹ/ری-انٹری منظوری نہیں، کلائنٹ کی مکمل آزادی، اور ریاض یا جدہ سے ٹیکس سے پاک اڈے سے عالمی کلائنٹ بیس بنانے کی صلاحیت۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>کونسا ویزا چنیں؟ ایک عملی فیصلہ میٹرکس</h2>
+        <p>
+          موازنہ کرنا چھوڑیں اور فیصلہ شروع کریں۔ ان سوالوں پر ترتیب سے کام کریں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>کیا آپ سب سے بڑھ کر استحکام اہمیت دیتے ہیں؟</strong> ورک ویزا چنیں۔ فکسڈ تنخواہ، ایمپلائر سے ادا شدہ انشورنس اور منظم تجدید بجٹ پر مبنی زندگی کے مطابق ہے۔</li>
+            <li><strong>کیا آپ سب سے بڑھ کر آزادی اہمیت دیتے ہیں؟</strong> فری لانس ویزا چنیں۔ متعدد کلائنٹ، کوئی کفیل نہیں، اور لامحدود مواقع — اگر آپ اتار چڑھاؤ سنبھال سکتے ہیں۔</li>
+            <li><strong>کیا آپ کے معالین ہیں؟</strong> کفالت کے ثبوت کا احتیاط سے موازنہ کریں۔ ملازمین کو تنخواہ سرٹیفکیٹ چاہیے؛ فری لانسرز کو مستقل آمدنی کی تاریخ چاہیے۔</li>
+            <li><strong>کیا آپ کاروبار شروع کرنے کا ارادہ رکھتے ہیں؟</strong> مکمل CR پر جانے سے پہلے فری لانس ویزا کو قانونی، کم لاگت والے پہلے قدم کے طور پر شروع کریں۔</li>
+          </ul>
+        </div>
+        <h3>حقیقی زندگی کے مناظر</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">منظر 1 — احمد، 5 سالہ تجربہ رکھنے والا پاکستانی سافٹ ویئر ڈویلپر:</strong> اس کی بیوی اور دو بچے ہیں۔ اس کی ترجیح خاندانی کفالت اور فکسڈ تنخواہ ہے جبکہ وہ بچت کر رہا ہے۔ ورک ویزا جیتتا ہے: ایمپلائر سے پشت پناہ اقامہ خاندانی کفالت کو آسان اور قابلِ پیش گوئی بناتا ہے۔</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">منظر 2 — ماریا، متعدد کلائنٹس والی فلپائنی مارکیٹنگ کنسلٹنٹ:</strong> وہ پہلے ہی تین ریموٹ کلائنٹس سے اپنی پرانی آفس ملازمت سے زیادہ کما رہی ہے۔ اس کی ترجیح کلائنٹ کی آزادی ہے اور ایک ایمپلائر سے جڑے نہ رہنا۔ فری لانس ویزا جیتتا ہے: یہ وہی چیز جائز کرتا ہے جو وہ پہلے سے کر رہی ہے۔</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">منظر 3 — ڈیوڈ، منتقلی پر غور کرنے والا برطانیہ کا ڈویلپر:</strong> وہ عزم سے پہلے سعودی عرب کو ایک سال کے لیے آزمائش کرنا چاہتا ہے۔ وہ لچک اور خروج کے اختیارات کی قدر کرتا ہے۔ فری لانس ویزا جیتتا ہے، ایک انتباہ کے ساتھ: روانگی سے پہلے برطانیہ کی ٹیکس ذمہ داریاں ترتیب دیں۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا میں سعودی عرب میں اپنا ورک ویزا فری لانس ویزا میں تبدیل کر سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں، زیادہ تر صورتوں میں۔ آپ MISA فری لانس لائسنس کے لیے درخواست دیتے ہیں، اور منظور ہونے پر، آپ کا ایمپلائر آپ کا اقامہ جاری کرتا ہے تاکہ اسے فری لانس پرمٹ میں منتقل کیا جا سکے۔ یہ عمل MISA اور متعلقہ حکام کے ذریعے چلتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب 2026 میں فری لانس ویزا کے لیے کم از کم آمدنی کتنی درکار ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">کوئی ایک سرکاری رقم نہیں، لیکن MISA حقیقی فری لانس آمدنی کا ثبوت چاہتا ہے۔ خاندانی کفالت کے لیے عملی معیار SAR 5,000+ ماہانہ مستقل کمائی ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا فری لانس ویزا ہولڈرز سعودی عرب میں اپنے خاندان کی کفالت کر سکتے ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ مستقل آمدنی ثابت کرنے پر آپ معالین کی کفالت کر سکتے ہیں — عام معیار SAR 5,000+ ماہانہ ہے — اور آپ معیاری معالین کی فیسیں ادا کرتے ہیں جو تقریباً SAR 400 فی فرد ماہانہ ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا مجھے سعودی عرب میں فری لانس ویزا کے لیے کفیل چاہیے؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ یہی فری لانس ویزا کی امتیازی خصوصیت ہے۔ آپ کی رہائش ایمپلائر کفیل کے بجائے آپ کے MISA فری لانس پرمٹ سے جڑی ہوئی ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب 2026 میں فری لانس ویزا کی لاگت کتنی ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">MISA لائسنس مرحلے کے لیے SAR 2,000–3,000 مختص کریں، نیز اقامہ کی فیسیں، طبی انشورنس (SAR 2,000–5,000/سال) اور پیشہ ورانہ خدمات کی فیسیں اگر آپ کنسلٹنٹ استعمال کرتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا میں سعودی عرب میں ورک ویزا کے ساتھ متعدد کمپنیوں کے لیے کام کر سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ ورک ویزا آپ کو ایک کفیل سے باندھتا ہے۔ بغیر پرمٹ کسی اور کمپنی کے لیے کام کرنا خلاف ورزی ہے جس پر جرمانے اور ملک بدری ہو سکتی ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب میں فری لانس ویزا کے لیے اہل پیشے کون سے ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">فری لانس راستہ سروس اور نالج پیشوں کا احاطہ کرتا ہے: IT، سافٹ ویئر، ڈیزائن، مارکیٹنگ، کنسلٹنگ، تعلیم، مواد تخلیق، ترجمہ اور اسی طرح کے شعبے۔ دستی اور خوردہ کام شامل نہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب میں فری لانس ویزا حاصل کرنے میں کتنا وقت لگتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">منظوری عام طور پر MISA پورٹل کے ذریعے 2–4 ہفتے لیتی ہے، آپ کے پیشے اور دستاویزات کی مکملیت کے لحاظ سے۔ پیچیدہ کیسز زیادہ وقت لے سکتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا میں فری لانس ویزا کے ساتھ بزنس بینک اکاؤنٹ کھول سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ منظور شدہ فری لانس پرمٹ کے ساتھ، آپ کاروباری آمدنی حاصل کرنے اور اخراجات ادا کرنے کے لیے اپنے نام پر بینک اکاؤنٹ کھول سکتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا فری لانسرز سعودی عرب میں زکوٰۃ ادا کرتے ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">مسلمان فری لانسرز نصاب سے اوپر کی اہل بچت اور کاروباری اثاثوں پر 2.5% کی شرح سے زکوٰۃ کا حساب کرتے ہیں — وہی قاعدہ جو ملازمت کی حیثیت سے قطع نظر ان کی دولت پر لاگو ہوتا ہے۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آخری بات: استحکام یا آزادی</h2>
+        <p>
+          ہر ویزا فیصلہ دو چیزوں کے درمیان سودا ہے: استحکام اور آزادی۔ ورک ویزا آپ کو قابلِ پیش گوئی تنخواہ، ایمپلائر سے ادا شدہ انشورنس اور منظم کفالت دیتا ہے — ایک کمپنی سے جڑے رہنے کی قیمت پر۔ فری لانس ویزا آپ کو متعدد کلائنٹ، مکمل آزادی اور لامحدود کمانے کی صلاحیت دیتا ہے — اپنی آمدنی، انشورنس اور کاغذی کارروائی خود سنبھالنے کی قیمت پر۔
+        </p>
+        <p class="mt-4">
+          کوئی عالمی طور پر درست جواب نہیں۔ صرف وہی جواب ہے جو آپ کی آمدنی، آپ کے خاندان اور خطرہ مول لینے کی آپ کی صلاحیت سے میل کھاتا ہو۔
+        </p>
+        <p class="mt-4">
+          یقین نہیں کونسا راستہ آپ کے لیے درست ہے؟{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">SaudiToolHub فری لانس انکم کیلکولیٹر</a>{' '}
+          استعمال کریں تاکہ فری لانسر کے طور پر اپنی کمانے کی صلاحیت کا اندازہ لگائیں، یا{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">CR لاگت تخمینہ کار</a>{' '}
+          دیکھیں اگر آپ اس کے بجائے کاروبار شروع کرنے کا ارادہ رکھتے ہیں۔
+        </p>
+        <p class="mt-4">
+          کاروباری راستے کی مزید تفصیل کے لیے ہماری{' '}
+          <a href="/guide/hidden-costs-commercial-registration-cr-saudi-arabia-2026" class="text-desert-primary underline">سعودی عرب میں کمرشل رجسٹریشن (CR) کے پوشیدہ اخراجات</a>{' '}
+          گائیڈ پڑھیں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنی فری لانس آمدنی کا اندازہ لگائیں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — ایک منٹ میں تنخواہ بمقابلہ فری لانس کمائی کا موازنہ کریں</p>
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">مفت فری لانس انکم کیلکولیٹر استعمال کریں</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>دستبرداری:</strong> یہ گائیڈ سعودی وزارت سرمایہ کاری (MISA) اور وزارت انسانی وسائل کے موجودہ ضوابط کی بنیاد پر صرف معلوماتی مقاصد کے لیے ہے۔ ویزا پالیسیاں تبدیل ہو سکتی ہیں۔ سرکاری مشورے کے لیے ہمیشہ MISA کے اہل نمائندے یا لائسنس یافتہ امیگریشن وکیل سے رجوع کریں۔
+        </p>
+      </div>
+    `, tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay sa Karera ng Expat</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Freelance Visa vs. Work Visa sa Saudi Arabia: Buwis, Mga Panuntunan sa Iqama at Mga Limitasyon sa Kita 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Isang direktang paghahambing ng dalawang daan na nagpapahintulot sa mga expat na kumita sa Saudi Arabia — kalayaan sa sponsor, buwis, katatagan ng kita, at lahat ng nasa pagitan para sa 2026.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Aling Visa ang Dapat Mong Hawakan sa 2026?</h2>
+        <p>
+          Hindi na isang side idea ang freelancing sa Saudi Arabia. Sa ilalim ng Vision 2030, sadyang binuksan ng gobyerno ang mga pinto para sa mga malayang propesyonal — manunulat, developer, designer, marketer, consultant, at guro — sa pamamagitan ng <strong class="text-white">MISA freelance permit</strong>. Mas marami na ngayong expat kaysa dati ang nagdedesisyon sa pagitan ng tradisyonal na employment Iqama at freelance visa.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direktang sagot:</strong> Ang freelance visa (tinatawag ding self-employment visa o MISA freelance license) ay nagpapahintulot sa iyo na magtrabaho nang independiyente nang walang sponsor, habang ang tradisyonal na work visa ay nangangailangan ng employer sponsorship at nagtatali sa iyo sa isang kumpanya. Lahat ng iba — buwis, family sponsorship, portability ng Iqama, at potensyal ng kita — ay nagmumula sa iisang pagkakaibang iyon.
+        </p>
+        <p class="mt-4">
+          Ang pagpili ay hindi tungkol sa kung alin ang "mas mabuti." Tungkol ito sa kung alin ang bagay sa iyong buhay: ang iyong kita, ang sitwasyon ng iyong pamilya, ang iyong pagtitiis sa panganib, at ang iyong pangmatagalang plano sa Kaharian.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Ang apat na pagkakaibang pinakamahalaga:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">Kalayaan sa sponsorship:</strong> isang employer vs. maraming kliyente.</li>
+            <li><strong class="text-white">Pagkakaiba-iba ng kita:</strong> fixed salary vs. pabago-bagong kita.</li>
+            <li><strong class="text-white">Mga obligasyon sa buwis:</strong> halos pareho, pero ang freelancer ang humahawak ng Zakat at VAT mismo.</li>
+            <li><strong class="text-white">Portability ng Iqama:</strong> nakatali sa isang Kafeel vs. ganap na maililipat.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Bago ka magdesisyon, patakbuhin ang mga numero. Ang aming libreng{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">Freelance Income Calculator</a>{' '}
+          ay nagpapakita ng iyong makatotohanang buwanang kita sa parehong daan sa ilalim ng isang minuto.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pag-unawa sa Saudi Work Visa System (Tradisyonal na Pagtatrabaho)</h2>
+        <p>
+          Ang work visa ang daan na alam na ng karamihan ng expat. Ito ang paraan kung paano nagtatrabaho ang karamihan ng dayuhang manggagawa sa Kaharian, at sa magandang dahilan: ito ay organisado, mahuhulaan, at mahigpit na kinokontrol pabor sa manggagawa.
+        </p>
+        <h3>Ano ang Work Visa (Employment Iqama)?</h3>
+        <p>
+          Ang work visa ay isang residence permit (Iqama) na inilalabas sa pamamagitan ng <strong class="text-white">Kafala</strong> system. Ang iyong employer — ang <strong class="text-white">Kafeel</strong> — ay ang iyong legal na sponsor, at ang Iqama ay inilalabas sa kanilang pangalan. Ang iyong karapatan na manirahan at magtrabaho sa Kaharian ay dahil sa kanila.
+        </p>
+        <p class="mt-4">
+          Ginagawa ng employer ang mabigat na trabaho: pag-apply ng iyong work visa, pagbabayad ng recruitment fees, pag-issue ng iyong Iqama, pagre-renew nito taon-taon, at pagbibigay ng mandatory health insurance. Naka-register ka sa Ministry of Human Resources and Social Development (MHRSD) bilang kanilang empleyado, at ang iyong labor contract ang nagtatakda ng iyong sahod, oras, at bakasyon.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ang Kafala system sa simpleng salita:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Sinasponsor ng employer mo ang iyong tirahan at trabaho.</li>
+            <li>Legal kang makakapagtrabaho lamang para sa employer na iyon.</li>
+            <li>Nire-renew taon-taon ang iyong Iqama sa pamamagitan ng iyong employer.</li>
+            <li>Ang pagpapalit ng trabaho ay nangangahulugang pagpapalit ng sponsor, na pinamamahalaan ng mga patakaran ng Nitaqat.</li>
+          </ul>
+        </div>
+        <h3>Mga Requirement sa Eligibility ng Work Visa</h3>
+        <p>
+          Depende sa trabahong in-applyan mo at sa iyong mga kwalipikasyon ang eligibility para sa employment Iqama. Pamantayan ang proseso, pero nag-iiba ang bar ayon sa propesyon at sa mga kinakailangang attestation ng iyong bansang pinagmulan.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Na-attest na educational certificates:</strong> dapat ma-attest ang iyong degree sa foreign affairs authority ng iyong bansa at sa Saudi embassy bago ito tanggapin.</li>
+          <li><strong>Propesyonal na karanasan:</strong> madalas na nangangailangan ng patunay ng nakaraang trabaho ang mga senior role; lalong bine-verify ito ng Saudi system sa pamamagitan ng Digital Credential program.</li>
+          <li><strong>Medical examination at fingerprinting:</strong> bawat bagong dating ay sumasailalim sa medical test (kasama ang para sa mga nakakahawang sakit) at biometric fingerprinting, kadalasan sa loob ng ilang araw ng pagdating.</li>
+          <li><strong>Minimum salary thresholds:</strong> maraming job title ang may salary floor para sa pag-issue ng visa, at itinataas pa ng family sponsorship ang bar.</li>
+        </ul>
+        <h3>Mga Karapatan at Paghihigpit ng mga May-Hawak ng Work Visa</h3>
+        <p>
+          Makapangyarihan ang work visa dahil eksaktong ito ay organisado. Pero may mga limitasyon ang organisasyong iyon na dapat mong maunawaan bago mo ito ihambing sa freelancing.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Nagtatrabaho ka para sa isang employer.</strong> Ang pagtatrabaho para sa iba nang walang permit ay paglabag na maaaring magdulot ng multa at deportation.</li>
+          <li><strong>Hindi ka makapagnegosyo nang walang pahintulot.</strong> Ang pagmamay-ari ng negosyo habang nasa employment Iqama ay nangangailangan ng hiwalay na pag-apruba at, sa karamihan ng kaso, isang MISA license.</li>
+          <li><strong>Kontrolado ang exit at re-entry.</strong> Kinokontrol ng iyong employer ang exit/re-entry visa; seryosong pagkakasala ang pag-abscond (Huroob).</li>
+          <li><strong>Ang pagpapalit ng trabaho ay sumusunod sa mga patakaran ng Nitaqat.</strong> Pinapayagan ang paglipat sa bagong sponsor, pero depende sa iyong kasalukuyang propesyon at sa Nitaqat rating ng bagong employer.</li>
+          <li><strong>Salary-based ang family sponsorship.</strong> Karaniwang kailangan mo ng basic salary na <strong class="text-white">SAR 4,000–5,000</strong> para mag-sponsor ng mga dependent, at dagdag na bayad.</li>
+        </ul>
+        <h3>Mga Implikasyon sa Buwis para sa mga May-Hawak ng Work Visa</h3>
+        <p>
+          Walang personal income tax sa Saudi Arabia. Buong-buo ang bayad sa iyong sahod — walang withholding para sa income tax, walang payroll tax sa iyong panig. Para sa karamihan ng expat, ito ang pinakamalaking dahilan kung bakit maganda ang bayad sa trabaho sa Kaharian.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Walang personal income tax:</strong> 0% sa iyong sahod, bonus, o benepisyo.</li>
+          <li><strong>Nalalapat ang Zakat sa mga Muslim:</strong> 2.5% sa kwalipikadong ipon at kayamanan na lampas sa Nisab threshold, kinukwenta sa iyong personal na ari-arian.</li>
+          <li><strong>Ang employer mo ang humahawak ng compliance:</strong> ang kumpanya ang nag-file at nagbabayad ng sariling obligasyon — wala kang ina-file bilang empleyado.</li>
+        </ul>
+        <p class="mt-4">
+          Isang bagay ang tandaan: habang wala kang binabayarang lokal na income tax, maaari pa ring buwisan ng iyong bansang pinagmulan ang iyong worldwide income. Ang mga mamamayan ng US, halimbawa, ay dapat mag-file ng IRS returns kahit na nakatira sila sa Saudi Arabia.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pag-unawa sa Saudi Freelance Visa System (Self-Employment)</h2>
+        <p>
+          Ang freelance visa ang mas bago, mas flexible na daan — at ito ay umiiral dahil gusto ng gobyerno ng mga malayang propesyonal sa Kaharian, hindi lang mga empleyado.
+        </p>
+        <h3>Ano ang Freelance Visa (MISA Freelance License)?</h3>
+        <p>
+          Ang freelance visa ay isang residence permit na nakatali sa <strong class="text-white">freelance permit mula sa Ministry of Investment (MISA)</strong> sa halip na sa isang employment contract. Ikaw mismo ang iyong propesyonal na entidad, lisensyado na maglingkod sa maraming kliyente nang walang sponsoring employer.
+        </p>
+        <p class="mt-4">
+          Bahagi ito ng push ng Vision 2030 para sa isang knowledge economy. Kinilala ng gobyerno na ang isang malaking klase ng mga propesyonal — remote developers, designers, consultants, content creators — ay hindi akma sa tradisyonal na modelo ng empleyado, at gumawa ng legal na daan para sa kanila.
+        </p>
+        <h3>Mga Requirement sa Eligibility ng Freelance Visa</h3>
+        <p>
+          Hindi mo kailangan ng sponsor, pero kailangan mong patunayan na isa kang tunay na propesyonal na may pangangailangan na kasanayan.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Propesyonal na kwalipikasyon:</strong> degree, diploma, o kinikilalang certification sa iyong larangan.</li>
+          <li><strong>Portfolio o patunay ng kadalubhasaan:</strong> mga nakaraang proyekto, client references, nai-publish na gawa, o propesyonal na profile.</li>
+          <li><strong>Patunay ng kita:</strong> hinahanap ng MISA ang patunay na ang freelancing ay isang tunay na pinagkukunan ng kita, hindi isang libangan.</li>
+          <li><strong>Mga kwalipikadong propesyon:</strong> sinasaklaw ng freelance na daan ang IT, marketing, design, consulting, education, content creation, translation, at mga katulad na service field — hindi ang manual o retail na trabaho.</li>
+        </ul>
+        <h3>Proseso ng Pag-apply para sa Freelance Visa</h3>
+        <p>
+          Ang proseso ay dumadaloy sa MISA portal, at habang kaya mo itong gawin mag-isa, karamihan ng mga first-timer ay gumagamit ng lisensyadong PRO o consultant upang maiwasan ang rejekted application.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Gumawa ng account sa MISA portal.</strong> Mag-register gamit ang iyong passport at Iqama details.</li>
+          <li><strong>I-submit ang iyong mga dokumento.</strong> Passport copy, Iqama copy, educational certificates, portfolio, at maikling propesyonal na profile.</li>
+          <li><strong>Bayaran ang application fees.</strong> Mag-budget ng humigit-kumulang SAR 2,000–3,000 para sa initial licensing stage.</li>
+          <li><strong>Maghintay ng approval.</strong> Karaniwang 2–4 na linggo ang processing; mas mahaba para sa mga kumplikadong propesyon.</li>
+          <li><strong>Kunin ang iyong Iqama at magbukas ng business bank account.</strong> Sa aprubadong freelance permit, makakapagbukas ka ng bank account sa iyong pangalan para sa business income.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Checklist ng mga kinakailangang dokumento:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Valid passport at Iqama copies.</li>
+            <li>Na-attest na educational certificates.</li>
+            <li>Portfolio o client references.</li>
+            <li>Bank statement na nagpapakita ng freelance income history (kung naaangkop).</li>
+          </ul>
+        </div>
+        <h3>Mga Karapatan at Kalayaan ng mga May-Hawak ng Freelance Visa</h3>
+        <p>
+          Totoong-totoo ang mga kalayaan, at ito ang dahilan kung bakit lumilipat ang karamihan ng tao.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Maraming kliyente nang sabay-sabay.</strong> Walang iisang employer ang kumokontrol sa iyong workload.</li>
+          <li><strong>Family sponsorship.</strong> Makakapag-sponsor ka ng mga dependent kapag napatunayan mo ang tuloy-tuloy na kita — karaniwang SAR 5,000+ bawat buwan.</li>
+          <li><strong>Mga business bank account.</strong> Makakapagkaroon ka ng mga account sa iyong pangalan para sa business income.</li>
+          <li><strong>Walang dependency sa exit/re-entry visa.</strong> Hindi ka ma-stranded sa paghihintay ng approval ng employer para maglakbay.</li>
+          <li><strong>Isang stepping stone patungo sa kumpanya.</strong> Ang freelance license ay maaaring lumaki tungo sa full commercial registration (CR) kapag handa ka na.</li>
+        </ul>
+        <h3>Mga Obligasyon sa Buwis at Zakat para sa mga Freelancer</h3>
+        <p>
+          Tinatamasa pa rin ng mga freelancer ang parehong 0% personal income tax gaya ng mga empleyado — pero sila mismo ang humahawak ng administrative work.
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Walang personal income tax:</strong> hindi binubuwisan ang iyong freelance na kita bilang income.</li>
+          <li><strong>Zakat sa iyong kayamanan:</strong> 2.5% sa kwalipikadong ipon at business assets na lampas sa Nisab.</li>
+          <li><strong>VAT registration:</strong> kapag lumampas ang iyong taunang kita sa <strong class="text-white">SAR 375,000</strong>, dapat kang magparehistro sa ZATCA at maningil ng 15% VAT sa mga taxable supplies.</li>
+          <li><strong>Pag-iingat ng rekord:</strong> dapat kang mag-issue ng invoice, mag-track ng mga gastos, at magtago ng mga libro — dahil ikaw ang nag-uulat.</li>
+        </ul>
+        <p class="mt-4">
+          Para sa kumpletong paliwanag kung paano kinukuwenta ang Zakat sa iyong kita, basahin ang aming{' '}
+          <a href="/guide/zakat-calculation-guide-saudi-arabia-2026" class="text-desert-primary underline">Zakat Calculation Guide 2026</a>.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Head-to-Head na Paghahambing: Freelance Visa vs. Work Visa</h2>
+        <p>
+          Ngayon ang praktikal na bahagi. Narito kung paano nagkakatugma ang dalawang daan sa pitong desisyon na talagang nakakaapekto sa iyong buhay.
+        </p>
+        <h3>1. Sponsorship at Kalayaan</h3>
+        <p>
+          Ang work visa ay nakadikit sa iyong Kafeel. Ang pagpapalit ng trabaho ay nangangailangan ng release ng iyong sponsor, bagong sponsor, at mga approval na nakadepende sa Nitaqat — isang proseso na maaaring tumagal ng mga linggo at minsan ay mag-iwan sa iyo na naka-stuck.
+        </p>
+        <p class="mt-4">
+          Ganap na inaalis ng freelance visa ang angkla. Ikaw ang sponsor ng iyong sariling propesyonal na buhay, malaya na kumuha ng mga kliyente mula sa kahit saan sa mundo at magpalit ng pokus nang hindi humihingi ng pahintulot kaninuman.
+        </p>
+        <h3>2. Katatagan ng Kita at Potensyal na Kumita</h3>
+        <p>
+          Ang work visa ay nangangahulugang fixed monthly salary. Ito ay mahuhulaan, bankable, at madaling planuhin ang badyet ng pamilya sa paligid nito. Ang freelance visa ay nangangahulugang pabago-bagong kita — pero walang kisame.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Mga halimbawa ng totoong kita (2026):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>Senior software developer (empleyado):</strong> SAR 22,000–35,000/buwan, fixed.</li>
+            <li><strong>Senior software developer (freelance):</strong> SAR 15,000–60,000/buwan, pabago-bago depende sa daloy ng kontrata.</li>
+            <li><strong>Marketing consultant (empleyado):</strong> SAR 12,000–20,000/buwan, fixed.</li>
+            <li><strong>Marketing consultant (freelance):</strong> SAR 8,000–40,000/buwan, nakadepende sa kliyente.</li>
+          </ul>
+        </div>
+        <h3>3. Mga Gastos at Bayad</h3>
+        <p>
+          Sa work visa, sinasagot ng employer mo ang karamihan ng gastos: recruitment, pag-issue ng Iqama, taunang renewal, at health insurance.
+        </p>
+        <p class="mt-4">
+          Bilang freelancer, ikaw ang nagpopondo ng lahat: ang MISA license (SAR 2,000–3,000), mga bayad sa Iqama, medical insurance, at propesyonal na service fees. Totoong gastos ang lalabas sa bulsa, pero mas mababa ito kaysa sa gastos ng isang buong kumpanya.
+        </p>
+        <h3>4. Mga Panuntunan sa Family Sponsorship</h3>
+        <p>
+          Pinapayagan ng parehong daan ang family sponsorship, pero magkaiba ang patunay. Ipinapakita ng mga empleyado ang salary certificate na <strong class="text-white">SAR 4,000–5,000</strong>; dapat ipakita ng mga freelancer ang tuloy-tuloy na kita — ang karaniwang benchmark ay SAR 5,000+ bawat buwan.
+        </p>
+        <p class="mt-4">
+          Ang mga bayad para sa dependent ay humigit-kumulang <strong class="text-white">SAR 400 bawat tao bawat buwan</strong> sa alinmang daan. Para sa eksaktong halaga para sa laki ng iyong pamilya, gamitin ang aming{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">Family Visa Optimizer</a>.
+        </p>
+        <h3>5. Validity ng Iqama at Renewal</h3>
+        <p>
+          Ang mga employment Iqama ay karaniwang 1–2 taon at nire-renew ng employer. Ang freelance Iqama ay inilalabas para sa 1 taon at nire-renew mo mismo sa pamamagitan ng MISA portal — walang employer sa loop, pero wala ring magpapaalala sa iyo.
+        </p>
+        <h3>6. Healthcare at Insurance</h3>
+        <p>
+          Ang mga may work visa ay nakakakuha ng health insurance mula sa employer — mandatory at covered. Dapat bumili ng private health insurance ang mga freelancer, karaniwang <strong class="text-white">SAR 2,000–5,000/taon</strong> depende sa coverage at sa mga dependent.
+        </p>
+        <h3>7. Career Growth at Networking</h3>
+        <p>
+          Umaakyat ang mga empleyado sa corporate ladder na may structured promotions at training na ibinibigay ng kumpanya. Lumalaki ang mga freelancer sa pamamagitan ng kanilang portfolio at client network — mas mabagal sa simula, pero lumalaki nang husto kapag naitatag na.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Espesyal na Pagsasaalang-alang para sa mga Expat (GEO Targeting)</h2>
+        <p>
+          Hinuhubog ng iyong bansang pinagmulan ang praktikal na realidad ng parehong daan. Narito ang dapat isaisip ng bawat malaking expat community.
+        </p>
+        <h3>Para sa mga South Asian Expat (Pakistan / India / Bangladesh)</h3>
+        <p>
+          Ang pinakamalaking praktikal na balakid ay ang <strong class="text-white">attestation ng degree mula sa iyong bansang pinagmulan</strong>. Parehong daan ang nangangailangan ng na-attest na educational certificates, at ang proseso — mula sa foreign affairs ministry ng iyong bansa hanggang sa Saudi cultural attaché — ay tumatagal at nagkakahalaga. Magsimula nang maaga.
+        </p>
+        <p class="mt-4">
+          Sa kultura, nananatiling nangingibabaw ang employment sa buong rehiyon: ang fixed salary ang pinagbabatayan ng badyet ng karamihan ng pamilya. Pero mabilis na lumalaki ang entrepreneurship, at ang freelance visa ay nag-aalok na ngayon ng legal na middle path para sa mga dalubhasang propesyonal na gusto ng kalayaan nang hindi nagbubukas ng buong kumpanya.
+        </p>
+        <p class="mt-4">
+          Sa mga remittance: walang paghihigpit sa pagpapadala ng freelance na kita pauwi sa pamamagitan ng mga lisensyadong channel. Ang parehong transfer fees at SADAD/IBAN rules ay nalalapat gaya ng sa sahod.
+        </p>
+        <h3>Para sa mga Filipino Expat</h3>
+        <p>
+          Kung dumating ka sa pamamagitan ng lisensyadong recruitment agency, ang iyong employment route ay may kasamang <strong class="text-white">POEA/DMW verification at isang Overseas Employment Certificate (OEC)</strong>. Ang mga requirement na iyon ay kabilang sa employer-employee track.
+        </p>
+        <p class="mt-4">
+          Binabago ng freelancing ang larawan: bilang independent contractor, hindi ka OFW sa ilalim ng karaniwang depinisyon ng employment, na nangangahulugang hindi nalalapat sa iyong visa ang POEA employment pipeline. Sa halip, dumadaan ka nang direkta sa MISA. Totoong-totoo ang demand para sa Filipino freelancers sa Kaharian — sa IT support, design, content, at administrative services — at ang freelance visa ang legal na paraan para paglingkuran ang Saudi clients nang walang employer.
+        </p>
+        <h3>Para sa mga Western Expat (US / UK / Europe)</h3>
+        <p>
+          Ang mga high-skilled na propesyonal mula sa mga bansang Kanluranin ay karaniwang madaling nakakakuha ng freelance visa: madaling gawin ang mga kwalipikasyon, portfolio, at income evidence, at routine ang MISA approval para sa mga kinikilalang propesyon.
+        </p>
+        <p class="mt-4">
+          Ang buwis ang tunay na pinagkaiba. <strong class="text-white">Dapat mag-file ang mga mamamayan ng US ng IRS returns sa worldwide income kahit nakatira sa Saudi Arabia</strong> — at ganap na dapat i-report ang freelance income. Ang mga residente ng UK ay maaaring may utang pa ring National Insurance sa ilang kaso, at maraming bansang Europeo ang nagbubuwis ng global income. Mag-budget para sa isang tax professional sa iyong bansa bago ka mag-freelance.
+        </p>
+        <p class="mt-4">
+          Ang upside sa lifestyle ang dahilan kung bakit pinipili ng maraming Western expat ang rutang ito: walang exit/re-entry approvals, ganap na kalayaan sa kliyente, at kakayahang bumuo ng global client base mula sa tax-free na base sa Riyadh o Jeddah.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Aling Visa ang Pipiliin Mo? Isang Praktikal na Decision Matrix</h2>
+        <p>
+          Itigil ang paghahambing at simulan ang pagpapasya. Sagutin ang mga tanong na ito nang sunod-sunod.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>Pinahahalagahan mo ba ang katatagan higit sa lahat?</strong> Piliin ang work visa. Ang fixed salary, employer-paid insurance, at structured renewal ay akma sa budget-driven na buhay.</li>
+            <li><strong>Pinahahalagahan mo ba ang kalayaan higit sa lahat?</strong> Piliin ang freelance visa. Maraming kliyente, walang Kafeel, at walang limitasyong upside — kung kaya mong pamahalaan ang pabago-bagong kita.</li>
+            <li><strong>May mga dependent ka ba?</strong> Ihambing nang mabuti ang patunay ng sponsorship. Ang mga empleyado ay nangangailangan ng salary certificate; ang mga freelancer ay nangangailangan ng history ng tuloy-tuloy na kita.</li>
+            <li><strong>Nagpaplano ka bang magsimula ng negosyo?</strong> Simulan sa freelance visa bilang legal, murang stepping stone bago lumipat sa full CR.</li>
+          </ul>
+        </div>
+        <h3>Mga halimbawa sa totoong buhay</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Scenario 1 — Ahmed, isang Pakistani software developer na may 5 taong karanasan:</strong> May asawa siya at dalawang anak. Ang priyoridad niya ay family sponsorship at fixed salary habang nag-iipon siya. Panalo ang work visa: ang employer-backed Iqama ay ginagawang simple at mahuhulaan ang family sponsorship.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Scenario 2 — Maria, isang Filipino marketing consultant na may maraming kliyente:</strong> Kumikita na siya ng higit sa tatlong remote clients kaysa sa dati niyang office job. Ang priyoridad niya ay kalayaan sa kliyente at hindi pagtali sa isang employer. Panalo ang freelance visa: ginagawang legal nito ang ginagawa na niya.</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">Scenario 3 — David, isang UK-based developer na nag-iisip lumipat:</strong> Gusto niyang subukan ang Saudi Arabia sa loob ng isang taon bago mag-commit. Pinahahalagahan niya ang flexibility at exit options. Panalo ang freelance visa, na may isang babala: ayusin ang mga obligasyon sa buwis sa UK bago umalis.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari ko bang i-convert ang aking work visa sa freelance visa sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo, sa karamihan ng kaso. Mag-a-apply ka para sa MISA freelance license, at kapag naaprubahan, ire-release ng employer mo ang iyong Iqama para mailipat sa freelance permit. Dumadaloy ang proseso sa MISA at sa mga kaugnay na awtoridad.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Ano ang minimum income na kailangan para sa freelance visa sa KSA 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">Walang iisang opisyal na numero, pero inaasahan ng MISA ang patunay ng tunay na freelance income. Para sa family sponsorship, ang praktikal na benchmark ay tuloy-tuloy na kita na SAR 5,000+ bawat buwan.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari bang mag-sponsor ng pamilya ang mga may freelance visa sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Makakapag-sponsor ka ng mga dependent kapag nagpakita ka ng tuloy-tuloy na kita — ang karaniwang benchmark ay SAR 5,000+ bawat buwan — at binabayaran mo ang standard dependent fees na humigit-kumulang SAR 400 bawat tao bawat buwan.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Kailangan ko ba ng sponsor para sa freelance visa sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Iyan ang katangiang nagtatangi sa freelance visa. Ang iyong paninirahan ay nakatali sa iyong MISA freelance permit sa halip na sa employer sponsor.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Magkano ang halaga ng freelance visa sa Saudi Arabia 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">Mag-budget ng SAR 2,000–3,000 para sa MISA license stage, dagdag sa Iqama fees, medical insurance (SAR 2,000–5,000/taon), at propesyonal na service fees kung gagamit ka ng consultant.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari ba akong magtrabaho para sa maraming kumpanya gamit ang work visa sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Ang work visa ay nagtatali sa iyo sa isang sponsoring employer. Ang pagtatrabaho para sa ibang kumpanya nang walang permit ay paglabag na maaaring magdulot ng multa at deportation.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Ano ang mga kwalipikadong propesyon para sa freelance visa sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Sinasaklaw ng freelance na daan ang service at knowledge professions: IT, software, design, marketing, consulting, education, content creation, translation, at mga katulad na field. Hindi kasama ang manual at retail na trabaho.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Gaano katagal bago makuha ang freelance visa sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Karaniwang 2–4 na linggo ang approval sa pamamagitan ng MISA portal, depende sa iyong propesyon at sa kumpleto ng iyong mga dokumento. Maaaring mas tumagal ang mga kumplikadong kaso.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari ba akong magbukas ng business bank account gamit ang freelance visa?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Sa aprubadong freelance permit, makakapagbukas ka ng bank account sa iyong pangalan para tumanggap ng business income at magbayad ng business expenses.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Nagbabayad ba ng Zakat ang mga freelancer sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Kinukuwenta ng mga Muslim na freelancer ang Zakat sa 2.5% sa kwalipikadong ipon at business assets na lampas sa Nisab threshold — ang parehong patakaran na nalalapat sa kanilang kayamanan anuman ang katayuan sa trabaho.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pangwakas na Salita: Katatagan o Kalayaan</h2>
+        <p>
+          Bawat desisyon sa visa ay isang trade-off sa pagitan ng dalawang bagay: katatagan at kalayaan. Ang work visa ay nagbibigay sa iyo ng predictable na sahod, employer-paid insurance, at structured sponsorship — sa halaga ng pagtali sa isang kumpanya. Ang freelance visa ay nagbibigay sa iyo ng maraming kliyente, ganap na kalayaan, at walang limitasyong potensyal na kumita — sa halaga ng pamamahala sa iyong sariling kita, insurance, at paperwork.
+        </p>
+        <p class="mt-4">
+          Walang unibersal na tamang sagot. Mayroon lamang sagot na akma sa iyong kita, iyong pamilya, at iyong pagtitiis sa panganib.
+        </p>
+        <p class="mt-4">
+          Hindi sigurado kung aling daan ang para sa iyo? Gamitin ang{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">SaudiToolHub Freelance Income Calculator</a>{' '}
+          para matantiya ang iyong potensyal na kumita bilang freelancer, o tingnan ang{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">CR Cost Estimator</a>{' '}
+          kung nagpaplano kang magsimula ng negosyo.
+        </p>
+        <p class="mt-4">
+          Para sa mas detalyadong impormasyon sa daan ng negosyo, basahin ang aming{' '}
+          <a href="/guide/hidden-costs-commercial-registration-cr-saudi-arabia-2026" class="text-desert-primary underline">Hidden Costs of Commercial Registration (CR) sa Saudi Arabia</a> guide.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Tantyahin ang Iyong Freelance Income Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — ihambing ang salary vs. freelance earnings sa isang minuto</p>
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">Gamitin ang Libreng Freelance Income Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa informational purposes batay sa kasalukuyang Saudi Ministry of Investment (MISA) at Ministry of Human Resources regulations. Maaaring magbago ang mga patakaran sa visa. Laging kumonsulta sa opisyal na kinatawan ng MISA o lisensyadong immigration lawyer para sa opisyal na payo.
+        </p>
+      </div>
+    `, bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">প্রবাসী ক্যারিয়ার গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">ফ্রিল্যান্স ভিসা বনাম ওয়ার্ক ভিসা সৌদি আরবে: ট্যাক্স, ইকামা নিয়ম ও আয়ের সীমা ২০২৬</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">প্রবাসীদের সৌদি আরবে আয়ের সুযোগ দেয় এমন দুটি পথের সরাসরি তুলনা — স্পনসরশিপের স্বাধীনতা, ট্যাক্স, আয়ের স্থিতিশীলতা, এবং এর মাঝের সবকিছু, ২০২৬ সালের জন্য।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>২০২৬ সালে কোন ভিসা ধারণ করবেন?</h2>
+        <p>
+          সৌদি আরবে ফ্রিল্যান্সিং আর কোন প্রান্তিক ধারণা নয়। ভিশন ২০৩০-এর আওতায় সরকার স্বাধীন পেশাজীবীদের জন্য — লেখক, ডেভেলপার, ডিজাইনার, মার্কেটার, পরামর্শক ও শিক্ষকদের জন্য — <strong class="text-white">MISA ফ্রিল্যান্স পারমিটের</strong> মাধ্যমে ইচ্ছাকৃতভাবে দরজা খুলে দিয়েছে। আগের যেকোনো সময়ের চেয়ে বেশি প্রবাসী এখন ঐতিহ্যবাহী কর্মসংস্থান ইকামা এবং ফ্রিল্যান্স ভিসার মধ্যে সিদ্ধান্ত নিচ্ছেন।
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">সরাসরি উত্তর:</strong> ফ্রিল্যান্স ভিসা (যাকে স্ব-কর্মসংস্থান ভিসা বা MISA ফ্রিল্যান্স লাইসেন্সও বলা হয়) আপনাকে স্পনসর ছাড়াই স্বাধীনভাবে কাজ করার অনুমতি দেয়, অন্যদিকে ঐতিহ্যবাহী ওয়ার্ক ভিসার জন্য নিয়োগকর্তার স্পনসরশিপ প্রয়োজন এবং আপনাকে একটি কোম্পানির সাথে বেঁধে রাখে। বাকি সবকিছু — ট্যাক্স, পরিবারের স্পনসরশিপ, ইকামার স্থানান্তরযোগ্যতা এবং আয়ের সম্ভাবনা — এই একটি পার্থক্য থেকেই উদ্ভূত হয়।
+        </p>
+        <p class="mt-4">
+          এই পছন্দটি কোনটি "ভালো" তা নিয়ে নয়। এটি আপনার জীবনের সাথে কোনটি মানানসই তা নিয়ে: আপনার আয়, আপনার পরিবারের পরিস্থিতি, ঝুঁকি নেওয়ার আপনার ক্ষমতা এবং রাজ্যে আপনার দীর্ঘমেয়াদি পরিকল্পনা।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">সবচেয়ে গুরুত্বপূর্ণ চারটি পার্থক্য:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">স্পনসরশিপের স্বাধীনতা:</strong> একজন নিয়োগকর্তা বনাম একাধিক ক্লায়েন্ট।</li>
+            <li><strong class="text-white">আয়ের ওঠানামা:</strong> নির্দিষ্ট বেতন বনাম পরিবর্তনশীল উপার্জন।</li>
+            <li><strong class="text-white">কর দায়বদ্ধতা:</strong> প্রায় অভিন্ন, তবে ফ্রিল্যান্সারদের জাকাত ও ভ্যাট নিজে সামলাতে হয়।</li>
+            <li><strong class="text-white">ইকামার স্থানান্তরযোগ্যতা:</strong> কাফিলের সাথে আবদ্ধ বনাম সম্পূর্ণ স্থানান্তরযোগ্য।</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          সিদ্ধান্ত নেওয়ার আগে সংখ্যাগুলো দেখে নিন। আমাদের বিনামূল্যের{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">ফ্রিল্যান্স ইনকাম ক্যালকুলেটর</a>{' '}
+          এক মিনিটের কম সময়ে দুটি পথেই আপনার বাস্তবসম্মত মাসিক আয় দেখায়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি ওয়ার্ক ভিসা সিস্টেম বোঝা (ঐতিহ্যবাহী কর্মসংস্থান)</h2>
+        <p>
+          ওয়ার্ক ভিসা এমন একটি পথ যা বেশিরভাগ প্রবাসী ইতোমধ্যেই জানেন। এটি সেই পদ্ধতি যার মাধ্যমে রাজ্যের অধিকাংশ বিদেশি কর্মী নিয়োজিত, এবং সঙ্গত কারণেই: এটি কাঠামোগত, অনুমানযোগ্য এবং কর্মীর স্বপক্ষে ভারীভাবে নিয়ন্ত্রিত।
+        </p>
+        <h3>ওয়ার্ক ভিসা (কর্মসংস্থান ইকামা) কী?</h3>
+        <p>
+          ওয়ার্ক ভিসা হলো একটি সৌদি আবাসিক পারমিট (ইকামা) যা <strong class="text-white">কাফালা</strong> ব্যবস্থার মাধ্যমে জারি করা হয়। আপনার নিয়োগকর্তা — <strong class="text-white">কাফিল</strong> — আপনার আইনি স্পনসর, এবং ইকামা তাদের নামে জারি হয়। রাজ্যে বসবাস ও কাজ করার আপনার অধিকার তাদের কারণেই রয়েছে।
+        </p>
+        <p class="mt-4">
+          নিয়োগকর্তা ভারী কাজটি নিজে করেন: আপনার ওয়ার্ক ভিসার আবেদন, নিয়োগ ফি প্রদান, আপনার ইকামা ইস্যু করা, প্রতি বছর তা নবায়ন করা এবং বাধ্যতামূলক স্বাস্থ্যবিমা প্রদান। আপনি মানব সম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয়ে (MHRSD) তাদের কর্মচারী হিসেবে নিবন্ধিত, এবং আপনার শ্রম চুক্তিই আপনার বেতন, কর্মঘণ্টা ও ছুটি নির্ধারণ করে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">সহজ ভাষায় কাফালা ব্যবস্থা:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>আপনার নিয়োগকর্তা আপনার বসবাস ও কর্মসংস্থানের স্পনসর।</li>
+            <li>আপনি আইনত শুধুমাত্র সেই নিয়োগকর্তার জন্য কাজ করতে পারেন।</li>
+            <li>আপনার ইকামা প্রতি বছর আপনার নিয়োগকর্তার মাধ্যমে নবায়িত হয়।</li>
+            <li>চাকরি পরিবর্তন মানে স্পনসর পরিবর্তন, যা নিটাকাত নিয়ম দ্বারা পরিচালিত।</li>
+          </ul>
+        </div>
+        <h3>ওয়ার্ক ভিসার যোগ্যতার প্রয়োজনীয়তা</h3>
+        <p>
+          কর্মসংস্থান ইকামার জন্য যোগ্যতা নির্ভর করে আপনি যে চাকরিতে নিয়োগ পেয়েছেন এবং আপনার যোগ্যতার উপর। প্রক্রিয়াটি মানসম্মত, তবে পেশা এবং আপনার নিজ দেশের সত্যায়ন প্রয়োজনীয়তা অনুযায়ী মানদণ্ড ভিন্ন হয়।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>সত্যায়িত শিক্ষাগত সনদ:</strong> গ্রহণের আগে আপনার ডিগ্রি অবশ্যই আপনার দেশের পররাষ্ট্র মন্ত্রণালয় এবং সৌদি দূতাবাস থেকে সত্যায়িত হতে হবে।</li>
+          <li><strong>পেশাগত অভিজ্ঞতা:</strong> জ্যেষ্ঠ পদে প্রায়ই পূর্ববর্তী কাজের প্রমাণ প্রয়োজন হয়; সৌদি ব্যবস্থা এখন ডিজিটাল ক্রেডেনশিয়াল প্রোগ্রামের মাধ্যমে এটি যাচাই করে।</li>
+          <li><strong>চিকিৎসা পরীক্ষা ও ফিঙ্গারপ্রিন্টিং:</strong> প্রতিটি নতুন আগতকে চিকিৎসা পরীক্ষা (সংক্রামক রোগসহ) এবং বায়োমেট্রিক ফিঙ্গারপ্রিন্টিং সম্পন্ন করতে হয়, সাধারণত পৌঁছানোর কয়েক দিনের মধ্যে।</li>
+          <li><strong>সর্বনিম্ন বেতনের সীমা:</strong> অনেক চাকরির শিরোনামে ভিসা ইস্যুর জন্য বেতনের ন্যূনতম সীমা রয়েছে এবং পরিবারের স্পনসরশিপ মানদণ্ড আরও বাড়িয়ে দেয়।</li>
+        </ul>
+        <h3>ওয়ার্ক ভিসা ধারকদের অধিকার ও সীমাবদ্ধতা</h3>
+        <p>
+          ওয়ার্ক ভিসা শক্তিশালী কারণ এটি কাঠামোগত। তবে সেই কাঠামোর সাথে কিছু সীমাবদ্ধতা আসে যা ফ্রিল্যান্সিংয়ের সাথে তুলনা করার আগে আপনার বুঝতে হবে।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>আপনি একজন নিয়োগকর্তার জন্য কাজ করেন।</strong> পারমিট ছাড়া অন্য কারও জন্য কাজ করা আইনি লঙ্ঘন যাতে জরিমানা ও নির্বাসন হতে পারে।</li>
+          <li><strong>অনুমতি ছাড়া ব্যবসা শুরু করতে পারবেন না।</strong> কর্মসংস্থান ইকামায় ব্যবসার মালিক হতে আলাদা অনুমোদন এবং বেশিরভাগ ক্ষেত্রে MISA লাইসেন্স প্রয়োজন।</li>
+          <li><strong>প্রস্থান ও প্রত্যাবর্তন নিয়ন্ত্রিত।</strong> প্রস্থান/প্রত্যাবর্তন ভিসা নিয়োগকর্তা নিয়ন্ত্রণ করেন; পালানো (হারুব) একটি গুরুতর অপরাধ।</li>
+          <li><strong>চাকরি পরিবর্তন নিটাকাত নিয়ম অনুসরণ করে।</strong> নতুন স্পনসরে যাওয়া অনুমোদিত, তবে সহজতা আপনার বর্তমান পেশা এবং নতুন নিয়োগকর্তার নিটাকাত রেটিংয়ের উপর নির্ভর করে।</li>
+          <li><strong>পরিবারের স্পনসরশিপ বেতন-নির্ভর।</strong> নির্ভরশীলদের স্পনসর করতে আপনার সাধারণত <strong class="text-white">SAR ৪,০০০–৫,০০০</strong> মৌলিক বেতন প্রয়োজন, পাশাপাশি ফিও দিতে হয়।</li>
+        </ul>
+        <h3>ওয়ার্ক ভিসা ধারকদের জন্য করের প্রভাব</h3>
+        <p>
+          সৌদি আরবে কোনো ব্যক্তিগত আয়কর নেই। আপনার বেতন সম্পূর্ণ পরিশোধ করা হয় — আয়করের জন্য কোনো কাটছাঁট নেই, আপনার পক্ষ থেকে কোনো পে-রোল ট্যাক্স নেই। বেশিরভাগ প্রবাসীর জন্য, রাজ্যে চাকরি এত ভালো বেতন দেওয়ার একক সবচেয়ে বড় কারণ এটি।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>কোনো ব্যক্তিগত আয়কর নেই:</strong> আপনার বেতন, বোনাস বা সুবিধায় 0%।</li>
+          <li><strong>মুসলমানদের উপর জাকাত প্রযোজ্য:</strong> নিসাব সীমার উপরে যোগ্য সঞ্চয় ও সম্পদের উপর 2.5%, আপনার ব্যক্তিগত সম্পদের ভিত্তিতে গণনা করা হয়।</li>
+          <li><strong>আপনার নিয়োগকর্তা সম্মতি সামলান:</strong> কোম্পানি নিজের দায়িত্ব ফাইল ও পরিশোধ করে — কর্মচারী হিসেবে আপনি কিছু ফাইল করেন না।</li>
+        </ul>
+        <p class="mt-4">
+          একটি জিনিস মনে রাখবেন: আপনি স্থানীয় আয়কর না দিলেও, আপনার নিজ দেশ আপনার বিশ্বব্যাপী আয়ের উপর কর দিতে পারে। উদাহরণস্বরূপ, মার্কিন নাগরিকদের সৌদি আরবে বসবাসের সময়ও IRS রিটার্ন ফাইল করতে হয়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি ফ্রিল্যান্স ভিসা সিস্টেম বোঝা (স্ব-কর্মসংস্থান)</h2>
+        <p>
+          ফ্রিল্যান্স ভিসা হলো নতুন, আরও নমনীয় পথ — এবং এটি বিদ্যমান কারণ সরকার রাজ্যে স্বাধীন পেশাজীবী চায়, শুধু কর্মচারী নয়।
+        </p>
+        <h3>ফ্রিল্যান্স ভিসা কী (MISA ফ্রিল্যান্স লাইসেন্স)?</h3>
+        <p>
+          ফ্রিল্যান্স ভিসা হলো একটি আবাসিক পারমিট যা কর্মসংস্থান চুক্তির পরিবর্তে <strong class="text-white">বিনিয়োগ মন্ত্রণালয়ের (MISA) ফ্রিল্যান্স পারমিটের</strong> সাথে সংযুক্ত। আপনি নিজেই আপনার পেশাগত সত্তা, স্পনসরিং নিয়োগকর্তা ছাড়াই একাধিক ক্লায়েন্ট সেবা করার জন্য লাইসেন্সপ্রাপ্ত।
+        </p>
+        <p class="mt-4">
+          এটি জ্ঞানভিত্তিক অর্থনীতি গড়ার ভিশন ২০৩০ প্রচেষ্টার অংশ। সরকার উপলব্ধি করেছে যে পেশাজীবীদের একটি বড় শ্রেণি — রিমোট ডেভেলপার, ডিজাইনার, পরামর্শক, কনটেন্ট ক্রিয়েটর — ঐতিহ্যবাহী কর্মচারী ছাঁচে খাপ খায় না, এবং তাদের জন্য একটি আইনি পথ তৈরি করেছে।
+        </p>
+        <h3>ফ্রিল্যান্স ভিসার যোগ্যতার প্রয়োজনীয়তা</h3>
+        <p>
+          আপনার স্পনসর লাগবে না, তবে প্রমাণ করতে হবে যে আপনি একজন প্রকৃত পেশাজীবী যার বিক্রয়যোগ্য দক্ষতা রয়েছে।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>পেশাগত যোগ্যতা:</strong> আপনার ক্ষেত্রে ডিগ্রি, ডিপ্লোমা বা স্বীকৃত সার্টিফিকেট।</li>
+          <li><strong>পোর্টফোলিও বা দক্ষতার প্রমাণ:</strong> আগের প্রকল্প, ক্লায়েন্ট রেফারেন্স, প্রকাশিত কাজ বা পেশাদার প্রোফাইল।</li>
+          <li><strong>আয়ের প্রমাণ:</strong> MISA প্রমাণ চায় যে ফ্রিল্যান্সিং একটি প্রকৃত আয়ের উৎস, শখ নয়।</li>
+          <li><strong>যোগ্য পেশা:</strong> ফ্রিল্যান্স পথটি আইটি, মার্কেটিং, ডিজাইন, পরামর্শ, শিক্ষা, কনটেন্ট তৈরি, অনুবাদ ও অনুরূপ সেবা খাতকে আওতাভুক্ত করে — হাতে-কাজ বা খুচরা কাজ নয়।</li>
+        </ul>
+        <h3>ফ্রিল্যান্স ভিসার আবেদন প্রক্রিয়া</h3>
+        <p>
+          প্রক্রিয়াটি মূলত MISA পোর্টালের মাধ্যমে চলে, এবং আপনি নিজে করতে পারলেও, প্রত্যাখ্যাত আবেদন এড়াতে বেশিরভাগ প্রথমবারের আবেদনকারী লাইসেন্সপ্রাপ্ত PRO বা পরামর্শক ব্যবহার করেন।
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>MISA পোর্টালে একটি অ্যাকাউন্ট তৈরি করুন।</strong> আপনার পাসপোর্ট ও ইকামা তথ্য দিয়ে নিবন্ধন করুন।</li>
+          <li><strong>আপনার নথি জমা দিন।</strong> পাসপোর্ট কপি, ইকামা কপি, শিক্ষাগত সনদ, পোর্টফোলিও এবং একটি সংক্ষিপ্ত পেশাদার প্রোফাইল।</li>
+          <li><strong>আবেদন ফি পরিশোধ করুন।</strong> প্রাথমিক লাইসেন্সিং পর্যায়ের জন্য প্রায় SAR ২,০০০–৩,০০০ বাজেট করুন।</li>
+          <li><strong>অনুমোদনের অপেক্ষা করুন।</strong> সাধারণ প্রক্রিয়াকরণে ২–৪ সপ্তাহ লাগে; জটিল পেশায় বেশি সময় লাগতে পারে।</li>
+          <li><strong>আপনার ইকামা পান এবং একটি ব্যবসায়িক ব্যাংক অ্যাকাউন্ট খুলুন।</strong> অনুমোদিত ফ্রিল্যান্স পারমিটের সাথে আপনি ব্যবসায়িক আয়ের জন্য নিজের নামে ব্যাংক অ্যাকাউন্ট খুলতে পারবেন।</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">প্রয়োজনীয় নথির চেকলিস্ট:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>বৈধ পাসপোর্ট ও ইকামা কপি।</li>
+            <li>সত্যায়িত শিক্ষাগত সনদ।</li>
+            <li>পোর্টফোলিও বা ক্লায়েন্ট রেফারেন্স।</li>
+            <li>ফ্রিল্যান্স আয়ের ইতিহাস দেখানো ব্যাংক স্টেটমেন্ট (যেখানে প্রযোজ্য)।</li>
+          </ul>
+        </div>
+        <h3>ফ্রিল্যান্স ভিসা ধারকদের অধিকার ও স্বাধীনতা</h3>
+        <p>
+          স্বাধীনতাগুলো সত্যিকারের, এবং এটাই বেশিরভাগ মানুষ স্যুইচ করার কারণ।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>একই সাথে একাধিক ক্লায়েন্ট।</strong> কোনো একক নিয়োগকর্তা আপনার কাজের চাপ নিয়ন্ত্রণ করে না।</li>
+          <li><strong>পরিবারের স্পনসরশিপ।</strong> ধারাবাহিক আয় প্রমাণ করলে আপনি নির্ভরশীলদের স্পনসর করতে পারেন — সাধারণত মাসে SAR ৫,০০০+।</li>
+          <li><strong>ব্যবসায়িক ব্যাংক অ্যাকাউন্ট।</strong> ব্যবসায়িক আয়ের জন্য নিজের নামে অ্যাকাউন্ট রাখতে পারবেন।</li>
+          <li><strong>প্রস্থান/প্রত্যাবর্তন ভিসার উপর নির্ভরশীলতা নেই।</strong> ভ্রমণের জন্য নিয়োগকর্তার অনুমোদনের অপেক্ষায় আটকে থাকবেন না।</li>
+          <li><strong>কোম্পানির দিকে সোপানপাথর।</strong> প্রস্তুত হলে ফ্রিল্যান্স লাইসেন্স সম্পূর্ণ বাণিজ্যিক নিবন্ধন (সিআর)-এ বেড়ে উঠতে পারে।</li>
+        </ul>
+        <h3>ফ্রিল্যান্সারদের জন্য কর ও জাকাত দায়বদ্ধতা</h3>
+        <p>
+          ফ্রিল্যান্সাররা এখনও কর্মচারীদের মতো একই 0% ব্যক্তিগত আয়কর উপভোগ করেন — তবে প্রশাসনিক কাজ নিজেরাই সামলান।
+        </p>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>কোনো ব্যক্তিগত আয়কর নেই:</strong> আপনার ফ্রিল্যান্স উপার্জনে আয়কর হিসেবে কর ধার্য হয় না।</li>
+          <li><strong>আপনার সম্পদের উপর জাকাত:</strong> নিসাবের উপরে যোগ্য সঞ্চয় ও ব্যবসায়িক সম্পদের উপর 2.5%।</li>
+          <li><strong>ভ্যাট নিবন্ধন:</strong> একবার আপনার বার্ষিক আয় <strong class="text-white">SAR ৩,৭৫,০০০</strong> অতিক্রম করলে, আপনাকে ZATCA-তে নিবন্ধিত হতে হবে এবং করযোগ্য পণ্যের উপর 15% ভ্যাট আদায় করতে হবে।</li>
+          <li><strong>রেকর্ড রাখা:</strong> আপনাকে ইনভয়েস ইস্যু করতে, খরচ ট্র্যাক করতে এবং হিসাব রাখতে হবে — কারণ রিপোর্ট আপনিই করেন।</li>
+        </ul>
+        <p class="mt-4">
+          আপনার আয়ে জাকাত কীভাবে গণনা করা হয় তার সম্পূর্ণ ব্যাখ্যার জন্য, আমাদের{' '}
+          <a href="/guide/zakat-calculation-guide-saudi-arabia-2026" class="text-desert-primary underline">জাকাত গণনা গাইড ২০২৬</a>{' '}
+          পড়ুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>মুখোমুখি তুলনা: ফ্রিল্যান্স ভিসা বনাম ওয়ার্ক ভিসা</h2>
+        <p>
+          এখন ব্যবহারিক অংশ। দেখুন দুটি পথ আপনার জীবনে সত্যিই প্রভাব ফেলা সাতটি সিদ্ধান্তে কীভাবে দাঁড়ায়।
+        </p>
+        <h3>১. স্পনসরশিপ ও স্বাধীনতা</h3>
+        <p>
+          ওয়ার্ক ভিসা আপনার কাফিলের সাথে নোঙর করা। চাকরি পরিবর্তনের জন্য আপনার স্পনসরের রিলিজ, নতুন স্পনসর এবং নিটাকাত-নির্ভর অনুমোদন প্রয়োজন — একটি প্রক্রিয়া যা সপ্তাহ লাগতে পারে এবং মাঝে মাঝে আপনাকে আটকে রাখে।
+        </p>
+        <p class="mt-4">
+          ফ্রিল্যান্স ভিসা নোঙরটি সম্পূর্ণরূপে সরিয়ে দেয়। আপনি নিজের পেশাগত জীবনের স্পনসর, বিশ্বের যেকোনো জায়গা থেকে ক্লায়েন্ট নিতে এবং কারও অনুমতি ছাড়াই ফোকাস পরিবর্তন করতে স্বাধীন।
+        </p>
+        <h3>২. আয়ের স্থিতিশীলতা ও উপার্জনের সম্ভাবনা</h3>
+        <p>
+          ওয়ার্ক ভিসা মানে নির্দিষ্ট মাসিক বেতন। এটি অনুমানযোগ্য, ব্যাংকযোগ্য এবং এর চারপাশে পরিবারের বাজেট পরিকল্পনা করা সহজ। ফ্রিল্যান্স ভিসা মানে পরিবর্তনশীল আয় — তবে কোনো সীমা ছাড়াই।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব আয়ের উদাহরণ (২০২৬):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>জ্যেষ্ঠ সফটওয়্যার ডেভেলপার (নিয়োজিত):</strong> মাসে SAR ২২,০০০–৩৫,০০০, নির্দিষ্ট।</li>
+            <li><strong>জ্যেষ্ঠ সফটওয়্যার ডেভেলপার (ফ্রিল্যান্স):</strong> মাসে SAR ১৫,০০০–৬০,০০০, চুক্তির প্রবাহ অনুযায়ী পরিবর্তনশীল।</li>
+            <li><strong>মার্কেটিং পরামর্শক (নিয়োজিত):</strong> মাসে SAR ১২,০০০–২০,০০০, নির্দিষ্ট।</li>
+            <li><strong>মার্কেটিং পরামর্শক (ফ্রিল্যান্স):</strong> মাসে SAR ৮,০০০–৪০,০০০, ক্লায়েন্ট নির্ভর।</li>
+          </ul>
+        </div>
+        <h3>৩. খরচ ও ফি</h3>
+        <p>
+          ওয়ার্ক ভিসায়, আপনার নিয়োগকর্তা বেশিরভাগ খরচ বহন করেন: নিয়োগ, ইকামা ইস্যু, বার্ষিক নবায়ন এবং স্বাস্থ্যবিমা।
+        </p>
+        <p class="mt-4">
+          ফ্রিল্যান্সার হিসেবে, আপনি নিজেই সব অর্থায়ন করেন: MISA লাইসেন্স (SAR ২,০০০–৩,০০০), ইকামা ফি, চিকিৎসা বিমা এবং পেশাদার সেবা ফি। পকেটের খরচ সত্যিকারের, তবে এটি একটি সম্পূর্ণ কোম্পানির খরচের চেয়ে অনেক কম।
+        </p>
+        <h3>৪. পরিবারের স্পনসরশিপের নিয়ম</h3>
+        <p>
+          উভয় পথই পরিবারের স্পনসরশিপের অনুমতি দেয়, তবে প্রমাণ আলাদা। কর্মচারীরা <strong class="text-white">SAR ৪,০০০–৫,০০০</strong> বেতন সনদ দেখান; ফ্রিল্যান্সারদের ধারাবাহিক আয় দেখাতে হয় — সাধারণ মানদণ্ড মাসে SAR ৫,০০০+।
+        </p>
+        <p class="mt-4">
+          নির্ভরশীল ফি যেকোনো পথেই প্রতি জন প্রতি মাসে প্রায় <strong class="text-white">SAR ৪০০</strong>। আপনার পরিবারের আকারের জন্য সঠিক চিত্র পেতে, আমাদের{' '}
+          <a href="/family-visa-optimizer" class="text-desert-primary underline">ফ্যামিলি ভিসা অপটিমাইজার</a>{' '}
+          ব্যবহার করুন।
+        </p>
+        <h3>৫. ইকামার বৈধতা ও নবায়ন</h3>
+        <p>
+          কর্মসংস্থান ইকামা সাধারণত ১–২ বছরের হয় এবং নিয়োগকর্তা নবায়ন করেন। ফ্রিল্যান্স ইকামা ১ বছরের জন্য জারি হয় এবং আপনি MISA পোর্টালের মাধ্যমে নিজেই নবায়ন করেন — চক্রে নিয়োগকর্তা নেই, তবে মনে করিয়ে দেওয়ার কেউও নেই।
+        </p>
+        <h3>৬. স্বাস্থ্যসেবা ও বীমা</h3>
+        <p>
+          ওয়ার্ক ভিসা ধারকরা নিয়োগকর্তা-প্রদত্ত স্বাস্থ্যবিমা পান — বাধ্যতামূলক এবং আচ্ছাদিত। ফ্রিল্যান্সারদের অবশ্যই ব্যক্তিগত স্বাস্থ্যবিমা কিনতে হয়, সাধারণত <strong class="text-white">প্রতি বছর SAR ২,০০০–৫,০০০</strong> কভারেজ ও নির্ভরশীলদের ভিত্তিতে।
+        </p>
+        <h3>৭. ক্যারিয়ার বৃদ্ধি ও নেটওয়ার্কিং</h3>
+        <p>
+          কর্মচারীরা কাঠামোগত পদোন্নতি এবং কোম্পানি-প্রদত্ত প্রশিক্ষণের সাথে কর্পোরেট সিঁড়ি বেয়ে ওঠে। ফ্রিল্যান্সাররা পোর্টফোলিও এবং ক্লায়েন্ট নেটওয়ার্কের মাধ্যমে বেড়ে ওঠে — শুরুতে ধীর, তবে প্রতিষ্ঠিত হলে দ্রুত গুনগত।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রবাসীদের জন্য বিশেষ বিবেচনা (জিও টার্গেটিং)</h2>
+        <p>
+          আপনার নিজ দেশ উভয় পথের ব্যবহারিক বাস্তবতা তৈরি করে। প্রতিটি বড় প্রবাসী সম্প্রদায়ের কী মনে রাখা উচিত তা এখানে।
+        </p>
+        <h3>দক্ষিণ এশীয় প্রবাসীদের জন্য (পাকিস্তান / ভারত / বাংলাদেশ)</h3>
+        <p>
+          সবচেয়ে বড় ব্যবহারিক বাধা হলো আপনার দেশ থেকে <strong class="text-white">ডিগ্রি সত্যায়ন</strong>। উভয় পথেই সত্যায়িত শিক্ষাগত সনদ প্রয়োজন, এবং প্রক্রিয়াটি — আপনার দেশের পররাষ্ট্র মন্ত্রণালয় থেকে সৌদি কালচারাল অ্যাটাশে পর্যন্ত — সময় ও অর্থ নেয়। তাড়াতাড়ি শুরু করুন।
+        </p>
+        <p class="mt-4">
+          সাংস্কৃতিকভাবে, সমগ্র অঞ্চলে কর্মসংস্থানই প্রধান পছন্দ রয়ে গেছে: নির্দিষ্ট বেতনই বেশিরভাগ পরিবারের বাজেটের ভিত্তি। তবে উদ্যোক্তা দ্রুত বেড়ে চলেছে, এবং ফ্রিল্যান্স ভিসা এখন দক্ষ পেশাজীবীদের জন্য একটি আইনি মধ্যম পথ দেয় যারা সম্পূর্ণ কোম্পানি না খুলে স্বাধীনতা চান।
+        </p>
+        <p class="mt-4">
+          রেমিট্যান্সের বিষয়ে: লাইসেন্সপ্রাপ্ত চ্যানেলের মাধ্যমে ফ্রিল্যান্স উপার্জন দেশে পাঠানোর কোনো নিষেধাজ্ঞা নেই। বেতনের মতোই একই ট্রান্সফার ফি এবং সাদাদ/আইবিএএন নিয়ম প্রযোজ্য।
+        </p>
+        <h3>ফিলিপিনো প্রবাসীদের জন্য</h3>
+        <p>
+          আপনি যদি লাইসেন্সপ্রাপ্ত নিয়োগ সংস্থার মাধ্যমে এসে থাকেন, আপনার কর্মসংস্থান পথে <strong class="text-white">POEA/DMW যাচাই এবং একটি ওভারসিজ এমপ্লয়মেন্ট সার্টিফিকেট (OEC)</strong> জড়িত। এই প্রয়োজনীয়তাগুলো নিয়োগকর্তা-কর্মচারী ট্র্যাকে অন্তর্ভুক্ত।
+        </p>
+        <p class="mt-4">
+          ফ্রিল্যান্সিং ছবিটি বদলে দেয়: স্বাধীন ঠিকাদার হিসেবে, আপনি কর্মসংস্থানের মানসম্মত সংজ্ঞার অধীনে OFW নন, যার অর্থ POEA কর্মসংস্থান পাইপলাইন আপনার ভিসায় প্রযোজ্য নয়। পরিবর্তে, আপনি সরাসরি MISA-এর মাধ্যমে যান। রাজ্যে ফিলিপিনো ফ্রিল্যান্সারদের চাহিদা সত্যিকারের — আইটি সাপোর্ট, ডিজাইন, কনটেন্ট এবং প্রশাসনিক সেবায় — এবং ফ্রিল্যান্স ভিসা নিয়োগকর্তা ছাড়া সৌদি ক্লায়েন্টদের সেবা করার আইনি উপায়।
+        </p>
+        <h3>পশ্চিমা প্রবাসীদের জন্য (ইউএস / ইউকে / ইউরোপ)</h3>
+        <p>
+          পশ্চিমা দেশগুলির উচ্চ দক্ষ পেশাজীবীরা সাধারণত ফ্রিল্যান্স ভিসা সহজ মনে করেন: যোগ্যতা, পোর্টফোলিও এবং আয়ের প্রমাণ তৈরি করা সহজ, এবং স্বীকৃত পেশার জন্য MISA অনুমোদন রুটিন।
+        </p>
+        <p class="mt-4">
+          করের দিকটাই আসল পার্থক্য। <strong class="text-white">মার্কিন নাগরিকদের সৌদি আরবে বসবাসের সময়ও বিশ্বব্যাপী আয়ে IRS রিটার্ন ফাইল করতে হয়</strong> — এবং ফ্রিল্যান্স আয় সম্পূর্ণ রিপোর্টযোগ্য। যুক্তরাজ্যের বাসিন্দারা কিছু ক্ষেত্রে ন্যাশনাল ইনস্যুরেন্সের ঋণী থাকতে পারেন, এবং অনেক ইউরোপীয় দেশ বিশ্বব্যাপী আয়ের উপর কর ধার্য করে। ফ্রিল্যান্স করার আগে আপনার দেশে কর পেশাদারের জন্য বাজেট করুন।
+        </p>
+        <p class="mt-4">
+          লাইফস্টাইলের সুবিধা হলো কেন অনেক পশ্চিমা প্রবাসী এই পথ বেছে নেন: প্রস্থান/প্রত্যাবর্তন অনুমোদন নেই, সম্পূর্ণ ক্লায়েন্ট স্বাধীনতা এবং রিয়াদ বা জেদ্দায় করমুক্ত ভিত্তি থেকে বিশ্বব্যাপী ক্লায়েন্ট বেস গড়ার ক্ষমতা।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>কোন ভিসা বেছে নেবেন? একটি ব্যবহারিক সিদ্ধান্ত ম্যাট্রিক্স</h2>
+        <p>
+          তুলনা বন্ধ করে সিদ্ধান্ত শুরু করুন। এই প্রশ্নগুলো ক্রমানুসারে কাজ করুন।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong>আপনি কি সবচেয়ে বেশি স্থিতিশীলতাকে মূল্য দেন?</strong> ওয়ার্ক ভিসা বেছে নিন। নির্দিষ্ট বেতন, নিয়োগকর্তা-প্রদত্ত বীমা এবং কাঠামোগত নবায়ন বাজেট-ভিত্তিক জীবনের সাথে মানানসই।</li>
+            <li><strong>আপনি কি সবচেয়ে বেশি স্বাধীনতাকে মূল্য দেন?</strong> ফ্রিল্যান্স ভিসা বেছে নিন। একাধিক ক্লায়েন্ট, কাফিল নেই, সীমাহীন সুযোগ — যদি আপনি ওঠানামা সামলাতে পারেন।</li>
+            <li><strong>আপনার কি নির্ভরশীল আছে?</strong> স্পনসরশিপের প্রমাণ সাবধানে তুলনা করুন। কর্মচারীদের বেতন সনদ দরকার; ফ্রিল্যান্সারদের ধারাবাহিক আয়ের ইতিহাস দরকার।</li>
+            <li><strong>আপনি কি ব্যবসা শুরু করার পরিকল্পনা করছেন?</strong> সম্পূর্ণ সিআর-এ যাওয়ার আগে ফ্রিল্যান্স ভিসা দিয়ে আইনি, কম খরচের সোপানপাথর হিসেবে শুরু করুন।</li>
+          </ul>
+        </div>
+        <h3>বাস্তব জীবনের পরিস্থিতি</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">পরিস্থিতি ১ — আহমেদ, ৫ বছরের অভিজ্ঞতাসম্পন্ন একজন পাকিস্তানি সফটওয়্যার ডেভেলপার:</strong> তার স্ত্রী ও দুই সন্তান রয়েছে। তার অগ্রাধিকার পরিবারের স্পনসরশিপ এবং নির্দিষ্ট বেতন, যখন সে সঞ্চয় করছে। ওয়ার্ক ভিসা জয়ী: নিয়োগকর্তা-সমর্থিত ইকামা পরিবারের স্পনসরশিপকে সহজ এবং অনুমানযোগ্য করে তোলে।</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">পরিস্থিতি ২ — মারিয়া, একাধিক ক্লায়েন্টসহ একজন ফিলিপিনো মার্কেটিং পরামর্শক:</strong> সে ইতোমধ্যে তিনটি রিমোট ক্লায়েন্ট থেকে তার পুরোনো অফিস চাকরির চেয়ে বেশি আয় করে। তার অগ্রাধিকার ক্লায়েন্ট স্বাধীনতা এবং এক নিয়োগকর্তার সাথে বাঁধা না থাকা। ফ্রিল্যান্স ভিসা জয়ী: এটি সে যা করছে তা বৈধ করে।</p>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-3 text-sm text-gray-300">
+          <p><strong class="text-white">পরিস্থিতি ৩ — ডেভিড, স্থানান্তর বিবেচনাকারী ইউকে-ভিত্তিক একজন ডেভেলপার:</strong> সে প্রতিশ্রুতির আগে এক বছরের জন্য সৌদি আরব পরীক্ষা করতে চায়। সে নমনীয়তা এবং প্রস্থান বিকল্পকে মূল্য দেয়। ফ্রিল্যান্স ভিসা জয়ী, একটি সতর্কতা সহ: চলে যাওয়ার আগে যুক্তরাজ্যের কর দায়বদ্ধতা মেটান।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে কি আমার ওয়ার্ক ভিসা ফ্রিল্যান্স ভিসায় রূপান্তর করতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ, বেশিরভাগ ক্ষেত্রে। আপনি MISA ফ্রিল্যান্স লাইসেন্সের জন্য আবেদন করেন, এবং একবার অনুমোদিত হলে, আপনার নিয়োগকর্তা আপনার ইকামা রিলিজ করেন যাতে এটি ফ্রিল্যান্স পারমিটে স্থানান্তরিত হয়। প্রক্রিয়াটি MISA এবং সংশ্লিষ্ট কর্তৃপক্ষের মাধ্যমে চলে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ২০২৬ সালে ফ্রিল্যান্স ভিসার জন্য ন্যূনতম আয় কত প্রয়োজন?</p>
+            <p class="text-gray-400 text-sm mt-1">কোনো একক সরকারি চিত্র নেই, তবে MISA প্রকৃত ফ্রিল্যান্স আয়ের প্রমাণ আশা করে। পরিবারের স্পনসরশিপের জন্য, ব্যবহারিক মানদণ্ড মাসে SAR ৫,০০০+ ধারাবাহিক আয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ফ্রিল্যান্স ভিসা ধারকরা কি পরিবারের স্পনসরশিপ করতে পারেন?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। ধারাবাহিক আয় দেখালে আপনি নির্ভরশীলদের স্পনসর করতে পারেন — সাধারণ মানদণ্ড মাসে SAR ৫,০০০+ — এবং প্রতি জন প্রতি মাসে প্রায় SAR ৪০০ মানসম্মত নির্ভরশীল ফি প্রদান করেন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ফ্রিল্যান্স ভিসার জন্য কি আমার স্পনসর দরকার?</p>
+            <p class="text-gray-400 text-sm mt-1">না। এটিই ফ্রিল্যান্স ভিসার নির্ধারক বৈশিষ্ট্য। আপনার বসবাস নিয়োগকর্তা স্পনসরের পরিবর্তে আপনার MISA ফ্রিল্যান্স পারমিটের সাথে সংযুক্ত।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ২০২৬ সালে ফ্রিল্যান্স ভিসার খরচ কত?</p>
+            <p class="text-gray-400 text-sm mt-1">MISA লাইসেন্স পর্যায়ের জন্য SAR ২,০০০–৩,০০০ বাজেট করুন, পাশাপাশি ইকামা ফি, চিকিৎসা বিমা (প্রতি বছর SAR ২,০০০–৫,০০০) এবং পরামর্শক ব্যবহার করলে পেশাদার সেবা ফি।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ওয়ার্ক ভিসা দিয়ে কি একাধিক কোম্পানির জন্য কাজ করতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">না। ওয়ার্ক ভিসা আপনাকে একজন স্পনসরিং নিয়োগকর্তার সাথে বেঁধে রাখে। পারমিট ছাড়া অন্য কোম্পানির জন্য কাজ করা লঙ্ঘন যাতে জরিমানা ও নির্বাসন হতে পারে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ফ্রিল্যান্স ভিসার যোগ্য পেশাগুলো কী কী?</p>
+            <p class="text-gray-400 text-sm mt-1">ফ্রিল্যান্স পথটি সেবা ও জ্ঞান পেশাকে আওতাভুক্ত করে: আইটি, সফটওয়্যার, ডিজাইন, মার্কেটিং, পরামর্শ, শিক্ষা, কনটেন্ট তৈরি, অনুবাদ এবং অনুরূপ খাত। হাতে-কাজ এবং খুচরা কাজ আওতাভুক্ত নয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ফ্রিল্যান্স ভিসা পেতে কত সময় লাগে?</p>
+            <p class="text-gray-400 text-sm mt-1">MISA পোর্টালের মাধ্যমে সাধারণত ২–৪ সপ্তাহে অনুমোদন আসে, আপনার পেশা এবং নথির সম্পূর্ণতার উপর নির্ভর করে। জটিল ক্ষেত্রে বেশি সময় লাগতে পারে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: ফ্রিল্যান্স ভিসা দিয়ে কি ব্যবসায়িক ব্যাংক অ্যাকাউন্ট খুলতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। অনুমোদিত ফ্রিল্যান্স পারমিটের সাথে, আপনি ব্যবসায়িক আয় গ্রহণ এবং ব্যবসায়িক খরচ পরিশোধের জন্য নিজের নামে ব্যাংক অ্যাকাউন্ট খুলতে পারবেন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ফ্রিল্যান্সাররা কি জাকাত দেন?</p>
+            <p class="text-gray-400 text-sm mt-1">মুসলিম ফ্রিল্যান্সাররা নিসাব সীমার উপরে যোগ্য সঞ্চয় ও ব্যবসায়িক সম্পদের উপর 2.5% হারে জাকাত গণনা করেন — কর্মসংস্থান অবস্থা নির্বিশেষে তাদের সম্পদের উপর প্রযোজ্য একই নিয়ম।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সবশেষ কথা: স্থিতিশীলতা না স্বাধীনতা</h2>
+        <p>
+          প্রতিটি ভিসা সিদ্ধান্ত দুটি জিনিসের মধ্যে একটি বাণিজ্য: স্থিতিশীলতা এবং স্বাধীনতা। ওয়ার্ক ভিসা আপনাকে অনুমানযোগ্য বেতন, নিয়োগকর্তা-প্রদত্ত বীমা এবং কাঠামোগত স্পনসরশিপ দেয় — একটি কোম্পানির সাথে আবদ্ধ থাকার মূল্যে। ফ্রিল্যান্স ভিসা আপনাকে একাধিক ক্লায়েন্ট, সম্পূর্ণ স্বাধীনতা এবং সীমাহীন উপার্জনের সম্ভাবনা দেয় — নিজের আয়, বীমা এবং কাগজপত্র সামলানোর মূল্যে।
+        </p>
+        <p class="mt-4">
+          কোনো সার্বজনীন সঠিক উত্তর নেই। শুধু সেই উত্তরটি আছে যা আপনার আয়, আপনার পরিবার এবং আপনার ঝুঁকি সহনশীলতার সাথে মানানসই।
+        </p>
+        <p class="mt-4">
+          কোন পথটি আপনার জন্য সঠিক তা নিশ্চিত নন?{' '}
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">SaudiToolHub ফ্রিল্যান্স ইনকাম ক্যালকুলেটর</a>{' '}
+          ব্যবহার করে ফ্রিল্যান্সার হিসেবে আপনার উপার্জনের সম্ভাবনা অনুমান করুন, অথবা ব্যবসা শুরু করার পরিকল্পনা থাকলে{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">সিআর কস্ট এস্টিমেটর</a>{' '}
+          দেখুন।
+        </p>
+        <p class="mt-4">
+          ব্যবসার পথ সম্পর্কে আরও বিশদে, আমাদের{' '}
+          <a href="/guide/hidden-costs-commercial-registration-cr-saudi-arabia-2026" class="text-desert-primary underline">সৌদি আরবে বাণিজ্যিক নিবন্ধন (সিআর)-এর লুকানো খরচ</a>{' '}
+          গাইডটি পড়ুন।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার ফ্রিল্যান্স আয় অনুমান করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — এক মিনিটে বেতন বনাম ফ্রিল্যান্স উপার্জন তুলনা করুন</p>
+          <a href="/freelance-income-calculator" class="text-desert-primary underline">বিনামূল্যের ফ্রিল্যান্স ইনকাম ক্যালকুলেটর ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই গাইডটি বর্তমান সৌদি বিনিয়োগ মন্ত্রণালয় (MISA) এবং মানব সম্পদ মন্ত্রণালয়ের নিয়মের ভিত্তিতে তথ্যমূলক উদ্দেশ্যে। ভিসা নীতি পরিবর্তনযোগ্য। অফিসিয়াল পরামর্শের জন্য সর্বদা MISA-এর অফিসিয়াল প্রতিনিধি বা লাইসেন্সপ্রাপ্ত ইমিগ্রেশন আইনজীবীর সাথে পরামর্শ করুন।
+        </p>
+      </div>
+    ` }
+  },
+  {
+    slug: 'hidden-costs-commercial-registration-cr-saudi-arabia-2026',
+    category: 'business',
+    readTime: '16 min read',
+    date: '2026-08-04',
+    title: {
+      en: 'Hidden Costs of Commercial Registration (CR) in Saudi Arabia: Chamber, MISA & Municipal Fees 2026',
+      ar: 'التكاليف الخفية للسجل التجاري في السعودية: رسوم الغرفة التجارية ووزارة الاستثمار والبلدية 2026',
+      ur: 'سعودی عرب میں کمرشل رجسٹریشن (CR) کے پوشیدہ اخراجات: چیمبر، MISA اور میونسپل فیس 2026',
+      tl: 'Nakatagong Gastos ng Commercial Registration (CR) sa Saudi Arabia: Chamber, MISA at Municipal Fees 2026',
+      bn: 'সৌদি আরবে কমার্শিয়াল রেজিস্ট্রেশন (CR)-এর লুকানো খরচ: চেম্বার, MISA ও মিউনিসিপাল ফি ২০২৬',
+    },
+    description: {
+      en: 'What does a CR really cost in Saudi Arabia 2026? Compare MISA license fees, Chamber of Commerce membership, municipal licenses, and hidden recurring costs for expats.',
+      ar: 'كم تكلفة السجل التجاري فعلياً في السعودية 2026؟ قارن رسوم ترخيص الاستثمار واشتراك الغرفة التجارية ورخص البلدية والتكاليف السنوية الخفية للوافدين.',
+      ur: 'سعودی عرب 2026 میں CR کی اصل لاگت کتنی ہے؟ MISA لائسنس فیس، چیمبر آف کامرس ممبرشپ، میونسپل لائسنس اور ایکسپیٹس کے لیے پوشیدہ سالانہ اخراجات کا موازنہ کریں۔',
+      tl: 'Magkano ba talaga ang halaga ng CR sa Saudi Arabia 2026? Ikumpara ang MISA license fees, Chamber of Commerce membership, municipal licenses, at mga nakatagong paulit-ulit na gastos para sa mga expat.',
+      bn: 'সৌদি আরব ২০২৬-এ CR-এর আসল খরচ কত? এক্সপ্যাটদের জন্য MISA লাইসেন্স ফি, চেম্বার অফ কমার্স সদস্যপদ, মিউনিসিপাল লাইসেন্স ও লুকানো বার্ষিক খরচ তুলনা করুন।',
+    },
+    metaTitle: {
+      en: 'Hidden CR Costs in Saudi Arabia 2026: Complete Fee Breakdown',
+      ar: 'التكاليف الخفية للسجل التجاري في السعودية 2026: تفصيل كامل للرسوم',
+      ur: 'سعودی عرب 2026 میں CR کے پوشیدہ اخراجات: مکمل فیس کی تفصیل',
+      tl: 'Nakatagong Halaga ng CR sa Saudi Arabia 2026: Kumpletong Pagbabahagi ng Bayad',
+      bn: 'সৌদি আরব ২০২৬-এ লুকানো CR খরচ: সম্পূর্ণ ফি ভাঙন',
+    },
+    content: { en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Business Setup Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Hidden Costs of Commercial Registration (CR) in Saudi Arabia: Chamber, MISA & Municipal Fees 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">The full, honest breakdown of what a CR really costs — the visible fee everyone budgets for and the hidden ones that shock new business owners every year.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Why Your CR Budget Is Probably Wrong</h2>
+        <p>
+          Starting a business in Saudi Arabia is exciting. You have the idea, the market, and the confidence. Then the fees start arriving — and most new owners discover that the number on the government portal was only the beginning.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direct answer:</strong> While the basic CR registration fee is SAR 1,000–2,000, the total cost of business setup in Saudi Arabia typically ranges from <strong class="text-desert-primary">SAR 5,000 to SAR 15,000+</strong> when you include Chamber of Commerce fees, MISA license costs (for expats), municipal licenses, and hidden administrative charges.
+        </p>
+        <p class="mt-4">
+          This guide exists because most expats budget only for the basic CR fee and get shocked by the additional costs. Every single charge below is real, recurring, and easy to miss — and knowing them before you start is the difference between a smooth launch and a cash crunch.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">What you will get from this guide:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>The true cost of a CR broken into every government and private fee.</li>
+            <li>Six hidden costs that surprise almost every new business owner.</li>
+            <li>Real-world year-one budgets for four different business types.</li>
+            <li>Cost-saving strategies and the mistakes that inflate your bill.</li>
+            <li>Direct answers to the most-searched CR cost questions for 2026.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Before you start, get an accurate estimate with our free{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">CR Cost Estimator</a> — it builds a personalized startup budget from your city, activity, and entity type.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Understanding Commercial Registration (CR) in Saudi Arabia</h2>
+        <p>
+          A Commercial Registration (CR), known in Arabic as Sijil Tijari (السجل التجاري), is the official license issued by the Ministry of Commerce that authorizes an individual or entity to conduct business in the Kingdom. Without it, you cannot legally sell, contract, hire, import, or open a business bank account.
+        </p>
+        <h3>What is Commercial Registration (CR)?</h3>
+        <p>
+          The CR is your business's legal identity. It records your entity type, business name, activities, capital, owners, and address — and it must be renewed every year. Banks, suppliers, government agencies, and your visa processes all reference your CR number.
+        </p>
+        <p class="mt-4">
+          The key distinction: <strong class="text-white">Saudi nationals register directly with the Ministry of Commerce, while expats must first obtain a license from MISA</strong> (Ministry of Investment) before they can hold a CR. That single difference changes your setup cost dramatically.
+        </p>
+        <h3>Types of CR in Saudi Arabia</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Sole Proprietorship (Individual CR):</strong> one owner, full liability, simplest structure.</li>
+          <li><strong>Limited Liability Company (LLC):</strong> multiple shareholders, limited liability, common for expat partnerships.</li>
+          <li><strong>Branch of a Foreign Company:</strong> for established companies expanding into the Kingdom.</li>
+          <li><strong>Freelance / Professional CR:</strong> the lightest structure for licensed professionals — closest to a freelance permit.</li>
+        </ul>
+        <h3>Who Needs a CR?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Every business operating in the Kingdom, from one-person consultancies to factories.</li>
+          <li>Freelancers who have outgrown the freelance permit and want a full entity.</li>
+          <li>E-commerce sellers on Salla, Zid, and other platforms who want to operate as a registered business.</li>
+          <li>Consultants and independent professionals serving institutional clients.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Basic CR Registration Fees (What Everyone Knows)</h2>
+        <p>
+          This is the visible part of the iceberg — the fees on the Ministry of Commerce portal that every budget starts with.
+        </p>
+        <h3>Ministry of Commerce Fees</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Service</th>
+                <th class="text-left py-2">Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR registration (first year)</td><td class="py-2">SAR 1,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR annual renewal</td><td class="py-2">SAR 1,000–2,000 (by business type)</td></tr>
+              <tr><td class="py-2">Adding a business activity</td><td class="py-2">SAR 500–1,000 per activity</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Online Registration Process</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Log in to the Ministry of Commerce portal</strong> (or through the unified business platform).</li>
+          <li><strong>Submit your documents:</strong> Iqama, passport, address proof, and the proposed business name.</li>
+          <li><strong>Pay the registration fee.</strong></li>
+          <li><strong>Receive your CR.</strong> Processing typically takes 1–3 business days for straightforward applications.</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hidden Cost #1 — MISA License Fees (For Expats Only)</h2>
+        <p>
+          This is the biggest hidden cost, and it only applies to expats. It is also the one most foreigners completely miss when they search "how much is a CR."
+        </p>
+        <h3>What is MISA and Why Do Expats Need It?</h3>
+        <p>
+          The Ministry of Investment (MISA) regulates foreign ownership of businesses in Saudi Arabia. Before an expat can hold a CR, they must obtain a <strong class="text-white">foreign investment license</strong> from MISA. Under Vision 2030, this process is far more open than it used to be — but it is not free.
+        </p>
+        <h3>MISA License Costs Breakdown</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Item</th>
+                <th class="text-left py-2">Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Application fee</td><td class="py-2">SAR 2,000 (non-refundable)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">License issuance</td><td class="py-2">SAR 5,000–10,000 (by business type)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Annual renewal</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr><td class="py-2">Professional service fees (if using a consultant)</td><td class="py-2">SAR 3,000–10,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>MISA Application Process</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Prepare a business plan.</strong> MISA wants to see what you will actually do in the Kingdom.</li>
+          <li><strong>Submit financial statements.</strong> Bank statements and proof of funding.</li>
+          <li><strong>Provide educational certificates.</strong> Your credentials matter for the license decision.</li>
+          <li><strong>Wait for approval.</strong> Expect 4–8 weeks for most service and trading businesses.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Common rejection reasons and how to avoid them:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Incomplete or unattested documents — attest everything before applying.</li>
+            <li>Business activity not aligned with your qualifications.</li>
+            <li>Insufficient capital evidence for the activity type.</li>
+            <li>Rejected business names — check name availability first.</li>
+          </ul>
+        </div>
+        <h3>MISA Requirements by Business Type</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Service businesses (consulting, IT):</strong> lower capital requirements, faster approval.</li>
+          <li><strong>Trading businesses:</strong> higher capital requirements (often SAR 30,000+), more documentation.</li>
+          <li><strong>Industrial businesses:</strong> special permits, environmental approvals, and higher fees.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hidden Cost #2 — Chamber of Commerce Membership</h2>
+        <p>
+          Almost every new owner pays this without understanding what it is. It is mandatory, annual, and scale-dependent.
+        </p>
+        <h3>Why Chamber of Commerce Membership is Mandatory</h3>
+        <p>
+          Every CR holder must register with the Chamber of Commerce in their city. The Chamber issues trade certificates, authenticates documents, and provides the credibility suppliers and banks expect. It is not optional — your CR effectively cannot operate without it.
+        </p>
+        <h3>Chamber of Commerce Fees Breakdown</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Annual membership:</strong> SAR 500–2,000 based on your CR capital.</li>
+          <li><strong>Certificate issuance:</strong> SAR 50–100 per certificate.</li>
+          <li><strong>Attestation fees:</strong> SAR 50–200 per document.</li>
+        </ul>
+        <h3>How to Calculate Your Chamber Fees</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The scale is tied to your registered capital:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>SAR 10,000–50,000 capital: SAR 500/year.</li>
+            <li>SAR 50,000–100,000 capital: SAR 1,000/year.</li>
+            <li>SAR 100,000+ capital: SAR 2,000+/year.</li>
+          </ul>
+          <p class="mt-2">Example: an expat IT consultancy registers with SAR 100,000 capital → SAR 2,000 Chamber fee each year, on top of everything else.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hidden Cost #3 — Municipal License (Baladiya)</h2>
+        <p>
+          The municipal license is what most people forget, and for businesses with physical premises, it is one of the largest charges.
+        </p>
+        <h3>What is a Municipal License?</h3>
+        <p>
+          Local municipalities (Baladiya) issue the license that lets you operate from a physical location. It is required for offices, retail stores, restaurants, and warehouses — and it is separate from both your CR and your MISA license.
+        </p>
+        <h3>Municipal License Costs</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Initial license:</strong> SAR 1,000–5,000 based on business size and location.</li>
+          <li><strong>Annual renewal:</strong> SAR 1,000–3,000.</li>
+          <li><strong>Inspection fees:</strong> SAR 500–1,000.</li>
+        </ul>
+        <h3>Requirements for the Municipal License</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Office or warehouse rental contract (attested by Ejar).</li>
+          <li>Civil Defense approval for safety compliance.</li>
+          <li>Floor plan and location map.</li>
+          <li>Signage permit — an additional SAR 500–2,000.</li>
+        </ul>
+        <h3>City-by-City Cost Variations</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">City</th>
+                <th class="text-left py-2">Typical Municipal Fee</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Riyadh</td><td class="py-2">SAR 3,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Jeddah</td><td class="py-2">SAR 2,000–4,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Dammam / Khobar</td><td class="py-2">SAR 1,500–3,000</td></tr>
+              <tr><td class="py-2">Smaller cities</td><td class="py-2">SAR 1,000–2,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hidden Cost #4 — Civil Defense Approval</h2>
+        <p>
+          Civil Defense is easy to overlook until your application stalls on it. For physical businesses, it is a gatekeeper.
+        </p>
+        <h3>When Do You Need Civil Defense Approval?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Required for:</strong> restaurants, warehouses, retail stores, and offices with more than 10 employees.</li>
+          <li><strong>Not required for:</strong> home-based businesses and freelance consultants with no physical premises.</li>
+        </ul>
+        <h3>Civil Defense Costs</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Initial inspection:</strong> SAR 1,000–2,000.</li>
+          <li><strong>Annual renewal:</strong> SAR 1,000–1,500.</li>
+          <li><strong>Safety equipment</strong> (fire extinguishers, alarms, exits): SAR 2,000–10,000 depending on your premises.</li>
+        </ul>
+        <h3>Inspection Process</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Schedule the inspection</strong> through the Baladiya portal.</li>
+          <li><strong>Prepare the premises</strong> — exits clear, extinguishers charged, signage correct.</li>
+          <li><strong>Fix failures fast.</strong> A failed inspection costs SAR 500 to re-inspect, plus the delay.</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hidden Cost #5 — Professional Service Fees</h2>
+        <p>
+          The government fees are only half the story. Most expats pay a PRO or consultant to navigate the process — and those fees are rarely discussed in online guides.
+        </p>
+        <h3>Do You Need a Business Setup Consultant?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Pros:</strong> faster approval, fewer rejections, and local expertise in Arabic-language portals.</li>
+          <li><strong>Cons:</strong> real money — SAR 3,000–15,000 on top of government fees.</li>
+        </ul>
+        <h3>Typical Consultant Fees</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Service Package</th>
+                <th class="text-left py-2">Typical Fee</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Basic CR registration assistance</td><td class="py-2">SAR 2,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA license + CR package</td><td class="py-2">SAR 8,000–15,000</td></tr>
+              <tr><td class="py-2">Full setup (CR + MISA + Municipal + Civil Defense)</td><td class="py-2">SAR 15,000–25,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>When to Hire a Consultant vs. DIY</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>DIY if:</strong> simple business, you read Arabic, and you have time to follow up.</li>
+          <li><strong>Hire a consultant if:</strong> complex structure, no Arabic, or you need speed — rejections cost far more than a consultant's fee.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hidden Cost #6 — Recurring Annual Costs</h2>
+        <p>
+          Launching is only the first bill. Every license renews yearly, and the recurring total is where the real budgeting happens.
+        </p>
+        <h3>Annual Renewal Fees Checklist</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Item</th>
+                <th class="text-left py-2">Annual Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR renewal</td><td class="py-2">SAR 1,000–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA license renewal (expats)</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Chamber of Commerce</td><td class="py-2">SAR 500–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Municipal license</td><td class="py-2">SAR 1,000–3,000</td></tr>
+              <tr><td class="py-2">Civil Defense</td><td class="py-2">SAR 1,000–1,500</td></tr>
+            </tbody>
+          </table>
+          <p class="mt-2 font-medium text-white">Total annual recurring cost: SAR 8,500–16,500+</p>
+        </div>
+        <h3>Additional Recurring Costs</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Accounting / bookkeeping:</strong> SAR 3,000–10,000/year.</li>
+          <li><strong>ZATCA VAT compliance</strong> (if registered): SAR 2,000–5,000/year.</li>
+          <li><strong>Bank account maintenance:</strong> SAR 500–2,000/year.</li>
+          <li><strong>Office rent</strong> (if applicable): SAR 20,000–100,000+/year.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Total Cost Breakdown: Real-World Examples</h2>
+        <p>
+          Here is what the numbers actually look like for four different businesses. Use these as anchors, then fine-tune with our calculator.
+        </p>
+        <h3>Example 1: Saudi Freelance Consultant (Simple Setup)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR registration: SAR 1,000.</li>
+            <li>Chamber of Commerce: SAR 500.</li>
+            <li>No MISA required (Saudi national).</li>
+            <li>No municipal license (home-based).</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Total Year 1: SAR 1,500. Annual renewal: SAR 1,500.</p>
+        </div>
+        <h3>Example 2: Expat IT Consultant (MISA Required)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA license: SAR 7,000.</li>
+            <li>CR registration: SAR 1,000.</li>
+            <li>Chamber of Commerce: SAR 500.</li>
+            <li>Consultant fees: SAR 5,000.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Total Year 1: SAR 13,500. Annual renewal: SAR 8,500.</p>
+        </div>
+        <h3>Example 3: Expat E-commerce Store (Full Setup)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA license: SAR 10,000.</li>
+            <li>CR registration: SAR 2,000.</li>
+            <li>Chamber of Commerce: SAR 1,000.</li>
+            <li>Municipal license (warehouse): SAR 3,000.</li>
+            <li>Civil Defense: SAR 2,000.</li>
+            <li>Consultant fees: SAR 10,000.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Total Year 1: SAR 28,000. Annual renewal: SAR 18,000.</p>
+        </div>
+        <h3>Example 4: Saudi Restaurant Owner (Complex Setup)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR registration: SAR 2,000.</li>
+            <li>Chamber of Commerce: SAR 2,000.</li>
+            <li>Municipal license: SAR 5,000.</li>
+            <li>Civil Defense: SAR 3,000.</li>
+            <li>Signage permit: SAR 2,000.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Total Year 1: SAR 14,000. Annual renewal: SAR 11,000.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>How to Reduce Your CR Registration Costs</h2>
+        <p>
+          The hidden costs are real, but they are not inevitable. Here is how experienced founders keep the bill down.
+        </p>
+        <h3>Cost-Saving Strategies</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Start as a freelancer first.</strong> A freelance permit costs far less than a full CR and can grow into one.</li>
+          <li><strong>Use a virtual office.</strong> Eliminates most municipal and Civil Defense requirements.</li>
+          <li><strong>DIY the process.</strong> Saves SAR 3,000–15,000 in consultant fees if you have time and Arabic.</li>
+          <li><strong>Choose simpler activities.</strong> Fewer activities mean lower Chamber fees and a faster MISA review.</li>
+        </ul>
+        <h3>Government Incentives for Small Businesses</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Monsha'at (SME Authority) support programs and advisory services.</li>
+          <li>Free business setup workshops in major cities.</li>
+          <li>Subsidized consultant services for Saudi nationals.</li>
+        </ul>
+        <h3>Common Mistakes That Increase Costs</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Choosing the wrong activity code</strong> — the highest-fee category instead of the accurate one.</li>
+          <li><strong>Submitting unattested documents</strong> — triggering re-application fees.</li>
+          <li><strong>Missing renewal deadlines</strong> — late fees of SAR 1,000+ and a lapsed license.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What is the total cost of CR registration in Saudi Arabia 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">The basic CR fee is SAR 1,000–2,000, but the full setup typically ranges from SAR 5,000 to SAR 15,000+ once MISA, Chamber, municipal, and service fees are included. Expats pay more than Saudi nationals.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Do expats need a MISA license for CR registration in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. Foreign investors must obtain a MISA investment license before holding a CR. This adds roughly SAR 7,000–15,000 to your first-year budget.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How much does Chamber of Commerce membership cost in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Annual membership ranges from SAR 500 to SAR 2,000, scaled to your registered capital. Certificates and attestations cost extra, SAR 50–200 each.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What are the hidden costs of business registration in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">The six biggest are MISA license fees, Chamber of Commerce membership, municipal licenses, Civil Defense approval, professional service fees, and recurring annual renewals.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can I register a CR without a physical office in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. A virtual office can satisfy the address requirement and removes most municipal and Civil Defense costs. Certain activities still require physical premises.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How long does CR registration take in Saudi Arabia 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">A straightforward CR takes 1–3 business days. With the MISA license required for expats, plan for 4–8 weeks overall.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Do I need Civil Defense approval for my CR in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Only if you have physical premises — restaurants, warehouses, retail, and offices with 10+ employees. Home-based and freelance businesses usually do not.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What is the minimum capital required for CR registration in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Many service businesses can register with modest capital (SAR 10,000 or less), while trading businesses typically face higher capital requirements — often SAR 30,000+.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can I renew my CR online in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. Renewals run through the Ministry of Commerce platform, and most licenses (MISA, Chamber, municipal) can be renewed through their respective online portals.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What happens if I don't renew my CR on time in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Late renewal triggers penalties (often SAR 1,000+), and a lapsed CR can freeze your bank account, visas, and contracts until it is renewed.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Final Word: Budget for the Full Picture</h2>
+        <p>
+          While the basic CR fee is SAR 1,000, the total cost typically ranges from <strong class="text-desert-primary">SAR 5,000 to SAR 28,000+</strong> depending on your business type, nationality, and location. The gap is not a surprise fee — it is the real cost of doing business properly in the Kingdom.
+        </p>
+        <p class="mt-4">
+          The owners who succeed are the ones who budget for the full picture from day one: registration, licenses, renewals, and professional services. Those who skip this step are the ones who stall halfway through the setup.
+        </p>
+        <p class="mt-4">
+          Don't get surprised by hidden fees. Use the{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">SaudiToolHub CR Cost Estimator</a>{' '}
+          to get an accurate, personalized estimate for your specific business setup.
+        </p>
+        <p class="mt-4">
+          Still deciding between owning a business and working independently? Read our{' '}
+          <a href="/guide/freelance-visa-vs-work-visa-saudi-arabia-2026" class="text-desert-primary underline">Freelance Visa vs. Work Visa in Saudi Arabia</a>{' '}
+          guide to compare the two paths.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Get Your Personalized CR Cost Estimate</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — city, activity, and entity type in under a minute</p>
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">Use the Free CR Cost Estimator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on current Saudi Ministry of Commerce, MISA, and municipal regulations. Fees and requirements are subject to change. Always verify current costs with official government portals or licensed business setup consultants.
+        </p>
+      </div>
+    `, ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل تأسيس الأعمال</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">التكاليف الخفية للسجل التجاري (CR) في السعودية: رسوم الغرفة ووزارة الاستثمار والبلدية 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">التحليل الكامل والصريح لتكلفة السجل التجاري الحقيقية — الرسوم المرئية التي يحسبها الجميع والتكاليف الخفية التي تصدم أصحاب الأعمال الجدد كل عام.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>لماذا ميزانية سجلك التجاري خاطئة على الأرجح</h2>
+        <p>
+          بدء عمل تجاري في السعودية أمر مثير. لديك الفكرة والسوق والثقة. ثم تبدأ الرسوم في الوصول — ويكتشف معظم الملاك الجدد أن الرقم الظاهر في بوابة الحكومة لم يكن سوى البداية.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">إجابة مباشرة:</strong> بينما تتراوح رسوم تسجيل السجل التجاري الأساسية بين 1,000 و2,000 ريال، فإن التكلفة الإجمالية لتأسيس الأعمال في السعودية تتراوح عادةً بين <strong class="text-desert-primary">5,000 و15,000 ريال فأكثر</strong> عند تضمين رسوم غرفة التجارة وتكاليف رخصة وزارة الاستثمار (للوافدين) والرخص البلدية والرسوم الإدارية الخفية.
+        </p>
+        <p class="mt-4">
+          هذا الدليل موجود لأن معظم الوافدين يخصصون ميزانية لرسوم السجل الأساسية فقط ثم تفاجئهم التكاليف الإضافية. كل رسوم مذكورة أدناه حقيقية ومتكررة وسهلة التفوت — ومعرفتها قبل البدء هي الفرق بين انطلاق سلس وأزمة نقدية.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">ماذا ستحصل من هذا الدليل:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>التكلفة الحقيقية للسجل التجاري مقسمة إلى كل رسوم حكومية وخاصة.</li>
+            <li>ستة تكاليف خفية تفاجئ كل صاحب عمل جديد تقريبًا.</li>
+            <li>ميزانيات واقعية للسنة الأولى لأربعة أنواع مختلفة من الأعمال.</li>
+            <li>استراتيجيات توفير التكاليف والأخطاء التي تضخم فاتورتك.</li>
+            <li>إجابات مباشرة على أكثر الأسئلة بحثًا عن تكاليف السجل لعام 2026.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          قبل أن تبدأ، احصل على تقدير دقيق عبر{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">مُقدّر تكلفة السجل التجاري المجاني</a> — يبني ميزانية بداية مخصصة من مدينتك ونشاطك ونوع الكيان.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>فهم السجل التجاري (CR) في السعودية</h2>
+        <p>
+          السجل التجاري هو الرخصة الرسمية الصادرة من وزارة التجارة التي تسمح للفرد أو الكيان بمزاولة الأعمال في المملكة. بدونه، لا يمكنك البيع أو التعاقد أو التوظيف أو الاستيراد أو فتح حساب بنكي تجاري قانونيًا.
+        </p>
+        <h3>ما هو السجل التجاري (CR)؟</h3>
+        <p>
+          السجل التجاري هو الهوية القانونية لعملك. يسجل نوع الكيان والاسم التجاري والأنشطة ورأس المال والملاك والعنوان — ويجب تجديده كل عام. البنوك والموردون والجهات الحكومية وعمليات التأشيرات كلها تشير إلى رقم سجلك التجاري.
+        </p>
+        <p class="mt-4">
+          التمييز الأساسي: <strong class="text-white">يسجل المواطنون السعوديون مباشرة مع وزارة التجارة، بينما يجب على الوافدين أولًا الحصول على رخصة من وزارة الاستثمار</strong> قبل أن يتمكنوا من امتلاك سجل تجاري. هذا الفرق الوحيد يغير تكلفة التأسيس بشكل جذري.
+        </p>
+        <h3>أنواع السجلات التجارية في السعودية</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>مؤسسة فردية (سجل فرد):</strong> مالك واحد، مسؤولية كاملة، أبسط هيكل.</li>
+          <li><strong>شركة ذات مسؤولية محدودة (LLC):</strong> عدة مساهمين، مسؤولية محدودة، شائعة لشراكات الوافدين.</li>
+          <li><strong>فرع لشركة أجنبية:</strong> للشركات القائمة التي تتوسع في المملكة.</li>
+          <li><strong>سجل حر / مهني:</strong> أخف هيكل للمحترفين المرخصين — الأقرب لتصريح العمل الحر.</li>
+        </ul>
+        <h3>من يحتاج سجلًا تجاريًا؟</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>كل عمل يعمل في المملكة، من الاستشارات الفردية إلى المصانع.</li>
+          <li>العاملون الحرّون الذين تجاوزوا تصريح العمل الحر ويريدون كيانًا كاملًا.</li>
+          <li>بائعو التجارة الإلكترونية على سلة وزد وغيرها ممن يريدون العمل كعمل مسجل.</li>
+          <li>المستشارون والمحترفون المستقلون الذين يخدمون عملاء مؤسسيين.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>رسوم تسجيل السجل التجاري الأساسية (ما يعرفه الجميع)</h2>
+        <p>
+          هذا هو الجزء المرئي من الجبل الجليدي — الرسوم الموجودة في بوابة وزارة التجارة التي تبدأ بها كل ميزانية.
+        </p>
+        <h3>رسوم وزارة التجارة</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">الخدمة</th>
+                <th class="text-left py-2">التكلفة</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">تسجيل السجل التجاري (السنة الأولى)</td><td class="py-2">1,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">تجديد السجل التجاري السنوي</td><td class="py-2">1,000–2,000 ريال (حسب نوع العمل)</td></tr>
+              <tr><td class="py-2">إضافة نشاط</td><td class="py-2">500–1,000 ريال لكل نشاط</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>عملية التسجيل الإلكتروني</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>سجّل الدخول إلى بوابة وزارة التجارة</strong> (أو عبر منصة الأعمال الموحدة).</li>
+          <li><strong>قدّم مستنداتك:</strong> الإقامة والجواز وإثبات العنوان والاسم التجاري المقترح.</li>
+          <li><strong>ادفع رسوم التسجيل.</strong></li>
+          <li><strong>استلم سجلك التجاري.</strong> تستغرق المعالجة عادةً 1–3 أيام عمل للطلبات المباشرة.</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>التكلفة الخفية رقم 1 — رسوم رخصة وزارة الاستثمار (للوافدين فقط)</h2>
+        <p>
+          هذه أكبر تكلفة خفية، وتنطبق على الوافدين فقط. وهي أيضًا أكثر ما يفوته الأجانب تمامًا عند البحث عن "كم تكلفة السجل التجاري".
+        </p>
+        <h3>ما هي وزارة الاستثمار ولماذا يحتاجها الوافدون؟</h3>
+        <p>
+          تنظم وزارة الاستثمار (MISA) ملكية الأجانب للأعمال في السعودية. قبل أن يمتلك الوافد سجلًا تجاريًا، يجب أن يحصل على <strong class="text-white">رخصة استثمار أجنبي</strong> من الوزارة. تحت رؤية 2030، أصبحت هذه العملية أكثر انفتاحًا مما كانت عليه — لكنها ليست مجانية.
+        </p>
+        <h3>تفصيل تكاليف رخصة وزارة الاستثمار</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">البند</th>
+                <th class="text-left py-2">التكلفة</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">رسوم التقديم</td><td class="py-2">2,000 ريال (غير مستردة)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">إصدار الرخصة</td><td class="py-2">5,000–10,000 ريال (حسب نوع العمل)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">التجديد السنوي</td><td class="py-2">5,000–8,000 ريال</td></tr>
+              <tr><td class="py-2">رسوم الخدمات المهنية (عند استخدام مستشار)</td><td class="py-2">3,000–10,000 ريال</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>إجراءات التقديم لدى وزارة الاستثمار</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>جهّز خطة عمل.</strong> تريد الوزارة رؤية ما ستفعله فعليًا في المملكة.</li>
+          <li><strong>قدّم بيانات مالية.</strong> كشوف حسابات وإثبات تمويل.</li>
+          <li><strong>وفّر الشهادات التعليمية.</strong> مؤهلاتك مهمة لقرار الرخصة.</li>
+          <li><strong>انتظر الموافقة.</strong> توقع من 4 إلى 8 أسابيع لمعظم أعمال الخدمات والتجارة.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">أسباب الرفض الشائعة وكيفية تجنبها:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>مستندات ناقصة أو غير موثقة — وثق كل شيء قبل التقديم.</li>
+            <li>نشاط لا يتوافق مع مؤهلاتك.</li>
+            <li>إثبات رأس مال غير كافٍ لنوع النشاط.</li>
+            <li>اسم تجاري مرفوض — تحقق من توفر الاسم أولًا.</li>
+          </ul>
+        </div>
+        <h3>متطلبات وزارة الاستثمار حسب نوع العمل</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>أعمال الخدمات (استشارات، تقنية معلومات):</strong> متطلبات رأس مال أقل وموافقة أسرع.</li>
+          <li><strong>الأعمال التجارية:</strong> متطلبات رأس مال أعلى (غالبًا 30,000 ريال فأكثر) ووثائق أكثر.</li>
+          <li><strong>الأعمال الصناعية:</strong> تصاريح خاصة وموافقات بيئية ورسوم أعلى.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>التكلفة الخفية رقم 2 — عضوية غرفة التجارة</h2>
+        <p>
+          يدفع كل صاحب عمل جديد تقريبًا هذه الرسوم دون فهم ما هي. وهي إلزامية وسنوية وتعتمد على الحجم.
+        </p>
+        <h3>لماذا عضوية غرفة التجارة إلزامية</h3>
+        <p>
+          يجب على كل حامل سجل تجاري التسجيل في غرفة التجارة بمدينته. تصدر الغرفة شهادات التبادل التجاري وتوثق المستندات وتوفر المصداقية التي يتوقعها الموردون والبنوك. الأمر ليس اختياريًا — فسجلك التجاري لا يمكنه العمل عمليًا بدونها.
+        </p>
+        <h3>تفصيل رسوم غرفة التجارة</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>العضوية السنوية:</strong> 500–2,000 ريال حسب رأس مال سجلك.</li>
+          <li><strong>إصدار الشهادات:</strong> 50–100 ريال لكل شهادة.</li>
+          <li><strong>رسوم التوثيق:</strong> 50–200 ريال لكل مستند.</li>
+        </ul>
+        <h3>كيف تحسب رسوم الغرفة الخاصة بك</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">المقياس مرتبط برأس المال المسجل:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>رأس مال 10,000–50,000 ريال: 500 ريال/سنة.</li>
+            <li>رأس مال 50,000–100,000 ريال: 1,000 ريال/سنة.</li>
+            <li>رأس مال 100,000 ريال فأكثر: 2,000 ريال فأكثر/سنة.</li>
+          </ul>
+          <p class="mt-2">مثال: استشارة تقنية معلومات لوافد تسجل برأس مال 100,000 ريال → رسوم غرفة 2,000 ريال كل عام، فوق كل شيء آخر.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>التكلفة الخفية رقم 3 — الرخصة البلدية (البلدية)</h2>
+        <p>
+          الرخصة البلدية هي ما ينساه معظم الناس، وبالنسبة للأعمال ذات المقر الفعلي فهي من أكبر الرسوم.
+        </p>
+        <h3>ما هي الرخصة البلدية؟</h3>
+        <p>
+          تصدر البلديات المحلية الرخصة التي تسمح لك بالعمل من موقع مادي. وهي مطلوبة للمكاتب والمتاجر والمطاعم والمستودعات — وهي منفصلة عن سجلك التجاري ورخصة وزارة الاستثمار معًا.
+        </p>
+        <h3>تكاليف الرخصة البلدية</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>الرخصة الأولية:</strong> 1,000–5,000 ريال حسب حجم العمل والموقع.</li>
+          <li><strong>التجديد السنوي:</strong> 1,000–3,000 ريال.</li>
+          <li><strong>رسوم التفتيش:</strong> 500–1,000 ريال.</li>
+        </ul>
+        <h3>متطلبات الرخصة البلدية</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>عقد إيجار للمكتب أو المستودع (موثق عبر إيجار).</li>
+          <li>موافقة الدفاع المدني لسلامة المنشأة.</li>
+          <li>مخطط الطابق وخريطة الموقع.</li>
+          <li>تصريح اللوحات الإعلانية — إضافة 500–2,000 ريال.</li>
+        </ul>
+        <h3>اختلافات التكلفة بين المدن</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">المدينة</th>
+                <th class="text-left py-2">الرسوم البلدية النموذجية</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">الرياض</td><td class="py-2">3,000–5,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">جدة</td><td class="py-2">2,000–4,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">الدمام / الخبر</td><td class="py-2">1,500–3,000 ريال</td></tr>
+              <tr><td class="py-2">المدن الصغيرة</td><td class="py-2">1,000–2,000 ريال</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>التكلفة الخفية رقم 4 — موافقة الدفاع المدني</h2>
+        <p>
+          من السهل التغاضي عن الدفاع المدني حتى تتعطل طلباتك عليه. بالنسبة للأعمال المادية، فهو بوابة إلزامية.
+        </p>
+        <h3>متى تحتاج موافقة الدفاع المدني؟</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>مطلوبة لـ:</strong> المطاعم والمستودعات والمتاجر والمكاتب التي تضم أكثر من 10 موظفين.</li>
+          <li><strong>غير مطلوبة لـ:</strong> الأعمال المنزلية والمستشارين الحرّين دون مقر فعلي.</li>
+        </ul>
+        <h3>تكاليف الدفاع المدني</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>التفتيش الأولي:</strong> 1,000–2,000 ريال.</li>
+          <li><strong>التجديد السنوي:</strong> 1,000–1,500 ريال.</li>
+          <li><strong>معدات السلامة</strong> (طفايات، أجهزة إنذار، مخارج): 2,000–10,000 ريال حسب المقر.</li>
+        </ul>
+        <h3>عملية التفتيش</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>جدول التفتيش</strong> عبر بوابة البلدية.</li>
+          <li><strong>جهّز المقر</strong> — مخارج واضحة، طفايات مشحونة، لافتات صحيحة.</li>
+          <li><strong>أصلح الإخفاقات بسرعة.</strong> التفتيش الفاشل يكلف 500 ريال لإعادة التفتيش، إضافة إلى التأخير.</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>التكلفة الخفية رقم 5 — رسوم الخدمات المهنية</h2>
+        <p>
+          الرسوم الحكومية نصف القصة فقط. يدفع معظم الوافدين لموظف علاقات عامة أو مستشار للتنقل في العملية — وهذه الرسوم نادرًا ما تُذكر في الأدلة الإلكترونية.
+        </p>
+        <h3>هل تحتاج مستشار تأسيس أعمال؟</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>الإيجابيات:</strong> موافقة أسرع ورفض أقل وخبرة محلية في البوابات العربية.</li>
+          <li><strong>السلبيات:</strong> أموال حقيقية — 3,000–15,000 ريال فوق الرسوم الحكومية.</li>
+        </ul>
+        <h3>رسوم المستشارين النموذجية</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">حزمة الخدمة</th>
+                <th class="text-left py-2">الرسوم النموذجية</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">مساعدة تسجيل السجل الأساسية</td><td class="py-2">2,000–5,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">حزمة رخصة وزارة الاستثمار + السجل</td><td class="py-2">8,000–15,000 ريال</td></tr>
+              <tr><td class="py-2">تأسيس كامل (سجل + استثمار + بلدية + دفاع مدني)</td><td class="py-2">15,000–25,000 ريال</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>متى تستعين بمستشار ومتى تعمل بنفسك</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>اعمل بنفسك إذا:</strong> العمل بسيط وتقرأ العربية ولديك وقت للمتابعة.</li>
+          <li><strong>استأجر مستشارًا إذا:</strong> الهيكل معقد أو لا تتحدث العربية أو تحتاج سرعة — الرفض يكلف أكثر من أجر المستشار.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>التكلفة الخفية رقم 6 — التكاليف السنوية المتكررة</h2>
+        <p>
+          الإطلاق ليس سوى الفاتورة الأولى. كل رخصة تتجدد سنويًا، والمجموع المتكرر هو حيث يحدث إعداد الميزانية الحقيقي.
+        </p>
+        <h3>قائمة رسوم التجديد السنوي</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">البند</th>
+                <th class="text-left py-2">التكلفة السنوية</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">تجديد السجل التجاري</td><td class="py-2">1,000–2,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">تجديد رخصة وزارة الاستثمار (وافدون)</td><td class="py-2">5,000–8,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">غرفة التجارة</td><td class="py-2">500–2,000 ريال</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">الرخصة البلدية</td><td class="py-2">1,000–3,000 ريال</td></tr>
+              <tr><td class="py-2">الدفاع المدني</td><td class="py-2">1,000–1,500 ريال</td></tr>
+            </tbody>
+          </table>
+          <p class="mt-2 font-medium text-white">إجمالي التكلفة السنوية المتكررة: 8,500–16,500 ريال فأكثر</p>
+        </div>
+        <h3>تكاليف متكررة إضافية</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>المحاسبة / مسك الدفاتر:</strong> 3,000–10,000 ريال/سنة.</li>
+          <li><strong>الامتثال الضريبي لهيئة الزكاة والضريبة</strong> (عند التسجيل): 2,000–5,000 ريال/سنة.</li>
+          <li><strong>رسوم صيانة الحساب البنكي:</strong> 500–2,000 ريال/سنة.</li>
+          <li><strong>إيجار المكتب</strong> (حيث ينطبق): 20,000–100,000 ريال فأكثر/سنة.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تفصيل التكلفة الإجمالية: أمثلة واقعية</h2>
+        <p>
+          إليك كيف تبدو الأرقام فعليًا لأربعة أعمال مختلفة. استخدمها كمراجع، ثم اضبطها بدقة عبر حاسبتنا.
+        </p>
+        <h3>مثال 1: مستشار سعودي حر (تأسيس بسيط)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>تسجيل السجل: 1,000 ريال.</li>
+            <li>غرفة التجارة: 500 ريال.</li>
+            <li>لا حاجة لوزارة الاستثمار (مواطن سعودي).</li>
+            <li>لا رخصة بلدية (عمل منزلي).</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">إجمالي السنة الأولى: 1,500 ريال. التجديد السنوي: 1,500 ريال.</p>
+        </div>
+        <h3>مثال 2: مستشار تقنية معلومات وافد (يتطلب وزارة الاستثمار)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>رخصة وزارة الاستثمار: 7,000 ريال.</li>
+            <li>تسجيل السجل: 1,000 ريال.</li>
+            <li>غرفة التجارة: 500 ريال.</li>
+            <li>رسوم المستشار: 5,000 ريال.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">إجمالي السنة الأولى: 13,500 ريال. التجديد السنوي: 8,500 ريال.</p>
+        </div>
+        <h3>مثال 3: متجر إلكتروني وافد (تأسيس كامل)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>رخصة وزارة الاستثمار: 10,000 ريال.</li>
+            <li>تسجيل السجل: 2,000 ريال.</li>
+            <li>غرفة التجارة: 1,000 ريال.</li>
+            <li>الرخصة البلدية (مستودع): 3,000 ريال.</li>
+            <li>الدفاع المدني: 2,000 ريال.</li>
+            <li>رسوم المستشار: 10,000 ريال.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">إجمالي السنة الأولى: 28,000 ريال. التجديد السنوي: 18,000 ريال.</p>
+        </div>
+        <h3>مثال 4: مالك مطعم سعودي (تأسيس معقد)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>تسجيل السجل: 2,000 ريال.</li>
+            <li>غرفة التجارة: 2,000 ريال.</li>
+            <li>الرخصة البلدية: 5,000 ريال.</li>
+            <li>الدفاع المدني: 3,000 ريال.</li>
+            <li>تصريح اللوحات: 2,000 ريال.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">إجمالي السنة الأولى: 14,000 ريال. التجديد السنوي: 11,000 ريال.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كيف تخفض تكاليف تسجيل سجلك التجاري</h2>
+        <p>
+          التكاليف الخفية حقيقية، لكنها ليست حتمية. إليك كيف يبقي المؤسسون المخضرمون الفاتورة منخفضة.
+        </p>
+        <h3>استراتيجيات توفير التكاليف</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>ابدأ كعامل حر أولًا.</strong> تصريح العمل الحر يكلف أقل بكثير من سجل كامل ويمكن أن يتطور إليه.</li>
+          <li><strong>استخدم مكتبًا افتراضيًا.</strong> يلغي معظم متطلبات البلدية والدفاع المدني.</li>
+          <li><strong>نفّذ العملية بنفسك.</strong> يوفر 3,000–15,000 ريال من رسوم المستشارين إذا كان لديك وقت وتقرأ العربية.</li>
+          <li><strong>اختر أنشطة أبسط.</strong> أنشطة أقل تعني رسوم غرفة أقل ومراجعة أسرع من وزارة الاستثمار.</li>
+        </ul>
+        <h3>حوافز حكومية للأعمال الصغيرة</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>برامج دعم وخدمات استشارية من منشآت (هيئة المنشآت الصغيرة والمتوسطة).</li>
+          <li>ورش عمل مجانية لتأسيس الأعمال في المدن الكبرى.</li>
+          <li>خدمات استشارية مدعومة للمواطنين السعوديين.</li>
+        </ul>
+        <h3>أخطاء شائعة تزيد التكاليف</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>اختيار رمز نشاط خاطئ</strong> — الفئة الأعلى رسومًا بدلًا من الدقيقة.</li>
+          <li><strong>تقديم مستندات غير موثقة</strong> — ما يسبب رسوم إعادة تقديم.</li>
+          <li><strong>تفويت مواعيد التجديد</strong> — غرامات تأخير تبلغ 1,000 ريال فأكثر ورخصة منتهية.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ما هي التكلفة الإجمالية لتسجيل السجل التجاري في السعودية 2026؟</p>
+            <p class="text-gray-400 text-sm mt-1">رسوم السجل الأساسية 1,000–2,000 ريال، لكن التأسيس الكامل يتراوح عادةً بين 5,000 و15,000 ريال فأكثر بعد تضمين رسوم وزارة الاستثمار والغرفة والبلدية والخدمات. الوافدون يدفعون أكثر من السعوديين.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يحتاج الوافدون رخصة وزارة الاستثمار لتسجيل سجل تجاري في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. يجب على المستثمرين الأجانب الحصول على رخصة استثمار من وزارة الاستثمار قبل امتلاك سجل تجاري. وهذا يضيف نحو 7,000–15,000 ريال إلى ميزانية سنتك الأولى.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كم تكلف عضوية غرفة التجارة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">تتراوح العضوية السنوية بين 500 و2,000 ريال، حسب رأس المال المسجل. الشهادات والتوثيقات تكلف إضافات من 50 إلى 200 ريال لكل وثيقة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ما هي التكاليف الخفية لتسجيل الأعمال في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">أكبرها ستة: رسوم رخصة وزارة الاستثمار، وعضوية غرفة التجارة، والرخص البلدية، وموافقة الدفاع المدني، ورسوم الخدمات المهنية، والتجديدات السنوية المتكررة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكنني تسجيل سجل تجاري دون مكتب فعلي في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. يمكن للمكتب الافتراضي تلبية متطلب العنوان ويلغي معظم تكاليف البلدية والدفاع المدني. لا تزال بعض الأنشطة تتطلب مقرًا ماديًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كم يستغرق تسجيل السجل التجاري في السعودية 2026؟</p>
+            <p class="text-gray-400 text-sm mt-1">السجل المباشر يستغرق 1–3 أيام عمل. مع رخصة وزارة الاستثمار المطلوبة للوافدين، خطط من 4 إلى 8 أسابيع إجمالًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل أحتاج موافقة الدفاع المدني لسجلي التجاري في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">فقط إذا كان لديك مقر مادي — مطاعم ومستودعات ومتاجر ومكاتب تضم 10 موظفين فأكثر. الأعمال المنزلية والحرّة عادةً لا تحتاجها.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ما هو الحد الأدنى لرأس المال المطلوب لتسجيل سجل تجاري في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">يمكن للعديد من أعمال الخدمات التسجيل برأس مال متواضع (10,000 ريال أو أقل)، بينما تواجه الأعمال التجارية متطلبات رأس مال أعلى — غالبًا 30,000 ريال فأكثر.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكنني تجديد سجلي التجاري إلكترونيًا في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. تتم التجديدات عبر منصة وزارة التجارة، ويمكن تجديد معظم الرخص (الاستثمار والغرفة والبلدية) عبر بواباتها الإلكترونية الخاصة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ماذا يحدث إذا لم أجدد سجلي التجاري في الوقت المحدد؟</p>
+            <p class="text-gray-400 text-sm mt-1">التجديد المتأخر يؤدي إلى غرامات (غالبًا 1,000 ريال فأكثر)، وقد يؤدي السجل المنتهي إلى تجميد حسابك البنكي وتأشيراتك وعقودك حتى يتم التجديد.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الكلمة الأخيرة: خصص ميزانية للصورة الكاملة</h2>
+        <p>
+          بينما تبلغ رسوم السجل الأساسية 1,000 ريال، تتراوح التكلفة الإجمالية عادةً بين <strong class="text-desert-primary">5,000 و28,000 ريال فأكثر</strong> حسب نوع عملك وجنسيتك وموقعك. الفجوة ليست رسومًا مفاجئة — بل هي التكلفة الحقيقية لممارسة الأعمال بشكل صحيح في المملكة.
+        </p>
+        <p class="mt-4">
+          الملاك الذين ينجحون هم الذين يخصصون ميزانية للصورة الكاملة من اليوم الأول: التسجيل والرخص والتجديدات والخدمات المهنية. أما الذين يتجاهلون هذه الخطوة فهم من يتعثرون في منتصف التأسيس.
+        </p>
+        <p class="mt-4">
+          لا تدع الرسوم الخفية تفاجئك. استخدم{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">مُقدّر تكلفة السجل التجاري في SaudiToolHub</a>{' '}
+          للحصول على تقدير دقيق ومخصص لخطة تأسيسك المحددة.
+        </p>
+        <p class="mt-4">
+          ما زلت تقرر بين امتلاك عمل أم العمل المستقل؟ اقرأ دليلنا{' '}
+          <a href="/guide/freelance-visa-vs-work-visa-saudi-arabia-2026" class="text-desert-primary underline">تأشيرة العمل الحر مقابل تأشيرة العمل في السعودية</a>{' '}
+          لمقارنة المسارين.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">احصل على تقدير تكلفة سجلك التجاري المخصص</h3>
+          <p class="text-gray-400 text-sm mb-4">مجانًا — المدينة والنشاط ونوع الكيان في أقل من دقيقة</p>
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">استخدم مُقدّر تكلفة السجل التجاري المجاني</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية بناءً على اللوائح الحالية لوزارة التجارة السعودية ووزارة الاستثمار والبلديات. الرسوم والمتطلبات قابلة للتغيير. تحقق دائمًا من التكاليف الحالية عبر البوابات الحكومية الرسمية أو مستشارين مرخصين لتأسيس الأعمال.
+        </p>
+      </div>
+    `, ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">بزنس سیٹ اپ گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب میں کمرشل رجسٹریشن (CR) کے پوشیدہ اخراجات: چیمبر، MISA اور میونسپل فیس 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">CR کی حقیقی لاگت کا مکمل اور دیانتدار تجزیہ — وہ ظاہری فیس جو ہر کوئی بجٹ میں رکھتا ہے اور وہ پوشیدہ اخراجات جو ہر سال نئے کاروباری مالکان کو حیران کر دیتے ہیں۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آپ کا CR بجٹ شاید غلط کیوں ہے</h2>
+        <p>
+          سعودی عرب میں کاروبار شروع کرنا دلچسپ ہے۔ آپ کے پاس آئیڈیا، مارکیٹ اور اعتماد ہے۔ پھر فیسیں آنے لگتی ہیں — اور زیادہ تر نئے مالکان کو پتہ چلتا ہے کہ سرکاری پورٹل پر موجود نمبر صرف شروعات تھا۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">سیدھا جواب:</strong> جبکہ بنیادی CR رجسٹریشن فیس SAR 1,000–2,000 ہے، سعودی عرب میں کاروبار قائم کرنے کی کل لاگت عام طور پر <strong class="text-desert-primary">SAR 5,000 سے 15,000 تک</strong> ہوتی ہے جب آپ چیمبر آف کامرس فیس، MISA لائسنس کی لاگت (ایکسپیٹس کے لیے)، میونسپل لائسنس اور پوشیدہ انتظامی چارجز شامل کرتے ہیں۔
+        </p>
+        <p class="mt-4">
+          یہ گائیڈ اس لیے موجود ہے کہ زیادہ تر ایکسپیٹس صرف بنیادی CR فیس کا بجٹ بناتے ہیں اور اضافی اخراجات دیکھ کر حیران رہ جاتے ہیں۔ ذیل میں موجود ہر چارج حقیقی، متواتر اور چھوٹ جانا آسان ہے — اور انہیں شروع سے جاننا ہموار آغاز اور کیش کچن کے درمیان فرق ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">اس گائیڈ سے آپ کو کیا ملے گا:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>CR کی حقیقی لاگت ہر سرکاری اور نجی فیس میں تقسیم شدہ۔</li>
+            <li>چھ پوشیدہ اخراجات جو تقریباً ہر نئے کاروباری مالک کو حیران کرتے ہیں۔</li>
+            <li>چار مختلف کاروباری اقسام کے لیے حقیقت پسندانہ سالِ اوّل کے بجٹ۔</li>
+            <li>لاگت بچانے کی حکمت عملی اور وہ غلطیاں جو آپ کا بل بڑھاتی ہیں۔</li>
+            <li>2026 کے لیے سب سے زیادہ تلاش کیے جانے والے CR لاگت سوالات کے سیدھے جواب۔</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          شروع کرنے سے پہلے، ہماری مفت{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">CR لاگت تخمینہ کار</a>{' '}
+          سے درست اندازہ حاصل کریں — یہ آپ کے شہر، سرگرمی اور اکائی کی قسم سے ذاتی نوعیت کا اسٹارٹ اپ بجٹ بناتا ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی عرب میں کمرشل رجسٹریشن (CR) کو سمجھیں</h2>
+        <p>
+          کمرشل رجسٹریشن (CR)، جسے عربی میں سجل تجاری (السجل التجاري) کہتے ہیں، وہ سرکاری لائسنس ہے جو وزارت تجارت جاری کرتی ہے اور کسی فرد یا اکائی کو مملکت میں کاروبار کرنے کی اجازت دیتا ہے۔ اس کے بغیر آپ قانونی طور پر بیچ، معاہدہ، ملازمت، درآمد یا بزنس بینک اکاؤنٹ نہیں کھول سکتے۔
+        </p>
+        <h3>کمرشل رجسٹریشن (CR) کیا ہے؟</h3>
+        <p>
+          CR آپ کے کاروبار کی قانونی شناخت ہے۔ یہ آپ کی اکائی کی قسم، کاروباری نام، سرگرمیاں، سرمایہ، مالکان اور پتہ ریکارڈ کرتا ہے — اور اسے ہر سال تجدید کروانا ہوتا ہے۔ بینک، سپلائرز، سرکاری ادارے اور آپ کے ویزا کے عمل سب آپ کے CR نمبر کا حوالہ دیتے ہیں۔
+        </p>
+        <p class="mt-4">
+          کلیدی فرق: <strong class="text-white">سعودی شہری براہِ راست وزارت تجارت میں رجسٹر ہوتے ہیں، جبکہ ایکسپیٹس کو پہلے MISA سے لائسنس لینا ہوتا ہے</strong> اس سے پہلے کہ وہ CR رکھ سکیں۔ یہی ایک فرق آپ کی سیٹ اپ لاگت کو ڈرامائی طور پر بدل دیتا ہے۔
+        </p>
+        <h3>سعودی عرب میں CR کی اقسام</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>سول پرپرائیٹرشپ (فرد کا CR):</strong> ایک مالک، مکمل ذمہ داری، سب سے سادہ ڈھانچہ۔</li>
+          <li><strong>لمیٹڈ لائیبیلٹی کمپنی (LLC):</strong> متعدد شیئر ہولڈرز، محدود ذمہ داری، ایکسپیٹ شراکت کے لیے عام۔</li>
+          <li><strong>غیر ملکی کمپنی کی شاخ:</strong> مملکت میں پھیلنے والی قائم شدہ کمپنیوں کے لیے۔</li>
+          <li><strong>فری لانس / پروفیشنل CR:</strong> لائسنس یافتہ پیشہ ور افراد کے لیے سب سے ہلکا ڈھانچہ — فری لانس پرمٹ کے قریب ترین۔</li>
+        </ul>
+        <h3>CR کسے چاہیے؟</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>مملکت میں چلنے والا ہر کاروبار، ایک فرد کی کنسلٹنسی سے لے کر فیکٹریوں تک۔</li>
+          <li>وہ فری لانسرز جنہوں نے فری لانس پرمٹ سے آگے بڑھ کر مکمل اکائی چاہی۔</li>
+          <li>سلا، زید اور دیگر پلیٹ فارمز پر ای-کامرس بیچنے والے جو رجسٹرڈ کاروبار کے طور پر کام کرنا چاہتے ہیں۔</li>
+          <li>ادارہ جاتی کلائنٹس کی خدمت کرنے والے کنسلٹنٹس اور خود مختار پیشہ ور افراد۔</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>بنیادی CR رجسٹریشن فیسیں (جو سب جانتے ہیں)</h2>
+        <p>
+          یہ آئس برگ کا ظاہری حصہ ہے — وزارت تجارت کے پورٹل پر موجود فیسیں جس سے ہر بجٹ شروع ہوتا ہے۔
+        </p>
+        <h3>وزارت تجارت کی فیسیں</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">سروس</th>
+                <th class="text-left py-2">لاگت</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR رجسٹریشن (پہلا سال)</td><td class="py-2">SAR 1,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR سالانہ تجدید</td><td class="py-2">SAR 1,000–2,000 (کاروبار کی قسم کے لحاظ سے)</td></tr>
+              <tr><td class="py-2">کاروباری سرگرمی کا اضافہ</td><td class="py-2">SAR 500–1,000 فی سرگرمی</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>آن لائن رجسٹریشن کا عمل</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>وزارت تجارت کے پورٹل پر لاگ ان کریں</strong> (یا متحدہ بزنس پلیٹ فارم کے ذریعے)۔</li>
+          <li><strong>اپنی دستاویزات جمع کروائیں:</strong> اقامہ، پاسپورٹ، پتے کا ثبوت اور مجوزہ کاروباری نام۔</li>
+          <li><strong>رجسٹریشن فیس ادا کریں۔</strong></li>
+          <li><strong>اپنا CR حاصل کریں۔</strong> سیدھی درخواستوں کے لیے پروسیسنگ عام طور پر 1–3 کاروباری دن لیتی ہے۔</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>پوشیدہ لاگت نمبر 1 — MISA لائسنس فیسیں (صرف ایکسپیٹس کے لیے)</h2>
+        <p>
+          یہ سب سے بڑی پوشیدہ لاگت ہے، اور یہ صرف ایکسپیٹس پر لاگو ہوتی ہے۔ یہ وہ چیز بھی ہے جسے زیادہ تر غیر ملکی "CR کی قیمت کتنی ہے" تلاش کرتے وقت مکمل طور پر چھوڑ دیتے ہیں۔
+        </p>
+        <h3>MISA کیا ہے اور ایکسپیٹس کو اس کی ضرورت کیوں ہے؟</h3>
+        <p>
+          وزارت سرمایہ کاری (MISA) سعودی عرب میں کاروباروں کی غیر ملکی ملکیت کو منظم کرتی ہے۔ اس سے پہلے کہ کوئی ایکسپیٹ CR رکھ سکے، اسے MISA سے <strong class="text-white">غیر ملکی سرمایہ کاری کا لائسنس</strong> حاصل کرنا ہوتا ہے۔ ویژن 2030 کے تحت یہ عمل پہلے سے کہیں زیادہ کھلا ہے — لیکن مفت نہیں۔
+        </p>
+        <h3>MISA لائسنس کی لاگت کا تفصیل</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">آئٹم</th>
+                <th class="text-left py-2">لاگت</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">درخواست فیس</td><td class="py-2">SAR 2,000 (ناقابلِ واپسی)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">لائسنس کا اجراء</td><td class="py-2">SAR 5,000–10,000 (کاروبار کی قسم کے لحاظ سے)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">سالانہ تجدید</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr><td class="py-2">پیشہ ورانہ خدمات کی فیسیں (اگر کنسلٹنٹ استعمال کریں)</td><td class="py-2">SAR 3,000–10,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>MISA درخواست کا عمل</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>بزنس پلان تیار کریں۔</strong> MISA یہ دیکھنا چاہتا ہے کہ آپ مملکت میں دراصل کیا کریں گے۔</li>
+          <li><strong>مالی بیانات جمع کروائیں۔</strong> بینک اسٹیٹمنٹس اور فنڈنگ کا ثبوت۔</li>
+          <li><strong>تعلیمی سرٹیفکیٹ فراہم کریں۔</strong> لائسنس کے فیصلے کے لیے آپ کی اسناد اہم ہیں۔</li>
+          <li><strong>منظوری کا انتظار کریں۔</strong> زیادہ تر سروس اور ٹریڈنگ کاروباروں کے لیے 4–8 ہفتے توقع کریں۔</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">مسترد ہونے کی عام وجوہات اور ان سے بچنے کے طریقے:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>نامکمل یا بغیر تصدیق شدہ دستاویزات — درخواست سے پہلے سب کچھ تصدیق کروائیں۔</li>
+            <li>کاروباری سرگرمی آپ کی قابلیت سے مطابقت نہ رکھنے والی۔</li>
+            <li>سرگرمی کی قسم کے لیے ناکافی سرمائے کا ثبوت۔</li>
+            <li>مسترد شدہ کاروباری نام — پہلے نام کی دستیابی چیک کریں۔</li>
+          </ul>
+        </div>
+        <h3>MISA تقاضے کاروبار کی قسم کے لحاظ سے</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>سروس کاروبار (کنسلٹنگ، IT):</strong> کم سرمائے کے تقاضے، تیز منظوری۔</li>
+          <li><strong>ٹریڈنگ کاروبار:</strong> زیادہ سرمائے کے تقاضے (اکثر SAR 30,000+)، زیادہ دستاویزات۔</li>
+          <li><strong>صنعتی کاروبار:</strong> خصوصی پرمٹ، ماحولیاتی منظوری اور زیادہ فیسیں۔</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>پوشیدہ لاگت نمبر 2 — چیمبر آف کامرس ممبرشپ</h2>
+        <p>
+          تقریباً ہر نیا مالک یہ فیس اسے سمجھے بغیر ادا کرتا ہے۔ یہ لازمی، سالانہ اور پیمانے پر منحصر ہے۔
+        </p>
+        <h3>چیمبر آف کامرس ممبرشپ لازمی کیوں ہے</h3>
+        <p>
+          ہر CR ہولڈر کو اپنے شہر کے چیمبر آف کامرس میں رجسٹر ہونا ہوتا ہے۔ چیمبر تجارتی سرٹیفکیٹ جاری کرتا ہے، دستاویزات کی تصدیق کرتا ہے اور وہ ساکھ فراہم کرتا ہے جو سپلائرز اور بینک توقع کرتے ہیں۔ یہ اختیاری نہیں — آپ کا CR اس کے بغیر عملی طور پر چل نہیں سکتا۔
+        </p>
+        <h3>چیمبر آف کامرس فیس کا تفصیل</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>سالانہ ممبرشپ:</strong> آپ کے CR سرمائے کے لحاظ سے SAR 500–2,000۔</li>
+          <li><strong>سرٹیفکیٹ کا اجراء:</strong> SAR 50–100 فی سرٹیفکیٹ۔</li>
+          <li><strong>تصدیق کی فیسیں:</strong> SAR 50–200 فی دستاویز۔</li>
+        </ul>
+        <h3>اپنی چیمبر فیس کا حساب کیسے کریں</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">پیمانہ آپ کے رجسٹرڈ سرمائے سے جڑا ہے:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>SAR 10,000–50,000 سرمایہ: SAR 500/سال۔</li>
+            <li>SAR 50,000–100,000 سرمایہ: SAR 1,000/سال۔</li>
+            <li>SAR 100,000+ سرمایہ: SAR 2,000+/سال۔</li>
+          </ul>
+          <p class="mt-2">مثال: ایک ایکسپیٹ IT کنسلٹنسی SAR 100,000 سرمائے کے ساتھ رجسٹر ہوتی ہے → ہر سال SAR 2,000 چیمبر فیس، باقی سب کچھ کے علاوہ۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>پوشیدہ لاگت نمبر 3 — میونسپل لائسنس (بلدية)</h2>
+        <p>
+          میونسپل لائسنس وہ ہے جسے زیادہ تر لوگ بھول جاتے ہیں، اور جسمانی مقام والے کاروباروں کے لیے یہ سب سے بڑے چارجز میں سے ایک ہے۔
+        </p>
+        <h3>میونسپل لائسنس کیا ہے؟</h3>
+        <p>
+          مقامی بلدیات وہ لائسنس جاری کرتی ہیں جو آپ کو جسمانی مقام سے کام کرنے دیتا ہے۔ یہ دفاتر، خوردہ اسٹورز، ریستوران اور گوداموں کے لیے ضروری ہے — اور یہ آپ کے CR اور MISA لائسنس دونوں سے الگ ہے۔
+        </p>
+        <h3>میونسپل لائسنس کی لاگت</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>ابتدائی لائسنس:</strong> کاروبار کے سائز اور مقام کے لحاظ سے SAR 1,000–5,000۔</li>
+          <li><strong>سالانہ تجدید:</strong> SAR 1,000–3,000۔</li>
+          <li><strong>معائنہ فیسیں:</strong> SAR 500–1,000۔</li>
+        </ul>
+        <h3>میونسپل لائسنس کے تقاضے</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>آفس یا گودام کا کرایہ معاہدہ (ایجار سے تصدیق شدہ)۔</li>
+          <li>سیفٹی تعمیل کے لیے سول ڈیفنس کی منظوری۔</li>
+          <li>فلور پلان اور مقام کا نقشہ۔</li>
+          <li>بورڈنگ پرمٹ — اضافی SAR 500–2,000۔</li>
+        </ul>
+        <h3>شہر بہ شہر لاگت کے فرق</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">شہر</th>
+                <th class="text-left py-2">عام میونسپل فیس</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">ریاض</td><td class="py-2">SAR 3,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">جدہ</td><td class="py-2">SAR 2,000–4,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">دمام / الخبر</td><td class="py-2">SAR 1,500–3,000</td></tr>
+              <tr><td class="py-2">چھوٹے شہر</td><td class="py-2">SAR 1,000–2,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>پوشیدہ لاگت نمبر 4 — سول ڈیفنس کی منظوری</h2>
+        <p>
+          سول ڈیفنس کو نظر انداز کرنا آسان ہے جب تک آپ کی درخواست اس پر نہ رک جائے۔ جسمانی کاروباروں کے لیے یہ ایک گیٹ کیپر ہے۔
+        </p>
+        <h3>سول ڈیفنس کی منظوری کب درکار ہے؟</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>درکار ہے:</strong> ریستوران، گودام، خوردہ اسٹورز اور 10 سے زیادہ ملازمین والے دفاتر۔</li>
+          <li><strong>درکار نہیں:</strong> گھریلو کاروبار اور بغیر جسمانی مقام کے فری لانس کنسلٹنٹس۔</li>
+        </ul>
+        <h3>سول ڈیفنس کی لاگت</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>ابتدائی معائنہ:</strong> SAR 1,000–2,000۔</li>
+          <li><strong>سالانہ تجدید:</strong> SAR 1,000–1,500۔</li>
+          <li><strong>سیفٹی آلات</strong> (آگ بجھانے والے، الارم، ایگزٹ): آپ کے مقام کے لحاظ سے SAR 2,000–10,000۔</li>
+        </ul>
+        <h3>معائنہ کا عمل</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>معائنہ طے کریں</strong> بلدیہ کے پورٹل کے ذریعے۔</li>
+          <li><strong>مقام تیار کریں</strong> — ایگزٹ صاف، آگ بجھانے والے بھرے ہوئے، نشان درست۔</li>
+          <li><strong>ناکامیوں کو فوراً ٹھیک کریں۔</strong> ناکام معائنہ دوبارہ معائنے کے لیے SAR 500 اور تاخیر کا باعث بنتا ہے۔</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>پوشیدہ لاگت نمبر 5 — پیشہ ورانہ خدمات کی فیسیں</h2>
+        <p>
+          سرکاری فیسیں صرف نصف کہانی ہیں۔ زیادہ تر ایکسپیٹس اس عمل کو آگے بڑھانے کے لیے PRO یا کنسلٹنٹ کو ادائیگی کرتے ہیں — اور یہ فیسیں آن لائن گائیڈز میں شاذونادر ہی زیر بحث آتی ہیں۔
+        </p>
+        <h3>کیا آپ کو بزنس سیٹ اپ کنسلٹنٹ چاہیے؟</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>فوائد:</strong> تیز منظوری، کم مستردیاں، اور عربی زبان کے پورٹلز میں مقامی مہارت۔</li>
+          <li><strong>نقصانات:</strong> حقیقی رقم — سرکاری فیسیوں کے علاوہ SAR 3,000–15,000۔</li>
+        </ul>
+        <h3>عام کنسلٹنٹ فیسیں</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">سروس پیکج</th>
+                <th class="text-left py-2">عام فیس</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">بنیادی CR رجسٹریشن امداد</td><td class="py-2">SAR 2,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA لائسنس + CR پیکج</td><td class="py-2">SAR 8,000–15,000</td></tr>
+              <tr><td class="py-2">مکمل سیٹ اپ (CR + MISA + میونسپل + سول ڈیفنس)</td><td class="py-2">SAR 15,000–25,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>کنسلٹنٹ کب رکھیں بمقابلہ خود کریں</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>خود کریں اگر:</strong> کاروبار سادہ، آپ عربی پڑھ سکتے ہیں، اور فالو اپ کے لیے وقت ہے۔</li>
+          <li><strong>کنسلٹنٹ رکھیں اگر:</strong> ڈھانچہ پیچیدہ، عربی نہیں آتی، یا رفتار چاہیے — مستردیاں کنسلٹنٹ کی فیس سے کہیں زیادہ مہنگی پڑتی ہیں۔</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>پوشیدہ لاگت نمبر 6 — متواتر سالانہ اخراجات</h2>
+        <p>
+          آغاز صرف پہلا بل ہے۔ ہر لائسنس سالانہ تجدید ہوتا ہے، اور حقیقی بجٹ وہیں بنتا ہے جہاں متواتر مجموعہ ہے۔
+        </p>
+        <h3>سالانہ تجدید فیس چیک لسٹ</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">آئٹم</th>
+                <th class="text-left py-2">سالانہ لاگت</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR تجدید</td><td class="py-2">SAR 1,000–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA لائسنس تجدید (ایکسپیٹس)</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">چیمبر آف کامرس</td><td class="py-2">SAR 500–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">میونسپل لائسنس</td><td class="py-2">SAR 1,000–3,000</td></tr>
+              <tr><td class="py-2">سول ڈیفنس</td><td class="py-2">SAR 1,000–1,500</td></tr>
+            </tbody>
+          </table>
+          <p class="mt-2 font-medium text-white">کل متواتر سالانہ لاگت: SAR 8,500–16,500+</p>
+        </div>
+        <h3>اضافی متواتر اخراجات</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>اکاؤنٹنگ / بک کیپنگ:</strong> SAR 3,000–10,000/سال۔</li>
+          <li><strong>ZATCA VAT تعمیل</strong> (اگر رجسٹرڈ): SAR 2,000–5,000/سال۔</li>
+          <li><strong>بینک اکاؤنٹ مینٹیننس:</strong> SAR 500–2,000/سال۔</li>
+          <li><strong>آفس کرایہ</strong> (اگر لاگو ہو): SAR 20,000–100,000+/سال۔</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>کل لاگت کا تفصیل: حقیقی زندگی کی مثالیں</h2>
+        <p>
+          یہاں چار مختلف کاروباروں کے لیے نمبر دراصل کیسے نظر آتے ہیں۔ انہیں حوالہ کے طور پر استعمال کریں، پھر ہمارے کیلکولیٹر سے درست کریں۔
+        </p>
+        <h3>مثال 1: سعودی فری لانس کنسلٹنٹ (سادہ سیٹ اپ)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR رجسٹریشن: SAR 1,000۔</li>
+            <li>چیمبر آف کامرس: SAR 500۔</li>
+            <li>MISA درکار نہیں (سعودی شہری)۔</li>
+            <li>میونسپل لائسنس نہیں (گھریلو)۔</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">کل سالِ اوّل: SAR 1,500۔ سالانہ تجدید: SAR 1,500۔</p>
+        </div>
+        <h3>مثال 2: ایکسپیٹ IT کنسلٹنٹ (MISA درکار)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA لائسنس: SAR 7,000۔</li>
+            <li>CR رجسٹریشن: SAR 1,000۔</li>
+            <li>چیمبر آف کامرس: SAR 500۔</li>
+            <li>کنسلٹنٹ فیسیں: SAR 5,000۔</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">کل سالِ اوّل: SAR 13,500۔ سالانہ تجدید: SAR 8,500۔</p>
+        </div>
+        <h3>مثال 3: ایکسپیٹ ای-کامرس اسٹور (مکمل سیٹ اپ)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA لائسنس: SAR 10,000۔</li>
+            <li>CR رجسٹریشن: SAR 2,000۔</li>
+            <li>چیمبر آف کامرس: SAR 1,000۔</li>
+            <li>میونسپل لائسنس (گودام): SAR 3,000۔</li>
+            <li>سول ڈیفنس: SAR 2,000۔</li>
+            <li>کنسلٹنٹ فیسیں: SAR 10,000۔</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">کل سالِ اوّل: SAR 28,000۔ سالانہ تجدید: SAR 18,000۔</p>
+        </div>
+        <h3>مثال 4: سعودی ریستوران کا مالک (پیچیدہ سیٹ اپ)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR رجسٹریشن: SAR 2,000۔</li>
+            <li>چیمبر آف کامرس: SAR 2,000۔</li>
+            <li>میونسپل لائسنس: SAR 5,000۔</li>
+            <li>سول ڈیفنس: SAR 3,000۔</li>
+            <li>بورڈنگ پرمٹ: SAR 2,000۔</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">کل سالِ اوّل: SAR 14,000۔ سالانہ تجدید: SAR 11,000۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اپنے CR رجسٹریشن کے اخراجات کیسے کم کریں</h2>
+        <p>
+          پوشیدہ اخراجات حقیقی ہیں، لیکن ناگزیر نہیں۔ تجربہ کار فاؤنڈر بل کو کم رکھنے کا طریقہ یہاں ہے۔
+        </p>
+        <h3>لاگت بچانے کی حکمت عملی</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>پہلے فری لانسر کے طور پر شروع کریں۔</strong> فری لانس پرمٹ مکمل CR سے کہیں کم خرچ آتا ہے اور اس میں ترقی ہو سکتی ہے۔</li>
+          <li><strong>ورچوئل آفس استعمال کریں۔</strong> زیادہ تر میونسپل اور سول ڈیفنس تقاضے ختم کر دیتا ہے۔</li>
+          <li><strong>عمل خود کریں۔</strong> اگر وقت اور عربی ہے تو کنسلٹنٹ فیسیوں کے SAR 3,000–15,000 بچائیں۔</li>
+          <li><strong>آسان سرگرمیاں چنیں۔</strong> کم سرگرمیاں کم چیمبر فیس اور تیز MISA جائزہ۔</li>
+        </ul>
+        <h3>چھوٹے کاروباروں کے لیے سرکاری مراعات</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>منشآت (SME اتھارٹی) کے سپورٹ پروگرام اور مشاورتی خدمات۔</li>
+          <li>بڑے شہروں میں مفت بزنس سیٹ اپ ورکشاپس۔</li>
+          <li>سعودی شہریوں کے لیے سبسڈی شدہ کنسلٹنٹ خدمات۔</li>
+        </ul>
+        <h3>وہ عام غلطیاں جو اخراجات بڑھاتی ہیں</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>غلط سرگرمی کوڈ کا انتخاب</strong> — درست کی بجائے سب سے زیادہ فیس والی کیٹیگری۔</li>
+          <li><strong>بغیر تصدیق شدہ دستاویزات جمع کروانا</strong> — دوبارہ درخواست کی فیسیں۔</li>
+          <li><strong>تجدید کی آخری تاریخیں چھوڑنا</strong> — SAR 1,000+ تاخیری فیسیں اور میعاد ختم لائسنس۔</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب 2026 میں CR رجسٹریشن کی کل لاگت کتنی ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">بنیادی CR فیس SAR 1,000–2,000 ہے، لیکن MISA، چیمبر، میونسپل اور سروس فیس شامل کرنے کے بعد مکمل سیٹ اپ عام طور پر SAR 5,000 سے 15,000+ تک ہوتا ہے۔ ایکسپیٹس سعودی شہریوں سے زیادہ ادا کرتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا ایکسپیٹس کو KSA میں CR رجسٹریشن کے لیے MISA لائسنس چاہیے؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ غیر ملکی سرمایہ کاروں کو CR رکھنے سے پہلے MISA سرمایہ کاری لائسنس حاصل کرنا ہوتا ہے۔ یہ آپ کے پہلے سال کے بجٹ میں تقریباً SAR 7,000–15,000 کا اضافہ کرتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب میں چیمبر آف کامرس ممبرشپ کی لاگت کتنی ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">سالانہ ممبرشپ آپ کے رجسٹرڈ سرمائے کے لحاظ سے SAR 500 سے 2,000 تک ہے۔ سرٹیفکیٹ اور تصدیقیں اضافی ہیں، ہر ایک SAR 50–200۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب میں کاروبار کی رجسٹریشن کے پوشیدہ اخراجات کیا ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">چھ سب سے بڑے ہیں: MISA لائسنس فیسیں، چیمبر آف کامرس ممبرشپ، میونسپل لائسنس، سول ڈیفنس منظوری، پیشہ ورانہ خدمات کی فیسیں اور متواتر سالانہ تجدیدیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا میں KSA میں بغیر جسمانی آفس کے CR رجسٹر کر سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ ورچوئل آفس پتے کی ضرورت پوری کر سکتا ہے اور زیادہ تر میونسپل اور سول ڈیفنس اخراجات ختم کر دیتا ہے۔ کچھ سرگرمیوں کو اب بھی جسمانی مقام درکار ہوتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب 2026 میں CR رجسٹریشن میں کتنا وقت لگتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">سیدھا CR 1–3 کاروباری دن لیتا ہے۔ ایکسپیٹس کے لیے درکار MISA لائسنس کے ساتھ، مجموعی طور پر 4–8 ہفتے منصوبہ بنائیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا مجھے سعودی عرب میں اپنے CR کے لیے سول ڈیفنس کی منظوری چاہیے؟</p>
+            <p class="text-gray-400 text-sm mt-1">صرف اس صورت میں جب آپ کے پاس جسمانی مقام ہو — ریستوران، گودام، خوردہ اور 10+ ملازمین والے دفاتر۔ گھریلو اور فری لانس کاروبار عام طور پر نہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: KSA میں CR رجسٹریشن کے لیے کم از کم سرمایہ کتنا درکار ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">بہت سے سروس کاروبار معمولی سرمائے (SAR 10,000 یا کم) کے ساتھ رجسٹر ہو سکتے ہیں، جبکہ ٹریڈنگ کاروباروں کو عام طور پر زیادہ سرمائے کی ضرورت ہوتی ہے — اکثر SAR 30,000+۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا میں سعودی عرب میں آن لائن اپنا CR تجدید کر سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ تجدیدیں وزارت تجارت کے پلیٹ فارم کے ذریعے چلتی ہیں، اور زیادہ تر لائسنس (MISA، چیمبر، میونسپل) اپنے اپنے آن لائن پورٹلز کے ذریعے تجدید ہو سکتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: اگر میں وقت پر اپنا CR تجدید نہ کروں تو کیا ہوتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">تاخیری تجدید جرمانے (اکثر SAR 1,000+) کا باعث بنتی ہے، اور میعاد ختم CR آپ کے بینک اکاؤنٹ، ویزا اور معاہدوں کو اس وقت تک منجمد کر سکتا ہے جب تک تجدید نہ ہو۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آخری بات: مکمل تصویر کے لیے بجٹ بنائیں</h2>
+        <p>
+          جبکہ بنیادی CR فیس SAR 1,000 ہے، کل لاگت عام طور پر <strong class="text-desert-primary">SAR 5,000 سے 28,000+</strong> تک ہوتی ہے آپ کے کاروبار کی قسم، قومیت اور مقام کے لحاظ سے۔ یہ فرق کوئی حیران کن فیس نہیں — یہ مملکت میں صحیح طریقے سے کاروبار کرنے کی حقیقی لاگت ہے۔
+        </p>
+        <p class="mt-4">
+          کامیاب ہونے والے مالکان وہ ہیں جو پہلے دن سے مکمل تصویر کے لیے بجٹ بناتے ہیں: رجسٹریشن، لائسنس، تجدید اور پیشہ ورانہ خدمات۔ جو اس مرحلے کو چھوڑتے ہیں وہ سیٹ اپ کے بیچ میں رک جاتے ہیں۔
+        </p>
+        <p class="mt-4">
+          پوشیدہ فیسیوں سے حیران نہ ہوں۔{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">SaudiToolHub CR لاگت تخمینہ کار</a>{' '}
+          استعمال کریں تاکہ آپ کے مخصوص بزنس سیٹ اپ کے لیے درست، ذاتی نوعیت کا تخمینہ حاصل کریں۔
+        </p>
+        <p class="mt-4">
+          کاروبار رکھنے اور خود مختار کام کرنے کے درمیان فیصلہ کر رہے ہیں؟ ہماری{' '}
+          <a href="/guide/freelance-visa-vs-work-visa-saudi-arabia-2026" class="text-desert-primary underline">فری لانس ویزا بمقابلہ ورک ویزا سعودی عرب</a>{' '}
+          گائیڈ پڑھ کر دونوں راستوں کا موازنہ کریں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">اپنے ذاتی نوعیت کا CR لاگت تخمینہ حاصل کریں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — شہر، سرگرمی اور اکائی کی قسم ایک منٹ میں</p>
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">مفت CR لاگت تخمینہ کار استعمال کریں</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>دستبرداری:</strong> یہ گائیڈ سعودی وزارت تجارت، MISA اور بلدیاتی ضوابط کے موجودہ قواعد کی بنیاد پر صرف معلوماتی مقاصد کے لیے ہے۔ فیسیں اور تقاضے تبدیل ہو سکتے ہیں۔ ہمیشہ سرکاری پورٹلز یا لائسنس یافتہ بزنس سیٹ اپ کنسلٹنٹس سے موجودہ اخراجات کی تصدیق کریں۔
+        </p>
+      </div>
+    `, tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Business Setup Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Nakatagong Gastos ng Commercial Registration (CR) sa Saudi Arabia: Chamber, MISA at Municipal Fees 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Ang kumpleto at tapat na pagbabahagi ng totoong halaga ng isang CR — ang nakikitang bayad na pinagbubudgetan ng lahat at ang mga nakatagong gastos na nagugulat sa mga bagong business owner taon-taon.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Bakit Malamang Mali ang Iyong CR Budget</h2>
+        <p>
+          Nakakatuwa ang magsimula ng negosyo sa Saudi Arabia. Nasa iyo ang ideya, ang merkado, at ang kumpiyansa. Pagkatapos, dumarating ang mga bayad — at natutuklasan ng karamihan sa mga bagong owner na ang numero sa government portal ay simula lamang pala.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Direktang sagot:</strong> Habang ang pangunahing bayad sa CR registration ay SAR 1,000–2,000, ang kabuuang halaga ng business setup sa Saudi Arabia ay karaniwang umaabot mula <strong class="text-desert-primary">SAR 5,000 hanggang SAR 15,000+</strong> kapag isinama mo ang mga bayad sa Chamber of Commerce, gastos sa MISA license (para sa mga expat), municipal license, at nakatagong administrative charges.
+        </p>
+        <p class="mt-4">
+          Umiiral ang gabay na ito dahil karamihan sa mga expat ay nagbubudget lamang para sa pangunahing CR fee at nagugulat sa mga dagdag na gastos. Bawat bayad sa ibaba ay totoo, paulit-ulit, at madaling makaligtaan — at ang pag-alam sa mga ito bago ka magsimula ang kaibahan sa pagitan ng maayos na paglulunsad at cash crunch.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Ano ang makukuha mo sa gabay na ito:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Ang totoong halaga ng isang CR, hinati sa bawat government at private fee.</li>
+            <li>Anim na nakatagong gastos na nagugulat sa halos bawat bagong business owner.</li>
+            <li>Real-world year-one budgets para sa apat na iba't ibang uri ng negosyo.</li>
+            <li>Mga estratehiya sa pag-iimpok at ang mga pagkakamaling nagpapalaki ng iyong bill.</li>
+            <li>Direktang sagot sa mga pinaka-pinaghahanap na tanong tungkol sa halaga ng CR para sa 2026.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Bago ka magsimula, kumuha ng tumpak na tantiya gamit ang aming libreng{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">CR Cost Estimator</a> — bumubuo ito ng personalized na startup budget mula sa iyong siyudad, activity, at uri ng entity.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pag-unawa sa Commercial Registration (CR) sa Saudi Arabia</h2>
+        <p>
+          Ang Commercial Registration (CR), na kilala sa Arabic bilang Sijil Tijari (السجل التجاري), ay ang opisyal na lisensya na inilalabas ng Ministry of Commerce na nagpapahintulot sa isang indibidwal o entity na magsagawa ng negosyo sa Kaharian. Kung wala ito, hindi ka legal na makakapagbenta, makakapagkontrata, makakahire, makaka-import, o makakapagbukas ng business bank account.
+        </p>
+        <h3>Ano ang Commercial Registration (CR)?</h3>
+        <p>
+          Ang CR ay ang legal na pagkakakilanlan ng iyong negosyo. Itinatala nito ang iyong uri ng entity, pangalan ng negosyo, mga activity, capital, mga may-ari, at address — at dapat itong i-renew taon-taon. Ang mga bangko, supplier, ahensya ng gobyerno, at ang iyong mga proseso sa visa ay lahat sumasangguni sa iyong CR number.
+        </p>
+        <p class="mt-4">
+          Ang pangunahing pagkakaiba: <strong class="text-white">Direktang nagrerehistro ang mga Saudi national sa Ministry of Commerce, habang kailangan munang kumuha ng lisensya mula sa MISA ang mga expat</strong> (Ministry of Investment) bago sila makapagkaroon ng CR. Ang iisang pagkakaibang iyon ang nagpapabago nang malaki sa iyong setup cost.
+        </p>
+        <h3>Mga Uri ng CR sa Saudi Arabia</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Sole Proprietorship (Indibidwal na CR):</strong> isang may-ari, buong pananagutan, pinakasimpleng istruktura.</li>
+          <li><strong>Limited Liability Company (LLC):</strong> maraming shareholders, limitadong pananagutan, karaniwan sa expat partnerships.</li>
+          <li><strong>Branch ng isang Foreign Company:</strong> para sa mga naitatag nang kumpanyang lumalawak papasok sa Kaharian.</li>
+          <li><strong>Freelance / Professional CR:</strong> ang pinakamagaan na istruktura para sa mga lisensyadong propesyonal — pinakamalapit sa freelance permit.</li>
+        </ul>
+        <h3>Sino ang Nangangailangan ng CR?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Bawat negosyong tumatakbo sa Kaharian, mula sa isang-taong consultancy hanggang sa mga pabrika.</li>
+          <li>Mga freelancer na nalampasan na ang freelance permit at gusto ng buong entity.</li>
+          <li>Mga e-commerce seller sa Salla, Zid, at iba pang platform na gustong gumana bilang rehistradong negosyo.</li>
+          <li>Mga consultant at independiyenteng propesyonal na naglilingkod sa institutional na mga kliyente.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Pangunahing Bayad sa CR Registration (Ano ang Alam ng Lahat)</h2>
+        <p>
+          Ito ang nakikitang bahagi ng iceberg — ang mga bayad sa Ministry of Commerce portal na sinisimulan ng bawat budget.
+        </p>
+        <h3>Mga Bayad sa Ministry of Commerce</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Serbisyo</th>
+                <th class="text-left py-2">Gastos</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR registration (unang taon)</td><td class="py-2">SAR 1,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Taunang renewal ng CR</td><td class="py-2">SAR 1,000–2,000 (ayon sa uri ng negosyo)</td></tr>
+              <tr><td class="py-2">Pagdagdag ng business activity</td><td class="py-2">SAR 500–1,000 bawat activity</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Proseso ng Online Registration</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Mag-log in sa Ministry of Commerce portal</strong> (o sa pamamagitan ng unified business platform).</li>
+          <li><strong>Isumite ang iyong mga dokumento:</strong> Iqama, passport, patunay ng address, at ang iminumungkahing pangalan ng negosyo.</li>
+          <li><strong>Bayaran ang registration fee.</strong></li>
+          <li><strong>Tanggapin ang iyong CR.</strong> Karaniwang tumatagal ng 1–3 business days ang processing para sa mga simpleng aplikasyon.</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Nakatagong Gastos #1 — MISA License Fees (Para sa mga Expat Lamang)</h2>
+        <p>
+          Ito ang pinakamalaking nakatagong gastos, at para lamang sa mga expat. Ito rin ang pinaka-madalas na napapalampas ng mga dayuhan kapag hinahanap nila ang "magkano ang isang CR."
+        </p>
+        <h3>Ano ang MISA at Bakit Ito Kailangan ng mga Expat?</h3>
+        <p>
+          Kinokontrol ng Ministry of Investment (MISA) ang dayuhang pagmamay-ari ng mga negosyo sa Saudi Arabia. Bago makapagkaroon ng CR ang isang expat, kailangan nilang kumuha ng <strong class="text-white">foreign investment license</strong> mula sa MISA. Sa ilalim ng Vision 2030, mas bukas na ang prosesong ito kaysa dati — ngunit hindi ito libre.
+        </p>
+        <h3>Pagbabahagi ng mga MISA License Cost</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Item</th>
+                <th class="text-left py-2">Gastos</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Application fee</td><td class="py-2">SAR 2,000 (hindi maibabalik)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Paglabas ng lisensya</td><td class="py-2">SAR 5,000–10,000 (ayon sa uri ng negosyo)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Taunang renewal</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr><td class="py-2">Professional service fees (kung gumagamit ng consultant)</td><td class="py-2">SAR 3,000–10,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Proseso ng MISA Application</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Maghanda ng business plan.</strong> Gustong makita ng MISA kung ano talaga ang gagawin mo sa Kaharian.</li>
+          <li><strong>Isumite ang mga financial statement.</strong> Bank statements at patunay ng pondo.</li>
+          <li><strong>Magbigay ng educational certificates.</strong> Mahalaga ang iyong mga kredensyal sa desisyon ng lisensya.</li>
+          <li><strong>Maghintay ng approval.</strong> Asahan ang 4–8 na linggo para sa karamihan ng service at trading na negosyo.</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Karaniwang dahilan ng pagtanggi at kung paano ito maiiwasan:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>Hindi kumpleto o hindi na-attest na mga dokumento — i-attest ang lahat bago mag-aplay.</li>
+            <li>Ang business activity ay hindi nakaayon sa iyong mga kwalipikasyon.</li>
+            <li>Hindi sapat na ebidensya ng capital para sa uri ng activity.</li>
+            <li>Tinanggihang mga pangalan ng negosyo — suriin muna ang availability ng pangalan.</li>
+          </ul>
+        </div>
+        <h3>Mga Requirement ng MISA ayon sa Uri ng Negosyo</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Service businesses (consulting, IT):</strong> mas mababang capital requirement, mas mabilis na approval.</li>
+          <li><strong>Trading businesses:</strong> mas mataas na capital requirement (madalas SAR 30,000+), mas maraming dokumento.</li>
+          <li><strong>Industrial businesses:</strong> mga espesyal na permiso, environmental approval, at mas mataas na bayad.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Nakatagong Gastos #2 — Chamber of Commerce Membership</h2>
+        <p>
+          Halos bawat bagong owner ay nagbabayad nito nang hindi nauunawaan kung ano ito. Ito ay sapilitan, taun-taon, at nakadepende sa sukat.
+        </p>
+        <h3>Bakit Sapilitan ang Chamber of Commerce Membership</h3>
+        <p>
+          Bawat CR holder ay dapat magparehistro sa Chamber of Commerce sa kanilang siyudad. Ang Chamber ay naglalabas ng mga trade certificate, nag-a-authenticate ng mga dokumento, at nagbibigay ng kredibilidad na inaasahan ng mga supplier at bangko. Hindi ito opsiyonal — halos hindi makakapag-opera ang iyong CR kung wala ito.
+        </p>
+        <h3>Pagbabahagi ng mga Bayad sa Chamber of Commerce</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Taunang membership:</strong> SAR 500–2,000 batay sa iyong CR capital.</li>
+          <li><strong>Paglabas ng certificate:</strong> SAR 50–100 bawat certificate.</li>
+          <li><strong>Attestation fees:</strong> SAR 50–200 bawat dokumento.</li>
+        </ul>
+        <h3>Paano Kalkulahin ang Iyong Chamber Fees</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ang sukat ay nakaugnay sa iyong rehistradong capital:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>SAR 10,000–50,000 capital: SAR 500/taon.</li>
+            <li>SAR 50,000–100,000 capital: SAR 1,000/taon.</li>
+            <li>SAR 100,000+ capital: SAR 2,000+/taon.</li>
+          </ul>
+          <p class="mt-2">Halimbawa: ang isang expat IT consultancy ay nagrerehistro ng SAR 100,000 capital → SAR 2,000 Chamber fee bawat taon, bukod pa sa lahat ng iba pa.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Nakatagong Gastos #3 — Municipal License (Baladiya)</h2>
+        <p>
+          Ang municipal license ang kadalasang nakakalimutan ng mga tao, at para sa mga negosyong may pisikal na premises, ito ay isa sa pinakamalaking singil.
+        </p>
+        <h3>Ano ang Municipal License?</h3>
+        <p>
+          Ang mga lokal na munisipalidad (Baladiya) ay naglalabas ng lisensyang nagpapahintulot sa iyong mag-opera mula sa isang pisikal na lokasyon. Kinakailangan ito para sa mga opisina, retail store, restaurant, at bodega — at hiwalay ito sa parehong iyong CR at iyong MISA license.
+        </p>
+        <h3>Mga Gastos sa Municipal License</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Unang lisensya:</strong> SAR 1,000–5,000 batay sa sukat ng negosyo at lokasyon.</li>
+          <li><strong>Taunang renewal:</strong> SAR 1,000–3,000.</li>
+          <li><strong>Inspection fees:</strong> SAR 500–1,000.</li>
+        </ul>
+        <h3>Mga Requirement para sa Municipal License</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Rental contract ng opisina o bodega (ina-attest ng Ejar).</li>
+          <li>Approval ng Civil Defense para sa pagsunod sa kaligtasan.</li>
+          <li>Floor plan at mapa ng lokasyon.</li>
+          <li>Signage permit — karagdagang SAR 500–2,000.</li>
+        </ul>
+        <h3>Mga Pagkakaiba sa Gastos ayon sa Siyudad</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Siyudad</th>
+                <th class="text-left py-2">Karaniwang Municipal Fee</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Riyadh</td><td class="py-2">SAR 3,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Jeddah</td><td class="py-2">SAR 2,000–4,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Dammam / Khobar</td><td class="py-2">SAR 1,500–3,000</td></tr>
+              <tr><td class="py-2">Mas maliliit na siyudad</td><td class="py-2">SAR 1,000–2,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Nakatagong Gastos #4 — Civil Defense Approval</h2>
+        <p>
+          Madaling makaligtaan ang Civil Defense hanggang sa ma-stall ang iyong aplikasyon dito. Para sa mga pisikal na negosyo, ito ay gatekeeper.
+        </p>
+        <h3>Kailan Kailangan ang Civil Defense Approval?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Kinakailangan para sa:</strong> mga restaurant, bodega, retail store, at opisina na may mahigit 10 empleyado.</li>
+          <li><strong>Hindi kinakailangan para sa:</strong> mga home-based na negosyo at freelance consultant na walang pisikal na premises.</li>
+        </ul>
+        <h3>Mga Gastos sa Civil Defense</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Unang inspeksyon:</strong> SAR 1,000–2,000.</li>
+          <li><strong>Taunang renewal:</strong> SAR 1,000–1,500.</li>
+          <li><strong>Safety equipment</strong> (fire extinguisher, alarm, exit): SAR 2,000–10,000 depende sa iyong premises.</li>
+        </ul>
+        <h3>Proseso ng Inspeksyon</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>Iskedyul ang inspeksyon</strong> sa pamamagitan ng Baladiya portal.</li>
+          <li><strong>Ihanda ang premises</strong> — malinaw ang mga exit, may laman ang mga extinguisher, tama ang signage.</li>
+          <li><strong>Ayusin ang mga kabiguan nang mabilis.</strong> Ang bagsak na inspeksyon ay nagkakahalaga ng SAR 500 para muling i-inspeksyon, dagdag pa ang pagkaantala.</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Nakatagong Gastos #5 — Professional Service Fees</h2>
+        <p>
+          Ang mga government fee ay kalahati lamang ng kuwento. Karamihan sa mga expat ay nagbabayad ng isang PRO o consultant para gabayan ang proseso — at ang mga bayad na ito ay bihirang talakayin sa mga online guide.
+        </p>
+        <h3>Kailangan Mo ba ng Business Setup Consultant?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Bentahe:</strong> mas mabilis na approval, mas kaunting pagtanggi, at lokal na kadalubhasaan sa mga portal na Arabic-language.</li>
+          <li><strong>Disbentahe:</strong> totoong pera — SAR 3,000–15,000 bukod pa sa mga government fee.</li>
+        </ul>
+        <h3>Karaniwang Consultant Fees</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Service Package</th>
+                <th class="text-left py-2">Karaniwang Bayad</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Basic na tulong sa CR registration</td><td class="py-2">SAR 2,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA license + CR package</td><td class="py-2">SAR 8,000–15,000</td></tr>
+              <tr><td class="py-2">Buong setup (CR + MISA + Municipal + Civil Defense)</td><td class="py-2">SAR 15,000–25,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Kailan Kukuha ng Consultant kumpara sa DIY</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>DIY kung:</strong> simpleng negosyo, marunong kang magbasa ng Arabic, at may oras ka para mag-follow up.</li>
+          <li><strong>Kumuha ng consultant kung:</strong> kumplikadong istruktura, hindi marunong ng Arabic, o kailangan mo ng bilis — ang pagtanggi ay nagkakahalaga ng higit pa kaysa sa bayad ng consultant.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Nakatagong Gastos #6 — Paulit-ulit na Taunang Gastos</h2>
+        <p>
+          Ang paglulunsad ay unang bill lamang. Bawat lisensya ay nagre-renew taon-taon, at ang paulit-ulit na kabuuan ang kung saan nagaganap ang totoong pagbubudget.
+        </p>
+        <h3>Checklist ng Taunang Renewal Fees</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">Item</th>
+                <th class="text-left py-2">Taunang Gastos</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR renewal</td><td class="py-2">SAR 1,000–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA license renewal (mga expat)</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Chamber of Commerce</td><td class="py-2">SAR 500–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">Municipal license</td><td class="py-2">SAR 1,000–3,000</td></tr>
+              <tr><td class="py-2">Civil Defense</td><td class="py-2">SAR 1,000–1,500</td></tr>
+            </tbody>
+          </table>
+          <p class="mt-2 font-medium text-white">Kabuuang taunang paulit-ulit na gastos: SAR 8,500–16,500+</p>
+        </div>
+        <h3>Mga Karagdagang Paulit-ulit na Gastos</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Accounting / bookkeeping:</strong> SAR 3,000–10,000/taon.</li>
+          <li><strong>ZATCA VAT compliance</strong> (kung rehistrado): SAR 2,000–5,000/taon.</li>
+          <li><strong>Pagpapanatili ng bank account:</strong> SAR 500–2,000/taon.</li>
+          <li><strong>Renta ng opisina</strong> (kung naaangkop): SAR 20,000–100,000+/taon.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pagbabahagi ng Kabuuang Gastos: Real-World Examples</h2>
+        <p>
+          Narito kung ano ang hitsura ng mga numero para sa apat na iba't ibang negosyo. Gamitin ang mga ito bilang anchor, pagkatapos ay i-fine-tune gamit ang aming calculator.
+        </p>
+        <h3>Halimbawa 1: Saudi Freelance Consultant (Simpleng Setup)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR registration: SAR 1,000.</li>
+            <li>Chamber of Commerce: SAR 500.</li>
+            <li>Walang kinakailangang MISA (Saudi national).</li>
+            <li>Walang municipal license (home-based).</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Kabuuan sa Taon 1: SAR 1,500. Taunang renewal: SAR 1,500.</p>
+        </div>
+        <h3>Halimbawa 2: Expat IT Consultant (Kinakailangan ang MISA)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA license: SAR 7,000.</li>
+            <li>CR registration: SAR 1,000.</li>
+            <li>Chamber of Commerce: SAR 500.</li>
+            <li>Consultant fees: SAR 5,000.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Kabuuan sa Taon 1: SAR 13,500. Taunang renewal: SAR 8,500.</p>
+        </div>
+        <h3>Halimbawa 3: Expat E-commerce Store (Buong Setup)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA license: SAR 10,000.</li>
+            <li>CR registration: SAR 2,000.</li>
+            <li>Chamber of Commerce: SAR 1,000.</li>
+            <li>Municipal license (bodega): SAR 3,000.</li>
+            <li>Civil Defense: SAR 2,000.</li>
+            <li>Consultant fees: SAR 10,000.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Kabuuan sa Taon 1: SAR 28,000. Taunang renewal: SAR 18,000.</p>
+        </div>
+        <h3>Halimbawa 4: Saudi Restaurant Owner (Kumplikadong Setup)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR registration: SAR 2,000.</li>
+            <li>Chamber of Commerce: SAR 2,000.</li>
+            <li>Municipal license: SAR 5,000.</li>
+            <li>Civil Defense: SAR 3,000.</li>
+            <li>Signage permit: SAR 2,000.</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">Kabuuan sa Taon 1: SAR 14,000. Taunang renewal: SAR 11,000.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Paano Bawasan ang Iyong mga Gastos sa CR Registration</h2>
+        <p>
+          Totoo ang mga nakatagong gastos, ngunit hindi ito hindi maiiwasan. Narito kung paano pinapanatiling mababa ng mga bihasang founder ang bill.
+        </p>
+        <h3>Mga Estratehiya sa Pag-iimpok</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Magsimula muna bilang freelancer.</strong> Ang freelance permit ay mas mababa ang halaga kaysa sa buong CR at maaaring lumaki tungo dito.</li>
+          <li><strong>Gumamit ng virtual office.</strong> Tinatanggal ang karamihan sa municipal at Civil Defense na requirement.</li>
+          <li><strong>Gawin ang proseso nang mag-isa.</strong> Nakakatipid ng SAR 3,000–15,000 sa consultant fees kung may oras ka at marunong ng Arabic.</li>
+          <li><strong>Pumili ng mas simpleng activities.</strong> Mas kaunting activities = mas mababang Chamber fees at mas mabilis na MISA review.</li>
+        </ul>
+        <h3>Government Incentives para sa Small Businesses</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>Mga support program at advisory services ng Monsha'at (SME Authority).</li>
+          <li>Libreng business setup workshops sa mga pangunahing siyudad.</li>
+          <li>Subsidized consultant services para sa mga Saudi national.</li>
+        </ul>
+        <h3>Mga Karaniwang Pagkakamali na Nagpapataas ng Gastos</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>Pagpili ng maling activity code</strong> — ang pinakamataas na bayad na kategorya sa halip na ang tumpak.</li>
+          <li><strong>Pagsusumite ng mga hindi na-attest na dokumento</strong> — nagiging sanhi ng dagdag na application fees.</li>
+          <li><strong>Pagpapalampas ng mga deadline ng renewal</strong> — late fees na SAR 1,000+ at expired na lisensya.</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Ano ang kabuuang halaga ng CR registration sa Saudi Arabia 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang pangunahing CR fee ay SAR 1,000–2,000, ngunit ang buong setup ay karaniwang umaabot mula SAR 5,000 hanggang SAR 15,000+ kapag isinama na ang MISA, Chamber, municipal, at service fees. Mas malaki ang binabayaran ng mga expat kaysa sa mga Saudi national.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Kailangan ba ng mga expat ng MISA license para sa CR registration sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Kailangang kumuha ng MISA investment license ang mga dayuhang investor bago magkaroon ng CR. Nagdaragdag ito ng humigit-kumulang SAR 7,000–15,000 sa iyong first-year budget.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Magkano ang halaga ng Chamber of Commerce membership sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang taunang membership ay mula SAR 500 hanggang SAR 2,000, nakabatay sa iyong rehistradong capital. Ang mga certificate at attestation ay dagdag, SAR 50–200 bawat isa.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Ano ang mga nakatagong gastos ng business registration sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang anim na pinakamalaki ay ang MISA license fees, Chamber of Commerce membership, municipal licenses, Civil Defense approval, professional service fees, at mga paulit-ulit na taunang renewal.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Maaari ba akong magparehistro ng CR nang walang pisikal na opisina sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Maaaring punan ng isang virtual office ang requirement sa address at inaalis nito ang karamihan sa municipal at Civil Defense na gastos. Ang ilang activities ay nangangailangan pa rin ng pisikal na premises.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Gaano katagal ang CR registration sa Saudi Arabia 2026?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang simpleng CR ay tumatagal ng 1–3 business days. Dahil sa MISA license na kinakailangan para sa mga expat, maglaan ng 4–8 na linggo sa kabuuan.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Kailangan ko ba ng Civil Defense approval para sa aking CR sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Lamang kung may pisikal kang premises — mga restaurant, bodega, retail, at opisina na may 10+ empleyado. Karaniwang hindi kinakailangan sa home-based at freelance na negosyo.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Ano ang minimum na capital na kinakailangan para sa CR registration sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Maraming service business ang maaaring magparehistro nang may katamtamang capital (SAR 10,000 o mas mababa), habang ang trading businesses ay karaniwang nahaharap sa mas mataas na capital requirement — madalas SAR 30,000+.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Maaari ko bang i-renew online ang aking CR sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Ang mga renewal ay dumadaan sa Ministry of Commerce platform, at karamihan sa mga lisensya (MISA, Chamber, municipal) ay maaaring i-renew sa pamamagitan ng kani-kanilang online portals.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">T: Ano ang mangyayari kung hindi ko ma-renew sa oras ang aking CR sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang late renewal ay nagdudulot ng mga parusa (madalas SAR 1,000+), at ang expired na CR ay maaaring mag-freeze sa iyong bank account, visa, at kontrata hanggang sa ito ay ma-renew.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Huling Mensahe: Magbudget para sa Buong Larawan</h2>
+        <p>
+          Habang ang pangunahing CR fee ay SAR 1,000, ang kabuuang halaga ay karaniwang umaabot mula <strong class="text-desert-primary">SAR 5,000 hanggang SAR 28,000+</strong> depende sa iyong uri ng negosyo, nasyonalidad, at lokasyon. Ang agwat ay hindi isang surprise fee — ito ang totoong halaga ng maayos na paggawa ng negosyo sa Kaharian.
+        </p>
+        <p class="mt-4">
+          Ang mga may-ari na nagtatagumpay ay ang mga nagbubudget para sa buong larawan mula sa unang araw: pagpaparehistro, lisensya, renewal, at professional services. Ang mga lumalaktaw sa hakbang na ito ay ang mga humihinto sa kalagitnaan ng setup.
+        </p>
+        <p class="mt-4">
+          Huwag magpabigla sa mga nakatagong bayad. Gamitin ang{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">SaudiToolHub CR Cost Estimator</a>{' '}
+          para makakuha ng tumpak, personalized na tantiya para sa iyong partikular na business setup.
+        </p>
+        <p class="mt-4">
+          Nagpapasya pa rin sa pagitan ng pagmamay-ari ng negosyo at pagtatrabaho nang independiyente? Basahin ang aming{' '}
+          <a href="/guide/freelance-visa-vs-work-visa-saudi-arabia-2026" class="text-desert-primary underline">Freelance Visa vs. Work Visa sa Saudi Arabia</a>{' '}
+          na gabay upang ihambing ang dalawang landas.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Kumuha ng Iyong Personalized na CR Cost Estimate</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — siyudad, activity, at uri ng entity sa loob ng wala pang isang minuto</p>
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">Gamitin ang Libreng CR Cost Estimator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa informational purposes batay sa kasalukuyang Saudi Ministry of Commerce, MISA, at municipal regulations. Maaaring magbago ang mga bayad at requirement. Palaging i-verify ang kasalukuyang gastos sa mga opisyal na government portals o lisensyadong business setup consultants.
+        </p>
+      </div>
+    `, bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">বিজনেস সেটআপ গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি আরবে কমার্শিয়াল রেজিস্ট্রেশন (CR)-এর লুকানো খরচ: চেম্বার, MISA ও মিউনিসিপাল ফি ২০২৬</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">CR-এর আসল খরচের সম্পূর্ণ, সৎ হিসাব — দৃশ্যমান ফি যা সবাই বাজেটে রাখে এবং লুকানো খরচ যা প্রতি বছর নতুন ব্যবসা মালিকদের হতবাক করে দেয়।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>কেন আপনার CR বাজেট সম্ভবত ভুল</h2>
+        <p>
+          সৌদি আরবে ব্যবসা শুরু করা উত্তেজনাপূর্ণ। আপনার কাছে আইডিয়া, বাজার এবং আত্মবিশ্বাস আছে। তারপর ফিগুলো আসতে শুরু করে — এবং বেশিরভাগ নতুন মালিক আবিষ্কার করেন যে সরকারি পোর্টালের সংখ্যাটা ছিল শুধু শুরু।
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">সরাসরি উত্তর:</strong> যদিও মৌলিক CR রেজিস্ট্রেশন ফি SAR 1,000–2,000, সৌদি আরবে ব্যবসা সেটআপের মোট খরচ সাধারণত <strong class="text-desert-primary">SAR 5,000 থেকে SAR 15,000+</strong> পর্যন্ত হয় যখন আপনি চেম্বার অফ কমার্স ফি, MISA লাইসেন্স খরচ (এক্সপ্যাটদের জন্য), মিউনিসিপাল লাইসেন্স এবং লুকানো প্রশাসনিক চার্জ যোগ করেন।
+        </p>
+        <p class="mt-4">
+          এই গাইডটি কারণেই রয়েছে — বেশিরভাগ এক্সপ্যাট শুধু মৌলিক CR ফির বাজেট করে এবং অতিরিক্ত খরচ দেখে হতবাক হয়। নিচের প্রতিটি চার্জ বাস্তব, পুনরাবৃত্তিমূলক এবং সহজেই চোখ এড়িয়ে যায় — এবং শুরু করার আগে সেগুলো জানা হল মসৃণ উদ্বোধন এবং নগদ সংকটের মধ্যে পার্থক্য।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">এই গাইড থেকে যা পাবেন:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>CR-এর আসল খরচ, প্রতিটি সরকারি ও বেসরকারি ফিতে ভাগ করা।</li>
+            <li>ছয়টি লুকানো খরচ যা প্রায় প্রতিটি নতুন ব্যবসা মালিককে হতবাক করে।</li>
+            <li>চারটি ভিন্ন ব্যবসার ধরণের জন্য বাস্তব প্রথম-বছরের বাজেট।</li>
+            <li>খরচ কমানোর কৌশল এবং যে ভুলগুলো আপনার বিল বাড়িয়ে দেয়।</li>
+            <li>২০২৬ সালের সবচেয়ে বেশি খোঁজা CR খরচ প্রশ্নের সরাসরি উত্তর।</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          শুরু করার আগে, আমাদের বিনামূল্যের{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">CR খরচ হিসাবকারী</a> দিয়ে সঠিক অনুমান নিন — এটি আপনার শহর, কার্যক্রম এবং প্রতিষ্ঠানের ধরণ থেকে ব্যক্তিগতকৃত স্টার্টআপ বাজেট তৈরি করে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি আরবে কমার্শিয়াল রেজিস্ট্রেশন (CR) বোঝা</h2>
+        <p>
+          কমার্শিয়াল রেজিস্ট্রেশন (CR), আরবিতে যা সিজিল তিজারি (السجل التجاري) নামে পরিচিত, এটি বাণিজ্য মন্ত্রণালয় কর্তৃক জারি করা সরকারি লাইসেন্স যা কোনো ব্যক্তি বা প্রতিষ্ঠানকে রাজ্যে ব্যবসা পরিচালনার অনুমতি দেয়। এটি ছাড়া আপনি আইনত বিক্রি, চুক্তি, নিয়োগ, আমদানি বা ব্যবসায়িক ব্যাংক অ্যাকাউন্ট খুলতে পারবেন না।
+        </p>
+        <h3>কমার্শিয়াল রেজিস্ট্রেশন (CR) কী?</h3>
+        <p>
+          CR হল আপনার ব্যবসার আইনি পরিচয়। এটি আপনার প্রতিষ্ঠানের ধরণ, ব্যবসার নাম, কার্যক্রম, মূলধন, মালিক এবং ঠিকানা নথিভুক্ত করে — এবং প্রতিবছর নবায়ন করতে হয়। ব্যাংক, সরবরাহকারী, সরকারি সংস্থা এবং আপনার ভিসা প্রক্রিয়া — সবকিছু আপনার CR নম্বর উল্লেখ করে।
+        </p>
+        <p class="mt-4">
+          মূল পার্থক্য: <strong class="text-white">সৌদি নাগরিকরা সরাসরি বাণিজ্য মন্ত্রণালয়ে নিবন্ধন করে, অন্যদিকে এক্সপ্যাটদের CR ধারণ করার আগে প্রথমে MISA থেকে লাইসেন্স নিতে হয়</strong> (বিনিয়োগ মন্ত্রণালয়)। এই একটি পার্থক্য আপনার সেটআপ খরচ নাটকীয়ভাবে বদলে দেয়।
+        </p>
+        <h3>সৌদি আরবে CR-এর ধরণ</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>একক মালিকানা (ব্যক্তিগত CR):</strong> একজন মালিক, সম্পূর্ণ দায়, সহজতম কাঠামো।</li>
+          <li><strong>লিমিটেড লায়বিলিটি কোম্পানি (LLC):</strong> একাধিক শেয়ারহোল্ডার, সীমিত দায়, এক্সপ্যাট অংশীদারিত্বে সাধারণ।</li>
+          <li><strong>বিদেশি কোম্পানির শাখা:</strong> রাজ্যে সম্প্রসারিত প্রতিষ্ঠিত কোম্পানিগুলোর জন্য।</li>
+          <li><strong>ফ্রিল্যান্স / প্রফেশনাল CR:</strong> লাইসেন্সপ্রাপ্ত পেশাজীবীদের জন্য সবচেয়ে হালকা কাঠামো — ফ্রিল্যান্স পারমিটের সবচেয়ে কাছাকাছি।</li>
+        </ul>
+        <h3>কার CR দরকার?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>রাজ্যে পরিচালিত প্রতিটি ব্যবসা, এক-ব্যক্তির কনসালটেন্সি থেকে কারখানা পর্যন্ত।</li>
+          <li>ফ্রিল্যান্সাররা যারা ফ্রিল্যান্স পারমিট অতিক্রম করে পূর্ণাঙ্গ প্রতিষ্ঠান চান।</li>
+          <li>Salla, Zid এবং অন্যান্য প্ল্যাটফর্মের ই-কমার্স বিক্রেতা যারা নিবন্ধিত ব্যবসা হিসেবে কাজ করতে চান।</li>
+          <li>প্রাতিষ্ঠানিক ক্লায়েন্টদের সেবা দেওয়া কনসালটেন্ট এবং স্বাধীন পেশাজীবী।</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>মৌলিক CR রেজিস্ট্রেশন ফি (যা সবাই জানে)</h2>
+        <p>
+          এটি হিমশৈলের দৃশ্যমান অংশ — বাণিজ্য মন্ত্রণালয় পোর্টালের ফি যেখান থেকে প্রতিটি বাজেট শুরু হয়।
+        </p>
+        <h3>বাণিজ্য মন্ত্রণালয়ের ফি</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">সেবা</th>
+                <th class="text-left py-2">খরচ</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR রেজিস্ট্রেশন (প্রথম বছর)</td><td class="py-2">SAR 1,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR বার্ষিক নবায়ন</td><td class="py-2">SAR 1,000–2,000 (ব্যবসার ধরণ অনুযায়ী)</td></tr>
+              <tr><td class="py-2">ব্যবসায়িক কার্যক্রম যোগ করা</td><td class="py-2">SAR 500–1,000 প্রতি কার্যক্রমে</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>অনলাইন রেজিস্ট্রেশন প্রক্রিয়া</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>বাণিজ্য মন্ত্রণালয়ের পোর্টালে লগইন করুন</strong> (বা ইউনিফায়েড বিজনেস প্ল্যাটফর্মের মাধ্যমে)।</li>
+          <li><strong>আপনার নথি জমা দিন:</strong> ইকামা, পাসপোর্ট, ঠিকানার প্রমাণ এবং প্রস্তাবিত ব্যবসার নাম।</li>
+          <li><strong>রেজিস্ট্রেশন ফি পরিশোধ করুন।</strong></li>
+          <li><strong>আপনার CR গ্রহণ করুন।</strong> সরল আবেদনের ক্ষেত্রে প্রক্রিয়াকরণ সাধারণত ১–৩ কার্যদিবস লাগে।</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>লুকানো খরচ #১ — MISA লাইসেন্স ফি (শুধু এক্সপ্যাটদের জন্য)</h2>
+        <p>
+          এটি সবচেয়ে বড় লুকানো খরচ, এবং এটি শুধু এক্সপ্যাটদের ক্ষেত্রে প্রযোজ্য। এটি সেই বিষয়টিও যা বেশিরভাগ বিদেশি "একটি CR-এর দাম কত" খুঁজলে সম্পূর্ণভাবে মিস করে।
+        </p>
+        <h3>MISA কী এবং এক্সপ্যাটদের কেন এটি দরকার?</h3>
+        <p>
+          বিনিয়োগ মন্ত্রণালয় (MISA) সৌদি আরবে ব্যবসার বিদেশি মালিকানা নিয়ন্ত্রণ করে। একজন এক্সপ্যাট CR ধারণ করার আগে তাকে MISA থেকে <strong class="text-white">বিদেশি বিনিয়োগ লাইসেন্স</strong> নিতে হয়। ভিশন ২০৩০-এর অধীনে এই প্রক্রিয়া আগের চেয়ে অনেক বেশি উন্মুক্ত — তবে এটি বিনামূল্যে নয়।
+        </p>
+        <h3>MISA লাইসেন্স খরচের ভাঙন</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">আইটেম</th>
+                <th class="text-left py-2">খরচ</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">আবেদন ফি</td><td class="py-2">SAR 2,000 (অফেরতযোগ্য)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">লাইসেন্স ইস্যু</td><td class="py-2">SAR 5,000–10,000 (ব্যবসার ধরণ অনুযায়ী)</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">বার্ষিক নবায়ন</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr><td class="py-2">প্রফেশনাল সার্ভিস ফি (কনসালটেন্ট ব্যবহার করলে)</td><td class="py-2">SAR 3,000–10,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>MISA আবেদন প্রক্রিয়া</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>ব্যবসায়িক পরিকল্পনা তৈরি করুন।</strong> MISA দেখতে চায় আপনি রাজ্যে আসলে কী করবেন।</li>
+          <li><strong>আর্থিক বিবরণী জমা দিন।</strong> ব্যাংক স্টেটমেন্ট এবং তহবিলের প্রমাণ।</li>
+          <li><strong>শিক্ষাগত সনদ প্রদান করুন।</strong> লাইসেন্স সিদ্ধান্তে আপনার যোগ্যতা গুরুত্বপূর্ণ।</li>
+          <li><strong>অনুমোদনের অপেক্ষা করুন।</strong> বেশিরভাগ সার্ভিস ও ট্রেডিং ব্যবসার জন্য ৪–৮ সপ্তাহ আশা করুন।</li>
+        </ol>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">সাধারণ প্রত্যাখ্যানের কারণ ও এড়ানোর উপায়:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>অসম্পূর্ণ বা সত্যায়নহীন নথি — আবেদনের আগে সবকিছু সত্যায়ন করান।</li>
+            <li>ব্যবসায়িক কার্যক্রম আপনার যোগ্যতার সাথে সামঞ্জস্যপূর্ণ নয়।</li>
+            <li>কার্যক্রমের ধরণের জন্য অপর্যাপ্ত মূলধনের প্রমাণ।</li>
+            <li>প্রত্যাখ্যাত ব্যবসার নাম — আগে নামের প্রাপ্যতা যাচাই করুন।</li>
+          </ul>
+        </div>
+        <h3>ব্যবসার ধরণ অনুযায়ী MISA প্রয়োজনীয়তা</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>সার্ভিস ব্যবসা (কনসাল্টিং, IT):</strong> কম মূলধনের প্রয়োজনীয়তা, দ্রুত অনুমোদন।</li>
+          <li><strong>ট্রেডিং ব্যবসা:</strong> উচ্চতর মূলধনের প্রয়োজনীয়তা (প্রায়ই SAR 30,000+), বেশি নথি।</li>
+          <li><strong>শিল্প ব্যবসা:</strong> বিশেষ পারমিট, পরিবেশগত অনুমোদন এবং বেশি ফি।</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>লুকানো খরচ #২ — চেম্বার অফ কমার্স সদস্যপদ</h2>
+        <p>
+          প্রায় প্রতিটি নতুন মালিক এটি কী তা না বুঝেই পরিশোধ করে। এটি বাধ্যতামূলক, বার্ষিক এবং আকারের উপর নির্ভরশীল।
+        </p>
+        <h3>কেন চেম্বার অফ কমার্স সদস্যপদ বাধ্যতামূলক</h3>
+        <p>
+          প্রতিটি CR ধারককে তাদের শহরের চেম্বার অফ কমার্সে নিবন্ধন করতে হয়। চেম্বার ট্রেড সার্টিফিকেট জারি করে, নথি সত্যায়ন করে এবং সরবরাহকারী ও ব্যাংকের প্রত্যাশিত বিশ্বাসযোগ্যতা প্রদান করে। এটি ঐচ্ছিক নয় — এটি ছাড়া আপনার CR কার্যত পরিচালনা করতে পারে না।
+        </p>
+        <h3>চেম্বার অফ কমার্স ফির ভাঙন</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>বার্ষিক সদস্যপদ:</strong> আপনার CR মূলধনের উপর ভিত্তি করে SAR 500–2,000।</li>
+          <li><strong>সার্টিফিকেট ইস্যু:</strong> SAR 50–100 প্রতি সার্টিফিকেটে।</li>
+          <li><strong>সত্যায়ন ফি:</strong> SAR 50–200 প্রতি নথিতে।</li>
+        </ul>
+        <h3>কীভাবে আপনার চেম্বার ফি হিসাব করবেন</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">স্কেলটি আপনার নিবন্ধিত মূলধনের সাথে যুক্ত:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li>SAR 10,000–50,000 মূলধন: SAR 500/বছর।</li>
+            <li>SAR 50,000–100,000 মূলধন: SAR 1,000/বছর।</li>
+            <li>SAR 100,000+ মূলধন: SAR 2,000+/বছর।</li>
+          </ul>
+          <p class="mt-2">উদাহরণ: একটি এক্সপ্যাট IT কনসালটেন্সি SAR 100,000 মূলধনে নিবন্ধন করে → প্রতি বছর SAR 2,000 চেম্বার ফি, বাকি সবকিছুর উপরে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>লুকানো খরচ #৩ — মিউনিসিপাল লাইসেন্স (বালাদিয়া)</h2>
+        <p>
+          মিউনিসিপাল লাইসেন্সই সবচেয়ে বেশি মানুষ ভুলে যায়, এবং শারীরিক প্রাঙ্গণযুক্ত ব্যবসাগুলোর জন্য এটি সবচেয়ে বড় চার্জগুলোর একটি।
+        </p>
+        <h3>মিউনিসিপাল লাইসেন্স কী?</h3>
+        <p>
+          স্থানীয় পৌরসভাগুলো (বালাদিয়া) সেই লাইসেন্স জারি করে যা আপনাকে একটি শারীরিক অবস্থান থেকে পরিচালনার অনুমতি দেয়। এটি অফিস, খুচরা দোকান, রেস্তোরাঁ এবং গুদামের জন্য প্রয়োজনীয় — এবং এটি আপনার CR এবং MISA লাইসেন্স উভয় থেকেই আলাদা।
+        </p>
+        <h3>মিউনিসিপাল লাইসেন্সের খরচ</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>প্রাথমিক লাইসেন্স:</strong> ব্যবসার আকার ও অবস্থানের উপর ভিত্তি করে SAR 1,000–5,000।</li>
+          <li><strong>বার্ষিক নবায়ন:</strong> SAR 1,000–3,000।</li>
+          <li><strong>পরিদর্শন ফি:</strong> SAR 500–1,000।</li>
+        </ul>
+        <h3>মিউনিসিপাল লাইসেন্সের প্রয়োজনীয়তা</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>অফিস বা গুদামের ভাড়া চুক্তি (Ejar কর্তৃক সত্যায়িত)।</li>
+          <li>নিরাপত্তা সম্মতির জন্য সিভিল ডিফেন্স অনুমোদন।</li>
+          <li>ফ্লোর প্ল্যান এবং অবস্থানের মানচিত্র।</li>
+          <li>সাইনেজ পারমিট — অতিরিক্ত SAR 500–2,000।</li>
+        </ul>
+        <h3>শহর অনুযায়ী খরচের তারতম্য</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">শহর</th>
+                <th class="text-left py-2">সাধারণ মিউনিসিপাল ফি</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">রিয়াদ</td><td class="py-2">SAR 3,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">জেদ্দা</td><td class="py-2">SAR 2,000–4,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">দাম্মাম / খোবার</td><td class="py-2">SAR 1,500–3,000</td></tr>
+              <tr><td class="py-2">ছোট শহরগুলো</td><td class="py-2">SAR 1,000–2,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>লুকানো খরচ #৪ — সিভিল ডিফেন্স অনুমোদন</h2>
+        <p>
+          সিভিল ডিফেন্সকে অবহেলা করা সহজ যতক্ষণ না আপনার আবেদন এতে আটকে যায়। শারীরিক ব্যবসার জন্য, এটি একটি গেটকিপার।
+        </p>
+        <h3>কখন সিভিল ডিফেন্স অনুমোদন দরকার?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>প্রয়োজন:</strong> রেস্তোরাঁ, গুদাম, খুচরা দোকান এবং ১০-এর বেশি কর্মচারী বিশিষ্ট অফিস।</li>
+          <li><strong>প্রয়োজন নেই:</strong> হোম-ভিত্তিক ব্যবসা এবং শারীরিক প্রাঙ্গণবিহীন ফ্রিল্যান্স কনসালটেন্ট।</li>
+        </ul>
+        <h3>সিভিল ডিফেন্সের খরচ</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>প্রাথমিক পরিদর্শন:</strong> SAR 1,000–2,000।</li>
+          <li><strong>বার্ষিক নবায়ন:</strong> SAR 1,000–1,500।</li>
+          <li><strong>নিরাপত্তা সরঞ্জাম</strong> (ফায়ার এক্সটিংগুইশার, অ্যালার্ম, এক্সিট): আপনার প্রাঙ্গণের উপর নির্ভর করে SAR 2,000–10,000।</li>
+        </ul>
+        <h3>পরিদর্শন প্রক্রিয়া</h3>
+        <ol class="list-decimal list-inside space-y-2 text-gray-300">
+          <li><strong>বালাদিয়া পোর্টালের মাধ্যমে পরিদর্শন নির্ধারণ করুন।</strong></li>
+          <li><strong>প্রাঙ্গণ প্রস্তুত করুন</strong> — এক্সিট পরিষ্কার, এক্সটিংগুইশারে ভর্তি, সাইনেজ সঠিক।</li>
+          <li><strong>ব্যর্থতা দ্রুত ঠিক করুন।</strong> একটি ব্যর্থ পরিদর্শনের জন্য পুনরায় পরিদর্শনে SAR 500 খরচ হয়, সাথে বিলম্বও।</li>
+        </ol>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>লুকানো খরচ #৫ — প্রফেশনাল সার্ভিস ফি</h2>
+        <p>
+          সরকারি ফি কেবল অর্ধেক গল্প। বেশিরভাগ এক্সপ্যাট প্রক্রিয়াটি পরিচালনার জন্য একটি PRO বা কনসালটেন্টকে অর্থ প্রদান করে — এবং এই ফিগুলো অনলাইন গাইডে খুব কমই আলোচিত হয়।
+        </p>
+        <h3>আপনার কি ব্যবসা সেটআপ কনসালটেন্ট দরকার?</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>সুবিধা:</strong> দ্রুত অনুমোদন, কম প্রত্যাখ্যান এবং আরবি-ভাষার পোর্টালে স্থানীয় দক্ষতা।</li>
+          <li><strong>অসুবিধা:</strong> প্রকৃত অর্থ — সরকারি ফির উপরে SAR 3,000–15,000।</li>
+        </ul>
+        <h3>সাধারণ কনসালটেন্ট ফি</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">সেবা প্যাকেজ</th>
+                <th class="text-left py-2">সাধারণ ফি</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">মৌলিক CR রেজিস্ট্রেশন সহায়তা</td><td class="py-2">SAR 2,000–5,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA লাইসেন্স + CR প্যাকেজ</td><td class="py-2">SAR 8,000–15,000</td></tr>
+              <tr><td class="py-2">সম্পূর্ণ সেটআপ (CR + MISA + মিউনিসিপাল + সিভিল ডিফেন্স)</td><td class="py-2">SAR 15,000–25,000</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>কখন কনসালটেন্ট নিয়োগ করবেন বনাম DIY</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>DIY করুন যদি:</strong> ব্যবসা সরল, আরবি পড়তে পারেন এবং ফলো-আপের সময় আছে।</li>
+          <li><strong>কনসালটেন্ট নিয়োগ করুন যদি:</strong> কাঠামো জটিল, আরবি জানেন না, বা গতি প্রয়োজন — প্রত্যাখ্যান কনসালটেন্টের ফির চেয়ে অনেক বেশি খরচ করে।</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>লুকানো খরচ #৬ — পুনরাবৃত্তিমূলক বার্ষিক খরচ</h2>
+        <p>
+          উদ্বোধন কেবল প্রথম বিল। প্রতিটি লাইসেন্স বার্ষিক নবায়ন হয়, এবং প্রকৃত বাজেট তৈরি হয় পুনরাবৃত্তিমূলক মোটে।
+        </p>
+        <h3>বার্ষিক নবায়ন ফি চেকলিস্ট</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <table class="w-full">
+            <thead>
+              <tr class="text-white border-b border-gray-700">
+                <th class="text-left py-2">আইটেম</th>
+                <th class="text-left py-2">বার্ষিক খরচ</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-700/50"><td class="py-2">CR নবায়ন</td><td class="py-2">SAR 1,000–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">MISA লাইসেন্স নবায়ন (এক্সপ্যাট)</td><td class="py-2">SAR 5,000–8,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">চেম্বার অফ কমার্স</td><td class="py-2">SAR 500–2,000</td></tr>
+              <tr class="border-b border-gray-700/50"><td class="py-2">মিউনিসিপাল লাইসেন্স</td><td class="py-2">SAR 1,000–3,000</td></tr>
+              <tr><td class="py-2">সিভিল ডিফেন্স</td><td class="py-2">SAR 1,000–1,500</td></tr>
+            </tbody>
+          </table>
+          <p class="mt-2 font-medium text-white">মোট বার্ষিক পুনরাবৃত্তিমূলক খরচ: SAR 8,500–16,500+</p>
+        </div>
+        <h3>অতিরিক্ত পুনরাবৃত্তিমূলক খরচ</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>হিসাবরক্ষণ / বুককিপিং:</strong> SAR 3,000–10,000/বছর।</li>
+          <li><strong>ZATCA VAT সম্মতি</strong> (নিবন্ধিত হলে): SAR 2,000–5,000/বছর।</li>
+          <li><strong>ব্যাংক অ্যাকাউন্ট রক্ষণাবেক্ষণ:</strong> SAR 500–2,000/বছর।</li>
+          <li><strong>অফিস ভাড়া</strong> (প্রযোজ্য হলে): SAR 20,000–100,000+/বছর।</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>মোট খরচের ভাঙন: বাস্তব উদাহরণ</h2>
+        <p>
+          এখানে চারটি ভিন্ন ব্যবসার জন্য সংখ্যাগুলো আসলে কেমন দেখায়। এগুলোকে অ্যাংকর হিসেবে ব্যবহার করুন, তারপর আমাদের ক্যালকুলেটর দিয়ে সূক্ষ্ম সমন্বয় করুন।
+        </p>
+        <h3>উদাহরণ ১: সৌদি ফ্রিল্যান্স কনসালটেন্ট (সহজ সেটআপ)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR রেজিস্ট্রেশন: SAR 1,000।</li>
+            <li>চেম্বার অফ কমার্স: SAR 500।</li>
+            <li>MISA প্রয়োজন নেই (সৌদি নাগরিক)।</li>
+            <li>মিউনিসিপাল লাইসেন্স নেই (হোম-ভিত্তিক)।</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">মোট প্রথম বছর: SAR 1,500। বার্ষিক নবায়ন: SAR 1,500।</p>
+        </div>
+        <h3>উদাহরণ ২: এক্সপ্যাট IT কনসালটেন্ট (MISA প্রয়োজন)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA লাইসেন্স: SAR 7,000।</li>
+            <li>CR রেজিস্ট্রেশন: SAR 1,000।</li>
+            <li>চেম্বার অফ কমার্স: SAR 500।</li>
+            <li>কনসালটেন্ট ফি: SAR 5,000।</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">মোট প্রথম বছর: SAR 13,500। বার্ষিক নবায়ন: SAR 8,500।</p>
+        </div>
+        <h3>উদাহরণ ৩: এক্সপ্যাট ই-কমার্স স্টোর (সম্পূর্ণ সেটআপ)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>MISA লাইসেন্স: SAR 10,000।</li>
+            <li>CR রেজিস্ট্রেশন: SAR 2,000।</li>
+            <li>চেম্বার অফ কমার্স: SAR 1,000।</li>
+            <li>মিউনিসিপাল লাইসেন্স (গুদাম): SAR 3,000।</li>
+            <li>সিভিল ডিফেন্স: SAR 2,000।</li>
+            <li>কনসালটেন্ট ফি: SAR 10,000।</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">মোট প্রথম বছর: SAR 28,000। বার্ষিক নবায়ন: SAR 18,000।</p>
+        </div>
+        <h3>উদাহরণ ৪: সৌদি রেস্তোরাঁর মালিক (জটিল সেটআপ)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <ul class="list-disc list-inside space-y-1">
+            <li>CR রেজিস্ট্রেশন: SAR 2,000।</li>
+            <li>চেম্বার অফ কমার্স: SAR 2,000।</li>
+            <li>মিউনিসিপাল লাইসেন্স: SAR 5,000।</li>
+            <li>সিভিল ডিফেন্স: SAR 3,000।</li>
+            <li>সাইনেজ পারমিট: SAR 2,000।</li>
+          </ul>
+          <p class="mt-2 font-bold text-white">মোট প্রথম বছর: SAR 14,000। বার্ষিক নবায়ন: SAR 11,000।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>কীভাবে আপনার CR রেজিস্ট্রেশন খরচ কমানো যায়</h2>
+        <p>
+          লুকানো খরচগুলো বাস্তব, তবে অনিবার্য নয়। এখানে অভিজ্ঞ প্রতিষ্ঠাতারা কীভাবে বিল কম রাখেন।
+        </p>
+        <h3>খরচ কমানোর কৌশল</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>প্রথমে ফ্রিল্যান্সার হিসেবে শুরু করুন।</strong> ফ্রিল্যান্স পারমিটের খরচ পূর্ণাঙ্গ CR-এর চেয়ে অনেক কম এবং এটি সেটিতে বেড়ে উঠতে পারে।</li>
+          <li><strong>ভার্চুয়াল অফিস ব্যবহার করুন।</strong> এটি বেশিরভাগ মিউনিসিপাল ও সিভিল ডিফেন্স প্রয়োজনীয়তা দূর করে।</li>
+          <li><strong>প্রক্রিয়াটি DIY করুন।</strong> সময় এবং আরবি জানা থাকলে কনসালটেন্ট ফিতে SAR 3,000–15,000 বাঁচায়।</li>
+          <li><strong>সহজ কার্যক্রম বেছে নিন।</strong> কম কার্যক্রম = কম চেম্বার ফি এবং দ্রুত MISA পর্যালোচনা।</li>
+        </ul>
+        <h3>ছোট ব্যবসার জন্য সরকারি প্রণোদনা</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li>মনশা'আতের (SME কর্তৃপক্ষ) সহায়তা কর্মসূচি এবং পরামর্শ সেবা।</li>
+          <li>প্রধান শহরগুলোতে বিনামূল্যে ব্যবসা সেটআপ কর্মশালা।</li>
+          <li>সৌদি নাগরিকদের জন্য ভর্তুকিযুক্ত কনসালটেন্ট সেবা।</li>
+        </ul>
+        <h3>খরচ বাড়ানো সাধারণ ভুলগুলো</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-300 mt-2">
+          <li><strong>ভুল কার্যক্রম কোড নির্বাচন</strong> — সঠিকটির বদলে সর্বোচ্চ ফির ক্যাটাগরি।</li>
+          <li><strong>সত্যায়নবিহীন নথি জমা দেওয়া</strong> — পুনরায় আবেদন ফি ট্রিগার করে।</li>
+          <li><strong>নবায়নের সময়সীমা মিস করা</strong> — SAR 1,000+ দেরি ফি এবং মেয়াদোত্তীর্ণ লাইসেন্স।</li>
+        </ul>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরব ২০২৬-এ CR রেজিস্ট্রেশনের মোট খরচ কত?</p>
+            <p class="text-gray-400 text-sm mt-1">মৌলিক CR ফি SAR 1,000–2,000, তবে MISA, চেম্বার, মিউনিসিপাল ও সার্ভিস ফি যোগ করার পর সম্পূর্ণ সেটআপ সাধারণত SAR 5,000 থেকে SAR 15,000+ পর্যন্ত হয়। এক্সপ্যাটরা সৌদি নাগরিকদের চেয়ে বেশি পরিশোধ করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: KSA-তে CR রেজিস্ট্রেশনের জন্য কি এক্সপ্যাটদের MISA লাইসেন্স দরকার?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। বিদেশি বিনিয়োগকারীদের CR ধারণ করার আগে MISA বিনিয়োগ লাইসেন্স নিতে হয়। এটি আপনার প্রথম-বছরের বাজেটে প্রায় SAR 7,000–15,000 যোগ করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে চেম্বার অফ কমার্স সদস্যপদ কত খরচ হয়?</p>
+            <p class="text-gray-400 text-sm mt-1">বার্ষিক সদস্যপদ আপনার নিবন্ধিত মূলধনের উপর নির্ভর করে SAR 500 থেকে SAR 2,000 পর্যন্ত। সার্টিফিকেট ও সত্যায়ন আলাদা, প্রতিটি SAR 50–200।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ব্যবসা রেজিস্ট্রেশনের লুকানো খরচগুলো কী কী?</p>
+            <p class="text-gray-400 text-sm mt-1">ছয়টি সবচেয়ে বড় হল MISA লাইসেন্স ফি, চেম্বার অফ কমার্স সদস্যপদ, মিউনিসিপাল লাইসেন্স, সিভিল ডিফেন্স অনুমোদন, প্রফেশনাল সার্ভিস ফি এবং পুনরাবৃত্তিমূলক বার্ষিক নবায়ন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: KSA-তে কি শারীরিক অফিস ছাড়া CR নিবন্ধন করা যায়?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। একটি ভার্চুয়াল অফিস ঠিকানার প্রয়োজনীয়তা পূরণ করতে পারে এবং বেশিরভাগ মিউনিসিপাল ও সিভিল ডিফেন্স খরচ দূর করে। কিছু কার্যক্রমের জন্য এখনও শারীরিক প্রাঙ্গণ প্রয়োজন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরব ২০২৬-এ CR রেজিস্ট্রেশন কত সময় নেয়?</p>
+            <p class="text-gray-400 text-sm mt-1">একটি সরল CR ১–৩ কার্যদিবস নেয়। এক্সপ্যাটদের জন্য প্রয়োজনীয় MISA লাইসেন্স সহ, সামগ্রিকভাবে ৪–৮ সপ্তাহ পরিকল্পনা করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে আমার CR-এর জন্য কি সিভিল ডিফেন্স অনুমোদন দরকার?</p>
+            <p class="text-gray-400 text-sm mt-1">শুধু শারীরিক প্রাঙ্গণ থাকলে — রেস্তোরাঁ, গুদাম, খুচরা এবং ১০+ কর্মচারী বিশিষ্ট অফিস। হোম-ভিত্তিক ও ফ্রিল্যান্স ব্যবসায় সাধারণত দরকার হয় না।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: KSA-তে CR রেজিস্ট্রেশনের জন্য ন্যূনতম মূলধন কত?</p>
+            <p class="text-gray-400 text-sm mt-1">অনেক সার্ভিস ব্যবসা পরিমিত মূলধনে (SAR 10,000 বা তার কম) নিবন্ধন করতে পারে, অন্যদিকে ট্রেডিং ব্যবসায় সাধারণত উচ্চতর মূলধন প্রয়োজন হয় — প্রায়ই SAR 30,000+।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে কি আমি অনলাইনে আমার CR নবায়ন করতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। নবায়ন বাণিজ্য মন্ত্রণালয় প্ল্যাটফর্মের মাধ্যমে চলে, এবং বেশিরভাগ লাইসেন্স (MISA, চেম্বার, মিউনিসিপাল) নিজ নিজ অনলাইন পোর্টালের মাধ্যমে নবায়ন করা যায়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: KSA-তে সময়মতো CR না নবায়ন করলে কী হয়?</p>
+            <p class="text-gray-400 text-sm mt-1">দেরিতে নবায়ন জরিমানা ট্রিগার করে (প্রায়ই SAR 1,000+), এবং মেয়াদোত্তীর্ণ CR আপনার ব্যাংক অ্যাকাউন্ট, ভিসা ও চুক্তি নবায়ন পর্যন্ত জমাট বাঁধিয়ে দিতে পারে।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>শেষ কথা: পুরো চিত্রের জন্য বাজেট করুন</h2>
+        <p>
+          যদিও মৌলিক CR ফি SAR 1,000, মোট খরচ সাধারণত <strong class="text-desert-primary">SAR 5,000 থেকে SAR 28,000+</strong> পর্যন্ত হয় আপনার ব্যবসার ধরণ, জাতীয়তা এবং অবস্থানের উপর নির্ভর করে। ব্যবধানটি কোনো চমকপ্রদ ফি নয় — এটি রাজ্যে সঠিকভাবে ব্যবসা করার প্রকৃত খরচ।
+        </p>
+        <p class="mt-4">
+          যারা সফল হন তারা হলেন যারা প্রথম দিন থেকেই পুরো চিত্রের জন্য বাজেট করেন: রেজিস্ট্রেশন, লাইসেন্স, নবায়ন এবং প্রফেশনাল সার্ভিস। যারা এই ধাপ এড়িয়ে যান তারা সেটআপের মাঝপথে থেমে যান।
+        </p>
+        <p class="mt-4">
+          লুকানো ফিতে হতবাক হবেন না।{' '}
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">SaudiToolHub CR খরচ হিসাবকারী</a>{' '}
+          ব্যবহার করে আপনার নির্দিষ্ট ব্যবসা সেটআপের জন্য সঠিক, ব্যক্তিগতকৃত অনুমান নিন।
+        </p>
+        <p class="mt-4">
+          এখনও ব্যবসার মালিকানা বনাম স্বাধীনভাবে কাজ করার মধ্যে সিদ্ধান্ত নিচ্ছেন? আমাদের{' '}
+          <a href="/guide/freelance-visa-vs-work-visa-saudi-arabia-2026" class="text-desert-primary underline">সৌদি আরবে ফ্রিল্যান্স ভিসা বনাম ওয়ার্ক ভিসা</a>{' '}
+          গাইড পড়ে দুটি পথ তুলনা করুন।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">আপনার ব্যক্তিগতকৃত CR খরচ অনুমান নিন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — এক মিনিটেরও কম সময়ে শহর, কার্যক্রম এবং প্রতিষ্ঠানের ধরণ</p>
+          <a href="/cr-cost-estimator" class="text-desert-primary underline">বিনামূল্যের CR খরচ হিসাবকারী ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই গাইডটি বর্তমান সৌদি বাণিজ্য মন্ত্রণালয়, MISA ও মিউনিসিপাল নিয়মাবলীর উপর ভিত্তি করে শুধুমাত্র তথ্যগত উদ্দেশ্যে। ফি ও প্রয়োজনীয়তা পরিবর্তন সাপেক্ষে। সর্বদা সরকারি পোর্টাল বা লাইসেন্সপ্রাপ্ত ব্যবসা সেটআপ কনসালটেন্টের সাথে বর্তমান খরচ যাচাই করুন।
+        </p>
+      </div>
+    ` }
+  },
 ]
