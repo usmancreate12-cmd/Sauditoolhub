@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { BreadcrumbJsonLd, FAQJsonLd, ArticleJsonLd } from '@/components/JsonLd'
+import { RelatedTools } from '@/components/RelatedTools'
 import { Calculator, Users, FileCheck, CreditCard, AlertTriangle, ArrowRight } from 'lucide-react'
 
 type Props = { params: Promise<{ locale: string }> }
@@ -1126,6 +1127,7 @@ export default async function FamilyVisaGuidePage({ params }: Props) {
         <section className="px-4 py-20 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl">
             {isAr ? <ArContent /> : isUr ? <UrContent /> : isTl ? <TlContent /> : isBn ? <BnContent /> : <EnContent />}
+            <RelatedTools locale={locale} />
           </div>
         </section>
       </div>
