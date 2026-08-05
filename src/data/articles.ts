@@ -20465,4 +20465,266 @@ export const articles: Article[] = [
       bn: '',
     },
   },
+  {
+    slug: 'article-80-82-sick-leave-eosb-rules-saudi-arabia-2026',
+    category: 'expat',
+    readTime: '20 min read',
+    date: '2026-08-05',
+    title: {
+      en: 'Article 80 & Sick Leave Rules: When You Lose EOSB in KSA',
+      ar: 'المادة 80 وقواعد الإجازة المرضية: متى تخسر مكافأة نهاية الخدمة في السعودية 2026',
+      ur: 'آرٹیکل 80 اور بیماری کی چھٹی کے قواعد: کب EOSB ختم ہوتا ہے 2026',
+      tl: 'Artikulo 80 at Sick Leave Rules: Kailan Mawawala ang EOSB sa KSA 2026',
+      bn: 'ধারা ৮০ ও অসুস্থতাজনিত ছুটির নিয়ম: কখন EOSB হারাবেন ২০২৬',
+    },
+    description: {
+      en: 'Can you lose your EOSB in Saudi Arabia? Learn the exact rules of Article 80 (misconduct), Article 82 (sick leave termination), and Article 117 in 2026.',
+      ar: 'هل يمكنك خسارة مكافأة نهاية الخدمة في السعودية؟ تعرّف على قواعد المادة 80 (السلوك الجسيم) والمادة 82 (الإنهاء بسبب المرض) والمادة 117 لسنة 2026.',
+      ur: 'کیا سعودی عرب میں EOSB ختم ہو سکتا ہے؟ آرٹیکل 80 (بد روی)، آرٹیکل 82 (بیماری پر ملازمت ختم) اور آرٹیکل 117 کے 2026 قواعد جانیں۔',
+      tl: 'Mawawala ba ang iyong EOSB sa Saudi Arabia? Alamin ang eksaktong rules ng Artikulo 80 (misconduct), Artikulo 82 (pagtanggal dahil sa sick leave), at Artikulo 117 sa 2026.',
+      bn: 'সৌদি আরবে কি আপনার EOSB হারাতে পারেন? ধারা ৮০ (জঘন্য অসদাচরণ), ধারা ৮২ (অসুস্থতায় চাকরি শেষ) ও ধারা ১১৭-এর ২০২৬ নিয়ম জেনে নিন।',
+    },
+    metaTitle: {
+      en: 'Article 80 & Sick Leave Rules: When You Lose EOSB in KSA',
+      ar: 'المادة 80 وقواعد الإجازة المرضية: متى تخسر EOSB 2026',
+      ur: 'آرٹیکل 80 اور بیماری کی چھٹی: کب EOSB ختم ہوتا ہے',
+      tl: 'Artikulo 80 at Sick Leave: Kailan Mawawala ang EOSB',
+      bn: 'ধারা ৮০ ও অসুস্থতাজনিত ছুটি: কখন EOSB হারাবেন',
+    },
+    content: {
+      en: `
+<div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Labor Rights Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Article 80 &amp; Sick Leave Rules 2026: When Do You Lose Your EOSB in Saudi Arabia?</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">One threat from HR can decide your gratuity. Learn exactly when Article 80 can take your EOSB, and why Articles 82 and 117 protect you when you are sick.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduction: The Threat That Keeps Workers Up at Night</h2>
+        <p>
+          Under Saudi Labor Law, you only lose your End of Service Benefit (EOSB) if you are terminated under Article 80 for gross misconduct (like fraud, assault, or severe absenteeism). However, being sick does not automatically cost you your EOSB, as Articles 82 and 117 strictly protect employees during medical leave. That is the entire legal picture in one paragraph, and it is the sentence most expats never hear.
+        </p>
+        <p class="mt-4">
+          The fear is real, and employers know how to use it. A worker in the hospital with a fever receives a call from HR: "You have been terminated, and you will get no gratuity because of your absences." Another worker who stayed home for two weeks without a medical report gets an Article 80 termination letter with a zero next to EOSB. Both scenarios happen every week in the Kingdom, and in both the difference between losing everything and keeping it comes down to two things: whether misconduct was proven, and whether a medical report was on file.
+        </p>
+        <p class="mt-4">
+          This guide gives you the exact legal rules so you can walk into any HR meeting with confidence. It breaks down Article 80, the only lawful route to zero EOSB, lists the grounds an employer can use, explains who carries the burden of proof, and then shows you the protections of Articles 82 and 117 when health problems hit. Every claim is tied to the specific article so you can cite it precisely.
+        </p>
+        <p class="mt-4">
+          Keep the central fact in mind throughout: <strong class="text-desert-primary">EOSB is a vested right that survives most endings of employment. It only dies through proven gross misconduct under Article 80, or a contract of limited duration that ends without renewal. Illness, injury, and medical leave are not misconduct.</strong> If an employer treats them as such, the law is on your side.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Worried about your final payout?</strong> Use our <a href="/eosb-calculator" class="text-desert-primary underline">Free EOSB Calculator</a> to estimate your exact entitlement based on your service years, before you react to anything HR says.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Danger Zone: Article 80 (Termination for Cause &amp; Zero EOSB)</h2>
+        <p>
+          Article 80 of the Saudi Labor Law is the single provision that allows an employer to terminate a contract without notice and without paying the End of Service Benefit. It exists to punish serious violations of the employment relationship, and its punishment is severe: the worker walks away with nothing after years of service.
+        </p>
+        <p class="mt-4">
+          Because the consequence is so extreme, the law surrounds it with strict requirements. The employer cannot invoke Article 80 casually. The violation must be real, the grounds must match the statute, and the burden of proving the misconduct sits entirely with the employer. Where proof is missing, the termination is unlawful and the EOSB must still be paid.
+        </p>
+        <h3>What Is Article 80?</h3>
+        <p>
+          Article 80 allows an employer to dismiss a worker without notice period and without severance when the worker commits a severe breach listed in the law. It is the "for cause" dismissal clause, and it is the only general route by which an employer legally avoids paying gratuity.
+        </p>
+        <p class="mt-4">
+          Note what Article 80 is not. It is not a way to fire a worker whose productivity declined. It is not a punishment for using sick leave. It is not a tool to force a resignation without costs. When an employer misuses Article 80 to escape payment, the worker can challenge it, and labor courts routinely restore gratuity to workers whose terminations were not genuinely "for cause."
+        </p>
+        <h3>The Grounds for Article 80 Termination</h3>
+        <p>The law enumerates roughly eleven grounds for an Article 80 dismissal. The ones that appear in real disputes are these:</p>
+        <ul class="list-disc list-inside space-y-2 mt-3 text-gray-300">
+          <li><strong class="text-white">Assaulting the employer, a manager, or a coworker</strong> at the workplace, whether physical or a serious threat that breaks workplace order.</li>
+          <li><strong class="text-white">Failure to perform basic duties</strong> even after a written warning, when the failure is proven and not caused by the employer's own failures.</li>
+          <li><strong class="text-white">Absenteeism without a valid excuse</strong> — absent for 20 intermittent days or 10 consecutive days in a single year. This is the ground most often weaponized.</li>
+          <li><strong class="text-white">Fraud, forgery, or revealing trade secrets</strong> that damages the business, including submitting false certificates or documents.</li>
+          <li><strong class="text-white">Working for a competitor</strong> or operating a competing business while employed.</li>
+          <li><strong class="text-white">Drunkenness or drug use at the workplace</strong>, proven and not merely rumored.</li>
+        </ul>
+        <p class="mt-4">
+          Read the list carefully and notice the pattern: every ground is an active, blameworthy act by the worker. Being ill is not on the list. A hospitalization is not on the list. A doctor-ordered rest period is not on the list. If your only "offence" is medical, Article 80 does not lawfully apply to you.
+        </p>
+        <p class="mt-4">
+          The absenteeism ground deserves special attention because it is the most frequently abused. For it to apply, the absence must be genuinely unexplained — no approved leave, no medical certificate, no notice. A single doctor's report can neutralise the entire claim, because the law does not treat a documented medical absence as the kind of desertion Article 80 punishes. Employers who count a hospital stay as absenteeism are misreading the statute, and labor courts correct that error regularly.
+        </p>
+        <h3>The Employer's Burden of Proof</h3>
+        <p>
+          The employer must prove the misconduct, and they must do so with evidence that stands up to review. A letter that says "terminated under Article 80" is not proof of the misconduct; it is merely a claim. The employer needs attendance records, written warnings, incident reports, and witnesses for most grounds.
+        </p>
+        <p class="mt-4">
+          This burden is your legal shield. An employer who cannot produce evidence cannot lawfully withhold your EOSB. If you are told "you lose your gratuity because Article 80," the correct response is to ask, in writing, for the proof of the specific ground, the dates, and the written warnings. Silence or bluster in response is a strong sign the claim is manufactured.
+        </p>
+        <p class="mt-4">
+          The practical consequence of the burden rule is that most Article 80 threats collapse under scrutiny. Employers frequently brandish the article as a scare tactic, betting that the worker will resign or accept a low settlement rather than fight. Once you demand evidence, the employer faces a choice: produce records they may not have, or back down. Do not let a bluff empty your gratuity.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Sick Leave &amp; EOSB: Articles 82 &amp; 117 Explained</h2>
+        <p>
+          Sickness is the area where workers are most vulnerable and most misinformed. The law protects you through two articles that work together: Article 117 sets the pay you receive while sick, and Article 82 sets the limits on when an employer may terminate you for illness at all. Both preserve your EOSB.
+        </p>
+        <h3>Article 117: How Sick Leave Is Paid</h3>
+        <p>
+          Article 117 of the Saudi Labor Law lays out the payment scale for sick leave during any one year of service. The first 30 days of sick leave are paid in full, at your normal wage. The next 60 days are paid at three-quarters of your wage. After 90 days of sick leave, no further pay is due from the employer.
+        </p>
+        <p class="mt-4">
+          Importantly, the employment relationship itself is protected for up to 120 days of sick leave in a single year. That means your job, your Iqama sponsorship, and your accruing EOSB stay intact through the full statutory sick window even when the pay stops. The employer cannot lawfully declare your position vacant during this window.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The Article 117 scale:</strong> Days 1–30 = full pay. Days 31–90 = three-quarters pay. Days 91–120 = unpaid, but employment remains protected. Total protected window: up to 120 days per year.</p>
+        </div>
+        <h3>Article 82: Termination During Extended Sick Leave</h3>
+        <p>
+          Article 82 sets a strict ceiling on sickness-related termination. An employer may only terminate an employee for illness when the employee has been absent for 30 continuous days or 90 intermittent days within a single year. Anything below those thresholds, and a termination based on sickness is unlawful.
+        </p>
+        <p class="mt-4">
+          The crucial protection is this: <strong class="text-desert-primary">even when an employer lawfully terminates you under Article 82, you are still entitled to your full accrued EOSB.</strong> Article 82 is not a zero-gratuity exit like Article 80. Your years of service are still paid out because illness is not misconduct.
+        </p>
+        <p class="mt-4">
+          Read the two together and the picture becomes clear: the law tolerates terminating a chronically ill worker who has exhausted the generous thresholds, but it never lets the employer steal the gratuity that those years earned. The worst a sick worker faces under Article 82 is an end to employment, never an end to the EOSB.
+        </p>
+        <p class="mt-4">
+          One more protection is worth knowing: Article 82 termination still requires the employer to follow the ordinary notice and paperwork rules where they apply, and it does not convert your departure into a resignation. Your records should show a sickness-based termination, which preserves every accrued right. If the employer instead tries to make you sign a resignation in the hospital bed, refuse — you have done nothing that turns your exit into a resignation.
+        </p>
+        <h3>Does Sick Leave Count Toward Service for EOSB?</h3>
+        <p>
+          Approved sick leave days count as actual service days when your EOSB is calculated. A worker hospitalized for three months has not lost those three months of gratuity accrual; the EOSB is computed across the continuous service record including the sick leave periods.
+        </p>
+        <p class="mt-4">
+          This is why the medical report matters so much. A documented, approved absence keeps your service record continuous and your EOSB intact. An undocumented absence leaves a hole that the employer can reinterpret as absenteeism. The paper is what separates a protected medical absence from an Article 80 accusation.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-World Scenarios (Step by Step)</h2>
+        <p>
+          These two scenarios show the exact fork in the road where documentation decides the outcome. The facts are near-identical; the paperwork is not.
+        </p>
+        <h3>Scenario A: The Absenteeism Trap (Article 80)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p><strong>Given:</strong> Worker stays home for 12 consecutive days with no medical report and no written leave approval.</p>
+          <p class="mt-3 text-desert-primary font-bold">What happens:</p>
+          <p>1. Absence crosses the 10-day consecutive threshold under Article 80.</p>
+          <p>2. Employer issues a termination letter citing absenteeism.</p>
+          <p>3. No documentation exists on the worker's side to show a valid excuse.</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Result: Zero EOSB for all years of service.</p>
+          <p class="text-gray-400 text-xs mt-1">A single approved medical report covering the period would have changed this outcome completely.</p>
+        </div>
+        <h3>Scenario B: The Medical Emergency (Article 82)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p><strong>Given:</strong> Worker is hospitalized and absent for 35 continuous days with approved medical reports from a recognized hospital.</p>
+          <p class="mt-3 text-desert-primary font-bold">What happens:</p>
+          <p>1. Absence crosses the 30-day continuous threshold under Article 82.</p>
+          <p>2. Employer lawfully ends the contract citing extended sickness.</p>
+          <p>3. Termination is legal, but misconduct is absent.</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Result: Full accrued EOSB for the worker's years of service.</p>
+          <p class="text-gray-400 text-xs mt-1">Plus sick pay under Article 117 for the paid window of the absence.</p>
+        </div>
+        <p class="mt-4">
+          The difference between these two workers is not their health. It is the medical report on file. In one case the absence looks like desertion; in the other it reads as illness. That single document redirected the entire legal outcome.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>How to Protect Your EOSB from Illegal Article 80 Claims</h2>
+        <p>
+          You cannot stop an employer from lying, but you can make the lie impossible to prove. These three steps turn your defence into a written record that survives any labor office review.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 1: Always Provide Medical Reports</p>
+            <p class="text-gray-400 text-sm">Never be absent without an approved medical report from a recognized Saudi hospital or clinic. Submit it to HR the same day and keep the stamped copy and the delivery confirmation. A doctor's certificate converts an absence into protected sick leave under Article 117.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 2: Document Everything</p>
+            <p class="text-gray-400 text-sm">Keep copies of every warning, email, HR letter, and attendance record. Save them in your personal email and phone, never only in company systems. If a dispute later turns on whether you were warned or whether you were absent, the side with the paper wins.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 3: File the MHRSD Complaint</p>
+            <p class="text-gray-400 text-sm">If the employer withholds EOSB claiming Article 80 without evidence, file a complaint immediately on the Friendly Settlement (Tawafuq) portal at tarhal.mhrsd.gov.sa. The ministry can summon the employer to justify the deduction, and a missing burden of proof will work in your favor.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          Timing matters. File while you are still in the Kingdom and while records are fresh. A complaint lodged before you depart carries far more weight than a long-distance message sent after your exit stamp.
+        </p>
+        <p class="mt-4">
+          Add one habit on top of the three steps: respond to every HR accusation in writing and within a day. If you receive a warning letter or a termination notice, reply in an email that states your position, attaches your evidence, and preserves the timeline. A written objection on record transforms a later dispute from a word-versus-word battle into a documentary review, and documents are where your rights live.
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats</h2>
+        <p>
+          Where you come from changes how this plays out in practice. Two communities face the highest risk of losing money through the very process designed to protect them, and the advice below is specific to each.
+        </p>
+        <h3>For South Asian Expats (Pakistan / India / Bangladesh)</h3>
+        <p>
+          Never sign a "voluntary resignation" paper when the employer threatens Article 80. The trap works like this: the employer has no proof of misconduct, so they pressure you to resign "to keep your record clean." Resigning converts a doubtful Article 80 case into a resignation, and a resignation under Article 84 can leave you with zero or partial EOSB depending on your years.
+        </p>
+        <p class="mt-4">
+          The opposite strategy is usually smarter: if the employer has no proof, let them fire you under Article 80 and then challenge it. An unfounded Article 80 termination, once overturned in the labor court, restores your full EOSB. Your own resignation closes that door forever. Hold the line, request the proof in writing, and do not sign away your gratuity under pressure.
+        </p>
+        <h3>For Filipino Expats</h3>
+        <p>
+          The Philippine Overseas Labor Office (POLO) will not clear your final settlement if the employer illegally deducts EOSB under a false Article 80 claim without a final labor court judgment. POLO's clearance is a gate the employer must pass before you can fly out.
+        </p>
+        <p class="mt-4">
+          Submit your case to POLO before you accept any settlement amount. Provide your contract, attendance records, medical reports, and the Article 80 termination letter. If the employer cannot produce a court judgment or genuine evidence of misconduct, POLO's refusal to clear the deduction gives you the leverage to recover the withheld gratuity.
+        </p>
+        <p class="mt-4">
+          One rule applies to every expat regardless of nationality: remember <strong class="text-desert-primary">Article 8</strong>. Any document that forces you to waive statutory rights — including a "settlement" that extinguishes your EOSB — is null and void even if signed under pressure. A coerced waiver is not a lawful way to end your gratuity claim.
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can my employer fire me without EOSB for being sick in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Illness is not misconduct. Even if the employer lawfully ends your contract under Article 82 after prolonged absence, you are still entitled to your full accrued EOSB. Only proven Article 80 misconduct strips the gratuity.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">What is the absenteeism rule for Article 80 in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">An employer may invoke Article 80 for absence of 20 intermittent days or 10 consecutive days in a year without a valid excuse, provided the absence is proven and not covered by an approved medical report.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Does sick leave count towards my EOSB years of service?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. Approved sick leave counts as actual service time, so the months you were ill still accrue EOSB. The medical documentation is what keeps that service record continuous.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">How many days of sick leave are paid in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Under Article 117, the first 30 days are paid in full, the next 60 days at three-quarters pay, and days 91 to 120 are unpaid but the employment remains protected.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can I claim my EOSB if my employer falsely accuses me of misconduct?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. The employer must prove the misconduct. Without evidence, the Article 80 termination is unlawful and the EOSB must be paid. File on the Tawafuq portal or labor court to enforce it.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Conclusion: Article 80 Is for Misconduct, Not for Sick Workers</h2>
+        <p>
+          Article 80 is a strict provision written for gross misconduct, not a discount tool for employers who want to avoid paying sick workers. It demands proof, and without proof it cannot lawfully take a single riyal of your gratuity. Meanwhile Articles 82 and 117 build a protective shell around you during medical leave: paid sick days, a protected employment window, and an EOSB that keeps accruing.
+        </p>
+        <p class="mt-4">
+          The practical routine that protects you is simple. Never be absent without an approved medical report. Keep a personal copy of every HR letter and attendance record. And if an employer claims Article 80 without evidence, file the Tawafuq complaint while you are still in the Kingdom and let the burden of proof work in your favor.
+        </p>
+        <p class="mt-4">
+          Do not let fear cost you your hard-earned money. Use the <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB Calculator</a> to verify your exact legal entitlement before you respond to any threat from HR.
+        </p>
+        <p class="mt-4">
+          Leaving your job on good terms? Also read our guide on <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Article 84 vs 85</a>, and check <a href="/guide/article-81-employer-breach-full-eosb-entitlement-saudi-arabia-2026" class="text-desert-primary underline">what happens when your employer breaches the contract first</a>.
+        </p>
+        <p class="mt-4">
+          One final reminder that summarises everything: sickness is protected, misconduct is proven, and the gratuity you earned over years of work is a vested right. Make the paperwork reflect your truth before a dispute begins, and the law will protect you when it does. Your health and your earnings both deserve that paper trail, and both survive well beyond any single threat from HR.</p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Calculate Your EOSB Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — enter your basic salary and years of service to see what you are legally owed</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">Use the Free EOSB Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on the Saudi Labor Law. Every employment dispute is unique. For official disputes, always refer to the Ministry of Human Resources and Social Development (MHRSD) or consult a licensed legal professional.
+        </p>
+      </div>
+      `,
+      ar: '',
+      ur: '',
+      tl: '',
+      bn: '',
+    },
+  },
 ]
