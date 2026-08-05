@@ -20188,4 +20188,281 @@ export const articles: Article[] = [
     `,
     },
   },
+  {
+    slug: 'saudi-final-settlement-breakdown-leave-pay-exit-visa-deductions-2026',
+    category: 'expat',
+    readTime: '20 min read',
+    date: '2026-08-05',
+    title: {
+      en: 'Saudi Final Settlement Breakdown 2026: Leave Pay, Exit Visa & Deductions',
+      ar: 'تسوية نهاية الخدمة في السعودية 2026: مستحقات الإجازة وتذكرة العودة والخصومات',
+      ur: 'سعودی فائنل سیٹلمنٹ 2026: چھٹیوں کا پیسہ، ایگزٹ ویزا اور کٹوتیاں',
+      tl: 'Saudi Final Settlement 2026: Leave Pay, Exit Visa at Mga Deduction',
+      bn: 'সৌদি ফাইনাল সেটেলমেন্ট ২০২৬: ছুটির পারিশ্রমিক, এক্সিট ভিসা ও কর্তন',
+    },
+    description: {
+      en: 'Leaving your job in KSA? A final settlement includes your EOSB, accrued unpaid leave pay, and your repatriation ticket under Article 40. See the full 2026 breakdown, legal vs illegal deductions, and example calculations.',
+      ar: 'تغادر وظيفتك في السعودية؟ تتضمن التسوية النهائية مكافأة نهاية الخدمة وأجر الإجازة غير المستخدمة وتذكرة العودة وفق المادة 40. تعرّف على التفاصيل الكاملة والخصومات القانونية وغير القانونية مع أمثلة حسابية.',
+      ur: 'سعودی عرب میں نوکری چھوڑ رہے ہیں؟ فائنل سیٹلمنٹ میں EOSB، غیر استعمال شدہ چھٹی کی ادائیگی اور آرٹیکل 40 کے تحت تذکرہ شامل ہے۔ مکمل تفصیل، جائز و ناجائز کٹوتیاں اور مثالیں جانیں۔',
+      tl: 'Aalis sa trabaho sa KSA? Kasama sa final settlement ang iyong EOSB at bayad sa hindi nagamit na leave, at ang repatriation ticket sa ilalim ng Artikulo 40. Alamin ang buong breakdown, legal at iligal na deductions, at sample na kalkulasyon.',
+      bn: 'সৌদি আরবে কাজ ছাড়ছেন? ফাইনাল সেটেলমেন্টে আপনার EOSB, অব্যবহৃত ছুটির পারিশ্রমিক এবং ধারা ৪০ অনুযায়ী রেপ্যাট্রিয়েশন টিকিট অন্তর্ভুক্ত। সম্পূর্ণ বিশদ এবং বৈধ-অবৈধ কর্তন ও উদাহরণ জেনে নিন।',
+    },
+    metaTitle: {
+      en: 'Saudi Final Settlement 2026: Leave Pay, Exit Visa & Deductions',
+      ar: 'تسوية نهاية الخدمة 2026: أجر الإجازة وتأشيرة الخروج والخصومات',
+      ur: 'سعودی فائنل سیٹلمنٹ 2026: چھٹی کا پیسہ، ایگزٹ ویزا اور کٹوتیاں',
+      tl: 'Saudi Final Settlement 2026: Leave Pay, Exit Visa at Deductions',
+      bn: 'ফাইনাল সেটেলমেন্ট ২০২৬: ছুটির টাকা, এক্সিট ভিসা ও কর্তন',
+    },
+    content: {
+      en: `
+<div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Payroll Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Saudi Final Settlement Breakdown 2026: Leave Pay, Exit Visas &amp; Deductions</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">One payslip decides whether your years in Saudi paid off. Learn exactly what belongs in your final settlement — leave pay, the exit ticket, and what they cannot deduct.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduction: The Settlement That Decides Your Whole Stay</h2>
+        <p>
+          A complete final settlement in Saudi Arabia includes your End of Service Benefit (EOSB), accrued but unused annual leave pay, and any unpaid salary. Under Article 40, the employer must also bear the cost of your repatriation ticket to your home country or place of recruitment. That single sentence is the difference between thousands of riyals kept and thousands quietly lost.
+        </p>
+        <p class="mt-4">
+          Every week a worker signs a "full and final settlement" document in a hurry, convinced the HR clerk has done the math for them. The clerk has not. Most final settlements in KSA are underpaid, and the worker only discovers it after the exit stamp is on the passport and the bank account is closed. Once you are outside the Kingdom, chasing a missing number through the Ministry of Human Resources and Social Development (MHRSD) becomes a long-distance fight.
+        </p>
+        <p class="mt-4">
+          This guide walks through the payslip line by line the way a seasoned payroll director would explain it to a departing colleague. There is no jargon wall and no fluff — just the four components every settlement must contain, the exact formulas for leave pay, who legally pays for the exit visa and flight, and a clear list of deductions you are not obliged to accept. Each rule is tied to the Saudi Labor Law article that backs it, so you can cite it with confidence.
+        </p>
+        <p class="mt-4">
+          The direct answer you came for: <strong class="text-desert-primary">your final settlement must pay you (1) prorated salary for your last partial month, (2) End of Service Benefit under Articles 84 and 85, (3) cash for all accrued but unused annual leave under Article 109, and (4) your exit-visa and repatriation ticket costs under Article 40 — all transferred by WPS bank transfer.</strong> Anything less needs to be questioned before you sign.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Do not accept a settlement without verifying it.</strong> Use our <a href="/final-settlement-calculator" class="text-desert-primary underline">Free Final Settlement Calculator</a> to estimate your exact dues before signing. It takes under a minute and your data stays on your device.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The 4 Pillars of a Saudi Final Settlement</h2>
+        <p>
+          A Saudi final settlement is not one payment. It is a bundle of four separate entitlements, and each one is calculated by its own rule. Treating them as one lump sum is how workers get shortchanged, because payroll will happily present one low number and call it "the settlement."
+        </p>
+        <p class="mt-4">The four mandatory components are:</p>
+        <ol class="list-decimal list-inside space-y-2 mt-3 text-gray-300">
+          <li><strong class="text-white">Pro-rated salary</strong> for your final partial month of work, from the first day of that month to your actual termination date.</li>
+          <li><strong class="text-white">End of Service Benefit (EOSB)</strong> — the gratuity accrued under Article 84, adjusted by your reason for leaving under Article 85.</li>
+          <li><strong class="text-white">Accrued but unused annual leave pay</strong> under Article 109, paid as cash compensation for vacation days you earned but never took.</li>
+          <li><strong class="text-white">Repatriation ticket and exit-visa costs</strong> under Article 40, which the employer must cover when you leave the Kingdom.</li>
+        </ol>
+        <p class="mt-4">
+          Missing pillars are the most common error in real settlements. A worker who has taken every vacation day still gets pillars 1, 2, and 4. A worker leaving at contract end without any unpaid days still gets 2 and 4. Only by checking all four can you know whether the number on the page is complete.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Accrued Leave Pay: How to Calculate Your Unused Vacation Days</h2>
+        <p>
+          You are entitled to cash for every annual leave day you earned and did not use, on top of your EOSB. This is the pillar most often missing from settlements, because payroll assumes workers will not check their leave ledger. You should check it before signing.
+        </p>
+        <h3>The Legal Entitlement (Article 109)</h3>
+        <p>
+          Article 109 of the Saudi Labor Law gives you a minimum of 21 days of paid annual leave for each of your first five years of service, and 30 days per year after that. You cannot be paid less than this by contract. This accrues against your ledger the moment you complete each month of service, so a worker who resigns after ten months has earned about ten months' worth of leave, not zero.
+        </p>
+        <p class="mt-4">
+          The split matters for long-serving staff. At year five your entitlement jumps from 21 to 30 days. A worker in their sixth year earns one more full week of leave per year than a worker in their first year, and both carry those days as a cash claim if they go unused.
+        </p>
+        <h3>How Unused Leave Is Paid Out</h3>
+        <p>
+          Upon termination, the employer must pay cash compensation for every unused leave day, calculated on your last drawn wage. That is your final basic salary at the moment of departure, not an average and not the lower figure from years ago. If your salary rose over your contract, the higher final figure is the one used.
+        </p>
+        <p class="mt-4">
+          The Daily Rate comes from dividing your monthly basic salary by 30. This is the standard convention across MHRSD processes and labor courts. Your employer cannot substitute a smaller daily figure or ignore flushing days from one year into the next.
+        </p>
+        <h3>The "Use It or Lose It" Myth</h3>
+        <p>
+          Employers cannot legally force you to forfeit unused leave just because you resign. The "use it or lose it" rule is a myth for paid statutory leave in KSA. Your accrued days are a debt the employer owes you, and it survives your resignation.
+        </p>
+        <p class="mt-4">
+          The only true exception is an explicit written waiver where you knowingly abandon the claim — and even then, <strong class="text-desert-primary">Article 8 makes any waiver of statutory rights null and void.</strong> A signature on a form that says you "voluntarily forgo all outstanding leave" carries little legal weight and is routinely challenged. Never volunteer to cancel your days.
+        </p>
+        <h3>Calculation Formula</h3>
+        <p class="font-mono text-gray-300 bg-[#0A0E1A] p-4 rounded-lg">
+          Leave Pay = (Monthly Basic Salary ÷ 30) × Number of Unused Leave Days
+        </p>
+        <p class="mt-3">
+          <strong class="text-white">Example:</strong> A worker with 5,000 SAR basic salary and 15 unused days is owed 15 × (5,000 ÷ 30) = 15 × 166.67 = <strong class="text-desert-primary">2,500 SAR</strong> in leave pay alone. That is real money most workers never claim because nobody offered it on the first pay alert.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <p class="mt-4">
+          Leave days do not stop accruing the month you resign. If you handed in your notice on the fifteenth of the month, you still earn leave for the days you actually worked up to your last day. Payroll sometimes ignores this trailing accrual, so count from your contract start date to your true last working day, then deduct only the days you genuinely used. A two-week window of earned-but-unpaid leave is a common silent underpayment. Keep your own ledger of approved leave dates and compare it line by line against what HR prints on the settlement sheet.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Article 40: Who Pays for the Final Exit Visa and Repatriation Ticket?</h2>
+        <p>
+          Under Article 40 of the Saudi Labor Law, when your contract ends and you are leaving the Kingdom, your employer must pay for your return ticket to your home country, or to the place where you were originally recruited. This is a hard legal obligation, not a favour, and it covers the flight even when it is an exit-visa at the end of a resignation.
+        </p>
+        <h3>The Employer's Legal Obligation</h3>
+        <p>
+          The obligation activates the moment your employment relationship ends through termination, contract expiry, or resignation leading to departure. The employer must provide the ticket and bear the cost of the final exit formalities. A sizable number of employers test this by quietly proposing you "book your own ticket and we will reimburse later," a promise that frequently evaporates after your departure.
+        </p>
+        <p class="mt-4">
+          The correct position is simple: the ticket is theirs to provide. If they ask you to pay and then reimburse, get the reimbursement promise in writing before paying a single riyal, or refuse and ask them to book it directly.
+        </p>
+        <h3>Exceptions to the Rule</h3>
+        <p>The responsibility does not apply in four specific situations:</p>
+        <ul class="list-disc list-inside space-y-2 mt-3 text-gray-300">
+          <li><strong class="text-white">Iqama transfer:</strong> If you transfer your Iqama to a new local employer rather than leaving, the new employer takes over ticket responsibility. The old employer is released.</li>
+          <li><strong class="text-white">Written contract agreement:</strong> If you explicitly agreed in the contract to bear the cost yourself. Courts treat these clauses strictly and often overturn them as unfair, but the clause exists.</li>
+          <li><strong class="text-white">Absconding (Huroob):</strong> If you absconded, the obligation is void and you are unlikely to get any ticket support.</li>
+          <li><strong class="text-white">Gross misconduct (Article 80):</strong> If you were terminated under Article 80 for serious misconduct, the employer's ticket obligation can be set aside.</li>
+        </ul>
+        <p class="mt-4">
+          Note the everyday rule: a normal resignation or contract expiry keeps the employer's ticket duty fully intact. Do not let an employer treat a clean resignation as though it were a Huroob just to dodge the flight cost.
+        </p>
+        <h3>Exit Visa Fees</h3>
+        <p>
+          When the termination is initiated by the employer, or the contract simply expires, the employer also covers the processing fees for the final exit visa. This includes the official visa fee and the associated administrative charges. If the employer refuses, the MHRSD labor office and the exit points have mechanisms to override a refused exit on legitimate grounds.
+        </p>
+        <p class="mt-4">
+          A refused final exit visa is one of the most stressful corners of Saudi employment. When it happens because the employer is withholding out of spite over a dispute, escalate to the labor office rather than accept an unlawful extension of stay. A pending settlement dispute is not legal grounds for blocking your exit.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Legal vs. Illegal Deductions: What Can Your Employer Cut?</h2>
+        <p>
+          Not every deduction your employer wants is lawful. Saudi law draws a clear line between legitimate recovery and hidden theft, and knowing the line protects your settlement. The burden of proving a deduction is justified sits firmly with the employer.
+        </p>
+        <h3>Legal Deductions (Articles 96 &amp; 97)</h3>
+        <p>An employer may lawfully deduct only from a short list of defined categories:</p>
+        <ul class="list-disc list-inside space-y-2 mt-3 text-gray-300">
+          <li><strong class="text-white">Loan and advance recovery:</strong> Repayment of advances or loans the employer genuinely gave you, where the terms were agreed in writing.</li>
+          <li><strong class="text-white">Mistaken overpayments:</strong> Wages paid in error that must be clawed back because the money was never actually owed.</li>
+          <li><strong class="text-white">Proven negligence damages:</strong> Damages you caused through proven negligence, but these are <strong class="text-white">capped at 5 days' wage per month</strong> and must be supported by evidence, not a blanket accusation.</li>
+          <li><strong class="text-white">Any deduction explicitly agreed in writing</strong> between you and the employer, within the law's limits.</li>
+        </ul>
+        <p class="mt-4">
+          Even lawful categories have boundaries: a negligence claim needs proof of the act and the harm, and the monthly cap stops the employer from draining your whole gratuity in one line. A general "damages" deduction with no police report, no photos, and no assessment is not legal.
+        </p>
+        <h3>Illegal Deductions (Red Flags)</h3>
+        <p>These are the deductions you should refuse, and note in a written objection before signing anything:</p>
+        <ul class="list-disc list-inside space-y-2 mt-3 text-gray-300">
+          <li><strong class="text-white">"Resignation fees" or "notice buyout"</strong> charged even though you served your correct notice period. The notice wage is either payable or not based on your notice, not as a fee on top.</li>
+          <li><strong class="text-white">Blanket "equipment damage" fees</strong> with no proof, no inventory check, and no reports. These are the most common illegal deduction in KSA settlements.</li>
+          <li><strong class="text-white">"Training cost" recovery</strong> unless you signed a specific, legally valid training bond that meets the law's strict conditions.</li>
+          <li><strong class="text-white">Forcing you to pay your own final exit visa</strong> when the employer initiated the termination or the contract expired — that cost is theirs under Article 40.</li>
+        </ul>
+        <p class="mt-4">
+          The red-flag pattern to watch: a deduction with no supporting paper, introduced only at the settlement moment. If a cost is not written anywhere in your contract and appears for the first time on your final payslip, demand the legal basis in writing.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-World Calculation Examples (Step by Step)</h2>
+        <p>
+          Watch the whole settlement come together with numbers. These two walkthroughs mirror the two most common departures: a clean resignation and an employer termination at final exit.
+        </p>
+        <h3>Scenario A: The Standard Resignation</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p><strong>Given:</strong> Basic salary 5,000 SAR, 15 unused leave days, 6 years of service, resignation (EOSB at the 2/3 level).</p>
+          <p class="mt-3 text-desert-primary font-bold">Step 1 — End of Service Benefit:</p>
+          <p>Full EOSB = (5,000 ÷ 2 × 5 yrs) + (5,000 × 1 yr) = 12,500 + 5,000 = 17,500 SAR</p>
+          <p>Resignation at 6 years = 2/3 × 17,500 = <span class="text-white">11,666.67 SAR</span></p>
+          <p class="mt-3 text-desert-primary font-bold">Step 2 — Unused Leave Pay:</p>
+          <p>15 days × (5,000 ÷ 30) = 15 × 166.67 = <span class="text-white">2,500 SAR</span></p>
+          <p class="mt-3 text-desert-primary font-bold">Step 3 — Final 10 days of that month:</p>
+          <p>10 × (5,000 ÷ 30) = <span class="text-white">1,666.67 SAR</span></p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Total settlement ≈ 15,833 SAR</p>
+          <p class="text-gray-400 text-xs mt-1">Excluding the repatriation flight, which the employer owes separately under Article 40.</p>
+        </div>
+        <h3>Scenario B: The Final Exit (Employer Termination)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p><strong>Given:</strong> Basic salary 4,000 SAR, 30 unused leave days, 3 years, employer termination (full EOSB).</p>
+          <p class="mt-3 text-desert-primary font-bold">Step 1 — End of Service Benefit (full):</p>
+          <p>(4,000 ÷ 2 × 3 yrs) = <span class="text-white">6,000 SAR</span></p>
+          <p class="mt-3 text-desert-primary font-bold">Step 2 — Unused Leave Pay:</p>
+          <p>30 days × (4,000 ÷ 30) = <span class="text-white">4,000 SAR</span></p>
+          <p class="mt-3 text-desert-primary font-bold">Step 3 — Repatriation flight (employer pays):</p>
+          <p>Ticket cost = <span class="text-white">1,500 SAR</span></p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Total settlement ≈ 11,500 SAR</p>
+          <p class="text-gray-400 text-xs mt-1">Plus your prorated salary for the final partial month on top of these figures.</p>
+        </div>
+        <p class="mt-4">
+          Both examples share one lesson: EOSB alone is never the full story. Add your leave days and your ticket rights, and the number you walk away with grows meaningfully. Verify each line with a calculator before you accept the HR total.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats</h2>
+        <p>
+          Your nationality changes how the settlement plays out on the ground. Two groups face the highest risk of shortchanging, and being prepared is your best defense.
+        </p>
+        <h3>For South Asian Expats (Pakistan / India / Bangladesh)</h3>
+        <p>
+          Do not sign a "Full and Final Settlement" written in Arabic if you do not fully understand it, especially when leave pay or the ticket cost is missing from the figures presented to you. A bilingual worker in a hurry is exactly whom these forms are designed to pressure. Ask for the same document in English or Urdu, and take your time.
+        </p>
+        <p class="mt-4">
+          Remember <strong class="text-desert-primary">Article 8</strong>: a waiver that strips your statutory rights is null and void even if you signed it. If a form says you "relinquish all claims for leave and ticket expenses," the signature does not automatically kill your right — the labour office and courts can set it aside. But the cleaner path is to refuse to sign a loss, not to sign and fight later.
+        </p>
+        <h3>For Filipino Expats</h3>
+        <p>
+          The Philippine Overseas Labor Office (POLO) will not clear your final settlement if the employer illegally deducted the repatriation ticket or shortchanged your leave pay. Before you file out, have your settlement reviewed by POLO. Their clearance is a gate the employer must pass, which gives you real leverage to fix errors before you fly.
+        </p>
+        <p class="mt-4">
+          Bring your contract, bank statements, and leave ledger to the POLO review. A reviewed, verified settlement is far harder for an employer to underpay, because the work has already been checked by an office with authority to block the departure clearance.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">How is unused annual leave calculated in the final settlement in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Unused leave pay = (monthly basic salary ÷ 30) × unused leave days, based on your last drawn wage. Under Article 109 you earn at least 21 days a year for the first five years and 30 days after that.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Does the employer have to pay for my flight ticket when I leave Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. Under Article 40, the employer must pay your repatriation ticket to your home country or place of recruitment when your contract ends and you leave, with limited exceptions for Iqama transfer, absconding, or gross misconduct.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can my employer deduct money from my final settlement for broken equipment?</p>
+            <p class="text-gray-400 text-sm mt-1">Only if the damage is proven and the deduction is capped at 5 days' wage per month under Article 97. A blanket damage fee with no proof, police report, or inventory check is illegal and should be refused.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">What happens if my employer refuses to issue my final exit visa?</p>
+            <p class="text-gray-400 text-sm mt-1">A settlement dispute is not legal grounds to block your exit. Escalate to the MHRSD labor office, which can override a refused final exit on legitimate grounds while your dues are settled separately.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Is the final settlement paid in cash or bank transfer in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Settlements must be paid by Wage Protection System (WPS) bank transfer, not cash. A cash settlement with no transfer record is a red flag that weakens your proof if a dispute arises.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Conclusion: Verify Every Riyal Before You Sign</h2>
+        <p>
+          A final settlement is far more than your End of Service Benefit. It bundles your prorated salary, your gratuity, cash for every unused leave day, and the repatriation ticket the law puts on your employer's bill. Check all four pillars against the numbers on the page before you accept anything.
+        </p>
+        <p class="mt-4">
+          The three questions that protect you are simple: Did payroll include my unused leave days? Who is paying for my flight? And is every deduction backed by a written legal basis? If any answer is unclear, do not sign. Ask for the basis in writing, escalate through the MHRSD labor office, and call on Article 8 if a waiver is used against you.
+        </p>
+        <p class="mt-4">
+          Do not let payroll errors cost you thousands. Use the <a href="/final-settlement-calculator" class="text-desert-primary underline">SaudiToolHub Final Settlement Calculator</a> to verify every Riyal you are owed before you put pen to paper.
+        </p>
+        <p class="mt-4">
+          Want the full framework behind these numbers? Read <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Article 84 vs 85</a> to see exactly how your reason for leaving reshapes the gratuity, and check <a href="/guide/eosb-allowances-basic-salary-calculation-saudi-arabia-2026" class="text-desert-primary underline">which salary components belong in your EOSB base</a> so the formula starts from the right number.
+        </p>
+        <p class="mt-4">
+          Keep this one habit above all: verify, then sign. A five-minute check of your leave ledger and ticket rights now saves a months-long fight from abroad later. Your years of work in the Kingdom are worth pounds of paperwork. Make the paperwork work for you.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Estimate Your Full Settlement Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — enter your basic salary, leave days, and years of service to see all four pillars</p>
+          <a href="/final-settlement-calculator" class="text-desert-primary underline">Use the Free Final Settlement Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on the Saudi Labor Law. Payroll policies and specific contract terms may vary. For official disputes, always refer to the Ministry of Human Resources and Social Development (MHRSD) or consult a licensed legal professional.
+        </p>
+      </div>
+      `,
+      ar: '',
+      ur: '',
+      tl: '',
+      bn: '',
+    },
+  },
 ]
