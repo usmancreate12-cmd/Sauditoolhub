@@ -16189,4 +16189,4003 @@ export const articles: Article[] = [
     `
     }
   },
+  {
+    slug: 'eosb-allowances-basic-salary-calculation-saudi-arabia-2026',
+    category: 'expat',
+    readTime: '15 min read',
+    date: '2026-08-05',
+    title: {
+      en: 'EOSB Allowances in Saudi Arabia 2026: What Counts in Basic Salary?',
+      ar: 'مكافأة نهاية الخدمة والبدلات في السعودية 2026: ما الذي يدخل في الراتب الأساسي؟',
+      ur: 'سعودی عرب 2026 میں EOSB اور الاؤنسز: بنیادی تنخواہ میں کیا شامل ہے؟',
+      tl: 'EOSB at mga Allowance sa Saudi Arabia 2026: Ano ang Kasama sa Pangunahing Sahod?',
+      bn: 'সৌদি আরব ২০২৬-এ ইওএসবি ও ভাতা: মৌলিক বেতনে কী অন্তর্ভুক্ত?',
+    },
+    description: {
+      en: 'Does housing or transport allowance count in EOSB? Learn which salary components are included in Saudi end of service benefit calculations 2026.',
+      ar: 'هل يدخل بدل السكن أو بدل المواصلات في مكافأة نهاية الخدمة؟ تعرّف بالضبط على مكونات الراتب التي تُحتسب في مكافأة نهاية الخدمة في السعودية 2026.',
+      ur: 'کیا ہاؤسنگ یا ٹرانسپورٹیشن الاؤنس EOSB میں شامل ہے؟ جانیں کہ 2026 میں سعودی مزدوری معاوضہ میں تنخواہ کے کون سے اجزاء شامل ہوتے ہیں۔',
+      tl: 'Kasama ba ang housing o transportation allowance sa EOSB? Alamin kung aling mga bahagi ng sahod ang kasama sa kalkulasyon ng end of service benefit sa Saudi Arabia 2026.',
+      bn: 'আবাসন বা পরিবহন ভাতা কি ইওএসবি-তে অন্তর্ভুক্ত? জেনে নিন ২০২৬ সালে সৌদি সেবা-সমাপ্তি সুবিধা হিসাবে কোন বেতন উপাদানগুলো অন্তর্ভুক্ত।',
+    },
+    metaTitle: {
+      en: 'EOSB Allowances in KSA 2026: What Counts in Basic Salary?',
+      ar: 'مكافأة نهاية الخدمة والبدلات في السعودية 2026: أساس الحساب',
+      ur: 'سعودی عرب میں EOSB الاؤنسز 2026: بنیادی تنخواہ کا حساب',
+      tl: 'EOSB Allowances sa KSA 2026: Ano ang Kasama?',
+      bn: 'সৌদি আরবে ইওএসবি ভাতা ২০২৬: মৌলিক বেতনে কী আছে',
+    },
+    content: {
+      en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Labor Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">EOSB Allowances in Saudi Arabia 2026: What Counts in Basic Salary?</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Housing, transport, mobile, bonuses — which parts of your salary actually feed into your End of Service Benefit? The answer determines thousands of riyals at exit time. Here is exactly how the law treats each component.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduction: The Salary That Hides Your Real EOSB</h2>
+        <p>
+          Open any expat employment contract in Saudi Arabia and you will see the same pattern: a salary broken into pieces. Basic salary, housing allowance, transportation allowance, mobile allowance, sometimes a bonus clause and a vague mention of overtime. Your heart skips when you see the big total at the bottom of the offer letter. Then, years later, your HR department hands you a gratuity cheque that feels embarrassingly small — and you finally realise the big number you signed was never the number used to calculate what you actually take home at exit.
+        </p>
+        <p class="mt-4">
+          The direct answer, up front: <strong class="text-desert-primary">Under Saudi Labor Law Article 1, End of Service Benefit (EOSB) is calculated based on your last drawn basic salary only.</strong> Housing, transportation, mobile, and other allowances are typically excluded unless your employment contract or company policy explicitly states otherwise. Most expats lose money not because the calculator is wrong, but because they never understood which component the law uses as its base.
+        </p>
+        <p class="mt-4">
+          This guide is written from the perspective of a senior HR consultant who has processed hundreds of final settlements. It walks through the legal definition of wages, separates the components that count from the ones that do not, shows you real step-by-step calculations with the exact numbers, and — most importantly — explains how to protect yourself before you sign. The average mistake described in Scenario B below costs an expat roughly 6,000 to 12,000 SAR over a six-year contract. You do not need to be that statistic.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Not sure about your salary breakdown?</strong> Use our <a href="/eosb-calculator" class="text-desert-primary underline">Free EOSB Calculator</a> to calculate your entitlement based on your exact basic salary — it takes less than a minute.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Saudi Labor Law Article 1: Defining &quot;Wages&quot; for EOSB</h2>
+        <p>
+          Everything about your gratuity starts with one word in the statute: <strong class="text-white">wages</strong> (اجر, transliterated <em>ajr</em>). Article 1 of the Saudi Labor Law defines wages as the amount paid to the worker for his or her work, whether paid on a monthly, weekly, daily, or hourly basis. The definition is deliberately broad — but the practice of calculating EOSB has narrowed it in a very specific way.
+        </p>
+        <p class="mt-4">
+          The general rule applied across Saudi companies and confirmed in labor disputes is that the EOSB base is the <strong class="text-desert-primary">basic salary</strong> — the fixed, contractual core payment — plus any fixed, regular cash allowances that are paid every month without variation and are documented in the contract. Allowances that are discretionary, conditional, or designed to reimburse an actual expense (like a phone bill or a fuel purchase) do not form part of wages for EOSB purposes.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Why this matters:</strong> A company can pay you 7,000 SAR every month, split as 5,000 basic and 2,000 in allowances, and legally calculate your gratuity on the 5,000. If you never read your contract breakdown, you will discover this only at the settlement table. The law does not automatically give you the larger number just because you receive it.</p>
+        </div>
+        <p class="mt-4">
+          Two clarifications are worth locking in now. First, the law looks at the <strong class="text-white">last drawn basic salary</strong> — if you received a raise in your final year, the new basic applies to the entire service period, which is a powerful reason to negotiate raises that hit your basic component rather than your allowances. Second, recent labor court practice has shown increasing willingness to treat a <em>fixed monthly allowance</em> as part of the wage base when the contract and payment records consistently show it as a guaranteed, non-variable amount. But you should never rely on a court to fix what a contract should have stated clearly in writing.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Salary Components That COUNT Toward EOSB</h2>
+        <p>
+          Start with the good news: some parts of your salary do feed into the EOSB base. These are the components that are fixed, guaranteed, and documented. If your package is structured smartly, your gratuity grows with you. Here is what counts.
+        </p>
+        <h3>Basic Salary (Al-Ratib Al-Asasi / الراتب الأساسي)</h3>
+        <p>
+          The core fixed monthly payment is the foundation of your entire EOSB. It is the number that appears in your contract as your basic wage, and it is the amount the law uses first and foremost when your service ends. If your basic salary is 5,000 SAR, that 5,000 SAR is your EOSB base — period. Raises to basic salary directly increase every future year of gratuity.
+        </p>
+        <h3>Fixed Cost of Living Allowance (COLA)</h3>
+        <p>
+          If your contract grants a cost of living allowance as a fixed monthly amount — paid in full every month, never varying with your actual expenses — there is a strong argument that it forms part of your wage base. A COLA of 1,000 SAR on top of a 4,000 SAR basic gives you a 5,000 SAR EOSB base under this reading. The critical word is <strong class="text-white">fixed</strong>. A COLA that changes month to month, or that exists only on paper, will not help you.
+        </p>
+        <h3>Fixed Responsibility Allowances</h3>
+        <p>
+          Management allowances, supervisory premiums, or role-based stipends that are part of your regular, documented salary fall into the same category as COLA. If your contract says you receive a 500 SAR monthly management allowance as a guaranteed term of employment, courts and HR auditors increasingly treat it as part of the wage base. The pattern to remember: <strong class="text-desert-primary">fixed + regular + documented = likely included.</strong> Variable + discretionary = excluded.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Pro tip for contract review:</strong> When a company wants to be generous, they typically write it into the contract. When they want to save money at exit, the same allowances quietly disappear from the EOSB conversation. Whatever your contract says in writing is your strongest weapon.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Salary Components That DO NOT Count Toward EOSB</h2>
+        <p>
+          This is the section that costs expats real money, because it lists the allowances most workers assume are included. Under the standard application of Saudi Labor Law, none of the following enter the EOSB base unless the contract or an official company policy explicitly includes them. Read each one carefully against your own offer letter.
+        </p>
+        <h3>Housing Allowance (Sakan / بدل السكن)</h3>
+        <p>
+          Housing allowance — typically about 25% of basic salary — is the single most common allowance in Saudi packages, and it is <strong class="text-desert-primary">excluded from EOSB calculation</strong> by default. Whether it is paid as cash or provided as company accommodation, the standard legal reading keeps it outside the wage base. Example: basic 5,000 SAR plus housing 1,250 SAR means only 5,000 SAR counts for EOSB. The 1,250 SAR you collected monthly for years adds nothing to your gratuity.
+        </p>
+        <h3>Transportation Allowance (Mowasalat / بدل المواصلات)</h3>
+        <p>
+          Transportation allowance — usually around 10% of basic salary — is treated the same way. It is considered a reimbursement-style benefit designed to cover the practical cost of getting to work, not a wage component. It is <strong class="text-desert-primary">excluded from EOSB calculation</strong> unless your contract says otherwise. A worker with 5,000 basic and 500 transport still has a 5,000 SAR EOSB base.
+        </p>
+        <h3>Mobile / Phone Allowance</h3>
+        <p>
+          Communication allowances, whether 100 SAR or 500 SAR a month, are reimbursement in nature — they cover a cost you would otherwise pay yourself. They are excluded from EOSB. Treat any &quot;phone money&quot; in your contract as pocket money that disappears from the settlement math.
+        </p>
+        <h3>Overtime Payments</h3>
+        <p>
+          Overtime is variable by definition: it depends on the hours you actually work. Because it is not fixed and not guaranteed, it does not form part of the EOSB wage base. Even if you consistently worked 20 overtime hours every month for years, those payments are excluded from your gratuity calculation.
+        </p>
+        <h3>Performance Bonuses &amp; Commissions</h3>
+        <p>
+          Bonuses and commissions are discretionary. The law treats them as rewards for performance, not as regular wages, and they are <strong class="text-desert-primary">excluded from EOSB</strong>. A 10,000 SAR annual bonus is generous while you work there, but it contributes zero to your end of service benefit.
+        </p>
+        <h3>Shift Differential Allowances</h3>
+        <p>
+          Additional pay for night shifts, hazardous work, or on-call duties is a premium for specific working conditions, not a base wage. It is excluded from EOSB. The same logic that excludes overtime applies here: variable, conditional, and tied to actual performance of a special duty.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The one-line summary:</strong> If an allowance is a fixed part of your agreed monthly package and appears as a guaranteed line in your contract, it may count. If it reimburses a cost, rewards performance, or varies with your behaviour, it does not count.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-World Calculation Examples (Step by Step)</h2>
+        <p>
+          Numbers make the law real. Below are three complete scenarios using the standard Article 84 accrual formula — half a month&apos;s basic salary for each of the first five years, and one full month&apos;s basic salary for each year after — so you can compare your own package against all three.
+        </p>
+        <h3>Scenario A: Standard Expat Package</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">Component</th>
+                <th class="py-2 pr-2">Amount (SAR)</th>
+                <th class="py-2">Counts for EOSB?</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Basic Salary</td>
+                <td class="py-2 pr-2">5,000</td>
+                <td class="py-2 text-desert-primary font-medium">Yes</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Housing (25%)</td>
+                <td class="py-2 pr-2">1,250</td>
+                <td class="py-2">No</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Transport (10%)</td>
+                <td class="py-2 pr-2">500</td>
+                <td class="py-2">No</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Mobile</td>
+                <td class="py-2 pr-2">200</td>
+                <td class="py-2">No</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2"><strong class="text-white">Total Monthly</strong></td>
+                <td class="py-2 pr-2"><strong class="text-white">6,950</strong></td>
+                <td class="py-2"><strong class="text-white">Base = 5,000</strong></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          You receive 6,950 SAR every month, but your EOSB base is 5,000 SAR. After six years: (5,000 ÷ 2 × 5 years) + (5,000 × 1 year) = 12,500 + 5,000 = <strong class="text-desert-primary">17,500 SAR</strong>. That is the number your HR will present — and it is correct under the standard reading.
+        </p>
+        <h3>Scenario B: The &quot;Total Salary&quot; Contract (Danger Zone)</h3>
+        <p>
+          Your contract says &quot;Total Salary: 7,000 SAR&quot; with no breakdown. At exit, the company claims your basic was 4,000 SAR and the remaining 3,000 SAR was allowances. Your EOSB base becomes 4,000 SAR. Compare that to the 5,000 SAR basic you assumed you signed for — you lose <strong class="text-white">1,000 SAR per year of service</strong> in gratuity.
+        </p>
+        <p class="mt-4">
+          The danger is real because, without a written breakdown, the employer&apos;s interpretation often wins. <strong class="text-desert-primary">The solution is simple and costs nothing at signing time: demand an itemized salary breakdown in your contract before you sign anything.</strong> If they refuse, that refusal is a warning sign about how they will treat you at exit.
+        </p>
+        <h3>Scenario C: Generous Company Policy</h3>
+        <p>
+          Some companies — usually those that want to attract and retain talent — write a policy stating that EOSB is calculated on basic plus housing plus transport. With a 5,000 SAR basic, a 1,250 housing, and a 500 transport allowance, your EOSB base jumps to 6,750 SAR.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p>After six years: (6,750 ÷ 2 × 5) + (6,750 × 1) = 16,875 + 6,750 = <strong class="text-desert-primary">23,625 SAR</strong>. That is <strong class="text-white">6,125 SAR more</strong> than Scenario A for the exact same six years of work — purely because the policy and contract used the fuller base. The difference is decided at the document, not by the years you worked.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The &quot;Total Salary&quot; Contract Trap</h2>
+        <p>
+          The most expensive sentence in Saudi employment is the one that reads &quot;Total Monthly Salary: 8,000 SAR&quot; with no breakdown. It looks generous on the offer letter and devastating at the settlement table. Here is how the trap works in practice.
+        </p>
+        <p class="mt-4">
+          When you sign, you believe you earn 8,000 SAR. When you exit, the company produces an internal record showing basic of 5,000 SAR and allowances of 3,000 SAR. Because the contract itself never documented a basic component, the EOSB is calculated on the 5,000 — and courts, in the absence of written evidence, frequently side with the employer. The phrase you must remember: <strong class="text-desert-primary">no written breakdown means the company&apos;s numbers win.</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-2 mt-4 text-gray-300">
+          <li><strong class="text-white">Ask in writing:</strong> Before signing, email HR asking for the exact basic salary component and how EOSB will be calculated. Keep the reply.</li>
+          <li><strong class="text-white">Demand the breakdown in the contract:</strong> &quot;Basic 5,000 + Housing 1,250 + Transport 500 + Mobile 200&quot; leaves nothing to argue about later.</li>
+          <li><strong class="text-white">Check your salary slips:</strong> After your first payroll run, confirm the basic shown on your slip matches the contract. A mismatch now is a lawsuit later.</li>
+          <li><strong class="text-white">Get policy in writing:</strong> If HR verbally promises &quot;EOSB on total salary,&quot; ask for it as a signed policy document or an email confirmation.</li>
+        </ul>
+        <p class="mt-4">
+          This is not paranoia — it is the single most common EOSB dispute pattern in Saudi labor cases. A five-minute conversation at signing prevents a five-month argument at exit.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Company Policy vs. Labor Law</h2>
+        <p>
+          The law sets a floor, not a ceiling. Company policy can always be more generous than the Labor Law — and when it is, that policy is legally binding on the employer. If your company&apos;s HR manual states that EOSB is calculated on basic plus allowances, the company must honour it.
+        </p>
+        <p class="mt-4">
+          The reverse is not true: a company policy that tries to pay <em>less</em> than the law allows is void, because Article 8 of the Saudi Labor Law strikes down any agreement that waives or reduces a worker&apos;s statutory rights. So the negotiation is one-way — policy can help you, never hurt you below the legal minimum.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">How to check your company&apos;s policy:</strong> Request the HR policy manual or the employment handbook, specifically the &quot;End of Service&quot; or &quot;Final Settlement&quot; section. Compare its EOSB base definition with your contract. If the manual includes allowances but your settlement does not, raise the manual in writing before you sign the settlement release.</p>
+        </div>
+        <p class="mt-4">
+          When a company changes its policy to be more generous, insist on the change being documented — a memo, an email, or a revised handbook — because an unwritten promise has little weight when a different HR manager handles your exit five years later. Written policy is the difference between 17,500 SAR and 23,625 SAR in the examples above.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats</h2>
+        <p>
+          Your nationality shapes how the salary game is played. Recruitment channels differ, contract practices differ, and the warnings you need differ. Two groups face the highest risk, so the guidance is tailored below.
+        </p>
+        <h3>For South Asian Expats (Pakistan / India / Bangladesh)</h3>
+        <p>
+          For workers from Pakistan, India, and Bangladesh, the single most important habit is getting the salary breakdown in <strong class="text-white">both Arabic and English</strong>. Many recruitment agencies and subcontractors in home countries send vague, single-line contracts that look official but say nothing about the basic component. A contract that says &quot;Monthly Salary: 4,000 SAR&quot; and nothing else is a contract that gives your EOSB base to the employer&apos;s imagination.
+        </p>
+        <p class="mt-4">
+          Ask your agency, in writing, for the itemized breakdown before you leave home. If the agency stalls, consider that a red flag. When you arrive, compare the first salary slip against the contract — the MHRSD&apos;s Wage Protection System records every payment, and a mismatch between slip and contract is your earliest, best evidence.
+        </p>
+        <h3>For Filipino Expats</h3>
+        <p>
+          Filipino workers benefit from the POLO (Philippine Overseas Labor Office) verification process, which requires that employment contracts be submitted and verified before deployment. That verification is your protection — but it only helps if your contract actually itemizes the salary components. Never sign a contract without a clear breakdown, and never assume the agency printed the full truth.
+        </p>
+        <p class="mt-4">
+          Before your exit, have any release, waiver, or final settlement reviewed through POLO or by a legal professional. A &quot;complete and final settlement&quot; document is exactly where an employer buries a smaller EOSB number. Read it, verify it against your own calculation, then sign.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Is housing allowance included in EOSB calculation in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">No. By default, housing allowance (sakan) is excluded from the EOSB base under the standard application of Saudi Labor Law. Your gratuity is calculated on basic salary only unless your contract or company policy explicitly includes housing. A 5,000 SAR basic plus 1,250 SAR housing means only the 5,000 SAR counts.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Does transportation allowance count toward end of service benefit in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Transportation allowance (mowasalat) is treated as a reimbursement for travel cost and is excluded from EOSB by default. Only a contract or policy that explicitly includes it can bring it into the calculation.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">What is included in basic salary for EOSB calculation?</p>
+            <p class="text-gray-400 text-sm mt-1">The basic salary is the fixed, contractual core payment stated in your employment contract. Fixed, regular, documented cash allowances may also count, while housing, transport, mobile, overtime, bonuses, and shift premiums are excluded unless the contract says otherwise.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can my company include allowances in EOSB calculation?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. Company policy can be more generous than the law. If the contract or an official HR policy says EOSB is calculated on basic plus allowances, the company is legally bound to honour it. Policy can add allowances but cannot pay less than the legal minimum.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">My contract says &quot;total salary&quot; with no breakdown. What do I do?</p>
+            <p class="text-gray-400 text-sm mt-1">Ask your HR department, in writing, for the itemized breakdown of your basic salary and allowances before signing, and ask how EOSB will be calculated. Keep the written reply. Without a written breakdown, the employer&apos;s interpretation of your basic salary usually prevails.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Are overtime payments included in EOSB in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Overtime is variable and not guaranteed, so it does not form part of the EOSB wage base. Even consistent overtime hours do not add to your end of service benefit unless a written policy says otherwise.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Does performance bonus count toward gratuity in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Bonuses and commissions are discretionary performance rewards, not regular wages, and they are excluded from EOSB. A large annual bonus contributes nothing to your end of service benefit.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Know Your Number Before You Sign Anything</h2>
+        <p>
+          The lesson of every scenario in this guide is the same: your EOSB is decided by your contract&apos;s basic salary line, not by the total you receive each month. A smart expat checks that line at signing, confirms it on the first salary slip, and reads the company policy before the exit conversation begins. That habit is worth thousands of riyals — the difference between Scenario A and Scenario C in this guide is 6,125 SAR for the same six years of work.
+        </p>
+        <p class="mt-4">
+          Remember the summary: <strong class="text-white">basic salary is always the base.</strong> <strong class="text-white">Fixed, regular, documented allowances may be added.</strong> <strong class="text-white">Housing, transport, mobile, overtime, and bonuses are excluded by default.</strong> <strong class="text-white">Written contract language beats verbal promises every time.</strong>
+        </p>
+        <p class="mt-4">
+          Don&apos;t let vague salary components cost you thousands. Use the <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB Calculator</a> to calculate your exact entitlement based on your basic salary, then take that number with you when you speak to HR. If your settlement differs from your own calculation, ask why — in writing.
+        </p>
+        <p class="mt-4">
+          Understanding your resignation rights? Also read our guide on <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Article 84 vs 85</a> to see how the tiered system changes your number depending on who ends the contract.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Calculate Your Exact EOSB Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — enter your basic salary, years of service, and reason for leaving</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">Use the Free EOSB Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on the Saudi Labor Law Article 1. Company policies may vary. Always verify your specific salary components with your HR department and employment contract.
+        </p>
+      </div>
+    `,
+    ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل الوافدين العمالي</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">مكافأة نهاية الخدمة والبدلات في السعودية 2026: ما الذي يدخل في الراتب الأساسي؟</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">بدل السكن وبدل المواصلات والموبايل والمكافآت — أي جزء من راتبك يدخل فعلاً في حساب مكافأة نهاية الخدمة؟ الإجابة تحدد آلاف الريالات عند المغادرة. إليك الطريقة الدقيقة التي يتعامل بها القانون مع كل مكوّن.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مقدمة: الراتب الذي يخفي مكافأتك الحقيقية</h2>
+        <p>
+          افتح أي عقد عمل وافد في السعودية وسترى النمط نفسه: راتب مقسّم إلى أجزاء. راتب أساسي، بدل سكن، بدل مواصلات، بدل موبايل، وأحياناً بند مكافآت وإشارة غامضة إلى ساعات العمل الإضافي. يقفز قلبك عندما ترى الإجمالي الكبير في أسفل خطاب العرض. وبعد سنوات، يسلّمك قسم الموارد البشرية شيك مكافأة يبدو صغيراً بشكل محرج — وتكتشف أخيراً أن الرقم الكبير الذي وقعت عليه لم يكن هو الرقم المستخدم لحساب ما تحصله فعلاً عند المغادرة.
+        </p>
+        <p class="mt-4">
+          الإجابة المباشرة، من البداية: <strong class="text-desert-primary">بموجب المادة الأولى من نظام العمل السعودي، تُحسب مكافأة نهاية الخدمة على أساس آخر راتب أساسي كان يتقاضاه العامل فقط.</strong> وعادةً ما يُستثنى بدل السكن وبدل المواصلات وبدل الموبايل والبدلات الأخرى ما لم ينص عقد العمل أو سياسة الشركة صراحةً على خلاف ذلك. يخسر معظم الوافدين أموالهم ليس لأن الحاسبة خاطئة، بل لأنهم لم يفهموا أبداً أيّ مكوّن يستخدمه القانون كأساس للحساب.
+        </p>
+        <p class="mt-4">
+          هذا الدليل مكتوب من منظور مستشار موارد بشرية أول عالج مئات التسويات النهائية. يشرح التعريف القانوني للأجر، ويفصل بين المكونات التي تُحتسب والتي لا تُحتسب، ويعرض لك حسابات حقيقية خطوة بخطوة بالأرقام الدقيقة — والأهم من ذلك — يشرح لك كيف تحمي نفسك قبل التوقيع. الخطأ الشائع الموصوف في السيناريو الثاني أدناه يكلف الوافد ما بين 6,000 و12,000 ريال تقريباً على مدى عقد مدته ست سنوات. لست بحاجة لأن تكون تلك الإحصائية.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">لست متأكداً من تفصيل راتبك؟</strong> استخدم <a href="/eosb-calculator" class="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة المجانية</a> لحساب استحقاقك بناءً على راتبك الأساسي الدقيق — الأمر لا يستغرق أقل من دقيقة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>المادة الأولى من نظام العمل السعودي: تعريف &quot;الأجر&quot; لمكافأة نهاية الخدمة</h2>
+        <p>
+          كل ما يتعلق بمكافأتك يبدأ بكلمة واحدة في النظام: <strong class="text-white">الأجر</strong>. تعرّف المادة الأولى من نظام العمل الأجر بأنه المبلغ الذي يُدفع للعامل لقاء عمله، سواء كان يُدفع شهرياً أو أسبوعياً أو يومياً أو بالساعة. التعريف واسع عمداً — لكن الممارسة المتبعة في حساب مكافأة نهاية الخدمة ضيّقته بطريقة محددة جداً.
+        </p>
+        <p class="mt-4">
+          القاعدة العامة المطبقة في الشركات السعودية والمؤكدة في النزاعات العمالية هي أن أساس مكافأة نهاية الخدمة هو <strong class="text-desert-primary">الراتب الأساسي</strong> — وهو الدفعة الأساسية التعاقدية الثابتة — مضافاً إليه أي بدلات نقدية ثابتة منتظمة تُدفع كل شهر دون تغيير وتكون موثقة في العقد. أما البدلات الاختيارية أو المشروطة أو المصممة لتعويض نفقة فعلية (مثل فاتورة الهاتف أو شراء الوقود) فلا تدخل في نطاق الأجر لأغراض مكافأة نهاية الخدمة.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">لماذا هذا مهم:</strong> يمكن للشركة أن تدفع لك 7,000 ريال كل شهر، مقسّمة إلى 5,000 راتب أساسي و2,000 بدلات، وتحسب مكافأتك بشكل قانوني على الـ 5,000. إذا لم تقرأ تفصيل العقد، فلن تكتشف ذلك إلا على طاولة التسوية. القانون لا يعطيك الرقم الأكبر تلقائياً لمجرد أنك تتقاضاه.</p>
+        </div>
+        <p class="mt-4">
+          من المفيد تثبيت توضيحين الآن. أولاً، ينظر القانون إلى <strong class="text-white">آخر راتب أساسي</strong> — إذا حصلت على زيادة في سنتك الأخيرة، فإن الأساس الجديد يطبق على فترة الخدمة كاملة، وهذا سبب قوي للتفاوض على زيادات تصيب مكوّن الأساسي لديك بدلاً من بدلاتك. ثانياً، أظهرت الممارسة الأخيرة للمحاكم العمالية استعداداً متزايداً لاعتبار <em>البدل الشهري الثابت</em> جزءاً من أساس الأجر عندما تُظهر العقد وسجلات الدفع باستمرار أنه مبلغ مضمون غير متغير. لكن لا تعتمد أبداً على محكمة لإصلاح ما كان يجب أن ينص عليه العقد بوضوح كتابياً.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مكونات الراتب التي تُحتسب في مكافأة نهاية الخدمة</h2>
+        <p>
+          ابدأ بالأخبار الجيدة: بعض أجزاء راتبك تدخل فعلاً في أساس المكافأة. هذه هي المكونات الثابتة والمضمونة والموثقة. إذا كان هيكل حزمتك ذكياً، تنمو مكافأتك معك. إليك ما يُحتسب.
+        </p>
+        <h3>الراتب الأساسي</h3>
+        <p>
+          الدفعة الشهرية الثابتة الأساسية هي أساس مكافأة نهاية الخدمة كلها. وهو الرقم الذي يظهر في عقدك كأجرك الأساسي، وهو المبلغ الذي يستخدمه القانون أولاً وقبل كل شيء عند انتهاء خدمتك. إذا كان راتبك الأساسي 5,000 ريال، فإن هذه الـ 5,000 ريال هي أساس مكافأتك — نقطة. الزيادات في الراتب الأساسي ترفع مباشرة كل سنة مكافأة قادمة.
+        </p>
+        <h3>بدل غلاء المعيشة الثابت</h3>
+        <p>
+          إذا كان عقدك يمنح بدل غلاء معيشة كمبلغ شهري ثابت — يُدفع كاملاً كل شهر، ولا يتغير أبداً مع نفقاتك الفعلية — فهناك حجة قوية أنه يشكل جزءاً من أساس أجرك. بدل غلاء معيشة بقيمة 1,000 ريال فوق أساس 4,000 ريال يعطيك أساس مكافأة 5,000 ريال وفق هذه القراءة. الكلمة الحاسمة هي <strong class="text-white">ثابت</strong>. البدل الذي يتغير من شهر لآخر، أو الذي يوجد على الورق فقط، لن يفيدك.
+        </p>
+        <h3>بدلات المسؤولية الثابتة</h3>
+        <p>
+          بدلات الإدارة أو علاوات الإشراف أو المستحقات المرتبطة بالدور والتي تشكل جزءاً من راتبك المنتظم الموثق تقع في الفئة نفسها. إذا نص عقدك على أنك تتقاضى 500 ريال شهرياً بدل إدارة كشرط مضمون في العمل، فإن المحاكم ومدققي الموارد البشرية يتعاملون معه بشكل متزايد كجزء من أساس الأجر. النمط الذي يجب تذكره: <strong class="text-desert-primary">ثابت + منتظم + موثق = غالباً يُحتسب.</strong> متغير + اختياري = مستبعد.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">نصيحة لمراجعة العقد:</strong> عندما تريد الشركة أن تكون سخية، فإنها تكتب ذلك في العقد عادةً. وعندما تريد توفير المال عند المغادرة، تختفي البدلات نفسها بصمت من حسابات المكافأة. كل ما ينص عليه عقدك كتابياً هو أقوى أسلحتك.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مكونات الراتب التي لا تُحتسب في مكافأة نهاية الخدمة</h2>
+        <p>
+          هذا هو القسم الذي يكلف الوافدين أموالاً حقيقية، لأنه يدرج البدلات التي يفترض معظم العمال أنها مشمولة. وفق التطبيق القياسي لنظام العمل السعودي، لا يدخل أي من البدلات التالية في أساس المكافأة ما لم ينص العقد أو سياسة الشركة الرسمية صراحةً على تضمينه. اقرأ كل بند بعناية وقارنه بخطاب العرض الخاص بك.
+        </p>
+        <h3>بدل السكن</h3>
+        <p>
+          بدل السكن — الذي يبلغ عادةً نحو 25% من الراتب الأساسي — هو البدل الأكثر شيوعاً في الحزم السعودية، وهو <strong class="text-desert-primary">مستبعد من حساب مكافأة نهاية الخدمة</strong> افتراضياً. سواء دُفع نقداً أو وُفّر كسكن من الشركة، فإن القراءة القانونية القياسية تُبقيه خارج أساس الأجر. مثال: أساس 5,000 ريال زائد بدل سكن 1,250 ريال يعني أن 5,000 ريال فقط تُحتسب في المكافأة. الـ 1,250 ريال التي تقبضها شهرياً لسنوات لا تضيف شيئاً إلى مكافأتك.
+        </p>
+        <h3>بدل المواصلات</h3>
+        <p>
+          يُعامل بدل المواصلات — الذي يبلغ عادةً نحو 10% من الراتب الأساسي — بالطريقة نفسها. يُعتبر منفعة شبيهة بالتعويض مصممة لتغطية تكلفة عملية للوصول إلى العمل، وليس مكوّناً من الأجر. وهو <strong class="text-desert-primary">مستبعد من حساب مكافأة نهاية الخدمة</strong> ما لم ينص عقدك على خلاف ذلك. العامل الذي يتقاضى أساس 5,000 وبدل مواصلات 500 ما زال أساس مكافأته 5,000 ريال.
+        </p>
+        <h3>بدل الهاتف / الموبايل</h3>
+        <p>
+          بدلات الاتصالات، سواء كانت 100 ريال أو 500 ريال شهرياً، هي تعويض بطبيعتها — تغطي تكلفة كنت ستدفعها بنفسك. وهي مستبعدة من المكافأة. تعامل مع أي &quot;أموال هاتف&quot; في عقدك على أنها مصروف جيب يختفي من حسابات التسوية.
+        </p>
+        <h3>مدفوعات العمل الإضافي</h3>
+        <p>
+          العمل الإضافي متغير بطبيعته: يعتمد على الساعات التي تعملها فعلياً. ولأنه ليس ثابتاً وليس مضموناً، فإنه لا يشكل جزءاً من أساس أجر المكافأة. حتى لو عملت 20 ساعة إضافية باستمرار كل شهر لسنوات، فإن هذه المدفوعات مستبعدة من حساب مكافأتك.
+        </p>
+        <h3>المكافآت والعمولات على الأداء</h3>
+        <p>
+          المكافآت والعمولات اختيارية. يعاملها القانون كمكافآت على الأداء لا كأجر منتظم، وهي <strong class="text-desert-primary">مستبعدة من مكافأة نهاية الخدمة</strong>. المكافأة السنوية بقيمة 10,000 ريال سخية طالما كنت تعمل هناك، لكنها لا تساهم بريال واحد في مكافأة نهاية خدمتك.
+        </p>
+        <h3>بدلات الفروقات في الورديات</h3>
+        <p>
+          الأجر الإضافي للورديات الليلية أو الأعمال الخطرة أو مهام الاستدعاء هو علاوة على ظروف عمل محددة، وليس أجراً أساسياً. وهو مستبعد من المكافأة. المنطق نفسه الذي يستبعد العمل الإضافي ينطبق هنا: متغير ومشروط ومرتبط بالقيام الفعلي بمهمة خاصة.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">الخلاصة في سطر واحد:</strong> إذا كان البدل جزءاً ثابتاً من حزمتك الشهرية المتفق عليها ويظهر كبند مضمون في عقدك، فقد يُحتسب. إذا كان يعوّض تكلفة أو يكافئ أداءً أو يتغير مع سلوكك، فإنه لا يُحتسب.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أمثلة حقيقية للحساب (خطوة بخطوة)</h2>
+        <p>
+          الأرقام تجعل القانون واقعياً. إليك ثلاثة سيناريوهات كاملة باستخدام صيغة الاستحقاق القياسية بالمادة 84 — نصف راتب أساسي عن كل سنة من السنوات الخمس الأولى، وشهر كامل عن كل سنة بعد ذلك — لتتمكن من مقارنة حزمتك بالسيناريوهات الثلاثة.
+        </p>
+        <h3>السيناريو الأول: الحزمة القياسية للوافدين</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">المكوّن</th>
+                <th class="py-2 pr-2">المبلغ (ريال)</th>
+                <th class="py-2">يُحتسب في المكافأة؟</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">الراتب الأساسي</td>
+                <td class="py-2 pr-2">5,000</td>
+                <td class="py-2 text-desert-primary font-medium">نعم</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">بدل السكن (25%)</td>
+                <td class="py-2 pr-2">1,250</td>
+                <td class="py-2">لا</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">بدل المواصلات (10%)</td>
+                <td class="py-2 pr-2">500</td>
+                <td class="py-2">لا</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">بدل الموبايل</td>
+                <td class="py-2 pr-2">200</td>
+                <td class="py-2">لا</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2"><strong class="text-white">الإجمالي الشهري</strong></td>
+                <td class="py-2 pr-2"><strong class="text-white">6,950</strong></td>
+                <td class="py-2"><strong class="text-white">الأساس = 5,000</strong></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          تتقاضى 6,950 ريالاً كل شهر، لكن أساس مكافأتك 5,000 ريال. بعد ست سنوات: (5,000 ÷ 2 × 5 سنوات) + (5,000 × سنة) = 12,500 + 5,000 = <strong class="text-desert-primary">17,500 ريال</strong>. هذا هو الرقم الذي سيعرضه قسم الموارد البشرية — وهو صحيح وفق القراءة القياسية.
+        </p>
+        <h3>السيناريو الثاني: عقد &quot;الراتب الإجمالي&quot; (منطقة الخطر)</h3>
+        <p>
+          ينص عقدك على &quot;الراتب الإجمالي: 7,000 ريال&quot; دون تفصيل. عند المغادرة، تدّعي الشركة أن أساسك كان 4,000 ريال والباقي 3,000 ريال بدلات. يصبح أساس مكافأتك 4,000 ريال. قارن ذلك بالأساس 5,000 ريال الذي افترضت أنك وقعت عليه — تخسر <strong class="text-white">1,000 ريال عن كل سنة خدمة</strong> في المكافأة.
+        </p>
+        <p class="mt-4">
+          الخطر حقيقي لأن تفسير صاحب العمل غالباً ما يفوز دون تفصيل مكتوب. <strong class="text-desert-primary">الحل بسيط ولا يكلف شيئاً عند التوقيع: اطلب تفصيلاً للراتب في عقدك قبل توقيع أي شيء.</strong> إذا رفضوا، فهذا الرفض علامة تحذير على كيفية معاملتهم لك عند المغادرة.
+        </p>
+        <h3>السيناريو الثالث: سياسة الشركة السخية</h3>
+        <p>
+          بعض الشركات — عادةً تلك التي تريد اجتذاب المواهب والاحتفاظ بها — تكتب سياسة تنص على أن المكافأة تُحسب على الأساسي زائد السكن زائد المواصلات. مع أساس 5,000 ريال وبدل سكن 1,250 وبدل مواصلات 500، يرتفع أساس مكافأتك إلى 6,750 ريالاً.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p>بعد ست سنوات: (6,750 ÷ 2 × 5) + (6,750 × 1) = 16,875 + 6,750 = <strong class="text-desert-primary">23,625 ريالاً</strong>. أي <strong class="text-white">6,125 ريالاً إضافياً</strong> مقارنة بالسيناريو الأول لنفس السنوات الست من العمل تماماً — لمجرد أن السياسة والعقد استخدما الأساس الأوسع. الفرق يقرر في المستند، لا في السنوات التي عملتها.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>فخ عقد &quot;الراتب الإجمالي&quot;</h2>
+        <p>
+          الجملة الأغلى في التوظيف السعودي هي التي تقول &quot;إجمالي الراتب الشهري: 8,000 ريال&quot; دون تفصيل. تبدو سخية في خطاب العرض ومدمرة على طاولة التسوية. إليك كيف يعمل الفخ عملياً.
+        </p>
+        <p class="mt-4">
+          عند التوقيع، تعتقد أنك تكسب 8,000 ريال. عند المغادرة، تنتج الشركة سجلاً داخلياً يُظهر أساساً 5,000 ريال وبدلات 3,000 ريال. ولأن العقد نفسه لم يوثق مكوّناً أساسياً قط، تُحسب المكافأة على الـ 5,000 — والمحاكم، في غياب دليل مكتوب، كثيراً ما تنحاز إلى صاحب العمل. العبارة التي يجب أن تتذكرها: <strong class="text-desert-primary">لا تفصيل مكتوب يعني أن أرقام الشركة تفوز.</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-2 mt-4 text-gray-300">
+          <li><strong class="text-white">اسأل كتابياً:</strong> قبل التوقيع، راسل الموارد البشرية لإلكترونياً واسأل عن مكوّن الراتب الأساسي بالضبط وكيف ستُحسب المكافأة. احتفظ بالرد.</li>
+          <li><strong class="text-white">اطلب التفصيل في العقد:</strong> &quot;أساس 5,000 + سكن 1,250 + مواصلات 500 + موبايل 200&quot; لا يترك شيئاً للجدال لاحقاً.</li>
+          <li><strong class="text-white">افحص قسائم راتبك:</strong> بعد أول دفعة رواتب، تأكد أن الأساس المعروض في القسيمة يطابق العقد. أي فرق اليوم هو دعوى قضائية غداً.</li>
+          <li><strong class="text-white">احصل على السياسة كتابياً:</strong> إذا وعدك قسم الموارد البشرية شفهياً بـ&quot;مكافأة على الراتب الإجمالي&quot;، اطلبها كوثيقة سياسة موقعة أو تأكيداً إلكترونياً.</li>
+        </ul>
+        <p class="mt-4">
+          هذا ليس جنون شك — إنه النمط الأكثر شيوعاً في نزاعات المكافأة في القضايا العمالية السعودية. محادثة خمس دقائق عند التوقيع تمنع جدالاً طويلاً عند المغادرة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سياسة الشركة مقابل نظام العمل</h2>
+        <p>
+          يضع القانون حداً أدنى، لا سقفاً. يمكن لسياسة الشركة أن تكون دائماً أكثر سخاءً من نظام العمل — وعندما تكون كذلك، تكون ملزمة قانوناً لصاحب العمل. إذا نص دليل الموارد البشرية في شركتك على أن المكافأة تُحسب على الأساسي زائد البدلات، فيجب على الشركة الالتزام بها.
+        </p>
+        <p class="mt-4">
+          والعكس غير صحيح: سياسة شركة تحاول الدفع بأقل مما يسمح به القانون باطلة، لأن المادة الثامنة من نظام العمل تُبطل أي اتفاق يتنازل عن حقوق العامل النظامية أو ينقصها. إذن التفاوض في اتجاه واحد — السياسة يمكنها مساعدتك، ولا يمكنها أبداً إيذاؤك تحت الحد الأدنى القانوني.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">كيف تفحص سياسة شركتك:</strong> اطلب دليل سياسات الموارد البشرية أو كتيب الموظفين، وتحديداً قسم &quot;نهاية الخدمة&quot; أو &quot;التسوية النهائية&quot;. قارن تعريفه لأساس المكافأة بعقدك. إذا كان الدليل يتضمن البدلات بينما تسويتك لا تتضمنها، أثر الدليل كتابياً قبل توقيع إبراء التسوية.</p>
+        </div>
+        <p class="mt-4">
+          عندما تغيّر الشركة سياستها لتكون أكثر سخاءً، أصرّ على توثيق التغيير — مذكرة أو بريداً إلكترونياً أو دليلاً منقحاً — لأن الوعد غير المكتوب له وزن قليل عندما يتولى مدير موارد بشرية مختلف أمر مغادرتك بعد خمس سنوات. السياسة المكتوبة هي الفرق بين 17,500 ريال و23,625 ريالاً في الأمثلة أعلاه.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>كيف تتحقق بنفسك من أساس مكافأتك قبل المغادرة</h2>
+        <p>
+          لا تحتاج إلى محامٍ لتكتشف ما إذا كانت شركتك ستحسب مكافأتك بشكل صحيح. توجد أربعة فحوصات سريعة يمكن لأي موظف إجراؤها خلال ساعة واحدة، وكل واحدة تكشف عن مشكلة محتملة قبل فوات الأوان.
+        </p>
+        <h3>الفحص الأول: اقرأ عقدك كاملاً وحدد سطر الأساسي</h3>
+        <p>
+          ابحث عن الجملة التي تحدد راتبك الأساسي. إذا كان عقدك يذكر &quot;الراتب الإجمالي&quot; دون تقسيم، فهذه إشارة حمراء فورية. إذا كان يذكر أساساً محدداً، اكتبه وضع له خطاً — هذا هو الرقم الذي يجب أن تبنى عليه مكافأتك.
+        </p>
+        <h3>الفحص الثاني: قارن العقد بأول قسيمة راتب</h3>
+        <p>
+          افحص أول قسيمة راتب وتأكد أن مكوّن &quot;الأساسي&quot; المعروض يطابق العقد بالريال. نظام حماية الأجور في وزارة الموارد البشرية يسجل كل دفعة، والقسيمة وثيقة رسمية. أي اختلاف بين القسيمة والعقد هو أول دليل تحتاجه إذا تطورت الأمور إلى نزاع.
+        </p>
+        <h3>الفحص الثالث: اطلع على دليل سياسات الموارد البشرية</h3>
+        <p>
+          اطلب دليل سياسات الشركة أو كتيب الموظفين واقرأ قسم نهاية الخدمة والتسوية النهائية. إذا كان الدليل ينص على حساب المكافأة على الأساسي زائد السكن والمواصلات، فاحتفظ بنسخة منه. هذا المستند وحده قد يرفع مكافأتك آلاف الريالات.
+        </p>
+        <h3>الفحص الرابع: اطلب إفادة خطية قبل بدء إجراءات المغادرة</h3>
+        <p>
+          قبل أن تسلم استقالتك أو تبدأ أي إجراء مغادرة، اطلب من قسم الموارد البشرية إفادة مكتوبة توضح أساس الحساب والبدلات المشمولة. لا تقبل رداً شفهياً. إذا رفضوا الالتزام كتابياً، فهذا في حد ذاته دليل على نيتهم — واذكر ذلك في أي شكوى لاحقة.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">متى تتحدث إلى محامٍ؟</strong> إذا اكتشفت أن أساس الحساب المعلن أقل مما ينص عليه عقدك، أو أن الشركة تتجاهل سياساتها المكتوبة، فاستشر مستشاراً قانونياً متخصصاً في قضايا العمل قبل التوقيع على أي إبراء. الرأي القانوني المبكر أرخص بكثير من معركة قضائية متأخرة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعتبارات خاصة للوافدين</h2>
+        <p>
+          جنسيتك تشكل طريقة لعب اللعبة المالية. قنوات التوظيف تختلف، وممارسات العقود تختلف، والتحذيرات التي تحتاجها تختلف. مجموعتان تواجهان أعلى مخاطر، لذا توجيهاتهما مفصّلة أدناه.
+        </p>
+        <h3>للوافدين من جنوب آسيا (باكستان / الهند / بنغلاديش)</h3>
+        <p>
+          بالنسبة للعمال من باكستان والهند وبنغلاديش، العادة الأهم هي الحصول على تفصيل الراتب <strong class="text-white">باللغتين العربية والإنجليزية</strong>. ترسل مكاتب التوظيف والمقاولون من الباطن في بلدان المنشأ عقوداً أحادية السطر وغامضة تبدو رسمية لكنها لا تقول شيئاً عن مكوّن الأساسي. العقد الذي يقول &quot;الراتب الشهري: 4,000 ريال&quot; ولا شيء آخر هو عقد يترك أساس مكافأتك لخيال صاحب العمل.
+        </p>
+        <p class="mt-4">
+          اطلب من وكالتك، كتابياً، التفصيل قبل مغادرة بلدك. إذا ماطلت الوكالة، اعتبر ذلك علامة خطر. وعند وصولك، قارن أول قسيمة راتب بالعقد — نظام حماية الأجور في وزارة الموارد البشرية يسجل كل دفعة، وأي فرق بين القسيمة والعقد هو أفضل دليل لديك وأبكره.
+        </p>
+        <h3>للوافدين الفلبينيين</h3>
+        <p>
+          يستفيد العمال الفلبينيون من عملية التحقق عبر المكتب الفلبيني للعمالة في الخارج (POLO)، التي تتطلب تقديم عقود العمل والتحقق منها قبل الإرسال. هذا التحقق هو حمايتك — لكنه يساعدك فقط إذا كان عقدك يدرج مكونات الراتب فعلاً. لا توقع أبداً عقداً دون تفصيل واضح، ولا تفترض أن الوكالة طبعت الحقيقة كاملة.
+        </p>
+        <p class="mt-4">
+          قبل مغادرتك، اطلب مراجعة أي إبراء أو تنازل أو تسوية نهائية عبر POLO أو محترف قانوني. وثيقة &quot;التسوية النهائية والكاملة&quot; هي بالضبط المكان الذي يدفن فيه صاحب العمل رقم مكافأة أصغر. اقرأها، وتحقق منها وفق حساباتك، ثم وقع.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يدخل بدل السكن في حساب مكافأة نهاية الخدمة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. افتراضياً، بدل السكن مستبعد من أساس المكافأة وفق التطبيق القياسي لنظام العمل السعودي. تُحسب مكافأتك على الراتب الأساسي فقط ما لم ينص عقدك أو سياسة شركتك صراحةً على تضمين السكن. أساس 5,000 ريال زائد بدل سكن 1,250 يعني أن 5,000 ريالاً فقط تُحتسب.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يُحتسب بدل المواصلات في مكافأة نهاية الخدمة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. يُعامل بدل المواصلات كتعويض عن تكلفة التنقل وهو مستبعد من المكافأة افتراضياً. فقط عقد أو سياسة تنص صراحةً على تضمينه يمكنه إدخاله في الحساب.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ما الذي يُعد راتباً أساسياً في حساب مكافأة نهاية الخدمة؟</p>
+            <p class="text-gray-400 text-sm mt-1">الراتب الأساسي هو الدفعة التعاقدية الثابتة الجوهرية المنصوص عليها في عقد العمل. قد تُحتسب البدلات النقدية الثابتة المنتظمة الموثقة أيضاً، بينما يُستبعد السكن والمواصلات والموبايل والعمل الإضافي والمكافآت وعلاوات الورديات ما لم ينص العقد على خلاف ذلك.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يمكن لشركتي تضمين البدلات في حساب مكافأة نهاية الخدمة؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. يمكن أن تكون سياسة الشركة أكثر سخاءً من القانون. إذا نص العقد أو سياسة الموارد البشرية الرسمية على أن المكافأة تُحسب على الأساسي زائد البدلات، فإن الشركة ملزمة قانوناً بالالتزام. السياسة يمكنها إضافة بدلات، لكنها لا تستطيع الدفع بأقل من الحد الأدنى القانوني.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">عقدي يقول &quot;الراتب الإجمالي&quot; دون تفصيل. ماذا أفعل؟</p>
+            <p class="text-gray-400 text-sm mt-1">اطلب من قسم الموارد البشرية، كتابياً، التفصيل الدقيق لراتبك الأساسي وبدلاتك قبل التوقيع، واسأل كيف ستُحسب المكافأة. احتفظ بالرد المكتوب. دون تفصيل مكتوب، يرجّح تفسير صاحب العمل لراتبك الأساسي.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل تدخل مدفوعات العمل الإضافي في مكافأة نهاية الخدمة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. العمل الإضافي متغير وغير مضمون، لذا لا يشكل جزءاً من أساس أجر المكافأة. حتى ساعات العمل الإضافي المنتظمة لا تضيف إلى مكافأة نهاية خدمتك ما لم تنص سياسة مكتوبة على خلاف ذلك.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل تُحتسب مكافأة الأداء في المكافأة النهائية في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. المكافآت والعمولات مكافآت أداء اختيارية وليست أجراً منتظماً، وهي مستبعدة من مكافأة نهاية الخدمة. المكافأة السنوية الكبيرة لا تساهم بشيء في مكافأة نهاية خدمتك.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يُعتبر بدل السكن المدفوع نقداً جزءاً من الأجر النظامي؟</p>
+            <p class="text-gray-400 text-sm mt-1">في الحساب القياسي لمكافأة نهاية الخدمة، لا. سواء دُفع بدل السكن نقداً أو وُفّر كسكن من الشركة، فإنه يُستبعد من أساس المكافأة ما لم ينص العقد أو السياسة الرسمية صراحةً على تضمينه. بعض قضايا المحاكم العمالية الحديثة فحصت ما إذا كان البدل المدفوع نقداً بانتظام يمكن اعتباره أجراً، لكن النتيجة النهائية تبقى معتمدة على نص العقد وليس على طريقة الدفع.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل تؤثر الزيادة في الراتب الأساسي على حساب المكافأة لسنوات الخدمة السابقة؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. يُحسب المكافأة على أساس آخر راتب أساسي في نهاية الخدمة، أي أن أي زيادة في الأساسي خلال السنوات الأخيرة تنطبق على فترة الخدمة بأكملها عند التطبيق المعياري. لهذا السبب، من الأفضل التفاوض على زيادة ترفع الراتب الأساسي بدلاً من بدل يضاف إلى الحزمة، لأن الزيادة في الأساسي ترفع مكافأتك كاملة بينما الزيادة في البدل قد لا تضيف شيئاً.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعرف رقمك قبل أن توقع على أي شيء</h2>
+        <p>
+          الدرس من كل سيناريو في هذا الدليل هو نفسه: مكافأتك تُحدد ببند الراتب الأساسي في عقدك، لا بالإجمالي الذي تتقاضاه كل شهر. الوافد الذكي يفحص هذا البند عند التوقيع، ويؤكده في أول قسيمة راتب، ويقرأ سياسة الشركة قبل بدء محادثة المغادرة. هذه العادة تستحق آلاف الريالات — الفرق بين السيناريو الأول والثالث في هذا الدليل هو 6,125 ريالاً لنفس السنوات الست من العمل.
+        </p>
+        <p class="mt-4">
+          تذكر الخلاصة: <strong class="text-white">الراتب الأساسي هو الأساس دائماً.</strong> <strong class="text-white">البدلات الثابتة المنتظمة الموثقة قد تُضاف.</strong> <strong class="text-white">السكن والمواصلات والموبايل والعمل الإضافي والمكافآت مستبعدة افتراضياً.</strong> <strong class="text-white">لغة العقد المكتوبة تتفوق على الوعود الشفهية في كل مرة.</strong>
+        </p>
+        <p class="mt-4">
+          لا تدع مكونات الرواتب الغامضة تكلفك آلاف الريالات. استخدم <a href="/eosb-calculator" class="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة في SaudiToolHub</a> لحساب استحقاقك الدقيق بناءً على راتبك الأساسي، ثم خذ هذا الرقم معك عند التحدث مع الموارد البشرية. إذا اختلفت تسويتك عن حسابك، اسأل عن السبب — كتابياً.
+        </p>
+        <p class="mt-4">
+          تريد فهم حقوقك عند الاستقالة؟ اقرأ أيضاً دليلنا حول <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">قواعد مكافأة نهاية الخدمة عند الاستقالة: المادتان 84 و85</a> لترى كيف يغير النظام المتدرج رقمك اعتماداً على من ينهي العقد.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">احسب مكافأتك الدقيقة الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاناً — أدخل راتبك الأساسي وسنوات الخدمة وسبب المغادرة</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">استخدم حاسبة المكافأة المجانية</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية بناءً على المادة الأولى من نظام العمل السعودي. قد تختلف سياسات الشركات. تحقق دائماً من مكونات راتبك الخاصة مع قسم الموارد البشرية وعقد العمل.
+        </p>
+      </div>
+    `,
+    ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">وافدین کے لیے لیبر گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب 2026 میں EOSB اور الاؤنسز: بنیادی تنخواہ میں کیا شامل ہے؟</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">ہاؤسنگ، ٹرانسپورٹیشن، موبائل، بونس — آپ کی تنخواہ کے کون سے حصے واقعی آپ کے مزدوری معاوضہ میں شامل ہوتے ہیں؟ جواب آپ کے رخصتی کے وقت ہزاروں ریال طے کرتا ہے۔ یہاں قانون ہر جزو کے ساتھ بالکل کیسا سلوک کرتا ہے۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تعارف: وہ تنخواہ جو آپ کا اصل EOSB چھپاتی ہے</h2>
+        <p>
+          سعودی عرب میں کسی بھی وافد کے روزگار کے معاہدے کو کھولیں اور آپ کو وہی نمونہ نظر آئے گا: ایک تنخواہ جو ٹکڑوں میں بٹی ہوئی ہے۔ بنیادی تنخواہ، ہاؤسنگ الاؤنس، ٹرانسپورٹیشن الاؤنس، موبائل الاؤنس، کبھی بونس کی شق اور اوور ٹائم کا ایک مبہم ذکر۔ جب آپ آفر لیٹر کے نیچے بڑا ٹوٹل دیکھتے ہیں تو دل خوشی سے دھڑکتا ہے۔ پھر، برسوں بعد، آپ کا HR محکمہ آپ کو گریچوٹی کا ایسا چیک تھماتا ہے جو شرمناک حد تک چھوٹا لگتا ہے — اور آپ کو آخر کار پتہ چلتا ہے کہ جس بڑے نمبر پر آپ نے دستخط کیے تھے، وہ کبھی وہ نمبر نہیں تھا جس پر آپ کی رخصتی کی رقم کا حساب لگایا جاتا ہے۔
+        </p>
+        <p class="mt-4">
+          سیدھا جواب، شروع ہی میں: <strong class="text-desert-primary">سعودی لیبر قانون کی دفعہ 1 کے تحت، End of Service Benefit (EOSB) صرف آپ کی آخری حاصل کردہ بنیادی تنخواہ پر حساب کی جاتی ہے۔</strong> ہاؤسنگ، ٹرانسپورٹیشن، موبائل اور دیگر الاؤنسز عام طور پر خارج ہوتے ہیں جب تک کہ آپ کا روزگار معاہدہ یا کمپنی پالیسی واضح طور پر کچھ اور نہ کہے۔ زیادہ تر وافد پیسے اس لیے کھوتے ہیں کہ کیلکولیٹر غلط ہے، بلکہ اس لیے کہ انہوں نے کبھی سمجھا ہی نہیں کہ قانون کس جزو کو اپنی بنیاد بناتا ہے۔
+        </p>
+        <p class="mt-4">
+          یہ گائیڈ ایک سینئر HR کنسلٹنٹ کے نقطہ نظر سے لکھا گیا ہے جس نے سینکڑوں فائنل سیٹلمنٹس پروسیس کیے ہیں۔ یہ اجرت کی قانونی تعریف کا جائزہ لیتا ہے، ایسے اجزاء کو الگ کرتا ہے جو شامل ہوتے ہیں ان سے جو نہیں ہوتے، صحیح نمبروں کے ساتھ حقیقی مرحلہ وار حساب دکھاتا ہے — اور سب سے اہم — یہ بتاتا ہے کہ دستخط کرنے سے پہلے اپنے آپ کو کیسے محفوظ کریں۔ نیچے بیان کردہ سیناریو B کی عام غلطی ایک وافد کو چھ سال کے معاہدے پر تقریباً 6,000 سے 12,000 ریال کھوتی ہے۔ آپ کو وہ اعدادوشمار بننے کی ضرورت نہیں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">اپنی تنخواہ کی تفصیل کے بارے میں یقین نہیں؟</strong> اپنی بنیادی تنخواہ کی بنیاد پر اپنا حق معلوم کرنے کے لیے ہمارا <a href="/eosb-calculator" class="text-desert-primary underline">مفت EOSB کیلکولیٹر</a> استعمال کریں — اس میں ایک منٹ سے بھی کم وقت لگتا ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سعودی لیبر قانون کی دفعہ 1: EOSB کے لیے &quot;اجرت&quot; کی تعریف</h2>
+        <p>
+          آپ کی گریچوٹی سے متعلق سب کچھ ایک لفظ سے شروع ہوتا ہے: <strong class="text-white">اجرت</strong>۔ سعودی لیبر قانون کی دفعہ 1 اجرت کو اس رقم کے طور پر بیان کرتی ہے جو کارکن کو اس کے کام کے عوض ادا کی جاتی ہے، چاہے وہ ماہانہ، ہفتہ وار، روزانہ یا فی گھنٹہ ادا ہو۔ تعریف جان بوجھ کر وسیع ہے — لیکن EOSB کے حساب کی مشق نے اسے ایک بہت مخصوص طریقے سے تنگ کیا ہے۔
+        </p>
+        <p class="mt-4">
+          سعودی کمپنیوں میں لاگو ہونے والا اور مزدور تنازعات میں تصدیق شدہ عمومی اصول یہ ہے کہ EOSB کی بنیاد <strong class="text-desert-primary">بنیادی تنخواہ</strong> ہے — یعنی مقررہ معاہداتی بنیادی رقم — کے علاوہ کوئی بھی مقررہ، باقاعدہ نقد الاؤنس جو ہر ماہ بغیر کسی تبدیلی کے ادا ہوتا ہو اور معاہدے میں درج ہو۔ جو الاؤنس اختیاری، مشروط، یا کسی اصل خرچ کی ادائیگی کے لیے بنائے گئے ہوں (جیسے فون بل یا ایندھن خریدنا) وہ EOSB کے مقاصد کے لیے اجرت کا حصہ نہیں بنتے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">یہ کیوں اہم ہے:</strong> ایک کمپنی آپ کو ہر ماہ 7,000 ریال ادا کر سکتی ہے، جس میں 5,000 بنیادی اور 2,000 الاؤنسز ہوں، اور قانونی طور پر آپ کی گریچوٹی کا حساب 5,000 پر لگا سکتی ہے۔ اگر آپ نے اپنے معاہدے کی تفصیل نہیں پڑھی، تو آپ کو یہ صرف سیٹلمنٹ ٹیبل پر پتہ چلے گا۔ قانون آپ کو خود بخود بڑا نمبر نہیں دیتا صرف اس لیے کہ آپ وہ وصول کرتے ہیں۔</p>
+        </div>
+        <p class="mt-4">
+          دو وضاحتیں ابھی یاد رکھنے کے قابل ہیں۔ پہلا، قانون <strong class="text-white">آخری حاصل کردہ بنیادی تنخواہ</strong> کو دیکھتا ہے — اگر آپ کو اپنے آخری سال میں تنخواہ بڑھی تو نیا بنیادی پوری سروس مدت پر لاگو ہوتا ہے، جو کہ اپنے بنیادی جزو میں اضافے پر گفت و شنید کرنے کی ایک طاقتور وجہ ہے بجائے اپنے الاؤنسز کے۔ دوسرا، حالیہ مزدور عدالتوں کی مشق نے مقررہ ماہانہ الاؤنس کو اجرت کی بنیاد کا حصہ ماننے میں بڑھتی ہوئی آمادگی دکھائی ہے جب معاہدہ اور ادائیگی کے ریکارڈ مستقل طور پر اسے مضمون، غیر متغیر رقم کے طور پر ظاہر کریں۔ لیکن آپ کو کبھی بھی عدالت پر بھروسہ نہیں کرنا چاہیے کہ وہ اسے ٹھیک کرے جو معاہدے کو تحریر میں واضح طور پر بتانا چاہیے تھا۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تنخواہ کے وہ اجزاء جو EOSB میں شامل ہوتے ہیں</h2>
+        <p>
+          اچھی خبر سے شروع کریں: آپ کی تنخواہ کے کچھ حصے واقعی EOSB کی بنیاد میں شامل ہوتے ہیں۔ یہ وہ اجزاء ہیں جو مقرر، مضمون اور تحریری ہیں۔ اگر آپ کی پیکج کو ذہانت سے بنایا گیا ہے، تو آپ کی گریچوٹی آپ کے ساتھ بڑھتی ہے۔ یہ ہے جو شامل ہوتا ہے۔
+        </p>
+        <h3>بنیادی تنخواہ (الراتب الأساسي)</h3>
+        <p>
+          بنیادی مقررہ ماہانہ رقم آپ کے پورے EOSB کی بنیاد ہے۔ یہ وہ نمبر ہے جو آپ کے معاہدے میں آپ کی بنیادی اجرت کے طور پر ظاہر ہوتا ہے، اور یہ وہ رقم ہے جو قانون آپ کی سروس ختم ہونے پر سب سے پہلے استعمال کرتا ہے۔ اگر آپ کی بنیادی تنخواہ 5,000 ریال ہے، تو وہ 5,000 ریال آپ کے EOSB کی بنیاد ہے — ختم۔ بنیادی تنخواہ میں اضافہ براہ راست ہر آئندہ سال کی گریچوٹی کو بڑھاتا ہے۔
+        </p>
+        <h3>مقررہ مہنگا الاؤنس (COLA)</h3>
+        <p>
+          اگر آپ کا معاہدہ مہنگا الاؤنس ایک مقررہ ماہانہ رقم کے طور پر دیتا ہے — ہر ماہ مکمل ادا ہوتا ہو، آپ کے اصل اخراجات کے ساتھ کبھی نہ بدلتا ہو — تو یہ آپ کی اجرت کی بنیاد کا حصہ بننے کی مضبوط دلیل ہے۔ 4,000 ریال بنیادی پر 1,000 ریال کا COLA آپ کو اس پڑھائی کے تحت 5,000 ریال کی EOSB بنیاد دیتا ہے۔ اہم لفظ ہے <strong class="text-white">مقررہ</strong>۔ ایسا COLA جو ماہ بہ ماہ بدلتا ہے، یا جو صرف کاغذ پر موجود ہے، آپ کی مدد نہیں کرے گا۔
+        </p>
+        <h3>مقررہ ذمہ داری الاؤنسز</h3>
+        <p>
+          مینجمنٹ الاؤنسز، سپروائزری پریمیم، یا کردار سے منسلک مراعات جو آپ کی باقاعدہ، تحریری تنخواہ کا حصہ ہیں، COLA کی ہی قسم میں آتے ہیں۔ اگر آپ کا معاہدہ کہتا ہے کہ آپ کو روزگار کی مضمون شرط کے طور پر ماہانہ 500 ریال مینجمنٹ الاؤنس ملتا ہے، تو عدالتیں اور HR آڈیٹر تیزی سے اسے اجرت کی بنیاد کا حصہ مانتے ہیں۔ یاد رکھنے کا نمونہ: <strong class="text-desert-primary">مقرر + باقاعدہ + تحریری = غالباً شامل۔</strong> متغیر + اختیاری = خارج۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">معاہدہ کے جائزے کے لیے مشورہ:</strong> جب کمپنی سخاوت کرنا چاہتی ہے، تو وہ عام طور پر اسے معاہدے میں لکھتی ہے۔ جب وہ رخصتی پر پیسے بچانا چاہتی ہے، تو وہی الاؤنسز خاموشی سے EOSB گفتگو سے غائب ہو جاتے ہیں۔ آپ کے معاہدے میں جو تحریر ہے وہ آپ کا سب سے مضبوط ہتھیار ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تنخواہ کے وہ اجزاء جو EOSB میں شامل نہیں ہوتے</h2>
+        <p>
+          یہ وہ سیکشن ہے جو وافدوں کو حقیقی رقم کھو دیتا ہے، کیونکہ یہ ان الاؤنسز کی فہرست دیتا ہے جنہیں زیادہ تر مزدور شامل مان لیتے ہیں۔ سعودی لیبر قانون کے معیاری اطلاق کے تحت، مندرجہ ذیل میں سے کوئی بھی EOSB کی بنیاد میں داخل نہیں ہوتا جب تک کہ معاہدہ یا سرکاری کمپنی پالیسی واضح طور پر انہیں شامل نہ کرے۔ ہر بند کو اپنے آفر لیٹر کے ساتھ احتیاط سے پڑھیں۔
+        </p>
+        <h3>ہاؤسنگ الاؤنس (بدل السكن)</h3>
+        <p>
+          ہاؤسنگ الاؤنس — عام طور پر بنیادی تنخواہ کا تقریباً 25% — سعودی پیکجز میں سب سے عام الاؤنس ہے، اور یہ <strong class="text-desert-primary">EOSB کے حساب سے خارج ہے</strong> بطور ڈیفالٹ۔ چاہے وہ نقد ادا ہو یا کمپنی کی رہائش کے طور پر، معیاری قانونی پڑھائی اسے اجرت کی بنیاد سے باہر رکھتی ہے۔ مثال: بنیادی 5,000 ریال جمع ہاؤسنگ 1,250 ریال کا مطلب ہے کہ EOSB کے لیے صرف 5,000 ریال شمار ہوتا ہے۔ وہ 1,250 ریال جو آپ برسوں ماہانہ وصول کرتے رہے، آپ کی گریچوٹی میں کچھ نہیں جوڑتا۔
+        </p>
+        <h3>ٹرانسپورٹیشن الاؤنس (بدل المواصلات)</h3>
+        <p>
+          ٹرانسپورٹیشن الاؤنس — عام طور پر بنیادی تنخواہ کا تقریباً 10% — اسی طرح برتا جاتا ہے۔ اسے کام پر پہنچنے کی عملی لاگت پوری کرنے کے لیے بنائی گئی معاوضہ جیسی مراعات سمجھا جاتا ہے، اجرت کا جزو نہیں۔ یہ <strong class="text-desert-primary">EOSB کے حساب سے خارج ہے</strong> جب تک آپ کا معاہدہ دوسری بات نہ کہے۔ 5,000 بنیادی اور 500 ٹرانسپورٹ والا مزدور بھی 5,000 ریال کی EOSB بنیاد رکھتا ہے۔
+        </p>
+        <h3>موبائل / فون الاؤنس</h3>
+        <p>
+          کمیونیکیشن الاؤنسز، چاہے 100 ریال ہوں یا 500 ریال ماہانہ، فطرتاً معاوضہ ہیں — وہ ایسی لاگت پوری کرتے ہیں جو آپ خود ادا کرتے۔ وہ EOSB سے خارج ہیں۔ اپنے معاہدے میں کسی بھی &quot;فون کی رقم&quot; کو جیب خرچ سمجھیں جو سیٹلمنٹ کے حساب سے غائب ہو جاتی ہے۔
+        </p>
+        <h3>اوور ٹائم ادائیگیاں</h3>
+        <p>
+          اوور ٹائم فطرتاً متغیر ہے: یہ ان گھنٹوں پر منحصر ہے جو آپ اصل میں کام کرتے ہیں۔ کیونکہ یہ مقرر نہیں اور مضمون نہیں، یہ EOSB اجرت کی بنیاد کا حصہ نہیں بنتا۔ چاہے آپ نے برسوں ہر ماہ مستقل طور پر 20 گھنٹے اوور ٹائم کام کیا، یہ ادائیگیاں آپ کی گریچوٹی کے حساب سے خارج ہیں۔
+        </p>
+        <h3>پرفارمنس بونس اور کمیشن</h3>
+        <p>
+          بونس اور کمیشن اختیاری ہیں۔ قانون انہیں باقاعدہ اجرت نہیں، کارکردگی کا انعام مانتا ہے، اور وہ <strong class="text-desert-primary">EOSB سے خارج ہیں</strong>۔ 10,000 ریال کا سالانہ بونس جب آپ وہاں کام کرتے ہیں تو سخاوت ہے، لیکن یہ آپ کی مزدوری معاوضہ میں صفر حصہ ڈالتا ہے۔
+        </p>
+        <h3>شفٹ ڈفرنشل الاؤنسز</h3>
+        <p>
+          نائٹ شفٹ، خطرناک کام یا آن کال ڈیوٹی کے لیے اضافی ادائیگی مخصوص کام کے حالات کے لیے پریمیم ہے، بنیادی اجرت نہیں۔ یہ EOSB سے خارج ہے۔ وہی منطق جو اوور ٹائم کو خارج کرتی ہے یہاں لاگو ہوتی ہے: متغیر، مشروط اور کسی خاص ڈیوٹی کے اصل انجام سے منسلک۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ایک سطر کا خلاصہ:</strong> اگر کوئی الاؤنس آپ کی متفقہ ماہانہ پیکج کا مقررہ حصہ ہے اور آپ کے معاہدے میں مضمون لائن کے طور پر ظاہر ہوتا ہے، تو یہ شامل ہو سکتا ہے۔ اگر یہ کوئی لاگت ادا کرتا ہے، کارکردگی کا صلہ دیتا ہے یا آپ کے رویے کے ساتھ بدلتا ہے، تو یہ شامل نہیں ہوتا۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>حقیقی دنیا کے حساب کے نمونے (مرحلہ بہ مرحلہ)</h2>
+        <p>
+          اعداد قانون کو حقیقت بناتے ہیں۔ ذیل میں تین مکمل سیناریو ہیں جو معیاری دفعہ 84 کے استحقاق فارمولے کا استعمال کرتے ہیں — پہلے پانچ سالوں کے لیے ہر سال آدھی بنیادی تنخواہ، اور اس کے بعد ہر سال ایک پوری بنیادی تنخواہ — تاکہ آپ اپنی پیکج کا موازنہ تینوں سے کر سکیں۔
+        </p>
+        <h3>سیناریو A: معیاری وافد پیکج</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">جزو</th>
+                <th class="py-2 pr-2">رقم (ریال)</th>
+                <th class="py-2">EOSB میں شمار؟</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">بنیادی تنخواہ</td>
+                <td class="py-2 pr-2">5,000</td>
+                <td class="py-2 text-desert-primary font-medium">ہاں</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">ہاؤسنگ (25%)</td>
+                <td class="py-2 pr-2">1,250</td>
+                <td class="py-2">نہیں</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">ٹرانسپورٹ (10%)</td>
+                <td class="py-2 pr-2">500</td>
+                <td class="py-2">نہیں</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">موبائل</td>
+                <td class="py-2 pr-2">200</td>
+                <td class="py-2">نہیں</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2"><strong class="text-white">کل ماہانہ</strong></td>
+                <td class="py-2 pr-2"><strong class="text-white">6,950</strong></td>
+                <td class="py-2"><strong class="text-white">بنیاد = 5,000</strong></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          آپ ہر ماہ 6,950 ریال وصول کرتے ہیں، لیکن آپ کی EOSB بنیاد 5,000 ریال ہے۔ چھ سال بعد: (5,000 ÷ 2 × 5 سال) + (5,000 × 1 سال) = 12,500 + 5,000 = <strong class="text-desert-primary">17,500 ریال</strong>۔ یہ وہ نمبر ہے جو آپ کا HR پیش کرے گا — اور یہ معیاری پڑھائی کے تحت درست ہے۔
+        </p>
+        <h3>سیناریو B: &quot;کل تنخواہ&quot; معاہدہ (خطرہ زون)</h3>
+        <p>
+          آپ کا معاہدہ کہتا ہے &quot;کل تنخواہ: 7,000 ریال&quot; بغیر کسی تفصیل کے۔ رخصتی پر، کمپنی دعوی کرتی ہے کہ آپ کی بنیادی 4,000 ریال تھی اور باقی 3,000 ریال الاؤنسز تھے۔ آپ کی EOSB بنیاد 4,000 ریال بن جاتی ہے۔ اس کا موازنہ اس 5,000 ریال بنیادی سے کریں جس پر آپ نے دستخط کرنے کا سوچا تھا — آپ گریچوٹی میں <strong class="text-white">ہر سال خدمت پر 1,000 ریال</strong> کھوتے ہیں۔
+        </p>
+        <p class="mt-4">
+          خطرہ حقیقی ہے کیونکہ تحریری تفصیل کے بغیر آجر کی تشریح اکثر جیت جاتی ہے۔ <strong class="text-desert-primary">حل سادہ ہے اور دستخط کے وقت کچھ نہیں خرچ کرتا: دستخط کرنے سے پہلے اپنے معاہدے میں تنخواہ کی تفصیل کا مطالبہ کریں۔</strong> اگر وہ انکار کرتے ہیں، تو یہ انکار اس بارے میں ایک انتباہی نشان ہے کہ وہ رخصتی پر آپ کے ساتھ کیسا سلوک کریں گے۔
+        </p>
+        <h3>سیناریو C: سخاوت مند کمپنی پالیسی</h3>
+        <p>
+          کچھ کمپنیاں — عام طور پر وہ جو صلاحیتوں کو اپنی طرف کھینچنا اور برقرار رکھنا چاہتی ہیں — ایک پالیسی لکھتی ہیں کہ EOSB بنیادی جمع ہاؤسنگ جمع ٹرانسپورٹ پر حساب ہوتی ہے۔ 5,000 ریال بنیادی، 1,250 ہاؤسنگ اور 500 ٹرانسپورٹ الاؤنس کے ساتھ، آپ کی EOSB بنیاد 6,750 ریال تک چھلانگ لگاتی ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p>چھ سال بعد: (6,750 ÷ 2 × 5) + (6,750 × 1) = 16,875 + 6,750 = <strong class="text-desert-primary">23,625 ریال</strong>۔ یہ بالکل انہی چھ سالوں کے لیے سیناریو A سے <strong class="text-white">6,125 ریال زیادہ</strong> ہے — محض اس لیے کہ پالیسی اور معاہدہ نے وسیع تر بنیاد استعمال کی۔ فرق آپ کے کام کے سالوں سے نہیں، دستاویز میں طے ہوتا ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>&quot;کل تنخواہ&quot; معاہدہ کا جال</h2>
+        <p>
+          سعودی روزگار میں سب سے مہنگا جملہ وہ ہے جو کہتا ہے &quot;کل ماہانہ تنخواہ: 8,000 ریال&quot; بغیر کسی تفصیل کے۔ یہ آفر لیٹر پر سخاوت جیسا لگتا ہے اور سیٹلمنٹ ٹیبل پر تباہ کن ہوتا ہے۔ یہ ہے جال عملی طور پر کیسے کام کرتا ہے۔
+        </p>
+        <p class="mt-4">
+          جب آپ دستخط کرتے ہیں، تو آپ سمجھتے ہیں کہ آپ 8,000 ریال کماتے ہیں۔ جب آپ رخصت ہوتے ہیں، تو کمپنی ایک اندرونی ریکارڈ پیش کرتی ہے جس میں 5,000 ریال بنیادی اور 3,000 ریال الاؤنسز دکھائے جاتے ہیں۔ کیونکہ معاہدے نے خود کبھی بنیادی جزو تحریر نہیں کیا، EOSB کا حساب 5,000 پر ہوتا ہے — اور عدالتیں، تحریری ثبوت کی عدم موجودگی میں، اکثر آجر کے ساتھ ہوتی ہیں۔ یاد رکھنے والا جملہ: <strong class="text-desert-primary">تحریری تفصیل نہیں تو کمپنی کے نمبر جیت جاتے ہیں۔</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-2 mt-4 text-gray-300">
+          <li><strong class="text-white">تحریر میں پوچھیں:</strong> دستخط سے پہلے HR کو ای میل کریں اور پوچھیں کہ بنیادی تنخواہ کا جزو کیا ہے اور EOSB کا حساب کیسے ہوگا۔ جواب محفوظ رکھیں۔</li>
+          <li><strong class="text-white">معاہدے میں تفصیل کا مطالبہ کریں:</strong> &quot;بنیادی 5,000 + ہاؤسنگ 1,250 + ٹرانسپورٹ 500 + موبائل 200&quot; بعد میں بحث کی کوئی گنجائش نہیں چھوڑتا۔</li>
+          <li><strong class="text-white">اپنی تنخواہ سلپ چیک کریں:</strong> پہلی پے رول کے بعد، تصدیق کریں کہ سلپ پر دکھایا گیا بنیادی معاہدے سے ملتا ہے۔ آج کا فرق کل کی عدالتی مقدمہ ہے۔</li>
+          <li><strong class="text-white">پالیسی تحریر میں حاصل کریں:</strong> اگر HR زبانی طور پر &quot;کل تنخواہ پر EOSB&quot; کا وعدہ کرے، تو اسے دستخط شدہ پالیسی دستاویز یا ای میل تصدیق کے طور پر طلب کریں۔</li>
+        </ul>
+        <p class="mt-4">
+          یہ بے جا شک نہیں — یہ سعودی مزدور مقدمات میں EOSB تنازع کا سب سے عام نمونہ ہے۔ دستخط کے وقت پانچ منٹ کی گفتگو رخصتی کے وقت پانچ ماہ کی بحث کو روکتی ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>کمپنی پالیسی بمقابلہ لیبر قانون</h2>
+        <p>
+          قانون ایک حد طے کرتا ہے، حد نہیں۔ کمپنی کی پالیسی ہمیشہ لیبر قانون سے زیادہ سخاوت مند ہو سکتی ہے — اور جب ہوتی ہے، تو وہ آجر کے لیے قانونی طور پر پابند ہوتی ہے۔ اگر آپ کی کمپنی کا HR مینوئل کہتا ہے کہ EOSB بنیادی جمع الاؤنسز پر حساب ہوتی ہے، تو کمپنی کو اسے پورا کرنا ہوگا۔
+        </p>
+        <p class="mt-4">
+          الٹا درست نہیں: ایسی کمپنی پالیسی جو قانون سے کم ادا کرنے کی کوشش کرے وہ باطل ہے، کیونکہ سعودی لیبر قانون کی دفعہ 8 کسی بھی ایسے معاہدے کو ختم کر دیتی ہے جو مزدور کے قانونی حقوق کو ختم یا کم کرے۔ تو گفت و شنید ایک رخا ہے — پالیسی آپ کی مدد کر سکتی ہے، قانونی حد سے نیچے کبھی نقصان نہیں پہنچا سکتی۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">اپنی کمپنی کی پالیسی کیسے چیک کریں:</strong> HR پالیسی مینوئل یا ملازم ہینڈ بک طلب کریں، خاص طور پر &quot;End of Service&quot; یا &quot;Final Settlement&quot; سیکشن۔ اس کی EOSB بنیاد کی تعریف کا اپنے معاہدے سے موازنہ کریں۔ اگر مینوئل میں الاؤنسز شامل ہیں لیکن آپ کی سیٹلمنٹ میں نہیں، تو سیٹلمنٹ ریلیز پر دستخط کرنے سے پہلے مینوئل کو تحریر میں پیش کریں۔</p>
+        </div>
+        <p class="mt-4">
+          جب کمپنی اپنی پالیسی زیادہ سخاوت مند کرنے کے لیے بدلتی ہے، تو اصرار کریں کہ تبدیلی تحریری ہو — ایک میمو، ای میل یا نظرثانی شدہ ہینڈ بک — کیونکہ غیر تحریری وعدے کا وزن کم ہوتا ہے جب پانچ سال بعد کوئی مختلف HR مینیجر آپ کی رخصتی سنبھالتا ہے۔ تحریری پالیسی اوپر دی گئی مثالوں میں 17,500 ریال اور 23,625 ریال کے درمیان فرق ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>وافدوں کے لیے خصوصی تحفظات</h2>
+        <p>
+          آپ کی قومیت تنخواہ کے کھیل کو چلانے کا طریقہ طے کرتی ہے۔ بھرتی کے ذرائع مختلف ہیں، معاہدے کی مشقیں مختلف ہیں، اور آپ کو جن انتباہات کی ضرورت ہے وہ مختلف ہیں۔ دو گروہ سب سے زیادہ خطرے کا سامنا کرتے ہیں، اس لیے ذیل میں ان کی رہنمائی تفصیل سے دی گئی ہے۔
+        </p>
+        <h3>جنوبی ایشیائی وافدوں کے لیے (پاکستان / بھارت / بنگلہ دیش)</h3>
+        <p>
+          پاکستان، بھارت اور بنگلہ دیش کے مزدوروں کے لیے سب سے اہم عادت تنخواہ کی تفصیل <strong class="text-white">عربی اور انگریزی دونوں</strong> میں حاصل کرنا ہے۔ آبائی ممالک میں بہت سی بھرتی ایجنسیاں اور ذیلی ٹھیکیدار مبہم، ایک لائن والے معاہدے بھیجتی ہیں جو سرکاری لگتے ہیں لیکن بنیادی جزو کے بارے میں کچھ نہیں کہتے۔ وہ معاہدہ جو کہتا ہے &quot;ماہانہ تنخواہ: 4,000 ریال&quot; اور کچھ نہیں، وہ معاہدہ ہے جو آپ کی EOSB بنیاد آجر کی قیاس پر چھوڑ دیتا ہے۔
+        </p>
+        <p class="mt-4">
+          گھر سے نکلنے سے پہلے اپنی ایجنسی سے تحریر میں تفصیلی خرابی طلب کریں۔ اگر ایجنسی رکاوٹ ڈالے، تو اسے سرخ جھنڈا سمجھیں۔ جب آپ پہنچیں، پہلی تنخواہ سلپ کا معاہدے سے موازنہ کریں — وزارت کی اجرت پروٹیکشن سسٹم ہر ادائیگی ریکارڈ کرتا ہے، اور سلپ اور معاہدے کے درمیان فرق آپ کا سب سے جلد اور بہترین ثبوت ہے۔
+        </p>
+        <h3>فلپائنی وافدوں کے لیے</h3>
+        <p>
+          فلپائنی مزدوروں کو POLO (Philippine Overseas Labor Office) تصدیقی عمل سے فائدہ ہوتا ہے، جس کے لیے تعیناتی سے پہلے روزگار معاہدے جمع اور تصدیق شدہ ہونے چاہئیں۔ وہ تصدیق آپ کی حفاظت ہے — لیکن یہ صرف اس صورت میں مدد کرتی ہے جب آپ کا معاہدہ تنخواہ کے اجزاء کی تفصیل دیتا ہو۔ بغیر واضح تفصیل کے کبھی دستخط نہ کریں، اور کبھی فرض نہ کریں کہ ایجنسی نے پوری حقیقت چھاپی ہے۔
+        </p>
+        <p class="mt-4">
+          رخصتی سے پہلے، کسی بھی ریلیز، معافی یا فائنل سیٹلمنٹ کا جائزہ POLO یا قانونی پیشہ ور سے کروائیں۔ &quot;مکمل اور حتمی سیٹلمنٹ&quot; دستاویز بالکل وہی جگہ ہے جہاں آجر چھوٹی EOSB رقم دفن کرتا ہے۔ اسے پڑھیں، اپنے حساب سے تصدیق کریں، پھر دستخط کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا ہاؤسنگ الاؤنس سعودی عرب میں EOSB کے حساب میں شامل ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ بطور ڈیفالٹ، ہاؤسنگ الاؤنس سعودی لیبر قانون کے معیاری اطلاق کے تحت EOSB بنیاد سے خارج ہے۔ آپ کی گریچوٹی صرف بنیادی تنخواہ پر حساب ہوتی ہے جب تک کہ آپ کا معاہدہ یا کمپنی پالیسی واضح طور پر ہاؤسنگ کو شامل نہ کرے۔ 5,000 ریال بنیادی جمع 1,250 ریال ہاؤسنگ کا مطلب ہے کہ صرف 5,000 ریال شمار ہوتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا ٹرانسپورٹیشن الاؤنس KSA میں مزدوری معاوضہ میں شامل ہوتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ ٹرانسپورٹیشن الاؤنس سفر کی لاگت کی ادائیگی سمجھا جاتا ہے اور بطور ڈیفالٹ EOSB سے خارج ہے۔ صرف ایک معاہدہ یا پالیسی جو واضح طور پر اسے شامل کرے اسے حساب میں لا سکتی ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">EOSB کے حساب کے لیے بنیادی تنخواہ میں کیا شامل ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">بنیادی تنخواہ وہ مقررہ، معاہداتی بنیادی رقم ہے جو آپ کے روزگار معاہدے میں بیان ہوتی ہے۔ مقررہ، باقاعدہ، تحریری نقد الاؤنسز بھی شمار ہو سکتے ہیں، جبکہ ہاؤسنگ، ٹرانسپورٹ، موبائل، اوور ٹائم، بونس اور شفٹ پریمیم خارج ہیں جب تک معاہدہ دوسری بات نہ کہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا میری کمپنی EOSB کے حساب میں الاؤنسز شامل کر سکتی ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">ہاں۔ کمپنی کی پالیسی قانون سے زیادہ سخاوت مند ہو سکتی ہے۔ اگر معاہدہ یا سرکاری HR پالیسی کہتی ہے کہ EOSB بنیادی جمع الاؤنسز پر حساب ہوتی ہے، تو کمپنی قانونی طور پر اسے پورا کرنے کی پابند ہے۔ پالیسی الاؤنسز شامل کر سکتی ہے لیکن قانونی حد سے کم نہیں ادا کر سکتی۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">میرا معاہدہ بغیر تفصیل کے &quot;کل تنخواہ&quot; کہتا ہے۔ میں کیا کروں؟</p>
+            <p class="text-gray-400 text-sm mt-1">اپنے HR محکمے سے تحریر میں، دستخط سے پہلے اپنی بنیادی تنخواہ اور الاؤنسز کی تفصیلی خرابی طلب کریں، اور پوچھیں کہ EOSB کا حساب کیسے ہوگا۔ تحریری جواب محفوظ رکھیں۔ تحریری تفصیل کے بغیر، آپ کی بنیادی تنخواہ کی آجر کی تشریح غالب ہوتی ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا اوور ٹائم ادائیگیاں سعودی عرب میں EOSB میں شامل ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ اوور ٹائم متغیر اور غیر مضمون ہے، اس لیے یہ EOSB اجرت کی بنیاد کا حصہ نہیں بنتا۔ حتیٰ کہ مستقل اوور ٹائم گھنٹے بھی آپ کی مزدوری معاوضہ میں کچھ نہیں جوڑتے جب تک تحریری پالیسی دوسری بات نہ کہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا پرفارمنس بونس KSA میں گریچوٹی میں شمار ہوتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ بونس اور کمیشن اختیاری کارکردگی کے انعامات ہیں، باقاعدہ اجرت نہیں، اور وہ EOSB سے خارج ہیں۔ بڑا سالانہ بونس آپ کی مزدوری معاوضہ میں کچھ نہیں جوڑتا۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>کسی بھی چیز پر دستخط کرنے سے پہلے اپنا نمبر جانیں</h2>
+        <p>
+          اس گائیڈ کے ہر سیناریو کا سبق ایک ہی ہے: آپ کا EOSB آپ کے معاہدے کی بنیادی تنخواہ کی لائن سے طے ہوتا ہے، نہ کہ اس کل سے جو آپ ہر ماہ وصول کرتے ہیں۔ ہوشیار وافد اس لائن کو دستخط کے وقت چیک کرتا ہے، پہلی تنخواہ سلپ پر تصدیق کرتا ہے، اور رخصتی کی گفتگو شروع ہونے سے پہلے کمپنی پالیسی پڑھتا ہے۔ وہ عادت ہزاروں ریال کی ہے — اس گائیڈ میں سیناریو A اور C کے درمیان فرق انہی چھ سالوں کے لیے 6,125 ریال ہے۔
+        </p>
+        <p class="mt-4">
+          خلاصہ یاد رکھیں: <strong class="text-white">بنیادی تنخواہ ہمیشہ بنیاد ہے۔</strong> <strong class="text-white">مقرر، باقاعدہ، تحریری الاؤنسز شامل ہو سکتے ہیں۔</strong> <strong class="text-white">ہاؤسنگ، ٹرانسپورٹ، موبائل، اوور ٹائم اور بونس بطور ڈیفالٹ خارج ہیں۔</strong> <strong class="text-white">تحریری معاہدہ زبان ہر بار زبانی وعدوں پر جیتتی ہے۔</strong>
+        </p>
+        <p class="mt-4">
+          مبہم تنخواہ کے اجزاء آپ کو ہزاروں ریال نہ کھوائیں۔ اپنی بنیادی تنخواہ کی بنیاد پر اپنے درست حق کا حساب کرنے کے لیے <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB کیلکولیٹر</a> استعمال کریں، پھر وہ نمبر اپنے ساتھ HR سے بات کرتے وقت لے جائیں۔ اگر آپ کی سیٹلمنٹ آپ کے حساب سے مختلف ہے، تو وجہ پوچھیں — تحریر میں۔
+        </p>
+        <p class="mt-4">
+          استعفیٰ کے اپنے حقوق سمجھنا چاہتے ہیں؟ <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">سعودی استعفیٰ EOSB قواعد: دفعہ 84 بمقابلہ 85</a> پر ہمارا گائیڈ بھی پڑھیں تاکہ دیکھ سکیں کہ مرحلہ وار نظام آپ کا نمبر کیسے بدلتا ہے اس پر منحصر ہے کہ معاہدہ کون ختم کرتا ہے۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنا درست EOSB حساب کریں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — اپنی بنیادی تنخواہ، سروس کے سال اور رخصتی کی وجہ درج کریں</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">مفت EOSB کیلکولیٹر استعمال کریں</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>ڈس کلیمر:</strong> یہ گائیڈ سعودی لیبر قانون کی دفعہ 1 کی بنیاد پر صرف معلوماتی مقاصد کے لیے ہے۔ کمپنی پالیسیاں مختلف ہو سکتی ہیں۔ اپنے مخصوص تنخواہ کے اجزاء کی تصدیق ہمیشہ اپنے HR محکمے اور روزگار معاہدے سے کریں۔
+        </p>
+      </div>
+    `,
+    tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay sa Paggawa para sa mga Expats</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">EOSB at mga Allowance sa Saudi Arabia 2026: Ano ang Kasama sa Pangunahing Sahod?</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Housing, transport, mobile, bonuses — aling bahagi ng iyong sahod ang talagang nakakasali sa iyong End of Service Benefit? Ang sagot ang nagtatakda ng libu-libong riyal sa oras ng pag-alis. Ganito mismo tinatrato ng batas ang bawat component.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Panimula: Ang Sahod na Nagtatago sa Tunay Mong EOSB</h2>
+        <p>
+          Buksan ang anumang employment contract ng expat sa Saudi Arabia at makikita mo ang parehong pattern: isang sahod na hinati-hati sa mga piraso. Basic salary, housing allowance, transportation allowance, mobile allowance, minsan isang bonus clause at malabong pagbanggit ng overtime. Tumibok ang iyong puso kapag nakita mo ang malaking total sa ilalim ng offer letter. Pagkalipas ng mga taon, isang gratuity cheque ang ibibigay sa iyo ng HR na nakakahiyang maliit — at sa wakas ay mauunawaan mo na ang malaking numero na nilagdaan mo ay hindi kailanman ang numerong ginamit para kalkulahin ang totoong makukuha mo pag-alis.
+        </p>
+        <p class="mt-4">
+          Ang direktang sagot, agad-agad: <strong class="text-desert-primary">Sa ilalim ng Artikulo 1 ng Saudi Labor Law, ang End of Service Benefit (EOSB) ay kinakalkula batay lamang sa iyong huling pangunahing sahod.</strong> Ang housing, transportation, mobile, at iba pang allowance ay karaniwang hindi kasama maliban kung ang iyong employment contract o company policy ay malinaw na nagsasabi ng iba. Karamihan sa mga expat ay natalo ng pera hindi dahil mali ang calculator, kundi dahil hindi nila naintindihan kung aling component ang ginagamit ng batas bilang base.
+        </p>
+        <p class="mt-4">
+          Isinulat ang gabay na ito mula sa pananaw ng isang senior HR consultant na nagproseso ng daan-daang final settlement. Ipinapaliwanag nito ang legal na kahulugan ng sahod, inihihiwalay ang mga component na kasama sa mga hindi kasama, ipinapakita ang totoong step-by-step na kalkulasyon na may eksaktong numero, at — pinakamahalaga — ipinapaliwanag kung paano mo mapoprotektahan ang iyong sarili bago ka pumirma. Ang karaniwang pagkakamali na inilarawan sa Scenario B sa ibaba ay nagkakahalaga ng humigit-kumulang 6,000 hanggang 12,000 SAR sa isang expat sa loob ng anim na taong kontrata. Hindi mo kailangang maging estadistika na iyon.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Hindi sigurado sa breakdown ng iyong sahod?</strong> Gamitin ang aming <a href="/eosb-calculator" class="text-desert-primary underline">Libreng EOSB Calculator</a> para kalkulahin ang iyong entitlement batay sa eksaktong pangunahing sahod mo — wala pang isang minuto.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Artikulo 1 ng Saudi Labor Law: Pagtukoy sa &quot;Sahod&quot; para sa EOSB</h2>
+        <p>
+          Lahat tungkol sa iyong gratuity ay nagsisimula sa isang salita sa batas: <strong class="text-white">sahod</strong>. Tinutukoy ng Artikulo 1 ng Saudi Labor Law ang sahod bilang ang halagang ibinabayad sa manggagawa para sa kanyang trabaho, sa pamamagitan man ng buwanan, lingguhan, arawan, o kada-oras na bayad. Sinadya ang lawak ng kahulugan — ngunit pinaliit ito ng praktika ng pagkwenta ng EOSB sa isang partikular na paraan.
+        </p>
+        <p class="mt-4">
+          Ang pangkalahatang alituntunin na ipinatutupad sa mga kumpanya sa Saudi at kinukumpirma sa mga labor dispute ay ang base ng EOSB ay ang <strong class="text-desert-primary">pangunahing sahod</strong> — ang fixed, contractual na pangunahing bayad — kasama ang anumang fixed, regular na cash allowance na binabayaran bawat buwan nang walang pagbabago at nakadokumento sa kontrata. Ang mga allowance na discretionary, may kondisyon, o idinisenyo para magreimburse ng aktwal na gastos (tulad ng bill ng telepono o pagbili ng gasolina) ay hindi bumubuo ng bahagi ng sahod para sa EOSB.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Bakit ito mahalaga:</strong> Maaaring bayaran ka ng kumpanya ng 7,000 SAR kada buwan, hinati bilang 5,000 basic at 2,000 sa mga allowance, at legal na kalkulahin ang iyong gratuity batay sa 5,000. Kung hindi mo binasa ang breakdown ng kontrata, malalaman mo lang ito sa settlement table. Hindi awtomatikong ibinibigay ng batas ang mas malaking numero dahil lang natatanggap mo ito.</p>
+        </div>
+        <p class="mt-4">
+          Dalawang paglilinaw ang dapat mong tandaan ngayon. Una, tinitingnan ng batas ang <strong class="text-white">huling pangunahing sahod</strong> — kung tumaas ang iyong sahod sa huling taon mo, ilalapat ang bagong basic sa buong panahon ng serbisyo, isang malakas na dahilan para magnegosasyon ng mga pagtaas na tumatama sa iyong basic component kaysa sa mga allowance mo. Pangalawa, ipinakita ng kamakailang labor court practice ang lumalaking kahandaan na ituring ang isang <em>fixed monthly allowance</em> bilang bahagi ng base ng sahod kapag ang kontrata at mga rekord ng bayad ay patuloy na nagpapakita nito bilang garantiya, hindi nagbabagong halaga. Ngunit hindi ka dapat umasa kailanman sa korte para ayusin ang dapat na malinaw na nakasaad sa kontrata.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Component ng Sahod na KASAMA sa EOSB</h2>
+        <p>
+          Magsimula sa magandang balita: may mga bahagi ng iyong sahod na talagang nakakasali sa base ng EOSB. Ito ang mga component na fixed, garantisado, at nakadokumento. Kung matalino ang istraktura ng iyong package, lumalaki ang iyong gratuity kasama mo. Ito ang kasama.
+        </p>
+        <h3>Pangunahing Sahod (Basic Salary)</h3>
+        <p>
+          Ang pangunahing fixed monthly bayad ay ang pundasyon ng iyong buong EOSB. Ito ang numerong lumalabas sa iyong kontrata bilang pangunahing sahod mo, at ito ang halagang unang ginagamit ng batas kapag natapos ang iyong serbisyo. Kung ang iyong pangunahing sahod ay 5,000 SAR, iyong 5,000 SAR ang base ng iyong EOSB — tapos. Ang pagtaas ng pangunahing sahod ay direktang nagpapalaki sa bawat susunod na taon ng gratuity.
+        </p>
+        <h3>Fixed Cost of Living Allowance (COLA)</h3>
+        <p>
+          Kung ang iyong kontrata ay nagbibigay ng cost of living allowance bilang fixed monthly na halaga — binabayaran nang buo kada buwan, hindi nagbabago sa iyong aktwal na gastos — may malakas na argumento na bumubuo ito ng bahagi ng iyong base ng sahod. Ang COLA na 1,000 SAR sa itaas ng 4,000 SAR basic ay nagbibigay sa iyo ng 5,000 SAR base ng EOSB sa ilalim ng pagbasang ito. Ang kritikal na salita ay <strong class="text-white">fixed</strong>. Ang COLA na nagbabago bawat buwan, o umiiral lang sa papel, ay hindi makakatulong sa iyo.
+        </p>
+        <h3>Fixed Responsibility Allowances</h3>
+        <p>
+          Ang management allowance, supervisory premium, o role-based stipend na bahagi ng iyong regular, nakadokumentong sahod ay pumapasok sa parehong kategorya ng COLA. Kung sinasabi ng iyong kontrata na tumatanggap ka ng 500 SAR buwanang management allowance bilang garantisadong tuntunin ng empleo, mas pabor nang itinuturing ito ng mga korte at HR auditor bilang bahagi ng base ng sahod. Ang pattern na dapat tandaan: <strong class="text-desert-primary">fixed + regular + nakadokumento = malamang kasama.</strong> Variable + discretionary = hindi kasama.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tip para sa pagrerebyu ng kontrata:</strong> Kapag nais ng kumpanya na maging bukas-palad, karaniwan nilang isinusulat ito sa kontrata. Kapag nais nilang mag-ipon ng pera sa pag-alis, tahimik na nawawala ang parehong allowance sa usapan ng EOSB. Anuman ang nakasulat sa iyong kontrata ang iyong pinakamalakas na sandata.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Component ng Sahod na HINDI Kasama sa EOSB</h2>
+        <p>
+          Ito ang seksyong nagkakahalaga ng totoong pera sa mga expat, dahil inililista nito ang mga allowance na ipinapalagay ng karamihan sa manggagawa na kasama. Sa ilalim ng karaniwang aplikasyon ng Saudi Labor Law, wala sa mga sumusunod ang pumapasok sa base ng EOSB maliban kung ang kontrata o opisyal na policy ng kumpanya ay malinaw na isinasama ang mga ito. Basahin ang bawat isa nang mabuti kumpara sa iyong sariling offer letter.
+        </p>
+        <h3>Housing Allowance (Sakan)</h3>
+        <p>
+          Ang housing allowance — karaniwang mga 25% ng pangunahing sahod — ang pinakakaraniwang allowance sa mga Saudi package, at ito ay <strong class="text-desert-primary">hindi kasama sa kalkulasyon ng EOSB</strong> bilang default. Maging cash man ito o ibinigay na tirahan ng kumpanya, ang karaniwang legal na pagbasa ay inilalayo ito sa base ng sahod. Halimbawa: basic 5,000 SAR plus housing 1,250 SAR ay nangangahulugang 5,000 SAR lang ang kasama sa EOSB. Ang 1,250 SAR na tinipon mo buwan-buwan nang maraming taon ay walang naidagdag sa iyong gratuity.
+        </p>
+        <h3>Transportation Allowance (Mowasalat)</h3>
+        <p>
+          Ang transportation allowance — karaniwang mga 10% ng pangunahing sahod — ay tinatrato nang pareho. Itinuturing itong parang reimbursement na benepisyo na idinisenyo para tustusan ang praktikal na gastos ng pagpunta sa trabaho, hindi isang component ng sahod. Ito ay <strong class="text-desert-primary">hindi kasama sa kalkulasyon ng EOSB</strong> maliban kung iba ang sinasabi ng iyong kontrata. Ang manggagawa na may 5,000 basic at 500 transport ay mayroon pa ring 5,000 SAR na base ng EOSB.
+        </p>
+        <h3>Mobile / Phone Allowance</h3>
+        <p>
+          Ang communication allowance, maging 100 SAR o 500 SAR bawat buwan, ay reimbursement sa kalikasan — tinutustusan nito ang gastos na ikaw sana ang magbabayad. Hindi ito kasama sa EOSB. Ituring ang anumang &quot;phone money&quot; sa iyong kontrata bilang pocket money na nawawala sa settlement math.
+        </p>
+        <h3>Mga Bayad sa Overtime</h3>
+        <p>
+          Ang overtime ay variable ayon sa kahulugan: nakasalalay ito sa mga oras na aktwal mong ginawa. Dahil hindi ito fixed at hindi garantisado, hindi ito bumubuo ng bahagi ng base ng sahod ng EOSB. Kahit pa patuloy kang nagtrabaho ng 20 overtime hours bawat buwan nang maraming taon, hindi kasama ang mga bayad na iyon sa kalkulasyon ng iyong gratuity.
+        </p>
+        <h3>Performance Bonus at Commissions</h3>
+        <p>
+          Ang bonus at commissions ay discretionary. Itinuturing ng batas ang mga ito bilang gantimpala sa performance, hindi regular na sahod, at ang mga ito ay <strong class="text-desert-primary">hindi kasama sa EOSB</strong>. Ang 10,000 SAR taunang bonus ay bukas-palad habang nagtatrabaho ka roon, ngunit zero ang ambag nito sa iyong end of service benefit.
+        </p>
+        <h3>Shift Differential Allowances</h3>
+        <p>
+          Ang karagdagang bayad para sa night shift, mapanganib na trabaho, o on-call duty ay premium para sa partikular na kondisyon ng trabaho, hindi base na sahod. Hindi ito kasama sa EOSB. Ang parehong lohika na naghihiwalay sa overtime ay nalalapat dito: variable, may kondisyon, at nakatali sa aktwal na pagganap ng isang espesyal na tungkulin.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ang isang linyang buod:</strong> Kung ang allowance ay fixed na bahagi ng iyong napagkasunduang buwanang package at lumalabas bilang garantisadong linya sa iyong kontrata, maaaring kasama ito. Kung nagreimburse ito ng gastos, nagbibigay ng gantimpala sa performance, o nagbabago batay sa iyong asal, hindi ito kasama.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-World na Halimbawa ng Kalkulasyon (Step by Step)</h2>
+        <p>
+          Ginagawang totoo ng mga numero ang batas. Sa ibaba ay tatlong kumpletong scenario gamit ang karaniwang Artikulo 84 na accrual formula — kalahating buwang pangunahing sahod para sa bawat isa sa unang limang taon, at isang buong buwang pangunahing sahod para sa bawat taon pagkatapos — para maihambing mo ang sarili mong package sa lahat ng tatlo.
+        </p>
+        <h3>Scenario A: Karaniwang Expat Package</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">Component</th>
+                <th class="py-2 pr-2">Halaga (SAR)</th>
+                <th class="py-2">Kasama sa EOSB?</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Pangunahing Sahod</td>
+                <td class="py-2 pr-2">5,000</td>
+                <td class="py-2 text-desert-primary font-medium">Oo</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Housing (25%)</td>
+                <td class="py-2 pr-2">1,250</td>
+                <td class="py-2">Hindi</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Transport (10%)</td>
+                <td class="py-2 pr-2">500</td>
+                <td class="py-2">Hindi</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">Mobile</td>
+                <td class="py-2 pr-2">200</td>
+                <td class="py-2">Hindi</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2"><strong class="text-white">Kabuuang Buwanan</strong></td>
+                <td class="py-2 pr-2"><strong class="text-white">6,950</strong></td>
+                <td class="py-2"><strong class="text-white">Base = 5,000</strong></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          Tumatanggap ka ng 6,950 SAR kada buwan, ngunit ang base ng iyong EOSB ay 5,000 SAR. Pagkalipas ng anim na taon: (5,000 ÷ 2 × 5 taon) + (5,000 × 1 taon) = 12,500 + 5,000 = <strong class="text-desert-primary">17,500 SAR</strong>. Iyan ang numerong ihaharap ng iyong HR — at tama ito sa ilalim ng karaniwang pagbasa.
+        </p>
+        <h3>Scenario B: Ang &quot;Total Salary&quot; Contract (Danger Zone)</h3>
+        <p>
+          Sinasabi ng iyong kontrata na &quot;Total Salary: 7,000 SAR&quot; nang walang breakdown. Sa pag-alis, inaangkin ng kumpanya na ang basic mo ay 4,000 SAR at ang natitirang 3,000 SAR ay mga allowance. Nagiging 4,000 SAR ang base ng iyong EOSB. Ihambing iyan sa 5,000 SAR basic na inakala mong nilagdaan mo — nawawalan ka ng <strong class="text-white">1,000 SAR kada taon ng serbisyo</strong> sa gratuity.
+        </p>
+        <p class="mt-4">
+          Totoong mapanganib ito dahil, nang walang nakasulat na breakdown, madalas nananalo ang interpretasyon ng employer. <strong class="text-desert-primary">Simpleng solusyon at walang halaga sa oras ng pagpirma: hingin ang itemized na breakdown ng sahod sa iyong kontrata bago ka pumirma ng anuman.</strong> Kung tumanggi sila, ang pagtangging iyon ay babala kung paano ka nila ituturing sa pag-alis.
+        </p>
+        <h3>Scenario C: Mapagbigay na Company Policy</h3>
+        <p>
+          Ang ilang kumpanya — karaniwang yaong gustong umakit at mapanatili ang talento — ay sumusulat ng policy na ang EOSB ay kinakalkula sa basic plus housing plus transport. Sa 5,000 SAR basic, 1,250 housing, at 500 transport allowance, tumataas ang base ng iyong EOSB sa 6,750 SAR.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p>Pagkalipas ng anim na taon: (6,750 ÷ 2 × 5) + (6,750 × 1) = 16,875 + 6,750 = <strong class="text-desert-primary">23,625 SAR</strong>. Iyan ay <strong class="text-white">6,125 SAR pa</strong> kaysa Scenario A para sa eksaktong parehong anim na taon ng trabaho — dahil lang gumamit ang policy at kontrata ng mas malaking base. Ang pagkakaiba ay napagpapasyahan sa dokumento, hindi sa mga taong ginawa mo.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Bitag ng &quot;Total Salary&quot; Contract</h2>
+        <p>
+          Ang pinakamahal na pangungusap sa pagtatrabaho sa Saudi ay ang nakasulat na &quot;Total Monthly Salary: 8,000 SAR&quot; nang walang breakdown. Mukhang mapagbigay ito sa offer letter at nakapipinsala sa settlement table. Ganito gumagana ang bitag sa praktika.
+        </p>
+        <p class="mt-4">
+          Kapag pumirma ka, naniniwala kang kumikita ka ng 8,000 SAR. Kapag umalis ka, gumagawa ang kumpanya ng panloob na rekord na nagpapakita ng 5,000 SAR basic at 3,000 SAR allowance. Dahil hindi kailanman dinokumento ng kontrata ang basic component, kinakalkula ang EOSB sa 5,000 — at ang mga korte, sa kawalan ng nakasulat na ebidensya, ay madalas na pumapanig sa employer. Ang pariralang dapat mong tandaan: <strong class="text-desert-primary">walang nakasulat na breakdown ay nangangahulugang nananalo ang numero ng kumpanya.</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-2 mt-4 text-gray-300">
+          <li><strong class="text-white">Magtanong sa sulat:</strong> Bago pumirma, mag-email sa HR para itanong ang eksaktong basic salary component at kung paano kakalkulahin ang EOSB. Itago ang sagot.</li>
+          <li><strong class="text-white">Hingin ang breakdown sa kontrata:</strong> Ang &quot;Basic 5,000 + Housing 1,250 + Transport 500 + Mobile 200&quot; ay walang iniiwang dapat pagtalunan mamaya.</li>
+          <li><strong class="text-white">Suriin ang iyong salary slips:</strong> Pagkatapos ng unang payroll, kumpirmahing ang basic na ipinakita sa iyong slip ay tumutugma sa kontrata. Ang hindi tugma ngayon ay demanda bukas.</li>
+          <li><strong class="text-white">Kunin ang policy sa sulat:</strong> Kung bibigkasang ipinangako ng HR ang &quot;EOSB on total salary,&quot; hingin ito bilang nilagdaang policy document o email confirmation.</li>
+        </ul>
+        <p class="mt-4">
+          Hindi ito paranoya — ito ang pinakakaraniwang pattern ng EOSB dispute sa mga Saudi labor case. Ang limang minutong usapan sa pagpirma ay pumipigil sa limang buwang pagtatalo sa pag-alis.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Company Policy vs. Labor Law</h2>
+        <p>
+          Nagtatakda ang batas ng sahig, hindi kisame. Maaaring palaging mas mapagbigay ang policy ng kumpanya kaysa sa Labor Law — at kapag ito, legal itong may bisa sa employer. Kung sinasabi ng HR manual ng iyong kumpanya na kinakalkula ang EOSB sa basic plus allowances, dapat itong parangalan ng kumpanya.
+        </p>
+        <p class="mt-4">
+          Hindi totoo ang kabaligtaran: ang policy ng kumpanya na sumusubok magbayad ng <em>mas mababa</em> kaysa sa pinapayagan ng batas ay walang bisa, dahil binababagsak ng Artikulo 8 ng Saudi Labor Law ang anumang kasunduan na nagwawaksi o nagbabawas ng mga statutory rights ng manggagawa. Kaya isang-daan lang ang negosasyon — ang policy ay maaaring tumulong sa iyo, hindi kailanman sasaktan ka sa ibaba ng legal na minimum.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Paano suriin ang policy ng iyong kumpanya:</strong> Hingin ang HR policy manual o employment handbook, partikular ang seksyon ng &quot;End of Service&quot; o &quot;Final Settlement.&quot; Ihambing ang kahulugan nito ng base ng EOSB sa iyong kontrata. Kung isinasama ng manual ang mga allowance ngunit ang settlement mo ay hindi, iharap ang manual sa sulat bago ka pumirma sa settlement release.</p>
+        </div>
+        <p class="mt-4">
+          Kapag binago ng kumpanya ang policy nito para maging mas mapagbigay, igiit na idokumento ang pagbabago — isang memo, email, o rebisadong handbook — dahil ang di-nakasulat na pangako ay maliit ang timbang kapag ibang HR manager ang humawak ng iyong pag-alis makalipas ang limang taon. Ang nakasulat na policy ang pagkakaiba sa pagitan ng 17,500 SAR at 23,625 SAR sa mga halimbawa sa itaas.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Espesyal na Konsiderasyon para sa mga Expat</h2>
+        <p>
+          Hinuhubog ng iyong nasyonalidad kung paano nilalaro ang larong pampinansyal. Magkaiba ang mga recruitment channel, magkaiba ang mga praktika sa kontrata, at magkaiba ang mga babalang kailangan mo. Dalawang grupo ang nahaharap sa pinakamataas na panganib, kaya detalyado ang gabay sa ibaba.
+        </p>
+        <h3>Para sa mga South Asian Expat (Pakistan / India / Bangladesh)</h3>
+        <p>
+          Para sa mga manggagawa mula sa Pakistan, India, at Bangladesh, ang pinakamahalagang ugali ay ang makuha ang breakdown ng sahod sa <strong class="text-white">parehong Arabic at Ingles</strong>. Maraming recruitment agency at subcontractor sa mga bansang pinagmulan ang nagpapadala ng malabo, isang-linya na kontrata na mukhang opisyal ngunit walang sinasabi tungkol sa basic component. Ang kontratang nagsasabing &quot;Monthly Salary: 4,000 SAR&quot; at wala nang iba ay isang kontratang nag-iiwan sa base ng iyong EOSB sa imahinasyon ng employer.
+        </p>
+        <p class="mt-4">
+          Hingin sa iyong agency, sa sulat, ang itemized na breakdown bago ka umalis ng bahay. Kung magdadalawang-isip ang agency, ituring iyon na red flag. Pagdating mo, ihambing ang unang salary slip sa kontrata — ang Wage Protection System ng MHRSD ay nagtatala ng bawat bayad, at ang hindi tugma sa pagitan ng slip at kontrata ang iyong pinakamaaga at pinakamagandang ebidensya.
+        </p>
+        <h3>Para sa mga Filipino Expat</h3>
+        <p>
+          Nakikinabang ang mga manggagawang Pilipino sa proseso ng veripikasyon ng POLO (Philippine Overseas Labor Office), na nangangailangan ng mga employment contract na isumite at i-verify bago ang deployment. Ang veripikasyong iyon ay iyong proteksyon — ngunit nakakatulong lamang ito kung talagang inililista ng iyong kontrata ang mga component ng sahod. Huwag kailanman pumirma ng kontrata nang walang malinaw na breakdown, at huwag ipagpalagay na inilimbag ng agency ang buong katotohanan.
+        </p>
+        <p class="mt-4">
+          Bago ang iyong pag-alis, ipasuri ang anumang release, waiver, o final settlement sa POLO o sa isang legal na propesyonal. Ang dokumentong &quot;complete and final settlement&quot; ay eksaktong lugar kung saan ibinaon ng employer ang mas maliit na numero ng EOSB. Basahin ito, i-verify ito laban sa sarili mong kalkulasyon, pagkatapos pumirma.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Kasama ba ang housing allowance sa kalkulasyon ng EOSB sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Bilang default, hindi kasama ang housing allowance sa base ng EOSB sa ilalim ng karaniwang aplikasyon ng Saudi Labor Law. Ang iyong gratuity ay kinakalkula sa pangunahing sahod lamang maliban kung malinaw na isinasama ng kontrata o policy ang housing. Ang 5,000 SAR basic plus 1,250 SAR housing ay nangangahulugang 5,000 SAR lang ang kasama.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Nakakasali ba ang transportation allowance sa end of service benefit sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Ang transportation allowance ay itinuturing na reimbursement sa gastos ng paglalakbay at hindi kasama sa EOSB bilang default. Tanging ang kontrata o policy na malinaw na isinasama ito ang makapagdadala nito sa kalkulasyon.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Ano ang kasama sa pangunahing sahod para sa kalkulasyon ng EOSB?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang pangunahing sahod ay ang fixed, contractual na pangunahing bayad na nakasaad sa iyong employment contract. Maaaring kasama rin ang fixed, regular, nakadokumentong cash allowance, habang ang housing, transport, mobile, overtime, bonus, at shift premium ay hindi kasama maliban kung iba ang sinasabi ng kontrata.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Maaari bang isama ng kumpanya ko ang mga allowance sa kalkulasyon ng EOSB?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Maaaring maging mas mapagbigay ang policy ng kumpanya kaysa sa batas. Kung sinasabi ng kontrata o opisyal na HR policy na kinakalkula ang EOSB sa basic plus allowances, legal na nakatali ang kumpanya na parangalan ito. Ang policy ay maaaring magdagdag ng allowance ngunit hindi makapagbayad nang mas mababa sa legal na minimum.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Sinasabi ng kontrata ko ang &quot;total salary&quot; nang walang breakdown. Ano ang gagawin ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Hingin sa iyong HR department, sa sulat, ang itemized na breakdown ng iyong pangunahing sahod at mga allowance bago pumirma, at itanong kung paano kakalkulahin ang EOSB. Itago ang nakasulat na sagot. Nang walang nakasulat na breakdown, kadalasang nananaig ang interpretasyon ng employer sa iyong pangunahing sahod.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Kasama ba ang mga bayad sa overtime sa EOSB sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Ang overtime ay variable at hindi garantisado, kaya hindi ito bumubuo ng bahagi ng base ng sahod ng EOSB. Kahit ang patuloy na oras ng overtime ay hindi nakakadagdag sa iyong end of service benefit maliban kung iba ang sinasabi ng nakasulat na policy.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Nakakasali ba ang performance bonus sa gratuity sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Ang bonus at commissions ay discretionary na gantimpala sa performance, hindi regular na sahod, at hindi kasama sa EOSB. Ang malaking taunang bonus ay walang naiaambag sa iyong end of service benefit.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Alamin ang Iyong Numero Bago Ka Pumirma ng Kahit Ano</h2>
+        <p>
+          Ang aral ng bawat scenario sa gabay na ito ay pareho: ang iyong EOSB ay pinagpapasyahan ng linyang pangunahing sahod ng iyong kontrata, hindi ng total na natatanggap mo bawat buwan. Tinitingnan ng matalinong expat ang linyang iyon sa pagpirma, kinukumpirma ito sa unang salary slip, at binabasa ang policy ng kumpanya bago magsimula ang usapan sa pag-alis. Ang ugaling iyon ay nagkakahalaga ng libu-libong riyal — ang pagkakaiba sa pagitan ng Scenario A at C sa gabay na ito ay 6,125 SAR para sa parehong anim na taon ng trabaho.
+        </p>
+        <p class="mt-4">
+          Tandaan ang buod: <strong class="text-white">ang pangunahing sahod ay palaging base.</strong> <strong class="text-white">Maaaring idagdag ang fixed, regular, nakadokumentong allowance.</strong> <strong class="text-white">Hindi kasama bilang default ang housing, transport, mobile, overtime, at bonus.</strong> <strong class="text-white">Tumatalo ang nakasulat na wika ng kontrata sa mga bibigkas na pangako sa bawat pagkakataon.</strong>
+        </p>
+        <p class="mt-4">
+          Huwag hayaang magkahalaga sa iyo ng libu-libong riyal ang malabong component ng sahod. Gamitin ang <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB Calculator</a> para kalkulahin ang eksaktong entitlement mo batay sa pangunahing sahod, pagkatapos dalhin ang numerong iyon kapag nakipag-usap ka sa HR. Kung iba ang settlement mo sa sarili mong kalkulasyon, itanong kung bakit — sa sulat.
+        </p>
+        <p class="mt-4">
+          Nais bang maunawaan ang iyong karapatan sa pag-resign? Basahin din ang aming gabay sa <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Artikulo 84 vs 85</a> para makita kung paano binabago ng tiered system ang iyong numero depende sa kung sino ang nagtapos ng kontrata.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Kalkulahin ang Iyong Eksaktong EOSB Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — ilagay ang pangunahing sahod, taon ng serbisyo, at dahilan ng pag-alis</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">Gamitin ang Libreng EOSB Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa impormasyonal na layunin batay sa Artikulo 1 ng Saudi Labor Law. Maaaring mag-iba ang mga policy ng kumpanya. Laging i-verify ang iyong partikular na component ng sahod sa iyong HR department at employment contract.
+        </p>
+      </div>
+    `,
+    bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">প্রবাসী শ্রম নির্দেশিকা</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি আরব ২০২৬-এ ইওএসবি ও ভাতা: মৌলিক বেতনে কী অন্তর্ভুক্ত?</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">আবাসন, পরিবহন, মোবাইল, বোনাস — আপনার বেতনের কোন অংশ আসলে আপনার সেবা-সমাপ্তি সুবিধায় (EOSB) যুক্ত হয়? উত্তরটি বিদায়ের সময় হাজার হাজার রিয়াল নির্ধারণ করে। আইন প্রতিটি উপাদানের সাথে ঠিক কীভাবে আচরণ করে তা এখানে দেওয়া হলো।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ভূমিকা: যে বেতন আপনার আসল ইওএসবি লুকিয়ে রাখে</h2>
+        <p>
+          সৌদি আরবে যেকোনো প্রবাসীর চাকরির চুক্তি খুলুন এবং আপনি একই নমুনা দেখতে পাবেন: একটি বেতন যা টুকরো টুকরো করা। মৌলিক বেতন, আবাসন ভাতা, পরিবহন ভাতা, মোবাইল ভাতা, মাঝে মাঝে একটি বোনাস ধারা এবং ওভারটাইমের একটি অস্পষ্ট উল্লেখ। অফার লেটারের নিচে বড় মোট সংখ্যাটি দেখে আপনার হৃদয় আনন্দে স্পন্দিত হয়। তারপর, বহু বছর পরে, আপনার এইচআর বিভাগ আপনাকে এমন একটি গ্র্যাচুইটি চেক দেয় যা বিব্রতকরভাবে ছোট মনে হয় — এবং শেষ পর্যন্ত আপনি বুঝতে পারেন যে আপনি যে বড় সংখ্যায় স্বাক্ষর করেছেন, তা কখনোই সেই সংখ্যা ছিল না যার ভিত্তিতে বিদায়কালীন আপনার প্রাপ্য হিসাব করা হয়।
+        </p>
+        <p class="mt-4">
+          সরাসরি উত্তর, শুরু থেকেই: <strong class="text-desert-primary">সৌদি শ্রম আইনের ধারা ১-এর অধীনে, সেবা-সমাপ্তি সুবিধা (EOSB) শুধুমাত্র আপনার সর্বশেষ প্রাপ্ত মৌলিক বেতনের ভিত্তিতে গণনা করা হয়।</strong> আবাসন, পরিবহন, মোবাইল এবং অন্যান্য ভাতা সাধারণত বাদ থাকে, যতক্ষণ না আপনার চাকরির চুক্তি বা কোম্পানির নীতি স্পষ্টভাবে অন্যথা বলে। বেশিরভাগ প্রবাসী টাকা হারান না কারণ ক্যালকুলেটর ভুল, বরং কারণ তারা কখনো বোঝেননি যে আইন কোন উপাদানকে ভিত্তি হিসেবে ব্যবহার করে।
+        </p>
+        <p class="mt-4">
+          এই নির্দেশিকাটি একজন সিনিয়র এইচআর পরামর্শকের দৃষ্টিকোণ থেকে লেখা যিনি শত শত চূড়ান্ত নিষ্পত্তি প্রক্রিয়া করেছেন। এটি মজুরির আইনি সংজ্ঞা ব্যাখ্যা করে, যে উপাদানগুলো অন্তর্ভুক্ত সেগুলোকে বাদ যাওয়া উপাদানগুলো থেকে আলাদা করে, সঠিক সংখ্যাসহ বাস্তব ধাপে ধাপে হিসাব দেখায় — এবং সবচেয়ে গুরুত্বপূর্ণ — স্বাক্ষরের আগে কীভাবে নিজেকে রক্ষা করবেন তা ব্যাখ্যা করে। নিচের পরিস্থিতি খ-এ বর্ণিত সাধারণ ভুলটি ছয় বছরের চুক্তিতে একজন প্রবাসীর প্রায় ৬,০০০ থেকে ১২,০০০ রিয়াল খরচ করে। আপনাকে সেই পরিসংখ্যান হতে হবে না।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">আপনার বেতনের ভাঙন সম্পর্কে নিশ্চিত নন?</strong> আপনার সঠিক মৌলিক বেতনের ভিত্তিতে প্রাপ্য হিসাব করতে আমাদের <a href="/eosb-calculator" class="text-desert-primary underline">বিনামূল্যের ইওএসবি ক্যালকুলেটর</a> ব্যবহার করুন — এতে এক মিনিটেরও কম সময় লাগে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সৌদি শ্রম আইনের ধারা ১: ইওএসবি-র জন্য &quot;মজুরি&quot; সংজ্ঞা</h2>
+        <p>
+          আপনার গ্র্যাচুইটি সম্পর্কিত সবকিছু আইনের একটি শব্দ দিয়ে শুরু হয়: <strong class="text-white">মজুরি</strong>। সৌদি শ্রম আইনের ধারা ১ মজুরিকে কর্মীর কাজের বিনিময়ে প্রদত্ত অর্থ হিসাবে সংজ্ঞায়িত করে, তা মাসিক, সাপ্তাহিক, দৈনিক বা ঘণ্টাভিত্তিক হোক। সংজ্ঞাটি ইচ্ছাকৃতভাবে ব্যাপক — কিন্তু ইওএসবি গণনার চর্চা এটিকে একটি খুব নির্দিষ্ট উপায়ে সংকুচিত করেছে।
+        </p>
+        <p class="mt-4">
+          সৌদি কোম্পানিগুলোতে প্রযোজ্য এবং শ্রম বিরোধে নিশ্চিত হওয়া সাধারণ নিয়ম হলো, ইওএসবি-র ভিত্তি হলো <strong class="text-desert-primary">মৌলিক বেতন</strong> — অর্থাৎ স্থির, চুক্তিভিত্তিক মূল প্রদান — সাথে যেকোনো স্থির, নিয়মিত নগদ ভাতা যা প্রতি মাসে কোনো পরিবর্তন ছাড়াই প্রদান করা হয় এবং চুক্তিতে নথিভুক্ত থাকে। যে ভাতাগুলো বিবেচনাধীন, শর্তাধীন, বা প্রকৃত ব্যয় পরিশোধের জন্য তৈরি (যেমন ফোন বিল বা জ্বালানি কেনা) সেগুলো ইওএসবি-র উদ্দেশ্যে মজুরির অংশ গঠন করে না।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">কেন এটি গুরুত্বপূর্ণ:</strong> একটি কোম্পানি আপনাকে প্রতি মাসে ৭,০০০ রিয়াল দিতে পারে, ৫,০০০ মৌলিক ও ২,০০০ ভাতা হিসেবে ভাগ করে, এবং আইনত আপনার গ্র্যাচুইটি ৫,০০০-এর ভিত্তিতে হিসাব করতে পারে। আপনি যদি চুক্তির ভাঙন না পড়েন, তবে আপনি এটি কেবল নিষ্পত্তি টেবিলে আবিষ্কার করবেন। আপনি এটি গ্রহণ করেন বলে আইন স্বয়ংক্রিয়ভাবে আপনাকে বড় সংখ্যাটি দেয় না।</p>
+        </div>
+        <p class="mt-4">
+          দুটি স্পষ্টীকরণ এখনই মনে রাখার মতো। প্রথমত, আইন <strong class="text-white">সর্বশেষ প্রাপ্ত মৌলিক বেতন</strong> দেখে — যদি আপনার শেষ বছরে বেতন বৃদ্ধি পায়, তবে নতুন মৌলিক পুরো সেবাকালে প্রযোজ্য হয়, যা আপনার ভাতার বদলে মৌলিক উপাদানে আঘাত করা বাড়ির দর কষাকষির একটি শক্তিশালী কারণ। দ্বিতীয়ত, সাম্প্রতিক শ্রম আদালতের চর্চা একটি <em>স্থির মাসিক ভাতা</em>-কে মজুরির ভিত্তির অংশ হিসেবে গণ্য করার ক্রমবর্ধমান প্রস্তুতি দেখিয়েছে, যখন চুক্তি ও প্রদানের রেকর্ড ধারাবাহিকভাবে এটিকে নিশ্চিত, অপরিবর্তনীয় পরিমাণ হিসেবে দেখায়। তবে চুক্তিতে লিখিতভাবে পরিষ্কারভাবে বলা উচিত ছিল এমন জিনিস ঠিক করার জন্য আপনার কখনোই আদালতের উপর নির্ভর করা উচিত নয়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বেতনের যে উপাদানগুলো ইওএসবি-তে অন্তর্ভুক্ত</h2>
+        <p>
+          ভালো খবর দিয়ে শুরু করুন: আপনার বেতনের কিছু অংশ আসলে ইওএসবি ভিত্তিতে যুক্ত হয়। এগুলো হলো স্থির, নিশ্চিত এবং নথিভুক্ত উপাদান। যদি আপনার প্যাকেজটি চতুরভাবে সাজানো হয়, তাহলে আপনার গ্র্যাচুইটি আপনার সাথে বাড়ে। যা অন্তর্ভুক্ত তা হলো।
+        </p>
+        <h3>মৌলিক বেতন</h3>
+        <p>
+          মূল স্থির মাসিক প্রদান আপনার পুরো ইওএসবি-র ভিত্তি। এটি সেই সংখ্যা যা আপনার চুক্তিতে মৌলিক মজুরি হিসেবে দেখা যায় এবং এটি সেই পরিমাণ যা আপনার সেবা শেষে আইন সবচেয়ে আগে ব্যবহার করে। আপনার মৌলিক বেতন ৫,০০০ রিয়াল হলে, সেই ৫,০০০ রিয়ালই আপনার ইওএসবি ভিত্তি — শেষ। মৌলিক বেতনে বৃদ্ধি সরাসরি প্রতি ভবিষ্যৎ বছরের গ্র্যাচুইটি বাড়ায়।
+        </p>
+        <h3>স্থির জীবনযাত্রার ব্যয় ভাতা (কোলা)</h3>
+        <p>
+          যদি আপনার চুক্তি একটি স্থির মাসিক পরিমাণ হিসেবে জীবনযাত্রার ব্যয় ভাতা দেয় — প্রতি মাসে সম্পূর্ণ প্রদান, আপনার প্রকৃত ব্যয়ের সাথে কখনো পরিবর্তিত নয় — তবে এটি আপনার মজুরির ভিত্তির অংশ গঠনের একটি শক্তিশালী যুক্তি রয়েছে। ৪,০০০ রিয়াল মৌলিকের উপরে ১,০০০ রিয়াল কোলা এই পাঠে আপনাকে ৫,০০০ রিয়ালের ইওএসবি ভিত্তি দেয়। গুরুত্বপূর্ণ শব্দটি হলো <strong class="text-white">স্থির</strong>। যে কোলা মাসে মাসে বদলায়, বা কেবল কাগজে বিদ্যমান, তা আপনার কাজে আসবে না।
+        </p>
+        <h3>স্থির দায়িত্বের ভাতা</h3>
+        <p>
+          ব্যবস্থাপনা ভাতা, তত্ত্বাবধান প্রিমিয়াম, বা ভূমিকা-ভিত্তিক বৃত্তি যা আপনার নিয়মিত, নথিভুক্ত বেতনের অংশ সেগুলো কোলার মতোই বিভাগে পড়ে। আপনার চুক্তি যদি বলে যে আপনি চাকরির নিশ্চিত শর্ত হিসেবে মাসিক ৫০০ রিয়াল ব্যবস্থাপনা ভাতা পান, তবে আদালত ও এইচআর নিরীক্ষকরা ক্রমবর্ধমানভাবে এটিকে মজুরির ভিত্তির অংশ হিসেবে গণ্য করছেন। মনে রাখার নমুনা: <strong class="text-desert-primary">স্থির + নিয়মিত + নথিভুক্ত = সম্ভবত অন্তর্ভুক্ত।</strong> পরিবর্তনশীল + বিবেচনাধীন = বাদ।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">চুক্তি পর্যালোচনার টিপ:</strong> যখন একটি কোম্পানি উদার হতে চায়, তারা সাধারণত তা চুক্তিতে লিখে দেয়। যখন তারা বিদায়ের সময় টাকা বাঁচাতে চায়, তখন একই ভাতাগুলো নীরবে ইওএসবি আলোচনা থেকে অদৃশ্য হয়ে যায়। আপনার চুক্তিতে যা লেখা আছে তা আপনার সবচেয়ে শক্তিশালী অস্ত্র।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বেতনের যে উপাদানগুলো ইওএসবি-তে অন্তর্ভুক্ত নয়</h2>
+        <p>
+          এটি সেই অংশ যা প্রবাসীদের প্রকৃত অর্থ খরচ করায়, কারণ এটি সেই ভাতাগুলোর তালিকা দেয় যা বেশিরভাগ শ্রমিক অন্তর্ভুক্ত বলে ধরে নেন। সৌদি শ্রম আইনের মানক প্রয়োগে, নিচের কোনোটিই ইওএসবি ভিত্তিতে প্রবেশ করে না, যতক্ষণ না চুক্তি বা অফিসিয়াল কোম্পানি নীতি স্পষ্টভাবে সেগুলো অন্তর্ভুক্ত করে। প্রতিটি বিষয় আপনার নিজের অফার লেটারের সাথে সাবধানে পড়ুন।
+        </p>
+        <h3>আবাসন ভাতা (সাকান)</h3>
+        <p>
+          আবাসন ভাতা — সাধারণত মৌলিক বেতনের প্রায় ২৫% — সৌদি প্যাকেজের সবচেয়ে সাধারণ ভাতা, এবং এটি ডিফল্টভাবে <strong class="text-desert-primary">ইওএসবি গণনা থেকে বাদ</strong>। তা নগদে প্রদান করা হোক বা কোম্পানির বাসস্থান হিসেবে, মানক আইনি পাঠ এটি মজুরির ভিত্তির বাইরে রাখে। উদাহরণ: মৌলিক ৫,০০০ রিয়াল যোগ আবাসন ১,২৫০ রিয়াল মানে ইওএসবি-র জন্য কেবল ৫,০০০ রিয়াল গণনা হয়। যে ১,২৫০ রিয়াল আপনি বছরের পর বছর মাসিক পেয়েছেন তা আপনার গ্র্যাচুইটিতে কিছুই যোগ করে না।
+        </p>
+        <h3>পরিবহন ভাতা (মোওয়াসালাত)</h3>
+        <p>
+          পরিবহন ভাতা — সাধারণত মৌলিক বেতনের প্রায় ১০% — একইভাবে আচরণ করা হয়। এটি কাজে পৌঁছানোর ব্যবহারিক ব্যয় মেটাতে তৈরি একটি প্রতিদান-ধরনের সুবিধা হিসেবে বিবেচিত, মজুরির উপাদান নয়। এটি <strong class="text-desert-primary">ইওএসবি গণনা থেকে বাদ</strong> যতক্ষণ না আপনার চুক্তি অন্যথা বলে। ৫,০০০ মৌলিক ও ৫০০ পরিবহন সহ একজন শ্রমিকেরও ৫,০০০ রিয়ালের ইওএসবি ভিত্তি থাকে।
+        </p>
+        <h3>মোবাইল / ফোন ভাতা</h3>
+        <p>
+          যোগাযোগ ভাতা, তা ১০০ রিয়াল বা ৫০০ রিয়াল মাসিক হোক, প্রকৃতিতে প্রতিদান — এটি এমন একটি ব্যয় মেটায় যা অন্যথায় আপনি নিজেই পরিশোধ করতেন। এটি ইওএসবি থেকে বাদ। আপনার চুক্তির যেকোনো &quot;ফোন টাকা&quot;-কে পকেট খরচ হিসাবে গণ্য করুন যা নিষ্পত্তির হিসাব থেকে অদৃশ্য হয়ে যায়।
+        </p>
+        <h3>ওভারটাইম প্রদান</h3>
+        <p>
+          ওভারটাইম সংজ্ঞা অনুসারে পরিবর্তনশীল: এটি নির্ভর করে আপনি আসলে যে ঘণ্টা কাজ করেছেন তার উপর। কারণ এটি স্থির নয় এবং নিশ্চিত নয়, এটি ইওএসবি মজুরির ভিত্তির অংশ গঠন করে না। এমনকি যদি আপনি বছরের পর বছর প্রতি মাসে ধারাবাহিকভাবে ২০ ঘণ্টা ওভারটাইম কাজ করেন, তবুও সেই প্রদানগুলো আপনার গ্র্যাচুইটি গণনা থেকে বাদ।
+        </p>
+        <h3>পারফরম্যান্স বোনাস ও কমিশন</h3>
+        <p>
+          বোনাস ও কমিশন বিবেচনাধীন। আইন এগুলোকে নিয়মিত মজুরি নয়, কর্মদক্ষতার পুরস্কার হিসেবে গণ্য করে, এবং এগুলো <strong class="text-desert-primary">ইওএসবি থেকে বাদ</strong>। ১০,০০০ রিয়ালের বার্ষিক বোনাস আপনি সেখানে কাজ করার সময় উদার, তবে এটি আপনার সেবা-সমাপ্তি সুবিধায় শূন্য অবদান রাখে।
+        </p>
+        <h3>শিফট পার্থক্য ভাতা</h3>
+        <p>
+          রাতের শিফট, বিপজ্জনক কাজ বা অন-কল দায়িত্বের জন্য অতিরিক্ত বেতন নির্দিষ্ট কাজের অবস্থার প্রিমিয়াম, মৌলিক মজুরি নয়। এটি ইওএসবি থেকে বাদ। যে যুক্তি ওভারটাইমকে বাদ দেয় সেটিই এখানে প্রযোজ্য: পরিবর্তনশীল, শর্তাধীন এবং বিশেষ দায়িত্বের প্রকৃত সম্পাদনের সাথে যুক্ত।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">এক লাইনের সারাংশ:</strong> যদি একটি ভাতা আপনার সম্মত মাসিক প্যাকেজের স্থির অংশ হয় এবং চুক্তিতে নিশ্চিত লাইন হিসেবে দেখা যায়, তবে তা অন্তর্ভুক্ত হতে পারে। যদি তা কোনো ব্যয় পরিশোধ করে, কর্মদক্ষতার পুরস্কার দেয় বা আপনার আচরণের সাথে বদলায়, তবে তা অন্তর্ভুক্ত নয়।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বাস্তব জীবনের গণনার উদাহরণ (ধাপে ধাপে)</h2>
+        <p>
+          সংখ্যা আইনকে বাস্তব করে তোলে। নিচে তিনটি সম্পূর্ণ পরিস্থিতি দেওয়া হলো যা মানক ধারা ৮৪-এর সঞ্চয়ন সূত্র ব্যবহার করে — প্রথম পাঁচ বছরের জন্য প্রতি বছরে অর্ধেক মাসের মৌলিক বেতন এবং তারপর প্রতি বছরে একটি পূর্ণ মাসের মৌলিক বেতন — যাতে আপনি আপনার নিজের প্যাকেজ তিনটির সাথে তুলনা করতে পারেন।
+        </p>
+        <h3>পরিস্থিতি ক: মানক প্রবাসী প্যাকেজ</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">উপাদান</th>
+                <th class="py-2 pr-2">পরিমাণ (রিয়াল)</th>
+                <th class="py-2">ইওএসবি-তে গণনা?</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">মৌলিক বেতন</td>
+                <td class="py-2 pr-2">৫,০০০</td>
+                <td class="py-2 text-desert-primary font-medium">হ্যাঁ</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">আবাসন (২৫%)</td>
+                <td class="py-2 pr-2">১,২৫০</td>
+                <td class="py-2">না</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">পরিবহন (১০%)</td>
+                <td class="py-2 pr-2">৫০০</td>
+                <td class="py-2">না</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">মোবাইল</td>
+                <td class="py-2 pr-2">২০০</td>
+                <td class="py-2">না</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2"><strong class="text-white">মোট মাসিক</strong></td>
+                <td class="py-2 pr-2"><strong class="text-white">৬,৯৫০</strong></td>
+                <td class="py-2"><strong class="text-white">ভিত্তি = ৫,০০০</strong></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-4">
+          আপনি প্রতি মাসে ৬,৯৫০ রিয়াল পান, তবে আপনার ইওএসবি ভিত্তি ৫,০০০ রিয়াল। ছয় বছর পরে: (৫,০০০ ÷ ২ × ৫ বছর) + (৫,০০০ × ১ বছর) = ১২,৫০০ + ৫,০০০ = <strong class="text-desert-primary">১৭,৫০০ রিয়াল</strong>। এটিই সেই সংখ্যা যা আপনার এইচআর উপস্থাপন করবে — এবং এটি মানক পাঠের অধীনে সঠিক।
+        </p>
+        <h3>পরিস্থিতি খ: &quot;মোট বেতন&quot; চুক্তি (বিপদ অঞ্চল)</h3>
+        <p>
+          আপনার চুক্তি বলে &quot;মোট বেতন: ৭,০০০ রিয়াল&quot; কোনো ভাঙন ছাড়াই। বিদায়ের সময়, কোম্পানি দাবি করে আপনার মৌলিক ছিল ৪,০০০ রিয়াল এবং বাকি ৩,০০০ রিয়াল ভাতা। আপনার ইওএসবি ভিত্তি হয়ে যায় ৪,০০০ রিয়াল। আপনি স্বাক্ষর করেছেন ভেবেছিলেন এমন ৫,০০০ রিয়াল মৌলিকের সাথে তুলনা করুন — আপনি গ্র্যাচুইটিতে <strong class="text-white">প্রতি বছর চাকরিতে ১,০০০ রিয়াল</strong> হারান।
+        </p>
+        <p class="mt-4">
+          বিপদটি বাস্তব কারণ, লিখিত ভাঙন ছাড়া, নিয়োগকর্তার ব্যাখ্যা প্রায়ই জিতে যায়। <strong class="text-desert-primary">সমাধানটি সহজ এবং স্বাক্ষরের সময় কিছুই খরচ হয় না: কিছু স্বাক্ষর করার আগে আপনার চুক্তিতে বেতনের বিশদ ভাঙন দাবি করুন।</strong> যদি তারা অস্বীকার করে, তবে সেই অস্বীকৃতি একটি সতর্কতা চিহ্ন যে তারা বিদায়ের সময় আপনার সাথে কেমন আচরণ করবে।
+        </p>
+        <h3>পরিস্থিতি গ: উদার কোম্পানি নীতি</h3>
+        <p>
+          কিছু কোম্পানি — সাধারণত যারা প্রতিভা আকর্ষণ ও ধরে রাখতে চায় — এমন একটি নীতি লেখে যে ইওএসবি মৌলিক যোগ আবাসন যোগ পরিবহনের উপর গণনা হয়। ৫,০০০ রিয়াল মৌলিক, ১,২৫০ আবাসন এবং ৫০০ পরিবহন ভাতা সহ, আপনার ইওএসবি ভিত্তি ৬,৭৫০ রিয়ালে লাফিয়ে ওঠে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p>ছয় বছর পরে: (৬,৭৫০ ÷ ২ × ৫) + (৬,৭৫০ × ১) = ১৬,৮৭৫ + ৬,৭৫০ = <strong class="text-desert-primary">২৩,৬২৫ রিয়াল</strong>। এটি ঠিক একই ছয় বছরের কাজের জন্য পরিস্থিতি ক-এর চেয়ে <strong class="text-white">৬,১২৫ রিয়াল বেশি</strong> — শুধুমাত্র এই কারণে যে নীতি ও চুক্তি বৃহত্তর ভিত্তি ব্যবহার করেছে। পার্থক্যটি আপনার কাজ করা বছরে নয়, নথিতে নির্ধারিত হয়।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>&quot;মোট বেতন&quot; চুক্তির ফাঁদ</h2>
+        <p>
+          সৌদি চাকরির সবচেয়ে ব্যয়বহুল বাক্যটি হলো সেইটি যা বলে &quot;মোট মাসিক বেতন: ৮,০০০ রিয়াল&quot; কোনো ভাঙন ছাড়াই। এটি অফার লেটারে উদার দেখায় এবং নিষ্পত্তি টেবিলে বিপর্যয়কর। ফাঁদটি অনুশীলনে এভাবে কাজ করে।
+        </p>
+        <p class="mt-4">
+          যখন আপনি স্বাক্ষর করেন, আপনি বিশ্বাস করেন আপনি ৮,০০০ রিয়াল উপার্জন করেন। যখন আপনি চলে যান, কোম্পানি একটি অভ্যন্তরীণ রেকর্ড তৈরি করে যা ৫,০০০ রিয়াল মৌলিক ও ৩,০০০ রিয়াল ভাতা দেখায়। কারণ চুক্তিটি নিজেই কখনো মৌলিক উপাদান নথিভুক্ত করেনি, ইওএসবি গণনা হয় ৫,০০০-এর উপর — এবং আদালত, লিখিত প্রমাণের অনুপস্থিতিতে, প্রায়ই নিয়োগকর্তার পক্ষ নেয়। যে বাক্যটি আপনার মনে রাখা উচিত: <strong class="text-desert-primary">লিখিত ভাঙন না থাকলে কোম্পানির সংখ্যা জিতে যায়।</strong>
+        </p>
+        <ul class="list-disc list-inside space-y-2 mt-4 text-gray-300">
+          <li><strong class="text-white">লিখিতভাবে জিজ্ঞাসা করুন:</strong> স্বাক্ষরের আগে এইচআর-কে ইমেইল করে জিজ্ঞাসা করুন মৌলিক বেতনের উপাদান কী এবং ইওএসবি কীভাবে গণনা হবে। উত্তরটি রাখুন।</li>
+          <li><strong class="text-white">চুক্তিতে ভাঙন দাবি করুন:</strong> &quot;মৌলিক ৫,০০০ + আবাসন ১,২৫০ + পরিবহন ৫০০ + মোবাইল ২০০&quot; পরে তর্ক করার কিছু রাখে না।</li>
+          <li><strong class="text-white">আপনার বেতন স্লিপ পরীক্ষা করুন:</strong> প্রথম বেতন প্রদানের পরে নিশ্চিত করুন স্লিপে দেখানো মৌলিক চুক্তির সাথে মেলে। আজকের অসামঞ্জস্য আগামীকালের মামলা।</li>
+          <li><strong class="text-white">নীতি লিখিতভাবে নিন:</strong> যদি এইচআর মৌখিকভাবে &quot;মোট বেতনে ইওএসবি&quot; প্রতিশ্রুতি দেয়, তবে তা স্বাক্ষরিত নীতি নথি বা ইমেইল নিশ্চিতকরণ হিসেবে চান।</li>
+        </ul>
+        <p class="mt-4">
+          এটি অতিরিক্ত সন্দেহ নয় — এটি সৌদি শ্রম মামলায় ইওএসবি বিরোধের সবচেয়ে সাধারণ নমুনা। স্বাক্ষরের সময় পাঁচ মিনিটের কথোপকথন বিদায়ের সময় পাঁচ মাসের তর্ক আটকায়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>কোম্পানির নীতি বনাম শ্রম আইন</h2>
+        <p>
+          আইন একটি ন্যূনতম সীমা নির্ধারণ করে, ছাদ নয়। কোম্পানির নীতি সর্বদা শ্রম আইনের চেয়ে বেশি উদার হতে পারে — এবং যখন তা হয়, তখন তা নিয়োগকর্তার জন্য আইনত বাধ্যতামূলক। আপনার কোম্পানির এইচআর ম্যানুয়াল যদি বলে ইওএসবি মৌলিক যোগ ভাতার উপর গণনা হয়, তবে কোম্পানিকে তা সম্মান করতে হবে।
+        </p>
+        <p class="mt-4">
+          বিপরীতটি সত্য নয়: যে কোম্পানির নীতি আইন যা অনুমতি দেয় তার চেয়ে কম পরিশোধের চেষ্টা করে তা বাতিল, কারণ সৌদি শ্রম আইনের ধারা ৮ যেকোনো চুক্তিকে বাতিল করে যা শ্রমিকের আইনি অধিকার মওকুফ বা হ্রাস করে। তাই দর কষাকষি একমুখী — নীতি আপনাকে সাহায্য করতে পারে, আইনগত ন্যূনতমের নিচে কখনো ক্ষতি করতে পারে না।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">আপনার কোম্পানির নীতি কীভাবে পরীক্ষা করবেন:</strong> এইচআর নীতি ম্যানুয়াল বা কর্মচারী হ্যান্ডবুক চাইুন, বিশেষত &quot;End of Service&quot; বা &quot;Final Settlement&quot; অংশ। এর ইওএসবি ভিত্তি সংজ্ঞা আপনার চুক্তির সাথে তুলনা করুন। যদি ম্যানুয়ালে ভাতা অন্তর্ভুক্ত থাকে কিন্তু আপনার নিষ্পত্তিতে না থাকে, তবে নিষ্পত্তির মুক্তিপত্রে স্বাক্ষরের আগে ম্যানুয়ালটি লিখিতভাবে উপস্থাপন করুন।</p>
+        </div>
+        <p class="mt-4">
+          যখন একটি কোম্পানি তার নীতি আরও উদার করতে পরিবর্তন করে, তখন নথিভুক্ত হওয়ার জন্য জোর দিন — একটি মেমো, ইমেইল বা সংশোধিত হ্যান্ডবুক — কারণ অলিখিত প্রতিশ্রুতির ওজন কম থাকে যখন পাঁচ বছর পরে একটি ভিন্ন এইচআর ম্যানেজার আপনার বিদায় সামলায়। লিখিত নীতিই উপরের উদাহরণে ১৭,৫০০ রিয়াল এবং ২৩,৬২৫ রিয়ালের মধ্যে পার্থক্য।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বিদায়ের আগে নিজেই কীভাবে আপনার ইওএসবি ভিত্তি যাচাই করবেন</h2>
+        <p>
+          আপনার কোম্পানি সঠিকভাবে আপনার মওকুফ হিসাব করছে কিনা তা জানতে আপনার আইনজীবীর প্রয়োজন নেই। চারটি দ্রুত পরীক্ষা আছে যা যেকোনো কর্মী এক ঘণ্টার মধ্যে করতে পারেন, এবং প্রতিটি দেরি হওয়ার আগে একটি সম্ভাব্য সমস্যা প্রকাশ করে।
+        </p>
+        <h3>প্রথম পরীক্ষা: চুক্তি সম্পূর্ণ পড়ুন এবং মৌলিকের লাইন খুঁজুন</h3>
+        <p>
+          আপনার মৌলিক বেতন নির্ধারণকারী বাক্যটি সন্ধান করুন। যদি আপনার চুক্তি কোনো ভাঙন ছাড়াই &quot;মোট বেতন&quot; উল্লেখ করে, তবে তা তাৎক্ষণিক লাল পতাকা। যদি এটি একটি নির্দিষ্ট মৌলিক উল্লেখ করে, তবে তা লিখে আন্ডারলাইন করুন — এটিই সেই সংখ্যা যার উপর আপনার মওকুফ গড়তে হবে।
+        </p>
+        <h3>দ্বিতীয় পরীক্ষা: চুক্তির সাথে প্রথম বেতন স্লিপ তুলনা করুন</h3>
+        <p>
+          প্রথম বেতন স্লিপ পরীক্ষা করুন এবং নিশ্চিত করুন প্রদর্শিত &quot;মৌলিক&quot; উপাদান রিয়ালে চুক্তির সাথে মেলে। মজুরি সুরক্ষা ব্যবস্থা প্রতিটি প্রদান রেকর্ড করে এবং স্লিপটি একটি অফিসিয়াল নথি। স্লিপ ও চুক্তির মধ্যে যেকোনো পার্থক্য আপনার প্রথম প্রমাণ যদি বিষয়টি বিরোধে গড়ায়।
+        </p>
+        <h3>তৃতীয় পরীক্ষা: এইচআর নীতি ম্যানুয়াল দেখুন</h3>
+        <p>
+          কোম্পানির নীতি ম্যানুয়াল বা কর্মচারী হ্যান্ডবুক চাইুন এবং সেবা-সমাপ্তি ও চূড়ান্ত নিষ্পত্তি অংশ পড়ুন। যদি ম্যানুয়াল বলে মওকুফ মৌলিক যোগ আবাসন ও পরিবহনের উপর গণনা হয়, তবে এর একটি কপি রাখুন। এই একক নথি আপনার মওকুফ হাজার হাজার রিয়াল বাড়িয়ে দিতে পারে।
+        </p>
+        <h3>চতুর্থ পরীক্ষা: বিদায় প্রক্রিয়া শুরুর আগে লিখিত বিবৃতি চাইুন</h3>
+        <p>
+          আপনার পদত্যাগপত্র দেওয়া বা যেকোনো বিদায় প্রক্রিয়া শুরুর আগে, এইচআর বিভাগকে হিসাবের ভিত্তি ও অন্তর্ভুক্ত ভাতা ব্যাখ্যা করে একটি লিখিত বিবৃতি দিন। মৌখিক উত্তর গ্রহণ করবেন না। যদি তারা লিখিতভাবে প্রতিশ্রুতিবদ্ধ হতে অস্বীকার করে, তবে এটিই তাদের অভিপ্রায়ের প্রমাণ — এবং পরবর্তী কোনো অভিযোগে এটি উল্লেখ করুন।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">কখন আইনজীবীর সাথে কথা বলবেন?</strong> যদি আপনি আবিষ্কার করেন যে ঘোষিত হিসাবের ভিত্তি আপনার চুক্তিতে যা আছে তার চেয়ে কম, বা কোম্পানি তার নিজের লিখিত নীতি উপেক্ষা করছে, তবে যেকোনো মুক্তিপত্রে স্বাক্ষরের আগে শ্রম মামলায় বিশেষায়িত আইনি পরামর্শক নিন। দেরিতে আদালতের লড়াইয়ের চেয়ে শুরুর আইনি মতামত অনেক সস্তা।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রবাসীদের জন্য বিশেষ বিবেচনা</h2>
+        <p>
+          আপনার জাতীয়তা নির্ধারণ করে বেতনের খেলাটি কীভাবে খেলা হয়। নিয়োগের চ্যানেল আলাদা, চুক্তির চর্চা আলাদা এবং আপনার প্রয়োজনীয় সতর্কবার্তা আলাদা। দুটি দল সবচেয়ে বেশি ঝুঁকির মুখোমুখি হয়, তাই তাদের জন্য নিচে নির্দেশনা বিস্তারিত দেওয়া হলো।
+        </p>
+        <h3>দক্ষিণ এশীয় প্রবাসীদের জন্য (পাকিস্তান / ভারত / বাংলাদেশ)</h3>
+        <p>
+          পাকিস্তান, ভারত ও বাংলাদেশের শ্রমিকদের জন্য সবচেয়ে গুরুত্বপূর্ণ অভ্যাস হলো বেতনের ভাঙন <strong class="text-white">আরবি ও ইংরেজি উভয় ভাষায়</strong> নেওয়া। স্বদেশের অনেক নিয়োগ সংস্থা এবং উপ-কন্ট্রাক্টর অস্পষ্ট, এক লাইনের চুক্তি পাঠায় যা অফিসিয়াল দেখায় কিন্তু মৌলিক উপাদান সম্পর্কে কিছুই বলে না। যে চুক্তি বলে &quot;মাসিক বেতন: ৪,০০০ রিয়াল&quot; এবং আর কিছুই না, তা এমন একটি চুক্তি যা আপনার ইওএসবি ভিত্তি নিয়োগকর্তার কল্পনার উপর ছেড়ে দেয়।
+        </p>
+        <p class="mt-4">
+          দেশ ছাড়ার আগে আপনার সংস্থাকে লিখিতভাবে বিশদ ভাঙন জিজ্ঞাসা করুন। সংস্থা দেরি করলে তা একটি লাল পতাকা হিসেবে গণ্য করুন। আপনি পৌঁছানোর পরে, প্রথম বেতন স্লিপের সাথে চুক্তির তুলনা করুন — মন্ত্রণালয়ের মজুরি সুরক্ষা ব্যবস্থা প্রতিটি প্রদান রেকর্ড করে, এবং স্লিপ ও চুক্তির মধ্যে অসামঞ্জস্য আপনার সবচেয়ে আগের এবং সেরা প্রমাণ।
+        </p>
+        <h3>ফিলিপিনো প্রবাসীদের জন্য</h3>
+        <p>
+          ফিলিপিনো শ্রমিকরা পোলো (Philippine Overseas Labor Office) যাচাইকরণ প্রক্রিয়া থেকে উপকৃত হয়, যার জন্য প্রেরণের আগে চাকরির চুক্তি জমা ও যাচাই করা প্রয়োজন। সেই যাচাইকরণই আপনার সুরক্ষা — তবে এটি কেবল তখনই সাহায্য করে যদি আপনার চুক্তি প্রকৃতপক্ষে বেতনের উপাদানগুলোর তালিকা করে। পরিষ্কার ভাঙন ছাড়া কখনো চুক্তিতে স্বাক্ষর করবেন না এবং কখনো ধরে নেবেন না যে সংস্থা সম্পূর্ণ সত্য মুদ্রণ করেছে।
+        </p>
+        <p class="mt-4">
+          আপনার বিদায়ের আগে, যেকোনো মুক্তিপত্র, মওকুফ বা চূড়ান্ত নিষ্পত্তি পোলো বা আইনি পেশাদারের মাধ্যমে পর্যালোচনা করান। একটি &quot;সম্পূর্ণ ও চূড়ান্ত নিষ্পত্তি&quot; নথিই ঠিক সেই জায়গা যেখানে নিয়োগকর্তা একটি ছোট ইওএসবি সংখ্যা কবর দেয়। এটি পড়ুন, আপনার নিজের হিসাবের সাথে যাচাই করুন, তারপর স্বাক্ষর করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">সৌদি আরবে ইওএসবি গণনায় আবাসন ভাতা কি অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">না। ডিফল্টভাবে, সৌদি শ্রম আইনের মানক প্রয়োগে আবাসন ভাতা ইওএসবি ভিত্তি থেকে বাদ। আপনার গ্র্যাচুইটি শুধুমাত্র মৌলিক বেতনে গণনা হয় যতক্ষণ না আপনার চুক্তি বা কোম্পানি নীতি স্পষ্টভাবে আবাসন অন্তর্ভুক্ত করে। ৫,০০০ রিয়াল মৌলিক যোগ ১,২৫০ রিয়াল আবাসন মানে কেবল ৫,০০০ রিয়াল গণনা হবে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">কেএসএ-তে পরিবহন ভাতা কি সেবা-সম্পত্তি সুবিধায় অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">না। পরিবহন ভাতা ভ্রমণ ব্যয়ের প্রতিদান হিসেবে গণ্য এবং ডিফল্টভাবে ইওএসবি থেকে বাদ। শুধুমাত্র একটি চুক্তি বা নীতি যা স্পষ্টভাবে এটিকে অন্তর্ভুক্ত করে তা গণনায় আনতে পারে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ইওএসবি গণনার জন্য মৌলিক বেতনে কী অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">মৌলিক বেতন হলো আপনার চাকরির চুক্তিতে বর্ণিত স্থির, চুক্তিভিত্তিক মূল প্রদান। স্থির, নিয়মিত, নথিভুক্ত নগদ ভাতাও গণনা হতে পারে, যখন আবাসন, পরিবহন, মোবাইল, ওভারটাইম, বোনাস এবং শিফট প্রিমিয়াম বাদ, যতক্ষণ না চুক্তি অন্যথা বলে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">আমার কোম্পানি কি ইওএসবি গণনায় ভাতা অন্তর্ভুক্ত করতে পারে?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। কোম্পানির নীতি আইনের চেয়ে বেশি উদার হতে পারে। যদি চুক্তি বা অফিসিয়াল এইচআর নীতি বলে ইওএসবি মৌলিক যোগ ভাতার উপর গণনা হয়, তবে কোম্পানি তা সম্মান করতে আইনত বাধ্য। নীতি ভাতা যোগ করতে পারে তবে আইনগত ন্যূনতমের চেয়ে কম পরিশোধ করতে পারে না।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">আমার চুক্তি কোনো ভাঙন ছাড়াই &quot;মোট বেতন&quot; বলে। আমি কী করব?</p>
+            <p class="text-gray-400 text-sm mt-1">আপনার এইচআর বিভাগকে লিখিতভাবে, স্বাক্ষরের আগে, আপনার মৌলিক বেতন ও ভাতার বিশদ ভাঙন জিজ্ঞাসা করুন এবং জিজ্ঞাসা করুন ইওএসবি কীভাবে গণনা হবে। লিখিত উত্তরটি রাখুন। লিখিত ভাঙন ছাড়া, আপনার মৌলিক বেতন সম্পর্কে নিয়োগকর্তার ব্যাখ্যা সাধারণত প্রাধান্য পায়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">সৌদি আরবে ওভারটাইম প্রদান কি ইওএসবি-তে অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">না। ওভারটাইম পরিবর্তনশীল ও অনিশ্চিত, তাই এটি ইওএসবি মজুরির ভিত্তির অংশ গঠন করে না। এমনকি ধারাবাহিক ওভারটাইম ঘণ্টাও আপনার সেবা-সমাপ্তি সুবিধায় কিছু যোগ করে না যতক্ষণ না লিখিত নীতি অন্যথা বলে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">কেএসএ-তে পারফরম্যান্স বোনাস কি গ্র্যাচুইটিতে অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">না। বোনাস ও কমিশন বিবেচনাধীন কর্মদক্ষতার পুরস্কার, নিয়মিত মজুরি নয়, এবং সেগুলো ইওএসবি থেকে বাদ। বড় বার্ষিক বোনাস আপনার সেবা-সমাপ্তি সুবিধায় কিছুই যোগ করে না।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>কিছুতে স্বাক্ষরের আগে আপনার সংখ্যাটি জানুন</h2>
+        <p>
+          এই নির্দেশিকার প্রতিটি পরিস্থিতির শিক্ষা একই: আপনার ইওএসবি আপনার চুক্তির মৌলিক বেতন লাইন দ্বারা নির্ধারিত হয়, আপনি প্রতি মাসে যে মোট পান তা নয়। বুদ্ধিমান প্রবাসী স্বাক্ষরের সময় সেই লাইনটি পরীক্ষা করে, প্রথম বেতন স্লিপে নিশ্চিত করে এবং বিদায় আলোচনা শুরু হওয়ার আগে কোম্পানির নীতি পড়ে। সেই অভ্যাসের মূল্য হাজার হাজার রিয়াল — এই নির্দেশিকায় পরিস্থিতি ক ও গ-এর মধ্যে পার্থক্য একই ছয় বছরের কাজের জন্য ৬,১২৫ রিয়াল।
+        </p>
+        <p class="mt-4">
+          সারাংশটি মনে রাখুন: <strong class="text-white">মৌলিক বেতনই সর্বদা ভিত্তি।</strong> <strong class="text-white">স্থির, নিয়মিত, নথিভুক্ত ভাতা যোগ করা যেতে পারে।</strong> <strong class="text-white">আবাসন, পরিবহন, মোবাইল, ওভারটাইম ও বোনাস ডিফল্টভাবে বাদ।</strong> <strong class="text-white">লিখিত চুক্তির ভাষা প্রতিবার মৌখিক প্রতিশ্রুতিকে হারায়।</strong>
+        </p>
+        <p class="mt-4">
+          অস্পষ্ট বেতনের উপাদান আপনাকে হাজার হাজার রিয়াল খরচ করতে দেবেন না। আপনার মৌলিক বেতনের ভিত্তিতে সঠিক প্রাপ্য হিসাব করতে <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub ইওএসবি ক্যালকুলেটর</a> ব্যবহার করুন, তারপর এইচআর-এর সাথে কথা বলার সময় সেই সংখ্যাটি সাথে নিন। আপনার নিষ্পত্তি আপনার নিজের হিসাবের থেকে আলাদা হলে, কেন তা জিজ্ঞাসা করুন — লিখিতভাবে।
+        </p>
+        <p class="mt-4">
+          পদত্যাগের আপনার অধিকার বুঝতে চান? <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">সৌদি পদত্যাগের ইওএসবি নিয়ম: ধারা ৮৪ বনাম ৮৫</a> নিয়ে আমাদের নির্দেশিকাটিও পড়ুন যাতে দেখতে পারেন চুক্তি কে শেষ করে তার উপর নির্ভর করে ধাপভিত্তিক ব্যবস্থা কীভাবে আপনার সংখ্যা বদলায়।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার সঠিক ইওএসবি হিসাব করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — আপনার মৌলিক বেতন, সেবার বছর ও চলে যাওয়ার কারণ দিন</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">বিনামূল্যের ইওএসবি ক্যালকুলেটর ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই নির্দেশিকাটি সৌদি শ্রম আইনের ধারা ১-এর ভিত্তিতে শুধুমাত্র তথ্যগত উদ্দেশ্যে। কোম্পানির নীতি ভিন্ন হতে পারে। আপনার নির্দিষ্ট বেতনের উপাদান সবসময় আপনার এইচআর বিভাগ এবং চাকরির চুক্তির সাথে যাচাই করুন।
+        </p>
+      </div>
+    `,
+    },
+  },
+  {
+    slug: 'eosb-payment-timeline-late-payment-penalties-saudi-arabia-2026',
+    category: 'expat',
+    readTime: '15 min read',
+    date: '2026-08-05',
+    title: {
+      en: 'EOSB Payment Timeline & Late Payment Penalties in Saudi Arabia 2026',
+      ar: 'الجدول الزمني لدفع مكافأة نهاية الخدمة وغرامات التأخير في السعودية 2026',
+      ur: 'سعودی عرب 2026 میں EOSB کی ادائیگی کا وقت اور تاخیر کے جرمانے',
+      tl: 'Timeline sa Pagbayad ng EOSB at Mga Parusa sa Pagkaantala sa Saudi Arabia 2026',
+      bn: 'সৌদি আরব ২০২৬-এ ইওএসবি পরিশোধের সময়সূচি ও বিলম্ব জরিমানা',
+    },
+    description: {
+      en: 'How many days does a company have to pay EOSB in Saudi Arabia? Learn the 5-day rule, late payment penalties, and how to file an MHRSD complaint in 2026.',
+      ar: 'كم يوماً أمام الشركة لدفع مكافأة نهاية الخدمة في السعودية؟ تعلّم قاعدة الخمسة أيام وغرامات التأخير وكيفية تقديم شكوى إلى وزارة الموارد البشرية في 2026.',
+      ur: 'سعودی عرب میں کمپنی کو EOSB ادا کرنے کے کتنے دن ملتے ہیں؟ 2026 میں 5 دن کا اصول، تاخیر کے جرمانے اور MHRSD میں شکایت کا طریقہ جانیں۔',
+      tl: 'Ilang araw ba ang pinapayagang babayaran ng kumpanya ang EOSB sa Saudi Arabia? Alamin ang 5-araw na patakaran, mga parusa sa pagkaantala, at paano magreklamo sa MHRSD sa 2026.',
+      bn: 'সৌদি আরবে একটি কোম্পানিকে ইওএসবি পরিশোধ করতে কত দিন সময় দেওয়া হয়? ২০২৬-এ ৫ দিনের নিয়ম, বিলম্ব জরিমানা এবং MHRSD-তে অভিযোগ করার পদ্ধতি জানুন।',
+    },
+    metaTitle: {
+      en: 'EOSB Payment Timeline & Late Penalties in KSA 2026',
+      ar: 'الجدول الزمني لمكافأة نهاية الخدمة وغرامات التأخير 2026',
+      ur: 'سعودی عرب میں EOSB ادائیگی کا وقت اور جرمانے 2026',
+      tl: 'Timeline ng EOSB at Mga Parusa sa KSA 2026',
+      bn: 'সৌদি আরবে ইওএসবি পরিশোধের সময় ও জরিমানা ২০২৬',
+    },
+    content: {
+      en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Labor Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">EOSB Payment Timeline &amp; Late Payment Penalties in Saudi Arabia 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Your contract is over. The 5-day clock has started. Here is exactly when your employer must pay your end-of-service benefits, what happens when they delay, and the precise steps to force payment.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduction: The Stress of the Waiting Period</h2>
+        <p>
+          Waiting for your final settlement is one of the most stressful periods of any expat career in Saudi Arabia. Your salary has stopped, your visa clock is ticking, and your financial commitments back home do not pause while your former employer &quot;processes the paperwork.&quot; The uncertainty is exhausting, and most workers feel powerless in that gap between the last working day and the money hitting the account. You are not.
+        </p>
+        <p class="mt-4">
+          The law is on your side, and it works on a strict timeline. The direct answer, up front: <strong class="text-desert-primary">Under Article 87 of the Saudi Labor Law, an employer must pay all end-of-service benefits (EOSB) and final dues within a maximum of 5 days from the date of contract termination or the end of the notice period.</strong> That is not a guideline, a best practice, or a suggestion — it is a statutory deadline enforced by the Ministry of Human Resources and Social Development (MHRSD).
+        </p>
+        <p class="mt-4">
+          Here is what this guide covers. First, you will learn the exact 5-day rule and how it applies to termination, resignation, and contract expiry. Second, you will see the full list of what belongs in your final settlement — because many workers lose thousands of riyals simply because they do not know what they are owed. Third, we break down the penalties an employer faces for late payment, including wage protection flags, blocked government services, and financial fines. Finally, you get a step-by-step claim process from a friendly settlement request all the way to the labor court. Read this before you sign anything, and you will negotiate from a position of knowledge.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Not sure how much you are owed?</strong> Use our <a href="/final-settlement-calculator" class="text-desert-primary underline">Free Final Settlement Calculator</a> to estimate your total dues before your last day — it takes less than a minute.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Legal Deadline: Article 87 of the Saudi Labor Law</h2>
+        <p>
+          Article 87 is the single most important rule you need to know when your employment ends in Saudi Arabia. It sets a clear, non-negotiable payment deadline that applies to every private-sector employer in the Kingdom.
+        </p>
+        <p class="mt-4">
+          The law states that upon the expiry of the employment contract, the employer must pay the worker all amounts due — including the end-of-service benefit, any unpaid salary, and other entitlements — <strong class="text-desert-primary">within a maximum of five days from the date of termination</strong>. In plain terms: once your contract is over, the employer has five days to settle everything you are owed.
+        </p>
+        <p class="mt-4">
+          Here is how the 5-day rule applies in the three most common exit scenarios:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Termination by the Employer</p>
+            <p class="text-gray-400 text-sm">The clock starts on the termination date. The employer has 5 days from that day to pay your full settlement.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Resignation by the Employee</p>
+            <p class="text-gray-400 text-sm">The clock starts once your notice period is completed and your official last working day has passed. The employer then has 5 days to pay you in full.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Contract Expiry</p>
+            <p class="text-gray-400 text-sm">The clock starts on the contract&apos;s official end date. Your dues must be paid within 5 days after that date.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          One critical detail: Article 87 does not distinguish between who ended the contract. Whether you resigned, were terminated, or simply reached the end of a fixed-term contract, the same 5-day payment window applies. There is no legal basis for an employer to delay payment because &quot;HR is busy&quot; or &quot;the finance team is on leave&quot; — those are excuses, not legal defenses.
+        </p>
+        <p class="mt-4">
+          A practical note for your exit week: the 5-day window counts from the day your employment actually ended, not from the day you remember to ask. If your contract expired on a Saturday, the payment is due no later than the following Thursday. If you resigned and your notice ended on the 31st, the employer owes you by the 5th of the next month. Mark that date the moment your last day is confirmed — it becomes your reference point if the employer stalls.
+        </p>
+        <p class="mt-4">
+          You should also know what the law does not require: the employer cannot condition payment on returning a company laptop, completing a handover, or signing a settlement clearance form. Those are internal company matters. The statutory deadline in Article 87 runs independently. Some employers use &quot;clearance pending&quot; as a delay tactic; a handover delay does not legally pause your 5-day payment clock.
+        </p>
+        <p class="mt-4">
+          This timeline is strictly enforced by the Ministry of Human Resources and Social Development (MHRSD). The Ministry monitors wage payments electronically, tracks complaints, and has the authority to impose penalties on companies that violate the deadline. An employer who pays late is risking fines, service blocks, and their compliance rating — not just your goodwill.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What Is Included in Your &quot;Final Settlement&quot;?</h2>
+        <p>
+          Many workers believe their final settlement is nothing more than the gratuity. That mistake costs people thousands of riyals every year. Your final settlement is a package of several distinct entitlements, and each one must be paid within the same 5-day window. Here is the complete list.
+        </p>
+        <h3>End of Service Benefit (Gratuity)</h3>
+        <p>
+          The EOSB is the core of your settlement, calculated under Articles 84 and 85 of the Saudi Labor Law. For the first five years of service, you are entitled to half a month&apos;s basic salary for each year worked. From the sixth year onward, the rate rises to a full month&apos;s basic salary per year. For a worker earning a 6,000 SAR basic salary after eight years, that works out to roughly 33,000 SAR. The exact figure depends on your basic salary, your years of service, and whether you resigned or were terminated.
+        </p>
+        <h3>Unpaid Salary</h3>
+        <p>
+          Any salary you are owed is part of the settlement. This includes your pro-rated salary for the final partial month — the days you worked but were not yet paid for. If your last working day falls on the 15th, you are entitled to half a month&apos;s pay for that period, plus any days worked into the next cycle.
+        </p>
+        <h3>Accrued but Unused Annual Leave</h3>
+        <p>
+          Under Saudi Labor Law, you are entitled to a cash equivalent for annual leave days you accrued but did not take before your departure. This is calculated on your basic salary at the rate of one day&apos;s pay per unused leave day. If you had 15 unused leave days and a 6,000 SAR monthly basic salary, that is roughly 3,000 SAR you can claim. Many employers leave this out of the first offer.
+        </p>
+        <h3>Repatriation Air Ticket</h3>
+        <p>
+          Your employer is responsible for providing a return air ticket to your home country at the end of your employment. This obligation has two main exceptions: when you transfer directly to a new local employer (who typically assumes the cost), or when your contract explicitly states a different arrangement. If neither applies, the ticket is part of your settlement.
+        </p>
+        <h3>Other Contractual Benefits</h3>
+        <p>
+          Beyond the four items above, review your contract for anything specific you were promised. Pending sales commissions, accumulated overtime payments, and contractual allowances all form part of your final dues. Ask for a written breakdown so nothing is silently dropped.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Quick sanity check:</strong> add your unpaid salary, gratuity, leave pay, and ticket value, then compare the total to the employer&apos;s offer. If they do not match, request a line-by-line calculation in writing before accepting anything. A settlement that omits leave pay or a partial month of salary is the most common way expats lose money at contract end.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Late Payment Penalties: What Happens If the Employer Delays?</h2>
+        <p>
+          The most common question workers ask is: what can the government actually do to my employer if they refuse to pay? The answer is that the stakes are high — much higher than most workers realize. The system is designed to push employers toward compliance before a dispute reaches court.
+        </p>
+        <h3>Wage Protection System (WPS) Flags</h3>
+        <p>
+          Saudi Arabia&apos;s Wage Protection System (WPS) automatically monitors every salary transfer in the private sector. When a final settlement is not paid on time, the system flags the company as non-compliant. That flag appears on the employer&apos;s official record with the Ministry and stays visible to regulators. Repeated or serious violations can raise the company&apos;s risk profile and trigger payroll audits.
+        </p>
+        <h3>Government Service Blocks</h3>
+        <p>
+          The sharpest practical consequence of unpaid dues is the freeze on government services. An employer with unresolved wage violations can be blocked from using Muqeem and Absher services — meaning they cannot issue new visas, renew Iqamas, process exit permits, or manage their workforce through the usual portals. For a company that depends on foreign labor, that is a serious operational crisis.
+        </p>
+        <h3>Financial Fines</h3>
+        <p>
+          Beyond flags and blocks, the MHRSD can impose administrative fines on employers who violate Article 87. The Ministry has steadily increased both the size of these fines and the consistency with which they are applied. For an employer, paying the fine plus your settlement is more expensive than simply paying on time — which is precisely the point.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The bigger picture:</strong> the Saudi system has moved decisively toward worker protection. Wage protection, digital complaint platforms, and automated monitoring mean an unpaid settlement is no longer a private matter between you and your manager. The moment a violation is logged, it affects the employer&apos;s ability to hire, renew visas, and operate. That is exactly why acting through official channels is the fastest route to getting paid.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>A Day-by-Day Timeline of Your Final Settlement</h2>
+        <p>
+          To make the 5-day rule concrete, here is what a normal final settlement week actually looks like once your contract has ended. Different companies process payments at different speeds, but the legal boundaries are identical for every private-sector employer.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Day 0 — The Last Working Day</p>
+            <p class="text-gray-400 text-sm">Your employment officially ends. From midnight on this day, the 5-day clock begins to run. Complete your handover, return company assets, and collect a signed acknowledgment from HR confirming your last day. This signed confirmation is the evidence that anchors your entire timeline.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Day 1–2 — Settlement Breakdown</p>
+            <p class="text-gray-400 text-sm">Most compliant employers prepare a written settlement breakdown within the first two days. It should list your gratuity, unpaid salary, leave pay, and air ticket separately. Review it carefully against your own calculation before agreeing to anything.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Day 3–5 — Payment &amp; WPS Transfer</p>
+            <p class="text-gray-400 text-sm">The final settlement is processed through the bank and recorded in the Wage Protection System. By the close of Day 5, the full amount must be in your account. If the money is not there by fax as the deadline expires, the employer is already in violation — regardless of the excuse given.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          A useful mental model: treat Day 5 as a hard deadline, not a target. Ask for a committed payment date no later than the afternoon of Day 4, so that any last-minute bank delay still lands inside the legal window. If the employer cannot commit to a date by then, you have your answer — payment is unlikely to arrive on time, and it is time to prepare the escalation steps in the next section.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Why the paper trail matters:</strong> the single most common reason expats fail to recover late EOSB is the absence of evidence. A dated email confirming your last day, a written settlement breakdown, and a committed payment date turn a verbal promise into a factual record. When the employer later claims &quot;we are still processing,&quot; your documentation proves the deadline already passed. Every message you save today is leverage you will use tomorrow.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Partial Payments, Silent Deductions, and What Most Expats Miss</h2>
+        <p>
+          A delay is not the only way an employer can shortchange you. Two quieter tactics strip value from your settlement without any visible confrontation, and they are worth watching for.
+        </p>
+        <h3>Partial Payments That Never Complete</h3>
+        <p>
+          Some employers release an initial &quot;goodwill&quot; payment — often just the final month&apos;s salary — while telling you the gratuity is &quot;coming in the next payroll cycle.&quot; Do not mistake a partial transfer for settlement. Your gratuity, leave pay, and air ticket are due in full within the same 5 days. If you receive less than the total on Day 5, the remainder is late, and you should file a written request for the outstanding balance immediately, quoting the exact figures.
+        </p>
+        <h3>Deductions Made Without a Written Breakdown</h3>
+        <p>
+          An employer who cannot justify a deduction is an employer making an illegal deduction. If your settlement arrives with amounts removed and no itemized explanation, request the breakdown in writing before you accept it. Common silent deductions include charging you for repainting that is normal wear and tear, deducting for equipment you already returned, or paying a portion of your gratuity at the wrong Article 85 rate. Each one is challengeable, but only if you ask.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The rule of thumb:</strong> if an amount is missing and you cannot explain exactly why it is missing, do not sign anything that acknowledges your settlement as full and final. Write &quot;accepted under protest&quot; across any document, and list the disputed items. This single sentence preserves your legal right to claim the difference afterward.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: How to Claim Your EOSB If Payment Is Delayed</h2>
+        <p>
+          If your employer is dragging their feet, follow this sequence. It escalates pressure gradually while preserving your legal position at every stage. Do not skip steps, and document everything in writing as you go.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 1: Send a Formal Written Request</p>
+            <p class="text-gray-400 text-sm">Email HR and finance politely but firmly. State the date your contract ended, list the amounts you believe are due (salary, gratuity, leave pay, ticket), and ask for a written settlement breakdown and a confirmed payment date. Do not rely on WhatsApp messages — a dated email is evidence. Save every response.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 2: Use the Friendly Settlement (Tawafuq) Platform</p>
+            <p class="text-gray-400 text-sm">If there is no satisfactory response within one week, file a complaint through the MHRSD Friendly Settlement portal (tarhal.mhrsd.gov.sa). It is free, online, and designed to resolve wage disputes before they become formal cases. In many cases this single step is enough — employers who ignore individuals respond to an official inquiry.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 3: Escalate to the MHRSD Labor Office</p>
+            <p class="text-gray-400 text-sm">If Tawafuq fails, file a formal complaint at your local MHRSD labor office. Bring your contract, Iqama, bank statements showing salary history, and copies of all written communication. The office can issue an official finding against a non-compliant employer and it visibly damages their compliance record.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 4: Take the Case to Labor Court</p>
+            <p class="text-gray-400 text-sm">As a last resort, escalate to the specialized labor court, which can issue a binding judgment and enforce payment. The system is accessible to workers, with simplified procedures and no lawyer required for small claims. Having followed steps 1–3, you enter with a documented paper trail that strengthens your case.</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">A note on timing:</strong> the official channels are powerful but not instant. The friendly settlement platform often produces a result in days or a few weeks; a full labor court case takes longer. Keep every receipt, payslip, and message, and do not accept a smaller amount out of exhaustion. Your documentation is what turns a strong case into a paid settlement.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats</h2>
+        <p>
+          Your nationality can shape how you should approach a delayed settlement. Different worker communities face different pressure points, and knowing them in advance puts you in control.
+        </p>
+        <h3>For South Asian Expats (PK / IN / BD)</h3>
+        <p>
+          A common tactic is withholding the final exit visa (Khurooj Nihai) as leverage to force you to sign an EOSB waiver. Know this clearly: <strong class="text-desert-primary">the employer cannot legally withhold your final exit as a bargaining chip.</strong> Any waiver you sign under such pressure is vulnerable to challenge. Article 8 of the Saudi Labor Law makes any condition or waiver that contradicts the law null and void. Never let the exit visa panic you into signing away money you are owed.
+        </p>
+        <h3>For Filipino Expats</h3>
+        <p>
+          If you are a Filipino worker, the Philippine Overseas Labor Office (POLO) in Saudi Arabia plays a critical role. Do not sign any final settlement document without first having it reviewed and verified by POLO. The office exists to ensure overseas Filipino workers do not waive rights they are legally entitled to.
+        </p>
+        <h3>For All Expats</h3>
+        <p>
+          Before you leave, download your End of Service Certificate under Article 64 of the Labor Law. This document confirms your service period and is often requested by future employers as a reference. Obtain it before your exit — it is far easier than chasing it from abroad after your Iqama is cancelled.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">How many days does a company have to pay EOSB in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Under Article 87 of the Saudi Labor Law, the employer must pay all end-of-service benefits and final dues within a maximum of 5 days from the date of contract termination or the end of the notice period.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">What is the penalty for late EOSB payment in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Employers who delay face several consequences: Wage Protection System flags, blocks on government services such as Muqeem and Absher, administrative fines imposed by MHRSD, and potentially a binding labor court judgment.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can my employer delay my final exit visa if I have not received my EOSB?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Withholding the final exit visa is not a legal tool for forcing a settlement. Any waiver you sign under that pressure is null and void under Article 8 of the law, so you can still claim your full entitlement afterward.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">How do I file a complaint for unpaid EOSB in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Start with a formal written request to your employer, then escalate to the MHRSD Friendly Settlement platform (tarhal.mhrsd.gov.sa) after one week. If that fails, file a formal complaint at your local MHRSD labor office, then the labor court if necessary.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Is accrued leave pay included in the final settlement in KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. Accrued but unused annual leave must be paid as a cash equivalent calculated on your basic salary, and it forms part of your final settlement under the 5-day rule.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can I sign a waiver to give up my EOSB to get my final exit faster?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Article 8 of the Saudi Labor Law renders null and void any condition or waiver that contradicts the law, so you can challenge a coerced waiver and still claim your full legal entitlement.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Conclusion: Know Your Rights, Document Everything, and Do Not Sign Under Pressure</h2>
+        <p>
+          The key takeaway is simple: your EOSB payment is not a favor your employer is doing for you — it is a legal right with a strict deadline, and the Saudi system is built to enforce it. Know your rights before your last day, keep written records of every request and response, and never sign blank documents or waivers under pressure. The workers who recover their full settlements are the ones who understand the 5-day rule, document everything, and escalate methodically when payment stalls.
+        </p>
+        <p class="mt-4">
+          The most powerful tool in that process is knowledge of the exact amount you are owed. When your employer hands you a settlement figure, you need to know — instantly — whether it is correct.
+        </p>
+        <p class="mt-4">
+          Don&apos;t leave your hard-earned money to chance. Use the <a href="/final-settlement-calculator" class="text-desert-primary underline">SaudiToolHub Final Settlement Calculator</a> to verify the amount your employer is offering you before you accept it.
+        </p>
+        <p class="mt-4">
+          Understanding your resignation rights? Also read our guide on <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Article 84 vs 85</a> to see how the tiered system changes your number depending on who ends the contract.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Calculate Your Correct EOSB Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — just enter your basic salary, years of service, and reason for leaving</p>
+          <a href="/final-settlement-calculator" class="text-desert-primary underline">Use the Free Final Settlement Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on the Saudi Labor Law (specifically Article 87). Regulations and procedures are subject to change. For official disputes, always refer to the Ministry of Human Resources and Social Development (MHRSD) or consult a licensed legal professional.
+        </p>
+      </div>
+    `,
+      ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل العمالة الوافدة</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">الجدول الزمني لدفع مكافأة نهاية الخدمة وغرامات التأخير في السعودية 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">انتهى عقدك، وبدأت ساعة الخمسة أيام. إليك بالضبط متى يجب على صاحب العمل دفع مكافأة نهاية الخدمة، وماذا يحدث عند التأخير، والخطوات الدقيقة لإجباره على الدفع.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مقدمة: ضغط فترة الانتظار</h2>
+        <p>
+          إن انتظار التسوية النهائية هو أحد أكثر الفترات إجهاداً في مسيرة أي وافد في السعودية. لقد توقف راتبك، وساعة الفيزا تدق، والتزاماتك المالية في بلدك لا تتوقف بينما صاحب العمل السابق &quot;يُنهي الأوراق.&quot; عدم اليقين منهك، ومعظم العاملين يشعرون بالعجز في تلك الفترة بين آخر يوم عمل والمال الذي يصل إلى الحساب. لكنك لست كذلك.
+        </p>
+        <p class="mt-4">
+          القانون في صفك، وهو يعمل وفق جدول زمني صارم. الإجابة المباشرة من البداية: <strong class="text-desert-primary">بموجب المادة 87 من نظام العمل السعودي، يجب على صاحب العمل دفع جميع مكافآت نهاية الخدمة (EOSB) والمستحقات النهائية خلال مدة أقصاها 5 أيام من تاريخ انتهاء العقد أو من نهاية فترة الإشعار.</strong> هذا ليس توجيهاً أو أفضل ممارسة أو اقتراحاً — بل موعدٌ قانوني تُنفذه وزارة الموارد البشرية والتنمية الاجتماعية (MHRSD).
+        </p>
+        <p class="mt-4">
+          إليك ما يغطيه هذا الدليل. أولاً، ستتعلم قاعدة الخمسة أيام بالضبط وكيف تنطبق على الفصل والاستقالة وانتهاء العقد. ثانياً، سترى القائمة الكاملة لما يجب أن يكون ضمن تسويتك النهائية — لأن كثيراً من العمال يخسرون آلاف الريالات فقط لأنهم لا يعرفون حقوقهم. ثالثاً، نوضح العقوبات التي يواجهها صاحب العمل عند التأخير، بما في ذلك الغرامات وفحوصات نظام حماية الأجور وتجميد الخدمات الحكومية. أخيراً، تحصل على عملية مطالبة خطوة بخطوة من طلب التسوية الودية حتى محكمة العمل. اقرأ هذا قبل أن توقّع أي شيء، وستتفاوض من موقع معرفة.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">لست متأكداً كم تستحق؟</strong> استخدم <a href="/final-settlement-calculator" class="text-desert-primary underline">حاسبة التسوية النهائية المجانية</a> لتقدير إجمالي مستحقاتك قبل يومك الأخير — لا تستغرق أكثر من دقيقة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الموعد القانوني: المادة 87 من نظام العمل السعودي</h2>
+        <p>
+          المادة 87 هي أهم قاعدة تحتاج إلى معرفتها عندما تنتهي علاقتك الوظيفية في السعودية. فهي تحدد موعداً واضحاً وغير قابل للتفاوض ينطبق على كل صاحب عمل في القطاع الخاص بالمملكة.
+        </p>
+        <p class="mt-4">
+          ينص النظام على أنه عند انتهاء عقد العمل، يجب على صاحب العمل أن يدفع للعامل جميع المبالغ المستحقة له — بما في ذلك مكافأة نهاية الخدمة وأي راتب غير مدفوع ومستحقات أخرى — <strong class="text-desert-primary">خلال مدة أقصاها خمسة أيام من تاريخ الانتهاء</strong>. بعبارة بسيطة: بمجرد انتهاء العقد، أمام صاحب العمل خمسة أيام لتسوية كل ما تستحقه.
+        </p>
+        <p class="mt-4">
+          إليك كيف تنطبق قاعدة الخمسة أيام في السيناريوهات الثلاثة الأكثر شيوعاً لإنهاء الخدمة:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الفصل من قبل صاحب العمل</p>
+            <p class="text-gray-400 text-sm">تبدأ الساعة من تاريخ الفصل. أمام صاحب العمل 5 أيام من ذلك التاريخ لدفع تسويتك بالكامل.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الاستقالة من قبل العامل</p>
+            <p class="text-gray-400 text-sm">تبدأ الساعة بمجرد اكتمال فترة الإشعار ومرور آخر يوم عمل رسمي لك. عندها أمام صاحب العمل 5 أيام لدفعك بالكامل.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">انتهاء العقد</p>
+            <p class="text-gray-400 text-sm">تبدأ الساعة من تاريخ الانتهاء الرسمي للعقد. يجب دفع مستحقاتك خلال 5 أيام بعد ذلك التاريخ.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          تفصيل مهم: المادة 87 لا تفرّق بين من أنهى العقد. سواء استقلت أو فُصلت أو وصلت ببساطة إلى نهاية عقد محدد المدة، فإن نافذة الخمسة أيام نفسها تنطبق. لا يوجد أي أساس قانوني لتأجيل الدفع بحجة أن &quot;الموارد البشرية مشغولة&quot; أو أن &quot;الفريق المالي في إجازة&quot; — تلك أعذار، وليست دفوعاً قانونية.
+        </p>
+        <p class="mt-4">
+          ملاحظة عملية لأسبوع خروجك: نافذة الخمسة أيام تُحسب من اليوم الذي انتهت فيه علاقتك الوظيفية فعلياً، وليس من اليوم الذي تذكرت أن تسأل فيه. إذا انتهى عقدك يوم السبت، فالدفع مستحق في موعد أقصاه الخميس التالي. إذا استقلت وانتهى إشعارك في اليوم 31، فصاحب العمل مدين لك بحلول اليوم الخامس من الشهر التالي. حدّد هذا التاريخ لحظة تأكيد يومك الأخير — فهو مرجعك إذا ماطل صاحب العمل.
+        </p>
+        <p class="mt-4">
+          يجب أن تعرف أيضاً ما لا يتطلبه القانون: لا يستطيع صاحب العمل ربط الدفع بإعادة جهاز لابتوب الشركة أو إكمال تسليم المهام أو التوقيع على إخلاء مسؤولية. تلك أمور داخلية للشركة. الموعد القانوني في المادة 87 يعمل بشكل مستقل. بعض أصحاب العمل يستخدمون &quot;الإخلاء قيد الإجراء&quot; كأسلوب مماطلة؛ تأخير التسليم لا يوقف مؤقتاً ساعة الدفع الخمسة أيام.
+        </p>
+        <p class="mt-4">
+          هذا الجدول الزمني تطبقه بصرامة وزارة الموارد البشرية والتنمية الاجتماعية (MHRSD). فالوزارة تراقب مدفوعات الأجور إلكترونياً، وتتابع الشكاوى، ولها صلاحية فرض عقوبات على الشركات التي تخالف الموعد. صاحب العمل الذي يتأخر في الدفع يخاطر بغرامات وتجميد خدمات وتدهور تصنيف امتثاله — وليس مجرد حسن نيتك.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ما الذي يشملته &quot;التسوية النهائية&quot;؟</h2>
+        <p>
+          يعتقد كثير من العمال أن تسويتهم النهائية ليست سوى المكافأة. هذا الخطأ يكلف الناس آلاف الريالات كل عام. تسويتك النهائية حزمة من عدة مستحقات مميزة، ويجب دفع كل منها ضمن نافذة الخمسة أيام نفسها. إليك القائمة الكاملة.
+        </p>
+        <h3>مكافأة نهاية الخدمة</h3>
+        <p>
+          المكافأة هي جوهر تسويتك، وتُحسب وفق المادتين 84 و85 من نظام العمل السعودي. خلال السنوات الخمس الأولى من الخدمة، تستحق نصف راتب أساسي عن كل سنة عمل. ومن السنة السادسة فصاعداً، يرتفع المعدل إلى راتب أساسي كامل عن كل سنة. للعامل الذي يتقاضى 6,000 ريال أساسياً بعد ثماني سنوات، يبلغ المجموع نحو 33,000 ريال. يعتمد الرقم الدقيق على راتبك الأساسي وسنوات خدمتك وما إذا كنت استقلت أو فُصلت.
+        </p>
+        <h3>الراتب غير المدفوع</h3>
+        <p>
+          أي راتب تستحقه جزء من التسوية. يشمل هذا راتبك المقتطع حسب الفترة للشهر الجزئي الأخير — الأيام التي عملت فيها ولم تُدفع بعد. إذا وقع آخر يوم عملك في اليوم 15، فأنت تستحق نصف شهر عن تلك الفترة، بالإضافة إلى أي أيام عملتها في الدورة التالية.
+        </p>
+        <h3>الإجازة السنوية المتراكمة غير المستخدمة</h3>
+        <p>
+          بموجب نظام العمل السعودي، يحق لك الحصول على مقابل مالي نقدي عن أيام الإجازة السنوية التي تراكمت لديك ولم تأخذها قبل مغادرتك. يُحسب ذلك على الراتب الأساسي بمعدل أجر يوم واحد عن كل يوم إجازة غير مستخدم. إذا كان لديك 15 يوماً غير مستخدم وراتب أساسي شهري 6,000 ريال، فذلك نحو 3,000 ريال يمكنك المطالبة بها. كثير من أصحاب العمل يحذفون هذا البند من العرض الأول.
+        </p>
+        <h3>تذكرة الطيران للعودة إلى الوطن</h3>
+        <p>
+          صاحب العمل مسؤول عن توفير تذكرة عودة إلى بلدك في نهاية عملك. لهذا الالتزام استثناءان رئيسيان: عندما تنتقل مباشرة إلى صاحب عمل محلي جديد (الذي يتحمل التكلفة عادة)، أو عندما ينص عقدك صراحة على ترتيب مختلف. إذا لم ينطبق أي منهما، فالتذكرة جزء من تسويتك.
+        </p>
+        <h3>استحقاقات تعاقدية أخرى</h3>
+        <p>
+          بالإضافة إلى العناصر الأربعة أعلاه، راجع عقدك بحثاً عن أي شيء محدد تم وعدك به. العمولات التجارية المعلقة، ومبالغ العمل الإضافي المتراكمة، والبدلات التعاقدية كلها جزء من مستحقاتك النهائية. اطلب تفصيلاً خطياً حتى لا يُسقط شيء بصمت.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">فحص سريع للصحة:</strong> اجمع راتبك غير المدفوع والمكافأة وبدل الإجازة وقيمة التذكرة، ثم قارن المجموع بعرض صاحب العمل. إذا لم تتطابق، اطلب حساباً تفصيلياً خطياً قبل قبول أي شيء. تسوية تحذف بدل الإجازة أو شهراً جزئياً من الراتب هي الطريقة الأكثر شيوعاً لخسارة الوافدين المال عند نهاية العقد.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>عقوبات التأخير: ماذا يحدث إذا ماطل صاحب العمل؟</h2>
+        <p>
+          السؤال الأكثر شيوعاً بين العمال: ماذا يمكن للحكومة فعلياً أن تفعل بصاحب عملي إذا رفض الدفع؟ الجواب أن المخاطر عالية — أعلى بكثير مما يدرك معظم العمال. النظام مصمم لدفع أصحاب العمل نحو الامتثال قبل أن يصل النزاع إلى المحكمة.
+        </p>
+        <h3>علامات نظام حماية الأجور (WPS)</h3>
+        <p>
+          يراقب نظام حماية الأجور في السعودية كل تحويل للرواتب في القطاع الخاص تلقائياً. عندما لا يُدفع التسوية النهائية في وقتها، يعلّم النظام الشركة كمخالفة. تظهر هذه العلامة في السجل الرسمي لصاحب العمل لدى الوزارة وتبقى ظاهرة للجهات التنظيمية. الانتهاكات المتكررة أو الخطيرة يمكن أن ترفع مستوى الخطر على الشركة وتؤدي إلى تدقيق كشوف الرواتب.
+        </p>
+        <h3>تجميد الخدمات الحكومية</h3>
+        <p>
+          العاقبة العملية الأشد للمستحقات غير المدفوعة هي تجميد الخدمات الحكومية. يمكن منع صاحب العمل الذي لديه مخالفات أجور غير محلولة من استخدام خدمات مقيم وأبشر — أي أنه لا يستطيع إصدار فيز جديدة أو تجديد إقامات أو معالجة تأشيرات خروج أو إدارة قوته العاملة عبر البوابات المعتادة. بالنسبة لشركة تعتمد على العمالة الوافدة، فإن تجميد الخدمات أزمة تشغيلية خطيرة.
+        </p>
+        <h3>الغرامات المالية</h3>
+        <p>
+          إلى جانب العلامات والتجميد، يمكن لوزارة الموارد البشرية فرض غرامات إدارية على أصحاب العمل الذين يخالفون المادة 87. زادت الوزارة باستمرار من حجم هذه الغرامات ومن اتساق تطبيقها. بالنسبة لصاحب العمل، دفع الغرامة بالإضافة إلى تسويتك أغلى من مجرد الدفع في الوقت المحدد — وهذا هو هدف النظام بالضبط.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">الصورة الأكبر:</strong> تحرك النظام السعودي بحسم نحو حماية العامل. فحماية الأجور ومنصات الشكاوى الرقمية والمراقبة الآلية تعني أن التسوية غير المدفوعة لم تعد مسألة خاصة بينك وبين مديرك. بمجرد تسجيل المخالفة، فإنها تؤثر على قدرة صاحب العمل على التوظيف وتجديد الفيز والعمليات. لهذا تحديداً، فإن العمل عبر القنوات الرسمية هو الطريق الأسرع للحصول على أموالك.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الخط الزمني يوماً بيوم لتسويتك النهائية</h2>
+        <p>
+          لجعل قاعدة الخمسة أيام ملموسة، إليك كيف تبدو أسبوع التسوية النهائية المعتاد بمجرد انتهاء عقدك. تختلف سرعة المعالجة بين الشركات، لكن الحدود القانونية واحدة لكل صاحب عمل في القطاع الخاص.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">اليوم 0 — آخر يوم عمل</p>
+            <p class="text-gray-400 text-sm">تنتهي علاقة العمل رسمياً. من منتصف ليل هذا اليوم تبدأ ساعة الخمسة أيام. أنهِ التسليم، وأعد أصول الشركة، واحصل على توقيع من الموارد البشرية يؤكد يومك الأخير. هذا التأكيد الموقّع هو الدليل الذي يثبت الخط الزمني بأكمله.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">اليوم 1–2 — تجهيز مذكرة التسوية</p>
+            <p class="text-gray-400 text-sm">معظم أصحاب العمل الملتزمين يجهزون تفصيلاً كتابياً للتسوية خلال اليومين الأولين. يجب أن يذكر المكافأة والأجر غير المدفوع وبدل الإجازة والتذكرة كلها منفصلة. راجعه بعناية مقابل حسابك الخاص قبل الموافقة على أي شيء.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">اليوم 3–5 — الدفع والتحويل عبر نظام حماية الأجور</p>
+            <p class="text-gray-400 text-sm">تُعالج التسوية النهائية عبر البنك وتُسجل في نظام حماية الأجور (WPS). مع نهاية اليوم 5 يجب أن يكون المبلغ كاملاً في حسابك. إذا لم يصل المال بحلول ذلك الموعد، يكون صاحب العمل قد خالف القانون — مهما كان العذر.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          نموذج ذهني مفيد: تعامل مع اليوم 5 كموعدٍ نهائي حاسم لا كهدف. اطلب تاريخ دفع محدداً في موعد لا يتجاوز ظهيرة اليوم 4، بحيث تبقى أي تأخيرات بنكية في اللحظة الأخيرة داخل النافذة القانونية. إذا لم يستطع صاحب العمل الالتزام بتاريخ بحلول ذلك الوقت، فلديك إجابتك — فالدفع لن يصل على الأرجح في وقته، وحان وقت تجهيز خطوات التصعيد.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">لماذا يهم السجل المكتوب:</strong> السبب الأكثر شيوعاً لعدم استرداد العمال لمكافأة متأخرة هو غياب الأدلة. فالبريد المؤرّخ الذي يؤكد يومك الأخير، وتفصيل التسوية المكتوب، وتاريخ الدفع الملزم، كلها تحوّل الوعد الشفهي إلى سجل واقعي. وعندما يدّعي صاحب العمل لاحقاً &quot;ما زلنا نعالج&quot;، يثبت سجلّك أن الموعد القانوني قد انقضى. كل رسالة تحفظها اليوم هي وسيلة ضغط تضيفها غداً.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الدفعات الجزئية والخصومات الصامتة: ما يفوّت معظم الوافدين</h2>
+        <p>
+          التأخير ليس الوسيلة الوحيدة التي يستطيع صاحب العمل بها إنقاص مستحقاتك. ثمة تكتيكان أهدأ ينتقصان من قيمة تسويتك دون أي مواجهة ظاهرة، ويستحقان الانتباه.
+        </p>
+        <h3>دفعات جزئية لا تكتمل أبداً</h3>
+        <p>
+          بعض أصحاب العمل يحررون دفعة مبدئية &quot;حسن نية&quot; — غالباً أجر الشهر الأخير فقط — بينما يخبرونك أن المكافأة &quot;ستأتي في دورة الرواتب القادمة&quot;. لا تخلط بين التحويل الجزئي وبين التسوية. مكافأتك وبدل إجازتك وتذكرتك كلها مستحقة كاملة خلال الخمسة أيام نفسها. إذا حصلت على أقل من الإجمالي في اليوم 5، فإن الباقي متأخر، ويجب أن تقدّم طلباً كتابياً فوراً للمبلغ المتبقي مستشهداً بالأرقام الدقيقة.
+        </p>
+        <h3>خصومات تجري دون تفصيل كتابي</h3>
+        <p>
+          صاحب العمل الذي لا يستطيع تبرير خصمٍ هو صاحب عمل يرتكب خصماً غير قانوني. إذا وصلت تسويتك بمبالغ محذوفة دون شرح مفصل، فاطلب التفصيل كتابياً قبل القبول. تشمل الخصومات الصامتة الشائعة تحميلك تكلفة الطلاء الذي هو تآكل طبيعي، أو خصم معدات سبق أن أعدتها، أو دفع جزء من مكافأتك بنسبة خاطئة وفق المادة 85. كلٌّ منها قابل للاعتراض، لكن فقط إذا سألت.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">قاعدة الإبهام:</strong> إذا كان مبلغ مفقوداً ولا يمكنك تفسير سبب غيابه بدقة، فلا توقّع أي شيء يعتبر تسويتك نهائية وكاملة. اكتب عبارة &quot;قُبل مع التحفظ&quot; على أي مستند، واذكر البنود المتنازع عليها. هذه الجملة الواحدة تحفظ حقك القانوني في المطالبة بالفرق لاحقاً.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أشهر الخرافات حول موعد دفع مكافأة نهاية الخدمة</h2>
+        <p>
+          في مواقع العمل وبين زملاء العمل، تنتشر عبارات خاطئة عن توقيت دفع المكافأة تتكرر كثيراً لدرجة أن كثيراً من العمال يعتقدون أنها قانون. إليك التفاصيل الحقيقية خلف أربع من أكثرها شيوعاً، حتى تتمكن من تمييز الخطأ في ثوانٍ عندما يذكره لك أحدهم في أسبوع مغادرتك.
+        </p>
+        <h3>الخرافة الأولى: &quot;تستلم مكافأتك مع آخر راتب في الدورة القادمة&quot;</h3>
+        <p>
+          يقال هذا غالباً عند نهاية العقد، وهو غير صحيح. المكافأة وأجر آخر الشهر الجزئي وبدل الإجازة غير المستخدمة كلها مستحقة ضمن نفس نافذة الخمسة أيام. لا يوجد مفهوم &quot;دورة رواتب قادمة&quot; لمكافأة نهاية الخدمة في نظام العمل.
+        </p>
+        <h3>الخرافة الثانية: &quot;لا يمكن الدفع حتى ينهي الموظف التسليم ويسلّم الأجهزة&quot;</h3>
+        <p>
+          التسليم أمر داخلي بينك وبين قسم الموارد البشرية، والموعد القانوني في المادة 87 يعمل مستقلاً عنه. حتى لو تأخر التسليم لسبب ما، فليس لصاحب العمل الحق في تجميد دفعتك بسبب مسألة تنظيمية داخلية.
+        </p>
+        <h3>الخرافة الثالثة: &quot;المكافأة تُحتسب على الراتب الإجمالي&quot;</h3>
+        <p>
+          صحيح أن بدل السكن والمواصلات يسهمان في تكلفتك على صاحب العمل، لكن مكافأة نهاية الخدمة تحتسب على الراتب الأساسي فقط وفق المادتين 84 و85. إذا عرض عليك صاحب العمل مبلغاً أكبر من ذلك فهذا جيد، لكن لا تعتمد في توقعك على الرقم الإجمالي.
+        </p>
+        <h3>الخرافة الرابعة: &quot;إذا وقعت على تسوية، فأنت فقدت كل حقك&quot;</h3>
+        <p>
+          التوقيع على مستند لا يلغي حصانتك القانونية إذا كان المستند يخالف القانون أو وُقع تحت إكراه. المادة 8 تجعل أي شرط يتعارض مع نظام العمل باطلاً. هذا يعني أن التوقيع تحت ضغط حرمانك من الخروج النهائي، أو مع تفصيل تسوية غير مكتمل، يظل قابلاً للطعن أمام الجهات المختصة.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">الخلاصة العملية:</strong> عندما يخبرك أحدهم برأي حول موعد دفعتك، قارنه بنص المادة 87 وسجلك المكتوب، لا بأعراف الشركة. الأنظمة السعودية تتغير لصالح العامل باستمرار، وما كان &quot;معتاداً&quot; في شركة سابقة ليس قانوناً في شركتك الحالية.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خطوة بخطوة: كيف تطالب بمكافأة نهاية الخدمة عند تأخير الدفع</h2>
+        <p>
+          إذا كان صاحب العمل يماطل، اتبع هذا التسلسل. فهو يزيد الضغط تدريجياً مع الحفاظ على مركزك القانوني في كل مرحلة. لا تتخطَّ الخطوات، ووثّق كل شيء كتابياً أثناء سيرك.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 1: أرسل طلباً كتابياً رسمياً</p>
+            <p class="text-gray-400 text-sm">راسل الموارد البشرية والمالية بأدب لكن بحزم. اذكر تاريخ انتهاء عقدك، وعدد المبالغ التي تعتقد أنك تستحقها (الراتب، المكافأة، بدل الإجازة، التذكرة)، واطلب تفصيلاً خطياً للتسوية وتاريخاً مؤكداً للدفع. لا تعتمد على رسائل واتساب — البريد المؤرخ دليل. واحفظ كل رد.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 2: استخدم منصة التسوية الودية</p>
+            <p class="text-gray-400 text-sm">إذا لم يكن هناك رد مرضٍ خلال أسبوع، قدّم شكوى عبر منصة التسوية الودية لوزارة الموارد البشرية (tarhal.mhrsd.gov.sa). إنها مجانية وعبر الإنترنت ومصممة لحل نزاعات الأجور قبل تحولها إلى قضايا رسمية. في كثير من الحالات هذه الخطوة وحدها كافية — أصحاب العمل الذين يتجاهلون الأفراد يستجيبون للاستفسار الرسمي.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 3: التصعيد إلى مكتب عمل الوزارة</p>
+            <p class="text-gray-400 text-sm">إذا فشلت التسوية الودية، قدّم شكوى رسمية في مكتب العمل المحلي. أحضر عقدك وإقامتك وكشوف البنك التي تظهر تاريخ رواتبك ونسخاً من كل التواصل الكتابي مع صاحب العمل. يمكن للمكتب إصدار قرار رسمي ضد صاحب العمل المخالف.
+            </p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 4: رفع القضية إلى محكمة العمل</p>
+            <p class="text-gray-400 text-sm">كملاذ أخير، صعّد إلى محكمة العمل المتخصصة، التي يمكنها إصدار حكم ملزم وإنفاذ الدفع. النظام مصمم ليكون في متناول العمال، بإجراءات مبسطة ودون الحاجة إلى محامٍ للقضايا الصغيرة. بعد اتباع الخطوات 1-3، تدخل المحكمة بمسار ورقي موثق يقوّي قضيتك.</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ملاحظة حول التوقيت:</strong> القنوات الرسمية قوية لكنها ليست فورية. غالباً ما تحقق منصة التسوية الودية نتيجة في غضون أيام أو بضعة أسابيع؛ أما قضية محكمة العمل الكاملة فتستغرق وقتاً أطول. احتفظ بكل إيصال وكشف راتب ورسالة، ولا تقبل مبلغاً أصغر بدافع الإرهاق. توثيقك هو ما يحوّل قضية قوية إلى تسوية مدفوعة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعتبارات خاصة للوافدين</h2>
+        <p>
+          يمكن لجنسيتك أن تشكل طريقة تعاملك مع التسوية المؤجلة. جاليات العمال المختلفة تواجه نقاط ضغط مختلفة، ومعرفتها مسبقاً تضعك في موقع السيطرة.
+        </p>
+        <h3>للوافدين من جنوب آسيا (باكستان / الهند / بنغلاديش)</h3>
+        <p>
+          من الأساليب الشائعة حجز تأشيرة الخروج النهائي (خروج نالي) كورقة ضغط لإجبارك على التوقيع على تنازل عن مكافأة نهاية الخدمة. اعلم هذا بوضوح: <strong class="text-desert-primary">لا يستطيع صاحب العمل قانونياً حجز خروجك النهائي كورقة تفاوض.</strong> أي تنازل توقّعه تحت هذا الضغط عرضة للطعن. المادة 8 من نظام العمل تجعل أي شرط أو تنازل يخالف القانون باطلاً وبلا أثر. لا تجعل ذعر تأشيرة الخروج يدفعك للتوقيع على التخلي عن أموال تستحقها.
+        </p>
+        <h3>للوافدين الفلبينيين</h3>
+        <p>
+          إذا كنت عاملاً فلبينياً، يلعب مكتب العمل الفلبيني في الخارج (POLO) دوراً حاسماً. لا توقّع أي مستند تسوية نهائية قبل أن يراجعه ويصادق عليه مكتب العمل الفلبيني. أنشئ المكتب لضمان ألا يتخلى العمال الفلبينيون في الخارج عن حقوق يستحقونها قانونياً.
+        </p>
+        <h3>لجميع الوافدين</h3>
+        <p>
+          قبل مغادرتك، حمّل شهادة نهاية الخدمة بموجب المادة 64 من نظام العمل. هذه الوثيقة تؤكد فترة خدمتك وكثيراً ما يطلبها أصحاب العمل المستقبليون كمرجع. الحصول عليها قبل خروجك أسهل بكثير من ملاحقتها من الخارج بعد إلغاء إقامتك.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">كم يوماً أمام الشركة لدفع مكافأة نهاية الخدمة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">بموجب المادة 87 من نظام العمل السعودي، يجب على صاحب العمل دفع جميع مكافآت نهاية الخدمة والمستحقات النهائية خلال مدة أقصاها 5 أيام من تاريخ انتهاء العقد أو من نهاية فترة الإشعار.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ما عقوبة تأخير دفع مكافأة نهاية الخدمة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">يواجه أصحاب العمل الذين يتأخرون عدة عواقب: علامات في نظام حماية الأجور، وتجميد خدمات حكومية مثل مقيم وأبشر، وغرامات إدارية تفرضها وزارة الموارد البشرية، وربما حكماً ملزماً من محكمة العمل.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يستطيع صاحب العمل تأجيل تأشيرة الخروج النهائي إذا لم أحصل على مكافأة نهاية الخدمة؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. حجب تأشيرة الخروج النهائي ليس أداة قانونية لإجبار التسوية. وأي تنازل توقّعه تحت ذلك الضغط باطل بموجب المادة 8 من نظام العمل، لذا يمكنك المطالبة بمستحقاتك الكاملة لاحقاً.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">كيف أقدّم شكوى لعدم دفع مكافأة نهاية الخدمة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">ابدأ بطلب كتابي رسمي لصاحب العمل، ثم صعّد إلى منصة التسوية الودية (tarhal.mhrsd.gov.sa) بعد أسبوع. إذا فشل ذلك، قدّم شكوى رسمية في مكتب العمل المحلي، ثم إلى محكمة العمل إذا لزم الأمر.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يُشمل رصيد الإجازات المتراكمة في التسوية النهائية في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. يجب دفع الإجازة السنوية المتراكمة غير المستخدمة كمقابل نقدي يُحسب على الراتب الأساسي، وهي جزء من تسويتك النهائية بموجب قاعدة الخمسة أيام.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يمكنني التوقيع على تنازل للتخلي عن مكافأة نهاية الخدمة مقابل خروج أسرع؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. المادة 8 من نظام العمل السعودي تجعل أي شرط أو تنازل يخالف القانون باطلاً وبلا أثر، لذا يمكنك الطعن في تنازل مكرَه عليه والمطالبة بمستحقاتك القانونية الكاملة.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خلاصة: اعرف حقوقك، ووثّق كل شيء، ولا توقّع تحت الضغط</h2>
+        <p>
+          الخلاصة بسيطة: دفعة مكافأة نهاية الخدمة ليست معروفاً يقدمه لك صاحب العمل — بل حق قانوني بموعد صارم، والنظام السعودي مبني على إنفاذه. اعرف حقوقك قبل يومك الأخير، واحتفظ بسجلات كتابية لكل طلب ورد، ولا توقّع أبداً مستندات فارغة أو تنازلات تحت الضغط. العمال الذين يستردون تسوياتهم الكاملة هم الذين يفهمون قاعدة الخمسة أيام ويوثقون كل شيء ويصعّدون بشكل منهجي عندما يتوقف الدفع.
+        </p>
+        <p class="mt-4">
+          أقوى أداة في تلك العملية هي معرفة المبلغ الدقيق الذي تستحقه. عندما يسلّمك صاحب العمل رقماً للتسوية، يجب أن تعرف — فوراً — هل هو صحيح أم لا.
+        </p>
+        <p class="mt-4">
+          لا تترك أموالك التي كسبتها بجهد للمصادفة. استخدم <a href="/final-settlement-calculator" class="text-desert-primary underline">حاسبة التسوية النهائية من SaudiToolHub</a> للتحقق من المبلغ الذي يعرضه عليك صاحب العمل قبل قبوله.
+        </p>
+        <p class="mt-4">
+          تريد فهم حقوقك في الاستقالة؟ اقرأ أيضاً دليلنا حول <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">قواعد مكافأة نهاية الخدمة عند الاستقالة: المادتان 84 و85</a> لترى كيف يغيّر النظام المتدرج رقمك اعتماداً على من يُنهي العقد.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">احسب مكافأة نهاية الخدمة الصحيحة الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاناً — أدخل راتبك الأساسي وسنوات خدمتك وسبب المغادرة</p>
+          <a href="/final-settlement-calculator" class="text-desert-primary underline">استخدم حاسبة التسوية النهائية المجانية</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>إخلاء المسؤولية:</strong> هذا الدليل لأغراض إعلامية استناداً إلى نظام العمل السعودي (وتحديداً المادة 87). اللوائح والإجراءات قابلة للتغيير. بالنسبة للنزاعات الرسمية، راجع دائماً وزارة الموارد البشرية والتنمية الاجتماعية (MHRSD) أو استشر محترفاً قانونياً مرخصاً.
+        </p>
+      </div>
+    `,
+      ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">ایکسپیٹ لیبر گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب 2026 میں EOSB کی ادائیگی کا وقت اور تاخیر کے جرمانے</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">آپ کا معاہدہ ختم ہو چکا ہے اور 5 دن کی گھڑی شروع ہو چکی ہے۔ یہاں بالکل بتایا گیا ہے کہ آجر کو آپ کی خدمات کے اختتامی مراعات کب ادا کرنی ہیں، تاخیر پر کیا ہوتا ہے، اور ادائیگی کروانے کے درست اقدامات کیا ہیں۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تعارف: انتظار کی پریشانی</h2>
+        <p>
+          سعودی عرب میں کسی بھی ایکسپیٹ کی نوکری کے سب سے پریشان کن ادوار میں سے ایک فائنل سیٹلمنٹ کا انتظار ہے۔ آپ کی تنخواہ رک چکی ہے، ویزے کی گھڑی ٹک ٹک کر رہی ہے، اور وطن میں آپ کی مالی ذمہ داریاں اس وقت نہیں رکتیں جب آپ کا سابق آجر &quot;کاغذات مکمل کر رہا ہوتا ہے۔&quot; یہ غیر یقینی صورتحال نہایت تھکا دینے والی ہے، اور زیادہ تر کارکن آخری کام کے دن اور اکاؤنٹ میں رقم آنے کے درمیان بے بس محسوس کرتے ہیں۔ لیکن آپ بے بس نہیں ہیں۔
+        </p>
+        <p class="mt-4">
+          قانون آپ کے ساتھ ہے، اور وہ سخت وقت کے مطابق کام کرتا ہے۔ سیدھا جواب، سب سے پہلے: <strong class="text-desert-primary">سعودی لیبر قانون کی دفعہ 87 کے تحت، آجر کو خدمات کے اختتامی فوائد (EOSB) اور تمام آخری واجبات معاہدے کے خاتمے یا نوٹس پیریڈ کی تکمیل کی تاریخ سے زیادہ سے زیادہ 5 دن کے اندر ادا کرنے ہیں۔</strong> یہ کوئی ہدایت یا بہترین طریقہ یا مشورہ نہیں ہے — یہ ایک قانونی ڈیڈلائن ہے جسے وزارتِ انسانی وسائل اور سماجی ترقی (MHRSD) نافذ کرتی ہے۔
+        </p>
+        <p class="mt-4">
+          یہاں بتایا گیا ہے کہ یہ گائیڈ کیا احاطہ کرتا ہے۔ پہلے، آپ 5 دن کے اصول کو بالکل سیکھیں گے اور یہ کہ یہ برطرفی، استعفیٰ اور معاہدے کے خاتمے پر کیسے لاگو ہوتا ہے۔ دوسرے، آپ دیکھیں گے کہ آپ کی فائنل سیٹلمنٹ میں کون کون سی چیزیں شامل ہیں — کیونکہ بہت سے کارکن ہزاروں ریال اس لیے کھو دیتے ہیں کہ انہیں معلوم ہی نہیں ہوتا کہ ان کا حق کیا ہے۔ تیسرے، ہم تاخیر پر آجر کو درپیش جرمانے بتاتے ہیں، بشمول اجرت کے تحفظ کے نظام کے فلگز، حکومتی خدمات کی بندش اور مالی جرمانے۔ آخر میں، آپ کو دوستانہ سیٹلمنٹ کی درخواست سے لے کر لیبر کورٹ تک مکمل اقدامات ملتے ہیں۔ اسے کسی بھی چیز پر دستخط کرنے سے پہلے پڑھ لیں، اور آپ علم کی پوزیشن سے گفت و شنید کریں گے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">آپ کو کتنا ملنا ہے معلوم نہیں؟</strong> اپنے آخری دن سے پہلے اپنے کل واجبات کا تخمینہ لگانے کے لیے ہماری <a href="/final-settlement-calculator" class="text-desert-primary underline">مفت فائنل سیٹلمنٹ کیلکولیٹر</a> استعمال کریں — اس میں ایک منٹ سے بھی کم وقت لگتا ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>قانونی ڈیڈلائن: سعودی لیبر قانون کی دفعہ 87</h2>
+        <p>
+          دفعہ 87 سب سے اہم اصول ہے جو آپ کو سعودی عرب میں اپنی ملازمت کے خاتمے پر جاننے کی ضرورت ہے۔ یہ ایک واضح، ناقابلِ گفت و شنید ادائیگی کی ڈیڈلائن مقرر کرتی ہے جو مملکت کے ہر پرائیویٹ سیکٹر آجر پر لاگو ہوتی ہے۔
+        </p>
+        <p class="mt-4">
+          قانون کہتا ہے کہ ملازمت کے معاہدے کے خاتمے پر آجر کو کارکن کو تمام واجب الادا رقم ادا کرنی ہوگی — بشمول خدمات کے اختتامی فوائد، کوئی بھی غیر ادا شدہ تنخواہ اور دیگر حقوق — <strong class="text-desert-primary">خاتمے کی تاریخ سے زیادہ سے زیادہ پانچ دن کے اندر</strong>۔ سادہ الفاظ میں: آپ کا معاہدہ ختم ہوتے ہی آجر کے پاس آپ کا پورا حق ادا کرنے کے پانچ دن ہیں۔
+        </p>
+        <p class="mt-4">
+          یہاں بتایا گیا ہے کہ 5 دن کا اصول تین سب سے عام صورتوں میں کیسے لاگو ہوتا ہے:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">آجر کی طرف سے برطرفی</p>
+            <p class="text-gray-400 text-sm">گھڑی برطرفی کی تاریخ سے شروع ہوتی ہے۔ آجر کے پاس اس تاریخ سے آپ کی پوری سیٹلمنٹ ادا کرنے کے 5 دن ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ملازم کی طرف سے استعفیٰ</p>
+            <p class="text-gray-400 text-sm">گھڑی اس وقت شروع ہوتی ہے جب آپ کا نوٹس پیریڈ مکمل ہو اور آپ کا آخری کام کا دن گزر جائے۔ اس کے بعد آجر کے پاس آپ کو مکمل ادا کرنے کے 5 دن ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">معاہدے کا خاتمہ</p>
+            <p class="text-gray-400 text-sm">گھڑی معاہدے کی سرکاری ختم ہونے کی تاریخ سے شروع ہوتی ہے۔ آپ کے واجبات اس تاریخ کے 5 دن کے اندر ادا ہونے چاہئیں۔</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          ایک اہم تفصیل: دفعہ 87 اس بات میں فرق نہیں کرتی کہ معاہدہ کس نے ختم کیا۔ چاہے آپ نے استعفیٰ دیا، آپ کو برطرف کیا گیا، یا آپ ایک محدود مدت کے معاہدے کے اختتام پر پہنچے، وہی 5 دن کی ادائیگی کی مدت لاگو ہوتی ہے۔ آجر کے لیے &quot;HR مصروف ہے&quot; یا &quot;فنانس ٹیم چھٹی پر ہے&quot; کے بہانے سے ادائیگی میں تاخیر کی کوئی قانونی بنیاد نہیں ہے — یہ بہانے ہیں، قانونی دفاع نہیں۔
+        </p>
+        <p class="mt-4">
+          آپ کے آخری ہفتے کے لیے ایک عملی نوٹ: 5 دن کی مدت اس دن سے گنی جاتی ہے جب آپ کی ملازمت حقیقت میں ختم ہوئی، اس دن سے نہیں جب آپ نے پوچھنا یاد کیا۔ اگر آپ کا معاہدہ ہفتے کو ختم ہوا، تو ادائیگی اگلے جمعرات سے پہلے واجب ہے۔ اگر آپ نے استعفیٰ دیا اور آپ کا نوٹس 31 تاریخ کو ختم ہوا، تو آجر اگلے مہینے کی 5 تاریخ تک آپ کو ادا کرنے کا پابند ہے۔ جیسے ہی آپ کے آخری دن کی تصدیق ہو اس تاریخ کو نشان زد کر لیں — یہ آپ کا حوالہ بنے گی اگر آجر دیر کرے۔
+        </p>
+        <p class="mt-4">
+          آپ کو یہ بھی جاننا چاہیے کہ قانون کس چیز کا تقاضا نہیں کرتا: آجر ادائیگی کو کمپنی کے لیپ ٹاپ واپس کرنے، حوالے کرنے کے عمل کی تکمیل، یا کلیئرنس فارم پر دستخط پر مشروط نہیں کر سکتا۔ یہ کمپنی کے اندرونی معاملات ہیں۔ دفعہ 87 کی قانونی ڈیڈلائن آزادانہ طور پر چلتی ہے۔ کچھ آجر &quot;کلیئرنس زیر التوا&quot; کو تاخیر کا حربہ بناتے ہیں؛ حوالے کرنے میں تاخیر آپ کی 5 دن کی ادائیگی کی گھڑی کو قانونی طور پر نہیں روکتی۔
+        </p>
+        <p class="mt-4">
+          اس ٹائم لائن کو وزارتِ انسانی وسائل اور سماجی ترقی (MHRSD) سختی سے نافذ کرتی ہے۔ وزارت اجرت کی ادائیگیوں کی الیکٹرانک نگرانی کرتی ہے، شکایات کا سراغ لگاتی ہے، اور اسے اختیار ہے کہ ڈیڈلائن کی خلاف ورزی کرنے والی کمپنیوں پر جرمانے عائد کرے۔ دیر سے ادائیگی کرنے والا آجر جرمانوں، خدمات کی بندش اور اپنی تعمیل کی درجہ بندی کو خطرے میں ڈالتا ہے — نہ صرف آپ کی خیر سگالی۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آپ کی &quot;فائنل سیٹلمنٹ&quot; میں کیا شامل ہے؟</h2>
+        <p>
+          بہت سے کارکن سمجھتے ہیں کہ ان کی فائنل سیٹلمنٹ گرچوٹی کے علاوہ کچھ نہیں۔ یہ غلطی ہر سال لوگوں کو ہزاروں ریال کھو دیتی ہے۔ آپ کی فائنل سیٹلمنٹ کئی الگ الگ حقوق کا ایک پیکج ہے، اور ہر ایک کو وہی 5 دن کی مدت میں ادا کیا جانا چاہیے۔ یہ مکمل فہرست ہے۔
+        </p>
+        <h3>خدمات کا اختتامی فائدہ (گرچوٹی)</h3>
+        <p>
+          EOSB آپ کی سیٹلمنٹ کا مرکز ہے، جس کا حساب سعودی لیبر قانون کی دفعہ 84 اور 85 کے تحت کیا جاتا ہے۔ پہلے پانچ سالوں کے لیے، آپ ہر سال کے لیے آدھے مہینے کی بنیادی تنخواہ کے حقدار ہیں۔ چھٹے سال سے یہ شرح بڑھ کر ہر سال ایک پوری ماہ کی بنیادی تنخواہ ہو جاتی ہے۔ آٹھ سال کے بعد 6,000 ریال بنیادی تنخواہ کمانے والے کارکن کے لیے، یہ تقریباً 33,000 ریال بنتا ہے۔ صحیح رقم آپ کی بنیادی تنخواہ، آپ کی خدمات کے سالوں اور اس پر منحصر ہے کہ آپ نے استعفیٰ دیا یا برطرف ہوئے۔
+        </p>
+        <h3>غیر ادا شدہ تنخواہ</h3>
+        <p>
+          کوئی بھی تنخواہ جو آپ کو واجب ہے سیٹلمنٹ کا حصہ ہے۔ اس میں آخری جزوی مہینے کے لیے آپ کی تناسب کے مطابق تنخواہ شامل ہے — وہ دن جن پر آپ نے کام کیا لیکن ادائیگی نہیں ہوئی۔ اگر آپ کا آخری کام کا دن 15 تاریخ کو آیا، تو آپ اس مدت کے لیے آدھے مہینے کی تنخواہ کے حقدار ہیں، علاوہ اگلے سائیکل میں کام کیے گئے دنوں کے۔
+        </p>
+        <h3>متراکم لیکن غیر استعمال شدہ سالانہ چھٹی</h3>
+        <p>
+          سعودی لیبر قانون کے تحت، آپ ان سالانہ چھٹی کے دنوں کی نقد ادائیگی کے حقدار ہیں جو آپ نے روانگی سے پہلے جمع کیے لیکن نہیں لیے۔ اس کا حساب بنیادی تنخواہ پر ہر غیر استعمال شدہ چھٹی کے دن کے ایک دن کی تنخواہ کی شرح سے ہوتا ہے۔ اگر آپ کے پاس 15 غیر استعمال شدہ دن اور 6,000 ریال ماہانہ بنیادی تنخواہ ہے، تو یہ تقریباً 3,000 ریال ہے جو آپ مانگ سکتے ہیں۔ بہت سے آجر اسے پہلی پیشکش سے خارج کر دیتے ہیں۔
+        </p>
+        <h3>وطن واپسی کا ہوائی ٹکٹ</h3>
+        <p>
+          آجر اپنی ملازمت کے اختتام پر آپ کے آبائی ملک کا واپسی کا ہوائی ٹکٹ فراہم کرنے کا ذمہ دار ہے۔ اس ذمہ داری کے دو اہم استثناء ہیں: جب آپ براہ راست کسی نئے مقامی آجر کے پاس منتقل ہوتے ہیں (جو عام طور پر لاگت سنبھالتا ہے)، یا جب آپ کا معاہدہ صراحتاً کوئی مختلف انتظام کہتا ہے۔ اگر کوئی لاگو نہ ہو تو ٹکٹ آپ کی سیٹلمنٹ کا حصہ ہے۔
+        </p>
+        <h3>دیگر معاہداتی فوائد</h3>
+        <p>
+          اوپر کی چار اشیاء کے علاوہ، اپنے معاہدے کو کسی بھی مخصوص وعدے کے لیے دیکھیں۔ زیر التوا سیلز کمیشن، جمع شدہ اوور ٹائم ادائیگیاں اور معاہداتی الاؤنسز سب آپ کے آخری واجبات کا حصہ ہیں۔ تحریری تفصیل طلب کریں تاکہ کوئی چیز خاموشی سے خارج نہ ہو۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">فوری جانچ:</strong> اپنی غیر ادا شدہ تنخواہ، گرچوٹی، چھٹی کی ادائیگی اور ٹکٹ کی قیمت جمع کریں، پھر کل کا آجر کی پیشکش سے موازنہ کریں۔ اگر وہ نہ ملتے ہوں تو کچھ بھی قبول کرنے سے پہلے تحریری طور پر لائن بہ لائن حساب طلب کریں۔ ایسی سیٹلمنٹ جو چھٹی کی ادائیگی یا جزوی مہینے کی تنخواہ چھوڑ دیتی ہے، معاہدے کے اختتام پر ایکسپیٹس کے پیسے کھونے کا سب سے عام طریقہ ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تاخیر کے جرمانے: اگر آجر دیر کرے تو کیا ہوتا ہے؟</h2>
+        <p>
+          کارکنوں کا سب سے عام سوال ہے: اگر آجر ادائیگی سے انکار کرے تو حکومت واقعی کیا کر سکتی ہے؟ جواب یہ ہے کہ داؤ بہت اونچا ہے — اس سے کہیں زیادہ جو زیادہ تر کارکن سمجھتے ہیں۔ نظام آجروں کو عدالت تک پہنچنے سے پہلے تعمیل کی طرف دھکیلنے کے لیے بنایا گیا ہے۔
+        </p>
+        <h3>اجرت کے تحفظ کا نظام (WPS) کے فلگز</h3>
+        <p>
+          سعودی عرب کا اجرت کے تحفظ کا نظام (WPS) پرائیویٹ سیکٹر میں ہر تنخواہ کی منتقلی کی خودکار نگرانی کرتا ہے۔ جب فائنل سیٹلمنٹ وقت پر ادا نہیں ہوتی، تو نظام کمپنی کو غیر تعمیل شدہ نشان زد کرتا ہے۔ یہ نشان وزارت کے پاس آجر کے سرکاری ریکارڈ میں ظاہر ہوتا ہے اور ریگولیٹرز کو دکھائی دیتا ہے۔ بار بار یا سنگین خلاف ورزیاں کمپنی کے رسک پروفائل کو بڑھا سکتی ہیں اور پے رول آڈٹ کو جنم دے سکتی ہیں۔
+        </p>
+        <h3>حکومتی خدمات کی بندش</h3>
+        <p>
+          غیر ادا شدہ واجبات کا سب سے تیز عملی نتیجہ حکومتی خدمات کا منجمد ہونا ہے۔ حل نہ ہونے والی اجرت کی خلاف ورزیوں والے آجر کو مقیم اور ابشر خدمات استعمال کرنے سے روکا جا سکتا ہے — یعنی وہ نئے ویزے جاری نہیں کر سکتے، اقامات کی تجدید نہیں کر سکتے، خارجی اجازت نامے پر کارروائی نہیں کر سکتے، یا معمول کے پورٹلز کے ذریعے اپنی افرادی قوت کا انتظام نہیں کر سکتے۔ ایسی کمپنی کے لیے جو غیر ملکی افرادی قوت پر منحصر ہے، خدمات کی بندش ایک سنگین آپریشنل بحران ہے۔
+        </p>
+        <h3>مالی جرمانے</h3>
+        <p>
+          فلگز اور بندش کے علاوہ، MHRSD دفعہ 87 کی خلاف ورزی کرنے والے آجروں پر انتظامی جرمانے عائد کر سکتی ہے۔ وزارت نے ان جرمانوں کے حجم اور ان کے نفاذ کی مستقل مزاجی دونوں میں مسلسل اضافہ کیا ہے۔ آجر کے لیے، جرمانہ ادا کرنا اور آپ کی سیٹلمنٹ ادا کرنا وقت پر ادائیگی سے زیادہ مہنگا ہے — اور یہی اس کا مقصد ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">بڑی تصویر:</strong> سعودی نظام فیصلہ کن طور پر کارکن کے تحفظ کی طرف بڑھ چکا ہے۔ اجرت کا تحفظ، ڈیجیٹل شکایت پلیٹ فارمز اور خودکار نگرانی کا مطلب ہے کہ غیر ادا شدہ سیٹلمنٹ اب آپ اور آپ کے مینیجر کے درمیان نجی معاملہ نہیں رہی۔ خلاف ورزی درج ہوتے ہی یہ آجر کی بھرتی، ویزوں کی تجدید اور کام کرنے کی صلاحیت کو متاثر کرتی ہے۔ یہی وجہ ہے کہ سرکاری چینلز کے ذریعے کام کرنا ادائیگی حاصل کرنے کا تیز ترین راستہ ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>قدم بہ قدم: تاخیر پر اپنی EOSB کا دعویٰ کیسے کریں</h2>
+        <p>
+          اگر آپ کا آجر ٹال مٹول کر رہا ہے تو اس ترتیب پر عمل کریں۔ یہ ہر مرحلے پر آپ کی قانونی پوزیشن کو برقرار رکھتے ہوئے آہستہ آہستہ دباؤ بڑھاتا ہے۔ مراحل کو نہ چھوڑیں، اور جاتے ہوئے ہر چیز کو تحریری طور پر دستاویز کریں۔
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 1: تحریری درخواست بھیجیں</p>
+            <p class="text-gray-400 text-sm">HR اور فنانس کو شائستگی سے لیکن پختگی سے ای میل کریں۔ اپنے معاہدے کے ختم ہونے کی تاریخ بتائیں، ان رقم کی فہرست دیں جو آپ واجب سمجھتے ہیں (تنخواہ، گرچوٹی، چھٹی کی ادائیگی، ٹکٹ)، اور تحریری سیٹلمنٹ تفصیل اور مصدقہ ادائیگی کی تاریخ طلب کریں۔ واٹس ایپ پیغامات پر انحصار نہ کریں — تاریخ والی ای میل ثبوت ہے۔ ہر جواب محفوظ کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 2: دوستانہ سیٹلمنٹ (توافق) پلیٹ فارم استعمال کریں</p>
+            <p class="text-gray-400 text-sm">اگر ایک ہفتے کے اندر کوئی تسلی بخش جواب نہ ملے تو MHRSD کے دوستانہ سیٹلمنٹ پورٹل (tarhal.mhrsd.gov.sa) کے ذریعے شکایت درج کروائیں۔ یہ مفت اور آن لائن ہے اور اجرت کے تنازعات کو سرکاری مقدمات بننے سے پہلے حل کرنے کے لیے بنایا گیا ہے۔ بہت سے معاملات میں یہ ایک قدم کافی ہوتا ہے — جو آجر افراد کو نظر انداز کرتے ہیں وہ سرکاری انکوائری کا فوری جواب دیتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 3: MHRSD لیبر آفس میں شکایت</p>
+            <p class="text-gray-400 text-sm">اگر توافق ناکام ہو تو اپنے مقامی MHRSD لیبر آفس میں رسمی شکایت درج کروائیں۔ اپنا معاہدہ، اقامہ، تنخواہ کی تاریخ دکھانے والے بینک اسٹیٹمنٹس اور آجر کے ساتھ تمام تحریری مواصلت کی کاپیاں لائیں۔ دفتر غیر تعمیل شدہ آجر کے خلاف سرکاری فیصلہ جاری کر سکتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 4: مقدمہ لیبر کورٹ لے جائیں</p>
+            <p class="text-gray-400 text-sm">آخری حربے کے طور پر، خصوصی لیبر کورٹ تک معاملہ لے جائیں، جو پابند فیصلہ جاری کر سکتی ہے اور ادائیگی کا نفاذ کر سکتی ہے۔ نظام کارکنوں کے لیے قابل رسائی ہے، سادہ طریقہ کار اور چھوٹے دعووں کے لیے وکیل کی ضرورت کے بغیر۔ مراحل 1-3 مکمل کرنے کے بعد، آپ دستاویزی ثبوت کے ساتھ داخل ہوتے ہیں جو آپ کا مقدمہ مضبوط کرتا ہے۔</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">وقت پر ایک نوٹ:</strong> سرکاری چینلز طاقتور ہیں لیکن فوری نہیں۔ دوستانہ سیٹلمنٹ پلیٹ فارم اکثر دنوں یا چند ہفتوں میں نتیجہ دیتا ہے؛ مکمل لیبر کورٹ کیس میں زیادہ وقت لگتا ہے۔ ہر رسید، پے سلپ اور پیغام محفوظ رکھیں، اور تھکن کی وجہ سے چھوٹی رقم قبول نہ کریں۔ آپ کی دستاویزات ہی مضبوط مقدمے کو ادا شدہ سیٹلمنٹ میں بدلتی ہیں۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ایکسپیٹس کے لیے خصوصی تحفظات</h2>
+        <p>
+          آپ کی قومیت تشکیل دے سکتی ہے کہ آپ تاخیر شدہ سیٹلمنٹ سے کیسے نمٹتے ہیں۔ مختلف کارکن کمیونٹیز کو مختلف دباؤ کے نکات کا سامنا کرنا پڑتا ہے، اور انہیں پہلے جاننا آپ کو کنٹرول میں رکھتا ہے۔
+        </p>
+        <h3>جنوبی ایشیائی ایکسپیٹس (پاکستان / بھارت / بنگلہ دیش) کے لیے</h3>
+        <p>
+          ایک عام حربہ یہ ہے کہ آپ کو EOSB کے معافی نامے پر دستخط کرنے پر مجبور کرنے کے لیے آخری خارج ویزا (خروج نہائی) روک لیا جائے۔ یہ واضح طور پر جان لیں: <strong class="text-desert-primary">آجر قانونی طور پر آپ کے آخری خروج کو سودے بازی کے طور پر نہیں روک سکتا۔</strong> اس دباؤ میں آپ جس معافی نامے پر دستخط کرتے ہیں وہ چیلنج کے لیے کمزور ہے۔ سعودی لیبر قانون کی دفعہ 8 کسی بھی شرط یا معافی نامے کو جو قانون کے خلاف ہو باطل اور کالعدم قرار دیتی ہے۔ خروج ویزا کی گھبراہٹ کو کبھی بھی اپنے حق کی رقم سے دستبردار ہونے پر مجبور نہ ہونے دیں۔
+        </p>
+        <h3>فلپائنی ایکسپیٹس کے لیے</h3>
+        <p>
+          اگر آپ فلپائنی کارکن ہیں تو سعودی عرب میں فلپائنی اوورسیز لیبر آفس (POLO) اہم کردار ادا کرتا ہے۔ کسی بھی فائنل سیٹلمنٹ دستاویز پر دستخط نہ کریں جب تک POLO اس کا جائزہ اور تصدیق نہ کرے۔ دفتر اس لیے موجود ہے کہ بیرون ملک فلپائنی کارکن ایسے حقوق سے دستبردار نہ ہوں جن کے وہ قانونی طور پر حقدار ہیں۔
+        </p>
+        <h3>تمام ایکسپیٹس کے لیے</h3>
+        <p>
+          جانے سے پہلے، لیبر قانون کی دفعہ 64 کے تحت اپنی خدمات کے اختتام کا سرٹیفکیٹ ڈاؤن لوڈ کریں۔ یہ دستاویز آپ کی خدمات کی مدت کی تصدیق کرتی ہے اور مستقبل کے آجر اسے حوالہ کے طور پر مانگتے ہیں۔ اسے اپنے خروج سے پہلے حاصل کریں — اپنی اقامت منسوخ ہونے کے بعد بیرون ملک سے اس کا پیچھا کرنے سے کہیں آسان ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">سعودی عرب میں کمپنی کو EOSB ادا کرنے کے کتنے دن ملتے ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">سعودی لیبر قانون کی دفعہ 87 کے تحت، آجر کو تمام خدمات کے اختتامی فوائد اور آخری واجبات معاہدے کے خاتمے یا نوٹس پیریڈ کی تکمیل کی تاریخ سے زیادہ سے زیادہ 5 دن کے اندر ادا کرنے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">KSA میں EOSB کی دیر سے ادائیگی کا کیا جرمانہ ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">تاخیر کرنے والے آجروں کو کئی نتائج کا سامنا کرنا پڑتا ہے: اجرت کے تحفظ کے نظام کے فلگز، مقیم اور ابشر جیسی حکومتی خدمات کی بندش، MHRSD کے عائد کردہ انتظامی جرمانے اور ممکنہ طور پر پابند لیبر کورٹ فیصلہ۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا میرا آجر میرا آخری خارج ویزا روک سکتا ہے اگر مجھے میری EOSB نہ ملی ہو؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ آخری خارج ویزا روکنا سیٹلمنٹ پر مجبور کرنے کا کوئی قانونی ذریعہ نہیں۔ اس دباؤ میں آپ جس معافی نامے پر دستخط کرتے ہیں وہ قانون کی دفعہ 8 کے تحت باطل ہے، لہٰذا آپ بعد میں بھی اپنا مکمل حق مانگ سکتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">سعودی عرب میں غیر ادا شدہ EOSB کے لیے شکایت کیسے کروائیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">اپنے آجر کو تحریری درخواست سے شروع کریں، پھر ایک ہفتے کے بعد MHRSD دوستانہ سیٹلمنٹ پلیٹ فارم (tarhal.mhrsd.gov.sa) پر جائیں۔ اگر یہ ناکام ہو تو مقامی MHRSD لیبر آفس میں رسمی شکایت، پھر ضرورت پڑنے پر لیبر کورٹ میں مقدمہ کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا متراکم چھٹی کی ادائیگی KSA میں فائنل سیٹلمنٹ میں شامل ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">ہاں۔ متراکم لیکن غیر استعمال شدہ سالانہ چھٹی کو بنیادی تنخواہ پر حساب کردہ نقد ادائیگی کے طور پر ادا کیا جانا چاہیے، اور یہ 5 دن کے اصول کے تحت آپ کی فائنل سیٹلمنٹ کا حصہ ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا میں تیز خروج کے لیے اپنی EOSB چھوڑنے کے معافی نامے پر دستخط کر سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ سعودی لیبر قانون کی دفعہ 8 کسی بھی شرط یا معافی نامے کو جو قانون سے متصادم ہو باطل قرار دیتی ہے، لہٰذا آپ زبردستی کروائے گئے معافی نامے کو چیلنج کر سکتے ہیں اور پھر بھی اپنا مکمل قانونی حق مانگ سکتے ہیں۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>نتیجہ: اپنے حقوق جانیں، سب کچھ دستاویز کریں، اور دباؤ میں دستخط نہ کریں</h2>
+        <p>
+          سب سے اہم نتیجہ سادہ ہے: آپ کی EOSB ادائیگی آپ کے آجر کا احسان نہیں ہے — یہ ایک قانونی حق ہے جس کی سخت ڈیڈلائن ہے، اور سعودی نظام اسے نافذ کرنے کے لیے بنایا گیا ہے۔ اپنے آخری دن سے پہلے اپنے حقوق جانیں، ہر درخواست اور جواب کے تحریری ریکارڈ رکھیں، اور کبھی بھی خالی دستاویزات یا دباؤ میں معافی ناموں پر دستخط نہ کریں۔ جو کارکن اپنی مکمل سیٹلمنٹ وصول کرتے ہیں وہی ہیں جو 5 دن کا اصول سمجھتے ہیں، سب کچھ دستاویز کرتے ہیں، اور ادائیگی رکنے پر طریقہ کار کے مطابق کارروائی کرتے ہیں۔
+        </p>
+        <p class="mt-4">
+          اس عمل میں سب سے طاقتور ذریعہ اس صحیح رقم کا علم ہے جو آپ کو ملنی چاہیے۔ جب آجر آپ کو سیٹلمنٹ کی رقم دے، تو آپ کو فوراً معلوم ہونا چاہیے کہ یہ درست ہے یا نہیں۔
+        </p>
+        <p class="mt-4">
+          اپنی محنت کی کمائی کو قسمت پر مت چھوڑیں۔ اسے قبول کرنے سے پہلے آجر کی پیشکش کی تصدیق کے لیے <a href="/final-settlement-calculator" class="text-desert-primary underline">SaudiToolHub فائنل سیٹلمنٹ کیلکولیٹر</a> استعمال کریں۔
+        </p>
+        <p class="mt-4">
+          استعفیٰ کے اپنے حقوق سمجھنا چاہتے ہیں؟ ہماری گائیڈ <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">سعودی استعفیٰ کے EOSB قواعد: دفعہ 84 بمقابلہ 85</a> بھی پڑھیں تاکہ دیکھ سکیں کہ معاہدہ کس نے ختم کیا اس پر منحصر نظام آپ کی رقم کیسے بدلتا ہے۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنی صحیح EOSB کا حساب لگائیں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — بس اپنی بنیادی تنخواہ، خدمات کے سال اور جانے کی وجہ درج کریں</p>
+          <a href="/final-settlement-calculator" class="text-desert-primary underline">مفت فائنل سیٹلمنٹ کیلکولیٹر استعمال کریں</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>ڈس کلیمر:</strong> یہ گائیڈ سعودی لیبر قانون (خاص طور پر دفعہ 87) کی بنیاد پر معلوماتی مقاصد کے لیے ہے۔ ضابطے اور طریقہ کار تبدیل ہو سکتے ہیں۔ سرکاری تنازعات کے لیے ہمیشہ وزارتِ انسانی وسائل اور سماجی ترقی (MHRSD) سے رجوع کریں یا لائسنس یافتہ قانونی پیشہ ور سے مشورہ کریں۔
+        </p>
+      </div>
+    `,
+      tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay para sa Expat Workers</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Timeline sa Pagbayad ng EOSB at Mga Parusa sa Pagkaantala sa Saudi Arabia 2026</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Tapos na ang kontrata mo. Nagsimula na ang 5-araw na orasan. Narito kung kailan ka eksaktong dapat bayaran ng iyong employer, ano ang mangyayari kapag naantala, at ang tamang hakbang para mapilitang magbayad.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Panimula: Ang Stress ng Paghihintay</h2>
+        <p>
+          Ang paghihintay sa iyong final settlement ay isa sa pinaka-stressful na panahon sa buhay ng sinumang expat sa Saudi Arabia. Tumigil na ang sahod mo, tumatakbo ang orasan ng visa, at hindi humihinto ang iyong mga pinansyal na obligasyon sa Pilipinas habang &quot;inaasikaso ng dating employer mo ang mga papeles.&quot; Nakakapagod ang kawalan ng katiyakan, at maraming manggagawa ang nakakaramdam ng kawalan ng kapangyarihan sa pagitan ng huling araw ng trabaho at pagdating ng pera sa account. Pero hindi ka nawalan.
+        </p>
+        <p class="mt-4">
+          Nasa panig mo ang batas, at gumagana ito sa mahigpit na timeline. Ang direktang sagot, up front: <strong class="text-desert-primary">Sa ilalim ng Article 87 ng Saudi Labor Law, dapat bayaran ng employer ang lahat ng end-of-service benefits (EOSB) at huling mga dapat bayaran sa loob ng maximum na 5 araw mula sa petsa ng pagwawakas ng kontrata o pagtatapos ng notice period.</strong> Iyan ay hindi gabay, hindi best practice, hindi suhestiyon — ito ay isang itinakda ng batas na deadline na ipinapatupad ng Ministry of Human Resources and Social Development (MHRSD).
+        </p>
+        <p class="mt-4">
+          Narito ang saklaw ng gabay na ito. Una, malalaman mo ang eksaktong 5-araw na patakaran at kung paano ito nalalapat sa termination, resignation, at pagtatapos ng kontrata. Pangalawa, makikita mo ang kumpletong listahan ng dapat isama sa iyong final settlement — dahil maraming manggagawa ang nawawalan ng libu-libong riyal dahil lang hindi nila alam ang kanilang mga karapatan. Pangatlo, ibibigay namin ang mga parusang haharapin ng employer sa pagkaantala, kabilang ang wage protection flags, pagharang sa government services, at mga multa. Panghuli, makukuha mo ang sunud-sunod na proseso mula sa friendly settlement request hanggang sa labor court. Basahin ito bago ka pumirma ng kahit ano, at mag-negotiate ka mula sa posisyon ng kaalaman.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Hindi sigurado kung magkano ang utang sa iyo?</strong> Gamitin ang aming <a href="/final-settlement-calculator" class="text-desert-primary underline">Libreng Final Settlement Calculator</a> para matantya ang kabuuang dapat sa iyo bago ang iyong huling araw — wala pang isang minuto ang aabutin.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Legal na Deadline: Article 87 ng Saudi Labor Law</h2>
+        <p>
+          Ang Article 87 ang pinakamahalagang patakaran na kailangan mong malaman kapag nagwakas ang iyong trabaho sa Saudi Arabia. Nagtatakda ito ng malinaw at hindi mapag-usapan na deadline na nalalapat sa bawat pribadong sektor na employer sa Kaharian.
+        </p>
+        <p class="mt-4">
+          Ayon sa batas, sa pagtatapos ng employment contract, dapat bayaran ng employer ang manggagawa ng lahat ng dapat sa kanya — kasama ang end-of-service benefit, anumang hindi bayad na sahod, at iba pang entitlements — <strong class="text-desert-primary">sa loob ng maximum na limang araw mula sa petsa ng pagwawakas</strong>. Sa simpleng salita: kapag tapos na ang kontrata mo, may limang araw ang employer para bayaran ka.
+        </p>
+        <p class="mt-4">
+          Narito kung paano nalalapat ang 5-araw na patakaran sa tatlong pinakakaraniwang senaryo ng pag-alis:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Termination ng Employer</p>
+            <p class="text-gray-400 text-sm">Nagsisimula ang orasan sa petsa ng pagwawakas. May 5 araw ang employer mula sa araw na iyon para bayaran ang buong settlement mo.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Resignation ng Manggagawa</p>
+            <p class="text-gray-400 text-sm">Nagsisimula ang orasan kapag kumpleto na ang notice period at lumipas na ang opisyal mong huling araw ng trabaho. May 5 araw ang employer para bayaran ka nang buo.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Pagtatapos ng Kontrata</p>
+            <p class="text-gray-400 text-sm">Nagsisimula ang orasan sa opisyal na petsa ng pagtatapos ng kontrata. Dapat bayaran ang mga dapat sa iyo sa loob ng 5 araw pagkatapos ng petsang iyon.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          Isang mahalagang detalye: hindi pinagkaiba ng Article 87 kung sino ang nagwakas sa kontrata. Kung nag-resign ka, na-terminate ka, o umabot ka lang sa katapusan ng fixed-term contract, pareho ang 5-araw na window ng pagbabayad. Walang legal na batayan para maantala ng employer ang pagbabayad dahil &quot;busy ang HR&quot; o &quot;naka-leave ang finance team&quot; — iyan ay mga dahilan, hindi legal na depensa.
+        </p>
+        <p class="mt-4">
+          Isang praktikal na tala para sa iyong huling linggo: ang 5-araw na window ay binibilang mula sa araw na talagang nagwakas ang iyong trabaho, hindi mula sa araw na naalala mong magtanong. Kung nagtapos ang kontrata mo ng Sabado, dapat ang bayad ay hindi lalampas sa susunod na Huwebes. Kung nag-resign ka at natapos ang notice mo sa ika-31, dapat kang bayaran hanggang ika-5 ng susunod na buwan. Markahan ang petsang iyon sa sandaling makumpirma ang iyong huling araw — magiging reference mo ito kung magpapa-antala ang employer.
+        </p>
+        <p class="mt-4">
+          Dapat mo ring malaman ang hindi kailangan ng batas: hindi maaaring ikondisyon ng employer ang pagbabayad sa pagbabalik ng company laptop, pagtapos ng handover, o pagpirma ng settlement clearance form. Iyan ay mga panloob na usapin ng kompanya. Tumakbo nang hiwalay ang statutory deadline sa Article 87. May mga employer na ginagamit ang &quot;clearance pending&quot; bilang taktika sa pagkaantala; ang pagkaantala ng handover ay hindi legal na naghihinto sa iyong 5-araw na orasan ng pagbabayad.
+        </p>
+        <p class="mt-4">
+          Mahigpit na ipinapatupad ng Ministry of Human Resources and Social Development (MHRSD) ang timeline na ito. Minomonitor ng Ministry ang mga sahod nang elektroniko, sinusubaybayan ang mga reklamo, at may awtoridad na magpataw ng mga parusa sa mga kompanyang lumalabag sa deadline. Ang employer na nagbabayad nang huli ay inilalagay sa panganib ang mga multa, service blocks, at ang kanilang compliance rating — hindi lang ang iyong mabuting kalooban.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang Kasama sa Iyong &quot;Final Settlement&quot;?</h2>
+        <p>
+          Maraming manggagawa ang naniniwala na ang final settlement nila ay ang gratuity lang. Ang pagkakamaling iyon ang dahilan kung bakit nawawalan ng libu-libong riyal ang mga tao bawat taon. Ang iyong final settlement ay isang package ng ilang magkakahiwalay na entitlements, at dapat bayaran ang bawat isa sa loob ng parehong 5-araw na window. Narito ang kumpletong listahan.
+        </p>
+        <h3>End of Service Benefit (Gratuity)</h3>
+        <p>
+          Ang EOSB ang puso ng iyong settlement, kinukwenta ayon sa Articles 84 at 85 ng Saudi Labor Law. Sa unang limang taon ng serbisyo, may karapatan kang kalahating buwang basic salary para sa bawat taon ng trabaho. Mula sa ikaanim na taon pataas, tumataas ang rate sa isang buong buwang basic salary kada taon. Para sa manggagawang may 6,000 SAR basic salary pagkatapos ng walong taon, humigit-kumulang 33,000 SAR iyan. Depende ang eksaktong halaga sa iyong basic salary, taon ng serbisyo, at kung nag-resign ka o na-terminate.
+        </p>
+        <h3>Hindi Bayad na Sahod</h3>
+        <p>
+          Anumang sahod na dapat sa iyo ay bahagi ng settlement. Kasama rito ang iyong pro-rated na sahod para sa huling bahaging buwan — ang mga araw na nagtrabaho ka pero hindi ka pa nabayaran. Kung ang huling araw ng trabaho mo ay ika-15, may karapatan ka sa kalahating buwang sahod para sa panahong iyon, plus anumang araw na nagtrabaho ka sa susunod na cycle.
+        </p>
+        <h3>Naipon ngunit Hindi Nagamit na Annual Leave</h3>
+        <p>
+          Sa ilalim ng Saudi Labor Law, may karapatan ka sa katumbas na pera para sa mga araw ng annual leave na naipon mo ngunit hindi mo nagamit bago ka umalis. Kinukwenta ito sa basic salary sa rate ng isang araw na sahod bawat hindi nagamit na araw ng leave. Kung may 15 kang hindi nagamit na araw at 6,000 SAR buwanang basic salary, humigit-kumulang 3,000 SAR iyan na maaari mong makuha. Maraming employer ang hindi isinasama ito sa unang offer.
+        </p>
+        <h3>Repatriation Air Ticket</h3>
+        <p>
+          Responsibilidad ng employer na magbigay ng return air ticket papunta sa iyong sariling bansa sa pagtatapos ng iyong trabaho. May dalawang pangunahing exemption ang obligasyong ito: kapag direktang lumipat ka sa bagong lokal na employer (na karaniwang sumasagot sa gastos), o kapag malinaw na naglalaman ang kontrata mo ng ibang arrangement. Kung wala sa dalawa ang nalalapat, bahagi ng settlement mo ang ticket.
+        </p>
+        <h3>Iba Pang Contractual Benefits</h3>
+        <p>
+          Higit sa apat na item sa itaas, suriin ang kontrata mo para sa anumang partikular na ipinangako sa iyo. Ang mga pending sales commission, naipon na overtime payments, at contractual allowances ay bahagi ng iyong huling mga dapat bayaran. Humingi ng nakasulat na breakdown para walang tahimik na maalis.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Mabilis na pagsusuri:</strong> pagsamahin ang iyong hindi bayad na sahod, gratuity, leave pay, at halaga ng ticket, tapos ikumpara sa offer ng employer. Kung hindi sila magkatugma, humingi ng line-by-line na kalkulasyon sa sulat bago tumanggap ng kahit ano. Ang settlement na hindi kasama ang leave pay o bahaging buwan ng sahod ang pinakakaraniwang paraan para mawalan ng pera ang mga expat sa pagtatapos ng kontrata.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Parusa sa Pagkaantala: Ano ang Mangyayari Kung Magpapa-antala ang Employer?</h2>
+        <p>
+          Ang pinakakaraniwang tanong ng mga manggagawa: ano ang talagang magagawa ng gobyerno sa employer ko kung tumanggi itong magbayad? Ang sagot: mataas ang pusta — mas mataas kaysa sa inaakala ng karamihan. Dinisenyo ang sistema para itulak ang mga employer sa compliance bago pa man umabot sa korte ang alitan.
+        </p>
+        <h3>Wage Protection System (WPS) Flags</h3>
+        <p>
+          Awtomatikong minomonitor ng Wage Protection System (WPS) ng Saudi Arabia ang bawat transfer ng sahod sa pribadong sektor. Kapag hindi nabayaran ang final settlement sa tamang oras, minamarkahan ng sistema ang kompanya bilang non-compliant. Lumalabas ang markang iyon sa opisyal na rekord ng employer sa Ministry at nananatiling nakikita ng mga regulator. Ang paulit-ulit o malubhang paglabag ay maaaring magtaas ng risk profile ng kompanya at mag-udyok ng payroll audit.
+        </p>
+        <h3>Pagharang sa Government Services</h3>
+        <p>
+          Ang pinakamatalim na praktikal na resulta ng hindi bayad na mga dapat sa iyo ay ang pag-freeze ng government services. Maaaring harangin ang employer na may hindi nalutas na wage violations sa paggamit ng Muqeem at Absher services — ibig sabihin, hindi makapag-issue ng bagong visa, makapag-renew ng Iqama, makaproseso ng exit permits, o mamahala ng workforce sa karaniwang portals. Para sa kompanyang umaasa sa foreign labor, malubhang operational crisis ang service block.
+        </p>
+        <h3>Mga Multang Pinansyal</h3>
+        <p>
+          Higit sa flags at blocks, maaaring magpataw ng administrative fines ang MHRSD sa mga employer na lumalabag sa Article 87. Patuloy na dinagdagan ng Ministry ang laki ng mga multang ito at ang pagkakapare-pareho ng pagpapatupad nito. Para sa employer, mas mahal ang pagbabayad ng multa plus ng settlement mo kaysa sa simpleng pagbabayad sa oras — at iyan mismo ang punto.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ang mas malaking larawan:</strong> tiyak na kumilos ang sistemang Saudi tungo sa proteksyon ng manggagawa. Ang wage protection, digital complaint platforms, at automated monitoring ay nangangahulugang hindi na pribadong usapin ang hindi bayad na settlement sa pagitan mo at ng iyong manager. Sa sandaling maitala ang paglabag, apektado ang kakayahan ng employer na mag-hire, mag-renew ng visa, at mag-operate. Iyan mismo ang dahilan kung bakit ang pagkilos sa pamamagitan ng mga opisyal na channel ang pinakamabilis na paraan para mabayaran.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hakbang-hakbang: Paano Kunin ang Iyong EOSB Kung Naantala ang Pagbabayad</h2>
+        <p>
+          Kung nagpapa-antala ang employer mo, sundan ang pagkakasunod-sunod na ito. Pinapataas nito ang presyon nang paunti-unti habang pinapanatili ang iyong legal na posisyon sa bawat yugto. Huwag laktawan ang mga hakbang, at idokumento ang lahat sa sulat habang nagpapatuloy ka.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 1: Magpadala ng Pormal na Nakasulat na Kahilingan</p>
+            <p class="text-gray-400 text-sm">Mag-email sa HR at finance nang magalang ngunit matatag. Sabihin ang petsa kung kailan nagwakas ang kontrata mo, ilista ang mga halagang sa tingin mo ay dapat (sahod, gratuity, leave pay, ticket), at humingi ng nakasulat na settlement breakdown at kumpirmadong petsa ng pagbabayad. Huwag umasa sa WhatsApp messages — ang may petsang email ay ebidensya. I-save ang bawat tugon.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 2: Gamitin ang Friendly Settlement (Tawafuq) Platform</p>
+            <p class="text-gray-400 text-sm">Kung walang kasiya-siyang tugon sa loob ng isang linggo, maghain ng reklamo sa pamamagitan ng MHRSD Friendly Settlement portal (tarhal.mhrsd.gov.sa). Libre ito, online, at dinisenyo para lutasin ang mga wage disputes bago maging pormal na kaso. Sa maraming kaso, sapat na ang hakbang na ito — ang mga employer na hindi pinapansin ang mga indibidwal ay mabilis na tumutugon sa opisyal na pagtatanong.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 3: Mag-escalate sa MHRSD Labor Office</p>
+            <p class="text-gray-400 text-sm">Kung mabigo ang Tawafuq, maghain ng pormal na reklamo sa lokal mong MHRSD labor office. Dalhin ang kontrata mo, Iqama, bank statements na nagpapakita ng kasaysayan ng sahod, at mga kopya ng lahat ng nakasulat na komunikasyon sa employer. Makapag-isyu ang opisina ng opisyal na desisyon laban sa non-compliant na employer.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 4: Dalhin ang Kaso sa Labor Court</p>
+            <p class="text-gray-400 text-sm">Bilang huling paraan, i-escalate sa specialized labor court, na may awtoridad na mag-isyu ng binding judgment at ipatupad ang pagbabayad. Dinisenyo ang sistema para ma-access ng mga manggagawa, na may simpleng pamamaraan at walang kinakailangang abogado para sa maliliit na claim. Pagkatapos ng mga hakbang 1–3, papasok ka na may nakasulat na papel trail na nagpapalakas sa kaso mo.</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tala tungkol sa timing:</strong> makapangyarihan ang mga opisyal na channel pero hindi instant. Kadalasang nagbibigay ng resulta ang friendly settlement platform sa loob ng ilang araw o ilang linggo; mas matagal ang buong labor court case. Itago ang bawat resibo, payslip, at mensahe, at huwag tumanggap ng mas maliit na halaga dahil sa pagkapagod. Ang iyong dokumentasyon ang nagiging tulay mula sa matibay na kaso tungo sa bayad na settlement.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Espesyal na Konsiderasyon para sa mga Expat</h2>
+        <p>
+          Maaaring hubugin ng iyong nasyonalidad kung paano ka dapat lumapit sa naantalang settlement. Iba-ibang pressure point ang kinakaharap ng iba&apos;t ibang komunidad ng manggagawa, at ang pag-alam sa mga ito nang maaga ay naglalagay sa iyo sa kontrol.
+        </p>
+        <h3>Para sa mga Expat mula sa South Asia (PK / IN / BD)</h3>
+        <p>
+          Isang karaniwang taktika ang pagpigil sa final exit visa (Khurooj Nihai) bilang leverage para pilitin kang pumirma ng EOSB waiver. Alamin ito nang malinaw: <strong class="text-desert-primary">hindi legal na pigilin ng employer ang iyong final exit bilang bargaining chip.</strong> Ang anumang waiver na pipirmahan mo sa ilalim ng presyong iyon ay mahina laban sa paghamon. Ayon sa Article 8 ng Saudi Labor Law, walang bisa ang anumang kondisyon o waiver na sumasalungat sa batas. Huwag mong hayaang itulak ka ng pagka-panic sa exit visa na isuko ang perang dapat sa iyo.
+        </p>
+        <h3>Para sa mga Expat na Pilipino</h3>
+        <p>
+          Kung ikaw ay Pilipinong manggagawa, mahalaga ang papel ng Philippine Overseas Labor Office (POLO) sa Saudi Arabia. Huwag pumirma ng anumang final settlement document nang hindi muna ito nire-review at na-verify ng POLO. Umiiral ang opisina para matiyak na hindi isinusuko ng overseas Filipino workers ang mga karapatang legal nilang makukuha.
+        </p>
+        <h3>Para sa Lahat ng Expat</h3>
+        <p>
+          Bago ka umalis, i-download ang iyong End of Service Certificate sa ilalim ng Article 64 ng Labor Law. Kinukumpirma ng dokumentong ito ang iyong panahon ng serbisyo at madalas na hinihingi ng mga magiging employer bilang reference. Kunin ito bago ang iyong paglabas — mas madali ito kaysa habulin ito mula sa ibang bansa pagkatapos ma-cancel ang iyong Iqama.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Ilang araw ba ang pinapayagang babayaran ng kumpanya ang EOSB sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Sa ilalim ng Article 87 ng Saudi Labor Law, dapat bayaran ng employer ang lahat ng end-of-service benefits at huling mga dapat bayaran sa loob ng maximum na 5 araw mula sa petsa ng pagwawakas ng kontrata o pagtatapos ng notice period.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Ano ang parusa sa huling pagbabayad ng EOSB sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang mga employer na naaantala ay haharap sa ilang mga kahihinatnan: Wage Protection System flags, pagharang sa government services gaya ng Muqeem at Absher, administrative fines na ipinapataw ng MHRSD, at posibleng binding judgment ng labor court.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Pwede bang iantala ng employer ko ang final exit visa ko kung hindi ko pa natatanggap ang EOSB ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Ang pagpigil sa final exit visa ay hindi legal na paraan para pilitin ang settlement. At ang anumang waiver na pipirmahan mo sa ilalim ng presyong iyon ay walang bisa sa ilalim ng Article 8 ng batas, kaya maaari mo pa ring makuha ang buong karapatan mo pagkatapos.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Paano ako maghahain ng reklamo para sa hindi bayad na EOSB sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Magsimula sa pormal na nakasulat na kahilingan sa iyong employer, pagkatapos ay mag-escalate sa MHRSD Friendly Settlement platform (tarhal.mhrsd.gov.sa) pagkatapos ng isang linggo. Kung mabigo iyon, maghain ng pormal na reklamo sa lokal mong MHRSD labor office, at pagkatapos sa labor court kung kinakailangan.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Kasama ba ang accrued leave pay sa final settlement sa KSA?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Ang naipon ngunit hindi nagamit na annual leave ay dapat bayaran bilang katumbas na pera na kinukwenta sa iyong basic salary, at bahagi ito ng iyong final settlement sa ilalim ng 5-araw na patakaran.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Pwede ba akong pumirma ng waiver para isuko ang EOSB ko para mas mabilis ang final exit ko?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Ang Article 8 ng Saudi Labor Law ay nagpapawalang-bisa sa anumang kondisyon o waiver na sumasalungat sa batas, kaya maaari mong hamunin ang pinilit na waiver at makuha pa rin ang buong legal na karapatan mo.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Konklusyon: Alamin ang Iyong mga Karapatan, Idokumento ang Lahat, at Huwag Pumirma sa Ilalim ng Presyon</h2>
+        <p>
+          Simple ang pangunahing aral: ang iyong EOSB payment ay hindi pabor na ginagawa sa iyo ng employer mo — ito ay legal na karapatan na may mahigpit na deadline, at binuo ang sistemang Saudi para ipatupad ito. Alamin ang iyong mga karapatan bago ang iyong huling araw, magtago ng nakasulat na mga rekord ng bawat kahilingan at tugon, at huwag kailanman pumirma ng mga blangkong dokumento o waiver sa ilalim ng presyon. Ang mga manggagawang nakakakuha ng buong settlement ay ang mga nakakaunawa sa 5-araw na patakaran, nagdodokumento ng lahat, at nag-escalate nang maayos kapag huminto ang pagbabayad.
+        </p>
+        <p class="mt-4">
+          Ang pinakamakapangyarihang kasangkapan sa prosesong iyon ay ang kaalaman sa eksaktong halagang dapat sa iyo. Kapag inabot sa iyo ng employer ang halaga ng settlement, kailangan mong malaman — kaagad — kung tama ba ito.
+        </p>
+        <p class="mt-4">
+          Huwag mong iwan sa tsamba ang perang pinaghirapan mo. Gamitin ang <a href="/final-settlement-calculator" class="text-desert-primary underline">SaudiToolHub Final Settlement Calculator</a> para i-verify ang halagang ino-offer sa iyo ng employer bago mo ito tanggapin.
+        </p>
+        <p class="mt-4">
+          Gustong maunawaan ang iyong mga karapatan sa resignation? Basahin din ang aming gabay sa <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Article 84 vs 85</a> para makita kung paano binabago ng tiered system ang iyong halaga depende sa kung sino ang nagwakas sa kontrata.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Kalkulahin ang Tamang EOSB Mo Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — ilagay lang ang iyong basic salary, taon ng serbisyo, at dahilan ng pag-alis</p>
+          <a href="/final-settlement-calculator" class="text-desert-primary underline">Gamitin ang Libreng Final Settlement Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa layuning pang-impormasyon batay sa Saudi Labor Law (partikular ang Article 87). Maaaring magbago ang mga regulasyon at pamamaraan. Para sa mga opisyal na alitan, laging sumangguni sa Ministry of Human Resources and Social Development (MHRSD) o kumonsulta sa lisensyadong legal na propesyonal.
+        </p>
+      </div>
+    `,
+      bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">প্রবাসী শ্রমিক গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি আরব ২০২৬-এ ইওএসবি পরিশোধের সময়সূচি ও বিলম্ব জরিমানা</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">আপনার চুক্তি শেষ। ৫ দিনের ঘড়ি শুরু হয়ে গেছে। এখানে ঠিক বলা আছে কখন নিয়োগকর্তাকে আপনার সেবা-সমাপ্তি সুবিধা দিতে হবে, বিলম্ব করলে কী হয়, এবং কীভাবে জোর করে টাকা আদায় করবেন।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ভূমিকা: অপেক্ষার চাপ</h2>
+        <p>
+          সৌদি আরবে যেকোনো প্রবাসীর চাকরিজীবনের অন্যতম চাপের সময় হলো চূড়ান্ত নিষ্পত্তির অপেক্ষা। আপনার বেতন থেমে গেছে, ভিসার ঘড়ি টিকটিক করছে, এবং স্বদেশে আপনার আর্থিক দায়বদ্ধতা থামে না — যখন সাবেক নিয়োগকর্তা &quot;কাগজপত্র শেষ করছেন।&quot; এই অনিশ্চয়তা ক্লান্তিকর, এবং বেশিরভাগ শ্রমিক শেষ কর্মদিবস আর অ্যাকাউন্টে টাকা আসার মধ্যবর্তী সময়ে অসহায় বোধ করেন। কিন্তু আপনি অসহায় নন।
+        </p>
+        <p class="mt-4">
+          আইন আপনার পক্ষে, এবং এটি কঠোর সময়সূচি অনুযায়ী কাজ করে। সরাসরি উত্তর, একেবারে শুরুতে: <strong class="text-desert-primary">সৌদি শ্রম আইনের ধারা ৮৭ অনুযায়ী, নিয়োগকর্তাকে চুক্তির সমাপ্তির তারিখ বা নোটিশ পিরিয়ড শেষ হওয়ার তারিখ থেকে সর্বোচ্চ ৫ দিনের মধ্যে সমস্ত সেবা-সমাপ্তি সুবিধা (EOSB) ও চূড়ান্ত পাওনা পরিশোধ করতে হবে।</strong> এটি কোনো নির্দেশনা, সেরা অনুশীলন বা পরামর্শ নয় — এটি একটি আইনগত সময়সীমা যা মানব সম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয় (MHRSD) প্রয়োগ করে।
+        </p>
+        <p class="mt-4">
+          এই গাইড যা আওতাভুক্ত করছে তা এখানে। প্রথমে, আপনি ঠিক ৫ দিনের নিয়ম শিখবেন এবং এটি কীভাবে বরখাস্ত, পদত্যাগ ও চুক্তির মেয়াদ শেষ হওয়ায় প্রযোজ্য হয়। দ্বিতীয়ত, আপনি দেখবেন আপনার চূড়ান্ত নিষ্পত্তিতে কী কী অন্তর্ভুক্ত থাকার কথা — কারণ অনেক শ্রমিক হাজার হাজার রিয়াল হারান শুধুমাত্র নিজের পাওনা না জানার কারণে। তৃতীয়ত, আমরা বিলম্বে নিয়োগকর্তার মুখোমুখি হওয়া জরিমানাগুলো ভেঙে বলি, যার মধ্যে মজুরি সুরক্ষা পতাকা, সরকারি সেবা বন্ধ এবং আর্থিক জরিমানা। সবশেষে, বন্ধুত্বপূর্ণ নিষ্পত্তির অনুরোধ থেকে শ্রম আদালত পর্যন্ত সম্পূর্ণ ধাপে ধাপে প্রক্রিয়া পাবেন। কিছুতে স্বাক্ষরের আগে এটি পড়ুন, এবং আপনি জ্ঞানের অবস্থান থেকে দর কষাকষি করবেন।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">আপনার পাওনা কত তা নিশ্চিত নন?</strong> আপনার শেষ দিনের আগে মোট পাওনা অনুমান করতে আমাদের <a href="/final-settlement-calculator" class="text-desert-primary underline">ফ্রি ফাইনাল সেটেলমেন্ট ক্যালকুলেটর</a> ব্যবহার করুন — এটি এক মিনিটেরও কম সময় নেয়।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আইনগত সময়সীমা: সৌদি শ্রম আইনের ধারা ৮৭</h2>
+        <p>
+          সৌদি আরবে আপনার চাকরি শেষ হলে ধারা ৮৭ হলো সবচেয়ে গুরুত্বপূর্ণ নিয়ম যা আপনার জানা দরকার। এটি একটি স্পষ্ট, অ-আলোচনাযোগ্য পরিশোধের সময়সীমা নির্ধারণ করে যা রাজ্যের প্রতিটি বেসরকারি খাতের নিয়োগকর্তার ক্ষেত্রে প্রযোজ্য।
+        </p>
+        <p class="mt-4">
+          আইনে বলা হয়েছে, কর্মসংস্থান চুক্তির মেয়াদ শেষে নিয়োগকর্তাকে কর্মীকে সমস্ত পাওনা — সেবা-সমাপ্তি সুবিধা, কোনো অপরিশোধিত বেতন এবং অন্যান্য অধিকার — <strong class="text-desert-primary">সমাপ্তির তারিখ থেকে সর্বোচ্চ পাঁচ দিনের মধ্যে</strong> পরিশোধ করতে হবে। সহজ ভাষায়: আপনার চুক্তি শেষ হওয়ার সাথে সাথে নিয়োগকর্তার কাছে আপনার সব পাওনা মেটাতে পাঁচ দিন আছে।
+        </p>
+        <p class="mt-4">
+          তিনটি সবচেয়ে সাধারণ বিদায়ী পরিস্থিতিতে ৫ দিনের নিয়ম কীভাবে প্রযোজ্য হয় তা এখানে:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">নিয়োগকর্তার দ্বারা বরখাস্ত</p>
+            <p class="text-gray-400 text-sm">বরখাস্তের তারিখ থেকে ঘড়ি শুরু হয়। সেই তারিখ থেকে নিয়োগকর্তার কাছে আপনার সম্পূর্ণ নিষ্পত্তি পরিশোধের ৫ দিন আছে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">কর্মীর দ্বারা পদত্যাগ</p>
+            <p class="text-gray-400 text-sm">আপনার নোটিশ পিরিয়ড সম্পূর্ণ এবং আনুষ্ঠানিক শেষ কর্মদিবস অতিবাহিত হওয়ার সাথে সাথে ঘড়ি শুরু হয়। এরপর নিয়োগকর্তার কাছে আপনাকে সম্পূর্ণ পরিশোধের ৫ দিন আছে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">চুক্তির মেয়াদ শেষ হওয়া</p>
+            <p class="text-gray-400 text-sm">চুক্তির আনুষ্ঠানিক সমাপ্তির তারিখ থেকে ঘড়ি শুরু হয়। সেই তারিখের ৫ দিনের মধ্যে আপনার পাওনা পরিশোধ করতে হবে।</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          একটি গুরুত্বপূর্ণ বিষয়: ধারা ৮৭ চুক্তি কে শেষ করেছে তা ভেদ করে না। আপনি পদত্যাগ করেছেন, বরখাস্ত হয়েছেন, বা নির্দিষ্ট মেয়াদের চুক্তির শেষে পৌঁছেছেন — একই ৫ দিনের পরিশোধের সময় প্রযোজ্য। &quot;এইচআর ব্যস্ত&quot; বা &quot;ফাইন্যান্স টিম ছুটিতে&quot; এই বাহানায় পরিশোধে দেরি করার কোনো আইনি ভিত্তি নেই — সেগুলো অজুহাত, আইনি প্রতিরক্ষা নয়।
+        </p>
+        <p class="mt-4">
+          আপনার বিদায়ী সপ্তাহের জন্য একটি ব্যবহারিক নোট: ৫ দিনের সময় ধরা হয় যে দিন আপনার কর্মসংস্থান আসলে শেষ হয়েছিল, যেদিন আপনি জিজ্ঞাসা করার কথা মনে করেছিলেন তা নয়। আপনার চুক্তি শনিবার শেষ হলে, পরিশোধ পরবর্তী বৃহস্পতিবারের পরে দেরি নয়। আপনি পদত্যাগ করলে এবং আপনার নোটিশ ৩১ তারিখে শেষ হলে, নিয়োগকর্তা পরের মাসের ৫ তারিখের মধ্যে ঋণী। আপনার শেষ দিন নিশ্চিত হওয়ার সাথে সাথে সেই তারিখটি চিহ্নিত করুন — নিয়োগকর্তা দেরি করলে এটি আপনার রেফারেন্স পয়েন্ট হবে।
+        </p>
+        <p class="mt-4">
+          আইন কী দাবি করে না তাও আপনার জানা উচিত: নিয়োগকর্তা কোম্পানির ল্যাপটপ ফেরত, হ্যান্ডওভার সম্পন্ন বা ক্লিয়ারেন্স ফর্মে স্বাক্ষরের উপর পরিশোধ শর্ত দিতে পারবেন না। সেগুলো কোম্পানির অভ্যন্তরীণ বিষয়। ধারা ৮৭-এর আইনগত সময়সীমা স্বাধীনভাবে চলে। কিছু নিয়োগকর্তা &quot;ক্লিয়ারেন্স অপেক্ষমাণ&quot;কে বিলম্বের কৌশল হিসেবে ব্যবহার করেন; হ্যান্ডওভারে দেরি আপনার ৫ দিনের পরিশোধের ঘড়ি আইনত থামায় না।
+        </p>
+        <p class="mt-4">
+          এই সময়সূচি কঠোরভাবে প্রয়োগ করে মানব সম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয় (MHRSD)। মন্ত্রণালয় মজুরি পরিশোধের বৈদ্যুতিন নজরদারি করে, অভিযোগ ট্র্যাক করে এবং সময়সীমা লঙ্ঘনকারী কোম্পানিগুলোর উপর জরিমানা আরোপের ক্ষমতা রাখে। যে নিয়োগকর্তা দেরিতে পরিশোধ করেন তিনি জরিমানা, সেবা বন্ধ এবং নিজের সম্মতির রেটিং ঝুঁকিতে ফেলছেন — শুধু আপনার সদ্ভাব নয়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আপনার &quot;চূড়ান্ত নিষ্পত্তি&quot;-তে কী অন্তর্ভুক্ত?</h2>
+        <p>
+          অনেক শ্রমিক বিশ্বাস করেন তাদের চূড়ান্ত নিষ্পত্তি গ্র্যাচুইটি ছাড়া আর কিছুই নয়। এই ভুল প্রতিবছর মানুষকে হাজার হাজার রিয়াল হারায়। আপনার চূড়ান্ত নিষ্পত্তি হলো কয়েকটি পৃথক অধিকারের একটি প্যাকেজ, এবং প্রতিটি একই ৫ দিনের মধ্যে পরিশোধ করতে হবে। এখানে সম্পূর্ণ তালিকা।
+        </p>
+        <h3>সেবা-সমাপ্তি সুবিধা (গ্র্যাচুইটি)</h3>
+        <p>
+          ইওএসবি আপনার নিষ্পত্তির মূল, সৌদি শ্রম আইনের ধারা ৮৪ ও ৮৫ অনুযায়ী গণনা করা হয়। প্রথম পাঁচ বছরের সেবার জন্য, প্রতিটি বছরের কাজের জন্য আপনি অর্ধেক মাসের মৌলিক বেতন পান। ষষ্ঠ বছর থেকে হার বেড়ে প্রতি বছরে এক পূর্ণ মাসের মৌলিক বেতন হয়। আট বছর পর ৬,০০০ রিয়াল মৌলিক বেতন পাওয়া শ্রমিকের জন্য তা প্রায় ৩৩,০০০ রিয়াল। সঠিক সংখ্যা আপনার মৌলিক বেতন, সেবার বছর এবং আপনি পদত্যাগ করেছেন নাকি বরখাস্ত হয়েছেন তার উপর নির্ভর করে।
+        </p>
+        <h3>অপরিশোধিত বেতন</h3>
+        <p>
+          আপনার পাওনা যেকোনো বেতন নিষ্পত্তির অংশ। এর মধ্যে শেষ আংশিক মাসের জন্য আপনার আনুপাতিক বেতন অন্তর্ভুক্ত — যে দিনগুলো আপনি কাজ করেছেন কিন্তু এখনও পরিশোধ হয়নি। আপনার শেষ কর্মদিবস ১৫ তারিখে পড়লে, সেই সময়ের জন্য আপনি অর্ধেক মাসের বেতন পাবেন, প্লাস পরের সাইকেলে কাজ করা দিনগুলোর।
+        </p>
+        <h3>সঞ্চিত কিন্তু অব্যবহৃত বার্ষিক ছুটি</h3>
+        <p>
+          সৌদি শ্রম আইন অনুযায়ী, চলে যাওয়ার আগে আপনি যে বার্ষিক ছুটির দিন সঞ্চয় করেছেন কিন্তু নেননি তার জন্য নগদ সমতুল্য পাওয়ার অধিকার আছে। এটি মৌলিক বেতনের উপর প্রতিটি অব্যবহৃত ছুটির দিনের এক দিনের বেতন হারে গণনা করা হয়। আপনার ১৫টি অব্যবহৃত দিন এবং ৬,০০০ রিয়াল মাসিক মৌলিক বেতন থাকলে, সেটি প্রায় ৩,০০০ রিয়াল যা আপনি দাবি করতে পারেন। অনেক নিয়োগকর্তা প্রথম অফার থেকে এটি বাদ দেন।
+        </p>
+        <h3>স্বদেশ প্রত্যাবর্তনের বিমান টিকিট</h3>
+        <p>
+          কর্মসংস্থানের শেষে নিয়োগকর্তা আপনার দেশে ফেরত যাওয়ার বিমান টিকিট দেওয়ার জন্য দায়ী। এই বাধ্যবাধকতার দুটি প্রধান ব্যতিক্রম: যখন আপনি সরাসরি নতুন স্থানীয় নিয়োগকর্তার কাছে স্থানান্তরিত হন (যিনি সাধারণত খরচ বহন করেন), অথবা যখন আপনার চুক্তি স্পষ্টভাবে ভিন্ন ব্যবস্থা বলে। কোনোটিই প্রযোজ্য না হলে, টিকিট আপনার নিষ্পত্তির অংশ।
+        </p>
+        <h3>অন্যান্য চুক্তিভিত্তিক সুবিধা</h3>
+        <p>
+          উপরের চারটি ছাড়াও, আপনাকে দেওয়া কোনো নির্দিষ্ট প্রতিশ্রুতির জন্য আপনার চুক্তি পর্যালোচনা করুন। ঝুলন্ত সেলস কমিশন, জমা হওয়া ওভারটাইম পরিশোধ এবং চুক্তিভিত্তিক ভাতা সবই আপনার চূড়ান্ত পাওনার অংশ। লিখিত বিবরণ চাইবেন যাতে কিছু নীরবে বাদ না পড়ে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">দ্রুত যাচাই:</strong> আপনার অপরিশোধিত বেতন, গ্র্যাচুইটি, ছুটির বেতন এবং টিকিটের মূল্য যোগ করুন, তারপর মোটের সাথে নিয়োগকর্তার অফার তুলনা করুন। মিল না হলে, কিছু গ্রহণের আগে লিখিতভাবে লাইন বাই লাইন হিসাব চাইবেন। যে নিষ্পত্তিতে ছুটির বেতন বা আংশিক মাসের বেতন বাদ পড়ে সেটিই চুক্তির শেষে প্রবাসীদের টাকা হারানোর সবচেয়ে সাধারণ উপায়।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বিলম্বের জরিমানা: নিয়োগকর্তা দেরি করলে কী হয়?</h2>
+        <p>
+          শ্রমিকদের সবচেয়ে সাধারণ প্রশ্ন: নিয়োগকর্তা পরিশোধ করতে অস্বীকার করলে সরকার আসলে কী করতে পারে? উত্তর হলো, দাঁড়িপাল্লা ভারী — বেশিরভাগ শ্রমিকের ধারণার চেয়ে অনেক ভারী। ব্যবস্থাটি নিয়োগকর্তাদের বিরোধ আদালতে পৌঁছানোর আগেই সম্মতির দিকে ঠেলে দেওয়ার জন্য ডিজাইন করা হয়েছে।
+        </p>
+        <h3>মজুরি সুরক্ষা ব্যবস্থার (WPS) পতাকা</h3>
+        <p>
+          সৌদি আরবের মজুরি সুরক্ষা ব্যবস্থা (WPS) বেসরকারি খাতে প্রতিটি বেতন স্থানান্তর স্বয়ংক্রিয়ভাবে পর্যবেক্ষণ করে। চূড়ান্ত নিষ্পত্তি সময়মতো পরিশোধ না হলে, ব্যবস্থাটি কোম্পানিকে অ-সম্মতিজনক হিসেবে চিহ্নিত করে। সেই চিহ্ন মন্ত্রণালয়ের কাছে নিয়োগকর্তার আনুষ্ঠানিক রেকর্ডে দেখা যায় এবং নিয়ন্ত্রকদের কাছে দৃশ্যমান থাকে। বারবার বা গুরুতর লঙ্ঘন কোম্পানির ঝুঁকি প্রোফাইল বাড়াতে এবং পে-রোল অডিট ট্রিগার করতে পারে।
+        </p>
+        <h3>সরকারি সেবা বন্ধ</h3>
+        <p>
+          অপরিশোধিত পাওনার সবচেয়ে তীক্ষ্ণ ব্যবহারিক ফলাফল হলো সরকারি সেবা জমাট বাঁধা। অমীমাংসিত মজুরি লঙ্ঘনযুক্ত নিয়োগকর্তাকে মুকিম ও আবশের সেবা ব্যবহারে বাধা দেওয়া যেতে পারে — অর্থাৎ তারা নতুন ভিসা ইস্যু করতে, ইকামা নবায়ন করতে, প্রস্থান অনুমতি প্রক্রিয়া করতে বা স্বাভাবিক পোর্টালের মাধ্যমে কর্মী ব্যবস্থাপনা করতে পারবে না। বিদেশি শ্রমের উপর নির্ভরশীল কোম্পানির জন্য সেবা বন্ধ একটি গুরুতর কার্যকরী সংকট।
+        </p>
+        <h3>আর্থিক জরিমানা</h3>
+        <p>
+          পতাকা ও বন্ধের বাইরে, MHRSD ধারা ৮৭ লঙ্ঘনকারী নিয়োগকর্তাদের উপর প্রশাসনিক জরিমানা আরোপ করতে পারে। মন্ত্রণালয় এই জরিমানার আকার এবং প্রয়োগের ধারাবাহিকতা উভয়ই ক্রমাগত বাড়িয়েছে। নিয়োগকর্তার জন্য, জরিমানা প্লাস আপনার নিষ্পত্তি পরিশোধ করা সময়মতো পরিশোধের চেয়ে বেশি ব্যয়বহুল — এবং এটাই আসল কথা।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বড় চিত্র:</strong> সৌদি ব্যবস্থা সিদ্ধান্তমূলকভাবে শ্রমিক সুরক্ষার দিকে এগিয়েছে। মজুরি সুরক্ষা, ডিজিটাল অভিযোগ প্ল্যাটফর্ম এবং স্বয়ংক্রিয় নজরদারির অর্থ হলো অপরিশোধিত নিষ্পত্তি আর আপনার ও ম্যানেজারের মধ্যে ব্যক্তিগত বিষয় নয়। লঙ্ঘন নথিভুক্ত হওয়ার মুহূর্তে এটি নিয়োগকর্তার নিয়োগ, ভিসা নবায়ন এবং পরিচালনার ক্ষমতাকে প্রভাবিত করে। এই কারণেই আনুষ্ঠানিক চ্যানেলের মাধ্যমে কাজ করা টাকা আদায়ের দ্রুততম পথ।
+        </p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আপনার চূড়ান্ত নিষ্পত্তির দিনে দিনে সময়সূচি</h2>
+        <p>
+          ৫ দিনের নিয়মটিকে বাস্তব করতে, আপনার চুক্তি শেষ হওয়ার পরে একটি স্বাভাবিক চূড়ান্ত নিষ্পত্তির সপ্তাহ কেমন দেখায় তা এখানে। কোম্পানিগুলোর প্রক্রিয়াকরণের গতি আলাদা, তবে প্রতিটি বেসরকারি খাতের নিয়োগকর্তার জন্য আইনি সীমা একই।
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">দিন ০ — শেষ কর্মদিবস</p>
+            <p class="text-gray-400 text-sm">আপনার কর্মসংস্থান আনুষ্ঠানিকভাবে শেষ হয়। এই দিনের মাঝরাত থেকে ৫ দিনের ঘড়ি চলতে শুরু করে। হ্যান্ডওভার শেষ করুন, কোম্পানির সম্পদ ফেরত দিন এবং এইচআর থেকে আপনার শেষ দিন নিশ্চিত করে স্বাক্ষরিত রসিদ সংগ্রহ করুন। এই স্বাক্ষরিত নিশ্চিতকরণই আপনার পুরো সময়সূচির প্রমাণ হিসেবে কাজ করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">দিন ১–২ — নিষ্পত্তির বিবরণ</p>
+            <p class="text-gray-400 text-sm">বেশিরভাগ সম্মতিসূচক নিয়োগকর্তা প্রথম দুই দিনের মধ্যেই লিখিত নিষ্পত্তির বিবরণ তৈরি করেন। এতে আপনার গ্র্যাচুইটি, অপরিশোধিত বেতন, ছুটির বেতন এবং বিমান টিকিট আলাদাভাবে উল্লেখ থাকা উচিত। কিছুতে সম্মতি দেওয়ার আগে নিজের হিসাবের সাথে সাবধানে মিলিয়ে দেখুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">দিন ৩–৫ — পরিশোধ ও WPS স্থানান্তর</p>
+            <p class="text-gray-400 text-sm">চূড়ান্ত নিষ্পত্তি ব্যাংকের মাধ্যমে প্রক্রিয়া হয়ে মজুরি সুরক্ষা ব্যবস্থায় (WPS) নথিভুক্ত হয়। দিন ৫ শেষ হওয়ার মধ্যে সম্পূর্ণ টাকা আপনার অ্যাকাউন্টে আসতে হবে। সেদিন টাকা না এলে — যে অজুহাতই দেওয়া হোক না কেন — নিয়োগকর্তা ইতিমধ্যে লঙ্ঘন করছেন।</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          একটি সহায়ক মানসিক মডেল: দিন ৫-কে লক্ষ্য নয়, কঠোর শেষ সময়সীমা হিসেবে ভাবুন। দিন ৪-এর দুপুরের মধ্যে একটি নির্দিষ্ট পরিশোধের তারিখ চেয়ে নিন, যাতে শেষ মুহূর্তের কোনো ব্যাংকিং বিলম্ব আইনি সময়ের মধ্যেই থেকে যায়। ততক্ষণে নিয়োগকর্তা কোনো তারিখ দিতে না পারলে, আপনার উত্তর পাওয়া গেছে — পরিশোধ সময়মতো আসার সম্ভাবনা নেই, এবং পরবর্তী অংশের পদক্ষেপগুলো নেওয়ার সময় এসেছে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">কাগজপত্রের রেকর্ড কেন গুরুত্বপূর্ণ:</strong> প্রবাসীরা বিলম্বিত ইওএসবি আদায়ে ব্যর্থ হওয়ার সবচেয়ে সাধারণ কারণ হলো প্রমাণের অভাব। আপনার শেষ দিন নিশ্চিত করা তারিখসহ ইমেইল, লিখিত নিষ্পত্তির বিবরণ এবং একটি নির্দিষ্ট পরিশোধের তারিখ — এইগুলো মৌখিক প্রতিশ্রুতিকে বাস্তব রেকর্ডে পরিণত করে। পরে নিয়োগকর্তা যখন বলেন &quot;আমরা এখনো প্রক্রিয়া করছি&quot;, তখন আপনার নথিই প্রমাণ করে সময়সীমা ইতিমধ্যে অতিক্রান্ত। আজ সংরক্ষিত প্রতিটি বার্তা আগামীকালের শক্তি।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>আংশিক পরিশোধ ও নীরব কর্তন: বেশিরভাগ প্রবাসী যা মিস করেন</h2>
+        <p>
+          দেরি করাই নিয়োগকর্তার কাছে আপনার পাওনা কমিয়ে দেওয়ার একমাত্র উপায় নয়। দুটি আরও নীরব কৌশল কোনো দৃশ্যমান দ্বন্দ্ব ছাড়াই আপনার নিষ্পত্তির মূল্য কমিয়ে দেয়, এবং এগুলো সম্পর্কে সচেতন থাকা দরকার।
+        </p>
+        <h3>আংশিক পরিশোধ যা কখনো সম্পূর্ণ হয় না</h3>
+        <p>
+          কিছু নিয়োগকর্তা একটি প্রাথমিক &quot;সদ্ভাব&quot; পরিশোধ করেন — প্রায়ই শুধু শেষ মাসের বেতন — আর বলেন গ্র্যাচুইটি &quot;পরের বেতন চক্রে আসছে&quot;। আংশিক স্থানান্তরকে নিষ্পত্তি ভাববেন না। আপনার গ্র্যাচুইটি, ছুটির বেতন ও টিকিট একই ৫ দিনের মধ্যে পুরোপুরি পাওনা। দিন ৫-এ মোটের চেয়ে কম পেলে, বাকি টাকা বিলম্বিত; সঠিক অঙ্ক উল্লেখ করে অবিলম্বে লিখিত দাবি জানান।
+        </p>
+        <h3>লিখিত বিবরণ ছাড়াই করা কর্তন</h3>
+        <p>
+          যে নিয়োগকর্তা কর্তনের কারণ দিতে পারেন না, তিনি অবৈধ কর্তনই করছেন। আপনার নিষ্পত্তিতে কোনো টাকা কাটা পড়ে কোনো ব্যাখ্যা না থাকলে, মেনে নেওয়ার আগে লিখিতভাবে বিবরণ চান। সাধারণ নীরব কর্তনের মধ্যে রয়েছে স্বাভাবিক পরিধানের রং-করার খরচ ধার্য, ইতিমধ্যে ফেরত দেওয়া সরঞ্জামের দাম কাটা, বা ধারা ৮৫-এর ভুল হারে গ্র্যাচুইটির অংশ পরিশোধ। প্রতিটিই চ্যালেঞ্জযোগ্য — তবে শুধু তখনই যদি আপনি জিজ্ঞেস করেন।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">সহজ নিয়ম:</strong> যদি কোনো অঙ্ক অনুপস্থিত থাকে এবং আপনি ঠিক কারণ ব্যাখ্যা করতে না পারেন, তাহলে আপনার নিষ্পত্তিকে চূড়ান্ত ও পূর্ণাঙ্গ হিসেবে স্বীকার করে এমন কিছুতে স্বাক্ষর করবেন না। যেকোনো নথিতে &quot;আপত্তির সাথে গৃহীত&quot; লিখুন এবং বিবাদিত বিষয়গুলো তালিকাবদ্ধ করুন। এই একটি বাক্যই পরে পার্থক্য দাবির আইনি অধিকার সংরক্ষণ করে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ইওএসবি পরিশোধের সময় নিয়ে সাধারণ ভুল ধারণা</h2>
+        <p>
+          কর্মক্ষেত্রে এবং সহকর্মীদের মধ্যে ইওএসবি পরিশোধের সময় নিয়ে ভুল কথা এত বেশি প্রচলিত যে অনেক শ্রমিক সেগুলোকে আইন মনে করেন। সবচেয়ে সাধারণ চারটি ভুল ধারণার পেছনের আসল সত্য এখানে।
+        </p>
+        <h3>ভুল ধারণা ১: &quot;আপনার মুনাফা পরের বেতন চক্রের সাথে আসবে&quot;</h3>
+        <p>
+          চুক্তির শেষে এটি প্রায়ই বলা হয়, কিন্তু এটি সঠিক নয়। গ্র্যাচুইটি, শেষ আংশিক মাসের বেতন এবং অব্যবহৃত ছুটির বেতন — সবকিছু একই ৫ দিনের মধ্যে পাওনা। শ্রম আইনে সেবা-সমাপ্তি সুবিধার জন্য কোনো &quot;পরের বেতন চক্র&quot; নেই।
+        </p>
+        <h3>ভুল ধারণা ২: &quot;হ্যান্ডওভার শেষ না হওয়া পর্যন্ত পরিশোধ করা যাবে না&quot;</h3>
+        <p>
+          হ্যান্ডওভার আপনার ও এইচআর-এর মধ্যে অভ্যন্তরীণ বিষয়; ধারা ৮৭-এর আইনি সময়সীমা স্বাধীনভাবে চলে। হ্যান্ডওভারে কোনো বিলম্ব হলেও, অভ্যন্তরীণ প্রশাসনিক কারণে নিয়োগকর্তার আপনার পরিশোধ আটকে রাখার অধিকার নেই।
+        </p>
+        <h3>ভুল ধারণা ৩: &quot;গ্র্যাচুইটি মোট বেতনের উপর হিসাব করা হয়&quot;</h3>
+        <p>
+          আবাসন ও পরিবহন ভাতা আপনার নিয়োগকর্তার খরচ বাড়ায় সত্য, কিন্তু ধারা ৮৪ ও ৮৫ অনুযায়ী সেবা-সমাপ্তি সুবিধা কেবল মৌলিক বেতনের উপর হিসাব করা হয়। নিয়োগকর্তা বেশি দিলে ভালো, তবে আপনার প্রত্যাশা মোট অঙ্কের উপর ভিত্তি করবেন না।
+        </p>
+        <h3>ভুল ধারণা ৪: &quot;স্বাক্ষর করলে আপনার সব অধিকার শেষ&quot;</h3>
+        <p>
+          নথিতে স্বাক্ষর করা আপনার আইনি সুরক্ষা মুছে দেয় না যদি নথিটি আইনের বিপরীত হয় বা জোর করে স্বাক্ষর করানো হয়। ধারা ৮ শ্রম আইনের সাথে সাংঘর্ষিক যেকোনো শর্ত বাতিল করে। অর্থাৎ, চূড়ান্ত প্রস্থানের হুমকিতে বা অসম্পূর্ণ নিষ্পত্তির বিবরণে জোর করে স্বাক্ষর করানো হলেও তা উপযুক্ত কর্তৃপক্ষের কাছে চ্যালেঞ্জযোগ্য।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">বাস্তব সিদ্ধান্ত:</strong> কেউ যখন আপনার পরিশোধের সময় নিয়ে মত দেয়, তখন তা কোম্পানির রীতি নয়, ধারা ৮৭-এর ভাষা ও আপনার লিখিত রেকর্ডের সাথে মিলিয়ে নিন। সৌদি নিয়ম ক্রমাগত শ্রমিকের পক্ষে পরিবর্তন হচ্ছে; আগের কোম্পানিতে &quot;স্বাভাবিক&quot; যা ছিল তা আপনার বর্তমান কোম্পানিতে আইন নয়।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধাপে ধাপে: পরিশোধে দেরি হলে কীভাবে আপনার ইওএসবি দাবি করবেন</h2>
+        <p>
+          আপনার নিয়োগকর্তা দেরি করলে এই ক্রম অনুসরণ করুন। এটি প্রতিটি পর্যায়ে আপনার আইনি অবস্থান বজায় রেখে ধীরে ধীরে চাপ বাড়ায়। ধাপগুলো এড়িয়ে যাবেন না, এবং এগোনোর সময় সবকিছু লিখিতভাবে নথিভুক্ত করুন।
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ১: আনুষ্ঠানিক লিখিত অনুরোধ পাঠান</p>
+            <p class="text-gray-400 text-sm">এইচআর ও ফাইন্যান্সকে বিনয়ী কিন্তু দৃঢ়ভাবে ইমেইল করুন। আপনার চুক্তি শেষ হওয়ার তারিখ বলুন, যে পরিমাণ আপনি পাওনা মনে করেন তার তালিকা দিন (বেতন, গ্র্যাচুইটি, ছুটির বেতন, টিকিট), এবং লিখিত নিষ্পত্তির বিবরণ ও নিশ্চিত পরিশোধের তারিখ চাইবেন। হোয়াটসঅ্যাপ বার্তার উপর নির্ভর করবেন না — তারিখযুক্ত ইমেইলই প্রমাণ। প্রতিটি উত্তর সংরক্ষণ করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ২: বন্ধুত্বপূর্ণ নিষ্পত্তি (তাওয়াফুক) প্ল্যাটফর্ম ব্যবহার করুন</p>
+            <p class="text-gray-400 text-sm">এক সপ্তাহের মধ্যে সন্তোষজনক উত্তর না পেলে MHRSD-এর বন্ধুত্বপূর্ণ নিষ্পত্তি পোর্টাল (tarhal.mhrsd.gov.sa)-এর মাধ্যমে অভিযোগ দায়ের করুন। এটি বিনামূল্যে, অনলাইন এবং আনুষ্ঠানিক মামলা হওয়ার আগে মজুরি বিরোধ সমাধানের জন্য ডিজাইন করা। অনেক ক্ষেত্রে এই এক ধাপই যথেষ্ট — যেসব নিয়োগকর্তা ব্যক্তিকে উপেক্ষা করেন তারা আনুষ্ঠানিক অনুসন্ধানে দ্রুত সাড়া দেন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ৩: MHRSD শ্রম অফিসে অভিযোগ</p>
+            <p class="text-gray-400 text-sm">তাওয়াফুক ব্যর্থ হলে, স্থানীয় MHRSD শ্রম অফিসে আনুষ্ঠানিক অভিযোগ দায়ের করুন। আপনার চুক্তি, ইকামা, বেতনের ইতিহাস দেখানো ব্যাংক স্টেটমেন্ট এবং নিয়োগকর্তার সাথে সমস্ত লিখিত যোগাযোগের কপি আনুন। অফিস অ-সম্মতিজনক নিয়োগকর্তার বিরুদ্ধে আনুষ্ঠানিক রায় দিতে পারে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ৪: মামলা শ্রম আদালতে নিন</p>
+            <p class="text-gray-400 text-sm">শেষ অবলম্বন হিসেবে, বিশেষায়িত শ্রম আদালতে বিষয়টি নিয়ে যান, যা বাধ্যতামূলক রায় দিতে এবং পরিশোধ প্রয়োগ করতে পারে। ব্যবস্থাটি শ্রমিকদের জন্য সহজলভ্য, সরল পদ্ধতি এবং ছোট দাবির জন্য আইনজীবীর প্রয়োজন নেই। ধাপ ১–৩ অনুসরণ করে আপনি নথিভুক্ত কাগজের চিহ্নসহ আদালতে প্রবেশ করেন যা আপনার মামলা শক্তিশালী করে।</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">সময় সম্পর্কে একটি নোট:</strong> আনুষ্ঠানিক চ্যানেল শক্তিশালী কিন্তু তাৎক্ষণিক নয়। বন্ধুত্বপূর্ণ নিষ্পত্তি প্ল্যাটফর্ম প্রায়ই কয়েক দিন বা কয়েক সপ্তাহে ফল দেয়; সম্পূর্ণ শ্রম আদালত মামলা বেশি সময় নেয়। প্রতিটি রসিদ, পে-স্লিপ এবং বার্তা রাখুন, এবং ক্লান্তির কারণে ছোট পরিমাণ গ্রহণ করবেন না। আপনার নথিপত্রই শক্তিশালী মামলাকে পরিশোধিত নিষ্পত্তিতে রূপান্তরিত করে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রবাসীদের জন্য বিশেষ বিবেচনা</h2>
+        <p>
+          আপনার জাতীয়তা গঠন করতে পারে আপনি বিলম্বিত নিষ্পত্তির কাছে কীভাবে যান। বিভিন্ন শ্রমিক সম্প্রদায় বিভিন্ন চাপের বিন্দুর মুখোমুখি হয়, এবং সেগুলো আগে জানা আপনাকে নিয়ন্ত্রণে রাখে।
+        </p>
+        <h3>দক্ষিণ এশীয় প্রবাসীদের জন্য (পাকিস্তান / ভারত / বাংলাদেশ)</h3>
+        <p>
+          একটি সাধারণ কৌশল হলো ইওএসবি ছাড়পত্রে স্বাক্ষর করতে বাধ্য করার জন্য চূড়ান্ত প্রস্থান ভিসা (খোরুজ নেহাই) আটকে রাখা। এটি স্পষ্টভাবে জেনে নিন: <strong class="text-desert-primary">নিয়োগকর্তা আইনত আপনার চূড়ান্ত প্রস্থান দর কষাকষির হাতিয়ার হিসেবে আটকে রাখতে পারবেন না।</strong> সেই চাপে আপনি যে ছাড়পত্রে স্বাক্ষর করেন তা চ্যালেঞ্জের জন্য দুর্বল। সৌদি শ্রম আইনের ধারা ৮ যেকোনো শর্ত বা ছাড়পত্রকে বাতিল ঘোষণা করে যা আইনের সাথে সাংঘর্ষিক। প্রস্থান ভিসার আতঙ্ক কখনো আপনাকে পাওনা টাকা ছেড়ে দিতে বাধ্য করবে না।
+        </p>
+        <h3>ফিলিপিনো প্রবাসীদের জন্য</h3>
+        <p>
+          আপনি যদি ফিলিপিনো শ্রমিক হন, সৌদি আরবে ফিলিপাইন ওভারসিজ লেবার অফিস (POLO) গুরুত্বপূর্ণ ভূমিকা পালন করে। POLO পর্যালোচনা ও যাচাই না করা পর্যন্ত কোনো চূড়ান্ত নিষ্পত্তি নথিতে স্বাক্ষর করবেন না। অফিসটি বিদেশে ফিলিপিনো শ্রমিকরা আইনত পাওয়া অধিকার ছেড়ে না দেয় তা নিশ্চিত করার জন্য বিদ্যমান।
+        </p>
+        <h3>সকল প্রবাসীর জন্য</h3>
+        <p>
+          দেশ ছাড়ার আগে, শ্রম আইনের ধারা ৬৪ অনুযায়ী আপনার সেবা-সমাপ্তি সনদ ডাউনলোড করুন। এই নথি আপনার সেবার সময়কাল নিশ্চিত করে এবং ভবিষ্যতের নিয়োগকর্তারা প্রায়ই রেফারেন্স হিসেবে চান। আপনার ইকামা বাতিলের পর বিদেশ থেকে তা খুঁজতে যাওয়ার চেয়ে প্রস্থানের আগে এটি পাওয়া অনেক সহজ।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">সৌদি আরবে একটি কোম্পানিকে ইওএসবি পরিশোধ করতে কত দিন সময় দেওয়া হয়?</p>
+            <p class="text-gray-400 text-sm mt-1">সৌদি শ্রম আইনের ধারা ৮৭ অনুযায়ী, নিয়োগকর্তাকে সমস্ত সেবা-সমাপ্তি সুবিধা ও চূড়ান্ত পাওনা চুক্তি শেষ হওয়ার তারিখ বা নোটিশ পিরিয়ড শেষ হওয়ার তারিখ থেকে সর্বোচ্চ ৫ দিনের মধ্যে পরিশোধ করতে হবে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">কেএসএ-তে ইওএসবি দেরিতে পরিশোধের জরিমানা কী?</p>
+            <p class="text-gray-400 text-sm mt-1">দেরি করা নিয়োগকর্তারা বিভিন্ন পরিণতির মুখোমুখি হন: মজুরি সুরক্ষা ব্যবস্থার পতাকা, মুকিম ও আবশের মতো সরকারি সেবা বন্ধ, MHRSD-এর প্রশাসনিক জরিমানা এবং সম্ভাব্য বাধ্যতামূলক শ্রম আদালতের রায়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ইওএসবি না পেলে কি আমার নিয়োগকর্তা চূড়ান্ত প্রস্থান ভিসা আটকে রাখতে পারেন?</p>
+            <p class="text-gray-400 text-sm mt-1">না। চূড়ান্ত প্রস্থান ভিসা আটকানো নিষ্পত্তি জোর করার আইনি উপায় নয়। আইনের ধারা ৮ অনুযায়ী সেই চাপে আপনি যে ছাড়পত্রে স্বাক্ষর করেন তা বাতিল, তাই পরে আপনি সম্পূর্ণ পাওনা দাবি করতে পারেন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">সৌদি আরবে অপরিশোধিত ইওএসবির জন্য কীভাবে অভিযোগ দায়ের করব?</p>
+            <p class="text-gray-400 text-sm mt-1">নিয়োগকর্তাকে আনুষ্ঠানিক লিখিত অনুরোধ দিয়ে শুরু করুন, তারপর এক সপ্তাহ পর MHRSD বন্ধুত্বপূর্ণ নিষ্পত্তি প্ল্যাটফর্মে (tarhal.mhrsd.gov.sa) যান। ব্যর্থ হলে স্থানীয় MHRSD শ্রম অফিসে আনুষ্ঠানিক অভিযোগ, তারপর প্রয়োজনে শ্রম আদালতে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">কেএসএ-তে কি সঞ্চিত ছুটির বেতন চূড়ান্ত নিষ্পত্তিতে অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। সঞ্চিত কিন্তু অব্যবহৃত বার্ষিক ছুটি মৌলিক বেতনের উপর নগদ সমতুল্য হিসেবে পরিশোধ করতে হবে, এবং এটি ৫ দিনের নিয়মের অধীনে আপনার চূড়ান্ত নিষ্পত্তির অংশ।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">দ্রুত প্রস্থানের জন্য কি আমি ইওএসবি ছেড়ে দেওয়ার ছাড়পত্রে স্বাক্ষর করতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">না। সৌদি শ্রম আইনের ধারা ৮ আইনের সাথে সাংঘর্ষিক যেকোনো শর্ত বা ছাড়পত্র বাতিল ঘোষণা করে, তাই আপনি জোরপূর্বক ছাড়পত্রকে চ্যালেঞ্জ করে সম্পূর্ণ আইনি পাওনা দাবি করতে পারেন।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>উপসংহার: নিজের অধিকার জানুন, সবকিছু নথিভুক্ত করুন এবং চাপে স্বাক্ষর করবেন না</h2>
+        <p>
+          মূল শিক্ষা সহজ: আপনার ইওএসবি পরিশোধ আপনার নিয়োগকর্তার অনুগ্রহ নয় — এটি একটি আইনি অধিকার যার কঠোর সময়সীমা আছে, এবং সৌদি ব্যবস্থা এটি প্রয়োগ করার জন্য তৈরি। আপনার শেষ দিনের আগে অধিকার জানুন, প্রতিটি অনুরোধ ও উত্তরের লিখিত রেকর্ড রাখুন, এবং চাপে কখনো ফাঁকা নথি বা ছাড়পত্রে স্বাক্ষর করবেন না। যেসব শ্রমিক সম্পূর্ণ নিষ্পত্তি ফেরত পান তারা হলেন ৫ দিনের নিয়ম বোঝেন, সবকিছু নথিভুক্ত করেন এবং পরিশোধ বন্ধ হলে পদ্ধতিগতভাবে এগোন।
+        </p>
+        <p class="mt-4">
+          সেই প্রক্রিয়ার সবচেয়ে শক্তিশালী হাতিয়ার হলো আপনার পাওনা সঠিক পরিমাণের জ্ঞান। নিয়োগকর্তা যখন নিষ্পত্তির অংক দেয়, আপনাকে সঙ্গে সঙ্গে জানতে হবে — এটি সঠিক কিনা।
+        </p>
+        <p class="mt-4">
+          আপনার কষ্টার্জিত টাকা ভাগ্যের উপর ছেড়ে দেবেন না। গ্রহণের আগে নিয়োগকর্তার দেওয়া পরিমাণ যাচাই করতে <a href="/final-settlement-calculator" class="text-desert-primary underline">SaudiToolHub ফাইনাল সেটেলমেন্ট ক্যালকুলেটর</a> ব্যবহার করুন।
+        </p>
+        <p class="mt-4">
+          পদত্যাগের আপনার অধিকার বুঝতে চান? চুক্তি কে শেষ করে তার উপর নির্ভর করে ধাপভিত্তিক ব্যবস্থা কীভাবে আপনার সংখ্যা বদলায় তা দেখতে <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">সৌদি পদত্যাগের ইওএসবি নিয়ম: ধারা ৮৪ বনাম ৮৫</a> নিয়ে আমাদের নির্দেশিকাটিও পড়ুন।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার সঠিক ইওএসবি হিসাব করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — শুধু আপনার মৌলিক বেতন, সেবার বছর ও চলে যাওয়ার কারণ দিন</p>
+          <a href="/final-settlement-calculator" class="text-desert-primary underline">ফ্রি ফাইনাল সেটেলমেন্ট ক্যালকুলেটর ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই নির্দেশিকাটি সৌদি শ্রম আইন (বিশেষত ধারা ৮৭) ভিত্তিক তথ্যগত উদ্দেশ্যে। বিধি ও পদ্ধতি পরিবর্তন সাপেক্ষ। আনুষ্ঠানিক বিরোধের জন্য সর্বদা মানব সম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয় (MHRSD)-এ রেফার করুন বা লাইসেন্সপ্রাপ্ত আইনি পেশাদারের পরামর্শ নিন।
+        </p>
+      </div>
+    `,
+    },
+  },
+  {
+    slug: 'article-81-employer-breach-full-eosb-entitlement-saudi-arabia-2026',
+    category: 'expat',
+    readTime: '15 min read',
+    date: '2026-08-05',
+    title: {
+      en: 'Article 81 Saudi Law: Get Full EOSB If Employer Breaches Contract',
+      ar: 'المادة 81 في نظام العمل السعودي: احصل على كامل مكافأة نهاية الخدمة عند إخلال صاحب العمل بالعقد',
+      ur: 'سعودی لیبر لاء کا آرٹیکل 81: اگر مالک نے کنٹریکٹ توڑا تو مکمل EOSB حاصل کریں',
+      tl: 'Artikulo 81 Saudi Law: Makuha ang Buong EOSB Kapag Nilabag ng Employer ang Kontrata',
+      bn: 'সৌদি শ্রম আইনের ধারা ৮১: নিয়োগকর্তা চুক্তি ভাঙলে সম্পূর্ণ EOSB পান',
+    },
+    description: {
+      en: 'Under Article 81 of the Saudi Labor Law, you can resign due to employer breach (unpaid wages, fraud, unsafe conditions) and still get 100% full EOSB. Learn the 5 valid grounds, proof requirements, and how to file an MHRSD complaint in 2026.',
+      ar: 'وفق المادة 81 من نظام العمل السعودي، يمكنك الاستقالة بسبب إخلال صاحب العمل بالعقد (عدم دفع الأجور، الغش، ظروف غير آمنة) مع الحصول على كامل مكافأة نهاية الخدمة 100%. تعلّم الأسباب الخمسة ومتطلبات الإثبات وكيفية تقديم شكوى إلى وزارة الموارد البشرية في 2026.',
+      ur: 'سعودی لیبر لاء کے آرٹیکل 81 کے تحت اگر مالک نے کام کے حالات خراب کیے (تنخواہ نہ دینا، دھوکہ، غیر محفوظ ماحول) تو آپ استعفیٰ دے کر بھی 100% مکمل EOSB حاصل کر سکتے ہیں۔ 2026 میں MHRSD شکایت کے 5 جائز اسباب، ثبوت اور طریقہ جانیں۔',
+      tl: 'Sa ilalim ng Artikulo 81 ng Saudi Labor Law, maaari kang mag-resign dahil sa paglabag ng employer (hindi pagbabayad ng sahod, pandaraya, hindi ligtas na kondisyon) at makakuha pa rin ng 100% buong EOSB. Alamin ang 5 wastong batayan, kailangang patunay, at paano magreklamo sa MHRSD sa 2026.',
+      bn: 'সৌদি শ্রম আইনের ধারা ৮১ অনুযায়ী, নিয়োগকর্তার চুক্তি ভাঙার কারণে (বেতন না দেওয়া, প্রতারণা, অস্বাভাবিক পরিস্থিতি) আপনি পদত্যাগ করলেও 100% সম্পূর্ণ EOSB পেতে পারেন। 2026-এ ৫টি বৈধ কারণ, প্রমাণ এবং MHRSD-তে অভিযোগের পদ্ধতি শিখুন।',
+    },
+    metaTitle: {
+      en: 'Article 81 Saudi Law: Get Full EOSB If Employer Breaches Contract',
+      ar: 'المادة 81: مكافأة نهاية الخدمة كاملة عند إخلال صاحب العمل',
+      ur: 'آرٹیکل 81: مالک کے عہد شکنی پر مکمل EOSB',
+      tl: 'Artikulo 81: Buong EOSB Kapag Nilabag ng Employer',
+      bn: 'ধারা ৮১: নিয়োগকর্তার প্রতারণার বিরুদ্ধে সম্পূর্ণ EOSB',
+    },
+    content: {
+      en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Labor Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Article 81 Saudi Labor Law: How to Get Full EOSB If Your Employer Breaches Contract (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Your employer stopped paying you. Now you are afraid to resign because you might lose your end-of-service benefit. Article 81 changes everything. Here is exactly how it works.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduction: The Fear Every Expats Feels</h2>
+        <p>
+          Your salary has not arrived for three months. Your Iqama is tied to a company that no longer answers your calls. Housing, utility, and family costs back home keep stacking up. You want to leave, but in the back of your mind a single fear holds you back: <strong class="text-desert-primary">if I resign, will the employer steal my End of Service Benefit (EOSB)?</strong>
+        </p>
+        <p class="mt-4">
+          That fear is entirely understandable. Under the normal resignation rules in Article 84, resigning early can cut your gratuity to zero. But there is another law most workers have never heard of, and it completely changes the calculation when the employer is the one at fault.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">The direct answer:</strong> Under <strong>Article 81 of the Saudi Labor Law</strong>, if an employer breaches the employment contract — through unpaid wages, fraud at hiring, unsafe conditions, or other listed violations — the employee has the right to resign and still receive <strong>100% full End of Service Benefit (EOSB)</strong>, bypassing the standard Article 84 resignation penalties.
+        </p>
+        <p class="mt-4">
+          In workplace terms, this is a form of <strong>constructive dismissal</strong>: the employer&apos;s own conduct effectively forces you out, so the law treats your resignation as though the employer dismissed you. That single legal distinction is worth thousands of riyals. Read this guide carefully, gather your proof, and you can walk away with every riyal you are owed. If you are not sure what figure you should fight for, use our <a href="/eosb-calculator" class="text-desert-primary underline">Free EOSB Calculator</a> to estimate your full entitlement before you take any action.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Not sure what you are owed?</strong> Use our <a href="/eosb-calculator" class="text-desert-primary underline">Free EOSB Calculator</a> to estimate your full entitlement before taking legal action. It takes less than a minute and your data stays private.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What is Article 81? The "Constructive Dismissal" Rule</h2>
+        <p>
+          Article 81 of the Saudi Labor Law (Royal Decree No. M/51) lists specific circumstances where an employer&apos;s conduct becomes so unlawful that the worker has the right to resign. When you resign under one of these grounds, the law treats your resignation as a dismissal by the employer.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Constructive dismissal, in simple terms:</strong> the employer makes working conditions so unbearable or illegal — or breaches the contract so completely — that the employee is effectively forced to leave. The employee appears to resign, but legally it is the employer who ended the relationship through their own misconduct.
+        </p>
+        <p class="mt-4">
+          This distinction matters enormously for your money. Here is the key legal result: <strong class="text-white">an Article 81 resignation is treated exactly like an Article 85 employer termination, guaranteeing you 100% full EOSB regardless of your years of service.</strong> Even if you worked for less than two years — where a normal resignation would give you nothing — an Article 81 breach resignation still protects your full gratuity.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Why the law does this:</strong> Saudi labor policy punishes the party that breaks the contract, not the party that suffers from it. If the employer forced you out by their own illegal actions, it would be unjust for them to also deduct your gratuity by pretending you left voluntarily. Article 81 closes that loophole.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>5 Valid Grounds for an Article 81 Resignation (With Proof Requirements)</h2>
+        <p>
+          Not every frustration counts as a valid Article 81 ground. The law lists specific, serious violations. To protect your rights you must match your situation to one of these five grounds and build a paper trail for it. Here is each ground with the exact evidence the authorities expect to see.
+        </p>
+        <h3>1. Non-Payment of Wages (The Most Common)</h3>
+        <p>
+          Working two or more consecutive months without pay is the clearest and most common basis for an Article 81 resignation. Once the employer misses that threshold, the breach is objective and provable through records you can obtain independently.
+        </p>
+        <p class="mt-2"><strong class="text-white">Proof needed:</strong> Your bank statements showing no salary credits, your <strong>Qiwa</strong> employment contract showing your agreed salary, and the absence of any Wage Protection System (WPS) record for the unpaid period. The WPS automatically logs every private-sector salary transfer, so its silence is itself evidence.</p>
+        <h3>2. Fraud or Deception at Hiring</h3>
+        <p>
+          If the employer deceived you at recruitment — promising a role, salary, or location different from what your official contract actually says — that fraud is a valid ground. The deception must be significant and tied to the written contract.
+        </p>
+        <p class="mt-2"><strong class="text-white">Proof needed:</strong> The original job offer (email, offer letter, agency communication), your official Qiwa contract, and evidence of the actual role, salary, and location you were given. The gap between what was promised and what the contract states is your proof.</p>
+        <h3>3. Assault, Cruelty, or Moral Harassment</h3>
+        <p>
+          Physical assault, severe verbal abuse, or sustained harassment by the employer or their representatives gives you the right to resign and keep your full EOSB. This ground protects your safety and dignity, not just your money.
+        </p>
+        <p class="mt-2"><strong class="text-white">Proof needed:</strong> Police reports, medical reports of any injuries, witness statements, and documented complaints you sent to HR or management. A paper trail of your attempts to report the behavior strengthens your case enormously.</p>
+        <h3>4. Unsafe or Hazardous Working Conditions</h3>
+        <p>
+          An employer who refuses to provide mandatory safety equipment, or who forces you to work in life-threatening conditions without protection, breaches their duty of care. This is a valid ground for an Article 81 exit.
+        </p>
+        <p class="mt-2"><strong class="text-white">Proof needed:</strong> Photographs of the conditions, written safety violation reports, and any records of Ministry of Human Resources (MHRSD) inspection requests you raised. Official inspection findings are the strongest evidence you can offer.</p>
+        <h3>5. Illegal Tasks</h3>
+        <p>
+          If the employer forces you to perform tasks that are illegal, or fundamentally different from the profession recorded on your contract, that is a breach of the agreement and a wider breach of Saudi law. Your professional identity and legal safety are being violated.
+        </p>
+        <p class="mt-2"><strong class="text-white">Proof needed:</strong> The profession listed on your Qiwa contract versus evidence of the actual daily tasks you perform. Photographs, duty rosters, and correspondence proving the mismatch make your case concrete.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Entitlement: Why You Get 100% Full EOSB</h2>
+        <p>
+          To understand why Article 81 is so valuable, you first have to understand what a normal resignation costs you. Under <strong>Article 84</strong>, the resignation EOSB schedule is progressive and punishing for early exits:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Under 2 years of service</p>
+            <p class="text-gray-400 text-sm">Resignation EOSB = <strong>0%</strong>. You lose your entire gratuity by resigning early under Article 84.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2 to 5 years</p>
+            <p class="text-gray-400 text-sm">You receive only <strong>1/3</strong> of your full EOSB if you resign and are not covered by an exception.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">5 to 10 years</p>
+            <p class="text-gray-400 text-sm">You receive <strong>2/3</strong> of your full EOSB under the normal resignation rule.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Over 10 years</p>
+            <p class="text-gray-400 text-sm">Only at this stage does a normal resignation give you the <strong>full</strong> 100% EOSB.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          Now apply <strong>Article 81</strong> to that same picture: because the employer breached the contract, <strong class="text-white">Article 81 overrides Article 84 entirely.</strong> The resignation penalty disappears. You receive <strong class="text-desert-primary">100% full EOSB</strong> regardless of your years of service, because the law treats the resignation as a termination by the employer. In short, the law protects the victim, not the breaching employer.
+        </p>
+        <p class="mt-4">
+          There is one more layer of protection. In severe cases — such as prolonged non-payment that caused you documented financial harm — the employee may also be entitled to <strong>compensation for damages</strong> beyond the gratuity. This additional claim usually requires a ruling from the Labor Court, so it is a separate and more involved step. It is worth raising if your employer attempted to evade the law outright.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The bottom line:</strong> if you have a valid Article 81 ground, the fear of losing your gratuity by resigning disappears. The full EOSB is your lawful entitlement, and the authorities expect a well-documented claim to be honored.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Step-by-Step: How to Execute an Article 81 Resignation Safely</h2>
+        <p>
+          Executing the resignation correctly is where most workers make avoidable mistakes. One wrong move — especially simply stopping work — can hand the employer a weapon to use against you. Follow this sequence in order, and do not skip the documentation step.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 1: Document Everything</p>
+            <p class="text-gray-400 text-sm">Gather your bank statements, Qiwa contract, job offer, emails, and WhatsApp messages that prove the breach. This is the foundation of your entire claim. Without evidence, even a valid Article 81 ground is hard to prove. Copy everything to a safe personal storage before you leave.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 2: Do NOT Just "No Show" (Abscond)</p>
+            <p class="text-gray-400 text-sm">Never simply stop coming to work without notice. An unexplained absence gives the employer grounds to file a <strong>Huroob (absconding)</strong> report, which can complicate or block your EOSB claim and your final exit. Your resignation must be formally communicated, not performed by silence.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 3: Send a Formal Written Notice</p>
+            <p class="text-gray-400 text-sm">Send a dated email or letter to HR stating: "I am resigning under Article 81 of the Saudi Labor Law due to [specific breach, e.g., unpaid wages for 3 months]. I expect my full EOSB and final settlement within 5 days as per Article 87." Keep the sent copy and any reply. This transforms your exit into a legal record.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 4: File on the "Friendly Settlement" (Tawafuq) Portal</p>
+            <p class="text-gray-400 text-sm">If the employer refuses to pay, immediately file a complaint at <strong>tarhal.mhrsd.gov.sa</strong>. Select "End of Service Benefits" and cite the Article 81 breach. This free portal resolves most wage disputes without formal litigation and carries real enforcement weight.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Step 5: Escalate to the MHRSD Labor Office</p>
+            <p class="text-gray-400 text-sm">If Tawafuq does not resolve the matter, request a formal hearing at your local MHRSD labor office. The officer will review the Wage Protection System records and your bank statements. Bring your full evidence file. An official finding against the employer is enforceable and damages their compliance record.</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">A note on timing:</strong> the friendly settlement platform often resolves cases within days or a few weeks; a formal labor office hearing or labor court case takes longer. Start the process immediately and keep every receipt, payslip, and message as you go.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-World Calculation Examples (Step-by-Step)</h2>
+        <p>
+          Numbers make the law concrete. Here are two worked examples showing how much money Article 81 can mean compared with a normal resignation.
+        </p>
+        <h3>Scenario A: The Unpaid Wage Victim</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>Basic salary: 4,000 SAR/month. Service: 3 years.</p>
+          <p>Employer has not paid salary for 3 months. Worker resigns under Article 81.</p>
+          <p class="mt-3 text-desert-primary font-bold">Normal Article 84 resignation payout (if resigned voluntarily):</p>
+          <p>Full EOSB = (4,000 ÷ 2) × 3 = 6,000 SAR</p>
+          <p>Article 84 at 3 years (2–5 bracket): only 1/3 = 2,000 SAR</p>
+          <p class="mt-3 text-desert-primary font-bold">Article 81 payout:</p>
+          <p>100% full EOSB = 6,000 SAR</p>
+          <p>Plus 3 months of unpaid back wages = 3 × 4,000 = 12,000 SAR</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Total recovery = 18,000 SAR</p>
+          <p class="text-gray-400 text-xs mt-1">That is 16,000 SAR more than a voluntary resignation would have produced.</p>
+        </div>
+        <h3>Scenario B: The Fraudulent Contract</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>Worker hired as an "IT Manager" on Qiwa, forced to work as a "Driver".</p>
+          <p>Resigns under Article 81 after 1 year of service. Basic salary 5,000 SAR.</p>
+          <p class="mt-3 text-desert-primary font-bold">Normal Article 84 payout (under 2 years):</p>
+          <p>Resignation EOSB = 0 SAR</p>
+          <p class="mt-3 text-desert-primary font-bold">Article 81 payout:</p>
+          <p>100% of accrued EOSB = (5,000 ÷ 2) × 1 = 2,500 SAR</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Total recovery = 2,500 SAR (instead of 0)</p>
+        </div>
+        <p class="mt-4">
+          Both examples show the same principle: <strong class="text-white">Article 81 does not punish you for leaving a broken workplace — it guarantees you full gratuity and your unpaid wages.</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats (GEO Targeting)</h2>
+        <p>
+          Your nationality and community play a practical role in how you should handle an Article 81 resignation. Here is what workers from the largest expat communities in Saudi Arabia should know.
+        </p>
+        <h3>For South Asian Expats (PK / IN / BD)</h3>
+        <p>
+          Employers often threaten to cancel your Iqama or file a Huroob report the moment you complain about unpaid wages, precisely to scare you away from making a claim. Understand this clearly: <strong class="text-desert-primary">MHRSD heavily penalizes employers who file false Huroob reports to avoid paying EOSB.</strong> A retaliatory Huroob filed after you sent a documented breach notice actually strengthens your case, because it shows the employer acting against you for asserting your rights. Document the timing of your notice versus the Huroob report, and the discrepancy becomes evidence in your favor.
+        </p>
+        <h3>For Filipino Expats</h3>
+        <p>
+          If you are a Filipino worker, the <strong>Philippine Overseas Labor Office (POLO)</strong> in Saudi Arabia is your strongest ally. POLO can help you draft the Article 81 resignation letter and represent you during MHRSD settlement talks. Never sign a final settlement document without first having POLO review it. The office exists to ensure overseas Filipino workers receive every right the law grants them.
+        </p>
+        <h3>For All Expats</h3>
+        <p>
+          Remember the protection of <strong>Article 8</strong> of the Labor Law: any document the employer forces you to sign that waives your EOSB rights is <strong class="text-desert-primary">null and void</strong>, even if you signed it under pressure. A coerced "settlement" or "full and final" waiver does not legally extinguish your entitlement. Do not let the fear of losing your exit visa push you into signing away what the law protects.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>5 Common Mistakes That Destroy Your Article 81 EOSB Claim</h2>
+        <p>
+          A strong legal case can still be lost through careless actions, and a weak one can sometimes be won with perfect paperwork. These are the five mistakes that cost expats their full EOSB under Article 81 more often than any courtroom battle. Read each one and refuse to make it, because prevention is far cheaper than correction.
+        </p>
+        <h3>Mistake 1: Leaving Without Formal Written Notice</h3>
+        <p>
+          Simply stopping work and flying home without a written resignation turns a valid Article 81 case into a potential <strong>absconding (Huroob)</strong> report. The employer then frames your departure as abandonment rather than breach, which gives them a lever to dismiss your EOSB claim. Always submit dated, written notice that names the specific Article 81 ground before you leave the country.
+        </p>
+        <h3>Mistake 2: Signing a "Full and Final Settlement" Under Pressure</h3>
+        <p>
+          The most dangerous paper in Saudi employment is the release you are handed at the airport or under a one-week exit-visa deadline. Even when the pressure is real, an unsigned document preserves the record of your objection. Article 8 makes waivers that strip statutory EOSB null and void, but a signed release makes every later dispute harder to win. Do not sign anything you have not checked against your own calculation.
+        </p>
+        <h3>Mistake 3: Accepting the Article 84 Fraction Because "That Is the Formula"</h3>
+        <p>
+          HR will often offer one-third or two-thirds of your gratuity based on the Article 84 resignation schedule, quietly assuming you do not know that Article 81 overrides it. Accepting that number inside a settlement release waives the difference you are owed. Compare every offer to your full EOSB entitlement and its unpaid-wages component before you agree to anything.
+        </p>
+        <h3>Mistake 4: Destroying or Losing Your Documentation</h3>
+        <p>
+          The single greatest predictor of success is documentary proof: bank statements showing missed payments, your signed Qiwa contract, saved WhatsApp threats, and dated complaints to management. Delete nothing and store copies in a personal account the employer and their HR cannot touch or revoke.
+        </p>
+        <h3>Mistake 5: Waiting Too Long Before Escalating</h3>
+        <p>
+          Delays weaken claims and give the employer time to fabricate records or pressure witnesses. File promptly on the Tawafuq portal and escalate to the MHRSD labor office without months of personal negotiation. A well-prepared, timely claim is respected; a stale one is disputed and hard to prove.
+        </p>
+        <p class="mt-4">
+          The common thread in every mistake is letting emotion override paperwork. Keep your proof safe, resign in writing, and never sign away what the law grants. If you are unsure of your number, <a href="/eosb-calculator" class="text-desert-primary underline">calculate your full entitlement</a> before you confront anyone.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can I get full EOSB if I resign due to unpaid salary in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Yes. Under Article 81 of the Saudi Labor Law, resigning due to unpaid wages (2+ months) or other employer breach entitles you to 100% full EOSB, bypassing the Article 84 resignation penalties.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">What is Article 81 of the Saudi Labor Law?</p>
+            <p class="text-gray-400 text-sm mt-1">Article 81 lists serious employer breaches — unpaid wages, fraud at hiring, assault or harassment, unsafe conditions, and illegal tasks — that allow you to resign while keeping your full end-of-service benefit, treated like an employer termination.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">How many months of unpaid salary justify an Article 81 resignation?</p>
+            <p class="text-gray-400 text-sm mt-1">Two or more consecutive months of unpaid wages is the clearest threshold for an Article 81 resignation. The non-payment must be documented through bank statements and the absence of Wage Protection System records.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Can my employer file a Huroob (absconding) report if I resign under Article 81?</p>
+            <p class="text-gray-400 text-sm mt-1">Your employer should not, and a false Huroob filed to avoid paying EOSB is heavily penalized by MHRSD. A documented Article 81 notice protects you because it proves your exit was a lawful resignation, not an absence.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Do I have to serve a notice period if I resign under Article 81?</p>
+            <p class="text-gray-400 text-sm mt-1">Because the employer breached the contract first, an Article 81 resignation is not treated as a normal resignation requiring the standard notice penalty. You must still formally communicate your resignation in writing to protect yourself from an absconding claim.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">How do I prove employer breach of contract to MHRSD?</p>
+            <p class="text-gray-400 text-sm mt-1">Provide bank statements showing unpaid wages, your Qiwa contract, documented complaints, photos or reports of unsafe conditions, and any correspondence showing the breach. Wage Protection System records support your claim automatically.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Conclusion: Do Not Let an Unethical Employer Steal Your EOSB</h2>
+        <p>
+          Here is the takeaway you came for: <strong class="text-white">Article 81 is built for exactly the situation you are facing.</strong> When your employer stops paying, deceives you, endangers you, or forces you to break the law, you are not stuck between losing your job and losing your gratuity. The law hands you a third option — resign, claim full EOSB, and pursue your unpaid wages.
+        </p>
+        <p class="mt-4">
+          The only requirement that matters is proof. Document the breach while it is happening, resign in writing under Article 81, and escalate through the Tawafuq portal and the MHRSD labor office. The system is designed to rule against the breaching employer, not the worker who was wronged.
+        </p>
+        <p class="mt-4">
+          Do not walk into a confrontation guessing your number. <strong class="text-desert-primary">Calculate exactly what you are owed before confronting your employer.</strong> Use the <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB Calculator</a> to get your 100% entitlement figure, then negotiate — or escalate — from a position of knowledge.
+        </p>
+        <p class="mt-4">
+          Need to understand the standard resignation framework that Article 81 overrides? Also read our guide on <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Article 84 vs 85</a> to see how the tiers normally apply.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Calculate Your Full EOSB Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — enter your basic salary, years of service, and reason for leaving</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">Use the Free EOSB Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on the Saudi Labor Law (specifically Article 81). Every case is unique. For official disputes, always refer to the Ministry of Human Resources and Social Development (MHRSD) or consult a licensed legal professional in Saudi Arabia.
+        </p>
+      </div>
+      `,
+      ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل العمالة الوافدة</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">المادة 81 في نظام العمل السعودي: كيف تحصل على كامل مكافأة نهاية الخدمة عند إخلال صاحب العمل بالعقد (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">توقف صاحب العمل عن دفع راتبك. وأنت الآن تخشى الاستقالة لأنك قد تخسر مكافأة نهاية الخدمة. المادة 81 تغيّر كل شيء. إليك بالضبط كيف تعمل.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مقدمة: الخوف الذي يشعر به كل وافد</h2>
+        <p>
+          لم يصل راتبك منذ ثلاثة أشهر. إقامتك مرتبطة بشركة لم تعد ترد على اتصالاتك. التزاماتك المالية تجاه أسرتك في بلدك لا تتوقف. تريد المغادرة، لكن خوفاً واحداً في عقلك يمنعك: <strong class="text-desert-primary">إذا استقلت، فهل يسرق صاحب العمل مكافأة نهاية الخدمة؟</strong>
+        </p>
+        <p class="mt-4">
+          هذا الخوف مفهوم تماماً. وفق قواعد الاستقالة العادية في المادة 84، قد تتلاشى مكافأتك إلى الصفر إذا استقلت مبكراً. لكن هناك قانوناً آخر لم يسمع به معظم العمال، وهو يغير الحساب تماماً عندما يكون صاحب العمل هو المخطئ.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">الإجابة المباشرة:</strong> وفق <strong>المادة 81 من نظام العمل السعودي</strong>، إذا أخلّ صاحب العمل بعقد العمل — بعدم دفع الأجور، أو الغش عند التوظيف، أو ظروف غير آمنة، أو غير ذلك من المخالفات المذكورة — يحق للموظف الاستقالة والحصول على <strong>كامل مكافأة نهاية الخدمة (100%)</strong>، متجاوزاً عقوبات الاستقالة المعتادة في المادة 84.
+        </p>
+        <p class="mt-4">
+          في لغة أماكن العمل، هذا شكل من أشكال <strong>الإنهاء الضمني (Constructive Dismissal)</strong>: تصرفات صاحب العمل ذاتها تجبرك على المغادرة، لذا يعامل القانون استقالتك وكأن صاحب العمل هو من أنهى عقدك. هذا الفارق القانوني الواحد يستحق آلاف الريالات. اقرأ هذا الدليل بعناية، اجمع أدلتك، وستخرج بكل ريال تستحقه. وإذا لم تكن متأكداً من الرقم الذي يجب أن تطالب به، استخدم <a href="/eosb-calculator" class="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة المجانية</a> لتقدير مستحقاتك الكاملة قبل اتخاذ أي إجراء.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">غير متأكد من مستحقاتك؟</strong> استخدم <a href="/eosb-calculator" class="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة المجانية</a> لتقدير مستحقاتك الكاملة قبل اتخاذ أي إجراء قانوني. تستغرق أقل من دقيقة وتبقى بياناتك خاصة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ما هي المادة 81؟ قاعدة "الإنهاء الضمني"</h2>
+        <p>
+          تسرد المادة 81 من نظام العمل السعودي (المرسوم الملكي رقم م/51) حالات محددة تصبح فيها تصرفات صاحب العمل غير قانونية إلى درجة يحق معها للعامل الاستقالة. وعندما تستقيل وفق أحد هذه الأسباب، يعامل القانون استقالتك كأنها إنهاء من صاحب العمل.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">الإنهاء الضمني، ببساطة:</strong> يجعل صاحب العمل ظروف العمل غير محتملة أو غير قانونية — أو يخالف العقد بالكامل — بحيث يضطر الموظف عملياً إلى المغادرة. يبدو الموظف كأنه استقال طوعاً، لكن قانونياً هو صاحب العمل الذي أنهى العلاقة بسلوكه المخالف.
+        </p>
+        <p class="mt-4">
+          هذا التمييز مهم جداً لأموالك. إليك النتيجة القانونية الجوهرية: <strong class="text-white">تتعامل الأنظمة مع استقالة المادة 81 تماماً مثل إنهاء صاحب العمل وفق المادة 85، مما يضمن لك 100% من كامل مكافأة نهاية الخدمة بغض النظر عن سنوات خدمتك.</strong> حتى لو عملت أقل من سنتين — حيث لا تمنحك الاستقالة العادية شيئاً — فإن الاستقالة بسبب إخلال المادة 81 تحمي مكافأتك كاملة.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">لماذا يفعل القانون ذلك:</strong> سياسة العمل السعودية تعاقب الطرف الذي يخالف العقد، لا الطرف الذي تضرر منه. إذا أجبرك صاحب العمل على الرحيل بأفعاله غير القانونية، فمن الظلم أن يخصم من مكافأتك أيضاً بادعاء أنك غادرت طوعاً. المادة 81 تسد هذه الثغرة.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>5 أسباب صحيحة للاستقالة وفق المادة 81 (مع متطلبات الإثبات)</h2>
+        <p>
+          ليست كل إحباطات العمل سبباً صحيحاً وفق المادة 81. يسرد القانون مخالفات محددة وخطيرة. لحماية حقوقك يجب أن تطابق حالتك مع أحد هذه الأسباب الخمسة وتبني سجلاً مكتوباً لها. إليك كل سبب مع الأدلة التي تتوقع الجهات رؤيتها.
+        </p>
+        <h3>1. عدم دفع الأجور (الأكثر شيوعاً)</h3>
+        <p>
+          العمل شهرين متتاليين أو أكثر دون أجر هو أوضح وأكثر الأسباب شيوعاً للاستقالة وفق المادة 81. عند تجاوز هذا الحد، يصبح الإخلال موضوعياً وقابلاً للإثبات عبر سجلات يمكنك الحصول عليها بشكل مستقل.
+        </p>
+        <p class="mt-2"><strong class="text-white">الأدلة المطلوبة:</strong> كشوفاتك البنكية التي لا تظهر أي راتب، وعقدك على منصة <strong>قوى (Qiwa)</strong> الذي يبين الراتب المتفق عليه، وغياب أي سجل لنظام حماية الأجور (WPS) عن الفترة غير المدفوعة. نظام حماية الأجور يسجل تلقائياً كل تحويل رواتب في القطاع الخاص، لذا صمته هو بحد ذاته دليل.</p>
+        <h3>2. الغش أو الخداع عند التوظيف</h3>
+        <p>
+          إذا خدعك صاحب العمل عند التعيين — بوعدك بدور أو راتب أو موقع مختلف عما يقوله عقدك الرسمي فعلاً — فهذا الغش سبب صحيح. يجب أن يكون الخداع جوهرياً ومرتبطاً بالعقد المكتوب.
+        </p>
+        <p class="mt-2"><strong class="text-white">الأدلة المطلوبة:</strong> عرض العمل الأصلي (بريد أو خطاب عرض أو مراسلات وكالة)، وعقدك الرسمي على منصة قوى، وأدلة الدور والراتب والموقع الفعليين. الفجوة بين ما وُعد به وما ينص عليه العقد هي دليلك.</p>
+        <h3>3. الاعتداء أو القسوة أو التحرش المعنوي</h3>
+        <p>
+          الاعتداء البدني أو الإساءة اللفظية الشديدة أو التحرش المستمر من صاحب العمل أو ممثليه يمنحك الحق في الاستقالة والاحتفاظ بكامل مكافأة نهاية الخدمة. هذا السبب يحمي سلامتك وكرامتك، لا أموالك فقط.
+        </p>
+        <p class="mt-2"><strong class="text-white">الأدلة المطلوبة:</strong> بلاغات الشرطة، التقارير الطبية عن أي إصابات، أقوال الشهود، والشكاوى الموثقة التي أرسلتها إلى الموارد البشرية أو الإدارة. سجل ورقي لمسار محاولاتك الإبلاغية يقوي قضيتك بشكل هائل.</p>
+        <h3>4. ظروف عمل غير آمنة أو خطرة</h3>
+        <p>
+          صاحب العمل الذي يرفض توفير معدات السلامة الإلزامية، أو يضطرك للعمل في ظروف تهدد حياتك دون حماية، يخالف واجب الرعاية. هذا سبب صحيح للخروج وفق المادة 81.
+        </p>
+        <p class="mt-2"><strong class="text-white">الأدلة المطلوبة:</strong> صور للظروف، تقارير مكتوبة عن مخالفات السلامة، وأي سجلات لطلبات تفتيش من وزارة الموارد البشرية (MHRSD) قدمتها. نتائج التفتيش الرسمية هي أقوى الأدلة التي يمكنك تقديمها.</p>
+        <h3>5. المهام غير القانونية</h3>
+        <p>
+          إذا أجبرك صاحب العمل على أداء مهام غير قانونية، أو مختلفة جوهرياً عن المهنة المسجلة في عقدك، فهذا إخلال بالاتفاق وإخلال أوسع بالقانون السعودي. هويتك المهنية وسلامتك القانونية تنتهك.
+        </p>
+        <p class="mt-2"><strong class="text-white">الأدلة المطلوبة:</strong> المهنة المذكورة في عقدك على منصة قوى مقابل أدلة المهام اليومية الفعلية. الصور وجداول المناوبات والمراسلات التي تثبت الفجوة تجعل قضيتك ملموسة.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>المستحق: لماذا تحصل على 100% من كامل مكافأة نهاية الخدمة</h2>
+        <p>
+          لفهم لماذا المادة 81 بهذه الأهمية، يجب أولاً أن تفهم كم تكلفك الاستقالة العادية. وفق <strong>المادة 84</strong>، جدول مكافأة الاستقالة تصاعدي وعقابي للرحيل المبكر:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">أقل من سنتين خدمة</p>
+            <p class="text-gray-400 text-sm">مكافأة الاستقالة = <strong>0%</strong>. تفقد مكافأتك كاملة إذا استقلت مبكراً وفق المادة 84.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">من سنتين إلى 5 سنوات</p>
+            <p class="text-gray-400 text-sm">تحصل فقط على <strong>الثلث</strong> من مكافأتك الكاملة إذا استقلت دون استثناء يحميك.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">من 5 إلى 10 سنوات</p>
+            <p class="text-gray-400 text-sm">تحصل على <strong>الثلثين</strong> من مكافأتك الكاملة وفق قاعدة الاستقالة العادية.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">أكثر من 10 سنوات</p>
+            <p class="text-gray-400 text-sm">فقط في هذه المرحلة تمنحك الاستقالة العادية <strong>كامل</strong> المكافأة بنسبة 100%.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          الآن طبّق <strong>المادة 81</strong> على الصورة نفسها: لأن صاحب العمل أخلّ بالعقد، فإن <strong class="text-white">المادة 81 تتجاوز المادة 84 بالكامل.</strong> تختفي عقوبة الاستقالة. تحصل على <strong class="text-desert-primary">100% من كامل مكافأة نهاية الخدمة</strong> بغض النظر عن سنوات الخدمة، لأن القانون يعامل الاستقالة كإنهاء من صاحب العمل. باختصار، القانون يحمي الضحية، لا صاحب العمل المخلّ بالعقد.
+        </p>
+        <p class="mt-4">
+          وهناك طبقة حماية إضافية. في الحالات الشديدة — مثل عدم الدفع المطول الذي سبب لك ضرراً مالياً موثقاً — قد يحق للموظف أيضاً <strong>تعويضاً عن الأضرار</strong> إضافة إلى المكافأة. يتطلب هذا المطالبة عادة حكماً من محكمة العمل، لذا فهي خطوة منفصلة وأكثر تعقيداً. يجدر رفعها إذا حاول صاحب العمل التحايل على القانون علناً.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">الخلاصة:</strong> إذا كان لديك سبب صحيح وفق المادة 81، يختفي خوف فقدان مكافأتك بالاستقالة. كامل مكافأة نهاية الخدمة حق قانوني لك، وتتوقع الجهات أن تُحترم المطالبة الموثقة جيداً.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خطوة بخطوة: كيف تنفذ استقالة المادة 81 بأمان</h2>
+        <p>
+          تنفيذ الاستقالة بشكل صحيح هو المكان الذي يرتكب فيه معظم العمال أخطاءً يمكن تجنبها. خطوة خاطئة واحدة — خاصة مجرد التوقف عن العمل — قد تمنح صاحب العمل سلاحاً يستخدمه ضدك. اتبع هذا التسلسل بالترتيب، ولا تتخطَّ خطوة التوثيق.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 1: وثّق كل شيء</p>
+            <p class="text-gray-400 text-sm">اجمع كشوفاتك البنكية، عقدك على منصة قوى، عرض العمل، البريد، ورسائل واتساب التي تثبت الإخلال. هذا أساس دعواك كلها. بدون أدلة، يصعب إثبات حتى السبب الصحيح وفق المادة 81. انسخ كل شيء إلى تخزين شخصي آمن قبل مغادرتك.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 2: لا "تتغيب" فقط (الهروب)</p>
+            <p class="text-gray-400 text-sm">لا تتوقف عن الذهاب إلى العمل دون إشعار أبداً. الغياب غير المبرر يمنح صاحب العمل مبرراً لتقديم بلاغ <strong>هروب (Huroob)</strong>، مما قد يعقد أو يحجب مطالبتك بمكافأة نهاية الخدمة وخروجك النهائي. يجب أن تكون استقالتك معلنة رسمياً، لا أن تُنفذ بالصمت.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 3: أرسل إشعاراً كتابياً رسمياً</p>
+            <p class="text-gray-400 text-sm">أرسل بريداً أو خطاباً مؤرخاً إلى الموارد البشرية نصه: "أستقيل وفق المادة 81 من نظام العمل السعودي بسبب [الإخلال المحدد، مثلاً عدم دفع الأجور لثلاثة أشهر]. أتوقع كامل مكافأة نهاية الخدمة والتسوية النهائية خلال 5 أيام وفق المادة 87." احتفظ بنسخة الإرسال وأي رد. هذا يحول خروجك إلى سجل قانوني.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 4: قدّم بلاغاً على منصة التسوية الودية (توفيق)</p>
+            <p class="text-gray-400 text-sm">إذا رفض صاحب العمل الدفع، قدّم بلاغاً فوراً على <strong>tarhal.mhrsd.gov.sa</strong>. اختر "مستحقات نهاية الخدمة" واذكر إخلال المادة 81. هذه المنصة المجانية تحل معظم نزاعات الأجور دون تقاضٍ رسمي وتحمل قوة تنفيذية حقيقية.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخطوة 5: تصعيد إلى مكتب العمل في وزارة الموارد البشرية</p>
+            <p class="text-gray-400 text-sm">إذا لم تحل منصة التوفيق الأمر، اطلب جلسة رسمية في مكتب العمل المحلي. سيراجع الموظف سجلات نظام حماية الأجور وكشوفاتك البنكية. أحضر ملف أدلتك الكامل. القرار الرسمي ضد صاحب العمل قابل للتنفيذ ويضر بسجل امتثاله.</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ملاحظة عن التوقيت:</strong> غالباً تحل منصة التسوية الودية القضايا خلال أيام أو أسابيع قليلة؛ بينما تستغرق الجلسة الرسمية في مكتب العمل أو قضية محكمة العمل وقتاً أطول. ابدأ الإجراء فوراً واحتفظ بكل إيصال وكشف راتب ورسالة أثناء سيرك.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أمثلة حسابية واقعية (خطوة بخطوة)</h2>
+        <p>
+          الأرقام تجعل القانون ملموساً. إليك مثالان عمليان يبينان كم تعني المادة 81 من أموال مقارنة بالاستقالة العادية.
+        </p>
+        <h3>السيناريو أ: ضحية عدم دفع الأجور</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>الراتب الأساسي: 4,000 ريال/شهر. الخدمة: 3 سنوات.</p>
+          <p>صاحب العمل لم يدفع الراتب لمدة 3 أشهر. الموظف يستقيل وفق المادة 81.</p>
+          <p class="mt-3 text-desert-primary font-bold">دفعة الاستقالة العادية وفق المادة 84 (لو استقال طوعاً):</p>
+          <p>كامل المكافأة = (4,000 ÷ 2) × 3 = 6,000 ريال</p>
+          <p>المادة 84 عند 3 سنوات (شريحة 2–5): الثلث فقط = 2,000 ريال</p>
+          <p class="mt-3 text-desert-primary font-bold">دفعة المادة 81:</p>
+          <p>100% من كامل المكافأة = 6,000 ريال</p>
+          <p>إضافة إلى 3 أشهر من الأجور المتأخرة = 3 × 4,000 = 12,000 ريال</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">إجمالي الاسترداد = 18,000 ريال</p>
+          <p class="text-gray-400 text-xs mt-1">أي 16,000 ريال أكثر مما كانت ستنتجه الاستقالة الطوعية.</p>
+        </div>
+        <h3>السيناريو ب: العقد الاحتيالي</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>عُيّن الموظف "مدير تقنية معلومات" على منصة قوى، وأُجبر على العمل "سائقاً".</p>
+          <p>يستقيل وفق المادة 81 بعد سنة واحدة من الخدمة. الراتب الأساسي 5,000 ريال.</p>
+          <p class="mt-3 text-desert-primary font-bold">دفعة المادة 84 العادية (أقل من سنتين):</p>
+          <p>مكافأة الاستقالة = 0 ريال</p>
+          <p class="mt-3 text-desert-primary font-bold">دفعة المادة 81:</p>
+          <p>100% من المكافأة المستحقة = (5,000 ÷ 2) × 1 = 2,500 ريال</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">إجمالي الاسترداد = 2,500 ريال (بدلاً من 0)</p>
+        </div>
+        <p class="mt-4">
+          يظهر المثالان المبدأ نفسه: <strong class="text-white">المادة 81 لا تعاقبك على مغادرة مكان عمل مكسور — بل تضمن لك المكافأة كاملة وأجورك المتأخرة.</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعتبارات خاصة للوافدين (استهداف جغرافي)</h2>
+        <p>
+          تلعب جنسيتك ومجتمعك دوراً عملياً في كيفية تعاملك مع استقالة المادة 81. إليك ما يجب أن يعرفه العمال من أكبر مجتمعات الوافدين في السعودية.
+        </p>
+        <h3>للوافدين من جنوب آسيا (باكستان / الهند / بنغلاديش)</h3>
+        <p>
+          كثيراً ما يهدد أصحاب العمل بإلغاء إقامتك أو تقديم بلاغ هروب لحظة شكواك من الأجور المتأخرة، تحديداً لتخويفك من تقديم المطالبة. افهم هذا بوضوح: <strong class="text-desert-primary">تعاقب وزارة الموارد البشرية بشدة أصحاب العمل الذين يقدمون بلاغات هروب كاذبة لتجنب دفع مكافأة نهاية الخدمة.</strong> بلاغ الهروب الانتقامي المقدَّم بعد إرسالك إشعاراً موثقاً بالإخلال يقوي قضيتك فعلياً، لأنه يظهر صاحب العمل يتصرف ضدك بسبب ممارستك حقك. وثّق توقيت إشعارك مقابل بلاغ الهروب، وسيصبح الفارق دليلاً لصالحك.
+        </p>
+        <h3>للوافدين الفلبينيين</h3>
+        <p>
+          إذا كنت عاملاً فلبينياً، فإن <strong>مكتب العمل الفلبيني في الخارج (POLO)</strong> في السعودية هو أقوى حليف لك. يمكن لمكتب POLO مساعدتك في صياغة خطاب استقالة المادة 81 وتمثيلك خلال جلسات التسوية مع وزارة الموارد البشرية. لا توقّع أبداً مستند تسوية نهائي دون مراجعة POLO له أولاً. المكتب موجود لضمان حصول العمال الفلبينيين في الخارج على كل حق يمنحهم القانون.
+        </p>
+        <h3>لجميع الوافدين</h3>
+        <p>
+          تذكر حماية <strong>المادة 8</strong> من نظام العمل: أي مستند يجبرك صاحب العمل على توقيعه يتنازل بموجبه عن حقوقك في مكافأة نهاية الخدمة هو <strong class="text-desert-primary">باطل</strong>، حتى لو وقعته تحت ضغط. "التسوية" الموقعة بالإكراه أو تنازل "نهائي وكامل" لا يلغي حقك قانونياً. لا تدع الخوف من فقدان تأشيرة الخروج يدفعك للتوقيع على ما يحميه القانون.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>5 أخطاء شائعة تدمر مطالبتك بمكافأة نهاية الخدمة وفق المادة 81</h2>
+        <p>
+          يمكن لقضية قانونية قوية أن تُخسر بإهمال في الإجراءات، وقد تُربح قضية ضعيفة بإتقان الأوراق. هذه هي الأخطاء الخمسة التي تكلف الوافدين مكافآتهم الكاملة بموجب المادة 81 أكثر من أي معركة قضائية. اقرأ كل واحد منها وامتنع عن ارتكابه، فالوقاية أرخص بكثير من المعالجة.
+        </p>
+        <h3>الخطأ الأول: المغادرة دون إشعار رسمي مكتوب</h3>
+        <p>
+          مجرد التوقف عن العمل والسفر دون استقالة مكتوبة يحوّل قضية المادة 81 الصحيحة إلى بلاغ هروب محتمل (Huroob). يصفك صاحب العمل عندها بأنك هجرت العمل لا بأنه هو خالف العقد، فيحصل على ورقة يدفع بها مطالبك. سلّم دائماً إشعاراً مكتوباً ومؤرخاً يذكر سبب المادة 81 المحدد قبل أن تغادر البلاد.
+        </p>
+        <h3>الخطأ الثاني: توقيع "تسوية نهائية وكاملة" تحت الضغط</h3>
+        <p>
+          أخطر ورقة في العمل في السعودية هي التنازل الذي يُعطى لك في المطار أو تحت ضغط مهلة تأشيرة خروج. حتى لو كان الإكراه حقيقياً، عدم التوقيع يحفظ دليل اعتراضك. المادة 8 تجعل أي تنازل يلغي حقوقك القانونية باطلاً، لكن التوقيع يجعل أي نزاع لاحق أصعب. لا توقّع أياً كانت الورقة قبل أن تقارنها بحسابك الخاص.
+        </p>
+        <h3>الخطأ الثالث: قبول كسر المادة 84 لأن "هذه هي الصيغة"</h3>
+        <p>
+          غالباً يعرض قسم الموارد البشرية ثلثي أو ثلث المكافأة حسب جدول استقالة المادة 84، مفترضاً أنك لا تعرف أن المادة 81 تتجاوز ذلك. قبول هذا الرقم في ورقة تسوية يتنازل عن الفرق المستحق لك. قارن كل عرض بكامل مكافأتك وبأجورك المتأخرة قبل أن توافق على أي شيء.
+        </p>
+        <h3>الخطأ الرابع: إتلاف مستنداتك أو فقدانها</h3>
+        <p>
+          أقوى مؤشر على النجاح هو الإثبات المستندي: كشوفات حساب تبين المدفوعات الناقصة، وعقد قوى الموقع، ورسائل واتساب المحفوظة، والشكاوى المؤرخة. لا تحذف شيئاً، واحفظ نسخاً في حساب شخصي لا يستطيع صاحب العمل أو الموارد البشرية لمسه.
+        </p>
+        <h3>الخطأ الخامس: الانتظار طويلاً قبل التصعيد</h3>
+        <p>
+          التأخير يضعف المطالبة ويمنح صاحب العمل وقتاً لإعداد سجلات مزيّفة. ارفع الدعوى بسرعة عبر منصة التسوية الودية ومن ثم مكتب العمل يجعلك أقوى. الدعوى المنظمة وفي وقتها تُحترم، أما المتأخرة فيسهل نفيها وإضعافها.
+        </p>
+        <p class="mt-4">
+          القاسم المشترك في كل خطأ هو ترك العاطفة تتغلب على الأوراق. حافظ على أدلتك، واستقل كتابياً، ولا توقّع أبداً على ما يمنحه لك القانون. وإذا كنت غير متأكد من رقمك، فاحسب استحقاقك الكامل قبل أن تواجه أحداً.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>قائمة مراجعة الأدلة: ما يجب تجميعه قبل استقالة المادة 81</h2>
+        <p>
+          قبل أن تعلن استقالتك وفق المادة 81، جهّز ملفاً كاملاً من الأدلة. هذا الملف هو الذي يحدّد ما إذا كان مكتب العمل أو المحكمة سيصدّق ادعاءك. تأكد من أن لديك كل عنصر من القائمة أدناه، واحتفظ بنسخة رقمية ونسخة ورقية في مكانين منفصلين.
+        </p>
+        <ul class="list-disc list-inside space-y-2 mt-4 text-gray-300">
+          <li><strong class="text-white">عقد العمل الموقّع من قوى (Qiwa):</strong> يثبت راتبك الأساسي، ومسمّاك الوظيفي، وشروط التعاقد الرسمية.</li>
+          <li><strong class="text-white">كشوفات حسابات بنكية لآخر 6 أشهر:</strong> تظهر بشكل قاطع أشهر عدم دفع الأجور.</li>
+          <li><strong class="text-white">سجلات نظام حماية الأجور (WPS):</strong> طلبات السحب الخاصة بالوزارة التي تظهر التحويلات المفقودة.</li>
+          <li><strong class="text-white">عرض العمل أو الإيميلات الأصلية:</strong> لإثبات أي وعود بالراتب أو الدور تختلف عن العقد.</li>
+          <li><strong class="text-white">شكاوى مكتوبة ومؤرخة:</strong> أي رسائل أو إيميلات أرسلتها لمديرك أو الموارد البشرية بشأن النقص.</li>
+          <li><strong class="text-white">محادثات واتساب ورسائل نصية:</strong> تهديدات أو تعليمات أو اعترافات تكشف مفتاحاً لسلوك صاحب العمل.</li>
+          <li><strong class="text-white">صور أو تقارير عن ظروف العمل:</strong> لأي وضع غير آمن أو مهمة غير قانونية أُجبرت عليها.</li>
+          <li><strong class="text-white">سجل الحضور والمناوبات:</strong> يثبت وجودك في العمل خلال أشهر عدم الدفع، ويفيد في تفنيد أي ادعاء بالهروب.</li>
+          <li><strong class="text-white">أي محضر أو رفع من قوى أو وزارة الموارد البشرية:</strong> شكاوى سابقة أو طلبات تدخل رسمية تُظهر سير التحويلات المتأخرة.</li>
+        </ul>
+        <p class="mt-4">
+          رتّب الملف ترتيباً زمنياً بحيث يكون كل حدث مدعوماً بتاريخه ووثيقته. انسخ الملف رقمياً في حساباتك الشخصية على هاتفك الخاص وإيميلك الشخصي، لأنه لو أوقف صاحب العمل وصولك إلى بريد الشركة فجأة، فيجب أن تبقى أدلتك في مكان آمن لا يمكنه الوصول إليه.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">قاعدة ذهبية:</strong> الادعاء بلا مستند يبقى رأياً، والادعاء بمستند يصبح قضية. كل ما لم تثبته ورقة، يصعب عليك إثباته لاحقاً بعد مغادرة بيئة العمل.</p>
+        </div>
+        <p class="mt-4">
+          بعد تقديم استقالتك بموجب المادة 81، تابع الأمر بنفس الانضباط. احتفظ برقم قضيتك على منصة التسوية الودية، وسجّل كل تواصل مع صاحب العمل، ولا تقطع الحوار فجأة. المثابرة الهادئة والموثقة تمنحك أفضلية أمام المكتب اللاحق، فهي تظهر أنك سعيت لحل ودي قبل أن تطلب تدخلاً رسمياً.
+        </p>
+        <p class="mt-4">
+          متى تستعين بمحامٍ؟ إذا استمر صاحب العمل في المماطلة بعد انقضاء مهلة الخمسة أيام الواردة في المادة 87، أو رفض تسليم شهادة الخبرة وملفك الخاص، أو هدد بإبلاغ الهروب، فقد حان وقت الاستعانة بمحامٍ مرخص أو التوجه المباشر إلى مكتب العمل ومن ثم المحكمة العمالية. في هذه الحالات تكون الأوراق التي جمعتها سابقاً هي التي تحدد نتيجة الجلسة الأولى، فكل ورقة أعددتها قبل الاستقالة يقرؤها الآن القاضي. لا تنتظر حتى تُغلق قنوات الحوار؛ احتفظ بخط الهجوم موثقاً في كل مرحلة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يمكنني الحصول على كامل مكافأة نهاية الخدمة إذا استقلت بسبب عدم دفع الراتب في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">نعم. وفق المادة 81 من نظام العمل السعودي، الاستقالة بسبب الأجور غير المدفوعة (شهران أو أكثر) أو أي إخلال آخر من صاحب العمل تمنحك 100% من كامل مكافأة نهاية الخدمة، متجاوزة عقوبات الاستقالة في المادة 84.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ما هي المادة 81 من نظام العمل السعودي؟</p>
+            <p class="text-gray-400 text-sm mt-1">تسرد المادة 81 مخالفات صاحب العمل الخطيرة — عدم دفع الأجور، الغش عند التوظيف، الاعتداء أو التحرش، الظروف غير الآمنة، والمهام غير القانونية — التي تتيح لك الاستقالة مع الاحتفاظ بكامل مكافأة نهاية الخدمة، وتُعامل كإنهاء من صاحب العمل.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">كم شهراً من عدم دفع الراتب يبرر الاستقالة وفق المادة 81؟</p>
+            <p class="text-gray-400 text-sm mt-1">شهران متتاليان أو أكثر من الأجور غير المدفوعة هو الحد الأوضح لاستقالة المادة 81. يجب توثيق عدم الدفع عبر الكشوفات البنكية وغياب سجلات نظام حماية الأجور.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يمكن لصاحب العمل تقديم بلاغ هروب إذا استقلت وفق المادة 81؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا يجوز له ذلك، وبلاغ الهروب الكاذب لتجنب دفع مكافأة نهاية الخدمة يُعاقب عليه بشدة من وزارة الموارد البشرية. إشعار المادة 81 الموثق يحميك لأنه يثبت أن خروجك كان استقالة قانونية، لا غياباً.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">هل يجب عليّ قضاء فترة إشعار إذا استقلت وفق المادة 81؟</p>
+            <p class="text-gray-400 text-sm mt-1">بما أن صاحب العمل أخلّ بالعقد أولاً، لا تُعامل استقالة المادة 81 كاستقالة عادية تتطلب عقوبة الإشعار المعتادة. لكن يجب عليك مع ذلك إعلان استقالتك كتابياً لحماية نفسك من ادعاء الهروب.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">كيف أثبت إخلال صاحب العمل بالعقد أمام وزارة الموارد البشرية؟</p>
+            <p class="text-gray-400 text-sm mt-1">قدم كشوفات بنكية تظهر الأجور غير المدفوعة، عقدك على منصة قوى، شكاوى موثقة، صوراً أو تقارير عن الظروف غير الآمنة، وأي مراسلات تظهر الإخلال. سجلات نظام حماية الأجور تدعم مطالبتك تلقائياً.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الخاتمة: لا تدع صاحب عمل غير أخلاقي يسرق مكافأتك</h2>
+        <p>
+          إليك الخلاصة التي أتيت لأجلها: <strong class="text-white">المادة 81 صُممت بالضبط للوضع الذي تواجهه.</strong> عندما يتوقف صاحب العمل عن الدفع، أو يخدعك، أو يعرضك للخطر، أو يضطرك لخرق القانون، فأنت لست محاصراً بين فقدان وظيفتك وفقدان مكافأتك. القانون يمنحك خياراً ثالثاً — استقيل، وطالب بكامل المكافأة، وطارد أجورك المتأخرة.
+        </p>
+        <p class="mt-4">
+          الشرط الوحيد الذي يهم هو الإثبات. وثّق الإخلال وهو يحدث، استقل كتابياً وفق المادة 81، وتصعد عبر منصة التوفيق ومكتب العمل في وزارة الموارد البشرية. النظام مصمم ليحكم ضد صاحب العمل المخلّ، لا ضد العامل الذي ظُلم.
+        </p>
+        <p class="mt-4">
+          لا تدخل مواجهة وأنت تخمن رقمك. <strong class="text-desert-primary">احسب بالضبط ما يستحقه لك قبل مواجهة صاحب العمل.</strong> استخدم <a href="/eosb-calculator" class="text-desert-primary underline">حاسبة EOSB من سعوديتول هب</a> لتحصل على رقم مستحقك الكامل، ثم تفاوض — أو تصعد — من موقع معرفة.
+        </p>
+        <p class="mt-4">
+          تريد فهم إطار الاستقالة العادي الذي تتجاوزه المادة 81؟ اقرأ أيضاً دليلنا حول <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">قواعد الاستقالة في السعودية: المادة 84 مقابل 85</a> لترى كيف تُطبق الشرائح عادة.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">احسب مكافأة نهاية الخدمة الكاملة الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاناً — أدخل راتبك الأساسي وسنوات الخدمة وسبب المغادرة</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">استخدم حاسبة مكافأة نهاية الخدمة المجانية</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية بناءً على نظام العمل السعودي (تحديداً المادة 81). كل حالة فريدة. بالنسبة للنزاعات الرسمية، ارجع دائماً إلى وزارة الموارد البشرية والتنمية الاجتماعية (MHRSD) أو استشر محامياً مرخصاً في السعودية.
+        </p>
+      </div>
+      `,
+      ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">تارکین وطن لیبر گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">آرٹیکل 81 سعودی لیبر لاء: اگر مالک کنٹریکٹ توڑ دے تو مکمل EOSB کیسے حاصل کریں (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">آپ کے مالک نے تنخواہ دینا بند کر دی۔ اب آپ استعفیٰ دینے سے ڈرتے ہیں کہ کہیں سروس ختم ہونے کا فائدہ ضائع نہ ہو جائے۔ آرٹیکل 81 سب کچھ بدل دیتا ہے۔ یہاں بالکل بتایا گیا ہے کہ یہ کیسے کام کرتا ہے۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تعارف: وہ خوف جو ہر تارکِ وطن محسوس کرتا ہے</h2>
+        <p>
+          آپ کی تنخواہ تین ماہ سے نہیں آئی۔ آپ کی اقامہ ایسی کمپنی سے منسلک ہے جو اب آپ کے فون کا جواب نہیں دیتی۔ گھر کے کرایہ، بلز اور وطن میں خاندان کے اخرجات رکتے نہیں۔ آپ جانا چاہتے ہیں، لیکن ایک خوف آپ کو روکے رکھتا ہے: <strong class="text-desert-primary">اگر میں استعفیٰ دے دوں تو کیا مالک میری سروس ختم ہونے کا فائدہ (EOSB) نہیں چھین لے گا؟</strong>
+        </p>
+        <p class="mt-4">
+          یہ خوف بالکل سمجھ میں آتا ہے۔ آرٹیکل 84 کے عام استعفیٰ کے اصولوں کے تحت جلد استعفیٰ دینے سے آپ کی گرانچوٹی صفر ہو سکتی ہے۔ لیکن ایک اور قانون ہے جس کے بارے میں زیادہ تر مزدوروں نے کبھی نہیں سنا، اور یہ حساب مکمل طور پر بدل دیتا ہے جب غلطی مالک کی ہو۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">سیدھا جواب:</strong> <strong>سعودی لیبر لاء کے آرٹیکل 81</strong> کے تحت، اگر مالک ملازمت کا معاہدہ توڑ دے — تنخواہ نہ دینا، بھرتی پر دھوکہ، غیر محفوظ حالات، یا دیگر درج شدہ خلاف ورزیاں — تو ملازم کو حق ہے کہ وہ استعفیٰ دے اور پھر بھی <strong>100% مکمل EOSB</strong> حاصل کرے، یعنی آرٹیکل 84 کے عام استعفیٰ جرمانوں سے بچ جائے۔
+        </p>
+        <p class="mt-4">
+          کام کی جگہ کی زبان میں اسے <strong>تعمیری برطرفی (Constructive Dismissal)</strong> کہتے ہیں: مالک کے اپنے رویے آپ کو مجبوراً باہر نکالتے ہیں، اس لیے قانون آپ کے استعفیٰ کو ایسا سمجھتا ہے جیسے مالک نے برخاست کیا ہو۔ یہ ایک قانونی فرق ہزاروں ریال کے برابر ہے۔ یہ گائیڈ غور سے پڑھیں، اپنے ثبوت جمع کریں، اور آپ اپنے ہر ریال کے ساتھ باہر نکل سکتے ہیں۔ اگر آپ کو یقین نہیں کہ کس رقم کے لیے لڑنا ہے تو اپنے مکمل حق کا اندازہ لگانے کے لیے ہماری <a href="/eosb-calculator" class="text-desert-primary underline">مفت EOSB کیلکولیٹر</a> استعمال کریں۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">آپ کا حق کتنا ہے معلوم نہیں؟</strong> کوئی قانونی کارروائی سے پہلے اپنے مکمل حق کا اندازہ لگانے کے لیے ہماری <a href="/eosb-calculator" class="text-desert-primary underline">مفت EOSB کیلکولیٹر</a> استعمال کریں۔ اس میں ایک منٹ سے کم وقت لگتا ہے اور آپ کا ڈیٹا نجی رہتا ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آرٹیکل 81 کیا ہے؟ "تعمیری برطرفی" کا اصول</h2>
+        <p>
+          سعودی لیبر لاء (شاہی فرمان نمبر م/51) کا آرٹیکل 81 مخصوص حالات درج کرتا ہے جہاں مالک کا رویہ اتنا غیر قانونی ہو جاتا ہے کہ ملازم کو استعفیٰ کا حق حاصل ہو جاتا ہے۔ جب آپ ان میں سے کسی بنیاد پر استعفیٰ دیتے ہیں، تو قانون آپ کے استعفیٰ کو مالک کی طرف سے برطرفی تصور کرتا ہے۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">تعمیری برطرفی، سادہ الفاظ میں:</strong> مالک کام کے حالات اتنے ناقابل برداشت یا غیر قانونی بنا دیتا ہے — یا معاہدہ اس قدر توڑ دیتا ہے — کہ ملازم عملاً جانے پر مجبور ہو جاتا ہے۔ ملازم بظاہر رضاکارانہ استعفیٰ دیتا ہے، لیکن قانونی اعتبار سے مالک نے اپنے غلط رویے سے تعلق ختم کیا۔
+        </p>
+        <p class="mt-4">
+          یہ فرق آپ کے پیسوں کے لیے بہت اہم ہے۔ کلیدی قانونی نتیجہ یہ ہے: <strong class="text-white">آرٹیکل 81 کے استعفیٰ کو بالکل آرٹیکل 85 کی مالک کی برطرفی کی طرح سمجھا جاتا ہے، جو آپ کو سروس کے سالوں سے قطع نظر 100% مکمل EOSB کی ضمانت دیتا ہے۔</strong> یہاں تک کہ اگر آپ نے دو سال سے کم کام کیا ہو — جہاں عام استعفیٰ کچھ نہیں دیتا — آرٹیکل 81 کی خلاف ورزی کا استعفیٰ آپ کی مکمل گرانچوٹی محفوظ رکھتا ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">قانون ایسا کیوں کرتا ہے:</strong> سعودی لیبر پالیسی اس فریق کو سزا دیتی ہے جو معاہدہ توڑتا ہے، نہ کہ اس فریق کو جو اس سے نقصان اٹھاتا ہے۔ اگر مالک نے اپنے غیر قانونی اقدامات سے آپ کو جانے پر مجبور کیا، تو یہ ناانصافی ہو گی کہ وہ یہ کہہ کر آپ کی گرانچوٹی بھی کاٹ لے کہ آپ رضاکارانہ گئے۔ آرٹیکل 81 یہ خامی بند کرتا ہے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آرٹیکل 81 کے استعفیٰ کے 5 جائز اسباب (ثبوت کی ضروریات کے ساتھ)</h2>
+        <p>
+          ہر مایوسی آرٹیکل 81 کا جائز سبب نہیں ہے۔ قانون مخصوص اور سنگین خلاف ورزیاں درج کرتا ہے۔ اپنے حقوق بچانے کے لیے آپ کو اپنی صورتحال ان پانچ اسباب میں سے کسی ایک سے ملانی ہوگی اور اس کے لیے تحریری ریکارڈ بنانا ہوگا۔ ہر سبب ضروری ثبوت کے ساتھ یہ ہے۔
+        </p>
+        <h3>1. اجرت کی عدم ادائیگی (سب سے عام)</h3>
+        <p>
+          دو یا زیادہ مسلسل مہینے بغیر تنخواہ کام کرنا آرٹیکل 81 کے استعفیٰ کی واضح ترین اور عام بنیاد ہے۔ ایک بار یہ حد پار ہونے کے بعد، خلاف ورزی معروضی اور ان ریکارڈز سے ثابت ہوتی ہے جو آپ خود حاصل کر سکتے ہیں۔
+        </p>
+        <p class="mt-2"><strong class="text-white">ضروری ثبوت:</strong> آپ کے بینک اسٹیٹمنٹ جن میں کوئی تنخواہ نہیں، آپ کا <strong>قیوا (Qiwa)</strong> ملازمت کا معاہدہ جو آپ کی طے شدہ تنخواہ ظاہر کرتا ہے، اور غیر ادا شدہ مدت کے لیے اجرت کے تحفظ کے نظام (WPS) کے ریکارڈ کا غائب ہونا۔ WPS خود بخود ہر پرائیویٹ شعبے کی تنخواہ کی منتقلی لاگ کرتا ہے، اس لیے اس کی خاموشی خود ثبوت ہے۔</p>
+        <h3>2. بھرتی پر دھوکہ یا فریب</h3>
+        <p>
+          اگر مالک نے بھرتی پر آپ کو دھوکہ دیا — ایسا کردار، تنخواہ یا مقام وعدہ کیا جو آپ کے سرکاری معاہدے سے مختلف ہو — تو یہ دھوکہ جائز سبب ہے۔ دھوکہ اہم اور تحریری معاہدے سے منسلک ہونا چاہیے۔
+        </p>
+        <p class="mt-2"><strong class="text-white">ضروری ثبوت:</strong> اصل جاب آفر (ای میل، آفر لیٹر، ایجنسی کی مراسلت)، آپ کا سرکاری قیوا معاہدہ، اور اصل کردار، تنخواہ اور مقام کا ثبوت۔ جو وعدہ کیا گیا اور معاہدے میں جو لکھا ہے اس کے درمیان فرق ہی آپ کا ثبوت ہے۔</p>
+        <h3>3. حملہ، ظلم یا اخلاقی ہراسانی</h3>
+        <p>
+          جسمانی حملہ، شدید زبانی بدسلوکی، یا مالک یا اس کے نمائندوں کی طرف سے مسلسل ہراسانی آپ کو استعفیٰ دینے اور مکمل EOSB رکھنے کا حق دیتی ہے۔ یہ سبب آپ کی حفاظت اور عزت کی حفاظت کرتا ہے، صرف پیسوں کی نہیں۔
+        </p>
+        <p class="mt-2"><strong class="text-white">ضروری ثبوت:</strong> پولیس کی رپورٹس، کسی چوٹ کی میڈیکل رپورٹس، گواہان کے بیانات، اور ایچ آر یا انتظامیہ کو بھیجی گئی دستاویزی شکایات۔ رپورٹ کرنے کی آپ کی کوششوں کا تحریری ریکارڈ آپ کا کیس بہت مضبوط کرتا ہے۔</p>
+        <h3>4. غیر محفوظ یا خطرناک کام کے حالات</h3>
+        <p>
+          وہ مالک جو لازمی حفاظتی سامان دینے سے انکار کرے، یا آپ کو بغیر حفاظت کے جان لیوا حالات میں کام پر مجبور کرے، دیکھ بھال کی ذمہ داری توڑتا ہے۔ یہ آرٹیکل 81 سے نکلنے کا جائز سبب ہے۔
+        </p>
+        <p class="mt-2"><strong class="text-white">ضروری ثبوت:</strong> حالات کی تصاویر، تحریری حفاظت کی خلاف ورزی کی رپورٹس، اور وزارت انسانی وسائل (MHRSD) کے معائنہ کی درخواستوں کے ریکارڈ۔ سرکاری معائنہ کے نتائج سب سے مضبوط ثبوت ہیں۔</p>
+        <h3>5. غیر قانونی کام</h3>
+        <p>
+          اگر مالک آپ کو ایسے کام پر مجبور کرے جو غیر قانونی ہوں، یا آپ کے معاہدے میں درج پیشے سے بنیادی طور پر مختلف ہوں، تو یہ معاہدے کی خلاف ورزی اور سعودی قانون کی وسیع تر خلاف ورزی ہے۔ آپ کی پیشہ ورانہ شناخت اور قانونی حفاظت پامال ہو رہی ہے۔
+        </p>
+        <p class="mt-2"><strong class="text-white">ضروری ثبوت:</strong> آپ کے قیوا معاہدے میں درج پیشہ بمقابلہ اصل روزمرہ کے کاموں کا ثبوت۔ تصاویر، ڈیوٹی کی فہرستیں، اور فرق ثابت کرنے والی مراسلت آپ کا کیس ٹھوس بناتی ہیں۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>حق: آپ کو 100% مکمل EOSB کیوں ملتا ہے</h2>
+        <p>
+          یہ سمجھنے کے لیے کہ آرٹیکل 81 اتنا قیمتی کیوں ہے، پہلے یہ سمجھیں کہ عام استعفیٰ آپ کو کتنا مہنگا پڑتا ہے۔ <strong>آرٹیکل 84</strong> کے تحت، استعفیٰ کا EOSB شیڈول ترقی پسند اور جلد نکلنے والوں کے لیے سخت ہے:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2 سال سے کم سروس</p>
+            <p class="text-gray-400 text-sm">استعفیٰ کا EOSB = <strong>0%</strong>۔ آرٹیکل 84 کے تحت جلد استعفیٰ دینے سے آپ پوری گرانچوٹی کھو دیتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2 سے 5 سال</p>
+            <p class="text-gray-400 text-sm">اگر آپ استعفیٰ دیں اور کوئی استثنا نہ ہو تو آپ کو مکمل EOSB کا صرف <strong>1/3</strong> ملتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">5 سے 10 سال</p>
+            <p class="text-gray-400 text-sm">عام استعفیٰ کے اصول کے تحت آپ کو مکمل EOSB کا <strong>2/3</strong> ملتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">10 سال سے زیادہ</p>
+            <p class="text-gray-400 text-sm">صرف اس مرحلے پر عام استعفیٰ آپ کو <strong>مکمل</strong> 100% EOSB دیتا ہے۔</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          اب اس تصویر پر <strong>آرٹیکل 81</strong> کا اطلاق کریں: کیونکہ مالک نے معاہدہ توڑا ہے، <strong class="text-white">آرٹیکل 81 آرٹیکل 84 کو مکمل طور پر ختم کر دیتا ہے۔</strong> استعفیٰ کی سزا غائب ہو جاتی ہے۔ آپ کو سروس کے سالوں سے قطع نظر <strong class="text-desert-primary">100% مکمل EOSB</strong> ملتا ہے، کیونکہ قانون استعفیٰ کو مالک کی برطرفی سمجھتا ہے۔ مختصراً، قانون مظلوم کی حفاظت کرتا ہے، معاہدہ توڑنے والے مالک کی نہیں۔
+        </p>
+        <p class="mt-4">
+          تحفظ کی ایک اور تہہ بھی ہے۔ سنگین صورتوں میں — جیسے طویل عدم ادائیگی جس نے آپ کو دستاویزی مالی نقصان پہنچایا — ملازم کو گرانچوٹی کے علاوہ <strong>نقصانات کا معاوضہ</strong> بھی مل سکتا ہے۔ یہ اضافی دعویٰ عام طور پر لیبر کورٹ کے فیصلے کی ضرورت ہوتی ہے، اس لیے یہ الگ اور زیادہ پیچیدہ قدم ہے۔ اگر آپ کے مالک نے کھلم کھلا قانون سے بچنے کی کوشش کی تو یہ اٹھانے کے قابل ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">نتیجہ:</strong> اگر آپ کے پاس آرٹیکل 81 کا جائز سبب ہے تو استعفیٰ سے گرانچوٹی کھونے کا خوف ختم ہو جاتا ہے۔ مکمل EOSB آپ کا قانونی حق ہے، اور حکام توقع کرتے ہیں کہ اچھی طرح دستاویزی دعویٰ مانا جائے۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>قدم بہ قدم: آرٹیکل 81 کا استعفیٰ محفوظ طریقے سے کیسے دیں</h2>
+        <p>
+          استعفیٰ کو صحیح طریقے سے دیا جانا وہ جگہ ہے جہاں زیادہ تر مزدور قابلِ گریز غلطیاں کرتے ہیں۔ ایک غلط اقدام — خاص طور پر محض کام روک دینا — مالک کو آپ کے خلاف استعمال کرنے کے لیے ہتھیار دے سکتا ہے۔ اس ترتیب سے عمل کریں، اور دستاویز بنانے کا مرحلہ نہ چھوڑیں۔
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 1: سب کچھ دستاویز کریں</p>
+            <p class="text-gray-400 text-sm">اپنے بینک اسٹیٹمنٹ، قیوا معاہدہ، جاب آفر، ای میلز اور واٹس ایپ کے پیغامات جمع کریں جو خلاف ورزی ثابت کرتے ہیں۔ یہ آپ کے پورے دعوے کی بنیاد ہے۔ ثبوت کے بغیر، درست آرٹیکل 81 سبب بھی ثابت کرنا مشکل ہے۔ جانے سے پہلے سب کچھ محفوظ ذاتی اسٹوریج پر کاپی کریں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 2: محض "گائب" نہ ہوں (فرار)</p>
+            <p class="text-gray-400 text-sm">بغیر اطلاع کے کام پر آنا بند نہ کریں۔ غیر وضاحتی غیر حاضری مالک کو <strong>فرار (Huroob)</strong> کی رپورٹ دینے کا جواز دیتی ہے، جو آپ کے EOSB دعوے اور حتمی خروج کو پیچیدہ یا روک سکتی ہے۔ آپ کا استعفیٰ باضابطہ طور پر بتایا جائے، خاموشی سے نہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 3: رسمی تحریری اطلاع بھیجیں</p>
+            <p class="text-gray-400 text-sm">ایچ آر کو دئیے گئے تاریخ والے ای میل یا خط میں لکھیں: "میں سعودی لیبر لاء کے آرٹیکل 81 کے تحت استعفیٰ دے رہا ہوں کیونکہ [مخصوص خلاف ورزی، مثلاً 3 ماہ کی تنخواہ ادا نہ کرنا]۔ میں آرٹیکل 87 کے مطابق 5 دنوں کے اندر اپنا مکمل EOSB اور حتمی نپٹارہ چاہتا ہوں۔" بھیجی ہوئی کاپی اور کوئی جواب محفوظ کریں۔ یہ آپ کے نکلنے کو قانونی ریکارڈ میں بدل دیتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 4: "دوستانہ تصفیہ" (تفوق) پورٹل پر درخواست دیں</p>
+            <p class="text-gray-400 text-sm">اگر مالک ادائیگی سے انکار کرے تو فوراً <strong>tarhal.mhrsd.gov.sa</strong> پر شکایت درج کریں۔ "سروس ختم کرنے کے فوائد" منتخب کریں اور آرٹیکل 81 کی خلاف ورزی کا حوالہ دیں۔ یہ مفت پورٹل زیادہ تر اجرت کے تنازعات کو رسمی مقدمے سے پہلے حل کر دیتا ہے اور اس میں حقیقی نفاذ کا وزن ہوتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">مرحلہ 5: MHRSD لیبر آفس تک تصعيد کریں</p>
+            <p class="text-gray-400 text-sm">اگر تفوق مسئلہ حل نہ کرے تو اپنے مقامی MHRSD لیبر آفس میں رسمی سماعت کی درخواست کریں۔ افسر اجرت کے تحفظ کے نظام اور آپ کے بینک اسٹیٹمنٹ کا جائزہ لے گا۔ اپنی مکمل ثبوت فائل لائیں۔ مالک کے خلاف سرکاری فیصلہ قابلِ نفاذ ہے اور اس کے تعمیل ریکارڈ کو نقصان پہنچاتا ہے۔</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">وقت کے بارے میں نوٹ:</strong> دوستانہ تصفیہ کا پورٹل اکثر چند دنوں یا چند ہفتوں میں کیس حل کر دیتا ہے؛ رسمی لیبر آفس کی سماعت یا لیبر کورٹ کا کیس زیادہ وقت لیتا ہے۔ فوراً عمل شروع کریں اور آگے بڑھتے ہوئے ہر رسید، تنخواہ سلیپ اور پیغام محفوظ کریں۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>حقیقی دنیا کے حساب کے مثالیں (قدم بہ قدم)</h2>
+        <p>
+          اعداد قانون کو ٹھوس بناتے ہیں۔ یہاں دو عملی مثالیں ہیں جو ظاہر کرتی ہیں کہ آرٹیکل 81 عام استعفیٰ کے مقابلے میں کتنا پیسہ معنی رکھتا ہے۔
+        </p>
+        <h3>منظر A: اجرت کے محروم مظلوم</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>بنیادی تنخواہ: 4,000 ریال/ماہ۔ سروس: 3 سال۔</p>
+          <p>مالک نے 3 ماہ سے تنخواہ نہیں دی۔ مزدور آرٹیکل 81 کے تحت استعفیٰ دیتا ہے۔</p>
+          <p class="mt-3 text-desert-primary font-bold">عام آرٹیکل 84 استعفیٰ کی ادائیگی (اگر رضاکارانہ استعفیٰ دیں):</p>
+          <p>مکمل EOSB = (4,000 ÷ 2) × 3 = 6,000 ریال</p>
+          <p>آرٹیکل 84 بمعہ 3 سال (2–5 بریکٹ): صرف 1/3 = 2,000 ریال</p>
+          <p class="mt-3 text-desert-primary font-bold">آرٹیکل 81 کی ادائیگی:</p>
+          <p>100% مکمل EOSB = 6,000 ریال</p>
+          <p>علاوہ 3 ماہ کی غیر ادا شدہ تنخواہ = 3 × 4,000 = 12,000 ریال</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">کل وصولی = 18,000 ریال</p>
+          <p class="text-gray-400 text-xs mt-1">یہ رضاکارانہ استعفیٰ سے 16,000 ریال زیادہ ہے۔</p>
+        </div>
+        <h3>منظر B: دھوکہ دہی کا معاہدہ</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>مزدور قیوا پر "آئی ٹی مینیجر" بھرتا ہوا، اسے "ڈرائیور" کے طور پر کام پر مجبور کیا گیا۔</p>
+          <p>1 سال کی سروس کے بعد آرٹیکل 81 کے تحت استعفیٰ۔ بنیادی تنخواہ 5,000 ریال۔</p>
+          <p class="mt-3 text-desert-primary font-bold">عام آرٹیکل 84 ادائیگی (2 سال سے کم):</p>
+          <p>استعفیٰ کا EOSB = 0 ریال</p>
+          <p class="mt-3 text-desert-primary font-bold">آرٹیکل 81 کی ادائیگی:</p>
+          <p>100% جمع شدہ EOSB = (5,000 ÷ 2) × 1 = 2,500 ریال</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">کل وصولی = 2,500 ریال (0 کے بجائے)</p>
+        </div>
+        <p class="mt-4">
+          دونوں مثالیں ایک ہی اصول ظاہر کرتی ہیں: <strong class="text-white">آرٹیکل 81 آپ کو ٹوٹی ہوئی جگہ چھوڑنے کی سزا نہیں دیتا — یہ آپ کی مکمل گرانچوٹی اور غیر ادا شدہ اجرت کی ضمانت دیتا ہے۔</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تارکین وطن کے لیے خصوصی تحفظات (جیو ٹارگٹنگ)</h2>
+        <p>
+          آپ کی قومیت اور برادری اس میں عملی کردار ادا کرتی ہے کہ آپ آرٹیکل 81 کے استعفیٰ سے کیسے نمٹیں گے۔ یہاں وہ ہے جو سعودی عرب کی بڑی تارک وطن برادریوں کے کارکنوں کو معلوم ہونا چاہیے۔
+        </p>
+        <h3>جنوبی ایشیائی تارکین وطن کے لیے (PK / IN / BD)</h3>
+        <p>
+          مالک اکثر دھمکی دیتے ہیں کہ غیر ادا شدہ تنخواہ کی شکایت کرتے ہی آپ کی اقامہ منسوخ کر دیں گے یا فرار کی رپورٹ دیں گے، تاکہ آپ کو دعویٰ کرنے سے ڈرا سکیں۔ یہ واضح سمجھیں: <strong class="text-desert-primary">MHRSD ان مالکان پر بھاری جرمانہ لگاتی ہے جو EOSB ادا کرنے سے بچنے کے لیے جھوٹی فرار رپورٹس دیتے ہیں۔</strong> دستاویزی خلاف ورزی کی اطلاع کے بعد دی گئی انتقامی فرار رپورٹ دراصل آپ کا کیس مضبوط کرتی ہے، کیونکہ یہ ظاہر کرتی ہے کہ مالک آپ کے حق کا دعویٰ کرنے پر آپ کے خلاف کارروائی کر رہا ہے۔ اپنی اطلاع اور فرار رپورٹ کے وقت کو دستاویز کریں، اور فرق آپ کے حق میں ثبوت بن جائے گا۔
+        </p>
+        <h3>فلپائنی تارکین وطن کے لیے</h3>
+        <p>
+          اگر آپ فلپائنی کارکن ہیں تو سعودی عرب میں <strong>فلپائنی بیرون ملک لیبر آفس (POLO)</strong> آپ کا سب سے مضبوط اتحادی ہے۔ POLO آرٹیکل 81 کا استعفیٰ خط تیار کرنے اور MHRSD تصفیہ مذاکرات میں آپ کی نمائندگی کرنے میں مدد کر سکتا ہے۔ کبھی بھی کوئی حتمی تصفیہ دستاویز پہلے POLO سے منظوری دلائے بغیر دستخط نہ کریں۔ دفتر اس لیے موجود ہے کہ بیرون ملک فلپائنی کارکنوں کو وہ ہر حق ملے جو قانون دیتا ہے۔
+        </p>
+        <h3>تمام تارکین وطن کے لیے</h3>
+        <p>
+          لیبر لاء کے <strong>آرٹیکل 8</strong> کی حفاظت یاد رکھیں: کوئی بھی دستاویز جس پر مالک آپ کو دستخط کرنے پر مجبور کرے اور جو آپ کے EOSB حقوق کو ختم کرے وہ <strong class="text-desert-primary">باطل اور کالعدم</strong> ہے، چاہے آپ نے دباؤ میں دستخط کیے ہوں۔ زبردستی شدہ "تصفیہ" یا "حتمی اور مکمل" واہیور قانونی طور پر آپ کا حق ختم نہیں کرتا۔ خروجی ویزا کھو دینے کے ڈر سے اس پر دستخط کر کے حقوق ختم نہ ہونے دیں جسے قانون محفوظ رکھتا ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا میں سعودی عرب میں تنخواہ نہ ملنے کی وجہ سے استعفیٰ دے کر مکمل EOSB حاصل کر سکتا ہوں؟</p>
+            <p class="text-gray-400 text-sm mt-1">جی ہاں۔ سعودی لیبر لاء کے آرٹیکل 81 کے تحت، غیر ادا شدہ اجرت (2+ ماہ) یا دیگر مالک کی خلاف ورزی کی وجہ سے استعفیٰ آپ کو 100% مکمل EOSB کا حقدار بناتا ہے، جو آرٹیکل 84 کے استعفیٰ جرمانوں سے بچ جاتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">سعودی لیبر لاء کا آرٹیکل 81 کیا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">آرٹیکل 81 سنگین مالک کی خلاف ورزیاں درج کرتا ہے — غیر ادا شدہ اجرت، بھرتی پر دھوکہ، حملہ یا ہراسانی، غیر محفوظ حالات، اور غیر قانونی کام — جو آپ کو مکمل سروس ختم ہونے کا فائدہ رکھ کر استعفیٰ دینے کی اجازت دیتے ہیں، جیسے مالک کی برطرفی۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">آرٹیکل 81 کی استعفیٰ کے لیے تنخواہ کے کتنے مہینے نہ ملنا جائز ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">دو یا زیادہ مسلسل مہینے غیر ادا شدہ اجرت آرٹیکل 81 کے استعفیٰ کی واضح ترین حد ہے۔ عدم ادائیگی کو بینک اسٹیٹمنٹ اور اجرت کے تحفظ کے نظام کے ریکارڈ کی عدم موجودگی سے دستاویز کیا جانا چاہیے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا میرا مالک آرٹیکل 81 کے تحت استعفیٰ دینے پر فرار (Huroob) رپورٹ درج کر سکتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">اسے ایسا نہیں کرنا چاہیے، اور EOSB ادا کرنے سے بچنے کے لیے درج کی گئی جھوٹی فرار رپورٹ پر MHRSD بھاری جرمانہ لگاتی ہے۔ دستاویزی آرٹیکل 81 اطلاع آپ کی حفاظت کرتی ہے کیونکہ یہ ثابت کرتی ہے کہ آپ کا خروج قانونی استعفیٰ تھا، غیر حاضری نہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">کیا مجھے آرٹیکل 81 کے تحت استعفیٰ دینے پر نوٹس کی مدت پوری کرنی ہوگی؟</p>
+            <p class="text-gray-400 text-sm mt-1">چونکہ مالک نے پہلے معاہدہ توڑا ہے، آرٹیکل 81 کے استعفیٰ کو عام استعفیٰ کی طرح معیاری نوٹس کی سزا کی ضرورت نہیں ہوتی۔ لیکن آپ کو پھر بھی فرار کے الزام سے بچنے کے لیے استعفیٰ تحریری طور پر دینا چاہیے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">میں MHRSD کو مالک کی معاہدہ خلاف ورزی کیسے ثابت کروں؟</p>
+            <p class="text-gray-400 text-sm mt-1">غیر ادا شدہ اجرت دکھانے والے بینک اسٹیٹمنٹ، آپ کا قیوا معاہدہ، دستاویزی شکایات، غیر محفوظ حالات کی تصاویر یا رپورٹس، اور خلاف ورزی ظاہر کرنے والی مراسلت فراہم کریں۔ اجرت کے تحفظ کے نظام کے ریکارڈ خود بخود آپ کے دعوے کی تائید کرتے ہیں۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>نتیجہ: غیر اخلاقی مالک کو اپنا EOSB نہ چرانے دیں</h2>
+        <p>
+          یہاں وہ خلاصہ ہے جس کے لیے آپ آئے تھے: <strong class="text-white">آرٹیکل 81 بالکل اس صورتحال کے لیے بنا ہے جس کا آپ سامنا کر رہے ہیں۔</strong> جب آپ کا مالک تنخواہ دینا بند کر دے، آپ کو دھوکہ دے، آپ کو خطرے میں ڈالے، یا آپ کو قانون توڑنے پر مجبور کرے، تو آپ نہ ملازمت کھونے اور نہ گرانچوٹی کھونے کے درمیان پھنسے ہوتے ہیں۔ قانون آپ کو تیسرا آپشن دیتا ہے — استعفیٰ دیں، مکمل EOSB کا دعویٰ کریں، اور اپنی غیر ادا شدہ اجرت کا پیچھا کریں۔
+        </p>
+        <p class="mt-4">
+          صرف ایک چیز اہم ہے وہ ثبوت ہے۔ خلاف ورزی ہوتے وقت اسے دستاویز کریں، آرٹیکل 81 کے تحت تحریری استعفیٰ دیں، اور تفوق پورٹل اور MHRSD لیبر آفس کے ذریعے تصعيد کریں۔ نظام معاہدہ توڑنے والے مالک کے خلاف فیصلہ دینے کے لیے بنا ہے، نہ کہ ظلم سہنے والے مزدور کے خلاف۔
+        </p>
+        <p class="mt-4">
+          مالک کے سامنے جانے سے پہلے اپنے نمبر کا اندازہ لگا کر نہ جائیں۔ <strong class="text-desert-primary">اپنے مالک کا سامنا کرنے سے پہلے بالکل حساب کریں کہ آپ کے کتنے پیسے بنتے ہیں۔</strong> اپنی 100% مطلبی رقم حاصل کرنے کے لیے <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB کیلکولیٹر</a> استعمال کریں، پھر علم کی پوزیشن سے بات کریں — یا تصعيد کریں۔
+        </p>
+        <p class="mt-4">
+          عام استعفیٰ کے فریم ورک کو سمجھنا چاہتے ہیں جسے آرٹیکل 81 ختم کرتا ہے؟ ہماری گائیڈ <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">سعودی استعفیٰ EOSB کے اصول: آرٹیکل 84 بمقابلہ 85</a> بھی پڑھیں تاکہ دیکھیں کہ یہ درجات عام طور پر کیسے لاگو ہوتے ہیں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنے مکمل EOSB کا حساب لگائیں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — بس اپنی بنیادی تنخواہ، سروس کے سال اور جانے کی وجہ درج کریں</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">مفت EOSB کیلکولیٹر استعمال کریں</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>ڈس کلیمر:</strong> یہ گائیڈ سعودی لیبر لاء (خاص کر آرٹیکل 81) کی بنیاد پر معلوماتی مقاصد کے لیے ہے۔ ہر کیس منفرد ہے۔ رسمی تنازعات کے لیے ہمیشہ وزارت انسانی وسائل اور سماجی ترقی (MHRSD) سے رجوع کریں یا سعودی عرب میں لائسنس یافتہ قانونی پیشہ ور سے مشورہ کریں۔
+        </p>
+      </div>
+      `,
+      tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Gabay sa mga Expat Worker</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Artikulo 81 ng Saudi Labor Law: Paano Makuha ang Buong EOSB Kung Sinira ng Employer ang Kontrata (2026)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Huminto na sa pagbabayad ang iyong employer. Takot kang mag-resign dahil baka mawala ang iyong end-of-service benefit. Binabago ng Artikulo 81 ang lahat. Narito ang eksaktong paraan kung paano ito gumagana.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduksyon: Ang Takot na Nararamdaman ng Bawat Expat</h2>
+        <p>
+          Tatlong buwan nang hindi dumarating ang sahod mo. Nakatali ang Iqama mo sa kompanyang hindi na sumasagot sa tawag. Patuloy na lumalaki ang gastos sa pabahay, kuryente, at sa pamilya sa Pilipinas. Gusto mo nang umalis, ngunit isang takot ang humahadlang: <strong class="text-desert-primary">kung mag-resign ako, kukunin ba ng employer ang aking End of Service Benefit (EOSB)?</strong>
+        </p>
+        <p class="mt-4">
+          Maintindihan ang takot na iyon. Sa ilalim ng normal na panuntunan ng resignation sa Artikulo 84, ang maagang pag-resign ay maaaring gawing zero ang iyong gratuity. Ngunit may isa pang batas na hindi pa naririnig ng karamihan sa mga manggagawa, at lubos nitong binabago ang kalkulasyon kapag ang employer ang may kasalanan.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Ang direktang sagot:</strong> Sa ilalim ng <strong>Artikulo 81 ng Saudi Labor Law</strong>, kung sinisira ng employer ang kontrata — sa pamamagitan ng hindi pagbabayad ng sahod, pandaraya sa pag-hire, mapanganib na kondisyon, o iba pang nakasaad na paglabag — may karapatan ang empleyado na mag-resign at tumanggap pa rin ng <strong>100% buong EOSB</strong>, na lumalampas sa karaniwang mga parusa sa resignation sa ilalim ng Artikulo 84.
+        </p>
+        <p class="mt-4">
+          Sa wikang pampook ng trabaho, ito ay isang anyo ng <strong>constructive dismissal</strong>: ang sariling kilos ng employer ang epektibong pumipilit sa iyong umalis, kaya itinuturing ng batas ang iyong resignation na parang nilatagan ka ng employer. Ang isang legal na pagkakaibang ito ay nagkakahalaga ng libu-libong riyal. Basahing mabuti ang gabay na ito, tipunin ang iyong patunay, at makakaalis ka nang may bawat riyal na nararapat sa iyo. Kung hindi ka sigurado kung anong halaga ang dapat mong ipaglaban, gamitin ang aming <a href="/eosb-calculator" class="text-desert-primary underline">Libreng EOSB Calculator</a> upang matantiya ang iyong buong karapatan bago ka kumilos.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Hindi sigurado kung magkano ang karapatan mo?</strong> Gamitin ang aming <a href="/eosb-calculator" class="text-desert-primary underline">Libreng EOSB Calculator</a> upang matantiya ang iyong buong karapatan bago ka magsagawa ng legal na hakbang. Kumikilos ito nang wala pang isang minuto at nananatiling pribado ang iyong datos.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ano ang Artikulo 81? Ang Panuntunang "Constructive Dismissal"</h2>
+        <p>
+          Inililista ng Artikulo 81 ng Saudi Labor Law (Royal Decree No. M/51) ang mga partikular na sitwasyon kung saan ang kilos ng employer ay nagiging labis na ilegal na may karapatan nang mag-resign ang manggagawa. Kapag nag-resign ka sa ilalim ng isa sa mga batayan na ito, itinuturing ng batas ang iyong resignation bilang dismissal ng employer.
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">Constructive dismissal, sa payak na salita:</strong> dinadala ng employer ang mga kondisyon ng trabaho sa antas na hindi na matatagalan o ilegal — o ganap na sinisira ang kontrata — kaya napipilitan nang umalis ang empleyado. Mukhang nag-resign ang empleyado, ngunit sa legal na pananaw, ang employer ang nagtapos ng relasyon sa pamamagitan ng sariling maling kilos.
+        </p>
+        <p class="mt-4">
+          Malaki ang kahulugan ng pagkakaibang ito para sa iyong pera. Narito ang pangunahing legal na resulta: <strong class="text-white">ang resignation sa ilalim ng Artikulo 81 ay itinuturing na katulad ng employer termination sa ilalim ng Artikulo 85, na ginagarantiyahan ang iyong 100% buong EOSB anuman ang mga taon ng iyong serbisyo.</strong> Kahit pa wala pang dalawang taon ang iyong serbisyo — kung saan walang matatanggap sa normal na resignation — pinoprotektahan pa rin ng breach resignation sa Artikulo 81 ang iyong buong gratuity.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Bakit ito ginagawa ng batas:</strong> ang patakaran sa paggawa ng Saudi ay pinarurusahan ang partidong sumisira sa kontrata, hindi ang partidong naapektuhan nito. Kung pinilit ka ng employer na umalis sa kanyang ilegal na kilos, hindi makatarungan na kaltasan pa nito ang iyong gratuity sa pamamagitan ng pagkunwaring kusang umalis ka. Isinasara ng Artikulo 81 ang butas na iyon.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>5 Wastong Batayan para sa Resignation sa Artikulo 81 (Kasama ang Kailangang Patunay)</h2>
+        <p>
+          Hindi lahat ng inis sa trabaho ay wastong batayan sa Artikulo 81. Inililista ng batas ang mga partikular at seryosong paglabag. Upang protektahan ang iyong mga karapatan, dapat mong itugma ang iyong sitwasyon sa isa sa limang batayang ito at bumuo ng papel na bakas para rito. Narito ang bawat batayan kasama ang eksaktong ebidensya na inaasahan ng mga awtoridad.
+        </p>
+        <h3>1. Hindi Pagbabayad ng Sahod (Ang Pinakakaraniwan)</h3>
+        <p>
+          Ang dalawa o higit pang magkakasunod na buwan nang walang bayad ay ang pinakamalinaw at pangkaraniwang batayan para sa resignation sa Artikulo 81. Kapag nalampasan na ng employer ang hangganang iyon, ang paglabag ay obhetibo at mapapatunayan sa mga rekord na makakalap mo nang mag-isa.
+        </p>
+        <p class="mt-2"><strong class="text-white">Kailangang patunay:</strong> ang iyong mga bank statement na walang kredit ng sahod, ang iyong kontrata sa <strong>Qiwa</strong> na nagpapakita ng napagkasunduang sahod, at ang kawalan ng anumang rekord ng Wage Protection System (WPS) para sa hindi pa bayad na panahon. Awtomatikong nilalagay sa rekord ng WPS ang bawat paglipat ng sahod sa pribadong sektor, kaya ang katahimikan nito ay mismong ebidensya.</p>
+        <h3>2. Pandaraya o Panloloko sa Pag-hire</h3>
+        <p>
+          Kung dinaya ka ng employer sa recruitment — ipinangako ang posisyon, sahod, o lokasyon na iba sa aktwal na nilalaman ng iyong opisyal na kontrata — wastong batayan ang pandaraya. Dapat makabuluhan ang pandaraya at nakatali sa nakasulat na kontrata.
+        </p>
+        <p class="mt-2"><strong class="text-white">Kailangang patunay:</strong> ang orihinal na job offer (email, offer letter, komunikasyon sa agency), ang iyong opisyal na kontrata sa Qiwa, at ebidensya ng aktwal na posisyon, sahod, at lokasyong ibinigay. Ang agwat sa pagitan ng ipinangako at ng nilalaman ng kontrata ang iyong patunay.</p>
+        <h3>3. Pananakit, Kalupitan, o Moral na Panliligalig</h3>
+        <p>
+          Ang pisikal na pananakit, matinding pang-aabuso sa salita, o patuloy na panliligalig ng employer o ng kanyang mga kinatawan ay nagbibigay sa iyo ng karapatang mag-resign at panatilihin ang iyong buong EOSB. Pinoprotektahan ng batayang ito ang iyong kaligtasan at dignidad, hindi lamang ang iyong pera.
+        </p>
+        <p class="mt-2"><strong class="text-white">Kailangang patunay:</strong> ulat ng pulisya, ulat medikal sa anumang pinsala, pahayag ng mga saksi, at dokumentadong reklamo na ipinadala mo sa HR o pamunuan. Ang papel na bakas ng iyong mga pagtatangka mag-ulat ay labis na nagpapalakas ng iyong kaso.</p>
+        <h3>4. Hindi Ligtas o Mapapanganib na Kondisyon ng Trabaho</h3>
+        <p>
+          Ang employer na tumatangging magbigay ng inuutos na kagamitang panseguridad, o pumipilit sa iyong magtrabaho sa mga kondisyon na nagbabanta sa buhay nang walang proteksyon, ay lumalabag sa tungkuling mangalaga. Wastong batayan ito para sa pag-alis sa Artikulo 81.
+        </p>
+        <p class="mt-2"><strong class="text-white">Kailangang patunay:</strong> mga larawan ng mga kondisyon, nakasulat na ulat sa paglabag sa kaligtasan, at anumang rekord ng kahilingan para sa inspeksyon ng Ministry of Human Resources (MHRSD) na iyong inilahad. Ang opisyal na resulta ng inspeksyon ang pinakamalakas mong maipapakitang ebidensya.</p>
+        <h3>5. Mga Iligal na Gawain</h3>
+        <p>
+          Kung pinipilit ka ng employer na gumawa ng mga gawaing ilegal, o lubos na naiiba sa propesyon na nakasaad sa iyong kontrata, iyon ay paglabag sa kasunduan at mas malawak na paglabag sa batas ng Saudi. Nilalabag ang iyong propesyonal na pagkakakilanlan at legal na kaligtasan.
+        </p>
+        <p class="mt-2"><strong class="text-white">Kailangang patunay:</strong> ang propesyon na nakalagay sa iyong kontrata sa Qiwa kumpara sa ebidensya ng aktwal na araw-araw na gawaing ginagawa mo. Ang mga larawan, rosters, at komunikasyong nagpapatunay ng agwat ang nagpapawasto ng iyong kaso.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Karapatan: Bakit Ka Makakatanggap ng 100% Buong EOSB</h2>
+        <p>
+          Upang maunawaan kung bakit napakahalaga ng Artikulo 81, kailangan mo munang maunawaan kung magkano ang halaga ng normal na resignation. Sa ilalim ng <strong>Artikulo 84</strong>, ang iskedyul ng EOSB sa resignation ay progresibo at makasakit para sa maagang pag-alis:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Wala pang 2 taon ng serbisyo</p>
+            <p class="text-gray-400 text-sm">EOSB sa resignation = <strong>0%</strong>. Mawawala ang iyong buong gratuity kung maagang mag-resign sa ilalim ng Artikulo 84.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2 hanggang 5 taon</p>
+            <p class="text-gray-400 text-sm">Tatanggap ka lamang ng <strong>1/3</strong> ng iyong buong EOSB kung mag-resign at hindi saklaw ng anumang pagbubukod.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">5 hanggang 10 taon</p>
+            <p class="text-gray-400 text-sm">Tatanggap ka ng <strong>2/3</strong> ng iyong buong EOSB sa ilalim ng normal na panuntunan sa resignation.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Higit sa 10 taon</p>
+            <p class="text-gray-400 text-sm">Sa antas na ito lamang nagbibigay ang normal na resignation ng <strong>buong</strong> 100% EOSB.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          Ngayon ilapat ang <strong>Artikulo 81</strong> sa parehong larawan: dahil sinira ng employer ang kontrata, <strong class="text-white">ganap na daig ng Artikulo 81 ang Artikulo 84.</strong> Mawawala ang parusa sa resignation. Tatanggap ka ng <strong class="text-desert-primary">100% buong EOSB</strong> anuman ang mga taon ng serbisyo, dahil itinuturing ng batas ang resignation bilang dismissal ng employer. Sa madaling salita, pinoprotektahan ng batas ang biktima, hindi ang employer na lumabag.
+        </p>
+        <p class="mt-4">
+          May isa pang baitang ng proteksyon. Sa matitinding kaso — tulad ng mahabang hindi pagbabayad na nagdulot sa iyo ng dokumentadong pinsala sa pananalapi — maaari ring makakuha ang empleyado ng <strong>kompensasyon para sa mga pinsala</strong> bukod pa sa gratuity. Karaniwang nangangailangan ang dagdag na paghahabol na ito ng desisyon ng Labor Court, kaya ito ay hiwalay at mas masalimuot na hakbang. Sulit itong itaas kung hayagang sinubukan ng employer na iwasan ang batas.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ang ilalim na linya:</strong> kung mayroon kang wastong batayan sa Artikulo 81, mawawala ang takot na mawalan ng gratuity sa pag-resign. Ang buong EOSB ay iyong legal na karapatan, at inaasahan ng mga awtoridad na igagalang ang isang maayos na dokumentadong paghahabol.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Hakbang-hakbang: Paano Ligtas na Isagawa ang Resignation sa Artikulo 81</h2>
+        <p>
+          Ang tamang paraan ng pag-resign ang lugar kung saan karamihan sa mga manggagawa ay nagkakamali nang maiiwasan. Isang maling kilos — lalo na ang pagtigil na lamang sa trabaho — ang maaaring magbigay sa employer ng sandata laban sa iyo. Sundin ang sunod-sunod na ito nang ayon sa order, at huwag laktawan ang hakbang ng dokumentasyon.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 1: Idokumento ang Lahat</p>
+            <p class="text-gray-400 text-sm">Tipunin ang iyong mga bank statement, kontrata sa Qiwa, job offer, email, at mensahe sa WhatsApp na nagpapatunay ng paglabag. Ito ang pundasyon ng iyong buong paghahabol. Kung walang ebidensya, mahirap patunayan kahit ang wastong batayan sa Artikulo 81. Kopyahin ang lahat sa ligtas mong personal na imbakan bago ka umalis.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 2: Huwag "Magpakahinto" Lamang (Abscond)</p>
+            <p class="text-gray-400 text-sm">Huwag kailanman basta huminto sa pagpasok nang walang abiso. Ang hindi maipaliwanag na pagliban ay nagbibigay sa employer ng dahilan upang magsampa ng ulat na <strong>Huroob (absconding)</strong>, na maaaring gawing kumplikado o hadlangan ang iyong EOSB claim at ang iyong huling paglabas. Dapat pormal na ipabatid ang iyong resignation, hindi isagawa sa pamamagitan ng katahimikan.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 3: Magpadala ng Pormal na Nakasulat na Abiso</p>
+            <p class="text-gray-400 text-sm">Magpadala ng may petsang email o liham sa HR na nagsasaad: "Ako ay nagre-resign sa ilalim ng Artikulo 81 ng Saudi Labor Law dahil sa [specific breach, hal., hindi pagbabayad ng sahod sa loob ng 3 buwan]. Inaasahan ko ang aking buong EOSB at final settlement sa loob ng 5 araw ayon sa Artikulo 87." Itago ang kopyang ipinadala at anumang tugon. Ito ang magiging legal na rekord ng iyong pag-alis.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 4: Maghain sa "Friendly Settlement" (Tawafuq) Portal</p>
+            <p class="text-gray-400 text-sm">Kung tumangging magbayad ang employer, agad na maghain ng reklamo sa <strong>tarhal.mhrsd.gov.sa</strong>. Piliin ang "End of Service Benefits" at banggitin ang paglabag sa Artikulo 81. Niresolba ng libreng portal na ito ang karamihan sa mga hindi pagkakaunawaan sa sahod nang walang pormal na litigasyon at may tunay na bigat sa pagpapatupad.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Hakbang 5: Umakyat sa MHRSD Labor Office</p>
+            <p class="text-gray-400 text-sm">Kung hindi niresolba ng Tawafuq ang usapin, humiling ng pormal na pagdinig sa iyong lokal na MHRSD labor office. Susuriin ng opisyal ang mga rekord ng Wage Protection System at ang iyong mga bank statement. Dalhin ang iyong kumpletong file ng ebidensya. Ang opisyal na pasya laban sa employer ay maipapatupad at makakasira sa kanilang rekord ng pagsunod.</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Tandaan sa tiyempo:</strong> ang friendly settlement portal ay kadalasang niresolba ang mga kaso sa loob ng ilang araw o ilang linggo; mas matagal ang pormal na pagdinig sa labor office o kaso sa labor court. Simulan kaagad ang proseso at itago ang bawat resibo, payslip, at mensahe habang nagpapatuloy ka.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Halimbawa ng Real-World na Kalkulasyon (Hakbang-hakbang)</h2>
+        <p>
+          Ginagawa ng mga numero na kongkreto ang batas. Narito ang dalawang halimbawang ginawang hakbang-hakbang para makita mo kung gaano kalaki ang kahulugan ng Artikulo 81 kaysa sa normal na resignation.
+        </p>
+        <h3>Scenario A: Ang Biktima ng Hindi Bayad na Sahod</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>Pangunahing sahod: 4,000 SAR/buwan. Serbisyo: 3 taon.</p>
+          <p>Hindi binayaran ng employer ang sahod sa loob ng 3 buwan. Nag-resign ang manggagawa sa ilalim ng Artikulo 81.</p>
+          <p class="mt-3 text-desert-primary font-bold">Normal na payout ng resignation sa Artikulo 84 (kung kusang mag-resign):</p>
+          <p>Buong EOSB = (4,000 ÷ 2) × 3 = 6,000 SAR</p>
+          <p>Artikulo 84 sa 3 taon (bracket 2–5): 1/3 lamang = 2,000 SAR</p>
+          <p class="mt-3 text-desert-primary font-bold">Payout sa Artikulo 81:</p>
+          <p>100% buong EOSB = 6,000 SAR</p>
+          <p>Dagdag ang 3 buwang hindi bayad na sahod = 3 × 4,000 = 12,000 SAR</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Kabuuang kikitain = 18,000 SAR</p>
+          <p class="text-gray-400 text-xs mt-1">Iyon ay 16,000 SAR na higit pa kaysa sa malilikha ng isang kusang resignation.</p>
+        </div>
+        <h3>Scenario B: Ang Mapanlinlang na Kontrata</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>Tinanggap bilang "IT Manager" sa Qiwa, ngunit pinilit na magtrabaho bilang "Driver".</p>
+          <p>Nag-resign sa ilalim ng Artikulo 81 pagkatapos ng 1 taon ng serbisyo. Pangunahing sahod 5,000 SAR.</p>
+          <p class="mt-3 text-desert-primary font-bold">Normal na payout sa Artikulo 84 (wala pang 2 taon):</p>
+          <p>EOSB sa resignation = 0 SAR</p>
+          <p class="mt-3 text-desert-primary font-bold">Payout sa Artikulo 81:</p>
+          <p>100% ng naipon na EOSB = (5,000 ÷ 2) × 1 = 2,500 SAR</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">Kabuuang kikitain = 2,500 SAR (sa halip na 0)</p>
+        </div>
+        <p class="mt-4">
+          Ipinapakita ng dalawang halimbawa ang parehong prinsipyo: <strong class="text-white">hindi ka pinarurusahan ng Artikulo 81 sa pag-alis sa isang sirang lugar ng trabaho — ginagarantiyahan nito ang iyong buong gratuity at ang iyong hindi bayad na sahod.</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Espesyal na Konsiderasyon para sa mga Expat (Geographic Targeting)</h2>
+        <p>
+          Ang iyong nasyonalidad at komunidad ay gumaganap ng praktikal na papel kung paano mo haharapin ang isang resignation sa Artikulo 81. Narito ang dapat malaman ng mga manggagawa mula sa pinakamalalaking komunidad ng expat sa Saudi Arabia.
+        </p>
+        <h3>Para sa mga South Asian Expat (PK / IN / BD)</h3>
+        <p>
+          Madalas nagbabanta ang mga employer na kakanselahin ang iyong Iqama o maghahain ng Huroob report sa sandaling magreklamo ka sa hindi bayad na sahod, para lamang matakot ka sa paggawa ng claim. Unawain nang malinaw: <strong class="text-desert-primary">mahigpit na pinarurusahan ng MHRSD ang mga employer na naghahain ng mga pekeng Huroob report upang maiwasan ang pagbabayad ng EOSB.</strong> Ang isang paghihiganting Huroob na inihain pagkatapos mong magpadala ng dokumentadong abiso ng paglabag ay talagang nagpapalakas sa iyong kaso, dahil ipinapakita nito ang employer na kumikilos laban sa iyo sa paggigiit ng iyong karapatan. Idokumento ang tiyempo ng iyong abiso kumpara sa Huroob report, at ang hindi pagkakatugma ay magiging ebidensya para sa iyo.
+        </p>
+        <h3>Para sa mga Filipino Expat</h3>
+        <p>
+          Kung ikaw ay isang Filipino worker, ang <strong>Philippine Overseas Labor Office (POLO)</strong> sa Saudi Arabia ang iyong pinakamalakas na kakampi. Makakatulong ang POLO sa pagbalangkas ng iyong resignation letter sa Artikulo 81 at sa pagrerepresenta sa iyo sa mga pag-uusap ng settlement sa MHRSD. Huwag kailanman pumirmaha ng anumang final settlement document nang hindi muna ito nire-review ng POLO. Umiiral ang opisina upang matiyak na natatanggap ng mga overseas Filipino worker ang bawat karapatan na ipinagkakaloob ng batas.
+        </p>
+        <h3>Para sa Lahat ng Expat</h3>
+        <p>
+          Tandaan ang proteksyon ng <strong>Artikulo 8</strong> ng Labor Law: anumang dokumentong pinipilit kang pirmahan ng employer na magwawaksi sa iyong mga karapatan sa EOSB ay <strong class="text-desert-primary">null and void</strong>, kahit pa pinirmahan mo ito sa ilalim ng presyon. Ang isang pinilit na "settlement" o "full and final" waiver ay hindi legal na pumapatay sa iyong karapatan. Huwag hayaang itulak ka ng takot na mawala ang iyong exit visa tungo sa pagpirma ng inuukililang proteksyon ng batas.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Makakakuha ba ako ng buong EOSB kung mag-resign ako dahil sa hindi bayad na sahod sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Oo. Sa ilalim ng Artikulo 81 ng Saudi Labor Law, ang pag-resign dahil sa hindi bayad na sahod (2+ buwan) o iba pang paglabag ng employer ay nagbibigay sa iyo ng 100% buong EOSB, na lumalampas sa mga parusa sa resignation ng Artikulo 84.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Ano ang Artikulo 81 ng Saudi Labor Law?</p>
+            <p class="text-gray-400 text-sm mt-1">Inililista ng Artikulo 81 ang mga seryosong paglabag ng employer — hindi bayad na sahod, pandaraya sa pag-hire, pananakit o panliligalig, mapanganib na kondisyon, at mga iligal na gawain — na nagbibigay-daan sa iyong mag-resign habang pinapanatili ang iyong buong end-of-service benefit, na itinuturing na parang employer termination.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Ilang buwan ng hindi bayad na sahod ang nagbibigay-katwiran sa resignation sa Artikulo 81?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang dalawa o higit pang magkakasunod na buwan ng hindi bayad na sahod ang pinakamalinaw na hangganan para sa resignation sa Artikulo 81. Dapat idokumento ang hindi pagbabayad sa pamamagitan ng bank statement at ang kawalan ng mga rekord ng Wage Protection System.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Maaari bang maghain ang employer ko ng Huroob (absconding) report kung mag-resign ako sa ilalim ng Artikulo 81?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi dapat, at ang isang pekeng Huroob na inihain upang maiwasan ang pagbabayad ng EOSB ay mahigpit na pinarurusahan ng MHRSD. Pinoprotektahan ka ng isang dokumentadong abiso sa Artikulo 81 dahil pinapatunayan nito na ang iyong pag-alis ay isang legal na resignation, hindi isang pagliban.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Kailangan ba akong maglingkod ng notice period kung mag-resign ako sa ilalim ng Artikulo 81?</p>
+            <p class="text-gray-400 text-sm mt-1">Dahil unang lumabag sa kontrata ang employer, ang resignation sa Artikulo 81 ay hindi itinuturing na normal na resignation na nangangailangan ng karaniwang parusa sa notice. Dapat mo pa ring pormal na ipabatid sa sulat ang iyong resignation upang protektahan ang iyong sarili mula sa paghahabol ng absconding.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Paano ko mapapatunayan sa MHRSD ang paglabag sa kontrata ng employer?</p>
+            <p class="text-gray-400 text-sm mt-1">Magbigay ng bank statement na nagpapakita ng hindi bayad na sahod, ang iyong kontrata sa Qiwa, mga dokumentadong reklamo, larawan o ulat ng mapanganib na kondisyon, at anumang komunikasyong nagpapakita ng paglabag. Awtomatikong sumusuporta ang mga rekord ng Wage Protection System sa iyong claim.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Konklusyon: Huwag Hayaang Nakawin ng Hindi Etikal na Employer ang Iyong EOSB</h2>
+        <p>
+          Narito ang pinakamahalagang puntong hinahanap mo: <strong class="text-white">ang Artikulo 81 ay sadyang binuo para sa eksaktong sitwasyong hinaharap mo.</strong> Kapag huminto sa pagbabayad ang iyong employer, dinaya ka, inilagay sa panganib, o pinilit kang lumabag sa batas, hindi ka nakabaon sa pagitan ng pagkawala ng trabaho at pagkawala ng gratuity. Binibigyan ka ng batas ng ikatlong opsyon — mag-resign, i-claim ang buong EOSB, at habulin ang iyong hindi bayad na sahod.
+        </p>
+        <p class="mt-4">
+          Ang tanging mahalagang kinakailangan ay patunay. Idokumento ang paglabag habang nangyayari ito, mag-resign ng nakasulat sa ilalim ng Artikulo 81, at umakyat sa Tawafuq portal at sa MHRSD labor office. Idinisenyo ang sistema para magdesisyon laban sa employer na lumabag, hindi sa manggagawang naging biktima.
+        </p>
+        <p class="mt-4">
+          Huwag humarap sa anumang pagsalungat habang hinuhulaan ang iyong numero. <strong class="text-desert-primary">Kalkulahin nang eksakto ang iyong karapatan bago harapin ang iyong employer.</strong> Gamitin ang <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB Calculator</a> upang makuha ang iyong 100% buong entitlement figure, pagkatapos ay makipag-ayos — o umakyat — mula sa posisyon ng kaalaman.
+        </p>
+        <p class="mt-4">
+          Kailangan mong maunawaan ang normal na balangkas ng resignation na dinadaig ng Artikulo 81? Basahin din ang aming gabay na <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">Saudi Resignation EOSB Rules: Artikulo 84 vs 85</a> upang makita kung paano karaniwang nalalapat ang mga baitang.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Kalkulahin ang Iyong Buong EOSB Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — ilagay lamang ang iyong pangunahing sahod, taon ng serbisyo, at dahilan ng pag-alis</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">Gamitin ang Libreng EOSB Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa impormasyonal na layunin batay sa Saudi Labor Law (partikular ang Artikulo 81). Ang bawat kaso ay natatangi. Para sa mga opisyal na hindi pagkakaunawaan, palaging sumangguni sa Ministry of Human Resources and Social Development (MHRSD) o kumonsulta sa lisensyadong legal na propesyonal sa Saudi Arabia.
+        </p>
+      </div>
+      `,
+      bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">প্রবাসী শ্রমিক গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি শ্রম আইনের ধারা ৮১: নিয়োগকর্তা চুক্তি ভাঙলে সম্পূর্ণ EOSB কীভাবে পাবেন (২০২৬)</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">আপনার নিয়োগকর্তা বেতন দেওয়া বন্ধ করে দিয়েছেন। এখন আপনি পদত্যাগ করতে ভয় পাচ্ছেন কারণ হয়তো সেবা-সমাপ্তি সুবিধা হারাবেন। ধারা ৮১ সবকিছু বদলে দেয়। এখানে ঠিক বলা আছে এটি কীভাবে কাজ করে।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ভূমিকা: প্রতিটি প্রবাসী যে ভয় অনুভব করে</h2>
+        <p>
+          তিন মাস ধরে আপনার বেতন আসেনি। আপনার ইকামা এমন কোম্পানির সাথে বাঁধা যা আর আপনার ফোনের উত্তর দেয় না। বাসা ভাড়া, ইউটিলিটি এবং স্বদেশে পরিবারের খরচ থামে না। আপনি চলে যেতে চান, কিন্তু মনে একটি ভয় আপনাকে আটকে রাখে: <strong class="text-desert-primary">আমি পদত্যাগ করলে কি নিয়োগকর্তা আমার সেবা-সমাপ্তি সুবিধা (EOSB) চুরি করবে?</strong>
+        </p>
+        <p class="mt-4">
+          এই ভয় সম্পূর্ণ বোধগম্য। ধারা ৮৪-এর স্বাভাবিক পদত্যাগের নিয়ম অনুযায়ী, তাড়াতাড়ি পদত্যাগ করলে আপনার গ্র্যাচুইটি শূন্য হয়ে যেতে পারে। কিন্তু আরেকটি আইন আছে যা বেশিরভাগ শ্রমিক শোনেনি, এবং এটি হিসাব পুরোপুরি বদলে দেয় যখন দোষ নিয়োগকর্তার।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">সরাসরি উত্তর:</strong> <strong>সৌদি শ্রম আইনের ধারা ৮১</strong> অনুযায়ী, নিয়োগকর্তা চুক্তি ভাঙলে — বেতন না দেওয়া, নিয়োগে প্রতারণা, অস্বাভাবিক পরিস্থিতি বা অন্যান্য তালিকাভুক্ত লঙ্ঘন — কর্মীর অধিকার আছে পদত্যাগ করে <strong>১০০% সম্পূর্ণ EOSB</strong> পাওয়ার, যা ধারা ৮৪-এর স্বাভাবিক পদত্যাগের জরিমানা এড়িয়ে যায়।
+        </p>
+        <p class="mt-4">
+          কর্মক্ষেত্রের ভাষায় একে <strong>কনস্ট্রাক্টিভ ডিসমিসাল</strong> বলা হয়: নিয়োগকর্তার নিজের আচরণই আপনাকে কার্যকরভাবে বের করে দেয়, তাই আইন আপনার পদত্যাগকে নিয়োগকর্তার বরখাস্ত হিসেবে গণ্য করে। এই একটি আইনি পার্থক্য হাজার হাজার রিয়ালের মূল্য। গাইডটি মন দিয়ে পড়ুন, আপনার প্রমাণ সংগ্রহ করুন, এবং আপনি প্রাপ্য প্রতিটি রিয়ালসহ বের হতে পারবেন। আপনার কত পাওনা তা নিশ্চিত না হলে, কোনো পদক্ষেপ নেওয়ার আগে আমাদের <a href="/eosb-calculator" class="text-desert-primary underline">ফ্রি EOSB ক্যালকুলেটর</a> দিয়ে সম্পূর্ণ প্রাপ্য অনুমান করুন।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">আপনার পাওনা কত তা নিশ্চিত নন?</strong> আইনি পদক্ষেপ নেওয়ার আগে আমাদের <a href="/eosb-calculator" class="text-desert-primary underline">ফ্রি EOSB ক্যালকুলেটর</a> ব্যবহার করে আপনার সম্পূর্ণ প্রাপ্য অনুমান করুন। এক মিনিটেরও কম সময় লাগে এবং আপনার তথ্য ব্যক্তিগত থাকে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধারা ৮১ কী? "কনস্ট্রাক্টিভ ডিসমিসাল" নিয়ম</h2>
+        <p>
+          সৌদি শ্রম আইনের (রাজকীয় ডিক্রি নং M/51) ধারা ৮১ এমন নির্দিষ্ট পরিস্থিতি তালিকাভুক্ত করে যেখানে নিয়োগকর্তার আচরণ এতটাই অবৈধ হয়ে যায় যে শ্রমিকের পদত্যাগের অধিকার জন্ম নেয়। আপনি যখন এই কারণগুলোর একটির ভিত্তিতে পদত্যাগ করেন, আইন আপনার পদত্যাগকে নিয়োগকর্তার বরখাস্ত হিসেবে গণ্য করে।
+        </p>
+        <p class="mt-4">
+          <strong class="text-desert-primary">কনস্ট্রাক্টিভ ডিসমিসাল, সহজ কথায়:</strong> নিয়োগকর্তা কাজের পরিবেশ এতটাই অসহনীয় বা অবৈধ করে তোলে — বা চুক্তি এতটাই ভাঙে — যে কর্মী কার্যকরভাবে চলে যেতে বাধ্য হয়। কর্মী বাহ্যিকভাবে পদত্যাগ করে, কিন্তু আইনত নিয়োগকর্তাই নিজের ভুল আচরণ দিয়ে সম্পর্ক শেষ করেছে।
+        </p>
+        <p class="mt-4">
+          এই পার্থক্য আপনার অর্থের জন্য অত্যন্ত গুরুত্বপূর্ণ। এখানে মূল আইনি ফলাফল: <strong class="text-white">ধারা ৮১-এর পদত্যাগকে ঠিক ধারা ৮৫-এর নিয়োগকর্তার বরখাস্তের মতো গণ্য করা হয়, যা সেবার বছর নির্বিশেষে আপনার ১০০% সম্পূর্ণ EOSB নিশ্চিত করে।</strong> এমনকি দুই বছরের কম কাজ করলেও — যেখানে স্বাভাবিক পদত্যাগে কিছুই পাওয়া যায় না — ধারা ৮১-এর লঙ্ঘনের পদত্যাগ আপনার সম্পূর্ণ গ্র্যাচুইটি রক্ষা করে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">আইন কেন এটি করে:</strong> সৌদি শ্রম নীতি সেই পক্ষকে শাস্তি দেয় যে চুক্তি ভাঙে, সেই পক্ষকে নয় যে এর থেকে ক্ষতিগ্রস্ত হয়। নিয়োগকর্তা যদি নিজের অবৈধ কর্মকাণ্ডে আপনাকে যেতে বাধ্য করে, তবে আপনার গ্র্যাচুইটি কেটে বলা অন্যায় হবে যে আপনি স্বেচ্ছায় গেছেন। ধারা ৮১ এই ফাঁক বন্ধ করে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধারা ৮১ পদত্যাগের ৫টি বৈধ কারণ (প্রমাণের প্রয়োজনীয়তা সহ)</h2>
+        <p>
+          প্রতিটি হতাশাই ধারা ৮১-এর বৈধ কারণ নয়। আইন নির্দিষ্ট এবং গুরুতর লঙ্ঘন তালিকাভুক্ত করে। আপনার অধিকার রক্ষা করতে আপনাকে অবশ্যই নিজের পরিস্থিতি এই পাঁচটি কারণের একটির সাথে মেলাতে হবে এবং তার জন্য কাগজপত্রের রেকর্ড তৈরি করতে হবে। এখানে প্রতিটি কারণ প্রয়োজনীয় প্রমাণসহ দেওয়া হলো।
+        </p>
+        <h3>১. বেতন প্রদানে ব্যর্থতা (সবচেয়ে সাধারণ)</h3>
+        <p>
+          টানা দুই বা ততোধিক মাস বিনা বেতনে কাজ করা ধারা ৮১-এর পদত্যাগের সবচেয়ে পরিষ্কার ও সাধারণ ভিত্তি। একবার নিয়োগকর্তা সেই সীমা অতিক্রম করলে, লঙ্ঘন বস্তুনিষ্ঠ হয় এবং আপনি স্বাধীনভাবে সংগ্রহ করতে পারেন এমন রেকর্ড দিয়ে প্রমাণযোগ্য হয়।
+        </p>
+        <p class="mt-2"><strong class="text-white">প্রয়োজনীয় প্রমাণ:</strong> আপনার ব্যাংক স্টেটমেন্ট যাতে কোনো বেতন জমা নেই, আপনার <strong>কিউওয়া (Qiwa)</strong> চুক্তি যাতে সম্মত বেতন দেখায়, এবং অবৈতনিক সময়ের জন্য মজুরি সুরক্ষা ব্যবস্থার (WPS) রেকর্ডের অনুপস্থিতি। WPS স্বয়ংক্রিয়ভাবে প্রতিটি বেসরকারি খাতের বেতন স্থানান্তর লগ করে, তাই তার নীরবতাই নিজেই প্রমাণ।</p>
+        <h3>২. নিয়োগের সময় প্রতারণা বা ফাঁকি</h3>
+        <p>
+          নিয়োগকর্তা যদি নিয়োগের সময় আপনাকে প্রতারিত করে — যে ভূমিকা, বেতন বা অবস্থানের প্রতিশ্রুতি আপনার অফিসিয়াল চুক্তি থেকে আলাদা — তবে সেই প্রতারণা বৈধ কারণ। প্রতারণা তাৎপর্যপূর্ণ এবং লিখিত চুক্তির সাথে সম্পর্কিত হতে হবে।
+        </p>
+        <p class="mt-2"><strong class="text-white">প্রয়োজনীয় প্রমাণ:</strong> মূল জব অফার (ইমেইল, অফার লেটার, এজেন্সি যোগাযোগ), আপনার অফিসিয়াল কিউওয়া চুক্তি, এবং প্রকৃত ভূমিকা, বেতন ও অবস্থানের প্রমাণ। যা প্রতিশ্রুতি দেওয়া হয়েছিল এবং চুক্তিতে যা লেখা আছে তার মধ্যে ফারাকই আপনার প্রমাণ।</p>
+        <h3>৩. আক্রমণ, নিষ্ঠুরতা বা নৈতিক হয়রানি</h3>
+        <p>
+          শারীরিক আক্রমণ, তীব্র মৌখিক নির্যাতন, বা নিয়োগকর্তা বা তার প্রতিনিধিদের কাছ থেকে চলমান হয়রানি আপনাকে পদত্যাগ ও সম্পূর্ণ EOSB রাখার অধিকার দেয়। এই কারণ আপনার নিরাপত্তা ও মর্যাদা রক্ষা করে, শুধু অর্থ নয়।
+        </p>
+        <p class="mt-2"><strong class="text-white">প্রয়োজনীয় প্রমাণ:</strong> পুলিশ রিপোর্ট, যেকোনো চোটের মেডিকেল রিপোর্ট, সাক্ষীদের বক্তব্য, এবং এইচআর বা ব্যবস্থাপনায় পাঠানো নথিভুক্ত অভিযোগ। আপনার রিপোর্ট করার চেষ্টার কাগজপত্রের রেকর্ড আপনার মামলা বিশালভাবে শক্তিশালী করে।</p>
+        <h3>৪. অস্বাভাবিক বা বিপজ্জনক কর্মপরিবেশ</h3>
+        <p>
+          যে নিয়োগকর্তা বাধ্যতামূলক নিরাপত্তা সরঞ্জাম দিতে অস্বীকার করে, বা আপনাকে সুরক্ষা ছাড়াই প্রাণঘাতী পরিস্থিতিতে কাজ করতে বাধ্য করে, সে যত্নের দায়িত্ব ভাঙে। এটি ধারা ৮১-এ বের হওয়ার বৈধ কারণ।
+        </p>
+        <p class="mt-2"><strong class="text-white">প্রয়োজনীয় প্রমাণ:</strong> পরিস্থিতির ছবি, লিখিত নিরাপত্তা লঙ্ঘন রিপোর্ট, এবং মানব সম্পদ মন্ত্রণালয়ের (MHRSD) পরিদর্শনের অনুরোধের যেকোনো রেকর্ড। অফিসিয়াল পরিদর্শনের ফলাফলই আপনি দিতে পারেন এমন সবচেয়ে শক্তিশালী প্রমাণ।</p>
+        <h3>৫. অবৈধ কাজ</h3>
+        <p>
+          নিয়োগকর্তা আপনাকে অবৈধ কাজ করতে বা আপনার চুক্তিতে নথিভুক্ত পেশা থেকে মৌলিকভাবে ভিন্ন কাজ করতে বাধ্য করলে, সেটি চুক্তির লঙ্ঘন এবং সৌদি আইনের বিস্তৃত লঙ্ঘন। আপনার পেশাগত পরিচয় ও আইনি নিরাপত্তা ক্ষুণ্ণ হচ্ছে।
+        </p>
+        <p class="mt-2"><strong class="text-white">প্রয়োজনীয় প্রমাণ:</strong> আপনার কিউওয়া চুক্তিতে উল্লিখিত পেশা বনাম প্রকৃত দৈনন্দিন কাজের প্রমাণ। ছবি, ডিউটি রোস্টার এবং ফারাক প্রমাণকারী যোগাযোগ আপনার মামলাকে বাস্তব করে তোলে।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রাপ্য: কেন আপনি ১০০% সম্পূর্ণ EOSB পাবেন</h2>
+        <p>
+          ধারা ৮১ কেন এত মূল্যবান তা বোঝার জন্য প্রথমে বুঝতে হবে স্বাভাবিক পদত্যাগ আপনাকে কতটা খরচ করায়। <strong>ধারা ৮৪</strong>-এর অধীনে, পদত্যাগের EOSB সূচি ক্রমবর্ধমান এবং তাড়াতাড়ি বের হওয়ার জন্য কঠোর:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">২ বছরের কম সেবা</p>
+            <p class="text-gray-400 text-sm">পদত্যাগের EOSB = <strong>০%</strong>। ধারা ৮৪-এর অধীনে তাড়াতাড়ি পদত্যাগে আপনি সম্পূর্ণ গ্র্যাচুইটি হারান।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">২ থেকে ৫ বছর</p>
+            <p class="text-gray-400 text-sm">যদি পদত্যাগ করেন এবং কোনো ব্যতিক্রম না থাকে তবে আপনি সম্পূর্ণ EOSB-এর মাত্র <strong>১/৩</strong> পান।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">৫ থেকে ১০ বছর</p>
+            <p class="text-gray-400 text-sm">স্বাভাবিক পদত্যাগের নিয়মে আপনি সম্পূর্ণ EOSB-এর <strong>২/৩</strong> পান।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">১০ বছরের বেশি</p>
+            <p class="text-gray-400 text-sm">শুধুমাত্র এই পর্যায়ে স্বাভাবিক পদত্যাগ আপনাকে <strong>সম্পূর্ণ</strong> ১০০% EOSB দেয়।</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          এখন একই ছবিতে <strong>ধারা ৮১</strong> প্রয়োগ করুন: নিয়োগকর্তা চুক্তি ভাঙায় <strong class="text-white">ধারা ৮১ সম্পূর্ণভাবে ধারা ৮৪-কে অগ্রাহ্য করে।</strong> পদত্যাগের জরিমানা মুছে যায়। আপনি সেবার বছর নির্বিশেষে <strong class="text-desert-primary">১০০% সম্পূর্ণ EOSB</strong> পান, কারণ আইন পদত্যাগকে নিয়োগকর্তার বরখাস্ত হিসেবে গণ্য করে। সংক্ষেপে, আইন শিকারকে রক্ষা করে, চুক্তিভঙ্গকারী নিয়োগকর্তাকে নয়।
+        </p>
+        <p class="mt-4">
+          আরও একটি সুরক্ষা স্তর রয়েছে। গুরুতর ক্ষেত্রে — যেমন দীর্ঘস্থায়ী বেতন না দেওয়া যা আপনার নথিভুক্ত আর্থিক ক্ষতি করেছে — গ্র্যাচুইটি ছাড়াও কর্মী <strong>ক্ষতিপূরণ</strong> পেতে পারেন। এই অতিরিক্ত দাবি সাধারণত শ্রম আদালতের রায় প্রয়োজন, তাই এটি আলাদা এবং জটিলতর পদক্ষেপ। নিয়োগকর্তা প্রকাশ্যে আইন এড়াতে চেষ্টা করলে এটি তোলার যোগ্য।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">মূল কথা:</strong> আপনার কাছে ধারা ৮১-এর বৈধ কারণ থাকলে, পদত্যাগে গ্র্যাচুইটি হারানোর ভয় মুছে যায়। সম্পূর্ণ EOSB আপনার আইনি অধিকার, এবং কর্তৃপক্ষ আশা করে যে ভালোভাবে নথিভুক্ত দাবি সম্মান করা হবে।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধাপে ধাপে: ধারা ৮১-এর পদত্যাগ নিরাপদে কীভাবে সম্পন্ন করবেন</h2>
+        <p>
+          পদত্যাগ সঠিকভাবে সম্পন্ন করাই সেই জায়গা যেখানে বেশিরভাগ শ্রমিক এড়ানো যায় এমন ভুল করে। একটি ভুল পদক্ষেপ — বিশেষ করে নিঃশব্দে কাজ বন্ধ করা — নিয়োগকর্তাকে আপনার বিরুদ্ধে ব্যবহারের অস্ত্র দিতে পারে। এই ক্রম অনুসরণ করুন, এবং নথিভুক্ত করার ধাপটি এড়িয়ে যাবেন না।
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ১: সবকিছু নথিভুক্ত করুন</p>
+            <p class="text-gray-400 text-sm">লঙ্ঘন প্রমাণকারী আপনার ব্যাংক স্টেটমেন্ট, কিউওয়া চুক্তি, জব অফার, ইমেইল এবং হোয়াটসঅ্যাপ বার্তা সংগ্রহ করুন। এটি আপনার পুরো দাবির ভিত্তি। প্রমাণ ছাড়া বৈধ ধারা ৮১ কারণও প্রমাণ করা কঠিন। যাওয়ার আগে সবকিছু নিরাপদ ব্যক্তিগত স্টোরেজে কপি করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ২: নিঃশব্দে "অনুপস্থিত" হবেন না (ফেরার)</p>
+            <p class="text-gray-400 text-sm">কখনোই না জানিয়ে কাজে আসা বন্ধ করবেন না। অপ্রকাশিত অনুপস্থিতি নিয়োগকর্তাকে <strong>হুরুব (ফেরার)</strong> রিপোর্ট দেওয়ার সুযোগ দেয়, যা আপনার EOSB দাবি এবং চূড়ান্ত প্রস্থান জটিল বা বাধাগ্রস্ত করতে পারে। আপনার পদত্যাগ আনুষ্ঠানিকভাবে জানানো উচিত, নীরবতায় সম্পন্ন নয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ৩: আনুষ্ঠানিক লিখিত নোটিশ পাঠান</p>
+            <p class="text-gray-400 text-sm">এইচআর-এ তারিখসহ ইমেইল বা চিঠি পাঠান: "আমি সৌদি শ্রম আইনের ধারা ৮১-এর অধীনে পদত্যাগ করছি কারণ [নির্দিষ্ট লঙ্ঘন, যেমন ৩ মাস বেতন না দেওয়া]। আমি ধারা ৮৭ অনুযায়ী ৫ দিনের মধ্যে আমার সম্পূর্ণ EOSB এবং চূড়ান্ত নিষ্পত্তি আশা করছি।" পাঠানো কপি এবং যেকোনো উত্তর সংরক্ষণ করুন। এটি আপনার প্রস্থানকে আইনি রেকর্ডে পরিণত করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ৪: "বন্ধুত্বপূর্ণ নিষ্পত্তি" (তাওয়াফুক) পোর্টালে আবেদন করুন</p>
+            <p class="text-gray-400 text-sm">নিয়োগকর্তা দিতে অস্বীকার করলে অবিলম্বে <strong>tarhal.mhrsd.gov.sa</strong>-এ অভিযোগ দায়ের করুন। "সেবা-সমাপ্তি সুবিধা" নির্বাচন করুন এবং ধারা ৮১-এর লঙ্ঘন উল্লেখ করুন। এই বিনামূল্যের পোর্টাল আনুষ্ঠানিক মামলার আগেই বেশিরভাগ মজুরি বিরোধ সমাধান করে এবং প্রকৃত প্রয়োগের ক্ষমতা রাখে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ধাপ ৫: MHRSD শ্রম অফিসে এস্কেলেট করুন</p>
+            <p class="text-gray-400 text-sm">তাওয়াফুক সমস্যা সমাধান না করলে স্থানীয় MHRSD শ্রম অফিসে আনুষ্ঠানিক শুনানির অনুরোধ করুন। কর্মকর্তা মজুরি সুরক্ষা ব্যবস্থার রেকর্ড এবং আপনার ব্যাংক স্টেটমেন্ট পরীক্ষা করবেন। আপনার সম্পূর্ণ প্রমাণ ফাইল নিয়ে আসুন। নিয়োগকর্তার বিরুদ্ধে অফিসিয়াল রায় প্রয়োগযোগ্য এবং তাদের সম্মতি রেকর্ড ক্ষতিগ্রস্ত করে।</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">সময়ের বিষয়ে নোট:</strong> বন্ধুত্বপূর্ণ নিষ্পত্তি প্ল্যাটফর্ম প্রায়ই কয়েক দিন বা কয়েক সপ্তাহে মামলা সমাধান করে; আনুষ্ঠানিক শ্রম অফিস শুনানি বা শ্রম আদালতের মামলা বেশি সময় নেয়। অবিলম্বে প্রক্রিয়া শুরু করুন এবং এগোনোর সময় প্রতিটি রসিদ, পে-স্লিপ এবং বার্তা সংরক্ষণ করুন।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বাস্তব জীবনের হিসাবের উদাহরণ (ধাপে ধাপে)</h2>
+        <p>
+          সংখ্যা আইনকে বাস্তব করে তোলে। এখানে দুটি কার্যকর উদাহরণ দেখানো হয়েছে যে ধারা ৮১ স্বাভাবিক পদত্যাগের তুলনায় কতটা অর্থের ব্যাপার।
+        </p>
+        <h3>পরিস্থিতি A: বেতনহীন শিকার</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>মৌলিক বেতন: ৪,০০০ রিয়াল/মাস। সেবা: ৩ বছর।</p>
+          <p>নিয়োগকর্তা ৩ মাস বেতন দেননি। শ্রমিক ধারা ৮১-এর অধীনে পদত্যাগ করেন।</p>
+          <p class="mt-3 text-desert-primary font-bold">স্বাভাবিক ধারা ৮৪ পদত্যাগের পরিশোধ (স্বেচ্ছায় পদত্যাগ করলে):</p>
+          <p>সম্পূর্ণ EOSB = (৪,০০০ ÷ ২) × ৩ = ৬,০০০ রিয়াল</p>
+          <p>ধারা ৮৪ ৩ বছরে (২–৫ ব্র্যাকেট): মাত্র ১/৩ = ২,০০০ রিয়াল</p>
+          <p class="mt-3 text-desert-primary font-bold">ধারা ৮১-এর পরিশোধ:</p>
+          <p>১০০% সম্পূর্ণ EOSB = ৬,০০০ রিয়াল</p>
+          <p>প্লাস ৩ মাসের অবৈতনিক বেতন = ৩ × ৪,০০০ = ১২,০০০ রিয়াল</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">মোট আদায় = ১৮,০০০ রিয়াল</p>
+          <p class="text-gray-400 text-xs mt-1">স্বেচ্ছায় পদত্যাগের চেয়ে ১৬,০০০ রিয়াল বেশি।</p>
+        </div>
+        <h3>পরিস্থিতি B: প্রতারণামূলক চুক্তি</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg text-gray-300 text-sm space-y-1 font-mono">
+          <p>কিউওয়ায় "আইটি ম্যানেজার" হিসেবে নিয়োগ, কিন্তু "ড্রাইভার" হিসেবে কাজ করতে বাধ্য।</p>
+          <p>১ বছর সেবার পর ধারা ৮১-এর অধীনে পদত্যাগ। মৌলিক বেতন ৫,০০০ রিয়াল।</p>
+          <p class="mt-3 text-desert-primary font-bold">স্বাভাবিক ধারা ৮৪ পরিশোধ (২ বছরের কম):</p>
+          <p>পদত্যাগের EOSB = ০ রিয়াল</p>
+          <p class="mt-3 text-desert-primary font-bold">ধারা ৮১-এর পরিশোধ:</p>
+          <p>১০০% সঞ্চিত EOSB = (৫,০০০ ÷ ২) × ১ = ২,৫০০ রিয়াল</p>
+          <p class="text-desert-gold text-lg font-bold mt-2">মোট আদায় = ২,৫০০ রিয়াল (০-এর বদলে)</p>
+        </div>
+        <p class="mt-4">
+          দুটি উদাহরণই একই নীতি দেখায়: <strong class="text-white">ধারা ৮১ ভাঙা কর্মক্ষেত্র ছাড়ার জন্য আপনাকে শাস্তি দেয় না — এটি আপনার সম্পূর্ণ গ্র্যাচুইটি এবং অবৈতনিক বেতন নিশ্চিত করে।</strong>
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রবাসীদের জন্য বিশেষ বিবেচনা (জিও টার্গেটিং)</h2>
+        <p>
+          আপনার জাতীয়তা ও সম্প্রদায় ধারা ৮১-এর পদত্যাগ কীভাবে সামলাবেন তাতে কার্যকর ভূমিকা রাখে। এখানে সৌদি আরবের বৃহত্তম প্রবাসী সম্প্রদায়ের শ্রমিকদের যা জানা উচিত।
+        </p>
+        <h3>দক্ষিণ এশীয় প্রবাসীদের জন্য (PK / IN / BD)</h3>
+        <p>
+          অবৈতনিক বেতনের অভিযোগ করার সঙ্গে সঙ্গেই নিয়োগকর্তারা প্রায়ই ইকামা বাতিল বা হুরুব রিপোর্ট দেওয়ার হুমকি দেয়, ঠিক যেন আপনাকে দাবি করা থেকে ভয় দেখায়। স্পষ্টভাবে বুঝুন: <strong class="text-desert-primary">EOSB পরিশোধ এড়াতে মিথ্যা হুরুব রিপোর্ট দায়ের করা নিয়োগকর্তাদের MHRSD কঠোর শাস্তি দেয়।</strong> নথিভুক্ত লঙ্ঘন নোটিশ পাঠানোর পরে দায়ের করা প্রতিশোধমূলক হুরুব আসলে আপনার মামলা শক্তিশালী করে, কারণ এটি দেখায় নিয়োগকর্তা আপনার অধিকার দাবির জন্য আপনার বিরুদ্ধে কাজ করছে। আপনার নোটিশ বনাম হুরুব রিপোর্টের সময় নথিভুক্ত করুন, এবং ব্যবধান আপনার পক্ষে প্রমাণ হয়ে যাবে।
+        </p>
+        <h3>ফিলিপিনো প্রবাসীদের জন্য</h3>
+        <p>
+          আপনি ফিলিপিনো কর্মী হলে, সৌদি আরবের <strong>ফিলিপাইন ওভারসিজ লেবার অফিস (POLO)</strong> আপনার সবচেয়ে শক্তিশালী মিত্র। POLO ধারা ৮১-এর পদত্যাগপত্র তৈরি এবং MHRSD নিষ্পত্তি আলোচনায় আপনার প্রতিনিধিত্বে সাহায্য করতে পারে। POLO-কে প্রথমে পর্যালোচনা করানো ছাড়া কখনোই চূড়ান্ত নিষ্পত্তি নথিতে স্বাক্ষর করবেন না। অফিসটি বিদেশে ফিলিপিনো কর্মীরা আইন প্রদত্ত প্রতিটি অধিকার পান তা নিশ্চিত করতে বিদ্যমান।
+        </p>
+        <h3>সব প্রবাসীদের জন্য</h3>
+        <p>
+          শ্রম আইনের <strong>ধারা ৮</strong>-এর সুরক্ষা মনে রাখুন: নিয়োগকর্তা যে নথিতে স্বাক্ষর করতে বাধ্য করে যা আপনার EOSB অধিকার বাতিল করে তা <strong class="text-desert-primary">বাতিল এবং অকার্যকর</strong>, এমনকি চাপে স্বাক্ষর করলেও। জোরপূর্বক "নিষ্পত্তি" বা "চূড়ান্ত ও সম্পূর্ণ" ওয়েভার আইনত আপনার অধিকার মুছে দেয় না। প্রস্থান ভিসা হারানোর ভয়ে আইন যা রক্ষা করে তাতে স্বাক্ষর করতে নিজেকে ঠেলে দিতে দেবেন না।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>৫টি সাধারণ ভুল যা আপনার ধারা ৮১ দাবি নষ্ট করে</h2>
+        <p>
+          একটি শক্ত আইনি মামলাও অসাবধানতায় হেরে যেতে পারে, আর একটি দুর্বল মামলা নিখুঁত কাগজপত্র দিয়ে জিততে পারে। এই পাঁচটি ভুলই প্রবাসীদের পুরো EOSB হারায় আরেকটি গরম যুদ্ধের চেয়ে বেশি। প্রতিটি পড়ুন এবং সেগুলি এড়িয়ে চলুন, কারণ প্রতিরোধ চিকিৎসার চেয়ে অনেক সস্তা।
+        </p>
+        <h3>ভুল ১: আনুষ্ঠানিক লিখিত নোটিশ ছাড়াই চলে যাওয়া</h3>
+        <p>
+          নিঃশব্দে কাজ বন্ধ করে দেশে ফিরে যাওয়া একটি বৈধ ধারা ৮১ মামলাকে সম্ভাব্য ফেরার (হুরুব) রিপোর্টে পরিণত করে। নিয়োগকর্তা তখন আপনার চলে যাওয়াকে পদত্যাগ নয়, কাজ পরিত্যাগ হিসেবে বর্ণনা করে, যা আপনার দাবি খারিজ করার হাতিয়ার হয়ে যায়। দেশ ছাড়ার আগে নির্দিষ্ট ধারা ৮১ কারণ উল্লেখ করে তারিখসহ লিখিত নোটিশ জমা দিন।
+        </p>
+        <h3>ভুল ২: চাপে পড়ে "চূড়ান্ত ও সম্পূর্ণ নিষ্পত্তি" স্বাক্ষর করা</h3>
+        <p>
+          সৌদি চাকরিতে সবচেয়ে বিপজ্জনক কাগজ হলো বিমানবন্দরে বা এক সপ্তাহের প্রস্থান ভিসার সময়সীমার চাপে আপনাকে দেওয়া রিলিজ। ইক্করাহ সত্য হলেও, স্বাক্ষর না করা আপনার আপত্তির রেকর্ড সংরক্ষণ করে। ধারা ৮-এর অধীনে আইনি EOSB কেড়ে নেওয়া ওয়েভার বাতিল, কিন্তু স্বাক্ষরিত রিলিজ পরবর্তী সকল বিবাদ কঠিন করে তোলে। নিজের হিসাবের সাথে মিলিয়ে না নেওয়া পর্যন্ত কিছু স্বাক্ষর করবেন না।
+        </p>
+        <h3>ভুল ৩: "এটাই সূত্র" বলে ধারা ৮৪-এর ভগ্নাংশ মেনে নেওয়া</h3>
+        <p>
+          এইচআর প্রায়ই ধারা ৮৪-এর পদত্যাগ সূচি অনুযায়ী আপনার গ্র্যাচুইটির এক-তৃতীয় বা দুই-তৃতীয়াংশ অফার করে, ধরে নেয় আপনি জানেন না ধারা ৮১ সেটিকে অগ্রাহ্য করে। নিষ্পত্তিপত্রে সেই সংখ্যা মেনে নেওয়া আপনার প্রাপ্য পার্থক্য মুছে দেয়। কিছুতে সম্মত হওয়ার আগে প্রতিটি অফারকে আপনার সম্পূর্ণ EOSB এবং অবৈতনিক বেতনের সাথে মেলান।
+        </p>
+        <h3>ভুল ৪: নিজের তথ্যপ্রমাণ নষ্ট বা হারানো</h3>
+        <p>
+          সাফল্যের সবচেয়ে বড় পূর্বাভাস হলো নথিভুক্ত প্রমাণ: মিস-পেমেন্ট দেখানো ব্যাংক স্টেটমেন্ট, স্বাক্ষরিত কিউওয়া চুক্তি, সংরক্ষিত হোয়াটসঅ্যাপ হুমকি এবং তারিখসহ অভিযোগ। কিছুই মুছবেন না এবং নিয়োগকর্তা বা এইচআর স্পর্শ করতে না পারা এমন ব্যক্তিগত অ্যাকাউন্টে কপি রাখুন।
+        </p>
+        <h3>ভুল ৫: এস্কেলেট করতে দেরি করা</h3>
+        <p>
+          বিলম্ব দাবিকে দুর্বল করে এবং নিয়োগকর্তাকে জাল রেকর্ড তৈরির সময় দেয়। মাসের পর মাস ব্যক্তিগত আলোচনা না করে দ্রুত তাওয়াফুক পোর্টালে আবেদন করুন এবং MHRSD শ্রম অফিসে এস্কেলেট করুন। সুসংগঠিত, সময়মতো দাবি সম্মানিত হয়; বাসি দাবি বিতর্কিত হয় এবং প্রমাণ করা কঠিন।
+        </p>
+        <p class="mt-4">
+          প্রতিটি ভুলের সাধারণ সূত্র হলো আবেগকে কাগজপত্রের উপর প্রাধান্য দেওয়া। প্রমাণ নিরাপদ রাখুন, লিখিতভাবে পদত্যাগ করুন এবং আইন যা দেয় তা কখনো স্বাক্ষরে হারাবেন না। নিজের সংখ্যা নিশ্চিত না হলে <a href="/eosb-calculator" class="text-desert-primary underline">যেকোনো মুখোমুখি হওয়ার আগে আনুমানিক হিসাব</a> করুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রমাণ যাচাই তালিকা: ধারা ৮১-এর পদত্যাগের আগে যা জোগাড় করুন</h2>
+        <p>
+          ধারা ৮১-এর পদত্যাগ ঘোষণার আগে সম্পূর্ণ প্রমাণের একটি ফাইল তৈরি করুন। শ্রম অফিস বা আদালত আপনার দাবি বিশ্বাস করবে কি না তা এই ফাইলই নির্ধারণ করে। নিচের তালিকার প্রতিটি উপাদান আছে তা নিশ্চিত করুন এবং বিচ্ছিন্ন দুটি জায়গায় ডিজিটাল ও কাগজি কপি রাখুন।
+        </p>
+        <ul class="list-disc list-inside space-y-2 mt-4 text-gray-300">
+          <li><strong class="text-white">স্বাক্ষরিত কিউওয়া কর্মসংস্থান চুক্তি:</strong> আপনার মৌলিক বেতন, পদবী এবং আনুষ্ঠানিক চুক্তির শর্ত প্রমাণ করে।</li>
+          <li><strong class="text-white">গত ৬ মাসের ব্যাংক স্টেটমেন্ট:</strong> মিস-পেমেন্টের মাসগুলো দ্ব্যর্থহীনভাবে দেখায়।</li>
+          <li><strong class="text-white">মজুরি সুরক্ষা ব্যবস্থার (WPS) রেকর্ড:</strong> অনুপস্থিত স্থানান্তরের স্বয়ংক্রিয় লগ যা আপনার দাবি সমর্থন করে।</li>
+          <li><strong class="text-white">মূল জব অফার বা পুরনো ইমেইল:</strong> চুক্তির বাইরে দেওয়া বেতন বা ভূমিকার প্রতিশ্রুতি প্রমাণ করে।</li>
+          <li><strong class="text-white">তারিখসহ লিখিত অভিযোগ:</strong> ম্যানেজার বা এইচআরকে পাঠানো ঘাটতি সংক্রান্ত যেকোনো চিঠি বা ইমেইল।</li>
+          <li><strong class="text-white">হোয়াটসঅ্যাপ ও এসএমএস বার্তা:</strong> হুমকি, নির্দেশ বা স্বীকারোক্তি যা নিয়োগকর্তার আচরণ প্রকাশ করে।</li>
+          <li><strong class="text-white">কাজের অবস্থার ছবি বা রিপোর্ট:</strong> অস্বাভাবিক পরিবেশ বা বাধ্যতামূলক অবৈধ কাজের প্রমাণ।</li>
+        </ul>
+        <p class="mt-4">
+          প্রতিটি ঘটনা তারিখ ও নথি দিয়ে সাজিয়ে ফাইলটিকে ক্রমানুসারে রাখুন। নিজের ব্যক্তিগত ফোন ও ইমেইলে ডিজিটাল কপি সংরক্ষণ করুন, যাতে নিয়োগকর্তা হঠাৎ কোম্পানির ইমেইল অ্যাক্সেস বন্ধ করলেও আপনার প্রমাণ নিরাপদ থাকে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">সোনালি নিয়ম:</strong> নথি ছাড়া দাবি একটি মতামত; নথিসহ দাবি একটি মামলা। যতটা কাগজ দিয়ে প্রমাণ করা হয়নি, কাজের পরিবেশ ছাড়ার পরে তা প্রমাণ করা ততটাই কঠিন।</p>
+        </div>
+        <p class="mt-4">
+          পদত্যাগের পরও একই শৃঙ্খলায় অনুসরণ করুন। তাওয়াফুক প্ল্যাটফর্মে মামলার নম্বর রাখুন, নিয়োগকর্তার সাথে প্রতিটি যোগাযোগ লিপিবদ্ধ করুন এবং হঠাৎ আলোচনা বন্ধ করবেন না। শান্ত, নথিভুক্ত অধ্যবসায় পরবর্তী অফিসে আপনার পক্ষে বিরাট সুবিধা তৈরি করে, কারণ এটি প্রমাণ করে আপনি আনুষ্ঠানিক হস্তক্ষেপ চাওয়ার আগেই বন্ধুত্বপূর্ণ সমাধানের চেষ্টা করেছেন।
+        </p>
+        <p class="mt-4">
+          কখন আইনজীবী নিতে হবে? নিয়োগকর্তা ধারা ৮৭-এর পাঁচ দিনের মেয়াদ পেরিয়ে টালবাহানা করলে, আপনার অভিজ্ঞতা সনদ বা ফাইল হস্তান্তর করতে অস্বীকার করলে, বা হুরুব রিপোর্টের হুমকি দিলে লাইসেন্সপ্রাপ্ত আইনজীবী বা সরাসরি শ্রম আদালতের পথ নেওয়ার সময় এসেছে। এসব ক্ষেত্রে আগে জমানো কাগজপত্রই প্রথম শুনানির ফল নির্ধারণ করে, কারণ পদত্যাগের আগে তোলা প্রতিটি নথি এখন বিচারকের চোখে আপনার বক্তব্য। সংলাপ বন্ধ না হওয়া পর্যন্ত অপেক্ষা করবেন না; প্রতিটি ধাপে লিখিত অবস্থান ধরে রাখুন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সাধারণ জিজ্ঞাসা (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">সৌদি আরবে বেতন না পাওয়ার কারণে পদত্যাগ করলে কি সম্পূর্ণ EOSB পেতে পারি?</p>
+            <p class="text-gray-400 text-sm mt-1">হ্যাঁ। সৌদি শ্রম আইনের ধারা ৮১ অনুযায়ী, অবৈতনিক বেতনের (২+ মাস) বা অন্য নিয়োগকর্তার লঙ্ঘনের কারণে পদত্যাগ আপনাকে ১০০% সম্পূর্ণ EOSB-এর অধিকারী করে, যা ধারা ৮৪-এর পদত্যাগ জরিমানা এড়িয়ে যায়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">সৌদি শ্রম আইনের ধারা ৮১ কী?</p>
+            <p class="text-gray-400 text-sm mt-1">ধারা ৮১ গুরুতর নিয়োগকর্তার লঙ্ঘন তালিকাভুক্ত করে — অবৈতনিক বেতন, নিয়োগে প্রতারণা, আক্রমণ বা হয়রানি, অস্বাভাবিক পরিস্থিতি এবং অবৈধ কাজ — যা আপনাকে সম্পূর্ণ সেবা-সমাপ্তি সুবিধা রেখে পদত্যাগের অনুমতি দেয়, যা নিয়োগকর্তার বরখাস্তের মতো গণ্য হয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ধারা ৮১-এর পদত্যাগের জন্য কত মাস বেতন না পাওয়া জরুরি?</p>
+            <p class="text-gray-400 text-sm mt-1">টানা দুই বা ততোধিক মাসের অবৈতনিক বেতন ধারা ৮১-এর পদত্যাগের সবচেয়ে পরিষ্কার সীমা। ব্যাংক স্টেটমেন্ট এবং মজুরি সুরক্ষা ব্যবস্থার রেকর্ডের অনুপস্থিতির মাধ্যমে অ-প্রদান নথিভুক্ত করতে হবে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ধারা ৮১-এর অধীনে পদত্যাগ করলে কি আমার নিয়োগকর্তা হুরুব (ফেরার) রিপোর্ট দায়ের করতে পারে?</p>
+            <p class="text-gray-400 text-sm mt-1">তাদের এমন করা উচিত নয়, এবং EOSB পরিশোধ এড়াতে দায়ের করা মিথ্যা হুরুব MHRSD কঠোর শাস্তি দেয়। নথিভুক্ত ধারা ৮১ নোটিশ আপনাকে রক্ষা করে কারণ এটি প্রমাণ করে আপনার প্রস্থান বৈধ পদত্যাগ ছিল, অনুপস্থিতি নয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">ধারা ৮১-এর অধীনে পদত্যাগ করলে কি নোটিশ পিরিয়ড দিতে হবে?</p>
+            <p class="text-gray-400 text-sm mt-1">নিয়োগকর্তা প্রথমে চুক্তি ভাঙায়, ধারা ৮১-এর পদত্যাগ স্বাভাবিক পদত্যাগের মতো মানক নোটিশ জরিমানা প্রয়োজন হয় না। তবে আপনাকে অবশ্যই লিখিতভাবে আনুষ্ঠানিকভাবে পদত্যাগ জানাতে হবে যাতে নিজেকে ফেরার অভিযোগ থেকে রক্ষা করেন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">MHRSD-কে নিয়োগকর্তার চুক্তি লঙ্ঘন কীভাবে প্রমাণ করব?</p>
+            <p class="text-gray-400 text-sm mt-1">অবৈতনিক বেতন দেখানো ব্যাংক স্টেটমেন্ট, আপনার কিউওয়া চুক্তি, নথিভুক্ত অভিযোগ, অস্বাভাবিক পরিস্থিতির ছবি বা রিপোর্ট এবং লঙ্ঘন দেখানো যেকোনো যোগাযোগ প্রদান করুন। মজুরি সুরক্ষা ব্যবস্থার রেকর্ড স্বয়ংক্রিয়ভাবে আপনার দাবি সমর্থন করে।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>উপসংহার: অনৈতিক নিয়োগকর্তাকে আপনার EOSB চুরি করতে দেবেন না</h2>
+        <p>
+          এখানে সেই মূল বার্তা যা আপনি খুঁজছিলেন: <strong class="text-white">ধারা ৮১ ঠিক আপনার সম্মুখীন পরিস্থিতির জন্যই তৈরি।</strong> যখন আপনার নিয়োগকর্তা বেতন দেওয়া বন্ধ করে, প্রতারণা করে, আপনাকে বিপদে ফেলে বা আইন ভাঙতে বাধ্য করে, তখন আপনি চাকরি এবং গ্র্যাচুইটি হারানোর মাঝখানে আটকে থাকেন না। আইন আপনাকে তৃতীয় বিকল্প দেয় — পদত্যাগ করুন, সম্পূর্ণ EOSB দাবি করুন এবং অবৈতনিক বেতনের পেছনে ছুটুন।
+        </p>
+        <p class="mt-4">
+          একমাত্র গুরুত্বপূর্ণ জিনিসটি প্রমাণ। লঙ্ঘন ঘটার সময় তা নথিভুক্ত করুন, ধারা ৮১-এর অধীনে লিখিত পদত্যাগ করুন, এবং তাওয়াফুক পোর্টাল ও MHRSD শ্রম অফিসের মাধ্যমে এস্কেলেট করুন। ব্যবস্থাটি চুক্তিভঙ্গকারী নিয়োগকর্তার বিরুদ্ধে রায় দেওয়ার জন্য ডিজাইন করা, প্রতারিত শ্রমিকের বিরুদ্ধে নয়।
+        </p>
+        <p class="mt-4">
+          নিয়োগকর্তার মুখোমুখি হওয়ার আগে নিজের সংখ্যা অনুমান করে যাবেন না। <strong class="text-desert-primary">মুখোমুখি হওয়ার আগে ঠিক কত পাওনা তা হিসাব করুন।</strong> আপনার ১০০% প্রাপ্য সংখ্যা পেতে <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB ক্যালকুলেটর</a> ব্যবহার করুন, তারপর জ্ঞানের অবস্থান থেকে আলোচনা — বা এস্কেলেট — করুন।
+        </p>
+        <p class="mt-4">
+          ধারা ৮১ যে সাধারণ পদত্যাগ কাঠামোকে অগ্রাহ্য করে তা বুঝতে চান? আমাদের গাইড <a href="/guide/saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026" class="text-desert-primary underline">সৌদি পদত্যাগের EOSB নিয়ম: ধারা ৮৪ বনাম ৮৫</a> পড়ুন যাতে দেখেন ধাপগুলো সাধারণত কীভাবে প্রযোজ্য হয়।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার সম্পূর্ণ EOSB হিসাব করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">বিনামূল্যে — আপনার মৌলিক বেতন, সেবার বছর ও চলে যাওয়ার কারণ দিন</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">ফ্রি EOSB ক্যালকুলেটর ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই নির্দেশিকাটি সৌদি শ্রম আইনের (বিশেষত ধারা ৮১) ভিত্তিতে তথ্যগত উদ্দেশ্যে। প্রতিটি মামলা অনন্য। আনুষ্ঠানিক বিরোধের জন্য সর্বদা মানব সম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয়কে (MHRSD) নির্দেশ করুন বা সৌদি আরবের লাইসেন্সপ্রাপ্ত আইনী পেশাদারের পরামর্শ নিন।
+        </p>
+      </div>
+    `,
+    },
+  },
 ]
