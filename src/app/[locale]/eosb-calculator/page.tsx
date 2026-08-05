@@ -3,6 +3,7 @@ import { getTranslations } from 'next-intl/server'
 import Link from 'next/link'
 import { BookOpen } from 'lucide-react'
 import { EOSBCalculator } from '@/components/EOSBCalculator'
+import { FinalSettlementCalculator } from '@/components/FinalSettlementCalculator'
 import { ToolSeoContent } from '@/components/ToolSeoContent'
 import {
   SoftwareAppJsonLd,
@@ -63,6 +64,7 @@ export default async function EOSBCalculatorPage({ params }: Props) {
   return (
     <>
       <EOSBCalculator locale={locale} />
+      <FinalSettlementCalculator locale={locale} />
       <SoftwareAppJsonLd
         name="End of Service Benefit Calculator"
         description="Free EOSB calculator for Saudi Arabia. Calculate your end of service benefit instantly based on Saudi Labor Law."

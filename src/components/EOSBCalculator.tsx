@@ -208,7 +208,7 @@ export function EOSBCalculator({ locale }: { locale?: string }) {
   const hasResult = result !== null
 
   return (
-    <div className="relative z-10 mx-auto w-full max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
+    <div id="eosb-calculator" className="relative z-10 mx-auto w-full max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
       <motion.div className="grid gap-6 lg:grid-cols-2 lg:gap-8" variants={stagger.container} initial="initial" animate="animate">
         {/* ---- FORM COLUMN ---- */}
         <motion.div variants={stagger.item}>
