@@ -14494,4 +14494,1699 @@ export const articles: Article[] = [
       </div>
     ` }
   },
+  {
+    slug: 'saudi-labor-law-resignation-eosb-entitlements-article-84-85-2026',
+    category: 'expat',
+    readTime: '14 min read',
+    date: '2026-08-05',
+    title: {
+      en: 'Saudi Resignation EOSB Rules 2026: Article 84 vs 85 Entitlements Explained',
+      ar: 'قواعد مكافأة نهاية الخدمة عند الاستقالة في السعودية 2026: المادة 84 مقابل المادة 85',
+      ur: 'سعودی عرب 2026 میں استعفیٰ پر EOSB کے قواعد: آرٹیکل 84 بمقابلہ آرٹیکل 85 کی وضاحت',
+      tl: 'Mga Panuntunan sa EOSB Kapag Nag-resign sa Saudi Arabia 2026: Artikulo 84 kumpara sa 85',
+      bn: 'সৌদি আরব ২০২৬-এ পদত্যাগে ইওএসবি নিয়ম: ধারা ৮৪ বনাম ৮৫ ব্যাখ্যা',
+    },
+    description: {
+      en: 'Resigning in KSA? Learn exact EOSB entitlements under Article 84 (1/3rd, 2/3rds, Full) vs Article 85. Calculate your end of service benefit accurately in 2026.',
+      ar: 'تستقيل في السعودية؟ اعرف استحقاقك الدقيق من مكافأة نهاية الخدمة بموجب المادة 84 (الثلث والثلثان والكامل) مقابل المادة 85. احسب مستحقاتك بدقة في 2026.',
+      ur: 'سعودی عرب میں استعفیٰ دے رہے ہیں؟ آرٹیکل 84 (ایک تہائی، دو تہائی، مکمل) بمقابلہ آرٹیکل 85 کے تحت اپنی EOSB صحیح طریقے سے جانیں۔ 2026 میں اپنی مزدوری معاوضہ درست حساب کریں۔',
+      tl: 'Magre-resign ka ba sa KSA? Alamin ang eksaktong EOSB entitlements sa ilalim ng Artikulo 84 (1/3, 2/3, Full) kumpara sa Artikulo 85. Kalkulahin nang tama ang iyong end of service benefit sa 2026.',
+      bn: 'সৌদি আরবে পদত্যাগ করছেন? ধারা ৮৪ (এক-তৃতীয়াংশ, দুই-তৃতীয়াংশ, সম্পূর্ণ) বনাম ধারা ৮৫-এর অধীনে সঠিক ইওএসবি জেনে নিন। ২০২৬ সালে সঠিকভাবে আপনার সেবা-সমাপ্তি সুবিধা হিসাব করুন।',
+    },
+    metaTitle: {
+      en: 'Saudi Resignation EOSB Rules 2026: Article 84 vs 85 Explained',
+      ar: 'قواعد مكافأة نهاية الخدمة عند الاستقالة 2026: المادتان 84 و85',
+      ur: 'استعفیٰ پر EOSB کے قواعد 2026: آرٹیکل 84 اور 85 کی وضاحت',
+      tl: 'EOSB Rules Kapag Nag-resign 2026: Artikulo 84 vs 85',
+      bn: 'পদত্যাগে ইওএসবি নিয়ম ২০২৬: ধারা ৮৪ বনাম ৮৫',
+    },
+    content: {
+      en: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Labor Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Saudi Resignation EOSB Rules 2026: Article 84 vs 85 Entitlements Explained</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Exactly how much End of Service Benefit (EOSB) you get when you resign in Saudi Arabia — the tiered Article 84 system, the 100% guarantee of Article 85, and every exception that changes your number.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduction: Your Gratuity Is Not a Mystery</h2>
+        <p>
+          Leaving a job in Saudi Arabia is stressful enough — packing years of your life into suitcases, cancelling Iqama formalities, and saying goodbye to colleagues who became family. The last thing you need is to walk into your HR department and accept whatever number they hand you without knowing whether it is right.
+        </p>
+        <p class="mt-4">
+          The confusion is real. Ask five people on any expat WhatsApp group what happens to their gratuity when they resign and you will get five different answers: "It&apos;s half your salary times your years," "You only get it after two years," "You get everything if you quit after 10 years." Most of these are half-truths built on a single, misunderstood law.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">The direct answer:</strong> Under Saudi Labor Law, your End of Service Benefit (EOSB) upon resignation depends entirely on your years of service and the reason for leaving, ranging from <strong class="text-desert-primary">0% to 100%</strong> of your accrued benefit under <strong class="text-white">Article 84</strong>, whereas <strong class="text-white">Article 85</strong> (employer termination or natural contract expiry) guarantees <strong class="text-desert-primary">100%</strong> of the full accrued benefit. One letter — the resignation letter — can cost you thousands of riyals. This guide shows you exactly how much, with the math spelled out step by step.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Don&apos;t guess your amount.</strong> Use our <a href="/eosb-calculator" class="text-desert-primary underline">Free EOSB Calculator</a> to get an exact estimate based on your specific scenario — your salary, your years, and the reason you are leaving.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Golden Rule: Article 85 (Employer Termination or Contract Expiry)</h2>
+        <p>
+          Article 85 of the Saudi Labor Law is the friendliest article in the entire statute for the worker. It applies when the employment relationship ends for reasons <strong class="text-white">not caused by the employee</strong> — meaning the employer terminates the contract (without an Article 80 cause) or a fixed-term contract simply expires and is not renewed.
+        </p>
+        <p class="mt-4">
+          In both cases, the employee is entitled to <strong class="text-desert-primary">100% of the full EOSB</strong>, regardless of whether they worked for 1 year or 15 years. There is no tiering, no fraction, no "loyalty discount." The entire accrued benefit is yours.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">The standard accrual rate (Article 84 formula, applied in full):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">First 5 years:</strong> half a month&apos;s basic salary for each year of service.</li>
+            <li><strong class="text-white">Years 6 and beyond:</strong> one full month&apos;s basic salary for each year of service.</li>
+            <li><strong class="text-white">Partial years:</strong> computed on a pro-rata basis (days of service ÷ 365 × the applicable annual rate).</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          So if your employer lets you go after 3 years on a 6,000 SAR basic salary, your full benefit is (6,000 ÷ 2) × 3 = <strong class="text-white">9,000 SAR</strong>. The same rule that normally applies the "1/3rd penalty" under Article 84 does not touch you here, because the exit was not your choice.
+        </p>
+        <p class="mt-4">
+          There is one critical warning: if the employer claims the termination was "for cause," they must prove the cause exists under Article 80. An unjustified claim does not automatically drop you to zero — and it is precisely the Article 80 battles that end up in the Labor Court.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Article 84 Resignation: The Tiered Entitlement System</h2>
+        <p>
+          When <strong class="text-white">you</strong> resign — you hand in the letter, you walk out the door — the law scales your EOSB based on loyalty. The logic is straightforward: the legislature wants to protect the employer&apos;s investment in training and onboarding you, so the longer you stay, the closer you get to the full benefit.
+        </p>
+        <p class="mt-4">
+          This is the system most expats never fully understand. It is not one rule; it is a staircase with four steps, and your step depends entirely on your completed years of continuous service with that employer.
+        </p>
+        <h3>Less Than 2 Years of Service: 0% Entitlement</h3>
+        <p>
+          Resign before completing two years and you walk away with <strong class="text-desert-primary">zero End of Service Benefit</strong>. This is the single biggest surprise for expats who resign at the 18-month mark expecting "something." The law deliberately sets a two-year gate before any gratuity accrues to you on resignation.
+        </p>
+        <p class="mt-4">
+          Note the critical difference: this two-year gate applies to <em>resignation</em> under Article 84. If your employer terminates you or your contract expires naturally at 18 months, Article 85 still gives you 100% of the accrued benefit — the two-year rule only punishes the employee who leaves voluntarily.
+        </p>
+        <h3>2 to 5 Years of Service: 1/3rd (One-Third) of the Accrued EOSB</h3>
+        <p>
+          Complete two years but fewer than five, resign, and you receive <strong class="text-desert-primary">one-third (1/3rd)</strong> of the EOSB that has accrued to you. Many workers misread this as "a third of a year&apos;s salary." It is not. It is one-third of your <em>total accrued benefit</em> for the whole period of service.
+        </p>
+        <h3>5 to 10 Years of Service: 2/3rds (Two-Thirds) of the Accrued EOSB</h3>
+        <p>
+          From five completed years up to ten, resignation entitles you to <strong class="text-desert-primary">two-thirds (2/3rds)</strong> of the accrued benefit. This is where the numbers start to feel real — for a worker on 5,000 SAR basic with eight years of service, the accrued pool alone is 35,000 SAR, and two-thirds of that is 23,333 SAR.
+        </p>
+        <h3>10+ Years of Service: 100% (Full) Accrued EOSB</h3>
+        <p>
+          Serve <strong class="text-white">ten or more continuous years</strong> and resign, and the tier disappears entirely: you receive the <strong class="text-desert-primary">full 100%</strong> of your accrued EOSB, exactly as if you had been terminated. The loyalty discount is fully forgiven. For long-serving expats this is often the difference between a comfortable repatriation fund and a painful shortfall.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Clarification on tier thresholds:</strong> "5 years" and "10 years" mean <em>completed, continuous years</em> with the same employer under the same employment relationship. Days of a partial year count toward the next tier only when that year is completed; the fractional year itself is settled at the tier you currently occupy.</p>
+        </div>
+        <h3>Article 84 Calculation Table — Hypothetical Worker, 5,000 SAR Basic Salary</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">Scenario</th>
+                <th class="py-2 pr-2">Years</th>
+                <th class="py-2 pr-2">Accrued EOSB</th>
+                <th class="py-2 pr-2">Tier</th>
+                <th class="py-2">Payable EOSB</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">3 years</td>
+                <td class="py-2 pr-2">3</td>
+                <td class="py-2 pr-2">(2,500 × 3) = 7,500</td>
+                <td class="py-2 pr-2">1/3rd</td>
+                <td class="py-2 text-desert-primary font-medium">2,500 SAR</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">7 years</td>
+                <td class="py-2 pr-2">7</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 2) = 22,500</td>
+                <td class="py-2 pr-2">2/3rds</td>
+                <td class="py-2 text-desert-primary font-medium">15,000 SAR</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">12 years</td>
+                <td class="py-2 pr-2">12</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 7) = 47,500</td>
+                <td class="py-2 pr-2">Full</td>
+                <td class="py-2 text-desert-primary font-medium">47,500 SAR</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-gray-500 text-xs mt-2">All amounts in Saudi Riyal. Accrual: 1/2 month basic per year (first 5 years), 1 full month basic per year thereafter.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Crucial Exceptions: When Resignation Still Gets You 100% EOSB</h2>
+        <p>
+          The tiered system under Article 84 has hard edges, and the law is not blind to them. In three situations, resignation — even after a single year — still triggers the <strong class="text-desert-primary">full 100% benefit</strong>, because the law does not consider you to be the party at fault.
+        </p>
+        <h3>Female Employee Protections</h3>
+        <p>
+          If a female employee resigns within <strong class="text-white">six months of marriage</strong> or within <strong class="text-white">three months of childbirth</strong>, she receives her full EOSB regardless of years of service. The provision exists so that starting a family never punishes a woman financially. If this applies to you, the tier percentage is simply skipped.
+        </p>
+        <h3>Article 81: Employer Breach of Contract</h3>
+        <p>
+          If the reason you resign is that <em>your employer</em> broke the contract — failed to pay salaries on time, violated safety regulations, deceived you at hiring, or assigned work substantially different from the agreed job — then your resignation is legally treated as if <strong class="text-white">you had been terminated by the employer</strong>. You are entitled to <strong class="text-desert-primary">100% of the full EOSB immediately</strong>, exactly as under Article 85.
+        </p>
+        <p class="mt-4">
+          This is one of the most powerful tools expats have, and one of the most underused. The catch: the breach must be documented and, if the employer disputes it, proven before the labor authorities. Document every late salary, every safety violation, every breached promise — in writing, with dates.
+        </p>
+        <h3>Force Majeure</h3>
+        <p>
+          If unavoidable circumstances make work impossible — such as the closure of the establishment or events beyond anyone&apos;s control — and the employment ends as a result, the employee receives the <strong class="text-white">full accrued EOSB</strong>. The same protection applies when the employer&apos;s own circumstances (not the employee&apos;s fault) force the relationship to end.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Danger Zone: Article 80 (Termination for Cause) — 0% EOSB</h2>
+        <p>
+          Article 80 is the mirror image of Article 84&apos;s protections. It lists the circumstances where the employer may dismiss the employee <strong class="text-desert-primary">without notice and without any End of Service Benefit</strong> — a flat zero.
+        </p>
+        <p class="mt-4">
+          These are serious, deliberate breaches of trust. The law&apos;s logic: if you cause the harm that ends the relationship, you do not walk out with the reward.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Assault or violence against the employer, a manager, or a fellow worker</p>
+            <p class="text-gray-400 text-sm">Any physical aggression in the workplace is grounds for instant dismissal with zero EOSB.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Fraud or dishonesty</p>
+            <p class="text-gray-400 text-sm">Deception in the hiring documents or in the course of work — forging certificates, falsifying reports — voids your benefit.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Revealing trade secrets</p>
+            <p class="text-gray-400 text-sm">Disclosing confidential business information, especially to a competitor, is an Article 80 trigger.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Absenteeism: 20 intermittent days or 10 consecutive days</p>
+            <p class="text-gray-400 text-sm">Missing 20 non-consecutive days or 10 straight days in a year, without a valid excuse, allows dismissal with zero EOSB.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Working for a competitor</p>
+            <p class="text-gray-400 text-sm">Engaging in a competing business while employed is both a breach of loyalty and an Article 80 cause.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          <strong class="text-white">The extra danger:</strong> in Article 80 cases, the employer does not stop at zero EOSB. The law allows the employer to claim <strong class="text-desert-primary">damages against you</strong> for the harm caused. A dismissal for cause can therefore cost you money rather than simply withholding it. If you are facing an Article 80 allegation, do not sign anything and get legal help immediately.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-World Calculation Examples (Step-by-Step)</h2>
+        <p>Theory is easy. Let us make it real with three worked examples that cover the most common situations — resignation at 3 years, resignation at 8 years, and employer termination at 4 years.</p>
+        <h3>Scenario A: Expat Resigns After 3 Years (Basic Salary 4,000 SAR)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>Step 1 — Accrued EOSB = (4,000 ÷ 2) × 3 years = <strong class="text-white">6,000 SAR</strong></p>
+          <p class="mt-1">Step 2 — Tier at 3 years = 1/3rd (one-third)</p>
+          <p class="mt-1">Step 3 — Payable EOSB = 6,000 × (1/3) = <strong class="text-desert-primary">2,000 SAR</strong></p>
+        </div>
+        <h3>Scenario B: Expat Resigns After 8 Years (Basic Salary 6,000 SAR)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>Step 1 — First 5 years: (6,000 ÷ 2) × 5 = 15,000 SAR</p>
+          <p class="mt-1">Step 2 — Next 3 years: 6,000 × 3 = 18,000 SAR</p>
+          <p class="mt-1">Step 3 — Total accrued = 15,000 + 18,000 = <strong class="text-white">33,000 SAR</strong></p>
+          <p class="mt-1">Step 4 — Tier at 8 years = 2/3rds (two-thirds)</p>
+          <p class="mt-1">Step 5 — Payable EOSB = 33,000 × (2/3) = <strong class="text-desert-primary">22,000 SAR</strong></p>
+        </div>
+        <h3>Scenario C: Employer Terminates After 4 Years (Basic Salary 5,000 SAR)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 text-sm text-gray-300">
+          <p>Step 1 — Accrued EOSB = (5,000 ÷ 2) × 4 years = <strong class="text-white">10,000 SAR</strong></p>
+          <p class="mt-1">Step 2 — Reason = employer termination (Article 85)</p>
+          <p class="mt-1">Step 3 — Tier = 100% (no tier applies)</p>
+          <p class="mt-1">Step 4 — Payable EOSB = 10,000 × 100% = <strong class="text-desert-primary">10,000 SAR</strong></p>
+        </div>
+        <p class="mt-4">
+          Notice the difference between Scenario A and Scenario C: identical-ish salaries, almost identical service, yet one worker receives 2,000 SAR and the other 10,000 SAR. The only variable is <em>who ended the contract</em>. That is the entire law in one sentence.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>The Resignation Process: Notice Period and the Real Paperwork</h2>
+        <p>
+          Your EOSB is only paid at the end of a process, and the process itself has rules you cannot afford to break — because breaking them can cost you the benefit you just calculated.
+        </p>
+        <p class="mt-4">
+          Under the general framework of the Labor Law, an employee resigning from a permanent (unlimited) contract must give the employer written notice before the effective date of resignation. The notice period is defined in your contract but cannot be less than the statutory minimum of <strong class="text-white">30 days</strong>. For fixed-term contracts, the resignation runs until the expiry of the contract unless a longer notice is agreed in writing.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">What the paperwork actually looks like:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">Your resignation letter</strong> — dated, signed, and ideally submitted in writing with a copy retained (email with read receipt works).</li>
+            <li><strong class="text-white">Final settlement statement</strong> — your EOSB, unpaid leave days, and any end-of-contract dues, itemised.</li>
+            <li><strong class="text-white">End of Service Certificate (Article 64)</strong> — proof your dues are settled; keep the original for your exit.</li>
+            <li><strong class="text-white">Iqama cancellation and exit formalities</strong> — handled through Absher/Qiwa; your employer must not block the exit without a legal basis.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          One practical warning: never submit your resignation orally and walk away expecting the clock to run. If the employer later claims you abandoned the job, your resignation can be reclassified as <strong class="text-white">absconding or unauthorized absence</strong> — which, as you now know, is an Article 80 trigger. The written resignation letter is your legal protection.
+        </p>
+        <p class="mt-4">
+          The employer is legally required to pay your final settlement promptly after the employment relationship ends. Delays are common, but they are not your problem to absorb silently — they are a sign to escalate through the official channels below.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>What If Your Employer Refuses to Pay Your EOSB?</h2>
+        <p>
+          The math in this guide is worthless if the employer simply refuses to pay. This happens more often than it should, and expats — fearing their Iqama will be held hostage — usually give up and fly home short-changed. Do not be that person.
+        </p>
+        <p class="mt-4">
+          Saudi Arabia now has a structured escalation path that does not require you to be inside the country to use it:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. File a complaint via Qiwa or the labor offices</p>
+            <p class="text-gray-400 text-sm">The Ministry of Human Resources and Social Development (MHRSD) platform lets you register a wage/EOSB claim online. The employer is summoned, and most simple disputes are resolved at this first conciliation stage.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. Escalate to the Labor Court</p>
+            <p class="text-gray-400 text-sm">If conciliation fails, the case moves to the Labor Court. Under the current system, labor claims are prioritised and many EOSB cases are decided quickly — often in the employee&apos;s favour when the employer has no written proof for withholding.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. Enforcement against the employer</p>
+            <p class="text-gray-400 text-sm">A judgment in your favour can be executed against the employer, and serial defaulters face sanctions, including suspension of their ability to hire foreign workers.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          The single most important thing you can do before leaving: <strong class="text-desert-primary">document everything</strong>. Your contract, your payslips (Wage Protection System records if available), your resignation letter, and your final settlement statement. If you have no paper trail, you have no case.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Special Considerations for Expats</h2>
+        <p>
+          Your EOSB does not exist in a vacuum. For the millions of South Asian and Filipino expats who built this kingdom, the final settlement is a package — and knowing what else belongs in it can add thousands to your final transfer.
+        </p>
+        <h3>For South Asian Expats (PK / IN / BD)</h3>
+        <p>
+          Before final exit, demand the <strong class="text-white">"End of Service Certificate"</strong> issued under <strong class="text-white">Article 64</strong> of the Labor Law. This certificate formally records that your employer has settled all your dues. Without it, re-employment in Saudi Arabia later can be blocked, and disputes become far harder to pursue from abroad.
+        </p>
+        <p class="mt-4">
+          Second, remember that your <strong class="text-desert-primary">unpaid vacation days are added on top of</strong> your Article 84/85 EOSB. Article 109 entitles you to compensation in lieu of accrued annual leave you never took. Many employers quietly absorb this into the "gratuity" figure; it is a separate entitlement and should be itemised separately in your final settlement.
+        </p>
+        <h3>For Filipino Expats: The POLO Safety Net</h3>
+        <p>
+          The Philippine Overseas Labor Office (POLO) in Saudi Arabia reviews and authenticates final settlements for Filipino workers. Before you sign any release, waiving document, or settlement agreement, have it checked by POLO. Its role is precisely to prevent Filipino workers from being pressured into signing away rights they do not know they have.
+        </p>
+        <p class="mt-4">
+          The pattern is always the same: an HR officer slides a "full and final settlement" across the desk, explains it in a rush, and waits for your signature. The correct move is the opposite of what they want — take the document, read it, and let POLO or a legal professional review it before you sign.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Frequently Asked Questions (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Do I get EOSB if I resign after 1 year in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Under Article 84, resignation before completing 2 years of service entitles you to 0% of the accrued EOSB. The only exception is if your resignation qualifies as an Article 81 constructive termination (employer breach) or a protected female resignation — then 100% applies.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What is the difference between Article 84 and Article 85 in Saudi labor law?</p>
+            <p class="text-gray-400 text-sm mt-1">Article 84 applies when the employee resigns and tiers the EOSB by service: 0% under 2 years, 1/3rd from 2–5 years, 2/3rds from 5–10 years, and 100% after 10 years. Article 85 applies when the employer terminates without cause or a fixed contract expires, and guarantees 100% of the full accrued EOSB at any length of service.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Can my employer make me sign a waiver to give up my EOSB?</p>
+            <p class="text-gray-400 text-sm mt-1">No. Article 8 of the Saudi Labor Law states that any agreement, condition, or contract provision that waives rights provided by the Law is null and void, even if the employee signed it willingly. You cannot contract away your EOSB.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How is the 1/3rd or 2/3rds EOSB calculated exactly?</p>
+            <p class="text-gray-400 text-sm mt-1">First calculate the full accrued benefit: half a month&apos;s basic salary per year for the first 5 years plus one full month&apos;s basic salary per year thereafter, pro-rated for partial years. Then multiply by 1/3 (2–5 years) or 2/3 (5–10 years) if you resigned. Example: 6,000 SAR basic at 8 years accrues 33,000 SAR; resignation pays 33,000 × 2/3 = 22,000 SAR.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Does the EOSB calculation include housing and transportation allowances?</p>
+            <p class="text-gray-400 text-sm mt-1">By default, EOSB is based on the basic salary only — housing and transportation allowances are excluded from the statutory calculation under the standard reading of Article 84. However, if your employment contract explicitly states that allowances form part of the salary base for EOSB, they count. Review your contract wording before relying on the lower figure.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: How long is the notice period when I resign in Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">For an unlimited (permanent) contract, the statutory minimum notice for resignation is 30 days, though your contract can set a longer period. For a fixed-term contract, resignation takes effect at the contract&apos;s expiry unless a longer written notice is agreed. Serve your notice in writing — an oral resignation can be misclassified as unauthorized absence.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What do I do if my employer refuses to pay my end of service benefit?</p>
+            <p class="text-gray-400 text-sm mt-1">File a complaint through the MHRSD (Qiwa or the labor office) while you are still in the country or after exit, then escalate to the Labor Court if conciliation fails. Keep your contract, payslips, resignation letter, and final settlement statement as evidence. A documented claim is far more likely to succeed than a verbal one.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: What happens to my EOSB if I transfer my sponsorship to a new employer (naqal kafala)?</p>
+            <p class="text-gray-400 text-sm mt-1">Your service with the old employer does not simply vanish. On a transfer of sponsorship, the old employer must settle your EOSB up to the transfer date, calculated on the tier that applies to the years you served them. Your service period then restarts at zero with the new employer — so a transfer resets your clock toward the 10-year full-benefit tier.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Know Your Number Before You Sign Anything</h2>
+        <p>
+          Handing in a resignation letter is not a neutral act in Saudi labor law — it is a legal event that permanently determines a percentage of your accrued benefit. The same letter that takes you from 100% to 1/3rd in a single stroke can be avoided, timed, or reframed if you understand the system in advance.
+        </p>
+        <p class="mt-4">
+          The takeaways to remember: <strong class="text-white">Article 85 always pays full.</strong> <strong class="text-white">Article 84 pays nothing under two years, a third at 2–5, two-thirds at 5–10, and everything after ten.</strong> <strong class="text-white">Article 81 can convert your resignation into a full payout.</strong> <strong class="text-white">Article 80 can convert your dismissal into nothing — plus damages.</strong>
+        </p>
+        <p class="mt-4">
+          Protect your hard-earned money. Use the <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB Calculator</a> to instantly calculate your exact entitlement based on Article 84 or 85, check every figure on your final settlement sheet before signing, and never sign a waiver without independent review.
+        </p>
+        <p class="mt-4">
+          Planning your final exit? Also read our guide on <a href="/guide/final-settlement-air-ticket-calculator-saudi-arabia-2026" class="text-desert-primary underline">Hidden Costs and Procedures of Final Settlement in KSA</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Calculate Your Exact EOSB Now</h3>
+          <p class="text-gray-400 text-sm mb-4">Free — your salary, years of service, and reason for leaving in one minute</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">Use the Free EOSB Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> This guide is for informational purposes based on the Saudi Labor Law. Regulations are subject to change. For official disputes, always refer to the Ministry of Human Resources and Social Development (MHRSD) or consult a licensed legal professional.
+        </p>
+      </div>
+    `,
+      ar: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">دليل العمالة الوافدة</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">قواعد مكافأة نهاية الخدمة عند الاستقالة في السعودية 2026: المادة 84 مقابل المادة 85</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">كم تحصل بالضبط من مكافأة نهاية الخدمة عندما تستقيل في السعودية — نظام المادة 84 المتدرج، وضمانة الـ 100% في المادة 85، وكل استثناء يغيّر رقمك.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>مقدمة: مكافأتك ليست لغزًا</h2>
+        <p>
+          ترك العمل في السعودية مرهق بما يكفي — جمع سنوات من حياتك في حقائب، وإنهاء إجراءات الإقامة، وتوديع زملاء صاروا عائلة. آخر ما تحتاجه هو أن تدخل على قسم الموارد البشرية وتقبل أي رقم يقدمونه لك دون أن تعرف هل هو صحيح أم لا.
+        </p>
+        <p class="mt-4">
+          الحيرة حقيقية. اسأل خمسة أشخاص في أي مجموعة وافدين على واتساب عن مصير مكافأتهم عند الاستقالة وستحصل على خمس إجابات مختلفة: "نصف راتبك مضروبًا في سنواتك"، "تحصل عليها فقط بعد سنتين"، "تحصل على كل شيء إذا تركت بعد 10 سنوات". أغلب هذه الإجابات أنصاف حقائق مبنية على قانون واحد أُسيء فهمه.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">الإجابة المباشرة:</strong> بموجب نظام العمل السعودي، تعتمد مكافأة نهاية الخدمة عند الاستقالة كليًا على سنوات خدمتك وسبب المغادرة، وتتراوح بين <strong class="text-desert-primary">0% و100%</strong> من المكافأة المستحقة وفق <strong class="text-white">المادة 84</strong>، بينما تضمن <strong class="text-white">المادة 85</strong> (إنهاء صاحب العمل أو انتهاء العقد بطبيعته) <strong class="text-desert-primary">100%</strong> من كامل المكافأة المستحقة. رسالة واحدة — خطاب الاستقالة — قد تكلفك آلاف الريالات. هذا الدليل يريك بالضبط كم، مع الحساب مفصّلًا خطوة بخطوة.
+        </p>
+        <p class="mt-4">
+          قبل أن نمضي، دعنا نفضّ الالتباسات الثلاثة الأخطر التي تجدها في كل مجموعة وافدين، لأنها تدفع الناس إلى قرارات مكلفة:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخرافة الأولى: "أي سنة خدمة تعني نصف راتب".</p>
+            <p class="text-gray-400 text-sm">صحيح جزئيًا فقط تحت المادة 85. عند الاستقالة بموجب المادة 84، تُطبق كسور الثلث والثلثين حسب سنواتك، وقد يصل رقمك إلى الصفر قبل سنتين.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخرافة الثانية: "مكافأتي تُحسب على إجمالي راتبي مع البدلات".</p>
+            <p class="text-gray-400 text-sm">المعيار النظامي هو الراتب الأساسي فقط، ما لم ينص عقدك صراحةً على خلاف ذلك. التحقق من صياغة العقد قد يغيّر الرقم كليًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الخرافة الثالثة: "إذا وقّعت تنازلًا فقد فقدت حقّي نهائيًا".</p>
+            <p class="text-gray-400 text-sm">المادة 8 تُبطل أي شرط يتنازل عن حقوق يقررها النظام. التوقيع لا يمحي حقّك، رغم أن كثيرين يظنون عكس ذلك.</p>
+          </div>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">لا تخمّن مبلغك.</strong> استخدم <a href="/eosb-calculator" class="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة المجانية</a> للحصول على تقدير دقيق وفق حالتك الخاصة — راتبك وسنواتك وسبب مغادرتك.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>القاعدة الذهبية: المادة 85 (إنهاء صاحب العمل أو انتهاء العقد)</h2>
+        <p>
+          المادة 85 من نظام العمل السعودي هي أكثر المواد ودًّا للعامل في كامل النظام. تنطبق عندما تنتهي علاقة العمل لأسباب <strong class="text-white">لا يسببها الموظف</strong> — أي أن صاحب العمل ينهي العقد (دون سبب من أسباب المادة 80) أو أن العقد محدد المدة ينتهي ببساطة ولا يُجدَّد.
+        </p>
+        <p class="mt-4">
+          في الحالتين، يستحق الموظف <strong class="text-desert-primary">100% من كامل مكافأة نهاية الخدمة</strong>، بغض النظر عن مدة خدمته سواء كانت سنة أو 15 سنة. لا تدرّج ولا كسور ولا "خصم ولاء". كامل المكافأة المستحقة ملكك.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">معدل الاستحقاق القياسي (معادلة المادة 84، مطبّقة بالكامل):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">أول 5 سنوات:</strong> نصف راتب أساسي عن كل سنة خدمة.</li>
+            <li><strong class="text-white">من السنة السادسة فما بعد:</strong> راتب أساسي كامل عن كل سنة خدمة.</li>
+            <li><strong class="text-white">السنوات الجزئية:</strong> تُحسب بالتناسب (أيام الخدمة ÷ 365 × معدل السنة المطبق).</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          إذًا إذا أنهى صاحب العمل عقدك بعد 3 سنوات براتب أساسي 6,000 ريال، فمكافأتك الكاملة = (6,000 ÷ 2) × 3 = <strong class="text-white">9,000 ريال</strong>. القاعدة نفسها التي تفرض "خصم الثلث" عادةً بموجب المادة 84 لا تمسك هنا، لأن المغادرة لم تكن خيارك.
+        </p>
+        <p class="mt-4">
+          تحذير جوهري: إذا ادعى صاحب العمل أن الإنهاء "لسبب ما"، فعليه إثبات وجود السبب وفق المادة 80. الادعاء غير المبرر لا يسقط حقك تلقائيًا إلى الصفر — ومعارك المادة 80 تحديدًا هي التي تنتهي في محكمة العمل.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>استقالة المادة 84: نظام الاستحقاق المتدرج</h2>
+        <p>
+          عندما <strong class="text-white">تستقيل أنت</strong> — تسلّم الخطاب وتخرج من الباب — تُقاس مكافأتك على أساس الولاء. المنطق واضح: أراد المشرع حماية استثمار صاحب العمل في تدريبك وتوظيفك، لذلك كلما طالت إقامتك اقتربت أكثر من المكافأة الكاملة.
+        </p>
+        <p class="mt-4">
+          هذا هو النظام الذي لا يفهمه معظم الوافدين بالكامل. إنه ليس قاعدة واحدة؛ إنه سلم من أربع درجات، ودرجتك تعتمد كليًا على سنوات الخدمة المستمرة المكتملة لديك عند هذا صاحب العمل.
+        </p>
+        <h3>أقل من سنتين خدمة: استحقاق 0%</h3>
+        <p>
+          استقل قبل إكمال سنتين وستخرج بـ<strong class="text-desert-primary">صفر مكافأة نهاية خدمة</strong>. هذه أكبر مفاجأة للوافدين الذين يستقيلون عند الشهر الثامن عشر متوقعين "شيئًا ما". يضع القانون عمدًا بوابة سنتين قبل أن تُستحق لك أي مكافأة عند الاستقالة.
+        </p>
+        <p class="mt-4">
+          لاحظ الفرق الحاسم: بوابة السنتين هذه تنطبق على <em>الاستقالة</em> بموجب المادة 84 فقط. إذا أنهى صاحب العمل عقدك أو انتهى عقدك طبيعيًا عند 18 شهرًا، فالمادة 85 تمنحك 100% من المكافأة المستحقة — قاعدة السنتين تعاقب الموظف الذي يغادر طوعًا فقط.
+        </p>
+        <h3>من سنتين إلى 5 سنوات: ثلث (1/3) المكافأة المستحقة</h3>
+        <p>
+          أكمل سنتين وأقل من خمس، واستقل، فتحصل على <strong class="text-desert-primary">ثلث</strong> المكافأة التي استحقت لك. كثير من العمال يفسرون هذا خطأً على أنه "ثلث راتب سنة". ليس كذلك. إنه ثلث <em>إجمالي مكافأتك المستحقة</em> عن كامل فترة الخدمة.
+        </p>
+        <h3>من 5 إلى 10 سنوات: ثلثا (2/3) المكافأة المستحقة</h3>
+        <p>
+          من خمس سنوات مكتملة حتى عشر، الاستقالة تخولك <strong class="text-desert-primary">ثلثي</strong> المكافأة المستحقة. هنا تصبح الأرقام محسوسة — لعامل براتب أساسي 5,000 ريال وثماني سنوات خدمة، مجموع المكافأة وحده 35,000 ريال، وثلثا ذلك 23,333 ريال.
+        </p>
+        <h3>10 سنوات فأكثر: 100% (كامل) المكافأة المستحقة</h3>
+        <p>
+          اخدم <strong class="text-white">عشر سنوات متواصلة أو أكثر</strong> واستقل، ويختفي التدرج تمامًا: تحصل على <strong class="text-desert-primary">100% كاملة</strong> من مكافأتك المستحقة، تمامًا كما لو كنت مفصولًا. يُغفر خصم الولاء بالكامل. للوافدين القدامى، هذا غالبًا هو الفرق بين صندوق عودة مريح وعجز مؤلم.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">توضيح عتبات التدرج:</strong> "5 سنوات" و"10 سنوات" تعنيان سنوات <em>مكتملة ومستمرة</em> لدى نفس صاحب العمل في نفس علاقة العمل. أيام السنة الجزئية لا تُحتسب نحو الدرجة التالية إلا عند اكتمال السنة؛ السنة الكسرية نفسها تُسوّى على الدرجة التي تشغلها حاليًا.</p>
+        </div>
+        <h3>جدول حساب المادة 84 — عامل افتراضي براتب أساسي 5,000 ريال</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">الحالة</th>
+                <th class="py-2 pr-2">السنوات</th>
+                <th class="py-2 pr-2">المكافأة المستحقة</th>
+                <th class="py-2 pr-2">الدرجة</th>
+                <th class="py-2">المكافأة المستحقة الدفع</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">3 سنوات</td>
+                <td class="py-2 pr-2">3</td>
+                <td class="py-2 pr-2">(2,500 × 3) = 7,500</td>
+                <td class="py-2 pr-2">الثلث</td>
+                <td class="py-2 text-desert-primary font-medium">2,500 ريال</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">7 سنوات</td>
+                <td class="py-2 pr-2">7</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 2) = 22,500</td>
+                <td class="py-2 pr-2">الثلثان</td>
+                <td class="py-2 text-desert-primary font-medium">15,000 ريال</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">12 سنة</td>
+                <td class="py-2 pr-2">12</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 7) = 47,500</td>
+                <td class="py-2 pr-2">الكامل</td>
+                <td class="py-2 text-desert-primary font-medium">47,500 ريال</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-gray-500 text-xs mt-2">جميع المبالغ بالريال السعودي. الاستحقاق: نصف راتب أساسي عن السنة (أول 5 سنوات)، وراتب أساسي كامل عن السنة فيما بعد.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>استثناءات حاسمة: متى تمنحك الاستقالة مع ذلك 100% من المكافأة</h2>
+        <p>
+          لنظام المادة 84 المتدرج حواف حادة، والقانون ليس أعمى عنها. في ثلاث حالات، الاستقالة — حتى بعد سنة واحدة — تمنحك مع ذلك <strong class="text-desert-primary">المكافأة الكاملة 100%</strong>، لأن القانون لا يعتبرك الطرف المخطئ.
+        </p>
+        <h3>حماية الموظفة</h3>
+        <p>
+          إذا استقالت موظفة خلال <strong class="text-white">ستة أشهر من الزواج</strong> أو خلال <strong class="text-white">ثلاثة أشهر من الوضع</strong>، فتحصل على كامل مكافأة نهاية الخدمة بغض النظر عن سنوات الخدمة. وُجدت هذه القاعدة كي لا يعاقب تكوين أسرة المرأة ماليًا أبدًا. إذا انطبقت عليك، تُتجاوز نسبة التدرج ببساطة.
+        </p>
+        <h3>المادة 81: إخلال صاحب العمل بالعقد</h3>
+        <p>
+          إذا كان سبب استقالتك أن <em>صاحب العمل</em> أخلّ بالعقد — تأخر في دفع الرواتب، أو خالف لوائح السلامة، أو خدعك عند التوظيف، أو أسند إليك عملًا مختلفًا جوهريًا عن المتفق عليه — فإن استقالتك تُعامل قانونًا كما لو <strong class="text-white">أن صاحب العمل أنهى عقدك</strong>. تستحق <strong class="text-desert-primary">100% من كامل المكافأة فورًا</strong>، تمامًا كما في المادة 85.
+        </p>
+        <p class="mt-4">
+          هذه من أقوى الأدوات التي يملكها الوافدون، والأقل استخدامًا. الشرط: يجب توثيق الإخلال، وإذا اعترض صاحب العمل، إثباته أمام الجهات العمالية. وثّق كل راتب متأخر، كل مخالفة سلامة، كل وعد مكسور — كتابةً ومع التواريخ.
+        </p>
+        <h3>القوة القاهرة</h3>
+        <p>
+          إذا جعلت ظروف قاهرة العمل مستحيلًا — مثل إغلاق المنشأة أو أحداث خارجة عن إرادة الجميع — وانتهت علاقة العمل نتيجة لذلك، يحصل الموظف على <strong class="text-white">كامل المكافأة المستحقة</strong>. الحماية نفسها تنطبق عندما تفرض ظروف صاحب العمل نفسه (لا خطأ الموظف) نهاية العلاقة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>منطقة الخطر: المادة 80 (الإنهاء لسبب) — 0% مكافأة</h2>
+        <p>
+          المادة 80 هي الصورة المرآة لحمايات المادة 84. تسرد الظروف التي يجوز فيها لصاحب العمل فصل الموظف <strong class="text-desert-primary">دون إشعار ودون أي مكافأة نهاية خدمة</strong> — صفر تمامًا.
+        </p>
+        <p class="mt-4">
+          هذه خروقات خطيرة متعمدة للثقة. منطق القانون: إذا تسبب أنت بالضرر الذي أنهى العلاقة، فلن تخرج بالمكافأة.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الاعتداء أو العنف على صاحب العمل أو مدير أو زميل</p>
+            <p class="text-gray-400 text-sm">أي عدوان جسدي في مكان العمل سبب للفصل الفوري مع صفر مكافأة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الاحتيال أو الخداع</p>
+            <p class="text-gray-400 text-sm">الغش في مستندات التوظيف أو أثناء العمل — تزوير شهادات، تلفيق تقارير — يُسقط مكافأتك.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">إفشاء أسرار العمل</p>
+            <p class="text-gray-400 text-sm">كشف معلومات تجارية سرية، خاصة لمنافس، سبب من أسباب المادة 80.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">الغياب: 20 يومًا متفرقة أو 10 أيام متتالية</p>
+            <p class="text-gray-400 text-sm">غياب 20 يومًا غير متتالية أو 10 أيام متواصلة في السنة دون عذر مشروع يجيز الفصل مع صفر مكافأة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">العمل لدى منافس</p>
+            <p class="text-gray-400 text-sm">مزاولة نشاط منافس أثناء العمل خرق للولاء وسبب من أسباب المادة 80 في آن واحد.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          <strong class="text-white">الخطر الإضافي:</strong> في حالات المادة 80، لا يتوقف صاحب العمل عند صفر مكافأة. يسمح القانون له بالمطالبة <strong class="text-desert-primary">بتعويضات عليك</strong> عن الضرر الناجم. الفصل لسبب قد يكلفك مالًا بدلًا من مجرد حجبه. إذا واجهت اتهامًا بالمادة 80، لا توقّع أي شيء واحصل على مساعدة قانونية فورًا.
+        </p>
+        <p class="mt-4">
+          تجدر الإشارة إلى أن اتهام المادة 80 نادرًا ما يكون بديهيًا كما يظهر في قائمة أسبابها. في الممارسة العملية، يتردد كثير من أصحاب العمل في تصعيد الفصل "لسبب" لأنهم يعلمون أن إساءة توظيفه أمام محكمة العمل قد تعكس حكمًا عليهم بدفع كامل المكافأة إضافة إلى التعويض. لذلك احتفظ بكل دليل على براءتك — الشهادات، وسجلات الحضور، وسجل عملك — فقد يكون دفاعك السبيل الوحيد لتحويل فصلك "السببي" إلى معاملة تكافئ المادة 85.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>أمثلة حسابية واقعية (خطوة بخطوة)</h2>
+        <p>النظرية سهلة. لنجعلها حقيقية بثلاثة أمثلة محلولة تغطي الحالات الأكثر شيوعًا — استقالة بعد 3 سنوات، واستقالة بعد 8 سنوات، وإنهاء من صاحب العمل بعد 4 سنوات.</p>
+        <h3>الحالة أ: وافد يستقيل بعد 3 سنوات (راتب أساسي 4,000 ريال)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>الخطوة 1 — المكافأة المستحقة = (4,000 ÷ 2) × 3 سنوات = <strong class="text-white">6,000 ريال</strong></p>
+          <p class="mt-1">الخطوة 2 — الدرجة عند 3 سنوات = الثلث</p>
+          <p class="mt-1">الخطوة 3 — المكافأة المستحقة الدفع = 6,000 × (1/3) = <strong class="text-desert-primary">2,000 ريال</strong></p>
+        </div>
+        <h3>الحالة ب: وافد يستقيل بعد 8 سنوات (راتب أساسي 6,000 ريال)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>الخطوة 1 — أول 5 سنوات: (6,000 ÷ 2) × 5 = 15,000 ريال</p>
+          <p class="mt-1">الخطوة 2 — السنوات الثلاث التالية: 6,000 × 3 = 18,000 ريال</p>
+          <p class="mt-1">الخطوة 3 — إجمالي المستحق = 15,000 + 18,000 = <strong class="text-white">33,000 ريال</strong></p>
+          <p class="mt-1">الخطوة 4 — الدرجة عند 8 سنوات = الثلثان</p>
+          <p class="mt-1">الخطوة 5 — المكافأة المستحقة الدفع = 33,000 × (2/3) = <strong class="text-desert-primary">22,000 ريال</strong></p>
+        </div>
+        <h3>الحالة ج: صاحب العمل ينهي بعد 4 سنوات (راتب أساسي 5,000 ريال)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 text-sm text-gray-300">
+          <p>الخطوة 1 — المكافأة المستحقة = (5,000 ÷ 2) × 4 سنوات = <strong class="text-white">10,000 ريال</strong></p>
+          <p class="mt-1">الخطوة 2 — السبب = إنهاء صاحب العمل (المادة 85)</p>
+          <p class="mt-1">الخطوة 3 — الدرجة = 100% (لا تدرج)</p>
+          <p class="mt-1">الخطوة 4 — المستحقة الدفع = 10,000 × 100% = <strong class="text-desert-primary">10,000 ريال</strong></p>
+        </div>
+        <p class="mt-4">
+          لاحظ الفرق بين الحالة أ والحالة ج: رواتب شبه متطابقة، وخدمة شبه متطابقة، ومع ذلك يتلقى عامل 2,000 ريال والآخر 10,000 ريال. المتغير الوحيد هو <em>من أنهى العقد</em>. هذا هو القانون كله في جملة واحدة.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>إجراءات الاستقالة: فترة الإشعار والأوراق الحقيقية</h2>
+        <p>
+          لا تُدفع مكافأة نهاية الخدمة إلا في نهاية عملية، وللعملية نفسها قواعد لا يمكنك تحمل كسرها — لأن كسرها قد يكلفك المكافأة التي حسبتها للتو.
+        </p>
+        <p class="mt-4">
+          في الإطار العام لنظام العمل، يجب على الموظف المستقيل من عقد غير محدد المدة تقديم إشعار كتابي لصاحب العمل قبل تاريخ سريان الاستقالة. تُحدَّد فترة الإشعار في عقدك لكن لا يجوز أن تقل عن الحد الأدنى النظامي وهو <strong class="text-white">30 يومًا</strong>. أما في العقود محددة المدة، فتسري الاستقالة حتى انتهاء العقد ما لم يُتفق كتابةً على إشعار أطول.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">كيف تبدو الأوراق في الواقع:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">خطاب استقالتك</strong> — مؤرخ وموقع، ويفضل تقديمه كتابةً مع الاحتفاظ بنسخة (البريد الإلكتروني مع إشعار الاستلام يصلح).</li>
+            <li><strong class="text-white">بيان التسوية النهائية</strong> — مكافأتك، وأيام إجازتك غير المدفوعة، وأي مستحقات نهاية عقد، مفصّلة.</li>
+            <li><strong class="text-white">شهادة نهاية الخدمة (المادة 64)</strong> — إثبات أن مستحقاتك سُلّمت؛ احتفظ بالأصل لخروجك.</li>
+            <li><strong class="text-white">إلغاء الإقامة وإجراءات الخروج</strong> — تُنفذ عبر أبشر/قوى؛ ولا يجوز لصاحب العمل عرقلة خروجك دون سند قانوني.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          تحذير عملي واحد: لا تقدم استقالتك شفهيًا وتمشي وتتوقع أن يسري الوقت. إذا ادعى صاحب العمل لاحقًا أنك تركت العمل، فقد يُعاد تصنيف استقالتك على أنها <strong class="text-white">هروب أو غياب غير مأذون</strong> — وهو، كما تعرف الآن، سبب من أسباب المادة 80. خطاب الاستقالة الكتابي هو حمايتك القانونية.
+        </p>
+        <p class="mt-4">
+          صاحب العمل ملزم قانونًا بدفع تسويتك النهائية فور انتهاء علاقة العمل. التأخير شائع، لكنه ليس مشكلتك التي تتحملها بصمت — إنه إشارة للتصعيد عبر القنوات الرسمية أدناه.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ماذا لو رفض صاحب العمل دفع مكافأتك؟</h2>
+        <p>
+          الحساب في هذا الدليل لا قيمة له إذا رفض صاحب العمل ببساطة الدفع. يحدث هذا أكثر مما ينبغي، والوافدون — خوفًا من رهن إقامتهم — يستسلمون عادةً ويعودون لبلادهم وقد نُقصت حقوقهم. لا تكن ذلك الشخص.
+        </p>
+        <p class="mt-4">
+          تمتلك السعودية الآن مسار تصعيد منظم لا يتطلب وجودك داخل البلاد لاستخدامه:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. قدّم شكوى عبر قوى أو مكاتب العمل</p>
+            <p class="text-gray-400 text-sm">تتيح منصة وزارة الموارد البشرية والتنمية الاجتماعية تسجيل مطالبة أجور/مكافأة عبر الإنترنت. يُستدعى صاحب العمل، وتُحل معظم النزاعات البسيطة في مرحلة التوفيق الأولى.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. التصعيد إلى محكمة العمل</p>
+            <p class="text-gray-400 text-sm">إذا فشل التوفيق، تُنقل القضية إلى محكمة العمل. في النظام الحالي تُعطى دعاوى العمل أولوية، وتُحسم قضايا مكافآت كثيرة بسرعة — غالبًا لصالح الموظف عندما لا يملك صاحب العمل إثباتًا كتابيًا للمنع.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. التنفيذ ضد صاحب العمل</p>
+            <p class="text-gray-400 text-sm">يمكن تنفيذ حكم لصالحك ضد صاحب العمل، ويواجه المخالفون المتكررون عقوبات تشمل تعليق قدرتهم على توظيف عمالة أجنبية.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          أهم شيء يمكنك فعله قبل المغادرة: <strong class="text-desert-primary">وثّق كل شيء</strong>. عقدك، ورواتبك (سجلات نظام حماية الأجور إن توفرت)، وخطاب استقالتك، وبيان تسويتك النهائية. إذا لم يكن لديك أثر ورقي، فلا قضية لديك.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعتبارات خاصة بالوافدين</h2>
+        <p>
+          مكافأتك لا توجد في فراغ. لملايين الوافدين من جنوب آسيا والفلبين الذين بنوا هذا الوطن، التسوية النهائية حزمة — ومعرفة ما الذي ينتمي إليها أيضًا قد تضيف آلافًا لتحويلك النهائي.
+        </p>
+        <h3>للوافدين من جنوب آسيا (باكستان / الهند / بنغلاديش)</h3>
+        <p>
+          قبل المغادرة النهائية، اطلب <strong class="text-white">"شهادة نهاية الخدمة"</strong> الصادرة وفق <strong class="text-white">المادة 64</strong> من نظام العمل. هذه الشهادة توثق رسميًا أن صاحب العمل سلّمك كل مستحقاتك. بدونها، قد يُحظر إعادة توظيفك لاحقًا في السعودية، وتصبح النزاعات أصعب بكثير في متابعتها من الخارج.
+        </p>
+        <p class="mt-4">
+          ثانيًا، تذكر أن <strong class="text-desert-primary">أيام إجازتك غير المستخدمة تُضاف فوق</strong> مكافأتك وفق المادة 84/85. المادة 109 تخولك تعويضًا عن الإجازة السنوية المستحقة التي لم تأخذها. كثير من أصحاب العمل يمتصون هذا بصمت في رقم "المكافأة"؛ وهو استحقاق منفصل يجب أن يُفصَّل في تسويتك النهائية.
+        </p>
+        <h3>للوافدين الفلبينيين: شبكة أمان مكتب العمل الفلبيني (POLO)</h3>
+        <p>
+          يراجع مكتب العمل الفلبيني في الخارج (POLO) في السعودية ويصدق على التسويات النهائية للعمال الفلبينيين. قبل توقيع أي إبراء أو تنازل أو اتفاق تسوية، اعرضه على POLO. دوره تحديدًا منع دفع العمال الفلبينيين إلى التوقيع على حقوق لا يعرفون أنهم يملكونها.
+        </p>
+        <p class="mt-4">
+          النمط نفسه دائمًا: موظف موارد بشرية يدفع "التسوية النهائية والكاملة" على الطاولة، ويشرحها على عجل، وينتظر توقيعك. الحركة الصحيحة هي عكس ما يريد — خذ المستند واقرأه واترك POLO أو محترفًا قانونيًا يراجعه قبل التوقيع.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>الأسئلة الشائعة (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل أحصل على مكافأة نهاية الخدمة إذا استقلت بعد سنة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. بموجب المادة 84، الاستقالة قبل إكمال سنتين خدمة تخولك 0% من المكافأة المستحقة. الاستثناء الوحيد إذا كانت استقالتك تُعتبر إنهاءً ضمنيًا وفق المادة 81 (إخلال صاحب العمل) أو استقالة موظفة محمية — عندها ينطبق 100%.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ما الفرق بين المادة 84 والمادة 85 في نظام العمل السعودي؟</p>
+            <p class="text-gray-400 text-sm mt-1">المادة 84 تنطبق عند استقالة الموظف وتدرّج المكافأة حسب الخدمة: 0% أقل من سنتين، والثلث من 2–5 سنوات، والثلثان من 5–10 سنوات، و100% بعد 10 سنوات. المادة 85 تنطبق عندما ينهي صاحب العمل دون سبب أو ينتهي عقد محدد المدة، وتضمن 100% من كامل المكافأة عند أي مدة خدمة.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يمكن لصاحب العمل أن يجبرني على التوقيع على تنازل عن مكافأة نهاية الخدمة؟</p>
+            <p class="text-gray-400 text-sm mt-1">لا. تنص المادة 8 من نظام العمل على أن أي اتفاق أو شرط أو نص في عقد يسقط حقًا من الحقوق المقررة في النظام باطل، حتى لو وقّع عليه الموظف عن طيب خاطر. لا يمكنك التنازل عن مكافأتك تعاقديًا.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كيف يُحسب الثلث أو الثلثان من المكافأة بالضبط؟</p>
+            <p class="text-gray-400 text-sm mt-1">أولًا احسب المكافأة الكاملة المستحقة: نصف راتب أساسي عن السنة لأول 5 سنوات زائد راتب أساسي كامل عن السنة فيما بعد، بالتناسب للسنوات الجزئية. ثم اضرب في 1/3 (من 2–5 سنوات) أو 2/3 (من 5–10 سنوات) إذا استقلت. مثال: راتب أساسي 6,000 ريال عند 8 سنوات يستحق 33,000 ريال؛ الاستقالة تدفع 33,000 × 2/3 = 22,000 ريال.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: هل يشمل حساب المكافأة بدل السكن وبدل النقل؟</p>
+            <p class="text-gray-400 text-sm mt-1">افتراضيًا، تُحسب المكافأة على الراتب الأساسي فقط — يُستثنى بدلا السكن والنقل من الحساب النظامي بموجب القراءة المعتادة للمادة 84. لكن إذا نص عقد عملك صراحةً على أن البدلات جزء من أساس احتساب المكافأة، فإنها تُحتسب. راجع صياغة عقدك قبل الاعتماد على الرقم الأقل.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: كم تبلغ فترة الإشعار عند الاستقالة في السعودية؟</p>
+            <p class="text-gray-400 text-sm mt-1">للعقد غير محدد المدة، الحد الأدنى النظامي لإشعار الاستقالة 30 يومًا، مع إمكانية تحديد فترة أطول في عقدك. للعقد محدد المدة، تسري الاستقالة عند انتهاء العقد ما لم يُتفق كتابةً على إشعار أطول. قدّم إشعارك كتابيًا — فالاستقالة الشفهية قد تُصنَّف خطأً كغياب غير مأذون.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ماذا أفعل إذا رفض صاحب العمل دفع مكافأة نهاية الخدمة؟</p>
+            <p class="text-gray-400 text-sm mt-1">قدّم شكوى عبر وزارة الموارد البشرية (قوى أو مكتب العمل) وأنت في البلاد أو بعد الخروج، ثم صعّد إلى محكمة العمل إذا فشل التوفيق. احتفظ بعقدك ورواتبك وخطاب استقالتك وبيان تسويتك النهائية كأدلة. المطالبة الموثقة أنجح بكثير من الشفهية.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ماذا يحدث لمكافأتي إذا نقلت كفالتي إلى صاحب عمل جديد (نقل الخدمات)؟</p>
+            <p class="text-gray-400 text-sm mt-1">خدمتك لدى صاحب العمل السابق لا تختفي ببساطة. عند نقل الخدمات، يجب على صاحب العمل السابق تسوية مكافأتك حتى تاريخ النقل، محسوبة على الدرجة التي تنطبق على السنوات التي خدمته فيها. ثم تبدأ خدمتك من جديد لدى صاحب العمل الجديد — أي أن النقل يعيد تشغيل ساعتك نحو درجة المكافأة الكاملة بعد 10 سنوات.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اعرف رقمك قبل أن توقّع أي شيء</h2>
+        <p>
+          تسليم خطاب استقالة ليس فعلًا محايدًا في نظام العمل السعودي — إنه حدث قانوني يحدد نهائيًا نسبة مكافأتك المستحقة. الخطاب نفسه الذي ينقلك من 100% إلى الثلث بضربة واحدة يمكن تجنبه أو توقيته أو إعادة تأطيره إذا فهمت النظام مسبقًا.
+        </p>
+        <p class="mt-4">
+          الخلاصات التي يجب تذكرها: <strong class="text-white">المادة 85 تدفع دائمًا كاملًا.</strong> <strong class="text-white">المادة 84 لا تدفع شيئًا قبل سنتين، والثلث من 2–5، والثلثين من 5–10، والكل بعد عشر.</strong> <strong class="text-white">المادة 81 تستطيع تحويل استقالتك إلى مكافأة كاملة.</strong> <strong class="text-white">المادة 80 تستطيع تحويل فصلك إلى لا شيء — مع تعويضات.</strong>
+        </p>
+        <p class="mt-4">
+          احمِ أموالك التي كسبتها بعرقك. استخدم <a href="/eosb-calculator" class="text-desert-primary underline">حاسبة مكافأة نهاية الخدمة من سعودي تول هب</a> لحساب استحقاقك الدقيق فورًا وفق المادة 84 أو 85، وتحقّق من كل رقم في ورقة تسويتك النهائية قبل التوقيع، ولا توقّع على تنازل دون مراجعة مستقلة.
+        </p>
+        <p class="mt-4">
+          تخطط لمغادرتك النهائية؟ اقرأ أيضًا دليلنا عن <a href="/guide/final-settlement-air-ticket-calculator-saudi-arabia-2026" class="text-desert-primary underline">التكاليف الخفية وإجراءات التسوية النهائية في السعودية</a>.
+        </p>
+        <p class="mt-4">
+          وأخيرًا، لا تجعل الرقم الصغير يثني عن المطالبة بالمبلغ الصحيح، ولا تجعل الرقم الكبير يغريك بالتوقيع المتسرع. التحقق من كل بند في تسويتك النهائية — المكافأة، وأيام الإجازة، وشهادة نهاية الخدمة — هو الفرق بين مغادرة مطمئنة ونزاع قضائي متعب. المعرفة التي بين يديك الآن هي أغلى أداة في هذه الرحلة.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">احسب مكافأتك الدقيقة الآن</h3>
+          <p class="text-gray-400 text-sm mb-4">مجاني — راتبك وسنوات خدمتك وسبب المغادرة في دقيقة</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">استخدم حاسبة مكافأة نهاية الخدمة المجانية</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>إخلاء مسؤولية:</strong> هذا الدليل لأغراض إعلامية بناءً على نظام العمل السعودي. اللوائح عرضة للتغيير. بالنسبة للنزاعات الرسمية، ارجع دائمًا إلى وزارة الموارد البشرية والتنمية الاجتماعية أو استشر محترفًا قانونيًا مرخصًا.
+        </p>
+      </div>
+    `,
+      ur: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">ایکسپٹ لیبر گائیڈ</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">سعودی عرب 2026 میں استعفیٰ پر EOSB کے قواعد: آرٹیکل 84 بمقابلہ آرٹیکل 85 کی وضاحت</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">سعودی عرب میں استعفیٰ دینے پر آپ کو مزدوری معاوضہ (EOSB) کتنا ملے گا — آرٹیکل 84 کا سیڑھی نظام، آرٹیکل 85 کی 100% ضمانت، اور ہر وہ استثنا جو آپ کا نمبر بدل دیتا ہے۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>تعارف: آپ کا معاوضہ کوئی معمہ نہیں</h2>
+        <p>
+          سعودی عرب میں نوکری چھوڑنا بہرحال دباؤ کا باعث ہے — برسوں کی زندگی سامان میں بھرنا، اقامہ کے رسمی کارروائیاں ختم کرنا، اور ان ساتھیوں کو الوداع کہنا جو خاندان بن گئے تھے۔ آخری چیز جو آپ کو چاہیے وہ یہ ہے کہ آپ HR کے دفتر میں جائیں اور جو بھی نمبر وہ آگے بڑھائیں اسے بغیر جانے قبول کریں کہ وہ درست ہے یا نہیں۔
+        </p>
+        <p class="mt-4">
+          الجھن حقیقی ہے۔ کسی بھی ایکسپٹ واٹس ایپ گروپ میں پانچ لوگوں سے پوچھیں کہ استعفیٰ پر ان کی گریچوٹی کا کیا ہوگا تو آپ کو پانچ مختلف جواب ملیں گے: "تمہاری تنخواہ کا آدھا آپ کے سالوں سے ضرب"، "آپ کو صرف دو سال بعد ملتی ہے"، "دس سال بعد چھوڑو تو سب کچھ ملتا ہے"۔ ان میں سے اکثر آدھے سچ ہیں جو ایک غلط سمجھے گئے قانون پر بنے ہیں۔
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">سیدھا جواب:</strong> سعودی لیبر قانون کے تحت استعفیٰ پر آپ کا مزدوری معاوضہ مکمل طور پر آپ کی خدمات کے سالوں اور جانے کی وجہ پر منحصر ہے، اور یہ <strong class="text-desert-primary">0% سے 100%</strong> تک ہوتا ہے <strong class="text-white">آرٹیکل 84</strong> کے تحت، جبکہ <strong class="text-white">آرٹیکل 85</strong> (آجر کی طرف سے برطرفی یا معاہدے کا قدرتی خاتمہ) <strong class="text-desert-primary">100%</strong> مکمل معاوضہ کی ضمانت دیتا ہے۔ صرف ایک خط — استعفیٰ کا خط — آپ کو ہزاروں ریال کا نقصان پہنچا سکتا ہے۔ یہ گائیڈ آپ کو بالکل بتاتا ہے کہ کتنا، حساب مرحلہ وار واضح کیا گیا ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">اپنا نمبر اندازے سے نہ لگائیں۔</strong> اپنی مخصوص صورتحال — تنخواہ، سال، اور جانے کی وجہ — کی بنیاد پر درست تخمینہ حاصل کرنے کے لیے ہماری <a href="/eosb-calculator" class="text-desert-primary underline">مفت EOSB کیلکولیٹر</a> استعمال کریں۔</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>سنہری اصول: آرٹیکل 85 (آجر کی برطرفی یا معاہدے کا خاتمہ)</h2>
+        <p>
+          سعودی لیبر قانون کی آرٹیکل 85 پورے قانون میں کارکن کے لیے سب سے دوستانہ دفعہ ہے۔ یہ اس وقت لاگو ہوتی ہے جب ملازمت کا رشتہ <strong class="text-white">ملازم کی وجہ سے نہیں</strong> بلکہ — یعنی آجر معاہدہ ختم کرے (آرٹیکل 80 کی وجہ کے بغیر) یا مقررہ مدت کا معاہدہ بغیر تجدید کے ختم ہو جائے۔
+        </p>
+        <p class="mt-4">
+          دونوں صورتوں میں ملازم <strong class="text-desert-primary">100% مکمل EOSB</strong> کا حقدار ہے، چاہے اس نے 1 سال کام کیا ہو یا 15 سال۔ کوئی سیڑھی، کوئی کسر، کوئی "وفاداری رعایت" نہیں۔ پورا جمع شدہ معاوضہ آپ کا ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">معیاری شرح (آرٹیکل 84 کا فارمولا، مکمل طور پر لاگو):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">پہلے 5 سال:</strong> ہر سال خدمت کے لیے آدھی بنیادی تنخواہ۔</li>
+            <li><strong class="text-white">چھٹے سال سے آگے:</strong> ہر سال خدمت کے لیے ایک پوری بنیادی تنخواہ۔</li>
+            <li><strong class="text-white">جزوی سال:</strong> تناسب سے شمار ہوتا ہے (خدمت کے دن ÷ 365 × لاگو سالانہ شرح)۔</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          لہٰذا اگر آپ کا آجر 3 سال بعد آپ کو چھوڑ دے اور بنیادی تنخواہ 6,000 ریال ہو، تو آپ کا مکمل معاوضہ (6,000 ÷ 2) × 3 = <strong class="text-white">9,000 ریال</strong> ہے۔ وہی قاعدہ جو آرٹیکل 84 کے تحت عام طور پر "ایک تہائی جرمانہ" لگاتا ہے یہاں آپ کو نہیں چھوتا، کیونکہ جانا آپ کا انتخاب نہیں تھا۔
+        </p>
+        <p class="mt-4">
+          ایک اہم انتباہ: اگر آجر دعویٰ کرے کہ برطرفی "وجہ کی بنیاد پر" تھی، تو اسے آرٹیکل 80 کے تحت وجہ ثابت کرنا ہوگی۔ غیر جواز دعویٰ آپ کو خود بخود صفر پر نہیں لاتا — اور یہی آرٹیکل 80 کی لڑائیاں ہیں جو لیبر کورٹ میں ختم ہوتی ہیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>آرٹیکل 84 استعفیٰ: سیڑھیوں کا استحقاقی نظام</h2>
+        <p>
+          جب <strong class="text-white">آپ</strong> استعفیٰ دیتے ہیں — خط تھما کر باہر نکل جاتے ہیں — تو قانون آپ کے EOSB کو وفاداری کی بنیاد پر ماپتا ہے۔ منطق سیدھی ہے: قانون ساز آجر کی تربیت اور شمولیت میں لگائی ہوئی سرمایہ کاری کو محفوظ رکھنا چاہتا ہے، اس لیے جتنی دیر ٹھہریں گے اتنے ہی مکمل معاوضے کے قریب جائیں گے۔
+        </p>
+        <p class="mt-4">
+          یہ وہ نظام ہے جو زیادہ تر ایکسپٹ کبھی پوری طرح نہیں سمجھتے۔ یہ ایک قاعدہ نہیں؛ یہ چار سیڑھیوں کی سیڑھی ہے، اور آپ کی سیڑھی مکمل طور پر اسی آجر کے ساتھ آپ کی مسلسل خدمات کے مکمل سالوں پر منحصر ہے۔
+        </p>
+        <h3>2 سال سے کم خدمت: 0% استحقاق</h3>
+        <p>
+          دو سال مکمل کرنے سے پہلے استعفیٰ دیں اور آپ <strong class="text-desert-primary">صفر مزدوری معاوضہ</strong> لے کر جائیں گے۔ یہ ان ایکسپٹس کے لیے سب سے بڑی حیرت ہے جو 18ویں مہینے پر "کچھ نہ کچھ" کی امید میں استعفیٰ دیتے ہیں۔ قانون نے جان بوجھ کر دو سال کا گیٹ رکھا ہے اس سے پہلے کہ استعفیٰ پر کوئی گریچوٹی جمع ہو۔
+        </p>
+        <p class="mt-4">
+          اہم فرق نوٹ کریں: یہ دو سال کا گیٹ آرٹیکل 84 کے تحت صرف <em>استعفیٰ</em> پر لاگو ہوتا ہے۔ اگر آجر آپ کو 18 ماہ پر برطرف کرے یا معاہدہ قدرتی طور پر ختم ہو، تو آرٹیکل 85 پھر بھی 100% جمع شدہ معاوضہ دیتا ہے — دو سال کا قاعدہ صرف اس ملازم کو سزا دیتا ہے جو خود چھوڑتا ہے۔
+        </p>
+        <h3>2 سے 5 سال خدمت: جمع شدہ EOSB کا ایک تہائی (1/3)</h3>
+        <p>
+          دو سال مکمل کریں مگر پانچ سے کم، استعفیٰ دیں، اور آپ کو جمع شدہ EOSB کا <strong class="text-desert-primary">ایک تہائی</strong> ملتا ہے۔ بہت سے کارکن اسے "ایک سال کی تنخواہ کا تہائی" سمجھتے ہیں۔ ایسا نہیں ہے۔ یہ پوری خدمت کی مدت کے <em>کل جمع شدہ معاوضے</em> کا ایک تہائی ہے۔
+        </p>
+        <h3>5 سے 10 سال خدمت: جمع شدہ EOSB کا دو تہائی (2/3)</h3>
+        <p>
+          پانچ مکمل سال سے دس تک، استعفیٰ آپ کو جمع شدہ معاوضے کا <strong class="text-desert-primary">دو تہائی</strong> دیتا ہے۔ یہاں نمبر حقیقی محسوس ہونے لگتے ہیں — 5,000 ریال بنیادی تنخواہ والے آٹھ سالہ کارکن کے لیے اکیلے جمع شدہ پول 35,000 ریال ہے، اور اس کا دو تہائی 23,333 ریال۔
+        </p>
+        <h3>10+ سال خدمت: 100% (مکمل) جمع شدہ EOSB</h3>
+        <p>
+          <strong class="text-white">دس یا اس سے زیادہ مسلسل سال</strong> خدمت کریں اور استعفیٰ دیں، تو سیڑھی مکمل طور پر ختم ہو جاتی ہے: آپ کو اپنے جمع شدہ EOSB کا <strong class="text-desert-primary">مکمل 100%</strong> ملتا ہے، بالکل اسی طرح جیسے برطرفی ہوئی ہو۔ وفاداری کی چھوٹ پوری معاف۔ طویل عرصے کے ایکسپٹس کے لیے یہ اکثر آرام دہ وطن واپسی کے فنڈ اور تکلیف دہ کمی کے درمیان فرق ہوتا ہے۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">سیڑھی کی حدوں کی وضاحت:</strong> "5 سال" اور "10 سال" کا مطلب اسی آجر کے ساتھ اسی ملازمت کے رشتے میں <em>مکمل، مسلسل سال</em> ہیں۔ جزوی سال کے دن اگلی سیڑھی میں صرف تب شمار ہوتے ہیں جب وہ سال مکمل ہو؛ کسر والا سال آپ کی موجودہ سیڑھی پر طے ہوتا ہے۔</p>
+        </div>
+        <h3>آرٹیکل 84 حساب جدول — فرضی کارکن، 5,000 ریال بنیادی تنخواہ</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">صورتحال</th>
+                <th class="py-2 pr-2">سال</th>
+                <th class="py-2 pr-2">جمع شدہ EOSB</th>
+                <th class="py-2 pr-2">سیڑھی</th>
+                <th class="py-2">قابل ادائیگی EOSB</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">3 سال</td>
+                <td class="py-2 pr-2">3</td>
+                <td class="py-2 pr-2">(2,500 × 3) = 7,500</td>
+                <td class="py-2 pr-2">ایک تہائی</td>
+                <td class="py-2 text-desert-primary font-medium">2,500 ریال</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">7 سال</td>
+                <td class="py-2 pr-2">7</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 2) = 22,500</td>
+                <td class="py-2 pr-2">دو تہائی</td>
+                <td class="py-2 text-desert-primary font-medium">15,000 ریال</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">12 سال</td>
+                <td class="py-2 pr-2">12</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 7) = 47,500</td>
+                <td class="py-2 pr-2">مکمل</td>
+                <td class="py-2 text-desert-primary font-medium">47,500 ریال</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-gray-500 text-xs mt-2">تمام رقم سعودی ریال میں۔ جمع: پہلے 5 سال ہر سال آدھی بنیادی تنخواہ، اس کے بعد ہر سال ایک پوری بنیادی تنخواہ۔</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اہم استثنائیں: جب استعفیٰ پر بھی 100% EOSB ملتا ہے</h2>
+        <p>
+          آرٹیکل 84 کے سیڑھی نظام کے سخت کنارے ہیں، اور قانون ان سے آنکھیں نہیں چراتا۔ تین صورتحال میں استعفیٰ — چاہے صرف ایک سال کے بعد ہی کیوں نہ ہو — پھر بھی <strong class="text-desert-primary">مکمل 100% معاوضہ</strong> دیتا ہے، کیونکہ قانون آپ کو قصوروار فریق نہیں مانتا۔
+        </p>
+        <h3>خواتین ملازمین کا تحفظ</h3>
+        <p>
+          اگر کوئی خاتون ملازمہ <strong class="text-white">شادی کے چھ ماہ</strong> کے اندر یا <strong class="text-white">بچے کی پیدائش کے تین ماہ</strong> کے اندر استعفیٰ دے، تو اسے خدمات کے سالوں سے قطع نظر مکمل EOSB ملتا ہے۔ یہ شق اس لیے ہے کہ خاندان بنانا کبھی عورت کو مالی طور پر سزا نہ دے۔ اگر یہ آپ پر لاگو ہوتا ہے تو سیڑھی کا فیصد بس چھوڑ دیا جاتا ہے۔
+        </p>
+        <h3>آرٹیکل 81: آجر کا معاہدہ توڑنا</h3>
+        <p>
+          اگر آپ کے استعفیٰ کی وجہ یہ ہے کہ <em>آپ کے آجر</em> نے معاہدہ توڑا — تنخواہیں وقت پر ادا نہیں کیں، حفاظتی قواعد کی خلاف ورزی کی، ملازمت کے وقت دھوکہ دیا، یا متفقہ کام سے یکسر مختلف کام سونپا — تو آپ کا استعفیٰ قانونی طور پر ایسے سمجھا جاتا ہے جیسے <strong class="text-white">آجر نے آپ کو برطرف کیا</strong>۔ آپ <strong class="text-desert-primary">فوری طور پر مکمل 100% EOSB</strong> کے حقدار ہیں، بالکل آرٹیکل 85 کی طرح۔
+        </p>
+        <p class="mt-4">
+          یہ ایکسپٹس کے پاس سب سے طاقتور اوزاروں میں سے ایک ہے، اور سب سے کم استعمال ہونے والا۔ شرط: خلاف ورزی دستاویزی ہونی چاہیے اور اگر آجر اعتراض کرے تو لیبر اتھارٹی کے سامنے ثابت ہونی چاہیے۔ ہر تاخیر سے تنخواہ، ہر حفاظتی خلاف ورزی، ہر ٹوٹا ہوا وعدہ تحریری طور پر اور تاریخوں کے ساتھ دستاویز کریں۔
+        </p>
+        <h3>زبردستی (Force Majeure)</h3>
+        <p>
+          اگر ناقابلِ گریز حالات کام کو ناممکن بنا دیں — جیسے کاروبار کی بندش یا کسی کے اختیار سے باہر واقعات — اور اس کے نتیجے میں ملازمت ختم ہو جائے، تو ملازم کو <strong class="text-white">مکمل جمع شدہ EOSB</strong> ملتا ہے۔ وہی تحفظ اس وقت لاگو ہوتا ہے جب آجر کے اپنے حالات (ملازم کی غلطی نہیں) رشتہ ختم کرنے پر مجبور کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>خطرے کا علاقہ: آرٹیکل 80 (وجہ سے برطرفی) — 0% EOSB</h2>
+        <p>
+          آرٹیکل 80 آرٹیکل 84 کے تحفظات کا عکس ہے۔ اس میں وہ حالات درج ہیں جن میں آجر ملازم کو <strong class="text-desert-primary">بغیر اطلاع اور بغیر کسی مزدوری معاوضے کے</strong> برطرف کر سکتا ہے — بالکل صفر۔
+        </p>
+        <p class="mt-4">
+          یہ اعتماد کے سنگین، جان بوجھ کر کیے گئے خلاف ورزیاں ہیں۔ قانون کی منطق: اگر آپ نے وہ نقصان کیا جس نے رشتہ ختم کیا، تو آپ انعام لے کر نہیں نکل سکتے۔
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">آجر، مینیجر یا ساتھی کارکن پر حملہ یا تشدد</p>
+            <p class="text-gray-400 text-sm">کام کی جگہ پر کوئی بھی جسمانی جارحیت صفر EOSB کے ساتھ فوری برطرفی کی بنیاد ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">دھوکہ یا بے ایمانی</p>
+            <p class="text-gray-400 text-sm">ملازمت کے دستاویزات یا کام کے دوران فریب — سرٹیفکیٹ جعلسازی، رپورٹیں من گھڑت — آپ کا معاوضہ ختم کر دیتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">تجارتی راز افشا کرنا</p>
+            <p class="text-gray-400 text-sm">خفیہ کاروباری معلومات، خاص طور پر کسی حریف کو، آرٹیکل 80 کا محرک ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">غیر حاضری: 20 متفرق دن یا 10 مسلسل دن</p>
+            <p class="text-gray-400 text-sm">سال میں بغیر جائز عذر کے 20 غیر مسلسل دن یا 10 سیدھے دن غیر حاضر رہنا صفر EOSB کے ساتھ برطرفی کی اجازت دیتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">کسی حریف کے لیے کام کرنا</p>
+            <p class="text-gray-400 text-sm">ملازمت کے دوران مسابقتی کاروبار میں مشغول ہونا وفاداری کی خلاف ورزی اور آرٹیکل 80 کی وجہ دونوں ہے۔</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          <strong class="text-white">اضافی خطرہ:</strong> آرٹیکل 80 کے معاملات میں آجر صفر EOSB پر رک نہیں جاتا۔ قانون آجر کو نقصان کے لیے <strong class="text-desert-primary">آپ سے ہرجانہ</strong> مانگنے کی اجازت دیتا ہے۔ وجہ سے برطرفی لہٰذا رقم چھیننے کی بجائے آپ کو رقم خرچ کروا سکتی ہے۔ اگر آپ آرٹیکل 80 کے الزام کا سامنا کر رہے ہیں تو کچھ بھی دستخط نہ کریں اور فوری طور پر قانونی مدد حاصل کریں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>حقیقی دنیا کے حساب کی مثالیں (مرحلہ وار)</h2>
+        <p>نظریہ آسان ہے۔ آئیے اسے تین حل شدہ مثالوں سے حقیقی بنائیں جو سب سے عام حالات کا احاطہ کرتی ہیں — 3 سال پر استعفیٰ، 8 سال پر استعفیٰ، اور 4 سال پر آجر کی برطرفی۔</p>
+        <h3>منظر A: ایکسپٹ 3 سال بعد استعفیٰ دیتا ہے (بنیادی تنخواہ 4,000 ریال)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>مرحلہ 1 — جمع شدہ EOSB = (4,000 ÷ 2) × 3 سال = <strong class="text-white">6,000 ریال</strong></p>
+          <p class="mt-1">مرحلہ 2 — 3 سال پر سیڑھی = ایک تہائی</p>
+          <p class="mt-1">مرحلہ 3 — قابل ادائیگی EOSB = 6,000 × (1/3) = <strong class="text-desert-primary">2,000 ریال</strong></p>
+        </div>
+        <h3>منظر B: ایکسپٹ 8 سال بعد استعفیٰ دیتا ہے (بنیادی تنخواہ 6,000 ریال)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>مرحلہ 1 — پہلے 5 سال: (6,000 ÷ 2) × 5 = 15,000 ریال</p>
+          <p class="mt-1">مرحلہ 2 — اگلے 3 سال: 6,000 × 3 = 18,000 ریال</p>
+          <p class="mt-1">مرحلہ 3 — کل جمع = 15,000 + 18,000 = <strong class="text-white">33,000 ریال</strong></p>
+          <p class="mt-1">مرحلہ 4 — 8 سال پر سیڑھی = دو تہائی</p>
+          <p class="mt-1">مرحلہ 5 — قابل ادائیگی EOSB = 33,000 × (2/3) = <strong class="text-desert-primary">22,000 ریال</strong></p>
+        </div>
+        <h3>منظر C: آجر 4 سال بعد برطرف کرتا ہے (بنیادی تنخواہ 5,000 ریال)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 text-sm text-gray-300">
+          <p>مرحلہ 1 — جمع شدہ EOSB = (5,000 ÷ 2) × 4 سال = <strong class="text-white">10,000 ریال</strong></p>
+          <p class="mt-1">مرحلہ 2 — وجہ = آجر کی برطرفی (آرٹیکل 85)</p>
+          <p class="mt-1">مرحلہ 3 — سیڑھی = 100% (کوئی سیڑھی نہیں)</p>
+          <p class="mt-1">مرحلہ 4 — قابل ادائیگی EOSB = 10,000 × 100% = <strong class="text-desert-primary">10,000 ریال</strong></p>
+        </div>
+        <p class="mt-4">
+          منظر A اور منظر C کے درمیان فرق دیکھیں: تقریباً ایک جیسی تنخواہیں، تقریباً ایک جیسی خدمت، پھر بھی ایک کارکن کو 2,000 ریال ملتا ہے اور دوسرے کو 10,000 ریال۔ واحد متغیر یہ ہے کہ <em>معاہدہ کس نے ختم کیا</em>۔ ایک جملے میں پورا قانون یہی ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>استعفیٰ کا عمل: نوٹس کی مدت اور اصل کاغذی کارروائی</h2>
+        <p>
+          آپ کا EOSB صرف ایک عمل کے آخر میں ادا ہوتا ہے، اور اس عمل کے اپنے قواعد ہیں جنہیں توڑنا آپ برداشت نہیں کر سکتے — کیونکہ انہیں توڑنا آپ کو وہ معاوضہ کھو سکتا ہے جو آپ نے ابھی شمار کیا ہے۔
+        </p>
+        <p class="mt-4">
+          لیبر قانون کے عمومی ڈھانچے کے تحت، غیر محدود (مستقل) معاہدے سے استعفیٰ دینے والے ملازم کو استعفیٰ کے مؤثر ہونے سے پہلے آجر کو تحریری اطلاع دینی ہوگی۔ اطلاع کی مدت آپ کے معاہدے میں طے ہوتی ہے لیکن قانونی کم از کم <strong class="text-white">30 دن</strong> سے کم نہیں ہو سکتی۔ مقررہ مدت کے معاہدوں کے لیے استعفیٰ معاہدے کے خاتمے تک چلتا ہے جب تک تحریری طور پر طویل اطلاع طے نہ ہو۔
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">کاغذی کارروائی اصل میں کیا ہے:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">آپ کا استعفیٰ خط</strong> — تاریخ شدہ، دستخط شدہ، اور ترجیحاً تحریری طور پر جمع کرایا گیا (رسید کے ساتھ ای میل بھی چلے گا)۔</li>
+            <li><strong class="text-white">حتمی تصفیہ کا بیان</strong> — آپ کا EOSB، غیر ادا شدہ چھٹی کے دن، اور معاہدے کے اختتام کے تمام واجبات، الگ الگ۔</li>
+            <li><strong class="text-white">مزدوری معاوضہ سرٹیفکیٹ (آرٹیکل 64)</strong> — اس بات کا ثبوت کہ آپ کے واجبات ادا ہو گئے؛ اصل اپنے پاس رکھیں۔</li>
+            <li><strong class="text-white">اقامہ منسوخی اور اخراج کے اقدامات</strong> — ابشر/قیوہ کے ذریعے؛ آجر بغیر قانونی بنیاد کے آپ کا اخراج نہیں روک سکتا۔</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          ایک عملی انتباہ: کبھی بھی زبانی استعفیٰ نہ دیں اور یہ سمجھ کر چلے جائیں کہ گھڑی چل رہی ہے۔ اگر آجر بعد میں دعویٰ کرے کہ آپ نے کام چھوڑ دیا، تو آپ کا استعفیٰ <strong class="text-white">فرار یا غیر مجاز غیر حاضری</strong> کے طور پر درجہ بند ہو سکتا ہے — جو، جیسا کہ آپ اب جانتے ہیں، آرٹیکل 80 کا محرک ہے۔ تحریری استعفیٰ خط آپ کا قانونی تحفظ ہے۔
+        </p>
+        <p class="mt-4">
+          ملازمت کا رشتہ ختم ہونے کے بعد آجر قانونی طور پر آپ کی حتمی تصفیہ فوری ادا کرنے کا پابند ہے۔ تاخیر عام ہے، لیکن یہ آپ کا مسئلہ نہیں جسے آپ خاموشی سے برداشت کریں — یہ نیچے دیے گئے سرکاری راستوں سے معاملہ بڑھانے کا اشارہ ہے۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اگر آجر آپ کا EOSB ادا کرنے سے انکار کرے تو کیا کریں؟</h2>
+        <p>
+          اس گائیڈ کا حساب بے کار ہے اگر آجر بس ادا کرنے سے انکار کر دے۔ ایسا اس سے زیادہ ہوتا ہے جتنا ہونا چاہیے، اور ایکسپٹس — اقامہ کو گروی رکھے جانے کے خوف سے — عموماً ہار مان کر کم حقوق کے ساتھ گھر اڑ جاتے ہیں۔ آپ وہ شخص نہ بنیں۔
+        </p>
+        <p class="mt-4">
+          سعودی عرب میں اب ایک منظم بڑھانے کا راستہ ہے جسے استعمال کرنے کے لیے آپ کا ملک کے اندر ہونا ضروری نہیں:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. قیوہ یا لیبر آفس کے ذریعے شکایت درج کریں</p>
+            <p class="text-gray-400 text-sm">انسانی وسائل اور سماجی ترقی کی وزارت (MHRSD) کا پلیٹ فارم آپ کو آن لائن اجرت/EOSB دعویٰ درج کرنے دیتا ہے۔ آجر کو بلایا جاتا ہے، اور زیادہ تر سادہ تنازعات اس پہلے مفاہمت مرحلے میں حل ہو جاتے ہیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. لیبر کورٹ میں بڑھائیں</p>
+            <p class="text-gray-400 text-sm">اگر مفاہمت ناکام ہو تو مقدمہ لیبر کورٹ میں جاتا ہے۔ موجودہ نظام میں لیبر دعووں کو ترجیح دی جاتی ہے اور بہت سے EOSB مقدمے تیزی سے طے ہوتے ہیں — اکثر ملازم کے حق میں جب آجر کے پاس روکنے کا تحریری ثبوت نہ ہو۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. آجر کے خلاف نفاذ</p>
+            <p class="text-gray-400 text-sm">آپ کے حق میں فیصلہ آجر کے خلاف نافذ کیا جا سکتا ہے، اور بار بار کرنے والے مجرموں کو پابندیاں جھیلنی پڑتی ہیں جن میں غیر ملکی کارکن بھرتی کرنے کی صلاحیت معطل کرنا بھی شامل ہے۔</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          جانے سے پہلے سب سے اہم چیز جو آپ کر سکتے ہیں: <strong class="text-desert-primary">سب کچھ دستاویز کریں</strong>۔ آپ کا معاہدہ، آپ کی تنخواہ کی رسیدیں (اجرت تحفظ نظام کے ریکارڈ اگر دستیاب ہوں)، آپ کا استعفیٰ خط، اور آپ کا حتمی تصفیہ بیان۔ اگر آپ کے پاس کاغذی سراغ نہیں تو آپ کے پاس مقدمہ نہیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ایکسپٹس کے لیے خصوصی تحفظات</h2>
+        <p>
+          آپ کا EOSB خلا میں موجود نہیں۔ جنوبی ایشیا اور فلپائن کے ان لاکھوں ایکسپٹس کے لیے جنہوں نے اس ملک کو بنایا، حتمی تصفیہ ایک پیکج ہے — اور یہ جاننا کہ اس میں اور کیا شامل ہے آپ کی آخری رقم میں ہزاروں کا اضافہ کر سکتا ہے۔
+        </p>
+        <h3>جنوبی ایشیا کے ایکسپٹس کے لیے (پاکستان / بھارت / بنگلہ دیش)</h3>
+        <p>
+          حتمی روانگی سے پہلے لیبر قانون کی <strong class="text-white">آرٹیکل 64</strong> کے تحت جاری کردہ <strong class="text-white">"مزدوری معاوضہ سرٹیفکیٹ"</strong> طلب کریں۔ یہ سرٹیفکیٹ رسمی طور پر ریکارڈ کرتا ہے کہ آجر نے آپ کے تمام واجبات ادا کر دیے۔ اس کے بغیر، بعد میں سعودی عرب میں دوبارہ ملازمت بلاک ہو سکتی ہے، اور جھگڑے باہر سے پیچھا کرنا کہیں مشکل ہو جاتے ہیں۔
+        </p>
+        <p class="mt-4">
+          دوسرا، یاد رکھیں کہ <strong class="text-desert-primary">غیر استعمال شدہ چھٹی کے دن آپ کے آرٹیکل 84/85 EOSB کے اوپر</strong> شامل ہوتے ہیں۔ آرٹیکل 109 آپ کو وہ سالانہ چھٹی جو آپ نے کبھی لی ہی نہیں اس کی ادائیگی کا حقدار بناتا ہے۔ بہت سے آجر اسے خاموشی سے "گریچوٹی" کے نمبر میں جذب کر لیتے ہیں؛ یہ ایک الگ حق ہے اور آپ کے حتمی تصفیے میں الگ سے درج ہونا چاہیے۔
+        </p>
+        <h3>فلپائنی ایکسپٹس کے لیے: POLO سیفٹی نیٹ</h3>
+        <p>
+          سعودی عرب میں فلپائن آؤٹ سورس لیبر آفس (POLO) فلپائنی کارکنوں کے حتمی تصفیوں کا جائزہ لیتا اور تصدیق کرتا ہے۔ کوئی بھی ریلیز، چھوٹ دینے والی دستاویز یا تصفیہ معاہدہ دستخط کرنے سے پہلے اسے POLO سے چیک کروائیں۔ اس کا کردار بالکل یہی ہے کہ فلپائنی کارکن ایسے حقوق چھوڑنے پر دباؤ میں نہ آئیں جن کے بارے میں وہ نہیں جانتے۔
+        </p>
+        <p class="mt-4">
+          پیٹرن ہمیشہ ایک جیسا ہوتا ہے: HR افسر "مکمل اور حتمی تصفیہ" میز پر سلائیڈ کرتا ہے، جلدی میں سمجھاتا ہے، اور آپ کے دستخط کا انتظار کرتا ہے۔ درست حرکت ان کی خواہش کے برعکس ہے — دستاویز لیں، اسے پڑھیں، اور دستخط سے پہلے اس کا جائزہ POLO یا قانونی پیشہ ور سے لینے دیں۔
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>اکثر پوچھے جانے والے سوالات (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب میں 1 سال بعد استعفیٰ دینے پر کیا مجھے EOSB ملتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ آرٹیکل 84 کے تحت، 2 سال خدمت مکمل کرنے سے پہلے استعفیٰ آپ کو جمع شدہ EOSB کا 0% دیتا ہے۔ واحد استثنا یہ ہے اگر آپ کا استعفیٰ آرٹیکل 81 کی تعمیری برطرفی (آجر کی خلاف ورزی) یا محفوظ خاتون کا استعفیٰ شمار ہو — تب 100% لاگو ہوتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی لیبر قانون میں آرٹیکل 84 اور آرٹیکل 85 میں کیا فرق ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">آرٹیکل 84 ملازم کے استعفیٰ پر لاگو ہوتا ہے اور EOSB کو خدمت کے لحاظ سے درجہ بندی کرتا ہے: 2 سال سے کم پر 0%، 2–5 سال پر ایک تہائی، 5–10 سال پر دو تہائی، اور 10 سال بعد 100%۔ آرٹیکل 85 اس وقت لاگو ہوتا ہے جب آجر بغیر وجہ برطرف کرے یا مقررہ مدت کا معاہدہ ختم ہو، اور کسی بھی خدمت کی مدت پر مکمل 100% EOSB کی ضمانت دیتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا میرا آجر مجھ سے EOSB چھوڑنے کے لیے دستخط کروا سکتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">نہیں۔ سعودی لیبر قانون کی آرٹیکل 8 بیان کرتی ہے کہ کوئی بھی معاہدہ، شرط یا عقد کی شق جو قانون کے دیے ہوئے حقوق چھینتی ہو باطل ہے، چاہے ملازم نے رضاکارانہ طور پر دستخط کیے ہوں۔ آپ اپنا EOSB معاہدے سے نہیں چھوڑ سکتے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: ایک تہائی یا دو تہائی EOSB بالکل کیسے شمار ہوتا ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">پہلے مکمل جمع شدہ معاوضہ شمار کریں: پہلے 5 سال کے لیے ہر سال آدھی بنیادی تنخواہ جمع اس کے بعد ہر سال ایک پوری بنیادی تنخواہ، جزوی سالوں کے لیے تناسب سے۔ پھر استعفیٰ کی صورت میں 1/3 (2–5 سال) یا 2/3 (5–10 سال) سے ضرب دیں۔ مثال: 6,000 ریال بنیادی تنخواہ 8 سال پر 33,000 ریال جمع کرتی ہے؛ استعفیٰ 33,000 × 2/3 = 22,000 ریال دیتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: کیا EOSB حساب میں رہائش اور ٹرانسپورٹ الاؤنس شامل ہیں؟</p>
+            <p class="text-gray-400 text-sm mt-1">ڈیفالٹ کے طور پر EOSB صرف بنیادی تنخواہ پر شمار ہوتا ہے — آرٹیکل 84 کی معیاری تشریح کے تحت رہائش اور ٹرانسپورٹ الاؤنس قانونی حساب سے خارج ہیں۔ تاہم، اگر آپ کا ملازمت کا معاہدہ صراحتاً کہتا ہے کہ الاؤنس EOSB کی بنیاد کا حصہ ہیں تو وہ شمار ہوتے ہیں۔ کم نمبر پر بھروسہ کرنے سے پہلے اپنے معاہدے کا متن پڑھیں۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: سعودی عرب میں استعفیٰ پر نوٹس کی مدت کتنی ہے؟</p>
+            <p class="text-gray-400 text-sm mt-1">غیر محدود (مستقل) معاہدے کے لیے استعفیٰ کی قانونی کم از کم اطلاع 30 دن ہے، حالانکہ آپ کا معاہدہ طویل مدت مقرر کر سکتا ہے۔ مقررہ مدت کے معاہدے کے لیے استعفیٰ معاہدے کے خاتمے پر اثر رکھتا ہے جب تک طویل تحریری اطلاع طے نہ ہو۔ اپنی اطلاع تحریری طور پر دیں — زبانی استعفیٰ کو غیر مجاز غیر حاضری کے طور پر غلط درجہ بند کیا جا سکتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: اگر آجر میرا مزدوری معاوضہ ادا کرنے سے انکار کرے تو کیا کروں؟</p>
+            <p class="text-gray-400 text-sm mt-1">ملک میں رہتے ہوئے یا اخراج کے بعد MHRSD (قیوہ یا لیبر آفس) کے ذریعے شکایت درج کریں، پھر اگر مفاہمت ناکام ہو تو لیبر کورٹ میں بڑھائیں۔ ثبوت کے طور پر اپنا معاہدہ، تنخواہ کی رسیدیں، استعفیٰ خط اور حتمی تصفیہ بیان رکھیں۔ دستاویزی دعویٰ زبانی سے کہیں زیادہ کامیاب ہوتا ہے۔</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">س: اگر میں اپنی کفالت نئے آجر کو منتقل کروں (نقل کفالہ) تو میرے EOSB کا کیا ہوگا؟</p>
+            <p class="text-gray-400 text-sm mt-1">پرانے آجر کے پاس آپ کی خدمت بس ختم نہیں ہوتی۔ کفالت کی منتقلی پر پرانا آجر منتقلی کی تاریخ تک آپ کا EOSB طے کرنے کا پابند ہے، جو اس سیڑھی پر شمار ہوتا ہے جو ان کے پاس آپ کی خدمت کے سالوں پر لاگو ہوتی ہے۔ پھر نئے آجر کے پاس آپ کی خدمت صفر سے شروع ہوتی ہے — یعنی منتقلی آپ کی گھڑی کو 10 سال کے مکمل معاوضے کی سیڑھی کی طرف دوبارہ چلاتی ہے۔</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>کچھ بھی دستخط کرنے سے پہلے اپنا نمبر جانیں</h2>
+        <p>
+          استعفیٰ کا خط تھمانا سعودی لیبر قانون میں غیر جانبدار فعل نہیں — یہ ایک قانونی واقعہ ہے جو آپ کے جمع شدہ معاوضے کا فیصد مستقل طور پر طے کرتا ہے۔ وہی خط جو آپ کو ایک جھٹکے میں 100% سے ایک تہائی پر لے جاتا ہے، اگر آپ سسٹم پہلے سے سمجھ لیں تو اس سے بچا، وقت دیا یا نئی شکل دی جا سکتی ہے۔
+        </p>
+        <p class="mt-4">
+          یاد رکھنے والی باتیں: <strong class="text-white">آرٹیکل 85 ہمیشہ مکمل دیتا ہے۔</strong> <strong class="text-white">آرٹیکل 84 دو سال سے پہلے کچھ نہیں، 2–5 پر ایک تہائی، 5–10 پر دو تہائی، اور دس کے بعد سب کچھ دیتا ہے۔</strong> <strong class="text-white">آرٹیکل 81 آپ کے استعفیٰ کو مکمل ادائیگی میں بدل سکتا ہے۔</strong> <strong class="text-white">آرٹیکل 80 آپ کی برطرفی کو کچھ نہیں — بلکہ ہرجانے میں بدل سکتا ہے۔</strong>
+        </p>
+        <p class="mt-4">
+          اپنی کمائی ہوئی محنت کی کمائی کی حفاظت کریں۔ <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB کیلکولیٹر</a> استعمال کر کے آرٹیکل 84 یا 85 کی بنیاد پر اپنا درست استحقاق فوراً شمار کریں، دستخط سے پہلے اپنی حتمی تصفیہ شیٹ کا ہر نمبر جانچیں، اور بغیر آزاد جائزہ کے کبھی چھوٹ پر دستخط نہ کریں۔
+        </p>
+        <p class="mt-4">
+          حتمی روانگی کی منصوبہ بندی کر رہے ہیں؟ سعودی عرب میں حتمی تصفیہ کے <a href="/guide/final-settlement-air-ticket-calculator-saudi-arabia-2026" class="text-desert-primary underline">پوشیدہ اخراجات اور طریقہ کار</a> پر ہماری گائیڈ بھی پڑھیں۔
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">ابھی اپنا درست EOSB شمار کریں</h3>
+          <p class="text-gray-400 text-sm mb-4">مفت — ایک منٹ میں آپ کی تنخواہ، خدمات کے سال اور جانے کی وجہ</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">مفت EOSB کیلکولیٹر استعمال کریں</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>ڈس کلیمر:</strong> یہ گائیڈ سعودی لیبر قانون کی بنیاد پر معلوماتی مقاصد کے لیے ہے۔ قواعد تبدیلی کے تابع ہیں۔ سرکاری تنازعات کے لیے ہمیشہ انسانی وسائل اور سماجی ترقی کی وزارت (MHRSD) سے رجوع کریں یا لائسنس یافتہ قانونی پیشہ ور سے مشورہ کریں۔
+        </p>
+      </div>
+    `,
+      tl: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">Expat Labor Guide</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">Mga Panuntunan sa EOSB Kapag Nag-resign sa Saudi Arabia 2026: Artikulo 84 kumpara sa 85</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">Eksakto kung magkano ang End of Service Benefit (EOSB) na matatanggap mo kapag nag-resign ka sa Saudi Arabia — ang tiered system ng Artikulo 84, ang 100% guarantee ng Artikulo 85, at bawat exception na nagbabago ng iyong numero.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Introduksyon: Hindi Misteryo ang Iyong Gratuity</h2>
+        <p>
+          Nakaka-stress na ang pag-alis sa trabaho sa Saudi Arabia — ang pag-iimpake ng mga taon ng iyong buhay sa mga maleta, ang pag-aayos ng mga pormalidad sa Iqama, at ang pagpapaalam sa mga katrabaho na naging pamilya. Ang huling bagay na kailangan mo ay pumasok sa opisina ng HR at tanggapin kung anumang numero ang ibigay nila nang hindi mo alam kung tama ba ito.
+        </p>
+        <p class="mt-4">
+          Tunay ang kalituhan. Magtanong sa limang tao sa kahit anong expat WhatsApp group kung ano ang mangyayari sa kanilang gratuity kapag nag-resign sila at makakakuha ka ng limang magkaibang sagot: "Half ng sahod mo times ang mga taon mo," "Makukuha mo lang pagkatapos ng dalawang taon," "Makukuha mo lahat kung aalis ka pagkatapos ng 10 taon." Karamihan sa mga ito ay kalahating-totoo na binuo sa iisang batas na hindi lubos nauunawaan.
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">Ang direktang sagot:</strong> Sa ilalim ng Saudi Labor Law, ang iyong End of Service Benefit (EOSB) kapag nag-resign ka ay nakadepende nang buo sa iyong mga taon ng serbisyo at sa dahilan ng pag-alis, mula <strong class="text-desert-primary">0% hanggang 100%</strong> ng iyong naipon na benepisyo sa ilalim ng <strong class="text-white">Artikulo 84</strong>, samantalang ginagarantiyahan ng <strong class="text-white">Artikulo 85</strong> (terminasyon ng employer o natural na pag-expire ng kontrata) ang <strong class="text-desert-primary">100%</strong> ng buong naipon na benepisyo. Isang sulat — ang resignation letter — ang maaaring magpawala sa iyo ng libu-libong riyal. Ipinapakita sa iyo ng gabay na ito kung magkano eksakto, na nakasulat ang matematika hakbang-hakbang.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">Huwag hulaan ang iyong halaga.</strong> Gamitin ang aming <a href="/eosb-calculator" class="text-desert-primary underline">Libreng EOSB Calculator</a> para makakuha ng eksaktong estimate batay sa iyong partikular na sitwasyon — sahod, taon, at dahilan ng pag-alis.</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Golden Rule: Artikulo 85 (Terminasyon ng Employer o Pag-expire ng Kontrata)</h2>
+        <p>
+          Ang Artikulo 85 ng Saudi Labor Law ay ang pinaka-friendly na artikulo sa buong batas para sa manggagawa. Nalalapat ito kapag ang relasyon sa trabaho ay natapos para sa mga dahilang <strong class="text-white">hindi sanhi ng empleyado</strong> — ibig sabihin, tini-terminate ng employer ang kontrata (nang walang dahilan sa ilalim ng Artikulo 80) o ang fixed-term na kontrata ay nag-expire lamang at hindi na ni-renew.
+        </p>
+        <p class="mt-4">
+          Sa parehong kaso, ang empleyado ay may karapatan sa <strong class="text-desert-primary">100% ng buong EOSB</strong>, kahit pa nagtrabaho siya ng 1 taon o 15 taon. Walang tiering, walang fraction, walang "loyalty discount." Sa iyo ang buong naipon na benepisyo.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ang karaniwang rate ng accrual (formula ng Artikulo 84, inilapat nang buo):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">Unang 5 taon:</strong> kalahating buwang pangunahing sahod para sa bawat taon ng serbisyo.</li>
+            <li><strong class="text-white">Ika-6 na taon pataas:</strong> isang buong buwang pangunahing sahod para sa bawat taon ng serbisyo.</li>
+            <li><strong class="text-white">Mga bahaging taon:</strong> kinukwenta nang pro-rata (araw ng serbisyo ÷ 365 × ang naaangkop na taunang rate).</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Kaya kung pinaalis ka ng employer pagkatapos ng 3 taon sa 6,000 SAR na pangunahing sahod, ang iyong buong benepisyo ay (6,000 ÷ 2) × 3 = <strong class="text-white">9,000 SAR</strong>. Ang parehong patakaran na karaniwang naglalapat ng "1/3 na parusa" sa ilalim ng Artikulo 84 ay hindi tumatama sa iyo dito, dahil hindi mo pinili ang pag-alis.
+        </p>
+        <p class="mt-4">
+          May isang mahalagang babala: kung sasabihin ng employer na ang terminasyon ay "may dahilan," kailangan nilang patunayan na umiiral ang dahilan sa ilalim ng Artikulo 80. Ang walang batayang pahayag ay hindi awtomatikong nagbabawas sa iyo sa zero — at tiyak na ang mga labanan sa Artikulo 80 ang nauuwi sa Labor Court.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Pag-resign sa Artikulo 84: Ang Tiered Entitlement System</h2>
+        <p>
+          Kapag <strong class="text-white">ikaw</strong> ang nag-resign — inabot mo ang sulat, lumabas ka ng pinto — inaayos ng batas ang iyong EOSB batay sa katapatan. Malinaw ang lohika: nais ng mambabatas na protektahan ang pamumuhunan ng employer sa pagsasanay at pagsalubong sa iyo, kaya mas matagal kang manatili, mas malapit ka sa buong benepisyo.
+        </p>
+        <p class="mt-4">
+          Ito ang sistema na hindi lubos nauunawaan ng karamihan sa mga expat. Hindi ito isang patakaran; isa itong hagdan na may apat na baitang, at ang iyong baitang ay nakadepende nang buo sa iyong kumpletong taon ng tuluy-tuloy na serbisyo sa employer na iyon.
+        </p>
+        <h3>Wala Pang 2 Taon ng Serbisyo: 0% Entitlement</h3>
+        <p>
+          Mag-resign bago matapos ang dalawang taon at lalabas kang walang <strong class="text-desert-primary">kahit anong End of Service Benefit</strong>. Ito ang pinakamalaking sorpresa para sa mga expat na nag-resign sa ika-18 buwan na umaasa ng "kahit ano." Sinasadya ng batas ang dalawang taong gate bago mag-accrue ang anumang gratuity sa iyo sa pag-resign.
+        </p>
+        <p class="mt-4">
+          Pansinin ang kritikal na pagkakaiba: ang dalawang taong gate na ito ay nalalapat sa <em>resignation</em> sa ilalim ng Artikulo 84 lamang. Kung tini-terminate ka ng employer o natural na nag-expire ang kontrata mo sa 18 buwan, binibigyan ka pa rin ng Artikulo 85 ng 100% ng naipon na benepisyo — ang dalawang taong patakaran ay nagpaparusa lamang sa empleyadong kusang umalis.
+        </p>
+        <h3>2 hanggang 5 Taon ng Serbisyo: 1/3 (One-Third) ng Naipon na EOSB</h3>
+        <p>
+          Kumpletuhin ang dalawang taon ngunit mas kaunti sa lima, mag-resign, at makakatanggap ka ng <strong class="text-desert-primary">one-third (1/3)</strong> ng EOSB na naipon sa iyo. Maraming manggagawa ang nagkakamaling binabasa ito bilang "isang katlo ng sahod sa isang taon." Hindi ito ganoon. Ito ay isang katlo ng iyong <em>kabuuang naipon na benepisyo</em> para sa buong panahon ng serbisyo.
+        </p>
+        <h3>5 hanggang 10 Taon ng Serbisyo: 2/3 (Two-Thirds) ng Naipon na EOSB</h3>
+        <p>
+          Mula sa limang kumpletong taon hanggang sampu, ang pag-resign ay nagbibigay sa iyo ng <strong class="text-desert-primary">two-thirds (2/3)</strong> ng naipon na benepisyo. Dito nagsisimulang maging totoo ang mga numero — para sa manggagawa sa 5,000 SAR na pangunahing sahod na may walong taong serbisyo, ang naipon na pool pa lang ay 35,000 SAR, at ang dalawang-katlo nito ay 23,333 SAR.
+        </p>
+        <h3>10+ Taon ng Serbisyo: 100% (Full) Naipon na EOSB</h3>
+        <p>
+          Maglingkod ng <strong class="text-white">sampu o higit pang tuluy-tuloy na taon</strong> at mag-resign, at mawawala nang buo ang tier: matatanggap mo ang <strong class="text-desert-primary">buong 100%</strong> ng iyong naipon na EOSB, eksaktong katulad kung tini-terminate ka. Lubusang pinapatawad ang loyalty discount. Para sa mga long-serving expat, ito madalas ang pagkakaiba sa pagitan ng komportableng pondo sa pag-uwi at masakit na kakulangan.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Paliwanag sa mga hangganan ng tier:</strong> Ang "5 taon" at "10 taon" ay nangangahulugang <em>kumpleto, tuluy-tuloy na taon</em> sa parehong employer sa ilalim ng parehong relasyon sa trabaho. Ang mga araw ng bahaging taon ay binibilang patungo sa susunod na tier lamang kapag kumpleto na ang taong iyon; ang bahaging taon mismo ay inaayos sa tier na kasalukuyan mong sinasakop.</p>
+        </div>
+        <h3>Table ng Pagkukuwenta sa Artikulo 84 — Hypothetical na Manggagawa, 5,000 SAR na Pangunahing Sahod</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">Scenario</th>
+                <th class="py-2 pr-2">Taon</th>
+                <th class="py-2 pr-2">Naipon na EOSB</th>
+                <th class="py-2 pr-2">Tier</th>
+                <th class="py-2">Bayad na EOSB</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">3 taon</td>
+                <td class="py-2 pr-2">3</td>
+                <td class="py-2 pr-2">(2,500 × 3) = 7,500</td>
+                <td class="py-2 pr-2">1/3</td>
+                <td class="py-2 text-desert-primary font-medium">2,500 SAR</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">7 taon</td>
+                <td class="py-2 pr-2">7</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 2) = 22,500</td>
+                <td class="py-2 pr-2">2/3</td>
+                <td class="py-2 text-desert-primary font-medium">15,000 SAR</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">12 taon</td>
+                <td class="py-2 pr-2">12</td>
+                <td class="py-2 pr-2">(2,500 × 5) + (5,000 × 7) = 47,500</td>
+                <td class="py-2 pr-2">Buong</td>
+                <td class="py-2 text-desert-primary font-medium">47,500 SAR</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-gray-500 text-xs mt-2">Lahat ng halaga ay nasa Saudi Riyal. Accrual: 1/2 buwang pangunahing sahod bawat taon (unang 5 taon), 1 buong buwang pangunahing sahod bawat taon pagkatapos.</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Kritikal na Exception: Kapag Nagbibigay Pa Rin ng 100% EOSB ang Pag-resign</h2>
+        <p>
+          Ang tiered system sa ilalim ng Artikulo 84 ay may matutulis na gilid, at hindi ito binabalewala ng batas. Sa tatlong sitwasyon, ang pag-resign — kahit pagkatapos lamang ng isang taon — ay nagbibigay pa rin ng <strong class="text-desert-primary">buong 100% na benepisyo</strong>, dahil hindi ka itinuturing ng batas na may kasalanan.
+        </p>
+        <h3>Proteksyon sa Babaeng Empleyado</h3>
+        <p>
+          Kung ang isang babaeng empleyado ay nag-resign sa loob ng <strong class="text-white">anim na buwan ng kasal</strong> o sa loob ng <strong class="text-white">tatlong buwan ng panganganak</strong>, tatanggap siya ng kanyang buong EOSB anuman ang mga taon ng serbisyo. Umiiral ang probisyon upang hindi kailanman parusahan ng pagsisimula ng pamilya ang isang babae sa pananalapi. Kung nalalapat ito sa iyo, nilalaktawan na lang ang porsyento ng tier.
+        </p>
+        <h3>Artikulo 81: Paglabag ng Employer sa Kontrata</h3>
+        <p>
+          Kung ang dahilan ng iyong pag-resign ay <em>ang iyong employer</em> ang lumabag sa kontrata — hindi nagbayad ng sahod sa oras, lumabag sa mga regulasyon sa kaligtasan, dinaya ka sa pag-hire, o nagtalaga ng gawaing malaki ang pagkakaiba sa napagkasunduan — kung gayon ang iyong pag-resign ay legal na ituturing na parang <strong class="text-white">tini-terminate ka ng employer</strong>. May karapatan kang <strong class="text-desert-primary">100% ng buong EOSB kaagad</strong>, eksaktong gaya sa ilalim ng Artikulo 85.
+        </p>
+        <p class="mt-4">
+          Ito ang isa sa pinakamakapangyarihang tool na mayroon ang mga expat, at isa sa pinaka-hindi ginagamit. Ang kundisyon: ang paglabag ay dapat idokumento at, kung i-dispute ng employer, patunayan sa harap ng mga labor authority. Idokumento ang bawat late na sahod, bawat paglabag sa kaligtasan, bawat sirang pangako — nakasulat, may mga petsa.
+        </p>
+        <h3>Force Majeure</h3>
+        <p>
+          Kung ang hindi maiiwasang mga pangyayari ay nagpapahirap sa trabaho — tulad ng pagsasara ng establisyimento o mga kaganapang labas sa kontrol ng lahat — at natapos ang trabaho bilang resulta, tatanggap ang empleyado ng <strong class="text-white">buong naipon na EOSB</strong>. Ang parehong proteksyon ay nalalapat kapag ang mga pangyayari ng employer mismo (hindi kasalanan ng empleyado) ang nagpilit na matapos ang relasyon.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Danger Zone: Artikulo 80 (Terminasyon May Dahilan) — 0% EOSB</h2>
+        <p>
+          Ang Artikulo 80 ay ang salamin na imahe ng mga proteksyon ng Artikulo 84. Inililista nito ang mga sitwasyon kung saan maaaring i-dismiss ng employer ang empleyado <strong class="text-desert-primary">nang walang abiso at walang anumang End of Service Benefit</strong> — isang malinis na zero.
+        </p>
+        <p class="mt-4">
+          Ito ay seryoso, sadyang paglabag sa tiwala. Ang lohika ng batas: kung ikaw ang sanhi ng pinsalang nagtatapos sa relasyon, hindi ka aalis na may dala-dalang gantimpala.
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Pag-atake o karahasan laban sa employer, manager, o kapwa manggagawa</p>
+            <p class="text-gray-400 text-sm">Anumang pisikal na pagsalakay sa lugar ng trabaho ay batayan para sa agarang pag-dismiss na may zero EOSB.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Panloloko o kawalan ng katapatan</p>
+            <p class="text-gray-400 text-sm">Ang pandaraya sa mga dokumento ng pag-hire o sa gawain — pagpeke ng mga sertipiko, pagbuo ng maling ulat — ay nagpapawalang-bisa sa iyong benepisyo.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Paglalantad ng mga trade secret</p>
+            <p class="text-gray-400 text-sm">Ang pagbubunyag ng kumpidensyal na impormasyon sa negosyo, lalo na sa kakumpitensya, ay isang trigger ng Artikulo 80.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Absenteeism: 20 nagkakaputol-putol na araw o 10 magkakasunod na araw</p>
+            <p class="text-gray-400 text-sm">Ang pagliban ng 20 hindi magkakasunod na araw o 10 magkakasunod na araw sa isang taon, nang walang wastong dahilan, ay nagpapahintulot ng pag-dismiss na may zero EOSB.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">Pagtrabaho para sa kakumpitensya</p>
+            <p class="text-gray-400 text-sm">Ang pagsali sa isang negosyong kakumpitensya habang nagtatrabaho ay parehong paglabag sa katapatan at dahilan sa ilalim ng Artikulo 80.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          <strong class="text-white">Ang dagdag na panganib:</strong> sa mga kaso ng Artikulo 80, hindi humihinto ang employer sa zero EOSB. Pinapayagan ng batas ang employer na mag-claim ng <strong class="text-desert-primary">mga pinsala laban sa iyo</strong> para sa pinsalang dulot. Ang dismissal na may dahilan ay maaaring kaya ay magpapagastos sa iyo kaysa basta pagpigil ng pera. Kung hinaharap mo ang alegasyon ng Artikulo 80, huwag pumirma ng anuman at humingi agad ng legal na tulong.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Real-World Calculation Examples (Hakbang-hakbang)</h2>
+        <p>Madali ang teorya. Gawin nating totoo sa tatlong halimbawang nasagutan na sumasaklaw sa pinakakaraniwang sitwasyon — pag-resign sa 3 taon, pag-resign sa 8 taon, at terminasyon ng employer sa 4 na taon.</p>
+        <h3>Scenario A: Nag-resign ang Expat Pagkatapos ng 3 Taon (Pangunahing Sahod 4,000 SAR)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>Hakbang 1 — Naipon na EOSB = (4,000 ÷ 2) × 3 taon = <strong class="text-white">6,000 SAR</strong></p>
+          <p class="mt-1">Hakbang 2 — Tier sa 3 taon = 1/3 (one-third)</p>
+          <p class="mt-1">Hakbang 3 — Bayad na EOSB = 6,000 × (1/3) = <strong class="text-desert-primary">2,000 SAR</strong></p>
+        </div>
+        <h3>Scenario B: Nag-resign ang Expat Pagkatapos ng 8 Taon (Pangunahing Sahod 6,000 SAR)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>Hakbang 1 — Unang 5 taon: (6,000 ÷ 2) × 5 = 15,000 SAR</p>
+          <p class="mt-1">Hakbang 2 — Susunod na 3 taon: 6,000 × 3 = 18,000 SAR</p>
+          <p class="mt-1">Hakbang 3 — Kabuuang naipon = 15,000 + 18,000 = <strong class="text-white">33,000 SAR</strong></p>
+          <p class="mt-1">Hakbang 4 — Tier sa 8 taon = 2/3 (two-thirds)</p>
+          <p class="mt-1">Hakbang 5 — Bayad na EOSB = 33,000 × (2/3) = <strong class="text-desert-primary">22,000 SAR</strong></p>
+        </div>
+        <h3>Scenario C: Tini-terminate ng Employer Pagkatapos ng 4 na Taon (Pangunahing Sahod 5,000 SAR)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 text-sm text-gray-300">
+          <p>Hakbang 1 — Naipon na EOSB = (5,000 ÷ 2) × 4 taon = <strong class="text-white">10,000 SAR</strong></p>
+          <p class="mt-1">Hakbang 2 — Dahilan = terminasyon ng employer (Artikulo 85)</p>
+          <p class="mt-1">Hakbang 3 — Tier = 100% (walang naaangkop na tier)</p>
+          <p class="mt-1">Hakbang 4 — Bayad na EOSB = 10,000 × 100% = <strong class="text-desert-primary">10,000 SAR</strong></p>
+        </div>
+        <p class="mt-4">
+          Pansinin ang pagkakaiba sa pagitan ng Scenario A at Scenario C: halos pareho ang sahod, halos pareho ang serbisyo, gayunpaman 2,000 SAR ang natatanggap ng isang manggagawa at 10,000 SAR ang sa isa pa. Ang tanging variable ay <em>kung sino ang nagtapos ng kontrata</em>. Iyon ang buong batas sa isang pangungusap.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Ang Proseso ng Pag-resign: Notice Period at ang Tunay na Papeles</h2>
+        <p>
+          Ang iyong EOSB ay binabayaran lamang sa dulo ng isang proseso, at ang proseso mismo ay may mga panuntunang hindi mo kayang sirain — dahil ang pagsira sa mga ito ay maaaring magpawala sa iyo ng benepisyong kakakwenta mo pa lang.
+        </p>
+        <p class="mt-4">
+          Sa ilalim ng pangkalahatang balangkas ng Labor Law, ang empleyadong magre-resign mula sa permanenteng (unlimited) na kontrata ay dapat magbigay ng nakasulat na abiso sa employer bago ang epektibong petsa ng pag-resign. Ang notice period ay nakasaad sa iyong kontrata ngunit hindi maaaring mas mababa sa statutory minimum na <strong class="text-white">30 araw</strong>. Para sa fixed-term na mga kontrata, tumatagal ang pag-resign hanggang sa pag-expire ng kontrata maliban kung mas mahabang abiso ang napagkasunduan nang nakasulat.
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">Ano talaga ang hitsura ng mga papeles:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">Ang iyong resignation letter</strong> — may petsa, nilagdaan, at mainam na isinumite nang nakasulat na may kopyang itinatago (gumagana ang email na may read receipt).</li>
+            <li><strong class="text-white">Final settlement statement</strong> — ang iyong EOSB, mga hindi pa nababayarang araw ng bakasyon, at anumang dues sa pagtatapos ng kontrata, itemized.</li>
+            <li><strong class="text-white">End of Service Certificate (Artikulo 64)</strong> — patunay na inayos na ang iyong mga dues; itago ang orihinal para sa iyong pag-alis.</li>
+            <li><strong class="text-white">Pagkansela ng Iqama at exit formalities</strong> — pinoproseso sa pamamagitan ng Absher/Qiwa; hindi dapat hadlangan ng employer ang iyong paglabas nang walang legal na batayan.</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          Isang praktikal na babala: huwag kailanman isumite ang iyong pag-resign nang pasalita at umalis na inaasahan ang pagtakbo ng oras. Kung sasabihin ng employer na iniwan mo ang trabaho, ang iyong pag-resign ay maaaring mai-reclassify bilang <strong class="text-white">absconding o hindi awtorisadong pagliban</strong> — na, gaya ng alam mo na, ay isang trigger ng Artikulo 80. Ang nakasulat na resignation letter ang iyong legal na proteksyon.
+        </p>
+        <p class="mt-4">
+          Ang employer ay legal na kinakailangang bayaran ang iyong final settlement kaagad pagkatapos matapos ang relasyon sa trabaho. Karaniwan ang pagkaantala, ngunit hindi ito ang iyong problemang sasaluhin nang tahimik — ito ay isang senyales na i-escalate sa pamamagitan ng mga opisyal na channel sa ibaba.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Paano Kung Tumangging Bayaran ng Employer ang Iyong EOSB?</h2>
+        <p>
+          Walang silbi ang matematika sa gabay na ito kung basta tumangging magbayad ang employer. Mas madalas itong nangyayari kaysa nararapat, at ang mga expat — takot na i-hostage ang kanilang Iqama — kadalasang sumusuko at lumilipad pauwi na kulang ang bayad. Huwag kang maging taong iyon.
+        </p>
+        <p class="mt-4">
+          Mayroon na ngayong structured escalation path ang Saudi Arabia na hindi nangangailangan na nasa loob ka ng bansa para gamitin ito:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">1. Mag-file ng complaint sa pamamagitan ng Qiwa o ng mga labor office</p>
+            <p class="text-gray-400 text-sm">Ang platform ng Ministry of Human Resources and Social Development (MHRSD) ay nagpapahintulot sa iyo na magrehistro ng wage/EOSB claim online. Tinitawag ang employer, at karamihan sa mga simpleng hindi pagkakaunawaan ay nalulutas sa unang conciliation stage na ito.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">2. I-escalate sa Labor Court</p>
+            <p class="text-gray-400 text-sm">Kung mabigo ang conciliation, lilipat ang kaso sa Labor Court. Sa ilalim ng kasalukuyang sistema, inuuna ang mga labor claim at maraming EOSB case ang mabilis na napagpapasiyahan — madalas pabor sa empleyado kapag walang nakasulat na patunay ang employer para sa pagpigil.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">3. Enforcement laban sa employer</p>
+            <p class="text-gray-400 text-sm">Maaaring i-execute ang judgment na pabor sa iyo laban sa employer, at ang mga paulit-ulit na nagkukulang ay haharap sa mga parusa, kabilang ang pagsususpinde ng kanilang kakayahang kumuha ng mga foreign worker.</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          Ang pinakamahalagang bagay na magagawa mo bago umalis: <strong class="text-desert-primary">idokumento ang lahat</strong>. Ang iyong kontrata, ang iyong mga payslip (Wage Protection System records kung magagamit), ang iyong resignation letter, at ang iyong final settlement statement. Kung wala kang paper trail, wala kang kaso.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Espesyal na Konsiderasyon para sa mga Expat</h2>
+        <p>
+          Hindi umiiral ang iyong EOSB sa isang vacuum. Para sa milyun-milyong South Asian at Filipino expat na nagtayo ng kaharian na ito, ang final settlement ay isang package — at ang pag-alam kung ano pa ang kasama dito ay maaaring magdagdag ng libu-libo sa iyong huling padala.
+        </p>
+        <h3>Para sa mga South Asian Expat (PK / IN / BD)</h3>
+        <p>
+          Bago ang huling pag-alis, hingin ang <strong class="text-white">"End of Service Certificate"</strong> na inilabas sa ilalim ng <strong class="text-white">Artikulo 64</strong> ng Labor Law. Ang sertipikong ito ay pormal na nagtatala na inayos ng iyong employer ang lahat ng iyong mga utang. Kung wala ito, maaaring ma-block ang muling pagtatrabaho mo sa Saudi Arabia sa hinaharap, at mas mahirap habulin ang mga hindi pagkakaunawaan mula sa ibang bansa.
+        </p>
+        <p class="mt-4">
+          Pangalawa, tandaan na ang iyong <strong class="text-desert-primary">hindi pa nagamit na mga araw ng bakasyon ay idinaragdag sa itaas</strong> ng iyong EOSB sa Artikulo 84/85. Ang Artikulo 109 ay nagbibigay sa iyo ng kompensasyon bilang kapalit ng naipon na taunang leave na hindi mo ininom. Maraming employer ang tahimik na isinasama ito sa numero ng "gratuity"; ito ay isang hiwalay na entitlement at dapat itong hiwalay na nakalagay sa iyong final settlement.
+        </p>
+        <h3>Para sa mga Filipino Expat: Ang POLO Safety Net</h3>
+        <p>
+          Ang Philippine Overseas Labor Office (POLO) sa Saudi Arabia ay sumusuri at nagpapatunay ng mga final settlement para sa mga manggagawang Pilipino. Bago ka pumirma ng anumang release, waiver, o settlement agreement, ipasuri ito sa POLO. Ang tungkulin nito ay tiyak na pigilan ang mga manggagawang Pilipino na mapilitang pumirma sa mga karapatang hindi nila alam na mayroon sila.
+        </p>
+        <p class="mt-4">
+          Palaging pareho ang pattern: isang HR officer ang nagpapadulas ng "full and final settlement" sa mesa, ipinapaliwanag ito nang madalian, at naghihintay ng iyong pirma. Ang tamang hakbang ay ang kabaligtaran ng gusto nila — kunin ang dokumento, basahin ito, at iparepaso sa POLO o sa isang legal na propesyonal bago ka pumirma.
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Mga Madalas Itanong (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Makakatanggap ba ako ng EOSB kung mag-resign ako pagkatapos ng 1 taon sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Sa ilalim ng Artikulo 84, ang pag-resign bago makumpleto ang 2 taon ng serbisyo ay nagbibigay sa iyo ng 0% ng naipon na EOSB. Ang tanging exception ay kung ang iyong pag-resign ay kwalipikado bilang constructive termination sa ilalim ng Artikulo 81 (paglabag ng employer) o isang protected na pag-resign ng babae — kung gayon, 100% ang nalalapat.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Ano ang pagkakaiba sa pagitan ng Artikulo 84 at Artikulo 85 sa Saudi labor law?</p>
+            <p class="text-gray-400 text-sm mt-1">Nalalapat ang Artikulo 84 kapag nag-resign ang empleyado at ine-tier ang EOSB ayon sa serbisyo: 0% sa ilalim ng 2 taon, 1/3 mula 2–5 taon, 2/3 mula 5–10 taon, at 100% pagkatapos ng 10 taon. Nalalapat ang Artikulo 85 kapag tini-terminate ng employer nang walang dahilan o nag-expire ang fixed na kontrata, at ginagarantiyahan ang 100% ng buong naipon na EOSB sa anumang haba ng serbisyo.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Maaari bang ipapirma sa akin ng employer ang waiver para isuko ang aking EOSB?</p>
+            <p class="text-gray-400 text-sm mt-1">Hindi. Sinasabi ng Artikulo 8 ng Saudi Labor Law na ang anumang kasunduan, kondisyon, o probisyon ng kontrata na nagwa-waive ng mga karapatang ibinigay ng Batas ay null and void, kahit pa kusang pumirma ang empleyado. Hindi mo maikakontrata ang iyong EOSB.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Paano eksaktong kinukwenta ang 1/3 o 2/3 na EOSB?</p>
+            <p class="text-gray-400 text-sm mt-1">Una, kuwentahin ang buong naipon na benepisyo: kalahating buwang pangunahing sahod bawat taon sa unang 5 taon dagdag isang buong buwang pangunahing sahod bawat taon pagkatapos, pro-rated para sa mga bahaging taon. Pagkatapos, i-multiply sa 1/3 (2–5 taon) o 2/3 (5–10 taon) kung ikaw ay nag-resign. Halimbawa: 6,000 SAR na pangunahing sahod sa 8 taon ay nag-accrue ng 33,000 SAR; ang pag-resign ay magbabayad ng 33,000 × 2/3 = 22,000 SAR.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Kasama ba sa pagkukuwenta ng EOSB ang housing at transportation allowances?</p>
+            <p class="text-gray-400 text-sm mt-1">Sa default, ang EOSB ay nakabatay sa pangunahing sahod lamang — ang housing at transportation allowances ay hindi kasama sa statutory na pagkukuwenta sa ilalim ng karaniwang pagbabasa ng Artikulo 84. Gayunpaman, kung malinaw na nakasaad sa iyong kontrata sa trabaho na ang mga allowance ay bahagi ng batayan ng sahod para sa EOSB, binibilang ang mga ito. Repasuhin ang mga salita ng iyong kontrata bago umasa sa mas mababang numero.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Gaano katagal ang notice period kapag nag-resign ako sa Saudi Arabia?</p>
+            <p class="text-gray-400 text-sm mt-1">Para sa unlimited (permanent) na kontrata, ang statutory minimum na notice para sa pag-resign ay 30 araw, bagaman maaaring magtakda ng mas mahabang panahon ang iyong kontrata. Para sa fixed-term na kontrata, magkakabisa ang pag-resign sa pag-expire ng kontrata maliban kung mas mahabang nakasulat na abiso ang napagkasunduan. Ibigay ang iyong notice nang nakasulat — ang oral na pag-resign ay maaaring ma-misclassify bilang hindi awtorisadong pagliban.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Ano ang gagawin ko kung tumangging bayaran ng employer ang aking end of service benefit?</p>
+            <p class="text-gray-400 text-sm mt-1">Mag-file ng complaint sa pamamagitan ng MHRSD (Qiwa o ang labor office) habang nasa bansa ka pa o pagkatapos ng pag-alis, pagkatapos ay i-escalate sa Labor Court kung mabigo ang conciliation. Itago ang iyong kontrata, payslips, resignation letter, at final settlement statement bilang ebidensya. Ang dokumentadong claim ay mas malamang na magtagumpay kaysa sa oral.</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">Q: Ano ang mangyayari sa aking EOSB kung ililipat ko ang aking sponsorship sa bagong employer (naqal kafala)?</p>
+            <p class="text-gray-400 text-sm mt-1">Ang iyong serbisyo sa lumang employer ay hindi basta nawawala. Sa isang transfer ng sponsorship, dapat iayos ng lumang employer ang iyong EOSB hanggang sa petsa ng paglipat, na kinukwenta sa tier na naaangkop sa mga taong pinaglingkuran mo sila. Pagkatapos, magre-restart ang iyong service period sa zero sa bagong employer — kaya nire-reset ng isang transfer ang iyong orasan patungo sa 10-taong full-benefit tier.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>Alamin ang Iyong Numero Bago Ka Pumirma ng Kahit Ano</h2>
+        <p>
+          Ang pag-aabot ng resignation letter ay hindi isang neutral na gawa sa Saudi labor law — ito ay isang legal na kaganapan na permanenteng tumutukoy sa porsyento ng iyong naipon na benepisyo. Ang parehong sulat na magdadala sa iyo mula 100% hanggang 1/3 sa isang kisap lamang ay maiiwasan, maitotono, o mababago kung nauunawaan mo ang sistema nang maaga.
+        </p>
+        <p class="mt-4">
+          Ang mga dapat tandaan: <strong class="text-white">Ang Artikulo 85 ay laging buo ang bayad.</strong> <strong class="text-white">Ang Artikulo 84 ay walang bayad sa ilalim ng dalawang taon, isang-katlo sa 2–5, dalawang-katlo sa 5–10, at lahat pagkatapos ng sampu.</strong> <strong class="text-white">Maaaring gawing buong bayad ng Artikulo 81 ang iyong pag-resign.</strong> <strong class="text-white">Maaaring gawing wala — dagdag pa ang mga pinsala — ng Artikulo 80 ang iyong pag-dismiss.</strong>
+        </p>
+        <p class="mt-4">
+          Protektahan ang iyong pinaghirapang pera. Gamitin ang <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub EOSB Calculator</a> upang agad na kuwentahin ang iyong eksaktong entitlement batay sa Artikulo 84 o 85, tingnan ang bawat numero sa iyong final settlement sheet bago pumirma, at huwag kailanman pumirma ng waiver nang walang independiyenteng repaso.
+        </p>
+        <p class="mt-4">
+          Nagpaplano ng iyong huling pag-alis? Basahin din ang aming gabay sa <a href="/guide/final-settlement-air-ticket-calculator-saudi-arabia-2026" class="text-desert-primary underline">Hidden Costs at Procedures ng Final Settlement sa KSA</a>.
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">Kuwentahin ang Iyong Eksaktong EOSB Ngayon</h3>
+          <p class="text-gray-400 text-sm mb-4">Libre — ang iyong sahod, taon ng serbisyo, at dahilan ng pag-alis sa isang minuto</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">Gamitin ang Libreng EOSB Calculator</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>Disclaimer:</strong> Ang gabay na ito ay para sa mga layuning pang-impormasyon batay sa Saudi Labor Law. Maaaring magbago ang mga regulasyon. Para sa mga opisyal na hindi pagkakaunawaan, palaging sumangguni sa Ministry of Human Resources and Social Development (MHRSD) o kumonsulta sa lisensiyadong legal na propesyonal.
+        </p>
+      </div>
+    `,
+      bn: `
+      <div class="text-center mb-8">
+        <p class="text-desert-primary text-sm font-medium tracking-widest uppercase">প্রবাসী শ্রম গাইড</p>
+        <h1 class="text-3xl md:text-4xl font-bold text-white mt-2">সৌদি আরব ২০২৬-এ পদত্যাগে ইওএসবি নিয়ম: ধারা ৮৪ বনাম ৮৫ ব্যাখ্যা</h1>
+        <p class="text-gray-400 mt-3 max-w-2xl mx-auto">সৌদি আরবে পদত্যাগ করলে সেবা-সমাপ্তি সুবিধা (ইওএসবি) ঠিক কত পাবেন — ধারা ৮৪-এর ধাপভিত্তিক ব্যবস্থা, ধারা ৮৫-এর ১০০% নিশ্চয়তা, এবং প্রতিটি ব্যতিক্রম যা আপনার সংখ্যা বদলে দেয়।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ভূমিকা: আপনার গ্র্যাচুইটি কোনো রহস্য নয়</h2>
+        <p>
+          সৌদি আরবে চাকরি ছাড়া যথেষ্ট চাপের — বছরের পর বছর জীবন স্যুটকেসে বাঁধা, ইকামা আনুষ্ঠানিকতা শেষ করা, আর সহকর্মীদের বিদায় বলা যারা পরিবার হয়ে গিয়েছিল। আপনার শেষ প্রয়োজন হলো এইচআর অফিসে ঢুকে তাদের দেওয়া যেকোনো সংখ্যা মেনে নেওয়া, সেটা সঠিক কিনা না জেনে।
+        </p>
+        <p class="mt-4">
+          বিভ্রান্তি বাস্তব। যেকোনো প্রবাসী ওয়াটসঅ্যাপ গ্রুপে পাঁচজনকে জিজ্ঞেস করুন পদত্যাগে তাদের গ্র্যাচুইটির কী হবে — পাঁচটি ভিন্ন উত্তর পাবেন: "আপনার বেতনের অর্ধেক গুণ আপনার বছর," "শুধু দুই বছর পরে পাবেন," "১০ বছর পরে ছাড়লে সব পাবেন।" এর বেশিরভাগই অর্ধসত্য, একটি ভুল বোঝা আইনের ওপর তৈরি।
+        </p>
+        <p class="mt-4">
+          <strong class="text-white">সরাসরি উত্তর:</strong> সৌদি শ্রম আইন অনুযায়ী, পদত্যাগে আপনার সেবা-সমাপ্তি সুবিধা সম্পূর্ণভাবে নির্ভর করে আপনার চাকরির বছরের সংখ্যা ও চলে যাওয়ার কারণের ওপর, যা <strong class="text-desert-primary">০% থেকে ১০০%</strong> পর্যন্ত হতে পারে <strong class="text-white">ধারা ৮৪</strong>-এর অধীনে, অন্যদিকে <strong class="text-white">ধারা ৮৫</strong> (নিয়োগকর্তার সমাপ্তি বা চুক্তির স্বাভাবিক মেয়াদোত্তীর্ণতা) <strong class="text-desert-primary">১০০%</strong> সম্পূর্ণ জমা হওয়া সুবিধা নিশ্চিত করে। মাত্র একটি চিঠি — পদত্যাগপত্র — আপনাকে হাজার হাজার রিয়াল ক্ষতি করতে পারে। এই গাইড আপনাকে ঠিক কতটা দেখায়, হিসাব ধাপে ধাপে লেখা।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">সবচেয়ে বিপজ্জনক তিনটি ভুলধারণা:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">"যেকোনো বছরে অর্ধেক বেতন"</strong> — শুধু ধারা ৮৫-এর ক্ষেত্রে আংশিক সত্য; পদত্যাগে ধারা ৮৪ ভগ্নাংশ প্রয়োগ করে এবং দুই বছর আগে শূন্য পেতে পারেন।</li>
+            <li><strong class="text-white">"ভাতাসহ মোট বেতনে হিসাব হয়"</strong> — আইনি মান মৌলিক বেতনই, যদি না চুক্তিতে স্পষ্ট অন্যভাবে বলা থাকে; চুক্তির ভাষা যাচাই করুন।</li>
+            <li><strong class="text-white">"স্বাক্ষরিত মওকুফ মানেই হারিয়ে গেছে"</strong> — ধারা ৮ আইনে দেওয়া অধিকার মওকুফকারী শর্ত বাতিল করে; স্বাক্ষর আপনার অধিকার মুছে দেয় না।</li>
+          </ul>
+        </div>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-desert-primary">আপনার পরিমাণ অনুমান করবেন না।</strong> আপনার নির্দিষ্ট পরিস্থিতি — বেতন, বছর, আর চলে যাওয়ার কারণ — ভিত্তিতে সঠিক আনুমানিক হিসাব পেতে আমাদের <a href="/eosb-calculator" class="text-desert-primary underline">ফ্রি ইওএসবি ক্যালকুলেটর</a> ব্যবহার করুন।</p>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সুবর্ণ নিয়ম: ধারা ৮৫ (নিয়োগকর্তার সমাপ্তি বা চুক্তির মেয়াদোত্তীর্ণতা)</h2>
+        <p>
+          সৌদি শ্রম আইনের ধারা ৮৫ পুরো আইনেই শ্রমিকের জন্য সবচেয়ে বন্ধুত্বপূর্ণ ধারা। এটি প্রযোজ্য যখন কর্মসংস্থান সম্পর্ক শেষ হয় <strong class="text-white">কর্মচারীর কারণে নয়</strong> এমন কারণে — অর্থাৎ নিয়োগকর্তা চুক্তি শেষ করেন (ধারা ৮০-এর কোনো কারণ ছাড়া) অথবা নির্দিষ্ট মেয়াদের চুক্তি কেবল মেয়াদোত্তীর্ণ হয় এবং নবায়ন হয় না।
+        </p>
+        <p class="mt-4">
+          উভয় ক্ষেত্রে কর্মচারী <strong class="text-desert-primary">১০০% সম্পূর্ণ ইওএসবি</strong>-র অধিকারী, সে ১ বছর বা ১৫ বছর যাই কাজ করুক না কেন। কোনো ধাপ, কোনো ভগ্নাংশ, কোনো "আনুগত্য ছাড়" নেই। সম্পূর্ণ জমা হওয়া সুবিধা আপনার।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">মান জমার হার (ধারা ৮৪-এর সূত্র, সম্পূর্ণভাবে প্রয়োগ):</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">প্রথম ৫ বছর:</strong> প্রতি বছর চাকরির জন্য অর্ধেক মাসের মৌলিক বেতন।</li>
+            <li><strong class="text-white">৬ষ্ঠ বছর থেকে:</strong> প্রতি বছর চাকরির জন্য একটি পূর্ণ মাসের মৌলিক বেতন।</li>
+            <li><strong class="text-white">আংশিক বছর:</strong> আনুপাতিকভাবে গণনা করা হয় (সেবার দিন ÷ ৩৬৫ × প্রযোজ্য বার্ষিক হার)।</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          তাই যদি আপনার নিয়োগকর্তা ৬,০০০ রিয়াল মৌলিক বেতনে ৩ বছর পরে আপনাকে ছেড়ে দেয়, আপনার সম্পূর্ণ সুবিধা (৬,০০০ ÷ ২) × ৩ = <strong class="text-white">৯,০০০ রিয়াল</strong>। একই নিয়ম যা ধারা ৮৪-এর অধীনে সাধারণত "এক-তৃতীয়াংশ জরিমানা" প্রয়োগ করে, এখানে আপনাকে স্পর্শ করে না, কারণ প্রস্থান আপনার পছন্দ ছিল না।
+        </p>
+        <p class="mt-4">
+          একটি গুরুত্বপূর্ণ সতর্কতা: নিয়োগকর্তা যদি দাবি করেন যে সমাপ্তি "কোনো কারণের জন্য" ছিল, তাদের ধারা ৮০-এর অধীনে কারণের অস্তিত্ব প্রমাণ করতে হবে। অযৌক্তিক দাবি আপনাকে স্বয়ংক্রিয়ভাবে শূন্যে নামায় না — আর ধারা ৮০-এর যুদ্ধগুলিই ঠিক যে লেবার কোর্টে শেষ হয়।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>ধারা ৮৪ পদত্যাগ: ধাপভিত্তিক অধিকার ব্যবস্থা</h2>
+        <p>
+          যখন <strong class="text-white">আপনি</strong> পদত্যাগ করেন — চিঠি দিয়ে দরজা দিয়ে বের হন — আইন আপনার ইওএসবিকে আনুগত্যের ভিত্তিতে মাপে। যুক্তি সহজ: আইনপ্রণেতা আপনার প্রশিক্ষণ ও অন্তর্ভুক্তিতে নিয়োগকর্তার বিনিয়োগ রক্ষা করতে চেয়েছিলেন, তাই যত বেশি দিন থাকবেন, সম্পূর্ণ সুবিধার তত কাছে যাবেন।
+        </p>
+        <p class="mt-4">
+          এটিই এমন ব্যবস্থা যা বেশিরভাগ প্রবাসী কখনো পুরোপুরি বোঝে না। এটি একটি নিয়ম নয়; এটি চারটি সিঁড়িসহ একটি মই, আর আপনার সিঁড়ি সম্পূর্ণভাবে নির্ভর করে সেই নিয়োগকর্তার কাছে আপনার সম্পূর্ণ অবিচ্ছিন্ন সেবার বছরের উপর।
+        </p>
+        <h3>২ বছরের কম সেবা: ০% অধিকার</h3>
+        <p>
+          দুই বছর সম্পূর্ণ করার আগে পদত্যাগ করুন আর <strong class="text-desert-primary">শূন্য সেবা-সমাপ্তি সুবিধা</strong> নিয়ে বের হবেন। ১৮ মাসে "কিছু একটা" আশা করে পদত্যাগ করা প্রবাসীদের জন্য এটাই সবচেয়ে বড় চমক। আইন উদ্দেশ্যমূলকভাবে পদত্যাগে কোনো গ্র্যাচুইটি জমা হওয়ার আগে দুই বছরের গেট বসিয়েছে।
+        </p>
+        <p class="mt-4">
+          গুরুত্বপূর্ণ পার্থক্যটি লক্ষ্য করুন: এই দুই বছরের গেট ধারা ৮৪-এর অধীনে কেবল <em>পদত্যাগের</em> ক্ষেত্রে প্রযোজ্য। ১৮ মাসে নিয়োগকর্তা আপনাকে সমাপ্ত করলে বা চুক্তি স্বাভাবিকভাবে শেষ হলে, ধারা ৮৫ আপনাকে এখনও ১০০% জমা হওয়া সুবিধা দেবে — দুই বছরের নিয়ম শুধু সেই কর্মচারীকে শাস্তি দেয় যে নিজে থেকে চলে যায়।
+        </p>
+        <h3>২ থেকে ৫ বছর সেবা: জমা হওয়া ইওএসবি-র এক-তৃতীয়াংশ (১/৩)</h3>
+        <p>
+          দুই বছর সম্পূর্ণ করুন কিন্তু পাঁচের কম, পদত্যাগ করুন, আর আপনি পাবেন আপনার জমা হওয়া ইওএসবি-র <strong class="text-desert-primary">এক-তৃতীয়াংশ</strong>। অনেক শ্রমিক এটিকে "এক বছরের বেতনের এক-তৃতীয়াংশ" হিসেবে ভুল করে। তা নয়। এটি পুরো সেবা সময়কালের <em>মোট জমা হওয়া সুবিধার</em> এক-তৃতীয়াংশ।
+        </p>
+        <h3>৫ থেকে ১০ বছর সেবা: জমা হওয়া ইওএসবি-র দুই-তৃতীয়াংশ (২/৩)</h3>
+        <p>
+          পাঁচ বছর থেকে দশ বছর পর্যন্ত, পদত্যাগ আপনাকে জমা হওয়া সুবিধার <strong class="text-desert-primary">দুই-তৃতীয়াংশ</strong> দেয়। এখানেই সংখ্যাগুলো সত্যিই অনুভূত হতে শুরু করে — ৫,০০০ রিয়াল মৌলিক বেতনের আট বছরের শ্রমিকের জন্য একা জমা হওয়া পুলই ৩৫,০০০ রিয়াল, আর তার দুই-তৃতীয়াংশ ২৩,৩৩৩ রিয়াল।
+        </p>
+        <h3>১০+ বছর সেবা: ১০০% (সম্পূর্ণ) জমা হওয়া ইওএসবি</h3>
+        <p>
+          <strong class="text-white">দশ বা তার বেশি অবিচ্ছিন্ন বছর</strong> কাজ করুন আর পদত্যাগ করুন, আর ধাপটি সম্পূর্ণ অদৃশ্য হয়ে যায়: আপনি পাবেন আপনার জমা হওয়া ইওএসবি-র <strong class="text-desert-primary">সম্পূর্ণ ১০০%</strong>, ঠিক যেমন আপনাকে সমাপ্ত করা হয়েছে। আনুগত্য ছাড় সম্পূর্ণ মাফ। দীর্ঘমেয়াদী প্রবাসীদের জন্য এটি প্রায়ই আরামদায়ক স্বদেশ প্রত্যাবর্তন তহবিল এবং বেদনাদায়ক ঘাটতির মধ্যে পার্থক্য।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">ধাপ সীমার ব্যাখ্যা:</strong> "৫ বছর" এবং "১০ বছর" মানে একই নিয়োগকর্তার কাছে একই কর্মসংস্থান সম্পর্কের অধীনে <em>সম্পূর্ণ, অবিচ্ছিন্ন বছর</em>। আংশিক বছরের দিনগুলি কেবল তখনই পরবর্তী ধাপে গণনা হয় যখন সেই বছরটি সম্পূর্ণ হয়; ভগ্নাংশ বছরটি আপনার বর্তমান ধাপে নিষ্পত্তি হয়।</p>
+        </div>
+        <h3>ধারা ৮৪ গণনা টেবিল — অনুমানিক শ্রমিক, ৫,০০০ রিয়াল মৌলিক বেতন</h3>
+        <div class="overflow-x-auto mt-3">
+          <table class="w-full text-sm text-left text-gray-300">
+            <thead class="text-gray-400 text-xs uppercase">
+              <tr class="border-b border-white/10">
+                <th class="py-2 pr-2">পরিস্থিতি</th>
+                <th class="py-2 pr-2">বছর</th>
+                <th class="py-2 pr-2">জমা হওয়া ইওএসবি</th>
+                <th class="py-2 pr-2">ধাপ</th>
+                <th class="py-2">পরিশোধযোগ্য ইওএসবি</th>
+              </tr>
+            </thead>
+            <tbody class="text-sm">
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">৩ বছর</td>
+                <td class="py-2 pr-2">৩</td>
+                <td class="py-2 pr-2">(২,৫০০ × ৩) = ৭,৫০০</td>
+                <td class="py-2 pr-2">এক-তৃতীয়াংশ</td>
+                <td class="py-2 text-desert-primary font-medium">২,৫০০ রিয়াল</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">৭ বছর</td>
+                <td class="py-2 pr-2">৭</td>
+                <td class="py-2 pr-2">(২,৫০০ × ৫) + (৫,০০০ × ২) = ২২,৫০০</td>
+                <td class="py-2 pr-2">দুই-তৃতীয়াংশ</td>
+                <td class="py-2 text-desert-primary font-medium">১৫,০০০ রিয়াল</td>
+              </tr>
+              <tr class="border-b border-white/5">
+                <td class="py-2 pr-2">১২ বছর</td>
+                <td class="py-2 pr-2">১২</td>
+                <td class="py-2 pr-2">(২,৫০০ × ৫) + (৫,০০০ × ৭) = ৪৭,৫০০</td>
+                <td class="py-2 pr-2">সম্পূর্ণ</td>
+                <td class="py-2 text-desert-primary font-medium">৪৭,৫০০ রিয়াল</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-gray-500 text-xs mt-2">সব পরিমাণ সৌদি রিয়ালে। জমার হার: প্রতি বছর অর্ধেক মাসের মৌলিক বেতন (প্রথম ৫ বছর), এরপর প্রতি বছর এক পূর্ণ মাসের মৌলিক বেতন।</p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>গুরুত্বপূর্ণ ব্যতিক্রম: কখন পদত্যাগে এখনও ১০০% ইওএসবি পাওয়া যায়</h2>
+        <p>
+          ধারা ৮৪-এর ধাপভিত্তিক ব্যবস্থার তীক্ষ্ণ কিনারা আছে, আর আইন সেদিকে অন্ধ নয়। তিনটি পরিস্থিতিতে পদত্যাগ — এমনকি মাত্র এক বছর পরেও — এখনও <strong class="text-desert-primary">সম্পূর্ণ ১০০% সুবিধা</strong> দেয়, কারণ আইন আপনাকে দোষী পক্ষ মনে করে না।
+        </p>
+        <h3>মহিলা কর্মচারীর সুরক্ষা</h3>
+        <p>
+          কোনো মহিলা কর্মচারী যদি <strong class="text-white">বিয়ের ছয় মাসের</strong> মধ্যে বা <strong class="text-white">সন্তান জন্মের তিন মাসের</strong> মধ্যে পদত্যাগ করেন, তিনি সেবার বছর নির্বিশেষে সম্পূর্ণ ইওএসবি পাবেন। এই বিধানটি এমন যাতে পরিবার শুরু করা কোনো মহিলাকে কখনো আর্থিকভাবে শাস্তি না দেয়। যদি এটি আপনার ক্ষেত্রে প্রযোজ্য হয়, ধাপের শতাংশটি কেবল বাদ দেওয়া হয়।
+        </p>
+        <h3>ধারা ৮১: নিয়োগকর্তার চুক্তি ভঙ্গ</h3>
+        <p>
+          যদি আপনার পদত্যাগের কারণ হয় <em>আপনার নিয়োগকর্তা</em> চুক্তি ভঙ্গ করেছে — বেতন সময়মতো পরিশোধ করেনি, নিরাপত্তা বিধি লঙ্ঘন করেছে, নিয়োগের সময় প্রতারণা করেছে, অথবা সম্মত কাজের চেয়ে সম্পূর্ণ ভিন্ন কাজ অর্পণ করেছে — তাহলে আপনার পদত্যাগকে আইনত এমনভাবে গণ্য করা হয় যেন <strong class="text-white">নিয়োগকর্তা আপনাকে সমাপ্ত করেছেন</strong>। আপনি <strong class="text-desert-primary">অবিলম্বে ১০০% সম্পূর্ণ ইওএসবি</strong>-র অধিকারী, ঠিক ধারা ৮৫-এর মতো।
+        </p>
+        <p class="mt-4">
+          এটি প্রবাসীদের সবচেয়ে শক্তিশালী হাতিয়ারগুলোর একটি, এবং সবচেয়ে কম ব্যবহৃত। শর্ত: ভঙ্গটি লিপিবদ্ধ হতে হবে এবং, নিয়োগকর্তা বিতর্ক করলে, শ্রম কর্তৃপক্ষের সামনে প্রমাণিত হতে হবে। প্রতিটি দেরিতে বেতন, প্রতিটি নিরাপত্তা লঙ্ঘন, প্রতিটি ভাঙা প্রতিশ্রুতি — লিখিতভাবে, তারিখসহ নথিভুক্ত করুন।
+        </p>
+        <h3>ফোর্স ম্যাজিউর</h3>
+        <p>
+          যদি অনিবার্য পরিস্থিতি কাজ অসম্ভব করে তোলে — যেমন প্রতিষ্ঠানের বন্ধ বা সবার নিয়ন্ত্রণের বাইরের ঘটনা — এবং ফলস্বরূপ কর্মসংস্থান শেষ হয়, কর্মচারী <strong class="text-white">সম্পূর্ণ জমা হওয়া ইওএসবি</strong> পাবেন। একই সুরক্ষা প্রযোজ্য যখন নিয়োগকর্তার নিজের পরিস্থিতি (কর্মচারীর দোষ নয়) সম্পর্ক শেষ করতে বাধ্য করে।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বিপদের অঞ্চল: ধারা ৮০ (কারণসহ সমাপ্তি) — ০% ইওএসবি</h2>
+        <p>
+          ধারা ৮০ হল ধারা ৮৪-এর সুরক্ষার আয়নার প্রতিচ্ছবি। এটি সেই পরিস্থিতিগুলির তালিকা দেয় যেখানে নিয়োগকর্তা কর্মচারীকে <strong class="text-desert-primary">নোটিশ ছাড়া এবং কোনো সেবা-সমাপ্তি সুবিধা ছাড়াই</strong> বরখাস্ত করতে পারেন — পুরোপুরি শূন্য।
+        </p>
+        <p class="mt-4">
+          এগুলো গুরুতর, ইচ্ছাকৃত আস্থা ভঙ্গ। আইনের যুক্তি: যদি আপনি সেই ক্ষতি ঘটান যা সম্পর্ক শেষ করে, আপনি পুরস্কার নিয়ে বের হতে পারবেন না।
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">নিয়োগকর্তা, ম্যানেজার বা সহকর্মীর ওপর আক্রমণ বা সহিংসতা</p>
+            <p class="text-gray-400 text-sm">কর্মস্থলে যেকোনো শারীরিক আগ্রাসন শূন্য ইওএসবিসহ তাৎক্ষণিক বরখাস্তের ভিত্তি।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">প্রতারণা বা অসততা</p>
+            <p class="text-gray-400 text-sm">নিয়োগের নথি বা কাজের সময় প্রতারণা — সার্টিফিকেট জাল করা, রিপোর্ট মিথ্যা করা — আপনার সুবিধা বাতিল করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">ব্যবসায়িক গোপনীয়তা প্রকাশ</p>
+            <p class="text-gray-400 text-sm">গোপন ব্যবসায়িক তথ্য, বিশেষ করে প্রতিযোগীকে, প্রকাশ করা ধারা ৮০-এর ট্রিগার।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">অনুপস্থিতি: ২০টি বিক্ষিপ্ত দিন বা ১০টি ধারাবাহিক দিন</p>
+            <p class="text-gray-400 text-sm">বছরে বৈধ অজুহাত ছাড়া ২০টি অ-ধারাবাহিক দিন বা ১০টি একটানা দিন অনুপস্থিত থাকা শূন্য ইওএসবিসহ বরখাস্তের অনুমতি দেয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">প্রতিযোগীর জন্য কাজ করা</p>
+            <p class="text-gray-400 text-sm">চাকরির সময় প্রতিযোগিতামূলক ব্যবসায় জড়িত হওয়া আনুগত্য ভঙ্গ এবং ধারা ৮০-এর কারণ উভয়ই।</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          <strong class="text-white">অতিরিক্ত বিপদ:</strong> ধারা ৮০-এর ক্ষেত্রে নিয়োগকর্তা শূন্য ইওএসবিতে থেমে যান না। আইন নিয়োগকর্তাকে সৃষ্ট ক্ষতির জন্য <strong class="text-desert-primary">আপনার বিরুদ্ধে ক্ষতিপূরণ</strong> দাবি করার অনুমতি দেয়। কারণসহ বরখাস্ত তাই কেবল টাকা আটকানোর বদলে আপনার টাকা খরচ করাতে পারে। আপনি যদি ধারা ৮০-এর অভিযোগের মুখোমুখি হন, কিছুতে স্বাক্ষর করবেন না এবং অবিলম্বে আইনি সহায়তা নিন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>বাস্তব জীবনের হিসাবের উদাহরণ (ধাপে ধাপে)</h2>
+        <p>তত্ত্ব সহজ। আসুন তিনটি সমাধান করা উদাহরণ দিয়ে একে বাস্তব করি যা সবচেয়ে সাধারণ পরিস্থিতি কভার করে — ৩ বছরে পদত্যাগ, ৮ বছরে পদত্যাগ, এবং ৪ বছরে নিয়োগকর্তার সমাপ্তি।</p>
+        <h3>পরিস্থিতি এ: ৩ বছর পরে পদত্যাগ (মৌলিক বেতন ৪,০০০ রিয়াল)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>ধাপ ১ — জমা হওয়া ইওএসবি = (৪,০০০ ÷ ২) × ৩ বছর = <strong class="text-white">৬,০০০ রিয়াল</strong></p>
+          <p class="mt-1">ধাপ ২ — ৩ বছরে ধাপ = এক-তৃতীয়াংশ</p>
+          <p class="mt-1">ধাপ ৩ — পরিশোধযোগ্য ইওএসবি = ৬,০০০ × (১/৩) = <strong class="text-desert-primary">২,০০০ রিয়াল</strong></p>
+        </div>
+        <h3>পরিস্থিতি বি: ৮ বছর পরে পদত্যাগ (মৌলিক বেতন ৬,০০০ রিয়াল)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 mb-4 text-sm text-gray-300">
+          <p>ধাপ ১ — প্রথম ৫ বছর: (৬,০০০ ÷ ২) × ৫ = ১৫,০০০ রিয়াল</p>
+          <p class="mt-1">ধাপ ২ — পরের ৩ বছর: ৬,০০০ × ৩ = ১৮,০০০ রিয়াল</p>
+          <p class="mt-1">ধাপ ৩ — মোট জমা = ১৫,০০০ + ১৮,০০০ = <strong class="text-white">৩৩,০০০ রিয়াল</strong></p>
+          <p class="mt-1">ধাপ ৪ — ৮ বছরে ধাপ = দুই-তৃতীয়াংশ</p>
+          <p class="mt-1">ধাপ ৫ — পরিশোধযোগ্য ইওএসবি = ৩৩,০০০ × (২/৩) = <strong class="text-desert-primary">২২,০০০ রিয়াল</strong></p>
+        </div>
+        <h3>পরিস্থিতি সি: ৪ বছর পরে নিয়োগকর্তার সমাপ্তি (মৌলিক বেতন ৫,০০০ রিয়াল)</h3>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-2 text-sm text-gray-300">
+          <p>ধাপ ১ — জমা হওয়া ইওএসবি = (৫,০০০ ÷ ২) × ৪ বছর = <strong class="text-white">১০,০০০ রিয়াল</strong></p>
+          <p class="mt-1">ধাপ ২ — কারণ = নিয়োগকর্তার সমাপ্তি (ধারা ৮৫)</p>
+          <p class="mt-1">ধাপ ৩ — ধাপ = ১০০% (কোনো ধাপ প্রযোজ্য নয়)</p>
+          <p class="mt-1">ধাপ ৪ — পরিশোধযোগ্য ইওএসবি = ১০,০০০ × ১০০% = <strong class="text-desert-primary">১০,০০০ রিয়াল</strong></p>
+        </div>
+        <p class="mt-4">
+          পরিস্থিতি এ এবং সি-র পার্থক্য লক্ষ্য করুন: প্রায় একই বেতন, প্রায় একই সেবা, তবুও একজন শ্রমিক পায় ২,০০০ রিয়াল আর অন্যজন ১০,০০০ রিয়াল। একমাত্র পরিবর্তনশীল হলো <em>চুক্তি কে শেষ করেছে</em>। এক বাক্যে পুরো আইন এটাই।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>পদত্যাগের প্রক্রিয়া: নোটিশ সময়কাল ও প্রকৃত কাগজপত্র</h2>
+        <p>
+          আপনার ইওএসবি কেবল একটি প্রক্রিয়ার শেষে পরিশোধিত হয়, আর প্রক্রিয়াটির নিজস্ব নিয়ম আছে যা ভাঙা আপনি মেনে নিতে পারবেন না — কারণ সেগুলো ভাঙলে আপনি সেই সুবিধাই হারাতে পারেন যা এইমাত্র হিসাব করেছেন।
+        </p>
+        <p class="mt-4">
+          শ্রম আইনের সাধারণ কাঠামোর অধীনে, স্থায়ী (অসীম) চুক্তি থেকে পদত্যাগকারী কর্মচারীকে পদত্যাগ কার্যকর হওয়ার তারিখের আগে নিয়োগকর্তাকে লিখিত নোটিশ দিতে হবে। নোটিশের সময়কাল আপনার চুক্তিতে নির্ধারিত থাকে তবে আইনি ন্যূনতম <strong class="text-white">৩০ দিনের</strong> কম হতে পারে না। নির্দিষ্ট মেয়াদের চুক্তির ক্ষেত্রে, লিখিতভাবে দীর্ঘ নোটিশ সম্মত না হলে পদত্যাগ চুক্তির মেয়াদ শেষ পর্যন্ত চলে।
+        </p>
+        <div class="bg-[#0A0E1A] p-4 rounded-lg mt-4 text-sm text-gray-300">
+          <p><strong class="text-white">কাগজপত্র আসলে কেমন দেখায়:</strong></p>
+          <ul class="list-disc list-inside space-y-1 mt-2">
+            <li><strong class="text-white">আপনার পদত্যাগপত্র</strong> — তারিখ ও স্বাক্ষরসহ, আদর্শভাবে লিখিতভাবে জমা দেওয়া আর একটি কপি নিজের কাছে রাখা (পাঠ স্বীকৃতিসহ ইমেইলও চলে)।</li>
+            <li><strong class="text-white">চূড়ান্ত নিষ্পত্তি বিবৃতি</strong> — আপনার ইওএসবি, অবৈতনিক ছুটির দিন, আর যেকোনো চুক্তি-শেষ বকেয়া, আলাদাভাবে তালিকাভুক্ত।</li>
+            <li><strong class="text-white">সেবা-সমাপ্তি সার্টিফিকেট (ধারা ৬৪)</strong> — আপনার বকেয়া মিটেছে এমন প্রমাণ; প্রস্থানের জন্য মূল কপি রাখুন।</li>
+            <li><strong class="text-white">ইকামা বাতিল ও প্রস্থান আনুষ্ঠানিকতা</strong> — আবশের/কিউয়া-র মাধ্যমে; নিয়োগকর্তা আইনি ভিত্তি ছাড়া আপনার প্রস্থান আটকাতে পারবেন না।</li>
+          </ul>
+        </div>
+        <p class="mt-4">
+          একটি ব্যবহারিক সতর্কতা: কখনো মৌখিকভাবে পদত্যাগ জমা দিয়ে ভাববেন না যে ঘড়ি চলছে। নিয়োগকর্তা পরে দাবি করলে যে আপনি চাকরি ছেড়েছেন, আপনার পদত্যাগ <strong class="text-white">পলায়ন বা অননুমোদিত অনুপস্থিতি</strong> হিসেবে পুনরায় শ্রেণিবদ্ধ হতে পারে — যা, এখন আপনি জানেন, ধারা ৮০-এর ট্রিগার। লিখিত পদত্যাগপত্রই আপনার আইনি সুরক্ষা।
+        </p>
+        <p class="mt-4">
+          কর্মসংস্থান সম্পর্ক শেষ হওয়ার পরপরই নিয়োগকর্তা আইনত আপনার চূড়ান্ত নিষ্পত্তি পরিশোধ করতে বাধ্য। বিলম্ব সাধারণ, তবে এটি নীরবে সহ্য করার মতো আপনার সমস্যা নয় — এটি নিচের সরকারি চ্যানেলগুলোর মাধ্যমে বাড়ানোর সংকেত।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>নিয়োগকর্তা আপনার ইওএসবি দিতে অস্বীকার করলে কী করবেন?</h2>
+        <p>
+          নিয়োগকর্তা কেবল পরিশোধে অস্বীকার করলে এই গাইডের হিসাব মূল্যহীন। এটি হওয়ার চেয়ে বেশি ঘটে, আর প্রবাসীরা — ইকামা জিম্মি হওয়ার ভয়ে — সাধারণত হাল ছেড়ে কম টাকা নিয়ে উড়ে যায়। আপনি সেই ব্যক্তি হবেন না।
+        </p>
+        <p class="mt-4">
+          সৌদি আরবে এখন একটি কাঠামোগত বাড়ানোর পথ আছে যা ব্যবহার করতে আপনার দেশের ভিতরে থাকার প্রয়োজন নেই:
+        </p>
+        <div class="space-y-3 mt-3">
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">১. কিউয়া বা শ্রম অফিসের মাধ্যমে অভিযোগ দায়ের করুন</p>
+            <p class="text-gray-400 text-sm">মানবসম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয়ের (MHRSD) প্ল্যাটফর্ম আপনাকে অনলাইনে মজুরি/ইওএসবি দাবি নিবন্ধন করতে দেয়। নিয়োগকর্তাকে ডাকা হয়, আর বেশিরভাগ সহজ বিবাদ এই প্রথম সমঝোতা ধাপেই সমাধান হয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">২. লেবার কোর্টে বাড়ান</p>
+            <p class="text-gray-400 text-sm">সমঝোতা ব্যর্থ হলে মামলাটি লেবার কোর্টে যায়। বর্তমান ব্যবস্থায় শ্রম দাবিকে অগ্রাধিকার দেওয়া হয় আর অনেক ইওএসবি মামলা দ্রুত নিষ্পত্তি হয় — প্রায়ই কর্মচারীর পক্ষে যখন নিয়োগকর্তার আটকে রাখার লিখিত প্রমাণ থাকে না।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-3 rounded-lg">
+            <p class="text-white font-medium">৩. নিয়োগকর্তার বিরুদ্ধে প্রয়োগ</p>
+            <p class="text-gray-400 text-sm">আপনার পক্ষের রায় নিয়োগকর্তার বিরুদ্ধে প্রয়োগ করা যায়, আর বারবার খেলাপিরা নিষেধাজ্ঞার মুখোমুখি হয়, যার মধ্যে বিদেশি কর্মী নিয়োগের ক্ষমতা স্থগিতও অন্তর্ভুক্ত।</p>
+          </div>
+        </div>
+        <p class="mt-4">
+          যাওয়ার আগে সবচেয়ে গুরুত্বপূর্ণ কাজ: <strong class="text-desert-primary">সবকিছু নথিভুক্ত করুন</strong>। আপনার চুক্তি, আপনার বেতন স্লিপ (মজুরি সুরক্ষা ব্যবস্থার রেকর্ড থাকলে), আপনার পদত্যাগপত্র, আর আপনার চূড়ান্ত নিষ্পত্তি বিবৃতি। কাগজের সূত্র না থাকলে আপনার কোনো মামলা নেই।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>প্রবাসীদের জন্য বিশেষ বিবেচনা</h2>
+        <p>
+          আপনার ইওএসবি শূন্যে বিদ্যমান নয়। দক্ষিণ এশীয় ও ফিলিপিনো প্রবাসীদের কোটির জন্য যারা এই রাজ্য গড়েছে, চূড়ান্ত নিষ্পত্তি একটি প্যাকেজ — আর এতে আরও কী অন্তর্ভুক্ত তা জানা আপনার চূড়ান্ত স্থানান্তরে হাজার হাজার যোগ করতে পারে।
+        </p>
+        <h3>দক্ষিণ এশীয় প্রবাসীদের জন্য (পাকিস্তান / ভারত / বাংলাদেশ)</h3>
+        <p>
+          চূড়ান্ত প্রস্থানের আগে শ্রম আইনের <strong class="text-white">ধারা ৬৪</strong>-এর অধীনে জারি করা <strong class="text-white">"সেবা-সমাপ্তি সার্টিফিকেট"</strong> দাবি করুন। এই সার্টিফিকেট আনুষ্ঠানিকভাবে নথিভুক্ত করে যে আপনার নিয়োগকর্তা আপনার সব বকেয়া পরিশোধ করেছেন। এটি ছাড়া, পরে সৌদি আরবে পুনঃনিয়োগ ব্লক হতে পারে, আর বিবাদ বিদেশ থেকে অনুসরণ করা অনেক কঠিন হয়ে যায়।
+        </p>
+        <p class="mt-4">
+          দ্বিতীয়ত, মনে রাখবেন আপনার <strong class="text-desert-primary">অব্যবহৃত ছুটির দিনগুলো আপনার ধারা ৮৪/৮৫ ইওএসবি-র ওপরের</strong> যোগ হয়। ধারা ১০৯ আপনাকে যে বার্ষিক ছুটি আপনি কখনো নেননি তার বদলে ক্ষতিপূরণের অধিকারী করে। অনেক নিয়োগকর্তা এটি নীরবে "গ্র্যাচুইটি" সংখ্যায় শুষে নেয়; এটি একটি পৃথক অধিকার এবং আপনার চূড়ান্ত নিষ্পত্তিতে আলাদাভাবে তালিকাভুক্ত হওয়া উচিত।
+        </p>
+        <h3>ফিলিপিনো প্রবাসীদের জন্য: পোলো সেফটি নেট</h3>
+        <p>
+          সৌদি আরবের ফিলিপাইন ওভারসিজ লেবার অফিস (POLO) ফিলিপিনো শ্রমিকদের চূড়ান্ত নিষ্পত্তি পর্যালোচনা ও সত্যায়ন করে। যেকোনো রিলিজ, মওকুফ বা নিষ্পত্তি চুক্তিতে স্বাক্ষরের আগে এটি POLO দিয়ে যাচাই করিয়ে নিন। এর ভূমিকা ঠিক এই — ফিলিপিনো শ্রমিকদের এমন অধিকার ছেড়ে দিতে বাধ্য করা থেকে রক্ষা করা যা তারা জানে না যে তাদের আছে।
+        </p>
+        <p class="mt-4">
+          প্যাটার্ন সর্বদা একই: একজন এইচআর অফিসার "সম্পূর্ণ ও চূড়ান্ত নিষ্পত্তি" টেবিলে স্লাইড করেন, তাড়াহুড়ো করে ব্যাখ্যা করেন, আর আপনার স্বাক্ষরের জন্য অপেক্ষা করেন। সঠিক পদক্ষেপ তাদের চাওয়ার বিপরীত — নথিটি নিন, পড়ুন, আর স্বাক্ষরের আগে POLO বা আইনি পেশাদারকে পর্যালোচনা করতে দিন।
+        </p>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQs)</h2>
+        <div class="space-y-4">
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে ১ বছর পরে পদত্যাগ করলে কি ইওএসবি পাব?</p>
+            <p class="text-gray-400 text-sm mt-1">না। ধারা ৮৪-এর অধীনে, ২ বছর সেবা সম্পূর্ণ করার আগে পদত্যাগ আপনাকে জমা হওয়া ইওএসবি-র ০% দেয়। একমাত্র ব্যতিক্রম যদি আপনার পদত্যাগ ধারা ৮১-এর গঠনমূলক সমাপ্তি (নিয়োগকর্তার ভঙ্গ) বা সুরক্ষিত মহিলা পদত্যাগ হিসেবে গণ্য হয় — তখন ১০০% প্রযোজ্য।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি শ্রম আইনে ধারা ৮৪ ও ধারা ৮৫-এর মধ্যে পার্থক্য কী?</p>
+            <p class="text-gray-400 text-sm mt-1">ধারা ৮৪ কর্মচারীর পদত্যাগে প্রযোজ্য এবং সেবা অনুযায়ী ইওএসবি ধাপভিত্তিক করে: ২ বছরের নিচে ০%, ২–৫ বছরে এক-তৃতীয়াংশ, ৫–১০ বছরে দুই-তৃতীয়াংশ, আর ১০ বছরের পরে ১০০%। ধারা ৮৫ প্রযোজ্য যখন নিয়োগকর্তা কারণ ছাড়া সমাপ্ত করে বা নির্দিষ্ট চুক্তি শেষ হয়, এবং যেকোনো সেবা দৈর্ঘ্যে সম্পূর্ণ ১০০% ইওএসবি নিশ্চিত করে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: আমার নিয়োগকর্তা কি ইওএসবি ছেড়ে দেওয়ার জন্য আমাকে স্বাক্ষর করাতে পারবেন?</p>
+            <p class="text-gray-400 text-sm mt-1">না। সৌদি শ্রম আইনের ধারা ৮ বলে আইনের দেওয়া অধিকার মওকুফকারী যেকোনো চুক্তি, শর্ত বা চুক্তি বিধান বাতিল, এমনকি কর্মচারী স্বেচ্ছায় স্বাক্ষর করলেও। আপনি চুক্তিভিত্তিকভাবে আপনার ইওএসবি ছাড়তে পারবেন না।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: এক-তৃতীয়াংশ বা দুই-তৃতীয়াংশ ইওএসবি ঠিক কীভাবে গণনা করা হয়?</p>
+            <p class="text-gray-400 text-sm mt-1">প্রথমে সম্পূর্ণ জমা হওয়া সুবিধা গণনা করুন: প্রথম ৫ বছরের জন্য প্রতি বছর অর্ধেক মাসের মৌলিক বেতন আর এরপর প্রতি বছর এক পূর্ণ মাসের মৌলিক বেতন, আংশিক বছরের জন্য আনুপাতিক। তারপর পদত্যাগ করলে ১/৩ (২–৫ বছর) বা ২/৩ (৫–১০ বছর) দিয়ে গুণ করুন। উদাহরণ: ৬,০০০ রিয়াল মৌলিক বেতন ৮ বছরে ৩৩,০০০ রিয়াল জমা করে; পদত্যাগ ৩৩,০০০ × ২/৩ = ২২,০০০ রিয়াল দেবে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: ইওএসবি গণনায় কি আবাসন ও পরিবহন ভাতা অন্তর্ভুক্ত?</p>
+            <p class="text-gray-400 text-sm mt-1">ডিফল্টভাবে, ইওএসবি শুধু মৌলিক বেতনের উপর ভিত্তি করে — ধারা ৮৪-এর মানসম্মত পাঠ অনুযায়ী আবাসন ও পরিবহন ভাতা আইনি গণনা থেকে বাদ। তবে, আপনার চাকরি চুক্তিতে স্পষ্টভাবে বলা থাকলে যে ভাতাগুলো ইওএসবি-র বেতন ভিত্তির অংশ, সেগুলো গণনা হয়। কম সংখ্যার উপর নির্ভর করার আগে আপনার চুক্তির ভাষা পর্যালোচনা করুন।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: সৌদি আরবে পদত্যাগে নোটিশ সময়কাল কত দিন?</p>
+            <p class="text-gray-400 text-sm mt-1">স্থায়ী (অসীম) চুক্তির জন্য পদত্যাগের আইনি ন্যূনতম নোটিশ ৩০ দিন, যদিও আপনার চুক্তি দীর্ঘ সময়কাল নির্ধারণ করতে পারে। নির্দিষ্ট মেয়াদের চুক্তির জন্য, দীর্ঘ লিখিত নোটিশ সম্মত না হলে পদত্যাগ চুক্তির মেয়াদ শেষে কার্যকর হয়। লিখিতভাবে নোটিশ দিন — মৌখিক পদত্যাগ অননুমোদিত অনুপস্থিতি হিসেবে ভুল শ্রেণিবদ্ধ হতে পারে।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: নিয়োগকর্তা সেবা-সমাপ্তি সুবিধা দিতে অস্বীকার করলে কী করব?</p>
+            <p class="text-gray-400 text-sm mt-1">দেশে থাকাকালীন বা প্রস্থানের পরে MHRSD (কিউয়া বা শ্রম অফিস) দিয়ে অভিযোগ দায়ের করুন, তারপর সমঝোতা ব্যর্থ হলে লেবার কোর্টে বাড়ান। প্রমাণ হিসেবে চুক্তি, বেতন স্লিপ, পদত্যাগপত্র ও চূড়ান্ত নিষ্পত্তি বিবৃতি রাখুন। নথিভুক্ত দাবি মৌখিকের চেয়ে অনেক বেশি সফল হয়।</p>
+          </div>
+          <div class="bg-[#0A0E1A] p-4 rounded-lg">
+            <p class="text-white font-medium">প্র: নতুন নিয়োগকর্তার কাছে স্পনসরশিপ স্থানান্তর করলে (নাকল কাফালা) আমার ইওএসবি-র কী হবে?</p>
+            <p class="text-gray-400 text-sm mt-1">পুরনো নিয়োগকর্তার কাছে আপনার সেবা সহজভাবে অদৃশ্য হয় না। স্পনসরশিপ স্থানান্তরে, পুরনো নিয়োগকর্তাকে স্থানান্তরের তারিখ পর্যন্ত আপনার ইওএসবি মিটিয়ে দিতে হয়, যা আপনি তাদের সেবা করেছেন সেই বছরের ক্ষেত্রে প্রযোজ্য ধাপ অনুযায়ী গণনা করা হয়। তারপর নতুন নিয়োগকর্তার কাছে আপনার সেবা সময়কাল শূন্য থেকে পুনরায় শুরু হয় — অর্থাৎ স্থানান্তর আপনার ঘড়িকে ১০ বছরের পূর্ণ-সুবিধা ধাপের দিকে রিসেট করে।</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass p-6 rounded-xl mb-8">
+        <h2>কিছুতে স্বাক্ষরের আগে আপনার সংখ্যা জানুন</h2>
+        <p>
+          সৌদি শ্রম আইনে পদত্যাগপত্র দেওয়া নিরপেক্ষ কাজ নয় — এটি একটি আইনি ঘটনা যা স্থায়ীভাবে আপনার জমা হওয়া সুবিধার শতাংশ নির্ধারণ করে। এক ঝটকায় আপনাকে ১০০% থেকে এক-তৃতীয়াংশে নামানো সেই চিঠি এড়ানো, সময়মতো দেওয়া বা পুনর্গঠন করা যায় যদি আপনি আগে থেকেই ব্যবস্থা বুঝে নেন।
+        </p>
+        <p class="mt-4">
+          মনে রাখার সারমর্ম: <strong class="text-white">ধারা ৮৫ সবসময় সম্পূর্ণ দেয়।</strong> <strong class="text-white">ধারা ৮৪ দুই বছরের নিচে কিছুই দেয় না, ২–৫-এ এক-তৃতীয়াংশ, ৫–১০-এ দুই-তৃতীয়াংশ, আর দশের পরে সবকিছু।</strong> <strong class="text-white">ধারা ৮১ আপনার পদত্যাগকে সম্পূর্ণ পরিশোধে রূপান্তর করতে পারে।</strong> <strong class="text-white">ধারা ৮০ আপনার বরখাস্তকে শূন্য — আর ক্ষতিপূরণে রূপান্তর করতে পারে।</strong>
+        </p>
+        <p class="mt-4">
+          আপনার কষ্টার্জিত টাকা রক্ষা করুন। <a href="/eosb-calculator" class="text-desert-primary underline">SaudiToolHub ইওএসবি ক্যালকুলেটর</a> ব্যবহার করে ধারা ৮৪ বা ৮৫ ভিত্তিক আপনার সঠিক অধিকার তাৎক্ষণিকভাবে গণনা করুন, স্বাক্ষরের আগে চূড়ান্ত নিষ্পত্তি শিটের প্রতিটি সংখ্যা যাচাই করুন, আর স্বাধীন পর্যালোচনা ছাড়া কখনো মওকুফে স্বাক্ষর করবেন না।
+        </p>
+        <p class="mt-4">
+          চূড়ান্ত প্রস্থানের পরিকল্পনা করছেন? সৌদি আরবে চূড়ান্ত নিষ্পত্তির <a href="/guide/final-settlement-air-ticket-calculator-saudi-arabia-2026" class="text-desert-primary underline">লুকানো খরচ ও পদ্ধতি</a> সম্পর্কে আমাদের গাইডও পড়ুন।
+        </p>
+        <div class="not-prose glass p-6 rounded-xl mt-8 text-center">
+          <h3 class="text-white text-lg font-bold mb-2">এখনই আপনার সঠিক ইওএসবি গণনা করুন</h3>
+          <p class="text-gray-400 text-sm mb-4">ফ্রি — এক মিনিটে আপনার বেতন, সেবার বছর ও চলে যাওয়ার কারণ</p>
+          <a href="/eosb-calculator" class="text-desert-primary underline">ফ্রি ইওএসবি ক্যালকুলেটর ব্যবহার করুন</a>
+        </div>
+        <p class="text-gray-400 text-sm mt-6">
+          <strong>দাবিত্যাগ:</strong> এই গাইডটি সৌদি শ্রম আইনের ভিত্তিতে শুধুমাত্র তথ্যগত উদ্দেশ্যে। নিয়মাবলী পরিবর্তন সাপেক্ষে। সরকারি বিবাদের জন্য সর্বদা মানবসম্পদ ও সামাজিক উন্নয়ন মন্ত্রণালয় (MHRSD)-কে অনুসরণ করুন বা লাইসেন্সপ্রাপ্ত আইনি পেশাদারের পরামর্শ নিন।
+        </p>
+      </div>
+    `
+    }
+  },
 ]
