@@ -17,23 +17,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'SecBillCalculator' })
   const isDefault = locale === 'en'
+  const metaTitle = t.has('metaTitle') ? t('metaTitle') : `${t('toolName')} — Sauditoolhub`
   const alternates: Record<string, string> = {}
   for (const l of locales) {
     alternates[l] = l === 'en' ? `${baseUrl}/sec-bill-calculator` : `${baseUrl}/${l}/sec-bill-calculator`
   }
   return {
-    title: `${t('toolName')} — Sauditoolhub`,
+    title: metaTitle,
     description: t('description'),
     alternates: {
       canonical: isDefault ? `${baseUrl}/sec-bill-calculator` : `${baseUrl}/${locale}/sec-bill-calculator`,
       languages: alternates as Record<string, string>,
     },
     openGraph: {
-      title: `${t('toolName')} — Sauditoolhub`, description: t('description'),
+      title: metaTitle, description: t('description'),
       url: isDefault ? `${baseUrl}/sec-bill-calculator` : `${baseUrl}/${locale}/sec-bill-calculator`,
       siteName: 'Sauditoolhub', locale: locale === 'en' ? 'en_US' : locale === 'ar' ? 'ar_SA' : locale, type: 'website',
     },
-    twitter: { card: 'summary_large_image', title: `${t('toolName')} — Sauditoolhub`, description: t('description') },
+    twitter: { card: 'summary_large_image', title: metaTitle, description: t('description') },
     robots: { index: true, follow: true },
   }
 }

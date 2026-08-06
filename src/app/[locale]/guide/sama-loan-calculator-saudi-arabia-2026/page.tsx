@@ -19,25 +19,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const isTl = locale === 'tl'
   const isBn = locale === 'bn'
 
-  const title = isAr
-    ? 'الدليل الكامل لأهلية القرض الشخصي ونسبة العبء المالي في السعودية 2026 | Sauditoolhub'
+const title = isAr
+    ? 'حاسبة قروض ساما المجانية 2026 - تحقق من أهليتك الآن'
     : isUr
-    ? 'سعودی عرب میں پرسنل لون اہلیت اور ساما ڈی بی آر کا مکمل گائیڈ 2026 | Sauditoolhub'
+    ? 'مفت ساما لون کیلکولیٹر 2026 - اپنی اہلیت اب چیک کریں'
     : isTl
-    ? 'Kumpletong Gabay sa Personal Loan Eligibility at SAMA DBR Rules sa Saudi Arabia 2026 | Sauditoolhub'
+    ? 'Libreng SAMA Loan Calculator 2026 - I-check ang Eligibility Ngayon'
     : isBn
-    ? 'সৌদি আরবে ব্যক্তিগত ঋণের যোগ্যতা ও SAMA DBR নিয়ম সম্পূর্ণ গাইড 2026 | Sauditoolhub'
-    : 'Complete Guide to Personal Loan Eligibility & SAMA DBR Rules in Saudi Arabia 2026 | Sauditoolhub'
+    ? 'ফ্রি SAMA লোন ক্যালকুলেটর 2026 - এখনই আপনার যোগ্যতা দেখুন'
+    : 'Free SAMA Loan Calculator 2026: Check Eligibility Now'
 
   const description = isAr
-    ? 'دليل كامل لأهلية القروض الشخصية ونسبة العبء المالي في السعودية 2026. تعرف على قواعد البنك المركزي ساما، كيفية حساب الحد الأقصى للقرض، وتحسين فرص الموافقة.'
+    ? 'حاسبة قروض ساما المجانية في السعودية 2026. احسب الحد الأقصى لقرضك الشخصي وقسطك الشهري وتحقّق من أهليتك وفق قاعدة 33% فوراً.'
     : isUr
-    ? 'سعودی عرب میں پرسنل لون اور ساما ڈیٹ برڈن ریشو کا مکمل گائیڈ 2026۔ ساما قوانین، زیادہ سے زیادہ قرض کا حساب، اور منظوری کے امکانات بڑھانے کے طریقے۔'
+    ? 'سعودی عرب میں مفت ساما لون کیلکولیٹر 2026۔ اپنے پرسنل لون کی زیادہ سے زیادہ رقم اور اہلیت 33% DBR قاعدہ کے مطابق ابھی چیک کریں۔'
     : isTl
-    ? 'Kumpletong gabay sa personal loan eligibility at SAMA DBR rules sa Saudi Arabia 2026. Alamin ang SAMA regulations, kung paano kalkulahin ang maximum loan, at paano pagbutihin ang iyong pagkakataon na maaprubahan.'
+    ? 'Libreng SAMA loan calculator para sa Saudi Arabia 2026. Kalkulahin agad ang maximum loan, buwanang EMI, at i-check ang eligibility ayon sa 33% DBR rule.'
     : isBn
-    ? 'সৌদি আরবে ব্যক্তিগত ঋণের যোগ্যতা ও SAMA DBR নিয়মের সম্পূর্ণ গাইড ২০২৬। SAMA নিয়ম, সর্বোচ্চ ঋণ গণনা এবং অনুমোদনের সম্ভাবনা বাড়ানোর উপায়।'
-    : 'Complete guide to personal loan eligibility and SAMA Debt Burden Ratio rules in Saudi Arabia 2026. Learn how banks calculate your maximum loan amount, how the 33% DBR rule works, and strategies to improve your loan approval chances.'
+    ? 'সৌদি আরব ২০২৬-এর জন্য ফ্রি SAMA লোন ক্যালকুলেটর। 33% DBR নিয়ম অনুযায়ী এখনই আপনার সর্বোচ্চ লোন, মাসিক কিস্তি ও যোগ্যতা দেখুন।'
+    : 'Free SAMA loan calculator for Saudi Arabia 2026. Calculate your max personal loan, monthly EMI, and check eligibility under the 33% DBR rule instantly.'
 
   return {
     title,
@@ -444,7 +444,9 @@ function EnContent() {
         <Link href="/zakat-calculator" className="text-desert-primary font-bold underline">Zakat Calculator</Link>
         {' '}for Islamic wealth management and{' '}
         <Link href="/sip-calculator" className="text-desert-primary font-bold underline">SIP Calculator</Link>
-        {' '}for investment planning. Visit our{' '}
+        {' '}for investment planning. Balance your finances with our{' '}
+        <Link href="/sec-bill-calculator" className="text-desert-primary font-bold underline">SEC Bill Calculator</Link>
+        {' '}for monthly electricity budgeting. Visit our{' '}
         <Link href="/blog" className="text-desert-primary font-bold underline">Blog</Link>
         {' '}for more personal finance guides.
       </p>
@@ -650,6 +652,8 @@ function ArContent() {
         <Link href="/zakat-calculator" className="text-desert-primary font-bold underline">حاسبة الزكاة</Link>
         {' '}و{' '}
         <Link href="/sip-calculator" className="text-desert-primary font-bold underline">حاسبة الاستثمار</Link>
+        {' '}ولتخطيط ميزانية الكهرباء الشهرية استخدم{' '}
+        <Link href="/sec-bill-calculator" className="text-desert-primary font-bold underline">حاسبة فاتورة الكهرباء</Link>
         . زوروا{' '}
         <Link href="/blog" className="text-desert-primary font-bold underline">المدونة</Link>.
       </p>

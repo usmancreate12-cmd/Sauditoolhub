@@ -2131,7 +2131,8 @@
   },
   "SecBillCalculator": {
     "toolName": "SEC Bill Estimator — Saudi Electricity Company",
-    "description": "Tantyahin ang iyong buwanang Saudi Electricity Company (SEC) bill batay sa tiered consumption rates na may 15% VAT. Sinusuportahan ang residential, commercial, agricultural, industrial, at government account types.",
+    "metaTitle": "Libreng SEC Bill Calculator 2026: I-check Ngayon",
+    "description": "Libreng SEC electricity bill calculator para sa Saudi Arabia 2026. Tantyahin agad ang monthly kWh cost na may tiered rates at 15% VAT.",
     "trustBadge": "100% Libre at Pribado — Walang Data na Iniimbak",
     "form": {
       "title": "Detalye ng Konsumo ng Elektrisidad",

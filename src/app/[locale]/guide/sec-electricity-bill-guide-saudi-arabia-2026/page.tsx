@@ -4,26 +4,37 @@ import { GlassCard } from '@/components/GlassCard'
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params
+  const isDefault = locale === 'en'
   const base = '/guide/sec-electricity-bill-guide-saudi-arabia-2026'
-  const languages: Record<string, string> = {
-    en: 'The Complete Guide to SEC Electricity Bills & Tariff Rates in Saudi Arabia 2026',
-    ar: 'الدليل الشامل لفاتورة الكهرباء وتعريفة الشركة السعودية للكهرباء 2026',
-    ur: 'SEC بجلی کے بل اور ٹیرف ریٹس کا مکمل گائیڈ سعودی عرب 2026',
-    tl: 'Gabay sa SEC Electricity Bill at Tariff Rates sa Saudi Arabia 2026',
-    bn: 'সৌদি আরবে SEC বিদ্যুৎ বিল ও ট্যারিফ হারের সম্পূর্ণ গাইড 2026',
+  const baseUrl = 'https://sauditoolhub.com'
+  const titles: Record<string, string> = {
+    en: 'Free SEC Electricity Bill Calculator 2026: Check Now',
+    ar: 'حاسبة فاتورة الكهرباء المجانية 2026 - تحقق الآن',
+    ur: 'مفت SEC بجلی بل کیلکولیٹر 2026 - ابھی چیک کریں',
+    tl: 'Libreng SEC Electricity Bill Calculator 2026 - I-check Ngayon',
+    bn: 'ফ্রি SEC বিদ্যুৎ বিল ক্যালকুলেটর 2026 - এখনই দেখুন',
   }
-  const title = languages[locale] || languages.en
+  const descriptions: Record<string, string> = {
+    en: 'Free SEC electricity bill guide for Saudi Arabia 2026. Understand tariff tiers, calculate your bill instantly, and cut summer energy costs. Check now.',
+    ar: 'دليل مجاني لفاتورة الكهرباء في السعودية 2026. افهم شرائح التعريفة، احسب فاتورتك فوراً، وخفّض تكاليف الطاقة الصيفية. تحقق الآن.',
+    ur: 'سعودی عرب میں مفت SEC بجلی بل گائیڈ 2026۔ ٹیرف درجے سمجھیں، اپنے بل کا فوری حساب لگائیں، اور گرمیوں کے اخراجات کم کریں۔',
+    tl: 'Libreng gabay sa SEC electricity bill para sa Saudi Arabia 2026. Unawain ang tariff tiers, kalkulahin agad ang bill, at bawasan ang summer costs.',
+    bn: 'সৌদি আরব ২০২৬-এর জন্য ফ্রি SEC বিদ্যুৎ বিল গাইড। ট্যারিফ টিয়ার বুঝুন, সাথে সাথে বিল হিসাব করুন এবং গ্রীষ্মের খরচ কমান।',
+  }
+  const title = titles[locale] || titles.en
+  const description = descriptions[locale] || descriptions.en
+  const canonical = isDefault ? `${baseUrl}${base}` : `${baseUrl}/${locale}${base}`
   return {
     title,
-    description: languages[locale] || languages.en,
+    description,
     alternates: {
-      canonical: `https://sauditoolhub.com${base}`,
+      canonical,
       languages: {
-        en: `https://sauditoolhub.com/en${base}`,
-        ar: `https://sauditoolhub.com/ar${base}`,
-        ur: `https://sauditoolhub.com/ur${base}`,
-        tl: `https://sauditoolhub.com/tl${base}`,
-        bn: `https://sauditoolhub.com/bn${base}`,
+        en: `${baseUrl}${base}`,
+        ar: `${baseUrl}/ar${base}`,
+        ur: `${baseUrl}/ur${base}`,
+        tl: `${baseUrl}/tl${base}`,
+        bn: `${baseUrl}/bn${base}`,
       },
     },
   }
