@@ -6,25 +6,37 @@ type Props = { params: Promise<{ locale: string }> }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
+  const isDefault = locale === 'en'
   const base = '/guide/bill-splitter-shared-apartment-guide-saudi-arabia-2026'
+  const baseUrl = 'https://sauditoolhub.com'
   const titles: Record<string, string> = {
-    en: 'The Complete Guide to Splitting Rent & Utility Bills in Shared Apartments in Saudi Arabia 2026',
-    ar: 'الدليل الشامل لتقسيم الإيجار وفواتير الخدمات في الشقق المشتركة في السعودية 2026',
-    ur: 'سعودی عرب میں مشترکہ اپارٹمنٹس میں کرایہ اور بل تقسیم کرنے کا مکمل گائیڈ 2026',
-    tl: 'Gabay sa Paghahati ng Renta at Utility Bills sa Shared Apartments sa Saudi Arabia 2026',
-    bn: 'সৌদি আরবে শেয়ার্ড অ্যাপার্টমেন্টে ভাড়া ও ইউটিলিটি বিল ভাগ করার সম্পূর্ণ গাইড 2026',
+    en: 'Free Bill Splitter Calculator Saudi Arabia 2026',
+    ar: 'حاسبة تقسيم الفواتير المجانية 2026 - تحقق الآن',
+    ur: 'مفت بل سپلٹر کیلکولیٹر سعودی عرب 2026',
+    tl: 'Libreng Bill Splitter Calculator Saudi Arabia 2026',
+    bn: 'ফ্রি বিল স্প্লিটার ক্যালকুলেটর সৌদি আরব 2026',
   }
+  const descriptions: Record<string, string> = {
+    en: 'Free bill splitter guide for shared apartments in Saudi Arabia 2026. Split rent and utility bills fairly among roommates instantly. Check now.',
+    ar: 'دليل مجاني لتقسيم الفواتير في الشقق المشتركة في السعودية 2026. قسّم الإيجار وفواتير الخدمات بشكل عادل فوراً. تحقق الآن.',
+    ur: 'سعودی عرب 2026 میں مشترکہ اپارٹمنٹس کے لیے مفت بل سپلٹر گائیڈ۔ کرایہ اور یوٹیلیٹی بل ایک دوسرے میں منصفانہ طور پر تقسیم کریں۔',
+    tl: 'Libreng gabay sa bill splitter para sa shared apartments sa Saudi Arabia 2026. Hatiin agad ang renta at utility bills nang patas.',
+    bn: 'সৌদি আরবের শেয়ার্ড অ্যাপার্টমেন্টের জন্য ফ্রি বিল স্প্লিটার গাইড ২০২৬। এখনই ভাড়া ও ইউটিলিটি বিল ন্যায্যভাবে ভাগ করুন।',
+  }
+  const title = titles[locale] || titles.en
+  const description = descriptions[locale] || descriptions.en
+  const canonical = isDefault ? `${baseUrl}${base}` : `${baseUrl}/${locale}${base}`
   return {
-    title: titles[locale] || titles.en,
-    description: titles[locale] || titles.en,
+    title,
+    description,
     alternates: {
-      canonical: `https://sauditoolhub.com${base}`,
+      canonical,
       languages: {
-        en: `https://sauditoolhub.com/en${base}`,
-        ar: `https://sauditoolhub.com/ar${base}`,
-        ur: `https://sauditoolhub.com/ur${base}`,
-        tl: `https://sauditoolhub.com/tl${base}`,
-        bn: `https://sauditoolhub.com/bn${base}`,
+        en: `${baseUrl}${base}`,
+        ar: `${baseUrl}/ar${base}`,
+        ur: `${baseUrl}/ur${base}`,
+        tl: `${baseUrl}/tl${base}`,
+        bn: `${baseUrl}/bn${base}`,
       },
     },
   }

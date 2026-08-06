@@ -6,25 +6,37 @@ type Props = { params: Promise<{ locale: string }> }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
+  const isDefault = locale === 'en'
   const base = '/guide/ejar-deposit-rental-guide-saudi-arabia-2026'
+  const baseUrl = 'https://sauditoolhub.com'
   const titles: Record<string, string> = {
-    en: 'The Complete Guide to Ejar Contracts & Rental Deposit Refunds in Saudi Arabia 2026',
-    ar: 'الدليل الشامل لعقود الإيجار واسترداد التأمين في السعودية 2026',
-    ur: 'سعودی عرب میں ایجار کنٹریکٹس اور کرایہ ڈیپازٹ ریفنڈ کا مکمل گائیڈ 2026',
-    tl: 'Gabay sa Ejar Contracts at Pag-refund ng Rental Deposit sa Saudi Arabia 2026',
-    bn: 'সৌদি আরবে ইজার চুক্তি ও ভাড়া জমা ফেরতের সম্পূর্ণ গাইড 2026',
+    en: 'Free Ejar Deposit & Rental Guide Saudi Arabia 2026',
+    ar: 'دليل الإيجار والتأمين المجاني في السعودية 2026',
+    ur: 'مفت ایجار ڈیپازٹ گائیڈ سعودی عرب 2026',
+    tl: 'Libreng Ejar Deposit & Rental Guide Saudi Arabia 2026',
+    bn: 'ফ্রি ইজার ডিপোজিট গাইড সৌদি আরব 2026',
   }
+  const descriptions: Record<string, string> = {
+    en: 'Free Ejar contracts and rental deposit guide for Saudi Arabia 2026. Check deposit refund rules and your tenant rights instantly. Check now.',
+    ar: 'دليل مجاني لعقود الإيجار واسترداد التأمين في السعودية 2026. تحقق من قواعد استرداد التأمين وحقوقك كمستأجر فوراً.',
+    ur: 'سعودی عرب 2026 کے لیے مفت ایجار کنٹریکٹ اور کرایہ ڈیپازٹ گائیڈ۔ ڈیپازٹ ریفنڈ کے قواعد فوراً چیک کریں۔',
+    tl: 'Libreng gabay sa Ejar contracts at rental deposit para sa Saudi Arabia 2026. I-check agad ang deposit refund rules at tenant rights.',
+    bn: 'সৌদি আরব ২০২৬-এর জন্য ফ্রি ইজার চুক্তি ও ভাড়া জমা গাইড। এখনই জমা ফেরতের নিয়ম ও ভাড়াটে অধিকার দেখুন।',
+  }
+  const title = titles[locale] || titles.en
+  const description = descriptions[locale] || descriptions.en
+  const canonical = isDefault ? `${baseUrl}${base}` : `${baseUrl}/${locale}${base}`
   return {
-    title: titles[locale] || titles.en,
-    description: titles[locale] || titles.en,
+    title,
+    description,
     alternates: {
-      canonical: `https://sauditoolhub.com${base}`,
+      canonical,
       languages: {
-        en: `https://sauditoolhub.com/en${base}`,
-        ar: `https://sauditoolhub.com/ar${base}`,
-        ur: `https://sauditoolhub.com/ur${base}`,
-        tl: `https://sauditoolhub.com/tl${base}`,
-        bn: `https://sauditoolhub.com/bn${base}`,
+        en: `${baseUrl}${base}`,
+        ar: `${baseUrl}/ar${base}`,
+        ur: `${baseUrl}/ur${base}`,
+        tl: `${baseUrl}/tl${base}`,
+        bn: `${baseUrl}/bn${base}`,
       },
     },
   }

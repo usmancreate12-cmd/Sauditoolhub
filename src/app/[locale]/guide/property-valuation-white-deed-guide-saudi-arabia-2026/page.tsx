@@ -6,25 +6,37 @@ type Props = { params: Promise<{ locale: string }> }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
+  const isDefault = locale === 'en'
   const base = '/guide/property-valuation-white-deed-guide-saudi-arabia-2026'
+  const baseUrl = 'https://sauditoolhub.com'
   const titles: Record<string, string> = {
-    en: 'The Complete Guide to Property Valuation & White Deed (Sak Abyad) in Saudi Arabia 2026',
-    ar: 'الدليل الشامل لتقييم العقارات والصك الأبيض في السعودية 2026',
-    ur: 'سعودی عرب 2026 میں پراپرٹی ویلیوایشن اور وائٹ ڈیڈ (سفید دستاویز) کا مکمل گائیڈ',
-    tl: 'Gabay sa Property Valuation at White Deed (Sak Abyad) sa Saudi Arabia 2026',
-    bn: 'সৌদি আরব ২০২৬-এ সম্পত্তি মূল্যায়ন ও হোয়াইট ডিড (সক আবিয়াজ) গাইড',
+    en: 'Free Property Valuation Calculator Saudi Arabia 2026',
+    ar: 'حاسبة تقييم العقارات المجانية 2026 - تحقق الآن',
+    ur: 'مفت پراپرٹی ویلیوایشن کیلکولیٹر سعودی عرب 2026',
+    tl: 'Libreng Property Valuation Calculator Saudi Arabia 2026',
+    bn: 'ফ্রি সম্পত্তি মূল্যায়ন ক্যালকুলেটর সৌদি আরব 2026',
   }
+  const descriptions: Record<string, string> = {
+    en: 'Free property valuation guide for Saudi Arabia 2026. Estimate your property value and White Deed (Sak Abyad) market price instantly. Check now.',
+    ar: 'دليل مجاني لتقييم العقارات في السعودية 2026. قدّر قيمة عقارك وسعر السوق للصك الأبيض فوراً. تحقق الآن.',
+    ur: 'سعودی عرب 2026 کے لیے مفت پراپرٹی ویلیوایشن گائیڈ۔ اپنی پراپرٹی اور وائٹ ڈیڈ کی مارکیٹ قیمت کا فوری اندازہ لگائیں۔',
+    tl: 'Libreng property valuation guide para sa Saudi Arabia 2026. Tantyahin agad ang halaga ng iyong property at market price ng White Deed.',
+    bn: 'সৌদি আরব ২০২৬-এর জন্য ফ্রি সম্পত্তি মূল্যায়ন গাইড। এখনই আপনার সম্পত্তি ও হোয়াইট ডিডের বাজারদর অনুমান করুন।',
+  }
+  const title = titles[locale] || titles.en
+  const description = descriptions[locale] || descriptions.en
+  const canonical = isDefault ? `${baseUrl}${base}` : `${baseUrl}/${locale}${base}`
   return {
-    title: titles[locale] || titles.en,
-    description: titles[locale] || titles.en,
+    title,
+    description,
     alternates: {
-      canonical: `https://sauditoolhub.com${base}`,
+      canonical,
       languages: {
-        en: `https://sauditoolhub.com/en${base}`,
-        ar: `https://sauditoolhub.com/ar${base}`,
-        ur: `https://sauditoolhub.com/ur${base}`,
-        tl: `https://sauditoolhub.com/tl${base}`,
-        bn: `https://sauditoolhub.com/bn${base}`,
+        en: `${baseUrl}${base}`,
+        ar: `${baseUrl}/ar${base}`,
+        ur: `${baseUrl}/ur${base}`,
+        tl: `${baseUrl}/tl${base}`,
+        bn: `${baseUrl}/bn${base}`,
       },
     },
   }

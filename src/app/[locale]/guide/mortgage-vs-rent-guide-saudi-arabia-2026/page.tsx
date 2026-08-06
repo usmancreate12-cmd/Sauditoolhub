@@ -6,25 +6,37 @@ type Props = { params: Promise<{ locale: string }> }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
+  const isDefault = locale === 'en'
   const base = '/guide/mortgage-vs-rent-guide-saudi-arabia-2026'
+  const baseUrl = 'https://sauditoolhub.com'
   const titles: Record<string, string> = {
-    en: 'The Complete Guide to Mortgage vs. Renting: Making the Right Choice in Saudi Arabia 2026',
-    ar: 'الدليل الشامل للتمويل العقاري مقابل الإيجار: الاختيار الصحيح في السعودية 2026',
-    ur: 'سعودی عرب 2026 میں گھر خریدنا بمقابلہ کرایہ پر لینے کا مکمل گائیڈ',
-    tl: 'Gabay sa Mortgage vs. Pagrerenta: Paggawa ng Tamang Desisyon sa Saudi Arabia 2026',
-    bn: 'সৌদি আরব ২০২৬-এ মর্টগেজ বনাম ভাড়া: সঠিক পছন্দ করার সম্পূর্ণ গাইড',
+    en: 'Free Mortgage vs Rent Calculator Saudi Arabia 2026',
+    ar: 'حاسبة التمويل العقاري مقابل الإيجار المجانية 2026',
+    ur: 'مفت گھر خریدنا بمقابلہ کرایہ کیلکولیٹر سعودی عرب 2026',
+    tl: 'Libreng Mortgage vs Rent Calculator Saudi Arabia 2026',
+    bn: 'ফ্রি মর্টগেজ বনাম ভাড়া ক্যালকুলেটর সৌদি আরব 2026',
   }
+  const descriptions: Record<string, string> = {
+    en: 'Free mortgage vs rent calculator for Saudi Arabia 2026. Compare monthly payments and total costs instantly. Check now.',
+    ar: 'حاسبة مجانية للتمويل العقاري مقابل الإيجار في السعودية 2026. قارن الأقساط الشهرية والتكاليف الإجمالية فوراً. تحقق الآن.',
+    ur: 'سعودی عرب 2026 کے لیے مفت گھر بمقابلہ کرایہ کیلکولیٹر۔ ماہانہ اقساط اور کل اخراجات کا فوری موازنہ کریں۔',
+    tl: 'Libreng mortgage vs rent calculator para sa Saudi Arabia 2026. Ikumpara agad ang monthly payments at kabuuang gastos. I-check ngayon.',
+    bn: 'সৌদি আরব ২০২৬-এর জন্য ফ্রি মর্টগেজ বনাম ভাড়া ক্যালকুলেটর। এখনই মাসিক পেমেন্ট ও মোট খরচ তুলনা করুন।',
+  }
+  const title = titles[locale] || titles.en
+  const description = descriptions[locale] || descriptions.en
+  const canonical = isDefault ? `${baseUrl}${base}` : `${baseUrl}/${locale}${base}`
   return {
-    title: titles[locale] || titles.en,
-    description: titles[locale] || titles.en,
+    title,
+    description,
     alternates: {
-      canonical: `https://sauditoolhub.com${base}`,
+      canonical,
       languages: {
-        en: `https://sauditoolhub.com/en${base}`,
-        ar: `https://sauditoolhub.com/ar${base}`,
-        ur: `https://sauditoolhub.com/ur${base}`,
-        tl: `https://sauditoolhub.com/tl${base}`,
-        bn: `https://sauditoolhub.com/bn${base}`,
+        en: `${baseUrl}${base}`,
+        ar: `${baseUrl}/ar${base}`,
+        ur: `${baseUrl}/ur${base}`,
+        tl: `${baseUrl}/tl${base}`,
+        bn: `${baseUrl}/bn${base}`,
       },
     },
   }
